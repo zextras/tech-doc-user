@@ -1,0 +1,150 @@
+/*
+ * SPDX-FileCopyrightText: 2022 Zextras <https://www.zextras.com/>
+ *
+ * SPDX-License-Identifier: CC-BY-NC-SA-4.0
+ */
+
+/* This file contains CSS styles shared by all Zextras products - (C)
+   2021 Zextras */
+:root {
+    --zx-color-magma: #E51A1A;
+    --zx-color-carbon: #182126;
+    --zx-color-flame: #FD830B;
+    --zx-color-spark: #F4C64C;
+    --zx-color-ice: #CBDDE4;
+    --zx-color-pebble: #F5F5F5;
+    --zx-color-snow: #FFFFFF;
+    --zx-color-abyss: #00506D;;
+    --zx-color-card-footer: #E8E8E8;
+    --zx-color-card-header: #E8E8E8;
+    --pst-color-link-hover: var(--pst-color-link)
+}
+
+/* Custom roles */
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.bgreen {
+    color:green;
+    font-weight: 800;
+}
+
+.blue {
+   color: #2B73D2;
+}
+
+.topic {
+    width: 75%;
+    min-width: 200px;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 1px solid;
+    border-image: linear-gradient(to right,
+                        var(--zx-color-magma),
+                        var(--zx-color-flame)) 1;
+}
+
+
+/* Force Lato fonts on all document */
+.rst-content .toctree-wrapper>p.caption,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+legend {
+    margin-top:0;
+    font-weight:700;
+    font-family:Lato,proxima-nova,Helvetica Neue,Arial,sans-serif
+}
+
+button {
+  background-color: var(--zx-color-magma);
+  border: 1px solid #fff;
+  border-radius: 5px;
+  color: white;
+}
+
+/* Remove underlines from hyperlinks */
+a, std-ref, std-numref, doc, reference.external, reference.internal {
+    text-decoration: none;
+}
+
+/* Force underline and keep same color on hover */
+a:hover, std-ref:hover, std-numref:hover, doc:hover, reference.external:hover, reference.internal:hover {
+    color: var(--pst-color-link);
+    text-decoration: underline;
+}
+
+a:visited, std-ref:visited, std-numref:visited, doc:visited, reference.external:visited, reference.internal:visited {
+    color: var(--pst-color-link);
+    /* This doesn't seem to work - to be checked further */
+    /* text-decoration: underline; */
+}
+
+.irisfont {
+    font-family: "Roboto", Arial, sans-serif
+}
+
+/* Colors of "Back to top" button */
+#pst-back-to-top {
+    background-color: var(--zx-color-magma);
+    color: var(--zx-color-pebble);
+}
+
+#pst-back-to-top:hover {
+    background-color: #fff;
+    border: 1px solid var(--zx-color-magma);
+    border-radius: 5px;
+    color: var(--zx-color-magma)
+}
+
+.sd-badge {
+   font-size: .80em;
+}
+
+/* inline commands */
+.command {
+ font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,Courier,monospace;
+ font-size: 75%;
+ font-weight: 400;
+ padding: 2px 5px;
+ border: 1px solid #e1e4e5;
+}
+
+
+.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 300px
+}
+
+.sd-tab-set>label {
+    border: 1px solid;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+}
+
+.sd-tab-set {
+    border: 1px solid var(--zx-color-ice);
+    padding: 10px;
+}
+
+.version {
+    text-align: center;
+    font-weight: 700;
+    font-size: 120%
+}
+
+.rounded-pill {
+	border-radius: 0px !important;
+}

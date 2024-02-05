@@ -1,0 +1,70 @@
+.. products and other company "brandings"
+
+.. |ce|  replace:: Carbonio CE
+.. |carbonio|  replace:: Carbonio
+.. |suite| replace:: Zextras Suite
+.. |zx| replace:: Zextras
+.. |zose| replace:: Zimbra 9 OSE
+
+
+.. |file| replace:: |carbonio| Files
+.. |docs| replace:: |carbonio| Docs
+.. |team| replace:: |carbonio| Chats
+.. |auth| replace:: |carbonio| Auth
+.. |vs| replace:: |carbonio| VideoServer
+.. |backup| replace:: |carbonio| Backup
+.. |mesh| replace:: |carbonio| Mesh
+.. |sh| replace:: |carbonio| CLI
+.. |csh| replace:: Carbonio Shell
+.. |mobile| replace:: |carbonio| Mobile
+.. |pv| replace:: |carbonio| Preview
+.. |adminui| replace:: |carbonio| Admin Panel
+.. |monit| replace:: |carbonio| Monitoring
+.. |task| replace:: |carbonio| Tasks
+
+.. common replacements for all products
+
+.. |new| replace:: :bdg-primary:`NEW`
+.. |create| replace:: :bdg-primary:`CREATE`
+.. |search| replace:: :bdg-primary:`SEARCH`
+.. |reset| replace:: :bdg-primary-line:`RESET`
+.. |ex| replace:: :bdg-info-line:`Example`
+
+.. various acronyms
+
+.. |dav| replace:: :abbr:`DAV (Distributed Authoring and Versioning,
+   aka WebDAV)`
+
+.. |eas| replace:: :abbr:`EAS (Exchange ActiveSync)`
+.. |imap| replace:: :abbr:`IMAP (Internet Message Access Protocol)`
+.. |pop| replace:: :abbr:`POP3 (Post Office Protocol)`
+.. |smtp| replace:: :abbr:`SMTP (Simple Mail Transfer Protocol)`
+.. |mta| replace:: :abbr:`MTA (Message Transfer Agent)`
+.. |gui| replace:: :abbr:`GUI (Graphic User Interface)`
+.. |cos| replace:: :abbr:`COS (Class of Service)`
+.. |fqdn| replace:: :abbr:`FQDN (Fully Qualified Domain Name)` 
+
+.. additional roles for adding inline styles
+
+.. role:: bgreen
+.. role:: red
+.. role:: green
+.. role:: blue
+
+.. badges for variables in installation and other procedures
+
+.. |dbadmpwd| replace:: :bdg-secondary-line:`DB_ADM_PWD`
+.. |srv1ip| replace:: :bdg-secondary-line:`SRV1_IP`
+.. |srv2h| replace:: :bdg-secondary-line:`SRV2_hostname`
+.. |srv4ip| replace:: :bdg-secondary-line:`SRV4_IP`
+.. |meshsec| replace:: :bdg-secondary-line:`MESH_SECRET`
+.. |mtaip| replace:: :bdg-secondary-line:`MTA_IP`
+.. |vsip| replace:: :bdg-secondary-line:`VS_IP`
+.. |vspwd| replace:: :bdg-secondary-line:`VS_PWD`
+.. |ldappwd| replace:: :bdg-secondary-line:`LDAP_PWD`
+.. |nginxpwd| replace:: :bdg-secondary-line:`NGINX_PWD`
+.. |postfixpwd| replace:: :bdg-secondary-line:`POSTFIX_PWD`
+.. |amavispwd| replace:: :bdg-secondary-line:`AMAVIS_PWD`
+.. |leaderip| replace:: :bdg-secondary-line:`LEADER_IP`
+.. |srv6h| replace:: :bdg-secondary-line:`SRV6_hostname`
+.. |dsnode| replace:: :bdg-secondary-line:`SRV1`

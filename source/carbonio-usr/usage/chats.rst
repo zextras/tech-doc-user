@@ -1,0 +1,6 @@
+
+.. _chats-comp:
+
+Chats
+=====
+

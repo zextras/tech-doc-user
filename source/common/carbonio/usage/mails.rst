@@ -2,7 +2,7 @@
 ..
 .. SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
-The Mails module is where you store, create, and arrange new e-mails
+!The Mails module is where you store, create, and arrange new e-mails
 
 .. _mail-folders:
 

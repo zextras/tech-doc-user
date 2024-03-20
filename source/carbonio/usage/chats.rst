@@ -4,3 +4,4 @@
 Chats
 =====
 
+.. include:: /common/carbonio/usage/chats.rst

@@ -20,6 +20,7 @@
    calendar
    contacts
    chats
+   try
    files
    docs
    tasks

@@ -43,7 +43,8 @@ In the left-hand side column, all meetings are shown, divided into **Ongoing Mee
 
 Planned Meetings prove useful when scheduling meetings with colleagues: create a planned meeting, then attach the virtual room’s link to the calendar’s invitation.
 
-Video calls can be recorded, but require an additional package. Please refer to section Recording a Video Meeting for directions and more information on the functionality.
+Video calls can be recorded, but require an additional package. Please refer to section `Recording a Video Meeting 
+<https://docs.zextras.com/carbonio/html/admincli/videoserver.html#vs-record-meeting>`_ for directions and more information on the functionality.
 
 When joining a Virtual Room, a dialog window appears, which carries the name of the room and allows to choose and test the audio and video devices.
 

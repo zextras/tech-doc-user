@@ -8,7 +8,7 @@ address books appear on the column on the right of the component's
 list.  You can create new contact by using the |new| button and
 selecting `New Contact`; they will be stored under the `Contacts`
 section of the Contacts component. You can also choose under which
-address book the new contact is stored. Additionally, :ref:`mail-tags`
+address book the new contact is stored. Additionally, mail-tags
 can be added to any contacts.
 
 .. note:: Addresses of people to whom you send an e-mail are
@@ -33,8 +33,8 @@ If any colleague has shared an address book, you can click the
 provide the e-mail address. You will see all the address books shared
 by the user.
 
-You can search among contacts using the :ref:`search bar
-<global-search>`. You can then refine your search by clicking the
+You can search among contacts using the search bar.
+You can then refine your search by clicking the
 :bdg-primary:`ADVANCED FILTER` button. Here you can also choose to
 include shared address books in the search.
 

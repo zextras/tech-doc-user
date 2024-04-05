@@ -19,11 +19,6 @@ The content is organised in multiple parts:
 Introduction
   Useful and generic information about |product|.
   
-User Guides
-  Everyday's usage of |product|, including its use on the dedicated
-  mobile Apps
-  
-
 .. grid:: 1 2 2 3
    :gutter: 3
 
@@ -35,9 +30,44 @@ User Guides
       .. toctree::
          :maxdepth: 2
 
-         basics/general
+         get_started/toc
 
       .. toctree::
          :maxdepth: 2
 
-         usage/toc
+         email_manage/toc
+
+      .. toctree::
+         :maxdepth: 2
+
+         advanced_email/toc
+
+      .. toctree::
+         :maxdepth: 2
+
+         contacts/toc
+
+      .. toctree::
+         :maxdepth: 2
+
+         calendars/toc
+
+      .. toctree::
+         :maxdepth: 2
+
+         tasks/toc
+
+      .. toctree::
+         :maxdepth: 2
+
+         files/toc
+
+      .. toctree::
+         :maxdepth: 2
+
+         search/toc
+
+      .. toctree::
+         :maxdepth: 2
+
+         chats/toc

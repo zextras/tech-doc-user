@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023: ZEXTRAS
+# This file is distributed under the same license as the Zextras Carbonio package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Zextras Carbonio 24.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-17 12:03+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../contacts/toc.rst:7
+msgid "Working with Contacts"
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:5
+msgid "In the Contacts component you can keep track of all the people with whom you exchange e-mails and group them in address books. Existing address books appear on the column on the right of the component's list.  You can create new contact by using the |new| button and selecting `New Contact`; they will be stored under the `Contacts` section of the Contacts component. You can also choose under which address book the new contact is stored. Additionally, mail-tags can be added to any contacts."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:14
+msgid "Addresses of people to whom you send an e-mail are automatically added to the `Emailed Contacts`."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:17
+msgid "Deleted contacts land in the special `Trash` address book, which keeps them until you manually empty it. To do so, right-click the address book and select `Empty trash`."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:21
+msgid "A right-click on the address book allows to carry out a few action on it and its content: edit, share, empty, or delete it. Moreover, new address books can be created. For each contact, icons allow to carry out different actions: delete, move, or write an e-mail to the contact."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:27
+msgid "To move the contacts from one address book to another, you can also drag the contact and drop it on the destination address book."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:31
+msgid "If any colleague has shared an address book, you can click the :bdg-primary-line:`FIND SHARES` button under `Shared Address Book` and provide the e-mail address. You will see all the address books shared by the user."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:36
+msgid "You can search among contacts using the search bar. You can then refine your search by clicking the :bdg-primary:`ADVANCED FILTER` button. Here you can also choose to include shared address books in the search."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:42
+msgid "Configure a CardDav Client"
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:44
+msgid "Adding a |product| address book to your favourite CardDAV client is straightforward and requires only a few steps."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:47
+msgid "In this scenario, the user *john.smith@example.com* wants to import in Mozilla's Thunderbird an address book from on the domain *mail.example.com*. In the remainder, replace these values with suitable ones."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:52
+msgid "Step 1. New Address book"
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:54
+msgid "On your client, go to the Calendar and select **New Address Book**, providing the **Username** and the **Location**, which has format ``https://<domain>/dav/username``, so *https://mail.example.com/dav/john.smith@example.com*"
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:63
+msgid "Step 2. Insert credentials"
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:65
+msgid "Authenticate co |product| by inserting the username and password to access the address book."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:72
+msgid "Step 3. Select Address Books"
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:74
+msgid "You will be then presented a list, from which to choose the address books to import in the client."
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:81
+msgid "Other clients"
+msgstr ""
+
+#: ../../common/carbonio/usage/contacts.rst:83
+msgid "You are now done! The imported address books will show up in the list of your client."
+msgstr ""

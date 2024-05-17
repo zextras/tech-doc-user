@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023: ZEXTRAS
+# This file is distributed under the same license as the Zextras Carbonio package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Zextras Carbonio 24.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-17 12:03+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../get_started/toc.rst:7
+msgid "Getting Started"
+msgstr ""
+
+#: ../../get_started/toc.rst:9
+msgid "In this section, we are going to explore the essential steps for signing in to your Carbonio web client. Properly signing in is the first step towards accessing your emails and utilizing the various features offered by the platform. We will cover everything from accessing the webmail address to navigating through two-factor authentication (2FA) and using SAML functionality. Additionally, we will discuss how to sign out securely, recover forgotten passwords, change your login credentials, and other configurations."
+msgstr ""
+
+#: ../../get_started/toc.rst:12
+msgid "Signing In"
+msgstr ""
+
+#: ../../get_started/toc.rst:14
+msgid "To access your Carbonio web client, the initial step is to sign in. This can be easily accomplished by navigating to your company's webmail address via your browser. To do so, you can simply follow these steps:"
+msgstr ""
+
+#: ../../get_started/toc.rst:16
+msgid "**Open Your Browser**: Start by opening your web browser (like Chrome, Firefox, or Safari)."
+msgstr ""
+
+#: ../../get_started/toc.rst:17
+msgid "**Enter the Webmail Address**: In the address bar at the top of your browser, type in your company’s webmail address. If you are not sure what it is, ask your company’s system administrator for help."
+msgstr ""
+
+#: ../../get_started/toc.rst:18
+msgid "**Sign In**: Once you have reached the webmail page, you will see a login screen. Enter your username (usually in the format of name.surname@companyname.com) and your password."
+msgstr ""
+
+#: ../../get_started/toc.rst:19
+msgid "**Click LOGIN**: After entering your credentials, click the LOGIN button. This will verify your identity."
+msgstr ""
+
+#: ../../get_started/toc.rst:20
+msgid "**Access Your Webmail**: You will now be redirected to your webmail interface. From here, you can easily read and send emails."
+msgstr ""
+
+#: ../../get_started/toc.rst:21
+msgid "**Watch Out for 2FA**: Sometimes, you might encounter a second-factor authentication (2FA) prompt after your initial login. If that happens, follow the additional steps below to complete the login process."
+msgstr ""
+
+#: ../../get_started/toc.rst:29
+msgid "Using Two-factor Auth (2FA)"
+msgstr ""
+
+#: ../../get_started/toc.rst:31
+msgid "Two-factor Authentication (2FA) is a security feature activated by your system administrator. In this case, accessing your webmail requires a secondary layer of identification for enhanced security."
+msgstr ""
+
+#: ../../get_started/toc.rst:33
+msgid "When accessing your account for the first time, you will be prompted to create a **one-time password (OTP)**."
+msgstr ""
+
+#: ../../get_started/toc.rst:35
+msgid "First-Time Setup:"
+msgstr ""
+
+#: ../../get_started/toc.rst:37
+msgid "After creating the OTP, a QR code will appear on your screen"
+msgstr ""
+
+#: ../../get_started/toc.rst:38
+msgid "Install the Google Authenticator app on your mobile device"
+msgstr ""
+
+#: ../../get_started/toc.rst:40
+msgid "Scanning the QR Code:"
+msgstr ""
+
+#: ../../get_started/toc.rst:42
+msgid "Open the Google Authenticator app"
+msgstr ""
+
+#: ../../get_started/toc.rst:43
+msgid "Tap the + button in the bottom right corner"
+msgstr ""
+
+#: ../../get_started/toc.rst:44
+msgid "Use the app to scan the QR code displayed on your computer screen"
+msgstr ""
+
+#: ../../get_started/toc.rst:45
+msgid "This creates an instance in the app that generates a temporary code that updates every 30 seconds"
+msgstr ""
+
+#: ../../get_started/toc.rst:47
+msgid "Logging In with 2FA:"
+msgstr ""
+
+#: ../../get_started/toc.rst:49
+msgid "Next time you log in to your Carbonio webmail, follow these steps:"
+msgstr ""
+
+#: ../../get_started/toc.rst:51
+msgid "> Enter your **username** and **password**;"
+msgstr ""
+
+#: ../../get_started/toc.rst:53
+msgid "> If prompted for the second-factor authentication, open the Google Authenticator app;"
+msgstr ""
+
+#: ../../get_started/toc.rst:55
+msgid "> Insert the **code** from the app on your login page;"
+msgstr ""
+
+#: ../../get_started/toc.rst:57
+msgid "> Click **LOGIN**."
+msgstr ""
+
+#: ../../get_started/toc.rst:60
+msgid "Setting Up Two-factor Auth (2FA)"
+msgstr ""

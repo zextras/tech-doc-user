@@ -135,3 +135,6 @@ linkcheck_ignore = [ r'.*.example.com(:\d+)?/',
 # there are more options, but at the moment we don't need them. They
 # can be found at
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-the-linkcheck-builder
+language = 'en'
+locale_dirs = ['locale/']
+gettext_compact = False

@@ -38,12 +38,12 @@ When right-clicking an event in the calendar, different actions can be
 carried out: open it and show all participants and details, edit, copy
 or move it, and its original, plain text version, can be shown.
 
-Additionally, :ref:`mail-tags` can be added to any calendar event and
+Additionally, a mail-tags can be added to any calendar event and
 the event itself can be (tentatively) accepted or declined
 
 
 Searching for events is easy: insert a search string in the
-:ref:`quick search bar <create-new>` to retrieve a first batch of
+quick search bar to retrieve a first batch of
 results. By default, all matches in the past and future 30 days are
 shown. To broaden or restrict the search, click the
 :bdg-primary:`ADVANCED FILTER` bar and select the new start and end

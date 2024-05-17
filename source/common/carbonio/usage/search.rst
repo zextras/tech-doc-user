@@ -3,7 +3,7 @@
 .. SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 The Search module vastly improves the search capabilities of the
-:ref:`quick search <global-search>` top bar. Click the
+quick search top bar. Click the
 :bdg-primary-line:`ADVANCED FILTER` button to open a dialog that will
 help you refine the search criteria on all your e-mails.
 

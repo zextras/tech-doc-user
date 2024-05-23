@@ -8,12 +8,12 @@
 # Simple script to build all products at once
 
 # to wipe out the old build and write a fresh one, use
-# make -C source/carbonio clean gettext html
+# make -C source/$i clean gettext html
 
 locales=('de' 'en' 'it' 'fr')
 
 for locale in "${locales[@]}"; do
-  echo "Building $locale for carbonio"
+  echo "Building $locale for"
   LOCALE=$locale SPHINXOPTS="-D language=$locale" \
     make -C source/carbonio gettext html
 done

@@ -7,7 +7,7 @@
 #
 # Simple script to generate en locale
 
-BUILDDIR=locales \
+BUILDDIR=./locales \
   make -C source/carbonio gettext
 sphinx-intl update \
   --locale-dir source/carbonio/locales \

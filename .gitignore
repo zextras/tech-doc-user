@@ -16,6 +16,14 @@
 # Compiled Python bytecode
 *.py[cod]
 
+# Build dir
+build
+build/*
+
+# virtual env
+env
+env/*
+
 # Log files
 *.log
 
@@ -52,3 +60,12 @@ Thumbs.db
 *.wmv
 
 Dockerfile
+Jenkinsfile
+sphinx.po
+sphinx.pot
+bin/
+lib/
+.doctrees/
+pyvenv.cfg
+*.mo
+_sphinx_design_static/

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-23 17:59+0200\n"
-"PO-Revision-Date: 2024-05-24 13:23+0000\n"
+"PO-Revision-Date: 2024-05-24 13:30+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -45,6 +45,9 @@ msgstr ""
 #: ../../common/carbonio/usage/calendar.rst:21
 msgid "When an account is configured with multiple identities, it is possible to choose from which one to send the invitations: the e-mail's sender will then be automatically filled according the identity chosen."
 msgstr ""
+"Quando un account è configurato con più identità, è possibile scegliere da "
+"quale inviare gli inviti: il mittente dell'e-mail verrà quindi compilato "
+"automaticamente in base all'identità scelta."
 
 #: ../../common/carbonio/usage/calendar.rst:25
 msgid "Attendees, whose presence is either mandatory or optional, can be added by writing their e-mail address. If the attendee already is not available or has some overlapping appointment, its e-mail address will be coloured and a message will be shown. This improves and makes easier the creation of events."

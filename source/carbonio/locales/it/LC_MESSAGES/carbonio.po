@@ -8,25 +8,31 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-23 17:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-05-24 13:23+0000\n"
+"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: ../../advanced_email/toc.rst:7
 msgid "Advanced Email Management"
-msgstr ""
+msgstr "Gestione avanzata delle e-mail"
 
 #: ../../calendars/toc.rst:7
 msgid "Working with Calendars"
-msgstr ""
+msgstr "Lavorare con Calendari"
 
 #: ../../common/carbonio/usage/calendar.rst:5
 msgid "The calendar component allows to keep track of the appointments, meetings, and events you need to attend to and share them with your colleagues."
 msgstr ""
+"Il componente Calendari consente di tenere traccia degli appuntamenti, delle "
+"riunioni e degli eventi a cui si deve partecipare e di condividerli con i "
+"colleghi."
 
 #: ../../common/carbonio/usage/calendar.rst:8
 msgid "Beside using |new|, a new appointment can be created in other ways. The first one is with a click of the mouse on the desired date and time on the calendar. The only difference is in the start (and end) date and time: by using the button, they are set to the current date and time, by clicking the calendar they are taken from the clicked date and time."
@@ -62,7 +68,7 @@ msgstr ""
 
 #: ../../common/carbonio/usage/calendar.rst:54
 msgid "Shared Calendars"
-msgstr ""
+msgstr "Calendari Condivisi"
 
 #: ../../common/carbonio/usage/calendar.rst:56
 msgid "You can also search for calendars shared by your colleagues: click *Shared Calendars* in the left-hand side columns, then the :bdg-primary-line:`FIND SHARES` button. In the dialog that opens, enter the (partial) name of the colleague, then assign a colour, and finally click :bdg-primary:`ADD`."

@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-23 17:59+0200\n"
-"PO-Revision-Date: 2024-05-24 14:21+0000\n"
-"Last-Translator: Gianluca Boiano <gianluca.boiano@zextras.com>\n"
+"PO-Revision-Date: 2024-05-27 09:16+0000\n"
+"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -91,7 +91,7 @@ msgstr ""
 
 #: ../../common/carbonio/usage/calendar.rst:81
 msgid "Configure a CalDAV CLient"
-msgstr ""
+msgstr "Configura un client CalDAV"
 
 #: ../../common/carbonio/usage/calendar.rst:83
 msgid "Adding a |product| calendar to your favourite CalDAV client is straightforward and requires only a few steps. The procedure is almost identical on any client; in the box at the end of this section we mention which are the differences."

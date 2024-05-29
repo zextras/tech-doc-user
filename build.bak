@@ -14,7 +14,7 @@ locales=('en' 'it')
 
 for locale in "${locales[@]}"; do
   echo "Building $locale for"
-    sphinx-build -b html -D language=$locale source/carbonio build/user-guides/carbonio/it/html/
+  LOCALE=$locale SPHINXOPTS="-D language=$locale" \
     make -C source/carbonio gettext html
 done
 

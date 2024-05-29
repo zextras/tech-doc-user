@@ -40,7 +40,7 @@ pipeline {
 python3 -m venv .
 source bin/activate
 pip3 install -r requirements.txt
-python3 -m sphinx source/carbonio/ build/user-guides/carbonio/html
+build.sh
 '''
 
         stash name: 'build_done', includes: 'build/**'

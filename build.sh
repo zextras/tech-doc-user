@@ -15,7 +15,7 @@ locales=('en' 'it')
 for locale in "${locales[@]}"; do
   echo "Building $locale for"
   LOCALE=$locale SPHINXOPTS="-D language=$locale" \
-    make -C source/carbonio gettext html
+    make -C source/carbonio  html
 done
 
 echo""

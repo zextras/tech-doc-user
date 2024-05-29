@@ -118,10 +118,14 @@ html_theme_options = {
     },
     'footer_content_items': [ 'zx-copyright.html' ],
 }
-html_sidebars = { "**": [ 'navbar-logo.html', 'sbt-sidebar-nav.html',
+html_sidebars = { "**": [ 'navbar-logo.html', 'sbt-sidebar-nav.html', 'locales.html',
                           'home.html' ] }
 
-html_context = { 'hubhome' : '%s' %hubhome }
+html_context = {
+    'hubhome' : '%s' %hubhome,
+    'current_language': 'en',
+    'languages': [["en", "../../en/html"], ["it", "../../it/html"]]
+}
 
 # -- Options for linkcheck output --------------------------------------------
 

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-23 17:59+0200\n"
-"PO-Revision-Date: 2024-05-31 14:47+0000\n"
+"PO-Revision-Date: 2024-05-31 18:52+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../advanced_email/toc.rst:7
 msgid "Advanced Email Management"
-msgstr "Gestione avanzata delle e-mail"
+msgstr "Gestione Avanzata delle E-mail"
 
 #: ../../calendars/toc.rst:7
 msgid "Working with Calendars"

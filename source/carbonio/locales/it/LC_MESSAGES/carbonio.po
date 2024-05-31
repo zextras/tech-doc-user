@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-23 17:59+0200\n"
-"PO-Revision-Date: 2024-05-27 09:16+0000\n"
+"PO-Revision-Date: 2024-05-31 14:39+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: ../../chats/toc.rst:7
 msgid "Working with Chats"
-msgstr ""
+msgstr "Chat"
 
 #: ../../common/carbonio/usage/chats.rst:5
 msgid "Carbonio Chats is a component that provides corporate instant messaging features like text chats, 1-to-1 video calls, and videoconferencing."
@@ -272,7 +272,7 @@ msgstr ""
 
 #: ../../contacts/toc.rst:7
 msgid "Working with Contacts"
-msgstr ""
+msgstr "Contatti"
 
 #: ../../common/carbonio/usage/contacts.rst:5
 msgid "In the Contacts component you can keep track of all the people with whom you exchange e-mails and group them in address books. Existing address books appear on the column on the right of the component's list.  You can create new contact by using the |new| button and selecting `New Contact`; they will be stored under the `Contacts` section of the Contacts component. You can also choose under which address book the new contact is stored. Additionally, mail-tags can be added to any contacts."
@@ -344,12 +344,12 @@ msgstr ""
 
 #: ../../email_manage/toc.rst:7
 msgid "Email managament"
-msgstr ""
+msgstr "Gestione delle email"
 
 #: ../../files/toc.rst:7
 #: ../../common/carbonio/usage/files.rst:18
 msgid "Working with Files"
-msgstr ""
+msgstr "Files"
 
 #: ../../common/carbonio/usage/files.rst:5
 msgid "Carbonio Files provides a file storage system with ability for sharing documents with colleagues, collaborative editing, and document versioning."
@@ -450,7 +450,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:7
 msgid "Getting Started"
-msgstr ""
+msgstr "Inizia ad usare Carbonio"
 
 #: ../../get_started/toc.rst:9
 msgid "In this section, we are going to explore the essential steps for signing in to your Carbonio web client. Properly signing in is the first step towards accessing your emails and utilizing the various features offered by the platform. We will cover everything from accessing the webmail address to navigating through two-factor authentication (2FA) and using SAML functionality. Additionally, we will discuss how to sign out securely, recover forgotten passwords, change your login credentials, and other configurations."
@@ -582,7 +582,7 @@ msgstr ""
 
 #: ../../search/toc.rst:7
 msgid "Working with Search"
-msgstr ""
+msgstr "Search"
 
 #: ../../common/carbonio/usage/search.rst:5
 msgid "The Search module vastly improves the search capabilities of the quick search top bar. Click the :bdg-primary-line:`ADVANCED FILTER` button to open a dialog that will help you refine the search criteria on all your e-mails."
@@ -602,7 +602,7 @@ msgstr ""
 
 #: ../../tasks/toc.rst:7
 msgid "Working with Tasks"
-msgstr ""
+msgstr "Impegni"
 
 #: ../../common/carbonio/usage/tasks.rst:1
 msgid "|task| is the component that allows to create simple entries to keep track of your activities."

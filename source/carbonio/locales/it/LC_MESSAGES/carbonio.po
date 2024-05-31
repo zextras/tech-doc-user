@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-23 17:59+0200\n"
-"PO-Revision-Date: 2024-05-31 14:39+0000\n"
+"PO-Revision-Date: 2024-05-31 14:47+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -567,18 +567,20 @@ msgstr "Benvenuti nella Documentazione Utente di |carbonio|!"
 #: ../../index.rst:14
 msgid "This is the documentation of |carbonio|, the fully private digital workplace."
 msgstr ""
+"Questa è la documentazione di |carbonio|, lo spazio di lavoro digitale "
+"completamente privato."
 
 #: ../../index.rst:17
 msgid "The content is organised in multiple parts:"
-msgstr ""
+msgstr "Il contenuto è organizzato in più parti:"
 
 #: ../../index.rst:20
 msgid "Introduction"
-msgstr ""
+msgstr "Introduzione"
 
 #: ../../index.rst:20
 msgid "Useful and generic information about |product|."
-msgstr ""
+msgstr "Informazioni di base su |product|."
 
 #: ../../search/toc.rst:7
 msgid "Working with Search"

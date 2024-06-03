@@ -3,7 +3,7 @@
     <dl>
         <dt>{{ _('Languages') }}</dt>
         {% for the_language, url in languages %}
-        <dd><a href="{{ url }}/index.html">{{ the_language }}</a></dd>
+        <dd><a href="{{ url }}>{{ the_language }}</a></dd>
         {% endfor %}
     </dl>
     {% endif %}

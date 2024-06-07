@@ -527,8 +527,8 @@ msgid ""
 "your client."
 msgstr ""
 
-#: ../../email_manage/toc.rst:7
-msgid "Email managament"
+#: ../../browsing_emails/toc.rst:7
+msgid "Browsing Emails"
 msgstr ""
 
 #: ../../common/carbonio/usage/files.rst:18 ../../files/toc.rst:7

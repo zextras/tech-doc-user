@@ -342,8 +342,8 @@ msgstr ""
 msgid "You are now done! The imported address books will show up in the list of your client."
 msgstr ""
 
-#: ../../email_manage/toc.rst:7
-msgid "Email managament"
+#: ../../browsing_emails/toc.rst:7
+msgid "Browsing Emails"
 msgstr "Gestione delle email"
 
 #: ../../files/toc.rst:7

@@ -35,7 +35,7 @@ Introduction
       .. toctree::
          :maxdepth: 2
 
-         email_manage/toc
+         browsing_emails/toc
 
       .. toctree::
          :maxdepth: 2

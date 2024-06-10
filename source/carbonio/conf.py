@@ -27,13 +27,13 @@ from pygit2 import Repository
 branch = Repository('.').head.shorthand
 
 if branch == 'devel' :
-    ughome = 'https://zextrasdoc-devel.s3-website-eu-west-1.amazonaws.com/'
+    ughome = 'https://zextrasdoc-devel.s3-website-eu-west-1.amazonaws.com/user-guides'
 elif branch == 'pre_release':
-    ughome = 'https://zextrasdoc.s3-website-eu-west-1.amazonaws.com/'
+    ughome = 'https://zextrasdoc.s3-website-eu-west-1.amazonaws.com/user-guides'
 elif branch == 'master':
-    ughome = 'https://docs.zextras.com/'
+    ughome = 'https://docs.zextras.com/user-guides'
 else:
-    ughome= 'http://localhost:8020/'
+    ughome= 'http://localhost:8020/user-guides'
 
 hubhome = 'https://docs.zextras.com/landing/zextras_documentation.html'
 
@@ -129,10 +129,10 @@ html_sidebars = { "**": [ 'navbar-logo.html', 'sbt-sidebar-nav.html',
 html_context = { 'hubhome' : '%s' %hubhome,
                  'ughome' : '%s' %ughome,
                  'current_language': 'en',
-                 'localpath': 'user-guide',
+                 'localpath': 'carbonio',
                  'languages': [
                      ['en', '/en/html'],
-                    ['it', '/it/html']
+                     ['it', '/it/html']
                  ]
                 }
 

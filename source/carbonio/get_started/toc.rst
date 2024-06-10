@@ -274,7 +274,7 @@ To change your Carbonio web client language, follow these steps:
 Accessing Multiple Accounts
 ===========================
 
-On the Carbonio web client, you have access to multiple accounts. Let's say you have your personal account, as well as two additional accounts created for HR tasks and communications with your colleagues under the name “hr@demo.zextras.io”, and another one named “info@ demo.zextras.io” for external communications of the company. **Only your system administrator can add these accounts and grant you access** to manage them via your main account.
+On the Carbonio web client, you have access to multiple accounts. Let's say you have your personal account, as well as two additional accounts created for HR tasks and communications with your colleagues under the name “hr@example.com”, and another one named “info@example.com” for external communications of the company. **Only your system administrator can add these accounts and grant you access** to manage them via your main account.
 
     .. image:: /img/usage/inbox-multiple-accounts.png
             :align: center

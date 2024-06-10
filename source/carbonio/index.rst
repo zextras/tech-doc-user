@@ -40,7 +40,7 @@ Introduction
       .. toctree::
          :maxdepth: 2
 
-         advanced_email/toc
+         composing_emails/toc
 
       .. toctree::
          :maxdepth: 2

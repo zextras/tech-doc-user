@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.5.5\n"
 
-#: ../../advanced_email/toc.rst:7
+#: ../../composing_emails/toc.rst:7
 msgid "Advanced Email Management"
 msgstr "Gestione Avanzata delle E-mail"
 

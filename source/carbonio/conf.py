@@ -136,8 +136,6 @@ html_context = { 'hubhome' : '%s' %hubhome,
                  ]
                 }
 
-html_extra_path = ['img/flag-it.png', 'img/flag-usuk.png']
-
 # -- Options for linkcheck output --------------------------------------------
 
 # list of URLs to ignore

@@ -18,19 +18,22 @@ import os
 import sys
 # sys.path.insert(0, os.path.abspath('.'))
 import time
+from pygit2 import Repository
 
-# This approach does not currently work with Docker/Jenkins, so we set only the main doc hub for now
+# Add the correct URLs for each stage of release, which are needed to
+# correctly implement the language switcher. The last one is your local
+# web server, for testing purposes, so set it to your own preferences.
 
-# import git
+branch = Repository('.').head.shorthand
 
-# # -- Get current branch and set hub's home page accordingly ------------------
-# repo = git.Repo(search_parent_directories=True)
-# branch = repo.active_branch
-
-# if branch.name == 'pre_release' :
-#     hubhome = 'http://zextrasdoc.s3-website-eu-west-1.amazonaws.com/landing/zextras_documentation.html'
-# else :
-#     hubhome = 'https://docs.zextras.com/landing/zextras_documentation.html'
+if branch == 'devel' :
+    ughome = 'https://zextrasdoc-devel.s3-website-eu-west-1.amazonaws.com/'
+elif branch == 'pre_release':
+    ughome = 'https://zextrasdoc.s3-website-eu-west-1.amazonaws.com/'
+elif branch == 'master':
+    ughome = 'https://docs.zextras.com/'
+else:
+    ughome= 'http://localhost:8020/'
 
 hubhome = 'https://docs.zextras.com/landing/zextras_documentation.html'
 
@@ -101,7 +104,7 @@ html_show_sourcelink = False
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_css_files = [ 'css/carbonio.css' ]
-html_js_files = [ 'js/matomo.js' ]
+#html_js_files = [ 'js/matomo.js' ]
 html_favicon = 'img/favicon.ico'
 html_title = project + ' Documentation'
 templates_path = [ 'common/templates' ]
@@ -118,14 +121,22 @@ html_theme_options = {
     },
     'footer_content_items': [ 'zx-copyright.html' ],
 }
-html_sidebars = { "**": [ 'navbar-logo.html', 'sbt-sidebar-nav.html', 'locales.html',
-                          'home.html' ] }
+html_sidebars = { "**": [ 'navbar-logo.html', 'sbt-sidebar-nav.html',
+                          'locales.html', 'home.html' ] }
 
-html_context = {
-    'hubhome' : '%s' %hubhome,
-    'current_language': 'en',
-    'languages': [["en", "../../en/html"], ["it", "../../it/html"]]
-}
+# Exporting variables to be available in templates
+
+html_context = { 'hubhome' : '%s' %hubhome,
+                 'ughome' : '%s' %ughome,
+                 'current_language': 'en',
+                 'localpath': 'user-guide',
+                 'languages': [
+                     ['en', '/en/html'],
+                    ['it', '/it/html']
+                 ]
+                }
+
+html_extra_path = ['img/flag-it.png', 'img/flag-usuk.png']
 
 # -- Options for linkcheck output --------------------------------------------
 

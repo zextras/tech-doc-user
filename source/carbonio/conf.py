@@ -124,7 +124,7 @@ html_sidebars = { "**": [ 'navbar-logo.html', 'sbt-sidebar-nav.html', 'locales.h
 html_context = {
     'hubhome' : '%s' %hubhome,
     'current_language': 'en',
-    'languages': [["en", "../../en/html"], ["it", "../../it/html"]]
+    'languages': [["en", "/user-guides/carbonio/en/html/"], ["it", "/user-guides/carbonio/it/html/"]]
 }
 
 # -- Options for linkcheck output --------------------------------------------

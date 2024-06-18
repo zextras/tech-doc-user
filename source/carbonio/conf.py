@@ -20,22 +20,14 @@ import sys
 import time
 from pygit2 import Repository
 
-# Add the correct URLs for each stage of release, which are needed to
-# correctly implement the language switcher. The last one is your local
-# web server, for testing purposes, so set it to your own preferences.
 
-branch = Repository('.').head.shorthand
+# Define the languages you want to support
+# Adatta questa lista alle lingue che desideri supportare
+locales = ['en', 'it']
 
-if branch == 'devel' :
-    ughome = 'https://zextrasdoc-devel.s3-website-eu-west-1.amazonaws.com/user-guides'
-elif branch == 'pre_release':
-    ughome = 'https://zextrasdoc.s3-website-eu-west-1.amazonaws.com/user-guides'
-elif branch == 'master':
-    ughome = 'https://docs.zextras.com/user-guides'
-else:
-    ughome= 'http://localhost:8020/user-guides'
+# Path to your locale directories
+locale_dirs = ['locales/']
 
-hubhome = 'https://docs.zextras.com/landing/zextras_documentation.html'
 
 # -- Get current year --------------------------------------------------------
 current_year = time.strftime('%Y')
@@ -56,8 +48,8 @@ prev = '24.3.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [ 'sphinx_design', 'sphinx_copybutton',
-               'sphinxcontrib.email' ]
+extensions = ['sphinx_design', 'sphinx_copybutton',
+              'sphinxcontrib.email']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -65,19 +57,19 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = [ '_includes', 'cli', 'glossary.rst',
-                     'common/carbonio/adminpanel',
-                     'common/carbonio/usage',
-                     'common/carbonio/mesh',
-                     'common/carbonio/web-access.rst',
-                     'admincli/administration/delegatedadmin.rst' ]
+exclude_patterns = ['_includes', 'cli', 'glossary.rst',
+                    'common/carbonio/adminpanel',
+                    'common/carbonio/usage',
+                    'common/carbonio/mesh',
+                    'common/carbonio/web-access.rst',
+                    'admincli/administration/delegatedadmin.rst']
 
 rst_prolog = """
 
 .. |product| replace:: Carbonio
 .. |storage| replace:: Carbonio Advanced
 .. |prev| replace:: %s
-""" %prev + open("replace.txt").read()
+""" % prev + open("replace.txt").read()
 
 # -- Configuration of extensions ---------------------------------------------
 
@@ -103,11 +95,11 @@ html_show_sourcelink = False
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-html_css_files = [ 'css/carbonio.css' ]
-#html_js_files = [ 'js/matomo.js' ]
+html_css_files = ['css/carbonio.css']
+# html_js_files = [ 'js/matomo.js' ]
 html_favicon = 'img/favicon.ico'
 html_title = project + ' Documentation'
-templates_path = [ 'common/templates' ]
+templates_path = ['common/templates']
 html_theme_options = {
     'use_download_button': False,
     'repository_url': 'https://github.com/zextras/tech-doc/',
@@ -117,36 +109,42 @@ html_theme_options = {
     'logo': {
         'image_light': 'carbonio-black.svg',
         'image_dark': 'carbonio-white.svg',
-        'text': '%s' %release,
+        'text': '%s' % release,
     },
-    'footer_content_items': [ 'zx-copyright.html' ],
+    'footer_content_items': ['zx-copyright.html'],
 }
-html_sidebars = { "**": [ 'navbar-logo.html', 'sbt-sidebar-nav.html',
-                          'locales.html', 'home.html' ] }
+html_sidebars = {"**": ['navbar-logo.html', 'sbt-sidebar-nav.html',
+                        'locales.html', 'home.html']}
 
 # Exporting variables to be available in templates
 
-html_context = { 'hubhome' : '%s' %hubhome,
-                 'ughome' : '%s' %ughome,
-                 'current_language': 'en',
-                 'localpath': 'carbonio',
-                 'languages': [
-                     ['en', '/en/html'],
-                     ['it', '/it/html']
-                 ]
-                }
 
+languages = ['en', 'it']
+
+html_context = {
+    'languages': ['en', 'it'],
+    'localpath': 'docs',
+}
+
+
+def setup(app):
+    app.connect('html-page-context', add_pagename)
+
+
+def add_pagename(app, pagename, templatename, context, doctree):
+    context['pagename'] = pagename
 # -- Options for linkcheck output --------------------------------------------
 
+
 # list of URLs to ignore
-linkcheck_ignore = [ r'.*.example.com(:\d+)?/',
-                     'https://my-saml-provider.org/',
-                     'https://notifications.zextras.com/firebase/',
-                     r'https://mycompany.okta.com/.*',
-                     r'../../.*' ]
+linkcheck_ignore = [r'.*.example.com(:\d+)?/',
+                    'https://my-saml-provider.org/',
+                    'https://notifications.zextras.com/firebase/',
+                    r'https://mycompany.okta.com/.*',
+                    r'../../.*']
 
 # localization options
-locale_dirs = ['locales/']
+
 gettext_compact = "carbonio"
 
 # there are more options, but at the moment we don't need them. They

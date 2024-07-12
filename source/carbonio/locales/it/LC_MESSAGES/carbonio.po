@@ -23,6 +23,10 @@ msgstr ""
 msgid "Advanced Email Management"
 msgstr "Gestione Avanzata delle E-mail"
 
+#: ../../basic_email_management/toc.rst:7
+msgid "Basic Email Management"
+msgstr "Gestione Email di base"
+
 #: ../../calendars/toc.rst:7
 msgid "Working with Calendars"
 msgstr "Lavorare con Calendari"

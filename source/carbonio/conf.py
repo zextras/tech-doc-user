@@ -18,7 +18,6 @@ import os
 import sys
 # sys.path.insert(0, os.path.abspath('.'))
 import time
-from pygit2 import Repository
 
 
 # Define the languages you want to support
@@ -133,17 +132,7 @@ def setup(app):
 
 def add_pagename(app, pagename, templatename, context, doctree):
     context['pagename'] = pagename
-# -- Options for linkcheck output --------------------------------------------
 
-
-# list of URLs to ignore
-linkcheck_ignore = [r'.*.example.com(:\d+)?/',
-                    'https://my-saml-provider.org/',
-                    'https://notifications.zextras.com/firebase/',
-                    r'https://mycompany.okta.com/.*',
-                    r'../../.*']
-
-# localization options
 
 gettext_compact = "carbonio"
 

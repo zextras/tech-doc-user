@@ -20,6 +20,10 @@ msgstr ""
 msgid "Composing Emails"
 msgstr ""
 
+#: ../../basic_email_management/toc.rst:7
+msgid "Basic Email Management"
+msgstr ""
+
 #: ../../calendars/toc.rst:7
 msgid "Working with Calendars"
 msgstr ""

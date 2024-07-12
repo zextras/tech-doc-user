@@ -41,6 +41,11 @@ Introduction
          :maxdepth: 2
 
          composing_emails/toc
+      
+      .. toctree::
+         :maxdepth: 2
+
+         basic_email_management/toc
 
       .. toctree::
          :maxdepth: 2

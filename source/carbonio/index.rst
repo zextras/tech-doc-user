@@ -46,6 +46,11 @@ Introduction
          :maxdepth: 2
 
          basic_email_management/toc
+      
+      .. toctree::
+         :maxdepth: 2
+
+         advanced_email_management/toc
 
       .. toctree::
          :maxdepth: 2

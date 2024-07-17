@@ -35,6 +35,10 @@ msgstr "Gestione Avanzata dell'Email"
 msgid "Working with Calendars"
 msgstr "Lavorare con Calendari"
 
+#: ../../appointments/toc.rst:7
+msgid "Working with Appointments"
+msgstr "Fissare gli appuntamenti"
+
 #: ../../common/carbonio/usage/calendar.rst:5
 msgid "The calendar component allows to keep track of the appointments, meetings, and events you need to attend to and share them with your colleagues."
 msgstr ""

@@ -61,6 +61,11 @@ Introduction
          :maxdepth: 2
 
          calendars/toc
+      
+      .. toctree::
+         :maxdepth: 2
+
+         appointments/toc
 
       .. toctree::
          :maxdepth: 2

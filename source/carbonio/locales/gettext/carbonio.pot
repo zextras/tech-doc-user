@@ -32,6 +32,10 @@ msgstr ""
 msgid "Working with Calendars"
 msgstr ""
 
+#: ../../appointments/toc.rst:7
+msgid "Working with Appointments"
+msgstr ""
+
 #: ../../common/carbonio/usage/calendar.rst:5
 msgid "The calendar component allows to keep track of the appointments, meetings, and events you need to attend to and share them with your colleagues."
 msgstr ""

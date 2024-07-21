@@ -86,3 +86,8 @@ Introduction
          :maxdepth: 2
 
          chats/toc
+
+      .. toctree::
+         :maxdepth: 2
+
+         videomeetings/toc

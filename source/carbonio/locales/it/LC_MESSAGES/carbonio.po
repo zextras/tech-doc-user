@@ -20,8 +20,8 @@ msgstr ""
 "X-Generator: Weblate 5.5.5\n"
 
 #: ../../composing_emails/toc.rst:7
-msgid "Advanced Email Management"
-msgstr "Gestione Avanzata delle E-mail"
+msgid "Composing Emails"
+msgstr "Scrivere un'email"
 
 #: ../../basic_email_management/toc.rst:7
 msgid "Basic Email Management"

@@ -204,3 +204,15 @@ To delete a meeting room:
 #.	Click on DELETE ROOM.
 #.	Click **DELETE** to confirm.
 
+Adding Moderators to a Room
+===========================
+
+To Add a moderator in a meeting room:
+
+#.	Select the Chats feature from your left sidebar.
+#.	Select the Rooms tab.
+#.	Click on the desired room from the list to select it.
+#.	Click on ADD MODERATOR. A new window appears.
+#.	Begin typing the email address of the new moderator and select it from the suggested list.
+#.	Click ADD.
+

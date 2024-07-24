@@ -16,7 +16,6 @@
 #
 import os
 import sys
-# sys.path.insert(0, os.path.abspath('.'))
 import time
 
 
@@ -34,13 +33,12 @@ current_year = time.strftime('%Y')
 # -- Project information -----------------------------------------------------
 
 project = 'Zextras Carbonio'
-copyright = '2023: ZEXTRAS'
+copyright = '2024: ZEXTRAS'
 author = 'The Zextras Team'
 
 # The full version, including alpha/beta/rc tags
-release = '24.5.0'
+release = '24.9.0'
 version = release
-prev = '24.3.0'
 
 # -- General configuration ---------------------------------------------------
 
@@ -56,19 +54,13 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_includes', 'cli', 'glossary.rst',
-                    'common/carbonio/adminpanel',
-                    'common/carbonio/usage',
-                    'common/carbonio/mesh',
-                    'common/carbonio/web-access.rst',
-                    'admincli/administration/delegatedadmin.rst']
+exclude_patterns = []
 
 rst_prolog = """
-
+.. |carbonio|  replace:: Carbonio
 .. |product| replace:: Carbonio
 .. |storage| replace:: Carbonio Advanced
-.. |prev| replace:: %s
-""" % prev + open("replace.txt").read()
+"""
 
 # -- Configuration of extensions ---------------------------------------------
 
@@ -95,16 +87,13 @@ html_show_sourcelink = False
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_css_files = ['css/carbonio.css']
-# html_js_files = [ 'js/matomo.js' ]
+html_js_files = [ 'js/posthog.js' ]
 html_favicon = 'img/favicon.ico'
 html_title = project + ' Documentation'
-templates_path = ['common/templates']
 html_theme_options = {
     'use_download_button': False,
-    'repository_url': 'https://github.com/zextras/tech-doc/',
-    'repository_branch': 'master',
-    'use_repository_button': True,
-    'use_issues_button': True,
+    'use_repository_button': False,
+    'use_issues_button': False,
     'logo': {
         'image_light': 'carbonio-black.svg',
         'image_dark': 'carbonio-white.svg',
@@ -117,7 +106,6 @@ html_sidebars = {"**": ['navbar-logo.html', 'sbt-sidebar-nav.html',
 
 # Exporting variables to be available in templates
 
-
 languages = ['en', 'it']
 
 html_context = {
@@ -125,14 +113,11 @@ html_context = {
     'localpath': 'docs',
 }
 
-
 def setup(app):
     app.connect('html-page-context', add_pagename)
 
-
 def add_pagename(app, pagename, templatename, context, doctree):
     context['pagename'] = pagename
-
 
 gettext_compact = "carbonio"
 

@@ -371,14 +371,15 @@ To create a signature:
 #.	Utilize the rich text editor on the right side to compose your signature.
 #.	Click **SAVE** from the top-right corner.
 
-Anything composed in this section will automatically append to the end of your email as shown in the following example:
+Anything composed in this section will automatically append to the end of your email as shown in the following example::
+
   _____
   John Doe
   CEO
 
-  .. image:: /img/usage/signature.png
-              :align: center
-              :width: 100%
+.. image:: /img/usage/signature.png
+           :align: center
+           :width: 100%
 
 Editing Signatures
 ==================

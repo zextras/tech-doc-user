@@ -1,0 +1,17 @@
+<div class="rst-languages">
+  {% if languages|length >= 1 %}
+  <dl>
+    <dt>{{ _('Languages') }}</dt>
+    {% for lg in languages %} {# Remove the current language segment from the
+    path #} {% set test = pagename.replace('.html', '') %} {% for x in languages
+    %} {% set test = test.replace(x + '/', '') %} {% endfor %} {# Construct the
+    local URL #} {% if lg == 'en' %} {% set localurl = '/' +
+    'user-guides/carbonio' + '/' + lg + '/' + 'html' + '/' + test + '.html' %}
+    {% else %} {% set localurl = '/' + 'user-guides/carbonio' + '/' + lg + '/' +
+    'html' + '/' + test + '.html' %} {% endif %}
+    <dd><a id="lang-{{ lg }}" href="{{ localurl }}">{{ lg }}</a></dd>
+    {% endfor %}
+  </dl>
+  {% endif %}
+  <br />
+</div>

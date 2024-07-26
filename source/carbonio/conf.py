@@ -37,7 +37,7 @@ copyright = '2024: ZEXTRAS'
 author = 'The Zextras Team'
 
 # The full version, including alpha/beta/rc tags
-release = '24.9.0'
+release = '24.7.0'
 version = release
 
 # -- General configuration ---------------------------------------------------
@@ -87,7 +87,7 @@ html_show_sourcelink = False
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_css_files = ['css/carbonio.css']
-html_js_files = [ 'js/posthog.js' ]
+html_js_files = ['js/posthog.js']
 html_favicon = 'img/favicon.ico'
 html_title = project + ' Documentation'
 html_theme_options = {
@@ -113,11 +113,14 @@ html_context = {
     'localpath': 'docs',
 }
 
+
 def setup(app):
     app.connect('html-page-context', add_pagename)
 
+
 def add_pagename(app, pagename, templatename, context, doctree):
     context['pagename'] = pagename
+
 
 gettext_compact = "carbonio"
 

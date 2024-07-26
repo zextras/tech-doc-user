@@ -1,6 +1,0 @@
-
-.. _chats-comp:
-
-Chats
-=====
-

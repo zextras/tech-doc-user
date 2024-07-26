@@ -16,23 +16,16 @@
 #
 import os
 import sys
-# sys.path.insert(0, os.path.abspath('.'))
 import time
 
-# This approach does not currently work with Docker/Jenkins, so we set only the main doc hub for now
 
-# import git
+# Define the languages you want to support
+# Adatta questa lista alle lingue che desideri supportare
+locales = ['en', 'it']
 
-# # -- Get current branch and set hub's home page accordingly ------------------
-# repo = git.Repo(search_parent_directories=True)
-# branch = repo.active_branch
+# Path to your locale directories
+locale_dirs = ['locales/']
 
-# if branch.name == 'pre_release' :
-#     hubhome = 'http://zextrasdoc.s3-website-eu-west-1.amazonaws.com/landing/zextras_documentation.html'
-# else :
-#     hubhome = 'https://docs.zextras.com/landing/zextras_documentation.html'
-
-hubhome = 'https://docs.zextras.com/landing/zextras_documentation.html'
 
 # -- Get current year --------------------------------------------------------
 current_year = time.strftime('%Y')
@@ -40,21 +33,20 @@ current_year = time.strftime('%Y')
 # -- Project information -----------------------------------------------------
 
 project = 'Zextras Carbonio'
-copyright = '2023: ZEXTRAS'
+copyright = '2024: ZEXTRAS'
 author = 'The Zextras Team'
 
 # The full version, including alpha/beta/rc tags
-release = '24.1.0'
+release = '24.7.0'
 version = release
-prev = '24.1.0'
 
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [ 'sphinx_design', 'sphinx_copybutton',
-               'sphinxcontrib.email' ]
+extensions = ['sphinx_design', 'sphinx_copybutton',
+              'sphinxcontrib.email']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -62,19 +54,13 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = [ '_includes', 'cli', 'glossary.rst',
-                     'common/carbonio/adminpanel',
-                     'common/carbonio/usage',
-                     'common/carbonio/mesh',
-                     'common/carbonio/web-access.rst',
-                     'admincli/administration/delegatedadmin.rst' ]
+exclude_patterns = []
 
 rst_prolog = """
-
+.. |carbonio|  replace:: Carbonio
 .. |product| replace:: Carbonio
 .. |storage| replace:: Carbonio Advanced
-.. |prev| replace:: %s
-""" %prev + open("replace.txt").read()
+"""
 
 # -- Configuration of extensions ---------------------------------------------
 
@@ -100,37 +86,43 @@ html_show_sourcelink = False
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-html_css_files = [ 'css/carbonio.css' ]
-html_js_files = [ 'js/matomo.js' ]
+html_css_files = ['css/carbonio.css']
+html_js_files = ['js/posthog.js']
 html_favicon = 'img/favicon.ico'
 html_title = project + ' Documentation'
-templates_path = [ 'common/templates' ]
 html_theme_options = {
     'use_download_button': False,
-    'repository_url': 'https://github.com/zextras/tech-doc/',
-    'repository_branch': 'master',
-    'use_repository_button': True,
-    'use_issues_button': True,
+    'use_repository_button': False,
+    'use_issues_button': False,
     'logo': {
         'image_light': 'carbonio-black.svg',
         'image_dark': 'carbonio-white.svg',
-        'text': '%s' %release,
+        'text': '%s' % release,
     },
-    'footer_content_items': [ 'zx-copyright.html' ],
+    'footer_content_items': ['zx-copyright.html'],
 }
-html_sidebars = { "**": [ 'navbar-logo.html', 'sbt-sidebar-nav.html',
-                          'home.html' ] }
+html_sidebars = {"**": ['navbar-logo.html', 'sbt-sidebar-nav.html',
+                        'locales.html', 'home.html']}
 
-html_context = { 'hubhome' : '%s' %hubhome }
+# Exporting variables to be available in templates
 
-# -- Options for linkcheck output --------------------------------------------
+languages = ['en', 'it']
 
-# list of URLs to ignore
-linkcheck_ignore = [ r'.*.example.com(:\d+)?/',
-                     'https:\/\/my-saml-provider\.org\/',
-                     'https:\/\/notifications.zextras.com\/firebase\/',
-                     r'https://mycompany.okta.com/.*',
-                     r'../../.*' ]
+html_context = {
+    'languages': ['en', 'it'],
+    'localpath': 'docs',
+}
+
+
+def setup(app):
+    app.connect('html-page-context', add_pagename)
+
+
+def add_pagename(app, pagename, templatename, context, doctree):
+    context['pagename'] = pagename
+
+
+gettext_compact = "carbonio"
 
 # there are more options, but at the moment we don't need them. They
 # can be found at

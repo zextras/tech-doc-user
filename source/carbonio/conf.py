@@ -18,7 +18,7 @@ import os
 import sys
 import time
 
-
+hubhome = 'https://docs.zextras.com/landing/zextras_documentation.html'
 # Define the languages you want to support
 # Adatta questa lista alle lingue che desideri supportare
 locales = ['en', 'it']
@@ -127,3 +127,7 @@ gettext_compact = "carbonio"
 # there are more options, but at the moment we don't need them. They
 # can be found at
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-the-linkcheck-builder
+
+html_context = {
+    'hubhome': '%s' % hubhome,
+}

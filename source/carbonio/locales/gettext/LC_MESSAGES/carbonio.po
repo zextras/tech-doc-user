@@ -1,21 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2023: ZEXTRAS
+# Copyright (C) 2024: ZEXTRAS
 # This file is distributed under the same license as the Zextras Carbonio
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Zextras Carbonio 24.5.0\n"
+"Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-02 14:45+0200\n"
-"PO-Revision-Date: 2024-05-31 18:52+0000\n"
-"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
-"Language: it\n"
-"Language-Team: Italian "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: gettext\n"
+"Language-Team: gettext <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,7 +21,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:7
 msgid "Advanced Email Management"
-msgstr "Gestione Avanzata dell'Email"
+msgstr ""
 
 #: ../../advanced_email_management/toc.rst:9
 msgid ""
@@ -212,9 +210,8 @@ msgid "Your email will be automatically moved to your Junk Folder."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:73
-#, fuzzy
 msgid "Removing Spam Emails"
-msgstr "Gestione delle email"
+msgstr ""
 
 #: ../../advanced_email_management/toc.rst:75
 msgid ""
@@ -1031,9 +1028,8 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:385
-#, fuzzy
 msgid "Editing Signatures"
-msgstr "Inizia ad usare Carbonio"
+msgstr ""
 
 #: ../../advanced_email_management/toc.rst:387
 msgid "To edit a signature:"
@@ -1378,7 +1374,7 @@ msgstr ""
 
 #: ../../appointments/toc.rst:7
 msgid "Working with Appointments"
-msgstr "Fissare gli appuntamenti"
+msgstr ""
 
 #: ../../appointments/toc.rst:9
 msgid ""
@@ -1403,9 +1399,8 @@ msgid ""
 msgstr ""
 
 #: ../../appointments/toc.rst:17
-#, fuzzy
 msgid "Creating an Appointment"
-msgstr "Fissare gli appuntamenti"
+msgstr ""
 
 #: ../../appointments/toc.rst:23
 msgid "To create a new appointment:"
@@ -1531,9 +1526,8 @@ msgid ""
 msgstr ""
 
 #: ../../appointments/toc.rst:43
-#, fuzzy
 msgid "Editing an Existing Appointment"
-msgstr "Fissare gli appuntamenti"
+msgstr ""
 
 #: ../../appointments/toc.rst:45
 msgid "To edit an existing appointment:"
@@ -1564,9 +1558,8 @@ msgid ""
 msgstr ""
 
 #: ../../appointments/toc.rst:54
-#, fuzzy
 msgid "Canceling an Appointment"
-msgstr "Fissare gli appuntamenti"
+msgstr ""
 
 #: ../../appointments/toc.rst:56
 msgid "To cancel an existing appointment:"
@@ -1650,9 +1643,8 @@ msgid ""
 msgstr ""
 
 #: ../../appointments/toc.rst:103
-#, fuzzy
 msgid "Creating a Recurring Appointment"
-msgstr "Fissare gli appuntamenti"
+msgstr ""
 
 #: ../../appointments/toc.rst:105
 msgid ""
@@ -1664,9 +1656,8 @@ msgid ""
 msgstr ""
 
 #: ../../appointments/toc.rst:107
-#, fuzzy
 msgid "To create a recurring new appointment:"
-msgstr "Fissare gli appuntamenti"
+msgstr ""
 
 #: ../../appointments/toc.rst:111
 msgid ""
@@ -1809,7 +1800,7 @@ msgstr ""
 
 #: ../../basic_email_management/toc.rst:7
 msgid "Basic Email Management"
-msgstr "Gestione Email di base"
+msgstr ""
 
 #: ../../basic_email_management/toc.rst:9
 msgid ""
@@ -2253,9 +2244,8 @@ msgid ""
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:223
-#, fuzzy
 msgid "Working with Email Folder Sharing"
-msgstr "Files"
+msgstr ""
 
 #: ../../basic_email_management/toc.rst:225
 msgid ""
@@ -2478,12 +2468,11 @@ msgstr ""
 
 #: ../../browsing_emails/toc.rst:7
 msgid "Browsing Emails"
-msgstr "Gestione delle email"
+msgstr ""
 
 #: ../../browsing_emails/toc.rst:11
-#, fuzzy
 msgid "Reading Emails"
-msgstr "Gestione delle email"
+msgstr ""
 
 #: ../../browsing_emails/toc.rst:13
 msgid "To read an email simply:"
@@ -2846,9 +2835,8 @@ msgid ""
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:188
-#, fuzzy
 msgid "Printing an Email"
-msgstr "Gestione delle email"
+msgstr ""
 
 #: ../../browsing_emails/toc.rst:191
 msgid "To print an email:"
@@ -2919,9 +2907,8 @@ msgid "Click on the trash icon at the top right corner of your email list."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:226
-#, fuzzy
 msgid "Sorting Emails"
-msgstr "Gestione delle email"
+msgstr ""
 
 #: ../../browsing_emails/toc.rst:228
 msgid ""
@@ -2955,7 +2942,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:7
 msgid "Working with Calendars"
-msgstr "Lavorare con Calendari"
+msgstr ""
 
 #: ../../calendars/toc.rst:13
 msgid ""
@@ -2987,9 +2974,8 @@ msgstr ""
 
 #: ../../calendars/toc.rst:25 ../../calendars/toc.rst:157
 #: ../../calendars/toc.rst:167
-#, fuzzy
 msgid "Select Calendars."
-msgstr "Calendari Condivisi"
+msgstr ""
 
 #: ../../calendars/toc.rst:26
 msgid "Under **General**, click on the **Default view** field."
@@ -3031,9 +3017,8 @@ msgid "Changing Calendar View"
 msgstr ""
 
 #: ../../calendars/toc.rst:40
-#, fuzzy
 msgid "To change the calendar view:"
-msgstr "Lavorare con Calendari"
+msgstr ""
 
 #: ../../calendars/toc.rst:43
 msgid "From the top right corner select your desired view."
@@ -3064,9 +3049,8 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:55
-#, fuzzy
 msgid "Creating a Calendar"
-msgstr "Lavorare con Calendari"
+msgstr ""
 
 #: ../../calendars/toc.rst:57
 msgid ""
@@ -3150,9 +3134,8 @@ msgid "Click the **OK** button."
 msgstr ""
 
 #: ../../calendars/toc.rst:88
-#, fuzzy
 msgid "Editing a Calendar"
-msgstr "Lavorare con Calendari"
+msgstr ""
 
 #: ../../calendars/toc.rst:90 ../../calendars/toc.rst:101
 msgid "To delete a calendar:"
@@ -3167,9 +3150,8 @@ msgid "Make your changes."
 msgstr ""
 
 #: ../../calendars/toc.rst:99
-#, fuzzy
 msgid "Deleting a Calendar"
-msgstr "Lavorare con Calendari"
+msgstr ""
 
 #: ../../calendars/toc.rst:105
 msgid ""
@@ -3188,9 +3170,8 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:111
-#, fuzzy
 msgid "Restoring a Trashed Calendar"
-msgstr "Lavorare con Calendari"
+msgstr ""
 
 #: ../../calendars/toc.rst:113
 msgid "To restore a trashed calendar:"
@@ -3215,9 +3196,8 @@ msgid "This calendar will be moved into your calendar list."
 msgstr ""
 
 #: ../../calendars/toc.rst:123
-#, fuzzy
 msgid "Viewing Multiple Calendars"
-msgstr "Lavorare con Calendari"
+msgstr ""
 
 #: ../../calendars/toc.rst:125
 msgid "To view multiple calendars in your timetable:"
@@ -3230,9 +3210,8 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:135
-#, fuzzy
 msgid "Setting Start of the Week"
-msgstr "Inizia ad usare Carbonio"
+msgstr ""
 
 #: ../../calendars/toc.rst:137
 msgid ""
@@ -3242,9 +3221,8 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:141
-#, fuzzy
 msgid "Select **Calendars**."
-msgstr "Calendari Condivisi"
+msgstr ""
 
 #: ../../calendars/toc.rst:142
 msgid "Under **General**, click on the **Start week** on field."
@@ -3303,9 +3281,8 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:174
-#, fuzzy
 msgid "Working with Shared Calendars"
-msgstr "Lavorare con Calendari"
+msgstr ""
 
 #: ../../calendars/toc.rst:176
 msgid ""
@@ -3397,9 +3374,8 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:207
-#, fuzzy
 msgid "Find Colleagues' Shared Calendars"
-msgstr "Calendari Condivisi"
+msgstr ""
 
 #: ../../calendars/toc.rst:209
 msgid "To find and add your colleagues’ shared calendars:"
@@ -3443,7 +3419,7 @@ msgstr ""
 
 #: ../../chats/toc.rst:7
 msgid "Working with Chats"
-msgstr "Chat"
+msgstr ""
 
 #: ../../chats/toc.rst:14
 msgid ""
@@ -3463,9 +3439,8 @@ msgid ""
 msgstr ""
 
 #: ../../chats/toc.rst:19
-#, fuzzy
 msgid "Creating New Chat"
-msgstr "Chat"
+msgstr ""
 
 #: ../../chats/toc.rst:21
 msgid ""
@@ -3885,7 +3860,7 @@ msgstr ""
 
 #: ../../composing_emails/toc.rst:7
 msgid "Composing Emails"
-msgstr "Scrivere un'email"
+msgstr ""
 
 #: ../../composing_emails/toc.rst:9
 msgid ""
@@ -3895,9 +3870,8 @@ msgid ""
 msgstr ""
 
 #: ../../composing_emails/toc.rst:12
-#, fuzzy
 msgid "Composing a New Email"
-msgstr "Scrivere un'email"
+msgstr ""
 
 #: ../../composing_emails/toc.rst:14
 msgid "Below is a concise summary of the steps to write and send an email:"
@@ -3980,9 +3954,8 @@ msgid ""
 msgstr ""
 
 #: ../../composing_emails/toc.rst:44
-#, fuzzy
 msgid "Addressing Emails"
-msgstr "Gestione delle email"
+msgstr ""
 
 #: ../../composing_emails/toc.rst:46
 msgid ""
@@ -4347,9 +4320,8 @@ msgid ""
 msgstr ""
 
 #: ../../composing_emails/toc.rst:212
-#, fuzzy
 msgid "Forwarding an Email"
-msgstr "Gestione delle email"
+msgstr ""
 
 #: ../../composing_emails/toc.rst:214
 msgid "To forward an email, follow these steps:"
@@ -4403,7 +4375,7 @@ msgstr ""
 
 #: ../../contacts/toc.rst:7
 msgid "Working with Contacts"
-msgstr "Contatti"
+msgstr ""
 
 #: ../../contacts/toc.rst:13
 msgid ""
@@ -4471,9 +4443,8 @@ msgid ""
 msgstr ""
 
 #: ../../contacts/toc.rst:38
-#, fuzzy
 msgid "Adding a New Contact"
-msgstr "Contatti"
+msgstr ""
 
 #: ../../contacts/toc.rst:40
 msgid "To add a new contact to your contact list:"
@@ -4505,9 +4476,8 @@ msgid "Click the **SAVE** button in the top right corner of the board."
 msgstr ""
 
 #: ../../contacts/toc.rst:53
-#, fuzzy
 msgid "Editing a Contact"
-msgstr "Contatti"
+msgstr ""
 
 #: ../../contacts/toc.rst:55
 msgid "To edit an existing contact:"
@@ -4551,9 +4521,8 @@ msgid "Choose the tag you wish to assign to the contact from the drop-down menu.
 msgstr ""
 
 #: ../../contacts/toc.rst:75
-#, fuzzy
 msgid "Deleting a Contact"
-msgstr "Contatti"
+msgstr ""
 
 #: ../../contacts/toc.rst:77
 msgid "To delete an existing contact:"
@@ -4906,7 +4875,7 @@ msgstr ""
 
 #: ../../files/toc.rst:7
 msgid "Working with Files"
-msgstr "Files"
+msgstr ""
 
 #: ../../files/toc.rst:13
 msgid ""
@@ -5151,9 +5120,8 @@ msgid "Click the **RENAME** button."
 msgstr ""
 
 #: ../../files/toc.rst:127
-#, fuzzy
 msgid "Viewing a File"
-msgstr "Files"
+msgstr ""
 
 #: ../../files/toc.rst:129
 msgid "To view a file stored in your Files:"
@@ -5185,9 +5153,8 @@ msgid ""
 msgstr ""
 
 #: ../../files/toc.rst:141
-#, fuzzy
 msgid "Creating a File"
-msgstr "Files"
+msgstr ""
 
 #: ../../files/toc.rst:143
 msgid ""
@@ -5333,9 +5300,8 @@ msgid ""
 msgstr ""
 
 #: ../../files/toc.rst:208
-#, fuzzy
 msgid "Copying a File"
-msgstr "Scrivere un'email"
+msgstr ""
 
 #: ../../files/toc.rst:210
 msgid "To copy a file and create a duplicate in another folder:"
@@ -5819,7 +5785,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:7
 msgid "Getting Started"
-msgstr "Inizia ad usare Carbonio"
+msgstr ""
 
 #: ../../get_started/toc.rst:9
 msgid ""
@@ -6466,31 +6432,29 @@ msgstr ""
 
 #: ../../index.rst:12
 msgid "Welcome to |carbonio| User Documentation!"
-msgstr "Benvenuti nella Documentazione Utente di |carbonio|!"
+msgstr ""
 
 #: ../../index.rst:14
 msgid ""
 "This is the documentation of |carbonio|, the fully private digital "
 "workplace."
 msgstr ""
-"Questa è la documentazione di |carbonio|, lo spazio di lavoro digitale "
-"completamente privato."
 
 #: ../../index.rst:17
 msgid "The content is organised in multiple parts:"
-msgstr "Il contenuto è organizzato in più parti:"
+msgstr ""
 
 #: ../../index.rst:20
 msgid "Introduction"
-msgstr "Introduzione"
+msgstr ""
 
 #: ../../index.rst:20
 msgid "Useful and generic information about |product|."
-msgstr "Informazioni di base su |product|."
+msgstr ""
 
 #: ../../search/toc.rst:7
 msgid "Working with Search"
-msgstr "Search"
+msgstr ""
 
 #: ../../search/toc.rst:9
 msgid ""
@@ -6857,7 +6821,7 @@ msgstr ""
 
 #: ../../tasks/toc.rst:7
 msgid "Working with Tasks"
-msgstr "Impegni"
+msgstr ""
 
 #: ../../tasks/toc.rst:9
 msgid ""
@@ -6867,9 +6831,8 @@ msgid ""
 msgstr ""
 
 #: ../../tasks/toc.rst:16
-#, fuzzy
 msgid "Creating a Task"
-msgstr "Impegni"
+msgstr ""
 
 #: ../../tasks/toc.rst:18
 msgid "To create a new task:"
@@ -6962,9 +6925,8 @@ msgid "Select **Complete** from the drop-down menu."
 msgstr ""
 
 #: ../../videomeetings/toc.rst:7
-#, fuzzy
 msgid "Working with Video Meetings"
-msgstr "Files"
+msgstr ""
 
 #: ../../videomeetings/toc.rst:13
 msgid ""
@@ -7395,915 +7357,6 @@ msgstr ""
 #: ../../videomeetings/toc.rst:217
 msgid "Click ADD."
 msgstr ""
-
-#~ msgid ""
-#~ "The calendar component allows to keep"
-#~ " track of the appointments, meetings, "
-#~ "and events you need to attend to"
-#~ " and share them with your colleagues."
-#~ msgstr ""
-#~ "Il componente Calendari consente di "
-#~ "tenere traccia degli appuntamenti, delle "
-#~ "riunioni e degli eventi a cui si"
-#~ " deve partecipare e di condividerli "
-#~ "con i colleghi."
-
-#~ msgid ""
-#~ "Beside using |new|, a new appointment"
-#~ " can be created in other ways. "
-#~ "The first one is with a click "
-#~ "of the mouse on the desired date"
-#~ " and time on the calendar. The "
-#~ "only difference is in the start "
-#~ "(and end) date and time: by using"
-#~ " the button, they are set to "
-#~ "the current date and time, by "
-#~ "clicking the calendar they are taken "
-#~ "from the clicked date and time."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Alternatively, you can open an existing"
-#~ " appointment, clone it, and edit only"
-#~ " the relevant details, like for "
-#~ "example date and time, without the "
-#~ "necessity to create a new one and"
-#~ " fill in all the details. This "
-#~ "option is useful if you have to"
-#~ " schedule recurrent events without a "
-#~ "fixed schedule."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "When an account is configured with "
-#~ "multiple identities, it is possible to"
-#~ " choose from which one to send "
-#~ "the invitations: the e-mail's sender "
-#~ "will then be automatically filled "
-#~ "according the identity chosen."
-#~ msgstr ""
-#~ "Quando un account è configurato con "
-#~ "più identità, è possibile scegliere da"
-#~ " quale inviare gli inviti: il "
-#~ "mittente dell'e-mail verrà quindi compilato"
-#~ " automaticamente in base all'identità "
-#~ "scelta."
-
-#~ msgid ""
-#~ "Attendees, whose presence is either "
-#~ "mandatory or optional, can be added "
-#~ "by writing their e-mail address. If "
-#~ "the attendee already is not available"
-#~ " or has some overlapping appointment, "
-#~ "its e-mail address will be coloured "
-#~ "and a message will be shown. This"
-#~ " improves and makes easier the "
-#~ "creation of events."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In case the invitation was not "
-#~ "sent or if something went wrong, "
-#~ "the event will show up in the "
-#~ "calendar, but marked with a red "
-#~ "icon. The attendee can propose a "
-#~ "new time. In this case, new e-mail"
-#~ " will be generated and sent to "
-#~ "the other participant to inform them "
-#~ "of the change."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "When right-clicking an event in "
-#~ "the calendar, different actions can be"
-#~ " carried out: open it and show "
-#~ "all participants and details, edit, copy"
-#~ " or move it, and its original, "
-#~ "plain text version, can be shown."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Additionally, a mail-tags can be "
-#~ "added to any calendar event and "
-#~ "the event itself can be (tentatively)"
-#~ " accepted or declined"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Searching for events is easy: insert "
-#~ "a search string in the quick "
-#~ "search bar to retrieve a first "
-#~ "batch of results. By default, all "
-#~ "matches in the past and future 30"
-#~ " days are shown. To broaden or "
-#~ "restrict the search, click the :bdg-"
-#~ "primary:`ADVANCED FILTER` bar and select "
-#~ "the new start and end dates using"
-#~ " the date pickers. Optionally, also "
-#~ "add more keywords to search."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can also search for calendars "
-#~ "shared by your colleagues: click *Shared"
-#~ " Calendars* in the left-hand side "
-#~ "columns, then the :bdg-primary-"
-#~ "line:`FIND SHARES` button. In the dialog"
-#~ " that opens, enter the (partial) name"
-#~ " of the colleague, then assign a "
-#~ "colour, and finally click :bdg-"
-#~ "primary:`ADD`."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The calendar will appear in the "
-#~ "list of calendars, and all the "
-#~ "appointments are shown; toggle their "
-#~ "visibility clicking the :octicon:`tasklist;1em"
-#~ ";sd-text-primary` checkbox."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can also share your calendar "
-#~ "with your colleagues (internal users, "
-#~ "within the organisation) or with "
-#~ "external persons: right-click the "
-#~ "calendar you want to share, select "
-#~ "*share calendar* and configure how you"
-#~ " want to share it. By default, "
-#~ "only events you marked as public "
-#~ "will be shared; private events will "
-#~ "never share their content, besides their"
-#~ " status, *Free* or *Busy*. If you "
-#~ "want to show all of a private's"
-#~ " event details, tick the checkbox. "
-#~ "Then, choose the role, i.e., whether "
-#~ "the person can only *view* your "
-#~ "events, *edit* them (add, modify, "
-#~ "delete), of fully *manage* them (accept"
-#~ " and re-share invitations and "
-#~ "appointments on your behalf)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To finalise the share, you can "
-#~ "choose to send a notification to "
-#~ "the user with whom you want to "
-#~ "share the calendar or to add a "
-#~ "custom message."
-#~ msgstr ""
-
-#~ msgid "Configure a CalDAV CLient"
-#~ msgstr "Configura un client CalDAV"
-
-#~ msgid ""
-#~ "Adding a |product| calendar to your "
-#~ "favourite CalDAV client is straightforward "
-#~ "and requires only a few steps. The"
-#~ " procedure is almost identical on any"
-#~ " client; in the box at the end"
-#~ " of this section we mention which "
-#~ "are the differences."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In this scenario, the user "
-#~ "*john.smith@example.com* wants to configure in"
-#~ " Mozilla's Thunderbird a calendar called"
-#~ " *Calendar* on the domain "
-#~ "*mail.example.com*. In the remainder, replace"
-#~ " these values with suitable ones."
-#~ msgstr ""
-
-#~ msgid "Step 1.  New Calendar"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "On your client, go to the Calendar"
-#~ " and select **New Calendar...**. Choose "
-#~ "**On the Network**"
-#~ msgstr ""
-
-#~ msgid "Step 2."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Provide the **Username** and the "
-#~ "**Location**, which has format "
-#~ "``https://<domain>/dav/username``, so "
-#~ "*https://mail.example.com/dav/john.smith@example.com*"
-#~ msgstr ""
-
-#~ msgid "Step 3."
-#~ msgstr ""
-
-#~ msgid "You will be then presented a list, from which to choose *Calendar*."
-#~ msgstr ""
-
-#~ msgid "You are now done! the calendar will show up in the list of your client."
-#~ msgstr ""
-
-#~ msgid "Other clients"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "CalDAV is a standard protocol and "
-#~ "therefore the data required to set "
-#~ "up a client are a username, an "
-#~ "URL, and the name of a calendar."
-#~ " The only difference is that some "
-#~ "client requires that the calendar's name"
-#~ " be part of the URL, so you "
-#~ "might need to provide "
-#~ "*https://mail.example.com/dav/john.smith@example.com/Calendar* "
-#~ "as the URL."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Carbonio Chats is a component that "
-#~ "provides corporate instant messaging features"
-#~ " like text chats, 1-to-1 video calls,"
-#~ " and videoconferencing."
-#~ msgstr ""
-
-#~ msgid "The UI of Carbonio Chats is organised in three columns:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The left-hand side column holds "
-#~ "the list of contacts with the "
-#~ "history of the passed chats. Above "
-#~ "it, you can |create| new chats and"
-#~ " Groups, filter existing chat names "
-#~ "and on the top, select between "
-#~ "Chats and Virtual Rooms (see further "
-#~ "on for more). Below it, buttons "
-#~ "allow to manage virtual rooms."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The central column holds the chat "
-#~ "messages. Above the chat’s top-right "
-#~ "corner, click the phone icon to "
-#~ "start a video call with the "
-#~ "contact."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The right-hand side column holds "
-#~ "information about the contact and allows"
-#~ " to copy the link to the "
-#~ "contact’s virtual room (which is "
-#~ "unique), mute notifications, and clear "
-#~ "the chat’s history."
-#~ msgstr ""
-
-#~ msgid "Moderators in Rooms"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The user that creates a **room** "
-#~ "(we call *virtual room* a Group or"
-#~ " a Virtual Room, see below) becomes"
-#~ " automatically the **Room Moderator** and"
-#~ " can manage the room’s textual and"
-#~ " video conversations. In particular, the"
-#~ " *Mute For All* and *Add new "
-#~ "members* functionalities are reserved for "
-#~ "Moderators only."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A moderator can promote any user "
-#~ "as moderator and can leave the "
-#~ "virtual room only if either no "
-#~ "other users are present in the "
-#~ "room or another moderator is present "
-#~ "in the room."
-#~ msgstr ""
-
-#~ msgid "Groups"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Groups are non-persistent entities used"
-#~ " to communicate with multiple people "
-#~ "at the same time (by default up"
-#~ " to 5 in total). Any user can"
-#~ " create a group inviting people, and"
-#~ " any group member can invite more "
-#~ "people in the same way. When all"
-#~ " users leave a group, the group "
-#~ "itself ceases to exist."
-#~ msgstr ""
-
-#~ msgid "Virtual Rooms"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Virtual Rooms allow to set up "
-#~ "video calls with multiple participants, "
-#~ "including **Internal Guests** and **External"
-#~ " Guests**. The former are users with"
-#~ " an account on the current Carbonio"
-#~ " instance, while the latter are users"
-#~ " that have no local account (i.e.,"
-#~ " on the Carbonio instance). Both can"
-#~ " join on a temporary basis without"
-#~ " the need of being members of "
-#~ "the Virtual Room."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Moreover, in the Virtual Room tab, "
-#~ "users can see at a glance all "
-#~ "ongoing and planned meetings involving "
-#~ "them."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To create a new meeting, click the"
-#~ " :bdg-primary-line:`CREATE ROOM` button,"
-#~ " then enter a name. You will be"
-#~ " automatically assigned the role of "
-#~ "**Owner**. Besides being a :ref:`chats-"
-#~ "moderators`, an owner can not be "
-#~ "removed and is the solely person "
-#~ "that can delete a Virtual Room."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In the left-hand side column, all"
-#~ " meetings are shown, divided into "
-#~ "**Ongoing Meetings** and **Scheduled "
-#~ "meetings**. For each of them, a "
-#~ "few buttons are shown, to join or"
-#~ " delete a virtual room, to copy "
-#~ "and share the virtual room’s link "
-#~ "and to change the link."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "When a link is changed, the old"
-#~ " one is wiped and can not be"
-#~ " used anymore."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Planned Meetings prove useful when "
-#~ "scheduling meetings with colleagues: create"
-#~ " a planned meeting, then attach the"
-#~ " virtual room’s link to the "
-#~ "calendar’s invitation."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Video calls can be recorded, but "
-#~ "require an additional package. Please "
-#~ "refer to section `Recording a Video "
-#~ "Meeting "
-#~ "<https://docs.zextras.com/carbonio/html/admincli/videoserver.html"
-#~ "#vs-record-meeting>`_ for directions and"
-#~ " more information on the functionality."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "When joining a Virtual Room, a "
-#~ "dialog window appears, which carries the"
-#~ " name of the room and allows to"
-#~ " choose and test the audio and "
-#~ "video devices."
-#~ msgstr ""
-
-#~ msgid "Sharing documents"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Within a textual chat, it is "
-#~ "possible to share files by either "
-#~ "uploading a file from the local "
-#~ "workstation or mobile device or by "
-#~ "providing the public link to a "
-#~ "file stored in Carbonio Files. To "
-#~ "carry out the latter action, click "
-#~ "on the paper clip icon on the "
-#~ "right-hand side of the chat’s "
-#~ "input box."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Moreover, most files can be previewed"
-#~ " before being downloaded, see Section "
-#~ "Preview for more information."
-#~ msgstr ""
-
-#~ msgid "Presence"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Presence is managed automatically in "
-#~ "Carbonio Chats: whenever a user logs "
-#~ "in, regardless of whether Chats has "
-#~ "the focus, they appear as **online**."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "As part of the user presence "
-#~ "system, all messages are displayed with"
-#~ " a variable number of check symbols:"
-#~ msgstr ""
-
-#~ msgid "0 grey checks: message not yet delivered to the server"
-#~ msgstr ""
-
-#~ msgid "1 grey check: message delivered to the server"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "2 grey checks: message delivered to "
-#~ "the recipient user  to all users "
-#~ "in case of chats with multiple "
-#~ "members or Virtual Rooms"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "2 blue checks: message viewed by "
-#~ "the recipient user  to all users "
-#~ "in case of chats with multiple "
-#~ "members or Virtual Rooms"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "When sending a text message, if "
-#~ "privacy is enabled, then only one "
-#~ "gray check is shown, meaning that "
-#~ "the server has received the message. "
-#~ "No acknowledgement will be sent back "
-#~ "by the receiving user."
-#~ msgstr ""
-
-#~ msgid "Unread Messages"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The number of unread messages in "
-#~ "any conversation (Group and instant "
-#~ "meeting) appears on the right side "
-#~ "of both the *Chats* and *Instant "
-#~ "Meetings* label from where the message"
-#~ " originated, and in the list of "
-#~ "conversions underneath, next to the "
-#~ "actual chat generating the message."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In the Contacts component you can "
-#~ "keep track of all the people with"
-#~ " whom you exchange e-mails and group"
-#~ " them in address books. Existing "
-#~ "address books appear on the column "
-#~ "on the right of the component's "
-#~ "list.  You can create new contact "
-#~ "by using the |new| button and "
-#~ "selecting `New Contact`; they will be"
-#~ " stored under the `Contacts` section "
-#~ "of the Contacts component. You can "
-#~ "also choose under which address book "
-#~ "the new contact is stored. Additionally,"
-#~ " mail-tags can be added to any"
-#~ " contacts."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Addresses of people to whom you "
-#~ "send an e-mail are automatically added"
-#~ " to the `Emailed Contacts`."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Deleted contacts land in the special "
-#~ "`Trash` address book, which keeps them"
-#~ " until you manually empty it. To "
-#~ "do so, right-click the address "
-#~ "book and select `Empty trash`."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "A right-click on the address book"
-#~ " allows to carry out a few "
-#~ "action on it and its content: "
-#~ "edit, share, empty, or delete it. "
-#~ "Moreover, new address books can be "
-#~ "created. For each contact, icons allow"
-#~ " to carry out different actions: "
-#~ "delete, move, or write an e-mail "
-#~ "to the contact."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To move the contacts from one "
-#~ "address book to another, you can "
-#~ "also drag the contact and drop it"
-#~ " on the destination address book."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If any colleague has shared an "
-#~ "address book, you can click the "
-#~ ":bdg-primary-line:`FIND SHARES` button "
-#~ "under `Shared Address Book` and provide"
-#~ " the e-mail address. You will see "
-#~ "all the address books shared by "
-#~ "the user."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can search among contacts using "
-#~ "the search bar. You can then "
-#~ "refine your search by clicking the "
-#~ ":bdg-primary:`ADVANCED FILTER` button. Here"
-#~ " you can also choose to include "
-#~ "shared address books in the search."
-#~ msgstr ""
-
-#~ msgid "Configure a CardDav Client"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Adding a |product| address book to "
-#~ "your favourite CardDAV client is "
-#~ "straightforward and requires only a few"
-#~ " steps."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In this scenario, the user "
-#~ "*john.smith@example.com* wants to import in"
-#~ " Mozilla's Thunderbird an address book "
-#~ "from on the domain *mail.example.com*. "
-#~ "In the remainder, replace these values"
-#~ " with suitable ones."
-#~ msgstr ""
-
-#~ msgid "Step 1. New Address book"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "On your client, go to the Calendar"
-#~ " and select **New Address Book**, "
-#~ "providing the **Username** and the "
-#~ "**Location**, which has format "
-#~ "``https://<domain>/dav/username``, so "
-#~ "*https://mail.example.com/dav/john.smith@example.com*"
-#~ msgstr ""
-
-#~ msgid "Step 2. Insert credentials"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Authenticate co |product| by inserting "
-#~ "the username and password to access "
-#~ "the address book."
-#~ msgstr ""
-
-#~ msgid "Step 3. Select Address Books"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You will be then presented a list,"
-#~ " from which to choose the address "
-#~ "books to import in the client."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You are now done! The imported "
-#~ "address books will show up in the"
-#~ " list of your client."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Carbonio Files provides a file storage"
-#~ " system with ability for sharing "
-#~ "documents with colleagues, collaborative "
-#~ "editing, and document versioning."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Items saved in |file| are shown in"
-#~ " the central area and are organised"
-#~ " in a folder structure, which "
-#~ "initially contain a number of pre-"
-#~ "defined shortcut as icons: *Home*, "
-#~ "*Shared with me*, *Trash*, *Filters*, "
-#~ "and *Uploads*. Files can be arranged "
-#~ "in folders under *Home*; a list of"
-#~ " recent files and folders accessed by"
-#~ " the user is also available, to "
-#~ "allow to quickly resume work on "
-#~ "these documents."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The following panels summarise the most"
-#~ " common activities that can be done"
-#~ " on files and folders"
-#~ msgstr ""
-
-#~ msgid "File Upload and Download"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To upload a file to |File|, either"
-#~ " click the :bdg-primary-line:`Upload` "
-#~ "button on the top bar, or drag "
-#~ "and drop a file from a file "
-#~ "browser to |file|"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To download a file from |File|, "
-#~ "right-click on it and select :bdg-"
-#~ "primary-line:`Download`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "While uploading new files, a badge "
-#~ "shows the completed and total number "
-#~ "of documents being uploaded."
-#~ msgstr ""
-
-#~ msgid "Create new Folder and Files"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "To create a new item in |File|,"
-#~ " use the right mouse button in "
-#~ "the file list (central area) to "
-#~ "create new folders, documents, spreadsheets,"
-#~ " or presentations."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The following characters can not be "
-#~ "used in folder’s name: Slash ``/`` "
-#~ ":octicon:`dash` Backslash ``\\`` :octicon:`dash` "
-#~ "Semicolon ``:`` :octicon:`dash` Question Mark"
-#~ " ``?`` :octicon:`dash` Plus sign ``+`` "
-#~ ":octicon:`dash` Asterisk ``*`` :octicon:`dash` "
-#~ "Percent sign ``%``"
-#~ msgstr ""
-
-#~ msgid "Sharing"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "When clicking once on a file or"
-#~ " folder, an informative box appears "
-#~ "on the right-hand side, which "
-#~ "contains multiple tabs:"
-#~ msgstr ""
-
-#~ msgid "Details"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Shows a (partial) preview of the "
-#~ "file, if the file belongs to a "
-#~ "recognised type. There are also a "
-#~ "number of metadata visible and a "
-#~ "description of the file or folder "
-#~ "can be added at the bottom."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Lists the owner of the file or "
-#~ "folder and who has access to it."
-#~ " It is possible to allow access "
-#~ "to internal collaborators or external "
-#~ "user, with different modalities"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Internal collaborators: you can add a"
-#~ " a collaborator to a single file "
-#~ "or an entire directory by writing "
-#~ "the e-mail address, then click :bdg-"
-#~ "primary:`SHARE`; otherwise, in the "
-#~ "*Collaboraion Links* section click :bdg-"
-#~ "primary-line:`GENERATE LINK` to create a"
-#~ " link that will allow anyone with "
-#~ "the link to give either *Read and"
-#~ " Share* or *Write and Share* "
-#~ "permission on the file"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "External users. Sharing with external "
-#~ "users is **limited to files only**, "
-#~ "no directories is allowed.  In the "
-#~ "bottom *Public Links* section use the"
-#~ " :bdg-primary-line:`ADD LINK` button "
-#~ "to generate a link to allow access"
-#~ " to everyone. Optionally, add a "
-#~ "description and expiration date (defaults "
-#~ "to the end of the current day) "
-#~ "to the link, then click :bdg-"
-#~ "primary-line:`GENERATE LINK`. Anyone who "
-#~ "receives this link will be able to"
-#~ " download the file until is expires."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Any links generated for internal "
-#~ "collaborators or external user can be"
-#~ " revoked at anytime by clicking the"
-#~ " corresponding :bdg-danger-line:`REVOKE` "
-#~ "button."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The :bdg-primary:`SHARE` button is "
-#~ "clickable for internal collaborators and "
-#~ "only if the e-mail address is "
-#~ "correct."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Sharing a folder implies that "
-#~ "permissions are inherited by the whole"
-#~ " hierarchy underneath, so all files "
-#~ "and directories contained there will "
-#~ "have the same access permissions."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Sharing with external users is limited"
-#~ " to files only: no directory can "
-#~ "be shared. To allow an external "
-#~ "user to access a file,"
-#~ msgstr ""
-
-#~ msgid "Versioning (files only)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The history of each file is "
-#~ "preserved in case the file is "
-#~ "edited or a new version is "
-#~ "uploaded. Manual removal of unused or"
-#~ " deprecated versions of a file is "
-#~ "possible."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "By default, *five* version can be "
-#~ "stored for each file.  Editing a "
-#~ "file that has reached this limit "
-#~ "is prevented, with an error message "
-#~ "informing of the reached limit.  This"
-#~ " limit can be customised and even "
-#~ "removed, by configuring it to **-1**."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The Search module vastly improves the"
-#~ " search capabilities of the quick "
-#~ "search top bar. Click the :bdg-"
-#~ "primary-line:`ADVANCED FILTER` button to "
-#~ "open a dialog that will help you"
-#~ " refine the search criteria on all"
-#~ " your e-mails."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can combine multiple search "
-#~ "criteria, some of which are inclusive"
-#~ " or exclusive (i.e., you can search"
-#~ " for e-mails with or without "
-#~ "attachments, that are flagged or not,"
-#~ " and that are read or unread), "
-#~ "while other allow to provide values "
-#~ "for almost any other property of "
-#~ "an e-mail, including  sender or "
-#~ "recipient, subject or keywords, type of"
-#~ " attachment, and limit the search "
-#~ "according to a period of time or"
-#~ " to a size interval."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Moreover, you can search on tags "
-#~ "given to the e-mail and limit the"
-#~ " search to specific folders. When all"
-#~ " criteria have been entered, click "
-#~ "|search| to start the search, while "
-#~ "clicking |reset| will clear the dialog."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In the resulting list of result, "
-#~ "click any e-mail to open it. To"
-#~ " further refine the search, click the"
-#~ " blue bar above the list of "
-#~ "e-mails. The dialog will reopen, with"
-#~ " the same criteria entered before: "
-#~ "here you can add more constraints "
-#~ "or change some of them."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|task| is the component that allows "
-#~ "to create simple entries to keep "
-#~ "track of your activities."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Each task can be created by "
-#~ "clicking the |new| button and consists"
-#~ " of a title, the only mandatory "
-#~ "part. Optionally, you can provide a "
-#~ "priority (Low, Medium, and high) a "
-#~ "description, and a reminder."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Tasks are presented as a list, "
-#~ "ordered by their creation date in "
-#~ "descending order, i.e., the newest on"
-#~ " top: clicking a task will open "
-#~ "it and show its details on the "
-#~ "browser's right-hand side, where also"
-#~ " its creation date and description "
-#~ "are shown; for each task you can"
-#~ msgstr ""
-
-#~ msgid "Toggle its completion status"
-#~ msgstr ""
-
-#~ msgid "Edit all its details"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "remove a task from the list. The"
-#~ " removal is permanent, so a dialog"
-#~ " will appear to confirm the action."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The number of tasks that can be"
-#~ " created is limited to *200*: when"
-#~ " the 200th is about to be "
-#~ "created or when the limit has "
-#~ "already reached, a banner in the "
-#~ "Tasks editor will inform that no "
-#~ "new task can be created. In these"
-#~ " cases it is therefore necessary to"
-#~ " remove older tasks to create new "
-#~ "ones."
-#~ msgstr ""
-
-#~ msgid "Reminders"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Reminders can be added to alert of"
-#~ " an approaching deadline. Once a date"
-#~ " and time is set and the task"
-#~ " saved, at the selected time a "
-#~ "pop-up will show the task's title "
-#~ "and priority when you are in the"
-#~ " |task| module; otherwise, a badge "
-#~ "will be shown next to the Tasks"
-#~ " Module in the primary bar (i.e., "
-#~ "the leftmost column). The number in "
-#~ "the badge shows how many tasks "
-#~ "have reached or passed the deadline."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Besides a fixed time, a reminder "
-#~ "can be configured to be shown upon"
-#~ " every login during the expiry day"
-#~ " with the following behaviour."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "It appears at every login, even "
-#~ "after the expiration, if the task "
-#~ "is not marked as *completed*"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If you do not login during the "
-#~ "expiry date will *not* be shown in"
-#~ " the next days"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In the list of tasks, the deadline"
-#~ " is shown in :red:`red` if it "
-#~ "already passed."
-#~ msgstr ""
 
 #~ msgid ""
 #~ "When you want to attach large "

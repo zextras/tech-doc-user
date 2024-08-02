@@ -102,6 +102,17 @@ It is important to note that computer viruses are commonly transmitted through f
         :align: center
         :width: 100%
 
+Managing Large Attachments
+==========================
+
+When you want to attach large attachments to an email, you may encounter some limitations. With the "smart links" option, it is possible to convert every attachment in Smart Links by clicking the **paperclip** icon inside the composing board and chosing the "Add public link from Files option".
+
+  .. image:: /img/usage/smart-link.png
+        :align: center
+        :width: 100%
+
+Afterwards, simply follow the path and select the folder inside Files, where is located the file you want to send.
+
 Removing Attachments
 ====================
 

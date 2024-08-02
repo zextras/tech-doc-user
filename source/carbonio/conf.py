@@ -37,7 +37,7 @@ copyright = '2024: ZEXTRAS'
 author = 'The Zextras Team'
 
 # The full version, including alpha/beta/rc tags
-release = '24.7.0'
+release = '24.7.1'
 version = release
 
 # -- General configuration ---------------------------------------------------
@@ -101,7 +101,7 @@ html_theme_options = {
     },
     'footer_content_items': ['zx-copyright.html'],
 }
-html_sidebars = {"**": ['navbar-logo.html', 'sbt-sidebar-nav.html',
+html_sidebars = {"**": ['navbar-logo.html', 'search-button-field.html', 'sbt-sidebar-nav.html',
                         'locales.html', 'home.html']}
 
 # Exporting variables to be available in templates

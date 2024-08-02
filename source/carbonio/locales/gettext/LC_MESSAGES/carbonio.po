@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-30 15:53+0200\n"
+"POT-Creation-Date: 2024-08-02 14:45+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: gettext\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.15.0\n"
+"Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
 msgid "Advanced Email Management"
@@ -286,8 +286,8 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:100
 #: ../../basic_email_management/toc.rst:110
-#: ../../basic_email_management/toc.rst:123 ../../composing_emails/toc.rst:186
-#: ../../composing_emails/toc.rst:206 ../../composing_emails/toc.rst:217
+#: ../../basic_email_management/toc.rst:123 ../../composing_emails/toc.rst:197
+#: ../../composing_emails/toc.rst:217 ../../composing_emails/toc.rst:228
 msgid "Right-click on the email."
 msgstr ""
 
@@ -2694,7 +2694,7 @@ msgid ""
 "remove it."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:109 ../../composing_emails/toc.rst:106
+#: ../../browsing_emails/toc.rst:109 ../../composing_emails/toc.rst:117
 msgid "Removing Attachments"
 msgstr ""
 
@@ -4096,29 +4096,48 @@ msgid ""
 "have received the attachment or not."
 msgstr ""
 
+#: ../../composing_emails/toc.rst:106
+msgid "Managing Large Attachments"
+msgstr ""
+
 #: ../../composing_emails/toc.rst:108
+msgid ""
+"When you want to attach large attachments to an email, you may encounter "
+"some limitations. With the \"smart links\" option, it is possible to "
+"convert every attachment in Smart Links by clicking the **paperclip** "
+"icon inside the composing board and chosing the \"Add public link from "
+"Files option\"."
+msgstr ""
+
+#: ../../composing_emails/toc.rst:114
+msgid ""
+"Afterwards, simply follow the path and select the folder inside Files, "
+"where is located the file you want to send."
+msgstr ""
+
+#: ../../composing_emails/toc.rst:119
 msgid ""
 "To remove an attachment from the email you are composing, simply click on"
 " the **Remove** button located beneath the attachment."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:111
+#: ../../composing_emails/toc.rst:122
 msgid "Send an Email from a Different Account or Persona"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:113
+#: ../../composing_emails/toc.rst:124
 msgid ""
 "You can send emails from different personas or email identities while "
 "composing a message."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:115
+#: ../../composing_emails/toc.rst:126
 msgid ""
 "This feature is available if you have multiple identities or personas set"
 " up."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:117
+#: ../../composing_emails/toc.rst:128
 msgid ""
 "An email identity refers to having access to multiple accounts on the "
 "Carbonio web client, allowing you to choose which one to send the email "
@@ -4128,31 +4147,31 @@ msgid ""
 " or persona as the sender of the emails."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:119
+#: ../../composing_emails/toc.rst:130
 msgid "To switch identities or personas, follow these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:121
+#: ../../composing_emails/toc.rst:132
 msgid ""
 "Click on your email address located at the **top left corner** of the "
 "composing board."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:122
+#: ../../composing_emails/toc.rst:133
 msgid "Choose your preferred identity or persona from the menu."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:130
+#: ../../composing_emails/toc.rst:141
 msgid "Request a Read Receipt"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:132
+#: ../../composing_emails/toc.rst:143
 msgid ""
 "You can configure your email to automatically request a read receipt when"
 " your colleague opens your sent email."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:134
+#: ../../composing_emails/toc.rst:145
 msgid ""
 "Read receipts are useful to use when you need confirmation that your "
 "email has been received and opened, especially in time-sensitive or "
@@ -4161,123 +4180,123 @@ msgid ""
 "endeavors."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:136
+#: ../../composing_emails/toc.rst:147
 msgid "To request a read receipt while composing an email:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:138 ../../composing_emails/toc.rst:151
+#: ../../composing_emails/toc.rst:149 ../../composing_emails/toc.rst:162
 msgid ""
 "Click on the **three vertical dots** located within the composing board "
 "at the top right corner."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:139
+#: ../../composing_emails/toc.rst:150
 msgid "Select *Request read receipt*."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:147
+#: ../../composing_emails/toc.rst:158
 msgid "Mark an Email as Important"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:149
+#: ../../composing_emails/toc.rst:160
 msgid ""
 "To mark the email, you are composing for your colleague as important, "
 "follow these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:152
+#: ../../composing_emails/toc.rst:163
 msgid "Choose Mark as important."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:154
+#: ../../composing_emails/toc.rst:165
 msgid ""
 "Important emails will be indicated by a red upward arrow in front of the "
 "subject line within your colleagues' web client."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:157
+#: ../../composing_emails/toc.rst:168
 msgid "Save an Email as a Draft"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:159
+#: ../../composing_emails/toc.rst:170
 msgid ""
 "While composing an email, if you need to send it later or finish it in "
 "the future, you can save it as a draft by following these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:161
+#: ../../composing_emails/toc.rst:172
 msgid ""
 "Click on the \"**x**\" button located at the top right corner of the "
 "composing board."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:162
+#: ../../composing_emails/toc.rst:173
 msgid "A new window will open, then click on the **SAVE DRAFT** button."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:163
+#: ../../composing_emails/toc.rst:174
 msgid ""
 "Your email will be saved in the **Draft** folder accessible from your "
 "navigation panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:167
+#: ../../composing_emails/toc.rst:178
 msgid "Send a Drafted Email"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:169
+#: ../../composing_emails/toc.rst:180
 msgid ""
 "Drafted emails are accessible from the Draft folder. Here is how you can "
 "access and send them:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:171
+#: ../../composing_emails/toc.rst:182
 msgid "Click on the Draft folder in the navigation panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:172
+#: ../../composing_emails/toc.rst:183
 msgid "Locate your desired email in the main panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:173
+#: ../../composing_emails/toc.rst:184
 msgid ""
 "To edit the email before sending it, double-click on it. Alternatively, "
 "you can click on it once to review it from the right side of the main "
 "panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:174
+#: ../../composing_emails/toc.rst:185
 msgid ""
 "To send the email, simply click on the send button located at the top "
 "right corner of the main panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:181
+#: ../../composing_emails/toc.rst:192
 msgid "Replying to an Email"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:183
+#: ../../composing_emails/toc.rst:194
 msgid "To reply to an email, follow these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:185 ../../composing_emails/toc.rst:205
-#: ../../composing_emails/toc.rst:216
+#: ../../composing_emails/toc.rst:196 ../../composing_emails/toc.rst:216
+#: ../../composing_emails/toc.rst:227
 msgid "Locate the email in the email list."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:187
+#: ../../composing_emails/toc.rst:198
 msgid "From the menu that appears, select **Reply** or **Reply all**."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:188
+#: ../../composing_emails/toc.rst:199
 msgid "A new composing board will appear, allowing you to compose your reply."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:191
+#: ../../composing_emails/toc.rst:202
 msgid "Reply and Reply All"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:193
+#: ../../composing_emails/toc.rst:204
 msgid ""
 "The difference between reply and reply all lies in the recipients of your"
 " response. When you choose Reply, your response is directed only to the "
@@ -4285,7 +4304,7 @@ msgid ""
 "the sender without involving other recipients."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:195
+#: ../../composing_emails/toc.rst:206
 msgid ""
 "In the case of reply all, the recipients other than the original sender "
 "are automatically included in the Cc (carbon copy) field of your "
@@ -4293,46 +4312,46 @@ msgid ""
 "also receive your reply."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:197
+#: ../../composing_emails/toc.rst:208
 msgid ""
 "This option is ideal for situations where your response is relevant to "
 "everyone included in the initial communication, facilitating group "
 "discussions, or providing updates to multiple parties simultaneously."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:201
+#: ../../composing_emails/toc.rst:212
 msgid "Forwarding an Email"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:203
+#: ../../composing_emails/toc.rst:214
 msgid "To forward an email, follow these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:207
+#: ../../composing_emails/toc.rst:218
 msgid "From the menu that appears, select Forward."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:208 ../../composing_emails/toc.rst:219
+#: ../../composing_emails/toc.rst:219 ../../composing_emails/toc.rst:230
 msgid "A new composing board will appear, allowing you to address new recipients."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:212
+#: ../../composing_emails/toc.rst:223
 msgid "Redirecting an Email"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:214
+#: ../../composing_emails/toc.rst:225
 msgid "To redirect an email, follow these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:218
+#: ../../composing_emails/toc.rst:229
 msgid "From the menu that appears, select **Redirect**."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:223
+#: ../../composing_emails/toc.rst:234
 msgid "Forward vs. Redirect"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:225
+#: ../../composing_emails/toc.rst:236
 msgid ""
 "The distinction between forwarding and redirecting emails lies in their "
 "intended purpose and outcome. When you forward an email, you are "
@@ -4347,7 +4366,7 @@ msgid ""
 "that important communications reach the appropriate recipient directly."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:227
+#: ../../composing_emails/toc.rst:238
 msgid ""
 "Therefore, opting to redirect a message instead of forwarding it "
 "simplifies the process for the recipient to reply directly to the "
@@ -7338,4 +7357,16 @@ msgstr ""
 #: ../../videomeetings/toc.rst:217
 msgid "Click ADD."
 msgstr ""
+
+#~ msgid ""
+#~ "When you want to attach large "
+#~ "attachments to an e-mail, you may "
+#~ "encounter some MTA mail server "
+#~ "limitations. With the \"smart links\" "
+#~ "option, it is possible to convert "
+#~ "every attachment in Smart Links by "
+#~ "clicking the **paperclip** icon inside "
+#~ "the composing board and chosing the "
+#~ "\"Add public link from Files option\"."
+#~ msgstr ""
 

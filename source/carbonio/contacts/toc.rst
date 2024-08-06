@@ -130,6 +130,20 @@ To edit an address book:
 #.	Make the desired changes.
 #.	Click the **EDIT** button.
 
+Sharing an Address Book
+=======================
+
+To share an address book:
+
+#.	Select the **Contacts** from your left sidebar.
+#.	In the Navigation Panel, right-click on the address book you wish to edit.
+#.	Select **Edit address book** from the drop-down menu. A new window appears.
+#.	Click on **ADD SHARE** button.
+#.  Insert email addresses you want to share the address book with, and assign them the role.
+#.  Tick the *Send notification about this share* checkbox and add a note for the message.
+#.	Click the **SHARE FOLDER** button.
+
+
 Assigning a Color to an Address Book
 ====================================
 

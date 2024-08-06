@@ -140,18 +140,26 @@ For security purposes, your system administrator might set a maximum duration fo
 In Case of Forgetting Your Password
 ===================================
 
+.. note:: Before you can start the password recovery procedure, you
+   need to ask the Administrator to configure a recovery email for your account. Or you can ask the Admin to set up the chance for you to insert your recovery address in *Auth* panel, in **Settings** section.
+
+    .. image:: /img/usage/forgot-password.png
+        :align: center
+        :width: 100%
+
+
 If you forgot your password, follow these steps:
 
 1.	Click on the **Forget Password?** Button, from the login page.
 2.	Enter your username.
 3.	You will receive an email at your recovery email address.
-4.	Use that email to sign in and reset your password.
+4.	A temporary *validation code*, that expires in twenty-four hours, will be sent to the recovery e-mail address.
+5.  Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button.
+6.  If the code is validated, you can :bdg-primary-line:`CONTINUE WITH YOUR SESSION`, access your mailbox and then add a new password in the Settings's module, where you can also change the recovery address. 
 
-If your system administrator has not configured a recovery email for your account, when you attempt to insert your username to receive the password recovery email, you will encounter an error message. The error will prompt you to **contact your system administrator**. In this scenario, **the only way to log into your account** is by seeking assistance from your system administrator.
+If your system administrator has not configured a recovery email for your account, or you have not inserted your own recovery email address, when you attempt to insert your username to receive the password recovery email, you will encounter an error message. 
 
-    .. image:: /img/usage/forgot-password.png
-        :align: center
-        :width: 100%
+The error will prompt you to **contact your system administrator**. In this scenario, **the only way to log into your account** is by seeking assistance from your system administrator.
 
 
 Changing Your Password

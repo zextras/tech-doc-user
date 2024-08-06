@@ -206,6 +206,18 @@ You can edit the folder’s name, color, and retention policy. To edit a folder:
 #.	A new dialogue box will appear. Perform changes.
 #.	Click **EDIT** to confirm the change.
 
+Sharing a Folder
+================
+
+You can also choose the option to share an entire folder. To share a folder:
+
+#.	Navigate to the **Mail** section from the left sidebar.
+#.	Right-click on a folder.
+#.	Click on **ADD SHARE**.
+#.  Insert email addresses you want to share the selected folder with, and assign them the role.
+#.  Tick the *Send notification about this share* checkbox and add a note for the message.
+#.	Click the **SHARE FOLDER** button.
+
 
 Moving Emails Between Folders
 =============================

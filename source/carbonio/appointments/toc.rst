@@ -36,6 +36,8 @@ To create a new appointment:
 #.	Tick the **Private checkbox** if you wish to conceal the details of this appointment, such as its title, from your colleagues. Even if you have shared your calendar with them, your colleagues will still see the appointment listed on your calendar, but without the specific details like the title.
 #.	Choose the time slot for the appointment by specifying the start date and time in the **Start date and time field**, and the end date and time in the **End date and time field**. Alternatively, you can tick the checkbox labeled **All day** if the appointment spans the entire day.
 #.	Choose a reminder for the appointment from the **Reminder field** to ensure you are informed beforehand. Carbonio will display a warning window in the Carbonio client at the specified time to remind you of the appointment.
+#.   Tick the **repeat** recurrence of the appointment if you want to use any of the pre-defined recurrences (every day, week, month, or year) or define a custom one, that may end after a date or a number of occurrences.
+#.   Choose the time zone, if different from the default one. You need to enable this option in the Calendar's module settings, in *Creating Appointment* Section.
 #.	Add any notes about this appointment in the text box.
 #.	If you are creating the appointment solely for yourself, click **SAVE**. If your appointment includes attendees, as specified in step 8, click **SEND** to notify them via an automatic email.
 

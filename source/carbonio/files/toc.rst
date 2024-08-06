@@ -12,6 +12,15 @@
               
 Files is designed to simplify your file management needs. The Files offers a user-friendly platform for uploading, creating, and organizing your digital documents. Whether you are collaborating with colleagues or simply keeping your files in order, Files allows you to effortlessly share and manage your documents and images. With its intuitive interface, you can easily create multiple folders, upload files from your computer, save email attachments, and even generate new documents.
 
+.. note:: Using multiple |product| windows : when using two or more open browser's tabs or windows to access
+  **Files**, some of the operations you carry out on one of the windows
+  is not immediately reflected in the other. To make sure that all
+  the windows are synchronised, you need to click the account icon
+  (rightmost icon on the top right corner of the GUI) to open the
+  menu, then click *Update view*. In this way, you force the browser
+  to reload and update its cache to include the latest changes on
+  **Files**.
+
 Creating a Folder
 =================
 
@@ -468,4 +477,15 @@ To revoke a public access link:
 #.	Under the **Public download links** section, click on the **REVOKE** button.
 #.	Click the **REVOKE** button to confirm.
 
+Exceeding Files quota limit
+============================
 
+If you overcome the quota limit for **Files**, documents will be
+opened in *read-only mode*: this will also be enforced by a label that
+appears on the bottom of the opened document. This behaviour holds
+also for shared documents: if the document is open by another user who
+has write access on your document, the second user will also see the
+*Read-only* label on the bottom of the document so he will not be able
+to save changes made to the document.
+
+.. note:: For the **Files** quota limitation, you should contact your system administrator.

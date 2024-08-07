@@ -140,20 +140,21 @@ For security purposes, your system administrator might set a maximum duration fo
 In Case of Forgetting Your Password
 ===================================
 
-.. note:: Before you can start the password recovery procedure, you
-   need to ask the Administrator to configure a recovery email for your account. Or you can ask the Admin to set up the chance for you to insert your recovery address in *Auth* panel, in **Settings** section.
+To start the password recovery procedure, you need to enter the recovery address in the **Auth** panel, in the **Settings** section. Alternatively, you can ask the administrator to set up a recovery e-mail for your account.
 
-    .. image:: /img/usage/forgot-password.png
-        :align: center
-        :width: 100%
-
+.. note:: If in the Auth panel - Settings section - you do not see the field to set a recovery address, it means that the administrator has not enabled your account for the recovery process.
 
 If you forgot your password, follow these steps:
+
+.. image:: /img/usage/forgot-password.png
+            :align: center
+            :width: 100%
+
 
 1.	Click on the **Forget Password?** Button, from the login page.
 2.	Enter your username.
 3.	You will receive an email at your recovery email address.
-4.	A temporary *validation code*, that expires in twenty-four hours, will be sent to the recovery e-mail address.
+4.	A temporary **validation code**, that expires in twenty-four hours, will be sent to the recovery e-mail address.
 5.  Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button.
 6.  If the code is validated, you can :bdg-primary-line:`CONTINUE WITH YOUR SESSION`, access your mailbox and then add a new password in the Settings's module, where you can also change the recovery address. 
 

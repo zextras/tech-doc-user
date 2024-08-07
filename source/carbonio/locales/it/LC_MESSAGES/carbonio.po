@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-06 14:17+0200\n"
+"POT-Creation-Date: 2024-08-07 09:47+0200\n"
 "PO-Revision-Date: 2024-05-31 18:52+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language: it\n"
@@ -337,9 +337,9 @@ msgid ""
 " colleagues and clients informed. Here is how to set it up:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:219
-#: ../../get_started/toc.rst:244 ../../get_started/toc.rst:263
-#: ../../get_started/toc.rst:278
+#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:220
+#: ../../get_started/toc.rst:245 ../../get_started/toc.rst:264
+#: ../../get_started/toc.rst:279
 msgid "Select General Settings."
 msgstr ""
 
@@ -6259,46 +6259,53 @@ msgstr ""
 
 #: ../../get_started/toc.rst:143
 msgid ""
-"Before you can start the password recovery procedure, you need to ask the"
-" Administrator to configure a recovery email for your account. Or you can"
-" ask the Admin to set up the chance for you to insert your recovery "
-"address in *Auth* panel, in **Settings** section."
+"To start the password recovery procedure, you need to enter the recovery "
+"address in the **Auth** panel, in the **Settings** section. "
+"Alternatively, you can ask the administrator to set up a recovery e-mail "
+"for your account."
 msgstr ""
 
-#: ../../get_started/toc.rst:151
+#: ../../get_started/toc.rst:145
+msgid ""
+"If in the Auth panel - Settings section - you do not see the field to set"
+" a recovery address, it means that the administrator has not enabled your"
+" account for the recovery process."
+msgstr ""
+
+#: ../../get_started/toc.rst:147
 msgid "If you forgot your password, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:153
+#: ../../get_started/toc.rst:154
 msgid "Click on the **Forget Password?** Button, from the login page."
 msgstr ""
 
-#: ../../get_started/toc.rst:154
+#: ../../get_started/toc.rst:155
 msgid "Enter your username."
 msgstr ""
 
-#: ../../get_started/toc.rst:155
+#: ../../get_started/toc.rst:156
 msgid "You will receive an email at your recovery email address."
 msgstr ""
 
-#: ../../get_started/toc.rst:156
-msgid ""
-"A temporary *validation code*, that expires in twenty-four hours, will be"
-" sent to the recovery e-mail address."
-msgstr ""
-
 #: ../../get_started/toc.rst:157
-msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
+msgid ""
+"A temporary **validation code**, that expires in twenty-four hours, will "
+"be sent to the recovery e-mail address."
 msgstr ""
 
 #: ../../get_started/toc.rst:158
+msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
+msgstr ""
+
+#: ../../get_started/toc.rst:159
 msgid ""
 "If the code is validated, you can :bdg-primary-line:`CONTINUE WITH YOUR "
 "SESSION`, access your mailbox and then add a new password in the "
 "Settings's module, where you can also change the recovery address."
 msgstr ""
 
-#: ../../get_started/toc.rst:160
+#: ../../get_started/toc.rst:161
 msgid ""
 "If your system administrator has not configured a recovery email for your"
 " account, or you have not inserted your own recovery email address, when "
@@ -6306,18 +6313,18 @@ msgid ""
 "email, you will encounter an error message."
 msgstr ""
 
-#: ../../get_started/toc.rst:162
+#: ../../get_started/toc.rst:163
 msgid ""
 "The error will prompt you to **contact your system administrator**. In "
 "this scenario, **the only way to log into your account** is by seeking "
 "assistance from your system administrator."
 msgstr ""
 
-#: ../../get_started/toc.rst:166
+#: ../../get_started/toc.rst:167
 msgid "Changing Your Password"
 msgstr ""
 
-#: ../../get_started/toc.rst:168
+#: ../../get_started/toc.rst:169
 msgid ""
 "Resetting a password becomes necessary when you want to update your "
 "existing password due to security reasons or any other relevant factors. "
@@ -6325,47 +6332,47 @@ msgid ""
 "the steps to change your password:"
 msgstr ""
 
-#: ../../get_started/toc.rst:170
+#: ../../get_started/toc.rst:171
 msgid "Log into your account."
 msgstr ""
 
-#: ../../get_started/toc.rst:171
+#: ../../get_started/toc.rst:172
 msgid "Click on the **settings** (gear icon) located in the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:172
+#: ../../get_started/toc.rst:173
 msgid "Select **Auth**."
 msgstr ""
 
-#: ../../get_started/toc.rst:173
+#: ../../get_started/toc.rst:174
 msgid "Click on Change Password."
 msgstr ""
 
-#: ../../get_started/toc.rst:174
+#: ../../get_started/toc.rst:175
 msgid "Enter your **old password** along with your new password."
 msgstr ""
 
-#: ../../get_started/toc.rst:175
+#: ../../get_started/toc.rst:176
 msgid "Click the **CHANGE PASSWORD** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:183
+#: ../../get_started/toc.rst:184
 msgid "Introduction of Carbonio Web Client"
 msgstr ""
 
-#: ../../get_started/toc.rst:185
+#: ../../get_started/toc.rst:186
 msgid ""
 "When you log in to check your emails, the **Carbonio web client "
 "interface** greets you with the following components:"
 msgstr ""
 
-#: ../../get_started/toc.rst:192
+#: ../../get_started/toc.rst:193
 msgid ""
 "**Left Sidebar**: This section provides navigation options and quick "
 "access to various features such as Mails, Calendars, Contacts, etc."
 msgstr ""
 
-#: ../../get_started/toc.rst:193
+#: ../../get_started/toc.rst:194
 msgid ""
 "**Navigation Panel**: Here, you will find additional context related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -6373,7 +6380,7 @@ msgid ""
 " inboxes and email folders here."
 msgstr ""
 
-#: ../../get_started/toc.rst:194
+#: ../../get_started/toc.rst:195
 msgid ""
 "**Main Panel**: The central area displays your actual content related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -6382,11 +6389,11 @@ msgid ""
 "events."
 msgstr ""
 
-#: ../../get_started/toc.rst:197
+#: ../../get_started/toc.rst:198
 msgid "Using Browser Buttons to Navigate Carbonio"
 msgstr ""
 
-#: ../../get_started/toc.rst:199
+#: ../../get_started/toc.rst:200
 msgid ""
 "It is recommended to avoid using your browser’s navigation buttons too "
 "frequently, especially when you are in the middle of composing an email "
@@ -6394,19 +6401,19 @@ msgid ""
 " you to lose what you are doing. So, proceed with caution."
 msgstr ""
 
-#: ../../get_started/toc.rst:201
+#: ../../get_started/toc.rst:202
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on Carbonio."
 msgstr ""
 
-#: ../../get_started/toc.rst:202
+#: ../../get_started/toc.rst:203
 msgid ""
 "**Forward Button**: If you have gone back and want to revisit a page you "
 "just left, click the forward button."
 msgstr ""
 
-#: ../../get_started/toc.rst:203
+#: ../../get_started/toc.rst:204
 msgid ""
 "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
 "Clicking it restarts your session, which can be especially dangerous when"
@@ -6414,11 +6421,11 @@ msgid ""
 "work."
 msgstr ""
 
-#: ../../get_started/toc.rst:206
+#: ../../get_started/toc.rst:207
 msgid "Account Personalization"
 msgstr ""
 
-#: ../../get_started/toc.rst:208
+#: ../../get_started/toc.rst:209
 msgid ""
 "Before you start using the Carbonio web client, take a moment to "
 "personalize your account. You can customize visual aspects such as the "
@@ -6428,110 +6435,110 @@ msgid ""
 "select **General Settings**."
 msgstr ""
 
-#: ../../get_started/toc.rst:212
+#: ../../get_started/toc.rst:213
 msgid "Changing Theme"
 msgstr ""
 
-#: ../../get_started/toc.rst:214
+#: ../../get_started/toc.rst:215
 msgid ""
 "A theme in the Carbonio web client defines the color scheme used for its "
 "appearance. Currently, there are **two themes** available: **Dark mode** "
 "and **Light mode**. Here is how you can manage them:"
 msgstr ""
 
-#: ../../get_started/toc.rst:216
+#: ../../get_started/toc.rst:217
 msgid "To **activate Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:218
+#: ../../get_started/toc.rst:219
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:220
+#: ../../get_started/toc.rst:221
 msgid "Under **Theme Options**, open the dropdown menu."
 msgstr ""
 
-#: ../../get_started/toc.rst:221
+#: ../../get_started/toc.rst:222
 msgid "Click on **Enabled**."
 msgstr ""
 
-#: ../../get_started/toc.rst:222
+#: ../../get_started/toc.rst:223
 msgid ""
 "Click on the **SAVE** button located in the **top right corner** of the "
 "screen."
 msgstr ""
 
-#: ../../get_started/toc.rst:224
+#: ../../get_started/toc.rst:225
 msgid "To **disable Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:226
+#: ../../get_started/toc.rst:227
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr ""
 
-#: ../../get_started/toc.rst:228
+#: ../../get_started/toc.rst:229
 msgid ""
 "If you choose **Auto**, Carbonio will adapt to your **operating system’s "
 "default theme**. For example:"
 msgstr ""
 
-#: ../../get_started/toc.rst:230
+#: ../../get_started/toc.rst:231
 msgid "If your OS theme is dark, Carbonio will also be in dark mode."
 msgstr ""
 
-#: ../../get_started/toc.rst:231
+#: ../../get_started/toc.rst:232
 msgid "If your OS theme is light, Carbonio will match that as well."
 msgstr ""
 
-#: ../../get_started/toc.rst:239
+#: ../../get_started/toc.rst:240
 msgid "Changing Font Size"
 msgstr ""
 
-#: ../../get_started/toc.rst:241
+#: ../../get_started/toc.rst:242
 msgid ""
 "You can change the font size across all Carbonio web clients according to"
 " your preferences. To change the font size simply follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:243 ../../get_started/toc.rst:262
-#: ../../get_started/toc.rst:277
+#: ../../get_started/toc.rst:244 ../../get_started/toc.rst:263
+#: ../../get_started/toc.rst:278
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:245
+#: ../../get_started/toc.rst:246
 msgid ""
 "Under the **Appearance** section, find the slider for adjusting the font "
 "size."
 msgstr ""
 
-#: ../../get_started/toc.rst:246
+#: ../../get_started/toc.rst:247
 msgid ""
 "If you want to manually control the font size, uncheck the option that "
 "says *Automatically resize the text size depending on the device*."
 msgstr ""
 
-#: ../../get_started/toc.rst:247
+#: ../../get_started/toc.rst:248
 msgid ""
 "Use the slider to set the font size to your preference. As you move the "
 "slider, you will see the results in the bottom box with some dummy text."
 msgstr ""
 
-#: ../../get_started/toc.rst:248
+#: ../../get_started/toc.rst:249
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:250
+#: ../../get_started/toc.rst:251
 msgid ""
 "Remember, if you prefer automatic resizing based on the device, you can "
 "leave the checkbox checked. Otherwise, adjust the font size manually "
 "using the slider."
 msgstr ""
 
-#: ../../get_started/toc.rst:258
+#: ../../get_started/toc.rst:259
 msgid "Changing Your Time Zone"
 msgstr ""
 
-#: ../../get_started/toc.rst:260
+#: ../../get_started/toc.rst:261
 msgid ""
 "As a digital workspace, Carbonio relies on precise time zone settings to "
 "ensure optimal performance for calendars and other features like emails, "
@@ -6540,35 +6547,35 @@ msgid ""
 "To change your time zone, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:264
+#: ../../get_started/toc.rst:265
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Time Zone** and choose your time zone."
 msgstr ""
 
-#: ../../get_started/toc.rst:265 ../../get_started/toc.rst:280
+#: ../../get_started/toc.rst:266 ../../get_started/toc.rst:281
 msgid "Click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:273
+#: ../../get_started/toc.rst:274
 msgid "Changing Carbonio Language"
 msgstr ""
 
-#: ../../get_started/toc.rst:275
+#: ../../get_started/toc.rst:276
 msgid "To change your Carbonio web client language, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:279
+#: ../../get_started/toc.rst:280
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Language** and choose your language."
 msgstr ""
 
-#: ../../get_started/toc.rst:283
+#: ../../get_started/toc.rst:284
 msgid "Accessing Multiple Accounts"
 msgstr ""
 
-#: ../../get_started/toc.rst:285
+#: ../../get_started/toc.rst:286
 msgid ""
 "On the Carbonio web client, you have access to multiple accounts. Let's "
 "say you have your personal account, as well as two additional accounts "
@@ -6579,7 +6586,7 @@ msgid ""
 "main account."
 msgstr ""
 
-#: ../../get_started/toc.rst:291
+#: ../../get_started/toc.rst:292
 msgid ""
 "So, when you sign into your main account, you will see these two "
 "additional accounts listed under your main account. To access these "
@@ -8456,5 +8463,23 @@ msgstr ""
 #~ "only way to log into your "
 #~ "account** is by seeking assistance from"
 #~ " your system administrator."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Before you can start the password "
+#~ "recovery procedure, you need to ask "
+#~ "the Administrator to configure a "
+#~ "recovery email for your account. Or "
+#~ "you can ask the Admin to set "
+#~ "up the chance for you to insert"
+#~ " your recovery address in *Auth* "
+#~ "panel, in **Settings** section."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A temporary *validation code*, that "
+#~ "expires in twenty-four hours, will "
+#~ "be sent to the recovery e-mail "
+#~ "address."
 #~ msgstr ""
 

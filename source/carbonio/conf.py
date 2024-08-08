@@ -94,6 +94,7 @@ html_theme_options = {
     'use_download_button': False,
     'use_repository_button': False,
     'use_issues_button': False,
+    'navigation_with_keys': False,
     'logo': {
         'image_light': 'carbonio-black.svg',
         'image_dark': 'carbonio-white.svg',

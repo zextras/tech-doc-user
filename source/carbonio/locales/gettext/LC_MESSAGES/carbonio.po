@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-07 09:47+0200\n"
+"POT-Creation-Date: 2024-08-08 16:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: gettext\n"
@@ -2982,6 +2982,127 @@ msgstr ""
 msgid ""
 "The default sorting mode automatically arranges emails based on their "
 "dates."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:243
+msgid "Emails date format"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:245
+msgid ""
+"To ensure clarity, the date format for emails that are not from the "
+"current day, it will always be displayed with the full date and time, "
+"with the complete timestamp."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:247
+msgid ""
+"The timestamp will be shown according to the browser language rules, as "
+"explained in the following table:"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:249
+msgid "Date Format"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:1
+msgid "Language"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:1
+msgid "Format"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇬🇧 English*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "07/25/2024 5:08 PM"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇮🇹 Italian*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "25/07/2024 17:08"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇨🇳 Chinese*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "2024/07/25 17:08"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇳🇱 Dutch*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "25-07-2024 17:08"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇩🇪 German*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "25.07.2024 17:08"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇮🇳 Hindi*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "२५/०७/२०२४ शाम ५:१३ बजे"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇯🇵 Japanese*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇵🇹 Portuguese*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇵🇱 Polish*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇧🇷 Portuguese (Brasil)*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇷🇴 Romanian*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇷🇺 Russian*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇪🇸 Spanish*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇹🇭 Thai*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇹🇷 Turkish*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇫🇷 French*"
+msgstr ""
+
+#: ../../browsing_emails/dateformat.csv:1
+msgid "*🇻🇳 Vietnamese*"
 msgstr ""
 
 #: ../../calendars/toc.rst:7

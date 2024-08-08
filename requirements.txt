@@ -4,10 +4,9 @@
 
 docutils
 sphinx_copybutton
-sphinx_rtd_theme
 sphinx-book-theme
 sphinx-design
 sphinx-intl
 Sphinx
 sphinxcontrib-email
-pygit2
+

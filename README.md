@@ -14,20 +14,19 @@ on https://docs.zextras.com/ web site.
 The source files are contained in the `source` directory, which is organised
 as follows:
 
-* `carbonio/`, `carbonio-ce/`, and `suite/`: all the documentation
+- `carbonio/`, `carbonio-ce/`, and `suite/`: all the documentation
   related to the given products, including all the layout files
   (theme, CSS)
-* `common`: files common to all products: CSS and documentation files
+- `common`: files common to all products: CSS and documentation files
   used by both Carbonio and Carbonio CE
-* `cli`: Zextras Suite Command Line Reference
-* `img`: images used by all products
-* `landing`: redirect page to official docs.zextras.com landing page
-* `_includes`: source file `include::`d by both Carbonio and Carbonio
+- `cli`: Zextras Suite Command Line Reference
+- `img`: images used by all products
+- `landing`: redirect page to official docs.zextras.com landing page
+- `_includes`: source file `include::`d by both Carbonio and Carbonio
   CE
-* `LICENSES`: text of licenses that are applied to this source code
+- `LICENSES`: text of licenses that are applied to this source code
 
-
-# Build Requirements
+# Build uirements
 
 The documentation is built with the latest version of Sphinx via a
 Makefile, therefore the basic requirements are:
@@ -88,9 +87,9 @@ successful, they will appear on the official documentation.
 
 By submitting a PR, you agree that:
 
-* you are the author and all the material you include in the PR is
+- you are the author and all the material you include in the PR is
   your own work
-* your work will be included in documentation and will be subject to
+- your work will be included in documentation and will be subject to
   the same license.
 
 ## Guidelines
@@ -102,35 +101,35 @@ up acceptance.
 
 PR including any of the following will **not** be accepted.
 
-* changes in CSS, theme, layout, Javascript, and in general any
+- changes in CSS, theme, layout, Javascript, and in general any
   changes related to the Zextras corporate identity
-* changes in licensing and copyright information (see section License
+- changes in licensing and copyright information (see section License
   and Copyright at the bottom)
-* any piece of work containing inappropriate language or material,
+- any piece of work containing inappropriate language or material,
   including but not limited to obscenity, profanity, vulgarity,
   derogative or discriminatory terms towards users or organisations
-* references to companies other than Zextras
-* copyrighted material (images, diagrams, text)
-* binary files other than images or diagrams
-* changes in terminology, examples, and scenarios used in the
+- references to companies other than Zextras
+- copyrighted material (images, diagrams, text)
+- binary files other than images or diagrams
+- changes in terminology, examples, and scenarios used in the
   documentation. However, we'll be happy if you submit your own
   examples and scenarios, that we will review and include if they are
   significant.
 
 ### Pull Requests
 
-* Each PR must address one issue at a time and should contain changes
+- Each PR must address one issue at a time and should contain changes
   to one topic **only**. Example: if you submit a work focused on the
   use of Calendar, the PR can not contain references to Chat or to a
   Management Task.
-* Open a PR only when you consider it ready for review.
-* Make sure the PR is REUSE complaint.
-* You can prefix the PR's title like the following for a better
+- Open a PR only when you consider it ready for review.
+- Make sure the PR is REUSE complaint.
+- You can prefix the PR's title like the following for a better
   understanding of your contribution
-  * [NEW] a new and original piece of work
-  * [BUG] a correction to something wrong (typos, concepts described,
+  - [NEW] a new and original piece of work
+  - [BUG] a correction to something wrong (typos, concepts described,
     and so on)
-  * [ENH] improvements to an existing piece of work
+  - [ENH] improvements to an existing piece of work
 
 ### Commits and Commit Messages
 

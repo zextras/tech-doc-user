@@ -237,4 +237,20 @@ The default sorting mode automatically arranges emails based on their dates.
         :align: center
         :width: 100%
 
-        
+.. _dateformat:
+
+Emails date format
+==================
+
+To ensure clarity, the date format for emails that are not from the current day, it will always be displayed with the full date and time, with the complete timestamp.
+
+The timestamp will be shown according to the browser language rules, as explained in the following table:
+
+.. csv-table:: Date Format
+   :header: "Language", "Format"
+   :file: dateformat.csv
+
+
+
+
+

@@ -21,10 +21,15 @@ To read an email simply:
         :width: 100%
 
 
-Note that within the Carbonio web client, there are two distinct methods for displaying emails:
+Within the Carbonio web client, there are two distinct methods for displaying emails:
 
 •	**Message View**: In this mode, emails are displayed individually in your main panel. Each email is listed separately, allowing you to view them one by one.
 •	**Conversation View**: When utilizing this option, emails are grouped based on threads. If multiple emails are part of a conversation or have been replied to together, they will appear grouped as a single thread in your main panel.
+
+Note that in case of small screens, you have the chance to to **resize the columns** that separate the email list from the one with the email preview. 
+Furthermore you can easily change the layout from vertical to horizontal, just by clicking on the **tab icon**, right beside the **sorting icon**.
+
+These options allow you to have more space to preview the email and to choose the best layout for your email readability.
 
 
 Using Message View

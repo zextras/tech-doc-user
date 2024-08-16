@@ -135,7 +135,10 @@ To ensure the security of your Carbonio web client, it is essential to sign out 
 *	Navigate to General Settings.
 *	In the **Account** section, click the **LOGOUT** button, and you will be successfully logged out.
 
-For security purposes, your system administrator might set a maximum duration for your login session. If you reach this limit, you will be automatically signed out. You can simply log back in as usual to continue working.
+For security purposes, your system administrator might set a maximum duration for your login session.
+
+When your session is about to expire, you will be notified in advance through the bottom left bar, which will display the remaining time: 10 minutes, 3 minutes, and 60 seconds before the session ends, respectively. In the snackbar, you will find the option to return to the login page.
+You can simply log back in as usual to continue working.
 
 In Case of Forgetting Your Password
 ===================================

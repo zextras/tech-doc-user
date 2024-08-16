@@ -68,6 +68,8 @@ To include additional recipients in either the *copy* or *blind copy* sections o
 
 Additionally, you can utilize the **drag-and-drop** feature to effortlessly move email addresses from the To field to the Cc or Bcc fields while composing your message. To do so, simply click and hold on an address bubble and drag it to the desired field.
 
+You can also copy-paste email addresses directly into the To, CC, and BCC fields, while composing an email: furthermore, a small contextual menu appears when you right-click in the To, CC, or BCC fields, so you can directly click "Paste" to insert email adresses, you previously copied, in the related fields.
+
   .. image:: /img/usage/addressing-email.png
         :align: center
         :width: 100%

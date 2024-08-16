@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Zextras Carbonio 24.7.1\n"
+"Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-08 16:38+0200\n"
+"POT-Creation-Date: 2024-08-16 18:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,9 +85,9 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:389
 #: ../../advanced_email_management/toc.rst:400
 #: ../../advanced_email_management/toc.rst:413
-#: ../../advanced_email_management/toc.rst:437
-#: ../../advanced_email_management/toc.rst:490
-#: ../../advanced_email_management/toc.rst:505
+#: ../../advanced_email_management/toc.rst:449
+#: ../../advanced_email_management/toc.rst:502
+#: ../../advanced_email_management/toc.rst:517
 #: ../../calendars/toc.rst:24
 #: ../../calendars/toc.rst:140
 #: ../../calendars/toc.rst:156
@@ -228,9 +228,9 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:100
 #: ../../basic_email_management/toc.rst:110
 #: ../../basic_email_management/toc.rst:123
-#: ../../composing_emails/toc.rst:197
-#: ../../composing_emails/toc.rst:217
-#: ../../composing_emails/toc.rst:228
+#: ../../composing_emails/toc.rst:199
+#: ../../composing_emails/toc.rst:219
+#: ../../composing_emails/toc.rst:230
 msgid "Right-click on the email."
 msgstr ""
 
@@ -267,10 +267,10 @@ msgid "When you are away from the office, setting up an automatic reply can keep
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:126
-#: ../../get_started/toc.rst:220
-#: ../../get_started/toc.rst:245
-#: ../../get_started/toc.rst:264
-#: ../../get_started/toc.rst:279
+#: ../../get_started/toc.rst:223
+#: ../../get_started/toc.rst:248
+#: ../../get_started/toc.rst:267
+#: ../../get_started/toc.rst:282
 msgid "Select General Settings."
 msgstr ""
 
@@ -781,8 +781,8 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:393
 #: ../../advanced_email_management/toc.rst:404
 #: ../../advanced_email_management/toc.rst:416
-#: ../../advanced_email_management/toc.rst:443
-#: ../../advanced_email_management/toc.rst:494
+#: ../../advanced_email_management/toc.rst:455
+#: ../../advanced_email_management/toc.rst:506
 msgid "Click **SAVE** from the top-right corner."
 msgstr ""
 
@@ -843,209 +843,221 @@ msgid "You can effortlessly switch between identities/personas by selecting them
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:421
-msgid "Email Delegations"
+msgid "Changing Signature While Composing An Email"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:423
-msgid "You can permit others to send emails on your behalf. When someone sends an email on your behalf, the recipient sees both your name and the sender's name. It is important to note that this is not the same as sharing your entire inbox. The sender operates from their email account when sending emails on your behalf, with your name selected from the From field drop-down menu as the sender."
+msgid "If you have set two or more signatures, you can easily switch between them, while you are writing an email."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:425
-msgid "Similarly, if you have been delegated permission to send emails on behalf of someone else, you can do so with their email address as the sender. In this case, the From address will display both your email address and the person you are representing. When you have been given authorization to send an email to that person, their email address appears in the menu, without including your address in the email."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:427
-msgid "Email delegation can be particularly useful in scenarios where you need someone else to handle your email correspondence on your behalf, such as when you are out of the office or managing multiple responsibilities. It allows for efficient management of emails without the need for direct access to your inbox, streamlining communication processes. This feature is especially handy for executives, assistants, or team members who need to act on behalf of others while maintaining clarity about the sender's identity."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:431
-msgid "Delegating Others to Send Emails on Your Behalf"
+msgid "Just click on the **feather pen icon** on top of the composing tab and choose the one you want to use, between the different options in the list, based on the existing signatures. You can also choose *Do not use a signature* option, if you want to completely remove the signature from the current email."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:433
-msgid "You can authorize others to send messages on your behalf. When they do so, your name and email address appear as the sender, even though the message is dispatched from the delegate's inbox."
+msgid "Email Delegations"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:435
-msgid "To set this up:"
+msgid "You can permit others to send emails on your behalf. When someone sends an email on your behalf, the recipient sees both your name and the sender's name. It is important to note that this is not the same as sharing your entire inbox. The sender operates from their email account when sending emails on your behalf, with your name selected from the From field drop-down menu as the sender."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:438
-#: ../../advanced_email_management/toc.rst:491
-#: ../../advanced_email_management/toc.rst:506
-msgid "Select **Accounts**."
+#: ../../advanced_email_management/toc.rst:437
+msgid "Similarly, if you have been delegated permission to send emails on behalf of someone else, you can do so with their email address as the sender. In this case, the From address will display both your email address and the person you are representing. When you have been given authorization to send an email to that person, their email address appears in the menu, without including your address in the email."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:439
-msgid "In the Delegates section, click **ADD DELEGATE**."
+msgid "Email delegation can be particularly useful in scenarios where you need someone else to handle your email correspondence on your behalf, such as when you are out of the office or managing multiple responsibilities. It allows for efficient management of emails without the need for direct access to your inbox, streamlining communication processes. This feature is especially handy for executives, assistants, or team members who need to act on behalf of others while maintaining clarity about the sender's identity."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:440
-msgid "Enter the email address of the person you are authorizing; this should be an internal user's address like one of your colleagues."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:441
-msgid "Choose the permissions you wish to grant, and then click **OK**."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:442
-msgid "Choose Save a copy of sent messages to my Sent folder from the list, if you want to get a copy of the email sent by the delegate. Otherwise, you can choose different options based on your preferences."
+#: ../../advanced_email_management/toc.rst:443
+msgid "Delegating Others to Send Emails on Your Behalf"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:445
-msgid "An email notification will be sent to the designated person, informing them of their newly acquired delegate permissions."
+msgid "You can authorize others to send messages on your behalf. When they do so, your name and email address appear as the sender, even though the message is dispatched from the delegate's inbox."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:447
+msgid "To set this up:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:450
+#: ../../advanced_email_management/toc.rst:503
+#: ../../advanced_email_management/toc.rst:518
+msgid "Select **Accounts**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:451
+msgid "In the Delegates section, click **ADD DELEGATE**."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:452
-msgid "Sending Email on Behalf of Someone Else"
+msgid "Enter the email address of the person you are authorizing; this should be an internal user's address like one of your colleagues."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:453
+msgid "Choose the permissions you wish to grant, and then click **OK**."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:454
+msgid "Choose Save a copy of sent messages to my Sent folder from the list, if you want to get a copy of the email sent by the delegate. Otherwise, you can choose different options based on your preferences."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:457
+msgid "An email notification will be sent to the designated person, informing them of their newly acquired delegate permissions."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:464
+msgid "Sending Email on Behalf of Someone Else"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:466
 msgid "If you have been granted delegate permissions for another person, you can send emails on their behalf. While composing an email, click on the top-left corner where your account name is displayed. From there, you can select your email address, as well as any other identities or personas you may have, and the person you are representing. If you have been permitted to send messages as that individual, their email address will be available in the menu. When selected, your address will be omitted from the email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:463
+#: ../../advanced_email_management/toc.rst:475
 msgid "Account Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:465
+#: ../../advanced_email_management/toc.rst:477
 msgid "When sending emails, each email is associated with an email account. By default, your primary identity is tied to your account name when setting up your email account. However, you have the option to create additional email identities known as personas, which can be used to manage different types of emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:467
+#: ../../advanced_email_management/toc.rst:479
 msgid "For instance, you might establish one persona for your sales correspondence and another for personal emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:469
-#: ../../advanced_email_management/toc.rst:474
+#: ../../advanced_email_management/toc.rst:481
+#: ../../advanced_email_management/toc.rst:486
 msgid "If you have multiple personas or external accounts linked, you can choose the specific persona you wish to utilize when sending an email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:472
+#: ../../advanced_email_management/toc.rst:484
 msgid "Using Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:476
+#: ../../advanced_email_management/toc.rst:488
 msgid "You can send emails from different personas while composing a message."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:478
+#: ../../advanced_email_management/toc.rst:490
 msgid "The recipient will see the username aligned with the selected persona as the sender of the emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:480
+#: ../../advanced_email_management/toc.rst:492
 msgid "To switch personas, follow these steps:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:482
+#: ../../advanced_email_management/toc.rst:494
 msgid "Click on your email address located at the **top left corner** of the composing board when composing your email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:483
+#: ../../advanced_email_management/toc.rst:495
 msgid "Choose your preferred persona from the menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:486
+#: ../../advanced_email_management/toc.rst:498
 msgid "Creating Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:488
+#: ../../advanced_email_management/toc.rst:500
 msgid "To create a new persona alongside your default one:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:492
+#: ../../advanced_email_management/toc.rst:504
 msgid "Under the Accounts list section, click **ADD PERSONA**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:493
+#: ../../advanced_email_management/toc.rst:505
 msgid "Under the **Persona Settings** section, choose a name for the added persona."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:501
+#: ../../advanced_email_management/toc.rst:513
 msgid "Removing Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:503
+#: ../../advanced_email_management/toc.rst:515
 msgid "To remove a persona:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:507
+#: ../../advanced_email_management/toc.rst:519
 msgid "Under the Accounts list section, select the persona you wish to remove."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:508
+#: ../../advanced_email_management/toc.rst:520
 msgid "Click **DELETE**, and then **DELETE PERMANENTLY** to confirm."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:511
+#: ../../advanced_email_management/toc.rst:523
 msgid "Set Email Retention and Disposal Policies for a Folder"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:513
+#: ../../advanced_email_management/toc.rst:525
 msgid "The email **retention policy** establishes that emails stored within a designated folder and falling within the retention period will necessitate explicit confirmation before deletion. Conversely, the email **disposal policy** dictates that emails residing in a specified folder and surpassing the disposal threshold will undergo automated cleanup and deletion without requiring manual intervention."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:516
+#: ../../advanced_email_management/toc.rst:528
 msgid "To enable and set a **retention policy** for a folder:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:518
 #: ../../advanced_email_management/toc.rst:530
+#: ../../advanced_email_management/toc.rst:542
 #: ../../basic_email_management/toc.rst:22
 #: ../../basic_email_management/toc.rst:34
 #: ../../basic_email_management/toc.rst:64
 msgid "From the left sidebar click on the **Mails** section."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:519
+#: ../../advanced_email_management/toc.rst:531
 msgid "In the Navigation Panel, right-click on the folder for which you wish to set its retention policy."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:520
 #: ../../advanced_email_management/toc.rst:532
+#: ../../advanced_email_management/toc.rst:544
 msgid "From the dropdown menu, select **Edit**. A new window appears."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:521
 #: ../../advanced_email_management/toc.rst:533
+#: ../../advanced_email_management/toc.rst:545
 msgid "Click the downward arrow next to the **Retention policy** section."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:522
+#: ../../advanced_email_management/toc.rst:534
 msgid "Tick the box labeled Enable Message Retention."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:523
+#: ../../advanced_email_management/toc.rst:535
 msgid "Enter a numerical value in the **Retention Range** field and choose the appropriate unit of time (such as days, weeks, etc.) from the adjacent dropdown menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:524
 #: ../../advanced_email_management/toc.rst:536
+#: ../../advanced_email_management/toc.rst:548
 #: ../../tasks/toc.rst:41
 msgid "Click **EDIT**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:526
+#: ../../advanced_email_management/toc.rst:538
 msgid "After clicking EDIT, the retention policy will be activated for the specified folder, requiring explicit confirmation before the deletion of emails within the retention period."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:528
+#: ../../advanced_email_management/toc.rst:540
 msgid "To enable and set a **disposal policy** for a folder:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:531
+#: ../../advanced_email_management/toc.rst:543
 msgid "In the Navigation Panel, right-click on the folder for which you wish to set its disposal policy."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:534
+#: ../../advanced_email_management/toc.rst:546
 msgid "Tick the box labeled Enable Message Disposal."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:535
+#: ../../advanced_email_management/toc.rst:547
 msgid "Enter a numerical value in the **Disposal Threshold** field and choose the appropriate unit of time (such as days, weeks, etc.) from the adjacent dropdown menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:538
+#: ../../advanced_email_management/toc.rst:550
 msgid "After clicking EDIT, the disposal policy will be applied to the specified folder, triggering automated cleanup and deletion for emails surpassing the disposal threshold."
 msgstr ""
 
@@ -2023,7 +2035,7 @@ msgid "Select the email from the main panel."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:24
-msgid "Note that within the Carbonio web client, there are two distinct methods for displaying emails:"
+msgid "Within the Carbonio web client, there are two distinct methods for displaying emails:"
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:26
@@ -2034,321 +2046,329 @@ msgstr ""
 msgid "**Conversation View**: When utilizing this option, emails are grouped based on threads. If multiple emails are part of a conversation or have been replied to together, they will appear grouped as a single thread in your main panel."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:31
+#: ../../browsing_emails/toc.rst:29
+msgid "Note that in case of small screens, you have the chance to to **resize the columns** that separate the email list from the one with the email preview. Furthermore you can easily change the layout from vertical to horizontal, just by clicking on the **tab icon**, right beside the **sorting icon**."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:32
+msgid "These options allow you to have more space to preview the email and to choose the best layout for your email readability."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:36
 msgid "Using Message View"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:33
+#: ../../browsing_emails/toc.rst:38
 msgid "Message view provides a straightforward approach to managing emails. Users can easily locate a desired email in their inbox and read it directly in the main panel. However, when dealing with email replies, users must manually search for each reply separately from their email list, which can be cumbersome and time-consuming."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:35
+#: ../../browsing_emails/toc.rst:40
 msgid "Message view can be useful for users who prefer to deal with emails on a one-by-one basis. It provides a clear and focused way to address each email individually, making it easier to manage and respond to messages without the distraction of other emails in the same thread. This mode is particularly beneficial for users who receive a moderate volume of emails and want to maintain a linear workflow without getting overwhelmed by grouped conversations."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:37
+#: ../../browsing_emails/toc.rst:42
 msgid "When you are reading an email, there is a button labeled **SHOW QUOTED TEXT** If you click it, you can see the earlier emails that this one is replying to. But remember, you can only see those earlier messages if the person who replied did not delete them when they wrote their reply."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:46
+#: ../../browsing_emails/toc.rst:51
 msgid "Using Conversation View"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:48
+#: ../../browsing_emails/toc.rst:53
 msgid "Conversation view offers a comprehensive way to track email exchanges within a thread. Users can conveniently access an email and its related replies by selecting the corresponding thread from the list displayed in the main panel. To locate a specific reply, users simply need to expand the thread by clicking on the downward arrow next to the original email. This action reveals all the replies nested underneath, allowing users to review the entire conversation in a single, organized view."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:50
+#: ../../browsing_emails/toc.rst:55
 msgid "Conversations can extend across multiple folders. For instance, one conversation might be in your Inbox, another in your Sent folder, and additional ones in a different folder altogether. When you move a conversation from one folder to another, all the messages within that conversation are relocated to the new folder. However, messages in the Sent and Trash folders remain unaffected by this action and are not moved."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:52
+#: ../../browsing_emails/toc.rst:57
 msgid "To initiate a new conversation thread, you need to compose a new email rather than replying to or forwarding an existing email."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:54
+#: ../../browsing_emails/toc.rst:59
 msgid "The conversation view is advantageous for users who frequently engage in email exchanges with multiple participants. Grouping related emails into threads allows users to follow the flow of conversation more easily, making it simpler to track the context and progression of discussions over time. This mode is especially helpful for users who collaborate on projects, participate in group discussions, or communicate with multiple stakeholders, as it facilitates better organization and comprehension of complex email interactions. Additionally, the conversation view can help users save time by reducing the need to search for related emails scattered throughout their inbox."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:63
+#: ../../browsing_emails/toc.rst:68
 msgid "Changing Email Visualization Method"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:65
+#: ../../browsing_emails/toc.rst:70
 msgid "To adjust Carbonio's email visualization, whether opting for threaded conversations or individual messages:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:67
+#: ../../browsing_emails/toc.rst:72
 msgid "Navigate to the **Settings** (Gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:68
+#: ../../browsing_emails/toc.rst:73
 msgid "Access the **Mails** section."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:69
+#: ../../browsing_emails/toc.rst:74
 msgid "Under the **Visualization Options** select your preferred viewing mode, either *By Conversation* or *By Message*."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:77
+#: ../../browsing_emails/toc.rst:82
 msgid "Email Attachment Files"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:79
+#: ../../browsing_emails/toc.rst:84
 msgid "Emails can contain various types of attached files, such as word processing documents, spreadsheets, text files, ZIP archives, images, executable applications, or any other computer file stored on the sender’s network. Messages with attachments are indicated by a paper clip icon next to the subject line."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:81
+#: ../../browsing_emails/toc.rst:86
 msgid "You can directly access any attached file from your account, provided you have the appropriate application, and the file extension is not blocked by your system administrator."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:83
+#: ../../browsing_emails/toc.rst:88
 msgid "If your computer has compatible software installed, simply downloading, and double-clicking on the file will open it in the correct application for viewing."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:85
+#: ../../browsing_emails/toc.rst:90
 msgid "File attachments are a common vector for spreading computer viruses. To mitigate this risk, system administrators often block incoming emails containing certain attachment types, such as those with .EXE or .ZIP extensions. If you need to receive such attachments, you can ask your system administrators to allow such files."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:87
+#: ../../browsing_emails/toc.rst:92
 msgid "Virus filtering for incoming emails and regular virus scans for personal computers are standard practices among system administrators. However, there is always a possibility of a virus slipping through these defenses."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:89
+#: ../../browsing_emails/toc.rst:94
 msgid "Email viruses are typically activated when the infected attachment is opened or viewed. Many of these viruses propagate themselves by exploiting entries in users' address books. Therefore, it is advisable to exercise caution when opening attachments, even from seemingly familiar senders."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:93
+#: ../../browsing_emails/toc.rst:98
 msgid "Previewing Attachments"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:95
+#: ../../browsing_emails/toc.rst:100
 msgid "To access an attachment, follow these steps:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:97
+#: ../../browsing_emails/toc.rst:102
 msgid "Open the message containing the attachment."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:98
+#: ../../browsing_emails/toc.rst:103
 msgid "Click on the attachment's name to open it, provided it is one of the following file formats: PDF, ODT, ODS, ODP, DOC, XLS, PPT, DOCX, XLSX, PPTX."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:100
+#: ../../browsing_emails/toc.rst:105
 msgid "Alternatively, if the attachment has a different file format, **hover** your mouse cursor over the attachment's name to reveal the **Download icon**. Click on it to initiate the download process. This will open a dialog box, enabling you to specify the destination folder. Remember that the attachment remains associated with the email until you choose to remove it."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:109
-#: ../../composing_emails/toc.rst:117
+#: ../../browsing_emails/toc.rst:114
+#: ../../composing_emails/toc.rst:119
 msgid "Removing Attachments"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:111
+#: ../../browsing_emails/toc.rst:116
 msgid "Attachments included in your email contribute to your storage quota. Consider removing larger attachments to free up space. Deleting the attachment from the message removes the file from your mailbox. However, if you have already downloaded the file, you will still have a copy saved on your device."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:113
+#: ../../browsing_emails/toc.rst:118
 msgid "To remove an attachment:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:115
+#: ../../browsing_emails/toc.rst:120
 msgid "Open the email that includes the attachment."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:116
+#: ../../browsing_emails/toc.rst:121
 msgid "Hover your mouse cursor on the attachment to reveal the **Delete icon**. Click on it to remove the attachment."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:123
+#: ../../browsing_emails/toc.rst:128
 msgid "Downloading / Saving Attachments on Your Computer"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:125
+#: ../../browsing_emails/toc.rst:130
 msgid "To download an attachment to your computer:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:127
-#: ../../browsing_emails/toc.rst:141
+#: ../../browsing_emails/toc.rst:132
+#: ../../browsing_emails/toc.rst:146
 msgid "Open the email containing the attachment."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:128
+#: ../../browsing_emails/toc.rst:133
 msgid "Under the attachment, click **Download** to initiate the download process. This will open a window, enabling you to specify the destination folder."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:137
+#: ../../browsing_emails/toc.rst:142
 msgid "Saving Attachments in Your Carbonio Files"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:139
+#: ../../browsing_emails/toc.rst:144
 msgid "To save an attachment in your Carbonio Files:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:142
+#: ../../browsing_emails/toc.rst:147
 msgid "Under the attachment, click **Save to Files**. This will open a window, enabling you to specify the destination folder on your Files."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:149
+#: ../../browsing_emails/toc.rst:154
 msgid "Deleting an Email"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:151
+#: ../../browsing_emails/toc.rst:156
 msgid "You have the option to remove an individual email or entire conversation thread. For that:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:153
+#: ../../browsing_emails/toc.rst:158
 msgid "Right-click on the email or conversation you want to remove."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:154
+#: ../../browsing_emails/toc.rst:159
 msgid "Choose the **Delete** option from the menu."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:155
+#: ../../browsing_emails/toc.rst:160
 msgid "The deleted emails will then be moved to your **Trash folder**."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:157
+#: ../../browsing_emails/toc.rst:162
 msgid "Deleted emails will then be moved to your Trash folder. You can retrieve items from the Trash within a 30-day window after deletion (unless your system administrator sets it otherwise). Beyond this period, the items will be permanently removed."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:159
+#: ../../browsing_emails/toc.rst:164
 msgid "Additionally, you can manually access your Trash folder and permanently erase the email by right-clicking on it and selecting **Delete Permanently**."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:167
+#: ../../browsing_emails/toc.rst:172
 msgid "Marking an Email as Unread"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:169
+#: ../../browsing_emails/toc.rst:174
 msgid "Marking emails as unread can be particularly helpful when you need to revisit an email for future reference or further reading, especially if you have already opened it but have not had the chance to fully engage with its content."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:171
+#: ../../browsing_emails/toc.rst:176
 msgid "The key distinction between a read and unread email lies in their appearance within your inbox: read emails typically display with regular text, while unread emails stand out with bold subject lines, making them easier to spot."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:173
+#: ../../browsing_emails/toc.rst:178
 msgid "To mark an email as unread, follow these steps:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:175
+#: ../../browsing_emails/toc.rst:180
 msgid "Right-click on the email you wish to mark as unread."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:176
+#: ../../browsing_emails/toc.rst:181
 msgid "From the menu that appears, select **Mark as unread**."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:177
+#: ../../browsing_emails/toc.rst:182
 msgid "Notice how the email's subject line now appears in bold font."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:179
+#: ../../browsing_emails/toc.rst:184
 msgid "It is important to be cautious after marking an email as unread, as inadvertently clicking on it again will remove the bold formatting from the subject line which undo your action."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:188
+#: ../../browsing_emails/toc.rst:193
 msgid "Printing an Email"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:191
+#: ../../browsing_emails/toc.rst:196
 msgid "To print an email:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:193
+#: ../../browsing_emails/toc.rst:198
 msgid "Right-click on the email or conversation you wish to print."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:194
+#: ../../browsing_emails/toc.rst:199
 msgid "Select the **Print** option from the menu."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:195
+#: ../../browsing_emails/toc.rst:200
 msgid "A new tab will open in your browser displaying the email, along with a window for adjusting printer settings. Make any necessary adjustments."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:196
+#: ../../browsing_emails/toc.rst:201
 msgid "Click the Print button to proceed with printing."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:204
+#: ../../browsing_emails/toc.rst:209
 msgid "Actions on Multiple Emails at Once"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:206
+#: ../../browsing_emails/toc.rst:211
 msgid "To perform an action on multiple emails:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:208
+#: ../../browsing_emails/toc.rst:213
 msgid "Click on the check mark icon at the top left corner of your main panel to enter selection mode."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:209
+#: ../../browsing_emails/toc.rst:214
 msgid "Select the empty circles beside each email you wish to choose."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:210
+#: ../../browsing_emails/toc.rst:215
 msgid "Click on the three vertical dots icon at the top right corner of the email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:211
+#: ../../browsing_emails/toc.rst:216
 msgid "Choose the action you want to perform."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:213
+#: ../../browsing_emails/toc.rst:218
 msgid "The available actions for multiple emails include marking as unread, adding a flag, moving, and tagging."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:215
+#: ../../browsing_emails/toc.rst:220
 msgid "To delete multiple emails at once:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:217
+#: ../../browsing_emails/toc.rst:222
 msgid "Select multiple emails as described above."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:218
+#: ../../browsing_emails/toc.rst:223
 msgid "Click on the trash icon at the top right corner of your email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:226
+#: ../../browsing_emails/toc.rst:231
 msgid "Sorting Emails"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:228
+#: ../../browsing_emails/toc.rst:233
 msgid "Sorting emails can offer significant utility across various scenarios. You have the flexibility to categorize emails based on criteria such as unread status, importance, flagged status, presence of attachments, sender, date, and subject."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:230
+#: ../../browsing_emails/toc.rst:235
 msgid "To initiate sorting, click on the **sorting icon** located in the top right corner of your email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:231
+#: ../../browsing_emails/toc.rst:236
 msgid "Choose your preferred sorting criterion from the options provided."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:232
+#: ../../browsing_emails/toc.rst:237
 msgid "Once selected, click on the sorting icon again to toggle between ascending and descending order as per your preference."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:234
+#: ../../browsing_emails/toc.rst:239
 msgid "The default sorting mode automatically arranges emails based on their dates."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:243
+#: ../../browsing_emails/toc.rst:248
 msgid "Emails date format"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:245
+#: ../../browsing_emails/toc.rst:250
 msgid "To ensure clarity, the date format for emails that are not from the current day, it will always be displayed with the full date and time, with the complete timestamp."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:247
+#: ../../browsing_emails/toc.rst:252
 msgid "The timestamp will be shown according to the browser language rules, as explained in the following table:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:249
+#: ../../browsing_emails/toc.rst:254
 msgid "Date Format"
 msgstr ""
 
@@ -3393,264 +3413,268 @@ msgstr ""
 msgid "Additionally, you can utilize the **drag-and-drop** feature to effortlessly move email addresses from the To field to the Cc or Bcc fields while composing your message. To do so, simply click and hold on an address bubble and drag it to the desired field."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:76
-msgid "Attachments"
+#: ../../composing_emails/toc.rst:71
+msgid "You can also copy-paste email addresses directly into the To, CC, and BCC fields, while composing an email: furthermore, a small contextual menu appears when you right-click in the To, CC, or BCC fields, so you can directly click \"Paste\" to insert email adresses, you previously copied, in the related fields."
 msgstr ""
 
 #: ../../composing_emails/toc.rst:78
+msgid "Attachments"
+msgstr ""
+
+#: ../../composing_emails/toc.rst:80
 msgid "Attachments play a crucial role in enhancing the effectiveness of email communication by allowing users to include supplementary files such as documents, images, videos, or spreadsheets along with their messages. Below, you will discover various actions you can take with attachments while composing an email."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:81
+#: ../../composing_emails/toc.rst:83
 msgid "Adding Attachments"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:83
+#: ../../composing_emails/toc.rst:85
 msgid "You can attach any file from your computer or Carbonio Files by using the **paperclip** icon inside the composing board."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:85
+#: ../../composing_emails/toc.rst:87
 msgid "Adding attachment from your computer:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:87
-#: ../../composing_emails/toc.rst:95
+#: ../../composing_emails/toc.rst:89
+#: ../../composing_emails/toc.rst:97
 msgid "Click on the paperclip icon."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:88
+#: ../../composing_emails/toc.rst:90
 msgid "Select Add from local."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:89
+#: ../../composing_emails/toc.rst:91
 msgid "A new window appears, and you can select desired files from your computer."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:91
+#: ../../composing_emails/toc.rst:93
 msgid "Alternatively, you can simply drag a file from your computer to the composing board to add it as an attachment to your email."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:93
+#: ../../composing_emails/toc.rst:95
 msgid "Adding attachment from your Carbonio Files:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:96
+#: ../../composing_emails/toc.rst:98
 msgid "Select Add from Files."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:97
+#: ../../composing_emails/toc.rst:99
 msgid "A new window appears, and you can select desired files from your Carbonio Files."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:99
+#: ../../composing_emails/toc.rst:101
 msgid "It is important to note that computer viruses are commonly transmitted through file attachments. As a precaution, system administrators may block incoming emails containing certain types of attachments, particularly those with extensions such as .EXE or .ZIP as part of their filename. If you send an email to someone whose email system blocks these attachments, you may not receive any notification about the blocking. Therefore, it is advisable to confirm with your recipient whether they have received the attachment or not."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:106
+#: ../../composing_emails/toc.rst:108
 msgid "Managing Large Attachments"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:108
+#: ../../composing_emails/toc.rst:110
 msgid "When you want to attach large attachments to an email, you may encounter some limitations. With the \"smart links\" option, it is possible to convert every attachment in Smart Links by clicking the **paperclip** icon inside the composing board and chosing the \"Add public link from Files option\"."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:114
+#: ../../composing_emails/toc.rst:116
 msgid "Afterwards, simply follow the path and select the folder inside Files, where is located the file you want to send."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:119
+#: ../../composing_emails/toc.rst:121
 msgid "To remove an attachment from the email you are composing, simply click on the **Remove** button located beneath the attachment."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:122
+#: ../../composing_emails/toc.rst:124
 msgid "Send an Email from a Different Account or Persona"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:124
+#: ../../composing_emails/toc.rst:126
 msgid "You can send emails from different personas or email identities while composing a message."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:126
+#: ../../composing_emails/toc.rst:128
 msgid "This feature is available if you have multiple identities or personas set up."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:128
+#: ../../composing_emails/toc.rst:130
 msgid "An email identity refers to having access to multiple accounts on the Carbonio web client, allowing you to choose which one to send the email from. Alternatively, if you have configured another persona in your settings, you can send messages from it. In either case, the recipient will see the email address or username aligned with the selected identity or persona as the sender of the emails."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:130
+#: ../../composing_emails/toc.rst:132
 msgid "To switch identities or personas, follow these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:132
+#: ../../composing_emails/toc.rst:134
 msgid "Click on your email address located at the **top left corner** of the composing board."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:133
+#: ../../composing_emails/toc.rst:135
 msgid "Choose your preferred identity or persona from the menu."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:141
+#: ../../composing_emails/toc.rst:143
 msgid "Request a Read Receipt"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:143
+#: ../../composing_emails/toc.rst:145
 msgid "You can configure your email to automatically request a read receipt when your colleague opens your sent email."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:145
+#: ../../composing_emails/toc.rst:147
 msgid "Read receipts are useful to use when you need confirmation that your email has been received and opened, especially in time-sensitive or important communications, for accountability purposes, or in situations where tracking engagement is crucial, such as in sales or marketing endeavors."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:147
+#: ../../composing_emails/toc.rst:149
 msgid "To request a read receipt while composing an email:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:149
-#: ../../composing_emails/toc.rst:162
+#: ../../composing_emails/toc.rst:151
+#: ../../composing_emails/toc.rst:164
 msgid "Click on the **three vertical dots** located within the composing board at the top right corner."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:150
+#: ../../composing_emails/toc.rst:152
 msgid "Select *Request read receipt*."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:158
+#: ../../composing_emails/toc.rst:160
 msgid "Mark an Email as Important"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:160
+#: ../../composing_emails/toc.rst:162
 msgid "To mark the email, you are composing for your colleague as important, follow these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:163
+#: ../../composing_emails/toc.rst:165
 msgid "Choose Mark as important."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:165
+#: ../../composing_emails/toc.rst:167
 msgid "Important emails will be indicated by a red upward arrow in front of the subject line within your colleagues' web client."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:168
+#: ../../composing_emails/toc.rst:170
 msgid "Save an Email as a Draft"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:170
+#: ../../composing_emails/toc.rst:172
 msgid "While composing an email, if you need to send it later or finish it in the future, you can save it as a draft by following these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:172
+#: ../../composing_emails/toc.rst:174
 msgid "Click on the \"**x**\" button located at the top right corner of the composing board."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:173
+#: ../../composing_emails/toc.rst:175
 msgid "A new window will open, then click on the **SAVE DRAFT** button."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:174
+#: ../../composing_emails/toc.rst:176
 msgid "Your email will be saved in the **Draft** folder accessible from your navigation panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:178
+#: ../../composing_emails/toc.rst:180
 msgid "Send a Drafted Email"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:180
+#: ../../composing_emails/toc.rst:182
 msgid "Drafted emails are accessible from the Draft folder. Here is how you can access and send them:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:182
+#: ../../composing_emails/toc.rst:184
 msgid "Click on the Draft folder in the navigation panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:183
+#: ../../composing_emails/toc.rst:185
 msgid "Locate your desired email in the main panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:184
+#: ../../composing_emails/toc.rst:186
 msgid "To edit the email before sending it, double-click on it. Alternatively, you can click on it once to review it from the right side of the main panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:185
+#: ../../composing_emails/toc.rst:187
 msgid "To send the email, simply click on the send button located at the top right corner of the main panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:192
+#: ../../composing_emails/toc.rst:194
 msgid "Replying to an Email"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:194
+#: ../../composing_emails/toc.rst:196
 msgid "To reply to an email, follow these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:196
-#: ../../composing_emails/toc.rst:216
-#: ../../composing_emails/toc.rst:227
+#: ../../composing_emails/toc.rst:198
+#: ../../composing_emails/toc.rst:218
+#: ../../composing_emails/toc.rst:229
 msgid "Locate the email in the email list."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:198
+#: ../../composing_emails/toc.rst:200
 msgid "From the menu that appears, select **Reply** or **Reply all**."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:199
+#: ../../composing_emails/toc.rst:201
 msgid "A new composing board will appear, allowing you to compose your reply."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:202
+#: ../../composing_emails/toc.rst:204
 msgid "Reply and Reply All"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:204
+#: ../../composing_emails/toc.rst:206
 msgid "The difference between reply and reply all lies in the recipients of your response. When you choose Reply, your response is directed only to the sender of the original email. This is useful for responding directly to the sender without involving other recipients."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:206
+#: ../../composing_emails/toc.rst:208
 msgid "In the case of reply all, the recipients other than the original sender are automatically included in the Cc (carbon copy) field of your response. This means that everyone who received the original email will also receive your reply."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:208
+#: ../../composing_emails/toc.rst:210
 msgid "This option is ideal for situations where your response is relevant to everyone included in the initial communication, facilitating group discussions, or providing updates to multiple parties simultaneously."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:212
+#: ../../composing_emails/toc.rst:214
 msgid "Forwarding an Email"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:214
+#: ../../composing_emails/toc.rst:216
 msgid "To forward an email, follow these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:218
+#: ../../composing_emails/toc.rst:220
 msgid "From the menu that appears, select Forward."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:219
-#: ../../composing_emails/toc.rst:230
+#: ../../composing_emails/toc.rst:221
+#: ../../composing_emails/toc.rst:232
 msgid "A new composing board will appear, allowing you to address new recipients."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:223
+#: ../../composing_emails/toc.rst:225
 msgid "Redirecting an Email"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:225
+#: ../../composing_emails/toc.rst:227
 msgid "To redirect an email, follow these steps:"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:229
+#: ../../composing_emails/toc.rst:231
 msgid "From the menu that appears, select **Redirect**."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:234
+#: ../../composing_emails/toc.rst:236
 msgid "Forward vs. Redirect"
 msgstr ""
 
-#: ../../composing_emails/toc.rst:236
+#: ../../composing_emails/toc.rst:238
 msgid "The distinction between forwarding and redirecting emails lies in their intended purpose and outcome. When you forward an email, you are essentially sending a copy of the original message to another recipient, allowing them to view the content and any attachments included in the forwarded message. This is useful for sharing information with someone who may not have been included in the original email thread. On the other hand, redirecting an email involves sending the original message to a different recipient without creating a copy. Instead, the email is rerouted to the new recipient's inbox as if it were originally addressed to them. This is typically done for administrative purposes or to ensure that important communications reach the appropriate recipient directly."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:238
+#: ../../composing_emails/toc.rst:240
 msgid "Therefore, opting to redirect a message instead of forwarding it simplifies the process for the recipient to reply directly to the original sender."
 msgstr ""
 
@@ -5213,257 +5237,261 @@ msgid "In the **Account** section, click the **LOGOUT** button, and you will be 
 msgstr ""
 
 #: ../../get_started/toc.rst:138
-msgid "For security purposes, your system administrator might set a maximum duration for your login session. If you reach this limit, you will be automatically signed out. You can simply log back in as usual to continue working."
+msgid "For security purposes, your system administrator might set a maximum duration for your login session."
 msgstr ""
 
-#: ../../get_started/toc.rst:141
+#: ../../get_started/toc.rst:140
+msgid "When your session is about to expire, you will be notified in advance through the bottom left bar, which will display the remaining time: 10 minutes, 3 minutes, and 60 seconds before the session ends, respectively. In the snackbar, you will find the option to return to the login page. You can simply log back in as usual to continue working."
+msgstr ""
+
+#: ../../get_started/toc.rst:144
 msgid "In Case of Forgetting Your Password"
 msgstr ""
 
-#: ../../get_started/toc.rst:143
+#: ../../get_started/toc.rst:146
 msgid "To start the password recovery procedure, you need to enter the recovery address in the **Auth** panel, in the **Settings** section. Alternatively, you can ask the administrator to set up a recovery e-mail for your account."
 msgstr ""
 
-#: ../../get_started/toc.rst:145
+#: ../../get_started/toc.rst:148
 msgid "If in the Auth panel - Settings section - you do not see the field to set a recovery address, it means that the administrator has not enabled your account for the recovery process."
 msgstr ""
 
-#: ../../get_started/toc.rst:147
+#: ../../get_started/toc.rst:150
 msgid "If you forgot your password, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:154
+#: ../../get_started/toc.rst:157
 msgid "Click on the **Forget Password?** Button, from the login page."
 msgstr ""
 
-#: ../../get_started/toc.rst:155
+#: ../../get_started/toc.rst:158
 msgid "Enter your username."
 msgstr ""
 
-#: ../../get_started/toc.rst:156
+#: ../../get_started/toc.rst:159
 msgid "You will receive an email at your recovery email address."
 msgstr ""
 
-#: ../../get_started/toc.rst:157
+#: ../../get_started/toc.rst:160
 msgid "A temporary **validation code**, that expires in twenty-four hours, will be sent to the recovery e-mail address."
 msgstr ""
 
-#: ../../get_started/toc.rst:158
+#: ../../get_started/toc.rst:161
 msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
 msgstr ""
 
-#: ../../get_started/toc.rst:159
+#: ../../get_started/toc.rst:162
 msgid "If the code is validated, you can :bdg-primary-line:`CONTINUE WITH YOUR SESSION`, access your mailbox and then add a new password in the Settings's module, where you can also change the recovery address."
 msgstr ""
 
-#: ../../get_started/toc.rst:161
+#: ../../get_started/toc.rst:164
 msgid "If your system administrator has not configured a recovery email for your account, or you have not inserted your own recovery email address, when you attempt to insert your username to receive the password recovery email, you will encounter an error message."
 msgstr ""
 
-#: ../../get_started/toc.rst:163
+#: ../../get_started/toc.rst:166
 msgid "The error will prompt you to **contact your system administrator**. In this scenario, **the only way to log into your account** is by seeking assistance from your system administrator."
 msgstr ""
 
-#: ../../get_started/toc.rst:167
+#: ../../get_started/toc.rst:170
 msgid "Changing Your Password"
 msgstr ""
 
-#: ../../get_started/toc.rst:169
+#: ../../get_started/toc.rst:172
 msgid "Resetting a password becomes necessary when you want to update your existing password due to security reasons or any other relevant factors. To change your password, you must be logged into your account. Here are the steps to change your password:"
 msgstr ""
 
-#: ../../get_started/toc.rst:171
+#: ../../get_started/toc.rst:174
 msgid "Log into your account."
 msgstr ""
 
-#: ../../get_started/toc.rst:172
+#: ../../get_started/toc.rst:175
 msgid "Click on the **settings** (gear icon) located in the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:173
+#: ../../get_started/toc.rst:176
 msgid "Select **Auth**."
 msgstr ""
 
-#: ../../get_started/toc.rst:174
+#: ../../get_started/toc.rst:177
 msgid "Click on Change Password."
 msgstr ""
 
-#: ../../get_started/toc.rst:175
+#: ../../get_started/toc.rst:178
 msgid "Enter your **old password** along with your new password."
 msgstr ""
 
-#: ../../get_started/toc.rst:176
+#: ../../get_started/toc.rst:179
 msgid "Click the **CHANGE PASSWORD** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:184
+#: ../../get_started/toc.rst:187
 msgid "Introduction of Carbonio Web Client"
 msgstr ""
 
-#: ../../get_started/toc.rst:186
+#: ../../get_started/toc.rst:189
 msgid "When you log in to check your emails, the **Carbonio web client interface** greets you with the following components:"
 msgstr ""
 
-#: ../../get_started/toc.rst:193
+#: ../../get_started/toc.rst:196
 msgid "**Left Sidebar**: This section provides navigation options and quick access to various features such as Mails, Calendars, Contacts, etc."
 msgstr ""
 
-#: ../../get_started/toc.rst:194
+#: ../../get_started/toc.rst:197
 msgid "**Navigation Panel**: Here, you will find additional context related to the active feature you have selected from the left sidebar. For example, if you select “Mails” from the left sidebar, you will find access to your inboxes and email folders here."
 msgstr ""
 
-#: ../../get_started/toc.rst:195
+#: ../../get_started/toc.rst:198
 msgid "**Main Panel**: The central area displays your actual content related to the active feature you have selected from the left sidebar. For example, if you select “Mails” from the left sidebar, you will see your emails in this area; similarly, choosing “Calendars” will display your calendar events."
 msgstr ""
 
-#: ../../get_started/toc.rst:198
+#: ../../get_started/toc.rst:201
 msgid "Using Browser Buttons to Navigate Carbonio"
 msgstr ""
 
-#: ../../get_started/toc.rst:200
+#: ../../get_started/toc.rst:203
 msgid "It is recommended to avoid using your browser’s navigation buttons too frequently, especially when you are in the middle of composing an email or a message. These buttons can inadvertently disrupt your work and cause you to lose what you are doing. So, proceed with caution."
 msgstr ""
 
-#: ../../get_started/toc.rst:202
+#: ../../get_started/toc.rst:205
 msgid "**Back Button**: You can use your browser’s back button to return to the previous page you were viewing on Carbonio."
 msgstr ""
 
-#: ../../get_started/toc.rst:203
+#: ../../get_started/toc.rst:206
 msgid "**Forward Button**: If you have gone back and want to revisit a page you just left, click the forward button."
 msgstr ""
 
-#: ../../get_started/toc.rst:204
+#: ../../get_started/toc.rst:207
 msgid "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. Clicking it restarts your session, which can be especially dangerous when composing a new email or a lengthy text message. You might lose your work."
 msgstr ""
 
-#: ../../get_started/toc.rst:207
+#: ../../get_started/toc.rst:210
 msgid "Account Personalization"
 msgstr ""
 
-#: ../../get_started/toc.rst:209
+#: ../../get_started/toc.rst:212
 msgid "Before you start using the Carbonio web client, take a moment to personalize your account. You can customize visual aspects such as the theme, as well as other account settings like your time zone. Most of these options are conveniently accessible in the **Settings** menu. To access it, simply click the gear icon on the left sidebar, and then select **General Settings**."
 msgstr ""
 
-#: ../../get_started/toc.rst:213
+#: ../../get_started/toc.rst:216
 msgid "Changing Theme"
 msgstr ""
 
-#: ../../get_started/toc.rst:215
+#: ../../get_started/toc.rst:218
 msgid "A theme in the Carbonio web client defines the color scheme used for its appearance. Currently, there are **two themes** available: **Dark mode** and **Light mode**. Here is how you can manage them:"
 msgstr ""
 
-#: ../../get_started/toc.rst:217
+#: ../../get_started/toc.rst:220
 msgid "To **activate Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:219
+#: ../../get_started/toc.rst:222
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:221
+#: ../../get_started/toc.rst:224
 msgid "Under **Theme Options**, open the dropdown menu."
 msgstr ""
 
-#: ../../get_started/toc.rst:222
+#: ../../get_started/toc.rst:225
 msgid "Click on **Enabled**."
 msgstr ""
 
-#: ../../get_started/toc.rst:223
+#: ../../get_started/toc.rst:226
 msgid "Click on the **SAVE** button located in the **top right corner** of the screen."
 msgstr ""
 
-#: ../../get_started/toc.rst:225
+#: ../../get_started/toc.rst:228
 msgid "To **disable Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:227
+#: ../../get_started/toc.rst:230
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr ""
 
-#: ../../get_started/toc.rst:229
+#: ../../get_started/toc.rst:232
 msgid "If you choose **Auto**, Carbonio will adapt to your **operating system’s default theme**. For example:"
 msgstr ""
 
-#: ../../get_started/toc.rst:231
+#: ../../get_started/toc.rst:234
 msgid "If your OS theme is dark, Carbonio will also be in dark mode."
 msgstr ""
 
-#: ../../get_started/toc.rst:232
+#: ../../get_started/toc.rst:235
 msgid "If your OS theme is light, Carbonio will match that as well."
 msgstr ""
 
-#: ../../get_started/toc.rst:240
+#: ../../get_started/toc.rst:243
 msgid "Changing Font Size"
 msgstr ""
 
-#: ../../get_started/toc.rst:242
+#: ../../get_started/toc.rst:245
 msgid "You can change the font size across all Carbonio web clients according to your preferences. To change the font size simply follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:244
-#: ../../get_started/toc.rst:263
-#: ../../get_started/toc.rst:278
+#: ../../get_started/toc.rst:247
+#: ../../get_started/toc.rst:266
+#: ../../get_started/toc.rst:281
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:246
+#: ../../get_started/toc.rst:249
 msgid "Under the **Appearance** section, find the slider for adjusting the font size."
 msgstr ""
 
-#: ../../get_started/toc.rst:247
+#: ../../get_started/toc.rst:250
 msgid "If you want to manually control the font size, uncheck the option that says *Automatically resize the text size depending on the device*."
 msgstr ""
 
-#: ../../get_started/toc.rst:248
+#: ../../get_started/toc.rst:251
 msgid "Use the slider to set the font size to your preference. As you move the slider, you will see the results in the bottom box with some dummy text."
 msgstr ""
 
-#: ../../get_started/toc.rst:249
+#: ../../get_started/toc.rst:252
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:251
+#: ../../get_started/toc.rst:254
 msgid "Remember, if you prefer automatic resizing based on the device, you can leave the checkbox checked. Otherwise, adjust the font size manually using the slider."
 msgstr ""
 
-#: ../../get_started/toc.rst:259
+#: ../../get_started/toc.rst:262
 msgid "Changing Your Time Zone"
 msgstr ""
 
-#: ../../get_started/toc.rst:261
+#: ../../get_started/toc.rst:264
 msgid "As a digital workspace, Carbonio relies on precise time zone settings to ensure optimal performance for calendars and other features like emails, guaranteeing accurate timestamps. This becomes particularly crucial when collaborating with colleagues across different countries and time zones. To change your time zone, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:265
+#: ../../get_started/toc.rst:268
 msgid "Under the **Time Zone and Language** section select the dropdown menu for **Time Zone** and choose your time zone."
 msgstr ""
 
-#: ../../get_started/toc.rst:266
-#: ../../get_started/toc.rst:281
+#: ../../get_started/toc.rst:269
+#: ../../get_started/toc.rst:284
 msgid "Click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:274
+#: ../../get_started/toc.rst:277
 msgid "Changing Carbonio Language"
 msgstr ""
 
-#: ../../get_started/toc.rst:276
+#: ../../get_started/toc.rst:279
 msgid "To change your Carbonio web client language, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:280
+#: ../../get_started/toc.rst:283
 msgid "Under the **Time Zone and Language** section select the dropdown menu for **Language** and choose your language."
 msgstr ""
 
-#: ../../get_started/toc.rst:284
+#: ../../get_started/toc.rst:287
 msgid "Accessing Multiple Accounts"
 msgstr ""
 
-#: ../../get_started/toc.rst:286
+#: ../../get_started/toc.rst:289
 msgid "On the Carbonio web client, you have access to multiple accounts. Let's say you have your personal account, as well as two additional accounts created for HR tasks and communications with your colleagues under the name “hr@example.com”, and another one named “info@example.com” for external communications of the company. **Only your system administrator can add these accounts and grant you access** to manage them via your main account."
 msgstr ""
 
-#: ../../get_started/toc.rst:292
+#: ../../get_started/toc.rst:295
 msgid "So, when you sign into your main account, you will see these two additional accounts listed under your main account. To access these accounts, simply click on the downward arrow next to their names to open a dropdown menu. From there, you can access the inbox and other folders within each account."
 msgstr ""
 

@@ -60,7 +60,7 @@ Setting Up Two-factor Auth (2FA)
 ================================
 
 
-If you are not forced to use 2FA on your login prompts, you can manually set it up via your web client settings. By following these steps, you will enhance the security of your Carbonio webmail account.
+If you are not forced to use 2FA on your login prompts, you can manually set it up via your web client settings, if your system administrator gave you the proper permission. By following these steps, you will enhance the security of your Carbonio webmail account.
 
 1.	Accessing Settings:
 

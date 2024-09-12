@@ -31,6 +31,11 @@ Furthermore you can easily change the layout from vertical to horizontal, just b
 
 These options allow you to have more space to preview the email and to choose the best layout for your email readability.
 
+You can also choose to resize the columns separating the emails list from the preview. Moreover you can switch between vertical and horizontal layouts: the "change view" icon, in the right side of the emails header bar, updates the layout according to the selected choice, allowing you to easily switch between the views.
+If you choose **no split** option, you can easily hide emails list.
+
+In this way you can avoid sidebar distractions, focusing just on the email at hand, with the chance to browse between emails simply clicking the navigation arrows in the header bar.
+
 
 Using Message View
 ==================

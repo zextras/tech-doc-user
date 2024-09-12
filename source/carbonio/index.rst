@@ -92,12 +92,12 @@ Introduction
 
          chats(wsc)/toc
 
-     .. toctree::
+      .. toctree::
          :maxdepth: 2
 
          videomeetings/toc
 
-     .. toctree::
+      .. toctree::
         :maxdepth: 2
 
         videomeetings(wsc)/toc

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-12 11:44+0200\n"
+"POT-Creation-Date: 2024-09-12 18:20+0200\n"
 "PO-Revision-Date: 2024-05-31 18:52+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language: it\n"
@@ -3660,7 +3660,7 @@ msgstr ""
 
 #: ../../chats(wsc)/toc.rst:7
 #, fuzzy
-msgid "Working with Chats (WSC)"
+msgid "Working with Chats (WSC) :bdg-primary:`NEW`"
 msgstr "Chat"
 
 #: ../../chats(wsc)/toc.rst:14
@@ -6969,10 +6969,6 @@ msgstr "Introduzione"
 msgid "Useful and generic information about |product|."
 msgstr "Informazioni di base su |product|."
 
-#: ../../index.rst:26
-msgid ":columns: 12 12 6 6   :class-header: sd-font-weight-bold sd-fs-5"
-msgstr ""
-
 #: ../../search/toc.rst:7
 msgid "Working with Search"
 msgstr "Search"
@@ -7448,7 +7444,7 @@ msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:7
 #, fuzzy
-msgid "Working with Video Meetings(WSC)"
+msgid "Working with Video Meetings(WSC) :bdg-info:`NEW`"
 msgstr "Files"
 
 #: ../../videomeetings(wsc)/toc.rst:13
@@ -9168,5 +9164,8 @@ msgstr ""
 #~ "web client settings. By following these"
 #~ " steps, you will enhance the security"
 #~ " of your Carbonio webmail account."
+#~ msgstr ""
+
+#~ msgid ":columns: 12 12 6 6   :class-header: sd-font-weight-bold sd-fs-5"
 #~ msgstr ""
 

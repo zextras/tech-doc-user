@@ -2,12 +2,12 @@
 ..
 .. SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
-===========================
-Working with Chats (WSC)
-===========================
+================================================================================
+Working with Chats (WSC) :bdg-primary:`NEW`
+================================================================================
 
 
-  .. image:: /img/usage/chats.png
+  .. image:: /img/usage/wsc-chats.png
                 :align: center
                 :width: 100%
 

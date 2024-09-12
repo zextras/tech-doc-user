@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-12 11:44+0200\n"
+"POT-Creation-Date: 2024-09-12 18:20+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2899,7 +2899,7 @@ msgid "From the drop-down menu select **Remove shared calendar**."
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:7
-msgid "Working with Chats (WSC)"
+msgid "Working with Chats (WSC) :bdg-primary:`NEW`"
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:14
@@ -5728,10 +5728,6 @@ msgstr ""
 msgid "Useful and generic information about |product|."
 msgstr ""
 
-#: ../../index.rst:26
-msgid ":columns: 12 12 6 6   :class-header: sd-font-weight-bold sd-fs-5"
-msgstr ""
-
 #: ../../search/toc.rst:7
 msgid "Working with Search"
 msgstr ""
@@ -6093,7 +6089,7 @@ msgid "Select **Complete** from the drop-down menu."
 msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:7
-msgid "Working with Video Meetings(WSC)"
+msgid "Working with Video Meetings(WSC) :bdg-info:`NEW`"
 msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:13

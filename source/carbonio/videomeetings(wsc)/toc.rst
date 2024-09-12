@@ -2,11 +2,11 @@
 ..
 .. SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
-=================================
- Working with Video Meetings(WSC)
-=================================
+===================================================
+ Working with Video Meetings(WSC) :bdg-info:`NEW`
+===================================================
 
-  .. image:: /img/usage/video-meeting.png
+  .. image:: /img/usage/wsc-meeting.png
                 :align: center
                 :width: 100%
 

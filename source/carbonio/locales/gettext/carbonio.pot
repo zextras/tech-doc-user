@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-12 18:20+0200\n"
+"POT-Creation-Date: 2024-09-13 18:42+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1103,6 +1103,8 @@ msgstr ""
 #: ../../calendars/toc.rst:127
 #: ../../calendars/toc.rst:211
 #: ../../calendars/toc.rst:224
+#: ../../calendars/toc.rst:233
+#: ../../calendars/toc.rst:246
 msgid "Select the **Calendars** from your left sidebar."
 msgstr ""
 
@@ -2246,139 +2248,179 @@ msgstr ""
 msgid "Additionally, you can manually access your Trash folder and permanently erase the email by right-clicking on it and selecting **Delete Permanently**."
 msgstr ""
 
+#: ../../browsing_emails/toc.rst:175
+msgid "There is the chance, if enabled by your system administrator, to recover even permanently deleted emails. To do so, you will need to follow these steps:"
+msgstr ""
+
 #: ../../browsing_emails/toc.rst:177
-msgid "Marking an Email as Unread"
+msgid "Click on the **gear icon** in the left panel."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:178
+msgid "Click on the **‘Mails’** option and scroll down to the **‘Recover Messages’** section."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:179
-msgid "Marking emails as unread can be particularly helpful when you need to revisit an email for future reference or further reading, especially if you have already opened it but have not had the chance to fully engage with its content."
+msgid "Enter a keyword and/or the date of the email you wish to recover."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:180
+msgid "Click on ‘Search E-mails’ and then on **‘Start Search’** in the pop-up window that will appear."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:181
-msgid "The key distinction between a read and unread email lies in their appearance within your inbox: read emails typically display with regular text, while unread emails stand out with bold subject lines, making them easier to spot."
+msgid "Select the email you intend to recover by ticking the flag and click the **‘Recover Selected E-mails’** button in the top-right corner."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:182
+msgid "Click on **‘Start Recovery’** in the pop-up window that appears."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:183
-msgid "To mark an email as unread, follow these steps:"
+msgid "You will find the recovered email inside a folder in your inbox, renamed with the date and time details of the recovery."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:185
-msgid "Right-click on the email you wish to mark as unread."
+#: ../../browsing_emails/toc.rst:184
+msgid "You will also receive a notification in your inbox with the details of the recovery process outcome."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:186
-msgid "From the menu that appears, select **Mark as unread**."
-msgstr ""
-
-#: ../../browsing_emails/toc.rst:187
-msgid "Notice how the email's subject line now appears in bold font."
+msgid "Please note that the ability to perform this operation strictly depends on the backup settings configured by your system administrator."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:189
-msgid "It is important to be cautious after marking an email as unread, as inadvertently clicking on it again will remove the bold formatting from the subject line which undo your action."
+msgid "Marking an Email as Unread"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:191
+msgid "Marking emails as unread can be particularly helpful when you need to revisit an email for future reference or further reading, especially if you have already opened it but have not had the chance to fully engage with its content."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:193
+msgid "The key distinction between a read and unread email lies in their appearance within your inbox: read emails typically display with regular text, while unread emails stand out with bold subject lines, making them easier to spot."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:195
+msgid "To mark an email as unread, follow these steps:"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:197
+msgid "Right-click on the email you wish to mark as unread."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:198
-msgid "Printing an Email"
+msgid "From the menu that appears, select **Mark as unread**."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:199
+msgid "Notice how the email's subject line now appears in bold font."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:201
+msgid "It is important to be cautious after marking an email as unread, as inadvertently clicking on it again will remove the bold formatting from the subject line which undo your action."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:210
+msgid "Printing an Email"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:213
 msgid "To print an email:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:203
+#: ../../browsing_emails/toc.rst:215
 msgid "Right-click on the email or conversation you wish to print."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:204
+#: ../../browsing_emails/toc.rst:216
 msgid "Select the **Print** option from the menu."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:205
+#: ../../browsing_emails/toc.rst:217
 msgid "A new tab will open in your browser displaying the email, along with a window for adjusting printer settings. Make any necessary adjustments."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:206
+#: ../../browsing_emails/toc.rst:218
 msgid "Click the Print button to proceed with printing."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:214
+#: ../../browsing_emails/toc.rst:226
 msgid "Actions on Multiple Emails at Once"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:216
+#: ../../browsing_emails/toc.rst:228
 msgid "To perform an action on multiple emails:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:218
+#: ../../browsing_emails/toc.rst:230
 msgid "Click on the check mark icon at the top left corner of your main panel to enter selection mode."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:219
+#: ../../browsing_emails/toc.rst:231
 msgid "Select the empty circles beside each email you wish to choose."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:220
+#: ../../browsing_emails/toc.rst:232
 msgid "Click on the three vertical dots icon at the top right corner of the email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:221
+#: ../../browsing_emails/toc.rst:233
 msgid "Choose the action you want to perform."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:223
+#: ../../browsing_emails/toc.rst:235
 msgid "The available actions for multiple emails include marking as unread, adding a flag, moving, and tagging."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:225
+#: ../../browsing_emails/toc.rst:237
 msgid "To delete multiple emails at once:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:227
+#: ../../browsing_emails/toc.rst:239
 msgid "Select multiple emails as described above."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:228
+#: ../../browsing_emails/toc.rst:240
 msgid "Click on the trash icon at the top right corner of your email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:236
+#: ../../browsing_emails/toc.rst:248
 msgid "Sorting Emails"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:238
+#: ../../browsing_emails/toc.rst:250
 msgid "Sorting emails can offer significant utility across various scenarios. You have the flexibility to categorize emails based on criteria such as unread status, importance, flagged status, presence of attachments, sender, date, and subject."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:240
+#: ../../browsing_emails/toc.rst:252
 msgid "To initiate sorting, click on the **sorting icon** located in the top right corner of your email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:241
+#: ../../browsing_emails/toc.rst:253
 msgid "Choose your preferred sorting criterion from the options provided."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:242
+#: ../../browsing_emails/toc.rst:254
 msgid "Once selected, click on the sorting icon again to toggle between ascending and descending order as per your preference."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:244
+#: ../../browsing_emails/toc.rst:256
 msgid "The default sorting mode automatically arranges emails based on their dates."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:253
+#: ../../browsing_emails/toc.rst:265
 msgid "Emails date format"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:255
+#: ../../browsing_emails/toc.rst:267
 msgid "To ensure clarity, the date format for emails that are not from the current day, it will always be displayed with the full date and time, with the complete timestamp."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:257
+#: ../../browsing_emails/toc.rst:269
 msgid "The timestamp will be shown according to the browser language rules, as explained in the following table:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:259
+#: ../../browsing_emails/toc.rst:271
 msgid "Date Format"
 msgstr ""
 
@@ -2896,6 +2938,58 @@ msgstr ""
 
 #: ../../calendars/toc.rst:226
 msgid "From the drop-down menu select **Remove shared calendar**."
+msgstr ""
+
+#: ../../calendars/toc.rst:229
+msgid "Import an ICS File as New Calendar"
+msgstr ""
+
+#: ../../calendars/toc.rst:231
+msgid "You can import a calendar in .ics format directly to your Carbonio web client calendar. To do so:"
+msgstr ""
+
+#: ../../calendars/toc.rst:234
+msgid "In the Navigation Panel, right-click on \"Calendar\" and select the voice \"New Calendar\": this step is not mandatory, but recommended to avoid mixing existing calendars with the imported one."
+msgstr ""
+
+#: ../../calendars/toc.rst:235
+msgid "Choose the name and settings of the new calendar that will contain the imported data and save it."
+msgstr ""
+
+#: ../../calendars/toc.rst:236
+msgid "Right-click on the new calendar and select the \"Import ICS file\" option."
+msgstr ""
+
+#: ../../calendars/toc.rst:237
+msgid "Select the .ics file containing the calendar, stored on your computer."
+msgstr ""
+
+#: ../../calendars/toc.rst:238
+msgid "Click **Open** and **Import**."
+msgstr ""
+
+#: ../../calendars/toc.rst:239
+msgid "Refresh the page to get the updated calendar view."
+msgstr ""
+
+#: ../../calendars/toc.rst:242
+msgid "Export an ICS File as New Calendar"
+msgstr ""
+
+#: ../../calendars/toc.rst:244
+msgid "You can also export a calendar in .ics format directly from your Carbonio web client calendar. To do so:"
+msgstr ""
+
+#: ../../calendars/toc.rst:247
+msgid "In the Navigation Panel, right-click on \"Calendar\" you want to export."
+msgstr ""
+
+#: ../../calendars/toc.rst:248
+msgid "Select the \"Export ICS file\" option."
+msgstr ""
+
+#: ../../calendars/toc.rst:249
+msgid "The download will start in a while, find you .ics file in your download folder."
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:7
@@ -4317,7 +4411,6 @@ msgid "You can export and store your address book on your computer in CSV (comma
 msgstr ""
 
 #: ../../contacts/toc.rst:250
-#: ../../contacts/toc.rst:261
 msgid "In the Navigation Panel, right-click on the address book you wish to export."
 msgstr ""
 
@@ -4339,6 +4432,10 @@ msgstr ""
 
 #: ../../contacts/toc.rst:258
 msgid "You can import the stored address book on your computer in CSV (comma-separated values) format to your Carbonio web client. To do so:"
+msgstr ""
+
+#: ../../contacts/toc.rst:261
+msgid "In the Navigation Panel, right-click on the address book you wish to import data in."
 msgstr ""
 
 #: ../../contacts/toc.rst:262

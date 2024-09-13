@@ -172,6 +172,18 @@ Additionally, you can manually access your Trash folder and permanently erase th
         :align: center
         :width: 100%
 
+There is the chance, if enabled by your system administrator, to recover even permanently deleted emails. To do so, you will need to follow these steps:
+
+1.	Click on the **gear icon** in the left panel.
+2.	Click on the **‘Mails’** option and scroll down to the **‘Recover Messages’** section.
+3.	Enter a keyword and/or the date of the email you wish to recover.
+4.	Click on ‘Search E-mails’ and then on **‘Start Search’** in the pop-up window that will appear.
+5.	Select the email you intend to recover by ticking the flag and click the **‘Recover Selected E-mails’** button in the top-right corner.
+6.	Click on **‘Start Recovery’** in the pop-up window that appears.
+7.	You will find the recovered email inside a folder in your inbox, renamed with the date and time details of the recovery.
+8.	You will also receive a notification in your inbox with the details of the recovery process outcome.
+
+Please note that the ability to perform this operation strictly depends on the backup settings configured by your system administrator.
 
 Marking an Email as Unread
 ==========================

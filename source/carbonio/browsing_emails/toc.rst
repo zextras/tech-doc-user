@@ -21,10 +21,20 @@ To read an email simply:
         :width: 100%
 
 
-Note that within the Carbonio web client, there are two distinct methods for displaying emails:
+Within the Carbonio web client, there are two distinct methods for displaying emails:
 
 •	**Message View**: In this mode, emails are displayed individually in your main panel. Each email is listed separately, allowing you to view them one by one.
 •	**Conversation View**: When utilizing this option, emails are grouped based on threads. If multiple emails are part of a conversation or have been replied to together, they will appear grouped as a single thread in your main panel.
+
+Note that in case of small screens, you have the chance to to **resize the columns** that separate the email list from the one with the email preview. 
+Furthermore you can easily change the layout from vertical to horizontal, just by clicking on the **tab icon**, right beside the **sorting icon**.
+
+These options allow you to have more space to preview the email and to choose the best layout for your email readability.
+
+You can also choose to resize the columns separating the emails list from the preview. Moreover you can switch between vertical and horizontal layouts: the "change view" icon, in the right side of the emails header bar, updates the layout according to the selected choice, allowing you to easily switch between the views.
+If you choose **no split** option, you can easily hide emails list.
+
+In this way you can avoid sidebar distractions, focusing just on the email at hand, with the chance to browse between emails simply clicking the navigation arrows in the header bar.
 
 
 Using Message View
@@ -162,6 +172,18 @@ Additionally, you can manually access your Trash folder and permanently erase th
         :align: center
         :width: 100%
 
+There is the chance, if enabled by your system administrator, to recover even permanently deleted emails. To do so, you will need to follow these steps:
+
+1.	Click on the **gear icon** in the left panel.
+2.	Click on the **‘Mails’** option and scroll down to the **‘Recover Messages’** section.
+3.	Enter a keyword and/or the date of the email you wish to recover.
+4.	Click on ‘Search E-mails’ and then on **‘Start Search’** in the pop-up window that will appear.
+5.	Select the email you intend to recover by ticking the flag and click the **‘Recover Selected E-mails’** button in the top-right corner.
+6.	Click on **‘Start Recovery’** in the pop-up window that appears.
+7.	You will find the recovered email inside a folder in your inbox, renamed with the date and time details of the recovery.
+8.	You will also receive a notification in your inbox with the details of the recovery process outcome.
+
+Please note that the ability to perform this operation strictly depends on the backup settings configured by your system administrator.
 
 Marking an Email as Unread
 ==========================

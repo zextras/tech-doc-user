@@ -11,6 +11,8 @@
                 :width: 100%
               
 Files is designed to simplify your file management needs. The Files offers a user-friendly platform for uploading, creating, and organizing your digital documents. Whether you are collaborating with colleagues or simply keeping your files in order, Files allows you to effortlessly share and manage your documents and images. With its intuitive interface, you can easily create multiple folders, upload files from your computer, save email attachments, and even generate new documents.
+When you click on the Files icon, you will access to the Files module view: you can choose the grid layout button on the top-right of list header to switch the view from list mode to the grid mode. By choosing this mode you will see all the files and folders as thumbnails, instead of the vertical list.
+
 
 .. note:: Using multiple |product| windows : when using two or more open browser's tabs or windows to access
   **Files**, some of the operations you carry out on one of the windows

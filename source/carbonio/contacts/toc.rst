@@ -258,7 +258,7 @@ Import a CSV File as an Address Book
 You can import the stored address book on your computer in CSV (comma-separated values) format to your Carbonio web client. To do so:
 
 1.	Select the **Contacts** from your left sidebar.
-2.	In the Navigation Panel, right-click on the address book you wish to export.
+2.	In the Navigation Panel, right-click on the address book you wish to import data in.
 3.	Select **Import csv file** from the drop-down menu. A new window appears.
 4.	Select the csv file containing the address book information stored on your computer.
 5.	Click **Open**.

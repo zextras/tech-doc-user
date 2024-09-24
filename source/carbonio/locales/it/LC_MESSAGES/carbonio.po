@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-13 18:42+0200\n"
-"PO-Revision-Date: 2024-05-31 18:52+0000\n"
-"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
+"PO-Revision-Date: 2024-09-25 13:37+0000\n"
+"Last-Translator: Anna Cecchellero <anna.cecchellero@zextras.com>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -26,6 +26,7 @@ msgid "Advanced Email Management"
 msgstr "Gestione Avanzata dell'Email"
 
 #: ../../advanced_email_management/toc.rst:9
+#, fuzzy
 msgid ""
 "This section delves into more advanced email management techniques that "
 "offer significant long-term benefits. For Carbonio enthusiasts, we "
@@ -33,16 +34,23 @@ msgid ""
 "effectively handling spam emails, utilizing email filters, and email "
 "signatures, etc."
 msgstr ""
+"Questa sezione approfondisce le tecniche di gestione delle email che offrono "
+"benefici a lungo termine significativi. Invitiamo tutti gli amanti di "
+"Carbonio a prendere nota di queste strategie. Le tecniche esposte includono "
+"come gestire le email di spam, utilizzare i filtri o le firme nelle email "
+"ecc."
 
 #: ../../advanced_email_management/toc.rst:12
 msgid "Email Check Frequency"
-msgstr ""
+msgstr "Frequenza di controllo delle email"
 
 #: ../../advanced_email_management/toc.rst:14
 msgid ""
 "You can customize how frequently you receive emails by adjusting your "
 "settings. Here is how:"
 msgstr ""
+"È possibile personalizzare la frequenza con cui ricevi le email modificando "
+"le impostazioni. Ecco come procedere:"
 
 #: ../../advanced_email_management/toc.rst:16
 #: ../../advanced_email_management/toc.rst:49
@@ -50,47 +58,59 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:125
 msgid "Click on the Settings (gear icon) in the left sidebar."
 msgstr ""
+"Clicca su Impostazioni (icona a forma di ingranaggio) nella barra laterale "
+"sinistra."
 
 #: ../../advanced_email_management/toc.rst:17
 #: ../../advanced_email_management/toc.rst:50
 #: ../../advanced_email_management/toc.rst:111
 msgid "Select Mails."
-msgstr ""
+msgstr "Seleziona Email."
 
 #: ../../advanced_email_management/toc.rst:18
 msgid "Under Displaying Messages, click on Check new e-mail."
-msgstr ""
+msgstr "Nella sezione Visualizza Messaggi, clicca su Controlla nuove email."
 
 #: ../../advanced_email_management/toc.rst:19
 msgid ""
 "From the drop-down menu, choose how often you would like to check for new"
 " mail."
 msgstr ""
+"Dal menu a tendina, seleziona ogni quanto desideri che venga effettuato il "
+"controllo sui nuovi messaggi."
 
 #: ../../advanced_email_management/toc.rst:20
 #: ../../advanced_email_management/toc.rst:52
 #: ../../advanced_email_management/toc.rst:114
 #: ../../advanced_email_management/toc.rst:131
 msgid "Click the SAVE button in the top right corner."
-msgstr ""
+msgstr "Clicca il pulsante SALVA nell'angolo in altro a destra."
 
 #: ../../advanced_email_management/toc.rst:22
+#, fuzzy
 msgid ""
 "If you select Manually, you will need to click the reload icon to fetch "
 "new emails. If you choose As new email arrives, your inbox will refresh "
 "automatically upon receiving a new email."
 msgstr ""
+"Se selezioni Manualmente, sarà necessario cliccare l'icona di ricarica "
+"pagina per visualizzare le nuove email. Se scegli Quanda arriva una nuova "
+"email, la tua casella di posta si aggiornerà automaticamente ogni volta che "
+"verrà ricevuta una nuova email."
 
 #: ../../advanced_email_management/toc.rst:29
 msgid "Email Notification"
-msgstr ""
+msgstr "Notifica Email"
 
 #: ../../advanced_email_management/toc.rst:31
+#, fuzzy
 msgid ""
 "You can customize whether you are notified when you receive new emails. "
 "To enable desktop alerts for new email notifications, ensure that your "
 "web client is open on your browser."
 msgstr ""
+"Puoi decidere se ricevere o meno una notifica all'arrivo di nuovi messaggi. "
+"Per abilitare le notifiche desktop per i messaggi in entrata"
 
 #: ../../advanced_email_management/toc.rst:33
 #: ../../advanced_email_management/toc.rst:145
@@ -110,8 +130,11 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:517 ../../calendars/toc.rst:24
 #: ../../calendars/toc.rst:140 ../../calendars/toc.rst:156
 #: ../../calendars/toc.rst:166
+#, fuzzy
 msgid "Click on the **Settings** (gear icon) in the left sidebar."
 msgstr ""
+"Clicca su **Impostazioni** (icona a forma di ingranaggio) nella barra "
+"laterale sinistra."
 
 #: ../../advanced_email_management/toc.rst:34
 #: ../../advanced_email_management/toc.rst:146
@@ -127,25 +150,31 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:401
 #: ../../advanced_email_management/toc.rst:414
 msgid "Select **Mails**."
-msgstr ""
+msgstr "Seleziona **Email**."
 
 #: ../../advanced_email_management/toc.rst:35
 msgid ""
 "Under **Arrival Notifications**, you will see different notification "
 "options."
 msgstr ""
+"Nella sezione **Notifiche di Arrivo**, vedrai diverse opzioni relative alle "
+"notifiche."
 
 #: ../../advanced_email_management/toc.rst:36
 msgid ""
 "Check the box for **Show a popup notification** if you prefer a window "
 "pop-up when receiving a new email."
 msgstr ""
+"Seleziona la casella **Mostra una notifica popup** se preferisci vedere una "
+"finestra pop up quando ricevi una nuova email."
 
 #: ../../advanced_email_management/toc.rst:37
 msgid ""
 "Check the box for the **Play audio hint when new notification appears** "
 "if you prefer an audible notification for incoming emails."
 msgstr ""
+"Seleziona la casella **Riproduci avviso sonoro quando appare una nuova "
+"notifica** se preferisci avere una notifica audio per le email in arrivo."
 
 #: ../../advanced_email_management/toc.rst:38
 #: ../../advanced_email_management/toc.rst:149
@@ -155,9 +184,10 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:45
 msgid "Receiving Notifications via Another Email Address"
-msgstr ""
+msgstr "Ricezione di Notifiche tramite un altro Indirizzo Email"
 
 #: ../../advanced_email_management/toc.rst:47
+#, fuzzy
 msgid ""
 "You can customize your email preferences to receive notifications at "
 "another email address when you receive an email in your Carbonio inbox. "
@@ -167,12 +197,21 @@ msgid ""
 "section, for this feature, you do not need to keep your Carbonio webmail "
 "open."
 msgstr ""
+"È possibile impostare le proprie preferenze per ricevere le notifiche su un "
+"altro indirizzo di posta quando ricevi una nuova mail nella casella di posta "
+"in entrata Carbonio. Questa opzione può essere molto utile nel caso in cui "
+"solitamente non ricevi numerose email su questo indirizzo, ma reputi che "
+"quelle ricevute debbano essere controllate tempestivamente. Al contrario "
+"delle notifiche email menzionate nella sezione precedente, per questa "
+"funzionalità non è necessario tenere aperta la webmail Carbonio."
 
 #: ../../advanced_email_management/toc.rst:51
 msgid ""
 "Under Message Arrival, insert another email address (e.g., your Gmail "
 "address)."
 msgstr ""
+"Nella sezione Messaggi in Arrivo, inserisci un altro indirizzo email (es. il "
+"to indirizzo Gmail)."
 
 #: ../../advanced_email_management/toc.rst:54
 msgid ""
@@ -201,20 +240,19 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:68
 msgid "Right-click on the email you wish to mark as spam."
-msgstr ""
+msgstr "Clicca il pulsante **SALVA** nell'angolo in altro a destra."
 
 #: ../../advanced_email_management/toc.rst:69
 msgid "From the menu that appears, select Mark as spam."
-msgstr ""
+msgstr "Dal menu che appare, seleziona Contrassegna come spam."
 
 #: ../../advanced_email_management/toc.rst:70
 msgid "Your email will be automatically moved to your Junk Folder."
-msgstr ""
+msgstr "La tua email verrà spostata automaticamente nella Posta Indesiderata."
 
 #: ../../advanced_email_management/toc.rst:73
-#, fuzzy
 msgid "Removing Spam Emails"
-msgstr "Gestione delle email"
+msgstr "Rimozione delle Email di Spam"
 
 #: ../../advanced_email_management/toc.rst:75
 msgid ""
@@ -225,11 +263,11 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:77
 msgid "Click on the **Mails** in the left sidebar."
-msgstr ""
+msgstr "Clicca su **Email** nella barra laterale sinistra."
 
 #: ../../advanced_email_management/toc.rst:78
 msgid "Right-click on the **Junk** folder."
-msgstr ""
+msgstr "Clic con tasto destro sulla cartella **Posta indesiderata**."
 
 #: ../../advanced_email_management/toc.rst:79
 msgid "Select **Wipe Folder** from the menu."
@@ -9318,4 +9356,3 @@ msgstr ""
 
 #~ msgid "Click on ‘Start Recovery’ in the pop-up window that appears."
 #~ msgstr ""
-

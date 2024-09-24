@@ -225,3 +225,25 @@ To remove a colleague’s shared calendar from your calendars list:
 2.	From the Navigation Panel, right-click on the calendar you wish to remove.
 3.	From the drop-down menu select **Remove shared calendar**.
 
+Import an ICS File as New Calendar
+====================================
+
+You can import a calendar in .ics format directly to your Carbonio web client calendar. To do so:
+
+1.	Select the **Calendars** from your left sidebar.
+2.	In the Navigation Panel, right-click on "Calendar" and select the voice "New Calendar": this step is not mandatory, but recommended to avoid mixing existing calendars with the imported one.
+3. Choose the name and settings of the new calendar that will contain the imported data and save it.
+4.	Right-click on the new calendar and select the "Import ICS file" option.
+5.	Select the .ics file containing the calendar, stored on your computer.
+6.	Click **Open** and **Import**.
+7. Refresh the page to get the updated calendar view.
+
+Export an ICS File as New Calendar
+====================================
+
+You can also export a calendar in .ics format directly from your Carbonio web client calendar. To do so:
+
+1.	Select the **Calendars** from your left sidebar.
+2.	In the Navigation Panel, right-click on "Calendar" you want to export.
+3.	Select the "Export ICS file" option.
+4.	The download will start in a while, find you .ics file in your download folder.

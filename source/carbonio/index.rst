@@ -90,4 +90,14 @@ Introduction
       .. toctree::
          :maxdepth: 2
 
+         chats(wsc)/toc
+
+      .. toctree::
+         :maxdepth: 2
+
          videomeetings/toc
+
+      .. toctree::
+        :maxdepth: 2
+
+        videomeetings(wsc)/toc

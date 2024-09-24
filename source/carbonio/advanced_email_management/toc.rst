@@ -417,6 +417,18 @@ To assign each identity/persona a signature:
 
 You can effortlessly switch between identities/personas by selecting them from the top-left corner of the composing board, automatically applying the respective signatures assigned to each identity/persona.
 
+Changing Signature While Composing An Email
+===========================================
+
+If you have set two or more signatures, you can easily switch between them, while you are writing an email.
+
+Just click on the **feather pen icon** on top of the composing tab and choose the one you want to use, between the different options in the list, based on the existing signatures. You can also choose *Do not use a signature* option, if you want to completely remove the signature from the current email.
+
+  .. image:: /img/usage/changing-email-signature.png
+            :align: center
+            :width: 100%
+
+
 Email Delegations
 =================
 

@@ -68,6 +68,8 @@ To include additional recipients in either the *copy* or *blind copy* sections o
 
 Additionally, you can utilize the **drag-and-drop** feature to effortlessly move email addresses from the To field to the Cc or Bcc fields while composing your message. To do so, simply click and hold on an address bubble and drag it to the desired field.
 
+You can also copy-paste email addresses directly into the To, CC, and BCC fields, while composing an email: furthermore, a small contextual menu appears when you right-click in the To, CC, or BCC fields, so you can directly click "Paste" to insert email adresses, you previously copied, in the related fields.
+
   .. image:: /img/usage/addressing-email.png
         :align: center
         :width: 100%
@@ -96,7 +98,7 @@ Adding attachment from your Carbonio Files:
 2.	Select Add from Files.
 3.	A new window appears, and you can select desired files from your Carbonio Files.
 
-It is important to note that computer viruses are commonly transmitted through file attachments. As a precaution, system administrators may block incoming emails containing certain types of attachments, particularly those with extensions such as .EXE or .ZIP as part of their filename. If you send an email to someone whose email system blocks these attachments, you may not receive any notification about the blocking. Therefore, it is advisable to confirm with your recipient whether they have received the attachment or not.
+It is important to note that computer viruses are commonly transmitted through file attachments. As a precaution, system administrators may block incomin cdg emails containing certain types of attachments, particularly those with extensions such as .EXE or .ZIP as part of their filename. If you send an email to someone whose email system blocks these attachments, you may not receive any notification about the blocking. Therefore, it is advisable to confirm with your recipient whether they have received the attachment or not.
 
   .. image:: /img/usage/add-attachment.png
         :align: center
@@ -105,7 +107,7 @@ It is important to note that computer viruses are commonly transmitted through f
 Managing Large Attachments
 ==========================
 
-When you want to attach large attachments to an email, you may encounter some limitations. With the "smart links" option, it is possible to convert every attachment in Smart Links by clicking the **paperclip** icon inside the composing board and chosing the "Add public link from Files option".
+When you want to attach large attachments to an email, you may encounter some limitations. When you reach the size limit set by your admin for the attachments, using the "smart links" option, it is possible to convert every attachment in Smart Links by clicking the **paperclip** icon inside the composing board and choosing the "Add public link from Files option". (lui suggerisce)
 
   .. image:: /img/usage/smart-link.png
         :align: center
@@ -153,6 +155,9 @@ To request a read receipt while composing an email:
         :align: center
         :width: 100%
 
+
+Please note that, in case you receive an email with a read receipt you can choose between **Do not notify** or **Notify** options, so that the tab will not reappear in the future.
+If you simply dismiss the tab by clicking *x*, the pop up banner will reappear the next time you open the same email.
 
 Mark an Email as Important 
 ==========================

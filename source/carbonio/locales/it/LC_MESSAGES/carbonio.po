@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-13 18:42+0200\n"
-"PO-Revision-Date: 2024-09-25 13:37+0000\n"
+"PO-Revision-Date: 2024-09-26 14:37+0000\n"
 "Last-Translator: Anna Cecchellero <anna.cecchellero@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -303,13 +303,14 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:91
 msgid "Your email will be automatically moved to the intended folder."
-msgstr ""
+msgstr "La tua email varrà spostata immediatamente nella cartella indicata."
 
 #: ../../advanced_email_management/toc.rst:94
 msgid "Finding the Origin of an Email"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:96
+#, fuzzy
 msgid ""
 "The transportation history of emails serves various purposes, including "
 "verifying authenticity, investigating delivery issues, detecting phishing"
@@ -320,25 +321,35 @@ msgid ""
 " details about the email's journey, such as sender and recipient IP "
 "addresses, timestamps, and any spam detection information."
 msgstr ""
+"La cronologia relativa al trasporto delle email è utile sotto varie aspetti, "
+"tra cui la verifica dell'autenticità, condurre indagini su problemi di "
+"consegna, rilevare tentativi di phishing, eseguire il debug delle "
+"configurazioni del server di posta e soddisfare i requisiti legali e di "
+"compliance. Queste informazioni sono solitamente mostrata in una pagina di "
+"testo che include l'intestazione dell'email (anche definito come  e il corpo "
+"del messaggio. L'intestazione contiene i dettagli essenziali relativi alla "
+"vita del messaggio, quali l'indirizzo IP di mittente e destinatario, "
+"indicazioni orarie e qualsiasi informazione che riguardi un eventuale "
+"rilevamento di spam."
 
 #: ../../advanced_email_management/toc.rst:98
 msgid "To trace the email’s origin, follow these steps:"
-msgstr ""
+msgstr "Per tracciare l'origine di una email, segui questi passaggi:"
 
 #: ../../advanced_email_management/toc.rst:100
 #: ../../basic_email_management/toc.rst:110
 #: ../../basic_email_management/toc.rst:123 ../../composing_emails/toc.rst:202
 #: ../../composing_emails/toc.rst:222 ../../composing_emails/toc.rst:233
 msgid "Right-click on the email."
-msgstr ""
+msgstr "Clic tasto destro sull'email."
 
 #: ../../advanced_email_management/toc.rst:101
 msgid "Select Show original."
-msgstr ""
+msgstr "Seleziona Mostra originale."
 
 #: ../../advanced_email_management/toc.rst:102
 msgid "A new window will open, displaying the relevant information."
-msgstr ""
+msgstr "Si aprirà una nuova finestra che include le informazioni rilevanti."
 
 #: ../../advanced_email_management/toc.rst:105
 msgid "Setting Up Trusted Addresses"
@@ -362,8 +373,11 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:113
+#, fuzzy
 msgid "Click the Add button to add the address or domain to the trusted list."
 msgstr ""
+"Fai clic sul pulsante Aggiungi per aggiungere l'indirizzo o il dominio "
+"all'elenco di fiducia."
 
 #: ../../advanced_email_management/toc.rst:121
 msgid "Creating an Out-of-Office Email"
@@ -379,7 +393,7 @@ msgstr ""
 #: ../../get_started/toc.rst:248 ../../get_started/toc.rst:267
 #: ../../get_started/toc.rst:282
 msgid "Select General Settings."
-msgstr ""
+msgstr "Seleziona Impostazioni Generali."
 
 #: ../../advanced_email_management/toc.rst:127
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-13 18:42+0200\n"
-"PO-Revision-Date: 2024-09-26 14:37+0000\n"
+"PO-Revision-Date: 2024-10-03 13:37+0000\n"
 "Last-Translator: Anna Cecchellero <anna.cecchellero@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -180,7 +180,7 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:149
 #: ../../advanced_email_management/toc.rst:162
 msgid "Click the **SAVE** button in the top right corner."
-msgstr ""
+msgstr "Clicca il bottone **SALVA** nell'angolo in alto a destra."
 
 #: ../../advanced_email_management/toc.rst:45
 msgid "Receiving Notifications via Another Email Address"
@@ -218,6 +218,8 @@ msgid ""
 "Going forward, you will receive an email notification on your Gmail "
 "account whenever a new email arrives in your Carbonio inbox."
 msgstr ""
+"Procedendo, riceverai un' email di notifica sul tuo account Gmail ogni volta "
+"che un nuovo messaggio arriverà nella tua casella in entrata Carbonio."
 
 #: ../../advanced_email_management/toc.rst:61
 msgid "Marking an Email as Spam"
@@ -260,6 +262,9 @@ msgid ""
 "automatically purged after a certain period, as determined by your system"
 " administrator. To remove your spam emails:"
 msgstr ""
+"Se non esegui nessuna azione per rimuovere le email di spam, queste verranno "
+"automaticamente eliminate dopo uno specifico periodo di tempo stabilito "
+"dall'amministratore di sistema. Per rimuovere le email di spam:"
 
 #: ../../advanced_email_management/toc.rst:77
 msgid "Click on the **Mails** in the left sidebar."
@@ -271,7 +276,7 @@ msgstr "Clic con tasto destro sulla cartella **Posta indesiderata**."
 
 #: ../../advanced_email_management/toc.rst:79
 msgid "Select **Wipe Folder** from the menu."
-msgstr ""
+msgstr "Seleziona **Pulisci Cartella* dal menu."
 
 #: ../../advanced_email_management/toc.rst:81
 msgid ""

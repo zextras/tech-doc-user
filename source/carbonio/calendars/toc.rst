@@ -6,7 +6,7 @@
  Working with Calendars 
 ========================
 
-  .. image:: /img/usage/calendars.png
+  .. image:: /img/calendars.png
                 :align: center
                 :width: 100%
 
@@ -67,7 +67,7 @@ To create a calendar:
 
 You can utilize the checkbox labeled **Exclude this calendar when reporting the free/busy times** when creating the calendar if you prefer not to include events from this specific calendar when Carbonio reports your availability to colleagues. This feature is particularly useful when creating calendars for personal use, ensuring that your availability for meetings is accurately reflected without disclosing details of events from this calendar.
 
-  .. image:: /img/usage/new-calendar1.png
+  .. image:: /img/new-calendar1.png
                 :align: center
                 :width: 100%
 
@@ -127,7 +127,7 @@ To view multiple calendars in your timetable:
 1.	Select the **Calendars** from your left sidebar.
 2.	In the Navigation Panel, click on the calendars you wish to display on your timetable to toggle their visibility on or off.
 
-  .. image:: /img/usage/multiple-calendar.png
+  .. image:: /img/multiple-calendar.png
                 :align: center
                 :width: 100%
 

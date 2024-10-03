@@ -19,7 +19,7 @@ Using Quick Search for Different Items
 
 You can perform a quick search using the search box located on the top bar. You can search through various items, including emails, contacts, appointments, and files, based on the active feature selected from the left sidebar.
 
-  .. image:: /img/usage/search-bar.png
+  .. image:: /img/search-bar.png
                 :align: center
                 :width: 100%
 
@@ -35,7 +35,7 @@ Using Advanced Search to Filter Your Search
 
 This is performed using the search feature you can select from the left sidebar.
 
-  .. image:: /img/usage/search.png
+  .. image:: /img/search.png
                 :align: center
                 :width: 100%
 

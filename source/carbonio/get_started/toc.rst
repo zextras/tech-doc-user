@@ -20,7 +20,7 @@ To access your Carbonio web client, the initial step is to sign in. This can be 
 5.	**Access Your Webmail**: You will now be redirected to your webmail interface. From here, you can easily read and send emails.
 6.	**Watch Out for 2FA**: Sometimes, you might encounter a second-factor authentication (2FA) prompt after your initial login. If that happens, follow the additional steps below to complete the login process.
 
-    .. image:: /img/usage/loginpage.png
+    .. image:: /img/loginpage.png
         :align: center
         :width: 100%
 
@@ -149,7 +149,7 @@ To start the password recovery procedure, you need to enter the recovery address
 
 If you forgot your password, follow these steps:
 
-.. image:: /img/usage/forgot-password.png
+.. image:: /img/forgot-password.png
             :align: center
             :width: 100%
 
@@ -178,7 +178,7 @@ Resetting a password becomes necessary when you want to update your existing pas
 5.	Enter your **old password** along with your new password.
 6.	Click the **CHANGE PASSWORD** button.
 
-    .. image:: /img/usage/change-password.png
+    .. image:: /img/change-password.png
         :align: center
         :width: 100%
 
@@ -188,7 +188,7 @@ Introduction of Carbonio Web Client
 
 When you log in to check your emails, the **Carbonio web client interface** greets you with the following components:
 
-    .. image:: /img/usage/interface.png
+    .. image:: /img/interface.png
         :align: center
         :width: 100%
 
@@ -234,7 +234,7 @@ A theme in the Carbonio web client defines the color scheme used for its appeara
 *	If your OS theme is dark, Carbonio will also be in dark mode.
 *	If your OS theme is light, Carbonio will match that as well.
 
-    .. image:: /img/usage/dark-mode.png
+    .. image:: /img/dark-mode.png
         :align: center
         :width: 100%
 
@@ -253,7 +253,7 @@ You can change the font size across all Carbonio web clients according to your p
 
 Remember, if you prefer automatic resizing based on the device, you can leave the checkbox checked. Otherwise, adjust the font size manually using the slider.
 
-    .. image:: /img/usage/font-size.png
+    .. image:: /img/font-size.png
             :align: center
             :width: 100%
 
@@ -268,7 +268,7 @@ As a digital workspace, Carbonio relies on precise time zone settings to ensure 
 3.	Under the **Time Zone and Language** section select the dropdown menu for **Time Zone** and choose your time zone.
 4.	Click **SAVE** in the top right corner.
 
-    .. image:: /img/usage/time-zone.png
+    .. image:: /img/time-zone.png
             :align: center
             :width: 100%
 
@@ -288,7 +288,7 @@ Accessing Multiple Accounts
 
 On the Carbonio web client, you have access to multiple accounts. Let's say you have your personal account, as well as two additional accounts created for HR tasks and communications with your colleagues under the name “hr@example.com”, and another one named “info@example.com” for external communications of the company. **Only your system administrator can add these accounts and grant you access** to manage them via your main account.
 
-    .. image:: /img/usage/inbox-multiple-accounts.png
+    .. image:: /img/inbox-multiple-accounts.png
             :align: center
             :width: 100%
 

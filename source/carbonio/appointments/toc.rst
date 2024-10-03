@@ -16,7 +16,7 @@ Such features enhance communication and coordination, fostering a productive wor
 Creating an Appointment
 =======================
 
-  .. image:: /img/usage/appointments.png
+  .. image:: /img/appointments.png
                 :align: center
                 :width: 100%
 

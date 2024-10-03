@@ -24,7 +24,7 @@ Your tags are located under the **Tags** section of the **Mails**. To view your 
 #. Click on the downward arrow icon located next to the **Tags** section.
 #. This action will expand or reveal your tags.
 
-  .. image:: /img/usage/tags.png
+  .. image:: /img/tags.png
         :align: center
         :width: 100%
 
@@ -52,7 +52,7 @@ To assign a tag to an email simply:
 #.	Navigate to the Tags option within the dropdown menu.
 #.	Select one or multiple tags from the list.
 
-  .. image:: /img/usage/tagging-email.png
+  .. image:: /img/tagging-email.png
         :align: center
         :width: 100%
 
@@ -111,7 +111,7 @@ To mark an email with a flag, simply:
 #.	From the dropdown menu select **Add Flag**.
 #.	Your email will have a red flag displayed on the right side of the subject line.
 
-  .. image:: /img/usage/add-flag.png
+  .. image:: /img/add-flag.png
           :align: center
           :width: 100%
 
@@ -139,7 +139,7 @@ Folders serve to arrange both incoming and outgoing email correspondence. You ha
 
 **User-defined folders**: These folders, which you create to structure your email, appear in the Folder list within the Overview pane. It is important to note that top-level folder names must be unique and cannot match any other top-level folder within your inbox.
 
-  .. image:: /img/usage/folders.png
+  .. image:: /img/folders.png
           :align: center
           :width: 100%
 
@@ -159,7 +159,7 @@ To create a new folder:
 #.	Provide a name for the new folder.
 #.	Finally, click **CREATE** to confirm your folder creation.
 
-  .. image:: /img/usage/new-folder.png
+  .. image:: /img/new-folder.png
           :align: center
           :width: 100%
 
@@ -243,7 +243,7 @@ Public users are limited to viewing content; they cannot make any changes. For c
 You retain the ability to modify access rights and revoke permissions whenever necessary.
 
 
-  .. image:: /img/usage/shared.png
+  .. image:: /img/shared.png
           :align: center
           :width: 100%
 
@@ -257,7 +257,7 @@ You can assign privileges to individuals or groups of colleagues using roles.
 •	**Manager**: Can view and edit the content of the shared folder, create new subfolders, and edit and delete files within the shared folder.
 •	**Admin**: Has full control, including viewing, editing, adding, removing, accepting, declining, and administering content.
 
-  .. image:: /img/usage/share-role.png
+  .. image:: /img/share-role.png
           :align: center
           :width: 100%
 
@@ -274,7 +274,7 @@ To share an email folder with a colleague:
 #.	Select the *role* from the **Role** field.
 #.	Click the **SHARE FOLDER** button.
 
-  .. image:: /img/usage/share-folder-colleague.png
+  .. image:: /img/share-folder-colleague.png
           :align: center
           :width: 100%
 
@@ -290,7 +290,7 @@ If you share folders with external users, whoever has the link to your folder ca
 #.	Enter the email addresses of recipients into the **Recipients’ e-mail addresses field**.
 #.	Click the **SHARE FOLDER** button.
 
-  .. image:: /img/usage/share-folder-public.png
+  .. image:: /img/share-folder-public.png
           :align: center
           :width: 100%
 
@@ -319,7 +319,7 @@ To revoke sharing an email folder:
 #.	Under the Sharing of this folder section, click **REVOKE**.
 #.	Click the **REVOKE** button to confirm.
 
-  .. image:: /img/usage/revoke-share.png
+  .. image:: /img/revoke-share.png
             :align: center
             :width: 100%
 
@@ -345,7 +345,7 @@ If your colleague did not select the notification option, you can manually add t
 #.	Check the shared folder you want to add from the available shared items list.
 #.  Click the **ADD** button.
 
-  .. image:: /img/usage/find-share.png
+  .. image:: /img/find-share.png
             :align: center
             :width: 100%
 

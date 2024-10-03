@@ -8,7 +8,7 @@
 
 Tasks are an integral part of any organized workflow, whether it is managing personal to-dos or coordinating team assignments. Carbonio Tasks will help you organize your work and manage it easily.
 
-  .. image:: /img/usage/tasks.png
+  .. image:: /img/tasks.png
                 :align: center
                 :width: 100%
               

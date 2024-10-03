@@ -16,7 +16,7 @@ To read an email simply:
 2.	Click on a folder on the navigation panel.
 3.	Select the email from the main panel.
 
-  .. image:: /img/usage/read-email.png
+  .. image:: /img/read-email.png
         :align: center
         :width: 100%
 
@@ -47,7 +47,7 @@ Message view can be useful for users who prefer to deal with emails on a one-by-
 When you are reading an email, there is a button labeled **SHOW QUOTED TEXT** If you click it, you can see the earlier emails that this one is replying to. But remember, you can only see those earlier messages if the person who replied did not delete them when they wrote their reply.
 
 
-  .. image:: /img/usage/message-view.png
+  .. image:: /img/message-view.png
         :align: center
         :width: 100%
 
@@ -64,7 +64,7 @@ To initiate a new conversation thread, you need to compose a new email rather th
 The conversation view is advantageous for users who frequently engage in email exchanges with multiple participants. Grouping related emails into threads allows users to follow the flow of conversation more easily, making it simpler to track the context and progression of discussions over time. This mode is especially helpful for users who collaborate on projects, participate in group discussions, or communicate with multiple stakeholders, as it facilitates better organization and comprehension of complex email interactions. Additionally, the conversation view can help users save time by reducing the need to search for related emails scattered throughout their inbox.
 
 
-  .. image:: /img/usage/conversation-view.png
+  .. image:: /img/conversation-view.png
         :align: center
         :width: 100%
 
@@ -78,7 +78,7 @@ To adjust Carbonio's email visualization, whether opting for threaded conversati
 2.	Access the **Mails** section.
 3.	Under the **Visualization Options** select your preferred viewing mode, either *By Conversation* or *By Message*.
 
-  .. image:: /img/usage/change-visualization-option.png
+  .. image:: /img/change-visualization-option.png
         :align: center
         :width: 100%
 
@@ -110,7 +110,7 @@ To access an attachment, follow these steps:
 Alternatively, if the attachment has a different file format, **hover** your mouse cursor over the attachment's name to reveal the **Download icon**. Click on it to initiate the download process. This will open a dialog box, enabling you to specify the destination folder.
 Remember that the attachment remains associated with the email until you choose to remove it.
 
-  .. image:: /img/usage/preview-email.png
+  .. image:: /img/preview-email.png
         :align: center
         :width: 100%
 
@@ -125,7 +125,7 @@ To remove an attachment:
 1.	Open the email that includes the attachment.
 2.	Hover your mouse cursor on the attachment to reveal the **Delete icon**. Click on it to remove the attachment.
 
-  .. image:: /img/usage/delete-attachment.png
+  .. image:: /img/delete-attachment.png
         :align: center
         :width: 100%
 
@@ -138,7 +138,7 @@ To download an attachment to your computer:
 2.	Under the attachment, click **Download** to initiate the download process. This will open a window, enabling you to specify the destination folder.
 
 
-  .. image:: /img/usage/download-attachment.png
+  .. image:: /img/download-attachment.png
         :align: center
         :width: 100%
 
@@ -151,7 +151,7 @@ To save an attachment in your Carbonio Files:
 1.	Open the email containing the attachment.
 2.	Under the attachment, click **Save to Files**. This will open a window, enabling you to specify the destination folder on your Files.
 
-  .. image:: /img/usage/save-attachment.png
+  .. image:: /img/save-attachment.png
         :align: center
         :width: 100%
 
@@ -168,7 +168,7 @@ Deleted emails will then be moved to your Trash folder. You can retrieve items f
 
 Additionally, you can manually access your Trash folder and permanently erase the email by right-clicking on it and selecting **Delete Permanently**.
 
-  .. image:: /img/usage/delete-email.png
+  .. image:: /img/delete-email.png
         :align: center
         :width: 100%
 
@@ -200,7 +200,7 @@ To mark an email as unread, follow these steps:
 
 It is important to be cautious after marking an email as unread, as inadvertently clicking on it again will remove the bold formatting from the subject line which undo your action.
 
-  .. image:: /img/usage/mark-as-unread.png
+  .. image:: /img/mark-as-unread.png
         :align: center
         :width: 100%
 
@@ -217,7 +217,7 @@ To print an email:
 3.	A new tab will open in your browser displaying the email, along with a window for adjusting printer settings. Make any necessary adjustments.
 4.	Click the Print button to proceed with printing.
 
-  .. image:: /img/usage/print-email.png
+  .. image:: /img/print-email.png
         :align: center
         :width: 100%
 
@@ -239,7 +239,7 @@ To delete multiple emails at once:
 1.	Select multiple emails as described above.
 2.	Click on the trash icon at the top right corner of your email list.
 
-  .. image:: /img/usage/action-multiple-email.png
+  .. image:: /img/action-multiple-email.png
         :align: center
         :width: 100%
 
@@ -255,7 +255,7 @@ Sorting emails can offer significant utility across various scenarios. You have 
 
 The default sorting mode automatically arranges emails based on their dates.
 
-  .. image:: /img/usage/sort-email.png
+  .. image:: /img/sort-email.png
         :align: center
         :width: 100%
 

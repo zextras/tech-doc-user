@@ -7,7 +7,7 @@
 ====================
 
 
-  .. image:: /img/usage/chats.png
+  .. image:: /img/chats.png
                 :align: center
                 :width: 100%
 

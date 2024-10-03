@@ -21,7 +21,7 @@ import time
 hubhome = 'https://docs.zextras.com/landing/zextras_documentation.html'
 # Define the languages you want to support
 # Adatta questa lista alle lingue che desideri supportare
-locales = ['en', 'it']
+locales = ['en', 'it', 'fr']
 
 # Path to your locale directories
 locale_dirs = ['locales/']
@@ -107,11 +107,12 @@ html_sidebars = {"**": ['navbar-logo.html', 'search-button-field.html', 'sbt-sid
 
 # Exporting variables to be available in templates
 
-languages = ['en', 'it']
+languages = ['en', 'it', 'fr']
 
 html_context = {
-    'languages': ['en', 'it'],
+    'languages': ['en', 'it', 'fr'],
     'localpath': 'docs',
+    'hubhome': '%s' % hubhome,
 }
 
 
@@ -129,6 +130,5 @@ gettext_compact = "carbonio"
 # can be found at
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-the-linkcheck-builder
 
-html_context = {
-    'hubhome': '%s' % hubhome,
-}
+
+figure_language_filename = '{path}{language}/{basename}{ext}'

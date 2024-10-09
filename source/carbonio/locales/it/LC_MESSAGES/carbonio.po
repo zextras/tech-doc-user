@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-03 16:29+0200\n"
-"PO-Revision-Date: 2024-10-03 13:37+0000\n"
+"PO-Revision-Date: 2024-10-10 08:37+0000\n"
 "Last-Translator: Anna Cecchellero <anna.cecchellero@zextras.com>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -225,7 +225,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:61
 msgid "Marking an Email as Spam"
-msgstr ""
+msgstr "Seleziona l'email come Spam"
 
 #: ../../advanced_email_management/toc.rst:63
 msgid ""
@@ -241,6 +241,17 @@ msgid ""
 "as spam automatically helps Carbonio in refining the spam filtering "
 "process."
 msgstr ""
+"La maggior parte delle email automatiche, comunemente indicate come spam, "
+"sono filtrare dal filtro spam prima di arrivare nella tua posta in entrata. "
+"Le email che sono potenzialmente email di spam ma non ancora precisamente "
+"identificate come tali vengono indirizzate direttamente nella casella di "
+"Spam. Tali messaggi possono essere visionati in qualsiasi momento e si può "
+"scegliere di spostarli dalla casella di spam oppure cancellarli. Se non "
+"spostati o cancellati, i messaggi verranno comunque eliminati dopo un dato "
+"numero di giorni, in linea con quanto stabilito dall'amministratore di "
+"sistema. Se consideri di ricevere troppe email di spam, ti consigliamo di "
+"contattare l'amministratore di sistema. Segnalare tali email come spam aiuta "
+"Carbonio a rifinire il processo di filtraggio dello spam."
 
 #: ../../advanced_email_management/toc.rst:68
 msgid "Right-click on the email you wish to mark as spam."
@@ -286,28 +297,34 @@ msgid ""
 "If you need to remove a specific spam email, you can easily right-click "
 "on the email and select **Delete**."
 msgstr ""
+"Se è necessario rimuovere una specifica email di spam, puoi semplicemente "
+"fare clic con tasto destro sull'email e selezionare **Elimina**."
 
 #: ../../advanced_email_management/toc.rst:84
 msgid "Marking Email as Not Spam"
-msgstr ""
+msgstr "Seleziona l'email con non Spam"
 
 #: ../../advanced_email_management/toc.rst:86
 msgid ""
 "Occasionally, emails that are not junk may end up in the Junk folder. In "
 "such cases, you can manually move these emails to the appropriate folder."
 msgstr ""
+"Occasionalmente, alcune email che non sono spam potrebbero entrare nella "
+"casella Spam. In questi casi, è possibile spostare manualmente questi "
+"messaggi nella casella appropriata."
 
 #: ../../advanced_email_management/toc.rst:88
 msgid "Go to your **Junk** folder."
-msgstr ""
+msgstr "Vai alla casella **Spam**."
 
 #: ../../advanced_email_management/toc.rst:89
+#, fuzzy
 msgid "Right-click on the email you wish to mark as not spam."
-msgstr ""
+msgstr "Fai clic con tasto destro sull'email che vuoi segnalare come non spam."
 
 #: ../../advanced_email_management/toc.rst:90
 msgid "From the menu that appears, select **Not spam**."
-msgstr ""
+msgstr "Dal menu che appare, seleziona **Non spam**."
 
 #: ../../advanced_email_management/toc.rst:91
 msgid "Your email will be automatically moved to the intended folder."
@@ -371,6 +388,13 @@ msgid ""
 "embedded images in emails received from addresses with this domain will "
 "automatically display upon opening the email. Here is how to do it:"
 msgstr ""
+"Hai la possibilità di definire alcuni indirizzi email contenenti uno "
+"specifico dominio come indirizzi affidabili (il dominio dev'essere parte "
+"dell'indirizzo email apparendo dopo il simbolo @ nella posizione di \"Azienda"
+"\" in questo esempio \"tuo.nome@azienda.com\". Questo assicura che qualsiasi "
+"immagine inclusa in email che provengono da questi indirizzi verrà "
+"automaticamente mostrata all'apertura del messaggio.\n"
+"Puoi procedere in questo modo:"
 
 #: ../../advanced_email_management/toc.rst:112
 msgid ""
@@ -396,6 +420,9 @@ msgid ""
 "When you are away from the office, setting up an automatic reply can keep"
 " colleagues and clients informed. Here is how to set it up:"
 msgstr ""
+"Quando sei fuori ufficio, impostare una email di risposta automatica ti "
+"permetterà di informare i colleghi e clienti sul tuo stato. Ecco come "
+"impostarla:"
 
 #: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:223
 #: ../../get_started/toc.rst:248 ../../get_started/toc.rst:267
@@ -408,12 +435,16 @@ msgid ""
 "Under Out of Office Settings, select Send auto-replies from the first "
 "drop-down menu."
 msgstr ""
+"Nella sezione Fuori Ufficio, seleziona Invia risposta automatica dal primo "
+"menu a tendina."
 
 #: ../../advanced_email_management/toc.rst:128
 msgid ""
 "In the Auto-Reply Message field, type the message you would like to be "
 "sent out while you are away."
 msgstr ""
+"Nel campo Messaggio di risposta automatica, scrivi il messaggi che vorresti "
+"fosse inviato mentre sei fuori ufficio."
 
 #: ../../advanced_email_management/toc.rst:129
 msgid "Select the recipient from the External Senders field."
@@ -424,13 +455,20 @@ msgid ""
 "Under Time Period select Send auto-replies during the following period "
 "and select the dates."
 msgstr ""
+"Nella sezione Periodo di tempo seleziona Invia risposte automatiche durante "
+"il seguente periodo e seleziona le date desiderate."
 
 #: ../../advanced_email_management/toc.rst:133
+#, fuzzy
 msgid ""
 "If you prefer to send the out-of-office email only during specific hours "
 "of the day, you can customize the interval by selecting All Day and then "
 "specifying the desired time frame by choosing the start and end hours."
 msgstr ""
+"Se preferisci inviare risposte automatiche fuori ufficio solo durante un "
+"orario specifico della giornata, è possibile personalizzare l'intervallo di "
+"tempo selezionando Tutto il giorno, specificando poi l'intervallo di tempo "
+"scegliendo le ore di inizio e di fine."
 
 #: ../../advanced_email_management/toc.rst:140
 msgid "Showing Emails in HTML or Plain Text Format"
@@ -446,6 +484,14 @@ msgid ""
 " message in plain-text mode even if it contains HTML. The HTML tags are "
 "displayed in the body of the message in the plain text view."
 msgstr ""
+"Puoi visualizzare i messaggi email in due formati: HTML o testo. I messaggi "
+"HTML includono la formattazione del testo, elenchi numerati e puntati, "
+"sfondi colorati e link che possono rendere più facile la lettura del "
+"messaggio. I messaggi di testo possono essere sempre letti da altri client "
+"di posta. I messaggi visualizzati come testo non supportano alcuna "
+"formattazione, link o immagini. É sempre possibile visualizzare un messaggio "
+"come testo anche se contiene HTML. I tag HTML vengono mostrati nel corpo del "
+"messaggio se visualizzato come testo."
 
 #: ../../advanced_email_management/toc.rst:147
 msgid "Under Displaying Messages, click on the Display mail field."
@@ -523,7 +569,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:182
 msgid "Some examples are:"
-msgstr ""
+msgstr "Alcuni esempi sono:"
 
 #: ../../advanced_email_management/toc.rst:184
 msgid ""
@@ -544,6 +590,9 @@ msgid ""
 " emails from a specific sender can be forwarded or moved to the Trash "
 "folder."
 msgstr ""
+"Elimina o redireziona le email sulla base di criteri predefiniti. Per "
+"esempio, tutte le email provenienti da uno specifico mittente può essere "
+"inoltrata ad altri oppure spostata nel Cestino."
 
 #: ../../advanced_email_management/toc.rst:187
 msgid "Assign importance flags to specific emails."
@@ -555,10 +604,14 @@ msgid ""
 "listed in your settings. You retain the flexibility to modify the order "
 "of filters as needed."
 msgstr ""
+"I filtri vengono applicati in modo sequenziale, seguendo l'ordine in cui "
+"vengono mostrati nelle impostazioni. L'ordine dei filtri può essere "
+"modificato a seconda delle necessità."
 
 #: ../../advanced_email_management/toc.rst:192
+#, fuzzy
 msgid "Creating a Filter"
-msgstr ""
+msgstr "Crea un Filtro"
 
 #: ../../advanced_email_management/toc.rst:198
 msgid "You can configure filters independently for incoming and outgoing emails."
@@ -578,13 +631,14 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:205
 #: ../../advanced_email_management/toc.rst:264
 msgid "Click **CREATE**. A new window appears."
-msgstr ""
+msgstr "Clicca **CREA**. Si aprirà una nuova finestra."
 
 #: ../../advanced_email_management/toc.rst:206
 msgid ""
 "Insert a name for your filter in the **Filter Name** field (e.g., junk "
 "mail)"
 msgstr ""
+"Inserisci un nome per il filtro nel campo **Nome Filtro** (es. email spam)"
 
 #: ../../advanced_email_management/toc.rst:207
 #: ../../advanced_email_management/toc.rst:266
@@ -592,6 +646,8 @@ msgid ""
 "Ensure to mark the **Active filter** checkbox so the filter becomes "
 "operational immediately upon its creation."
 msgstr ""
+"Assicurati di selezionare la voce **Attiva filtro** per far sì che il filtro "
+"sia operativo subito dopo la creazione."
 
 #: ../../advanced_email_management/toc.rst:208
 msgid ""
@@ -600,6 +656,11 @@ msgid ""
 "(please refer to the section below titled **How to create conditions** "
 "for guidance on setting up the necessary criteria)."
 msgstr ""
+"Nella sezione **Condizioni** seleziona le opzioni corrette da applicare alla "
+"logica del tuo filtro. Seleziona il bottone + se hai bisogno di aggiungere "
+"ulteriori condizioni (fare riferimento alla sezione sottostante **Come "
+"creare delle condizioni** come guida relativa alle impostazioni dei criteri "
+"necessari)."
 
 #: ../../advanced_email_management/toc.rst:209
 msgid ""
@@ -608,6 +669,11 @@ msgid ""
 "add more actions (please refer to the section below titled **How to "
 "create actions** for guidance on setting up the necessary criteria)."
 msgstr ""
+"Nella sezione **Azioni**, scegli l'azione appropriata da intraprendere se le "
+"condizioni del filtro sono soddisfatte. Seleziona il bottone **+** se hai "
+"bisogno di aggiungere ulteriori azioni (fare riferimenti alla sezione "
+"sottostante **Come creare azioni** come guida relativa alle impostazioni dei "
+"criteri necessari)."
 
 #: ../../advanced_email_management/toc.rst:210
 #: ../../advanced_email_management/toc.rst:274
@@ -9378,4 +9444,3 @@ msgstr ""
 
 #~ msgid "Click on ‘Start Recovery’ in the pop-up window that appears."
 #~ msgstr ""
-

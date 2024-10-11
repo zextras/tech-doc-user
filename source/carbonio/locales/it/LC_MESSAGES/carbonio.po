@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-03 16:29+0200\n"
-"PO-Revision-Date: 2024-10-10 08:37+0000\n"
-"Last-Translator: Anna Cecchellero <anna.cecchellero@zextras.com>\n"
+"PO-Revision-Date: 2024-10-12 10:37+0000\n"
+"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -103,14 +103,14 @@ msgid "Email Notification"
 msgstr "Notifica Email"
 
 #: ../../advanced_email_management/toc.rst:31
-#, fuzzy
 msgid ""
 "You can customize whether you are notified when you receive new emails. "
 "To enable desktop alerts for new email notifications, ensure that your "
 "web client is open on your browser."
 msgstr ""
-"Puoi decidere se ricevere o meno una notifica all'arrivo di nuovi "
-"messaggi. Per abilitare le notifiche desktop per i messaggi in entrata"
+"Puoi decidere se ricevere o meno una notifica all'arrivo di nuovi messaggi. "
+"Per abilitare le notifiche desktop per i messaggi in entrata, assicurarsi "
+"che il client web sia aperto sul browser."
 
 #: ../../advanced_email_management/toc.rst:33
 #: ../../advanced_email_management/toc.rst:145
@@ -332,7 +332,7 @@ msgstr "La tua email varrà spostata immediatamente nella cartella indicata."
 
 #: ../../advanced_email_management/toc.rst:94
 msgid "Finding the Origin of an Email"
-msgstr ""
+msgstr "Trovare l'origine di una Email"
 
 #: ../../advanced_email_management/toc.rst:96
 #, fuzzy
@@ -378,7 +378,7 @@ msgstr "Si aprirà una nuova finestra che include le informazioni rilevanti."
 
 #: ../../advanced_email_management/toc.rst:105
 msgid "Setting Up Trusted Addresses"
-msgstr ""
+msgstr "Impostazione degli Indirizzi Attendibili"
 
 #: ../../advanced_email_management/toc.rst:107
 msgid ""

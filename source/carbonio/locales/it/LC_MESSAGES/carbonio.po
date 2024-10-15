@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-03 16:29+0200\n"
-"PO-Revision-Date: 2024-10-12 10:37+0000\n"
+"PO-Revision-Date: 2024-10-16 09:37+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -413,7 +413,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:121
 msgid "Creating an Out-of-Office Email"
-msgstr ""
+msgstr "Configurare un'Email di risposta automatica (fuori sede)"
 
 #: ../../advanced_email_management/toc.rst:123
 msgid ""
@@ -448,7 +448,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:129
 msgid "Select the recipient from the External Senders field."
-msgstr ""
+msgstr "Selezionare il destinatario dal campo Mittenti Esterni."
 
 #: ../../advanced_email_management/toc.rst:130
 msgid ""
@@ -472,7 +472,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:140
 msgid "Showing Emails in HTML or Plain Text Format"
-msgstr ""
+msgstr "Mostrare le e-mail in formato HTML o testo semplice"
 
 #: ../../advanced_email_management/toc.rst:142
 msgid ""
@@ -495,15 +495,15 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:147
 msgid "Under Displaying Messages, click on the Display mail field."
-msgstr ""
+msgstr "In Visualizza Messaggi, fare clic sul campo Visualizza e-mail."
 
 #: ../../advanced_email_management/toc.rst:148
 msgid "From the drop-down menu, select **As HTML** or **As text**."
-msgstr ""
+msgstr "Dal menu a tendina, seleziona **Come HTML** o **Come testo**."
 
 #: ../../advanced_email_management/toc.rst:152
 msgid "Configuring Read Receipts Behavior"
-msgstr ""
+msgstr "Configurazione del comportamento delle Ricevute di lettura"
 
 #: ../../advanced_email_management/toc.rst:154
 msgid ""
@@ -513,6 +513,11 @@ msgid ""
 "receipt feature enabled or manually accept it as soon as they open the "
 "email."
 msgstr ""
+"Quando si inviano messaggi ad altri utenti di Carbonio, si può scegliere di "
+"richiedere una ricevuta di lettura, che notifica l'apertura dell'e-mail da "
+"parte del destinatario. Tuttavia, affinché questa funzione funzioni, il "
+"destinatario deve avere la funzione di ricevuta di lettura attivata o "
+"accettarla manualmente non appena apre l'e-mail."
 
 #: ../../advanced_email_management/toc.rst:156
 msgid "To enable the read receipt feature:"
@@ -6364,7 +6369,7 @@ msgstr ""
 
 #: ../../files/toc.rst:397
 msgid "**Public download links:**"
-msgstr ""
+msgstr "**Collegamenti pubblici per il download:**"
 
 #: ../../files/toc.rst:399
 msgid ""
@@ -6373,18 +6378,24 @@ msgid ""
 "provides access for anyone with the link to view and download the content"
 " of the file or folder."
 msgstr ""
+"Questa sezione permette di generare diversi collegamenti ad un file o ad una "
+"cartella, consentendo di inviarli a utenti esterni. Il link generato "
+"consente a chiunque ne sia in possesso di visualizzare e scaricare il "
+"contenuto del file o della cartella."
 
 #: ../../files/toc.rst:402
 msgid "Adding Collaborators to a File / Folder"
-msgstr ""
+msgstr "Aggiungere Collaboratori a un File / Cartella"
 
 #: ../../files/toc.rst:404
 msgid "To add collaborators to a file or folder in Files:"
-msgstr ""
+msgstr "Per aggiungere collaboratori ad un file o ad una cartella in Files:"
 
 #: ../../files/toc.rst:407 ../../files/toc.rst:423
 msgid "Click on the folder or folder to which you want to grant access."
 msgstr ""
+"Fai clic sulla cartella o sulle cartelle a cui si desidera concedere "
+"l'accesso."
 
 #: ../../files/toc.rst:409
 msgid ""
@@ -6392,12 +6403,15 @@ msgid ""
 "colleagues you wish to share the item with and select them from the "
 "suggestions."
 msgstr ""
+"Nella sezione Collaboratori, inserire gli indirizzi e-mail dei colleghi con "
+"cui si desidera condividere l'elemento e selezionarli tra quelli suggeriti."
 
 #: ../../files/toc.rst:410
 msgid ""
 "Click on the eye icon next to the name of the colleague you have just "
 "inserted."
 msgstr ""
+"Fare clic sull'icona dell'occhio accanto al nome del collega appena inserito."
 
 #: ../../files/toc.rst:411
 msgid ""
@@ -6435,7 +6449,7 @@ msgstr ""
 #: ../../files/toc.rst:435 ../../files/toc.rst:447 ../../files/toc.rst:465
 #: ../../files/toc.rst:477
 msgid "Navigate to the file or folder and click on it."
-msgstr ""
+msgstr "Spostati sul file o sulla cartella e fai clic su di esso."
 
 #: ../../files/toc.rst:439
 msgid ""

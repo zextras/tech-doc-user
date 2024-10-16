@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-03 16:29+0200\n"
-"PO-Revision-Date: 2024-10-16 09:37+0000\n"
-"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
+"PO-Revision-Date: 2024-10-17 11:37+0000\n"
+"Last-Translator: Anna Cecchellero <anna.cecchellero@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -521,7 +521,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:156
 msgid "To enable the read receipt feature:"
-msgstr ""
+msgstr "Per abilitare la ricevuta di lettura:"
 
 #: ../../advanced_email_management/toc.rst:160
 msgid "Under **Receiving Messages**, click on the **Read Receipt** field."
@@ -529,7 +529,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:161
 msgid "Select **Always send a read receipt**."
-msgstr ""
+msgstr "Seleziona **Invia sempre la ricevuta di lettura**."
 
 #: ../../advanced_email_management/toc.rst:164
 msgid ""
@@ -538,6 +538,11 @@ msgid ""
 "are prompted each time you open an email with a read receipt request, "
 "giving you the choice to send it or not."
 msgstr ""
+"In alternativa, puoi scegliere l'opzione **Non inviare mai la ricevuta di "
+"lettura* per assicurarti che non venga mai inviata automaticamente o "
+"seleziona **Chiedimi** per essere notificato ogni volta che apri una mail "
+"che richiede la ricevuta di lettura, avendo quindi la possibilità di "
+"scegliere se inviarla o meno."
 
 #: ../../advanced_email_management/toc.rst:171
 msgid "Setting Up Email Filters"
@@ -549,6 +554,9 @@ msgid ""
 "filters allow you to set up actions, such as organizing incoming and "
 "outgoing emails into specific folders."
 msgstr ""
+"Puoi gestire in modo efficace la tua casella di posta utilizzando i filtri e-"
+"mail. Questi filtri permettono di impostare varie azioni, come organizzare "
+"in specifiche cartelle le email in entrata e in uscita.."
 
 #: ../../advanced_email_management/toc.rst:175
 msgid ""

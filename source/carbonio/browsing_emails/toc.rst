@@ -172,6 +172,10 @@ Additionally, you can manually access your Trash folder and permanently erase th
         :align: center
         :width: 100%
 
+
+Recovering Messages
+===================
+
 There is the chance, if enabled by your system administrator, to recover even permanently deleted emails. To do so, you will need to follow these steps:
 
 1.	Click on the **gear icon** in the left panel.

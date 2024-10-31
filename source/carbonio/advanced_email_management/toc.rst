@@ -109,7 +109,7 @@ Here is how to do it:
 
 #.	Click on the Settings (gear icon) in the left sidebar.
 #.	Select Mails.
-#.	Under Trusted addresses, email address, or domain name in the provided text box. If you want to include all addresses from a specific domain, use an asterisk (*) followed by the domain name (e.g., asterisk@domain.com).
+#.  Under Trusted addresses, set email address, or domain name in the provided text box. If you want to trust all addresses from a specific domain, use the entire domain name.
 #.	Click the Add button to add the address or domain to the trusted list.
 #.	Click the SAVE button in the top right corner.
 

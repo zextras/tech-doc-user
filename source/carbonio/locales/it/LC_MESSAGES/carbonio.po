@@ -8,17 +8,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-03 16:29+0200\n"
-"PO-Revision-Date: 2024-10-17 11:37+0000\n"
-"Last-Translator: Anna Cecchellero <anna.cecchellero@zextras.com>\n"
-"Language-Team: Italian <https://translate.zextras.tools/projects/"
-"documentation/carbonio-user-guide/it/>\n"
+"POT-Creation-Date: 2024-10-14 18:00+0200\n"
+"PO-Revision-Date: 2024-10-12 10:37+0000\n"
+"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language: it\n"
+"Language-Team: Italian "
+"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
+"guide/it/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -108,9 +108,9 @@ msgid ""
 "To enable desktop alerts for new email notifications, ensure that your "
 "web client is open on your browser."
 msgstr ""
-"Puoi decidere se ricevere o meno una notifica all'arrivo di nuovi messaggi. "
-"Per abilitare le notifiche desktop per i messaggi in entrata, assicurarsi "
-"che il client web sia aperto sul browser."
+"Puoi decidere se ricevere o meno una notifica all'arrivo di nuovi "
+"messaggi. Per abilitare le notifiche desktop per i messaggi in entrata, "
+"assicurarsi che il client web sia aperto sul browser."
 
 #: ../../advanced_email_management/toc.rst:33
 #: ../../advanced_email_management/toc.rst:145
@@ -241,17 +241,18 @@ msgid ""
 "as spam automatically helps Carbonio in refining the spam filtering "
 "process."
 msgstr ""
-"La maggior parte delle email automatiche, comunemente indicate come spam, "
-"sono filtrare dal filtro spam prima di arrivare nella tua posta in entrata. "
-"Le email che sono potenzialmente email di spam ma non ancora precisamente "
-"identificate come tali vengono indirizzate direttamente nella casella di "
-"Spam. Tali messaggi possono essere visionati in qualsiasi momento e si può "
-"scegliere di spostarli dalla casella di spam oppure cancellarli. Se non "
-"spostati o cancellati, i messaggi verranno comunque eliminati dopo un dato "
-"numero di giorni, in linea con quanto stabilito dall'amministratore di "
-"sistema. Se consideri di ricevere troppe email di spam, ti consigliamo di "
-"contattare l'amministratore di sistema. Segnalare tali email come spam aiuta "
-"Carbonio a rifinire il processo di filtraggio dello spam."
+"La maggior parte delle email automatiche, comunemente indicate come spam,"
+" sono filtrare dal filtro spam prima di arrivare nella tua posta in "
+"entrata. Le email che sono potenzialmente email di spam ma non ancora "
+"precisamente identificate come tali vengono indirizzate direttamente "
+"nella casella di Spam. Tali messaggi possono essere visionati in "
+"qualsiasi momento e si può scegliere di spostarli dalla casella di spam "
+"oppure cancellarli. Se non spostati o cancellati, i messaggi verranno "
+"comunque eliminati dopo un dato numero di giorni, in linea con quanto "
+"stabilito dall'amministratore di sistema. Se consideri di ricevere troppe"
+" email di spam, ti consigliamo di contattare l'amministratore di sistema."
+" Segnalare tali email come spam aiuta Carbonio a rifinire il processo di "
+"filtraggio dello spam."
 
 #: ../../advanced_email_management/toc.rst:68
 msgid "Right-click on the email you wish to mark as spam."
@@ -297,8 +298,8 @@ msgid ""
 "If you need to remove a specific spam email, you can easily right-click "
 "on the email and select **Delete**."
 msgstr ""
-"Se è necessario rimuovere una specifica email di spam, puoi semplicemente "
-"fare clic con tasto destro sull'email e selezionare **Elimina**."
+"Se è necessario rimuovere una specifica email di spam, puoi semplicemente"
+" fare clic con tasto destro sull'email e selezionare **Elimina**."
 
 #: ../../advanced_email_management/toc.rst:84
 msgid "Marking Email as Not Spam"
@@ -390,18 +391,17 @@ msgid ""
 msgstr ""
 "Hai la possibilità di definire alcuni indirizzi email contenenti uno "
 "specifico dominio come indirizzi affidabili (il dominio dev'essere parte "
-"dell'indirizzo email apparendo dopo il simbolo @ nella posizione di \"Azienda"
-"\" in questo esempio \"tuo.nome@azienda.com\". Questo assicura che qualsiasi "
-"immagine inclusa in email che provengono da questi indirizzi verrà "
-"automaticamente mostrata all'apertura del messaggio.\n"
+"dell'indirizzo email apparendo dopo il simbolo @ nella posizione di "
+"\"Azienda\" in questo esempio \"tuo.nome@azienda.com\". Questo assicura "
+"che qualsiasi immagine inclusa in email che provengono da questi "
+"indirizzi verrà automaticamente mostrata all'apertura del messaggio.\n"
 "Puoi procedere in questo modo:"
 
 #: ../../advanced_email_management/toc.rst:112
 msgid ""
-"Under Trusted addresses, email address, or domain name in the provided "
-"text box. If you want to include all addresses from a specific domain, "
-"use an asterisk (*) followed by the domain name (e.g., "
-"asterisk@domain.com)."
+"Under Trusted addresses, set email address, or domain name in the "
+"provided text box. If you want to trust all addresses from a specific "
+"domain, use the entire domain name."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:113
@@ -435,16 +435,16 @@ msgid ""
 "Under Out of Office Settings, select Send auto-replies from the first "
 "drop-down menu."
 msgstr ""
-"Nella sezione Fuori Ufficio, seleziona Invia risposta automatica dal primo "
-"menu a tendina."
+"Nella sezione Fuori Ufficio, seleziona Invia risposta automatica dal "
+"primo menu a tendina."
 
 #: ../../advanced_email_management/toc.rst:128
 msgid ""
 "In the Auto-Reply Message field, type the message you would like to be "
 "sent out while you are away."
 msgstr ""
-"Nel campo Messaggio di risposta automatica, scrivi il messaggi che vorresti "
-"fosse inviato mentre sei fuori ufficio."
+"Nel campo Messaggio di risposta automatica, scrivi il messaggi che "
+"vorresti fosse inviato mentre sei fuori ufficio."
 
 #: ../../advanced_email_management/toc.rst:129
 msgid "Select the recipient from the External Senders field."
@@ -455,8 +455,8 @@ msgid ""
 "Under Time Period select Send auto-replies during the following period "
 "and select the dates."
 msgstr ""
-"Nella sezione Periodo di tempo seleziona Invia risposte automatiche durante "
-"il seguente periodo e seleziona le date desiderate."
+"Nella sezione Periodo di tempo seleziona Invia risposte automatiche "
+"durante il seguente periodo e seleziona le date desiderate."
 
 #: ../../advanced_email_management/toc.rst:133
 #, fuzzy
@@ -466,9 +466,9 @@ msgid ""
 "specifying the desired time frame by choosing the start and end hours."
 msgstr ""
 "Se preferisci inviare risposte automatiche fuori ufficio solo durante un "
-"orario specifico della giornata, è possibile personalizzare l'intervallo di "
-"tempo selezionando Tutto il giorno, specificando poi l'intervallo di tempo "
-"scegliendo le ore di inizio e di fine."
+"orario specifico della giornata, è possibile personalizzare l'intervallo "
+"di tempo selezionando Tutto il giorno, specificando poi l'intervallo di "
+"tempo scegliendo le ore di inizio e di fine."
 
 #: ../../advanced_email_management/toc.rst:140
 msgid "Showing Emails in HTML or Plain Text Format"
@@ -484,14 +484,14 @@ msgid ""
 " message in plain-text mode even if it contains HTML. The HTML tags are "
 "displayed in the body of the message in the plain text view."
 msgstr ""
-"Puoi visualizzare i messaggi email in due formati: HTML o testo. I messaggi "
-"HTML includono la formattazione del testo, elenchi numerati e puntati, "
-"sfondi colorati e link che possono rendere più facile la lettura del "
-"messaggio. I messaggi di testo possono essere sempre letti da altri client "
-"di posta. I messaggi visualizzati come testo non supportano alcuna "
-"formattazione, link o immagini. É sempre possibile visualizzare un messaggio "
-"come testo anche se contiene HTML. I tag HTML vengono mostrati nel corpo del "
-"messaggio se visualizzato come testo."
+"Puoi visualizzare i messaggi email in due formati: HTML o testo. I "
+"messaggi HTML includono la formattazione del testo, elenchi numerati e "
+"puntati, sfondi colorati e link che possono rendere più facile la lettura"
+" del messaggio. I messaggi di testo possono essere sempre letti da altri "
+"client di posta. I messaggi visualizzati come testo non supportano alcuna"
+" formattazione, link o immagini. É sempre possibile visualizzare un "
+"messaggio come testo anche se contiene HTML. I tag HTML vengono mostrati "
+"nel corpo del messaggio se visualizzato come testo."
 
 #: ../../advanced_email_management/toc.rst:147
 msgid "Under Displaying Messages, click on the Display mail field."
@@ -650,8 +650,7 @@ msgstr "Clicca **CREA**. Si aprirà una nuova finestra."
 msgid ""
 "Insert a name for your filter in the **Filter Name** field (e.g., junk "
 "mail)"
-msgstr ""
-"Inserisci un nome per il filtro nel campo **Nome Filtro** (es. email spam)"
+msgstr "Inserisci un nome per il filtro nel campo **Nome Filtro** (es. email spam)"
 
 #: ../../advanced_email_management/toc.rst:207
 #: ../../advanced_email_management/toc.rst:266
@@ -659,8 +658,8 @@ msgid ""
 "Ensure to mark the **Active filter** checkbox so the filter becomes "
 "operational immediately upon its creation."
 msgstr ""
-"Assicurati di selezionare la voce **Attiva filtro** per far sì che il filtro "
-"sia operativo subito dopo la creazione."
+"Assicurati di selezionare la voce **Attiva filtro** per far sì che il "
+"filtro sia operativo subito dopo la creazione."
 
 #: ../../advanced_email_management/toc.rst:208
 msgid ""
@@ -669,11 +668,11 @@ msgid ""
 "(please refer to the section below titled **How to create conditions** "
 "for guidance on setting up the necessary criteria)."
 msgstr ""
-"Nella sezione **Condizioni** seleziona le opzioni corrette da applicare alla "
-"logica del tuo filtro. Seleziona il bottone + se hai bisogno di aggiungere "
-"ulteriori condizioni (fare riferimento alla sezione sottostante **Come "
-"creare delle condizioni** come guida relativa alle impostazioni dei criteri "
-"necessari)."
+"Nella sezione **Condizioni** seleziona le opzioni corrette da applicare "
+"alla logica del tuo filtro. Seleziona il bottone + se hai bisogno di "
+"aggiungere ulteriori condizioni (fare riferimento alla sezione "
+"sottostante **Come creare delle condizioni** come guida relativa alle "
+"impostazioni dei criteri necessari)."
 
 #: ../../advanced_email_management/toc.rst:209
 msgid ""
@@ -682,11 +681,11 @@ msgid ""
 "add more actions (please refer to the section below titled **How to "
 "create actions** for guidance on setting up the necessary criteria)."
 msgstr ""
-"Nella sezione **Azioni**, scegli l'azione appropriata da intraprendere se le "
-"condizioni del filtro sono soddisfatte. Seleziona il bottone **+** se hai "
-"bisogno di aggiungere ulteriori azioni (fare riferimenti alla sezione "
-"sottostante **Come creare azioni** come guida relativa alle impostazioni dei "
-"criteri necessari)."
+"Nella sezione **Azioni**, scegli l'azione appropriata da intraprendere se"
+" le condizioni del filtro sono soddisfatte. Seleziona il bottone **+** se"
+" hai bisogno di aggiungere ulteriori azioni (fare riferimenti alla "
+"sezione sottostante **Come creare azioni** come guida relativa alle "
+"impostazioni dei criteri necessari)."
 
 #: ../../advanced_email_management/toc.rst:210
 #: ../../advanced_email_management/toc.rst:274
@@ -3038,66 +3037,71 @@ msgid ""
 "Permanently**."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:175
+#: ../../browsing_emails/toc.rst:177
+#, fuzzy
+msgid "Recovering Messages"
+msgstr "Rimozione delle Email di Spam"
+
+#: ../../browsing_emails/toc.rst:179
 msgid ""
 "There is the chance, if enabled by your system administrator, to recover "
 "even permanently deleted emails. To do so, you will need to follow these "
 "steps:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:177
+#: ../../browsing_emails/toc.rst:181
 msgid "Click on the **gear icon** in the left panel."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:178
+#: ../../browsing_emails/toc.rst:182
 msgid ""
 "Click on the **‘Mails’** option and scroll down to the **‘Recover "
 "Messages’** section."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:179
+#: ../../browsing_emails/toc.rst:183
 msgid "Enter a keyword and/or the date of the email you wish to recover."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:180
+#: ../../browsing_emails/toc.rst:184
 msgid ""
 "Click on ‘Search E-mails’ and then on **‘Start Search’** in the pop-up "
 "window that will appear."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:181
+#: ../../browsing_emails/toc.rst:185
 msgid ""
 "Select the email you intend to recover by ticking the flag and click the "
 "**‘Recover Selected E-mails’** button in the top-right corner."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:182
+#: ../../browsing_emails/toc.rst:186
 msgid "Click on **‘Start Recovery’** in the pop-up window that appears."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:183
+#: ../../browsing_emails/toc.rst:187
 msgid ""
 "You will find the recovered email inside a folder in your inbox, renamed "
 "with the date and time details of the recovery."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:184
+#: ../../browsing_emails/toc.rst:188
 msgid ""
 "You will also receive a notification in your inbox with the details of "
 "the recovery process outcome."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:186
+#: ../../browsing_emails/toc.rst:190
 msgid ""
 "Please note that the ability to perform this operation strictly depends "
 "on the backup settings configured by your system administrator."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:189
+#: ../../browsing_emails/toc.rst:193
 msgid "Marking an Email as Unread"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:191
+#: ../../browsing_emails/toc.rst:195
 msgid ""
 "Marking emails as unread can be particularly helpful when you need to "
 "revisit an email for future reference or further reading, especially if "
@@ -3105,7 +3109,7 @@ msgid ""
 "with its content."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:193
+#: ../../browsing_emails/toc.rst:197
 msgid ""
 "The key distinction between a read and unread email lies in their "
 "appearance within your inbox: read emails typically display with regular "
@@ -3113,108 +3117,108 @@ msgid ""
 "easier to spot."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:195
+#: ../../browsing_emails/toc.rst:199
 msgid "To mark an email as unread, follow these steps:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:197
+#: ../../browsing_emails/toc.rst:201
 msgid "Right-click on the email you wish to mark as unread."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:198
+#: ../../browsing_emails/toc.rst:202
 msgid "From the menu that appears, select **Mark as unread**."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:199
+#: ../../browsing_emails/toc.rst:203
 msgid "Notice how the email's subject line now appears in bold font."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:201
+#: ../../browsing_emails/toc.rst:205
 msgid ""
 "It is important to be cautious after marking an email as unread, as "
 "inadvertently clicking on it again will remove the bold formatting from "
 "the subject line which undo your action."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:210
+#: ../../browsing_emails/toc.rst:214
 #, fuzzy
 msgid "Printing an Email"
 msgstr "Gestione delle email"
 
-#: ../../browsing_emails/toc.rst:213
+#: ../../browsing_emails/toc.rst:217
 msgid "To print an email:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:215
+#: ../../browsing_emails/toc.rst:219
 msgid "Right-click on the email or conversation you wish to print."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:216
+#: ../../browsing_emails/toc.rst:220
 msgid "Select the **Print** option from the menu."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:217
+#: ../../browsing_emails/toc.rst:221
 msgid ""
 "A new tab will open in your browser displaying the email, along with a "
 "window for adjusting printer settings. Make any necessary adjustments."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:218
+#: ../../browsing_emails/toc.rst:222
 msgid "Click the Print button to proceed with printing."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:226
+#: ../../browsing_emails/toc.rst:230
 msgid "Actions on Multiple Emails at Once"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:228
+#: ../../browsing_emails/toc.rst:232
 msgid "To perform an action on multiple emails:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:230
+#: ../../browsing_emails/toc.rst:234
 msgid ""
 "Click on the check mark icon at the top left corner of your main panel to"
 " enter selection mode."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:231
+#: ../../browsing_emails/toc.rst:235
 msgid "Select the empty circles beside each email you wish to choose."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:232
+#: ../../browsing_emails/toc.rst:236
 msgid ""
 "Click on the three vertical dots icon at the top right corner of the "
 "email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:233
+#: ../../browsing_emails/toc.rst:237
 msgid "Choose the action you want to perform."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:235
+#: ../../browsing_emails/toc.rst:239
 msgid ""
 "The available actions for multiple emails include marking as unread, "
 "adding a flag, moving, and tagging."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:237
+#: ../../browsing_emails/toc.rst:241
 msgid "To delete multiple emails at once:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:239
+#: ../../browsing_emails/toc.rst:243
 msgid "Select multiple emails as described above."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:240
+#: ../../browsing_emails/toc.rst:244
 msgid "Click on the trash icon at the top right corner of your email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:248
+#: ../../browsing_emails/toc.rst:252
 #, fuzzy
 msgid "Sorting Emails"
 msgstr "Gestione delle email"
 
-#: ../../browsing_emails/toc.rst:250
+#: ../../browsing_emails/toc.rst:254
 msgid ""
 "Sorting emails can offer significant utility across various scenarios. "
 "You have the flexibility to categorize emails based on criteria such as "
@@ -3222,46 +3226,46 @@ msgid ""
 "sender, date, and subject."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:252
+#: ../../browsing_emails/toc.rst:256
 msgid ""
 "To initiate sorting, click on the **sorting icon** located in the top "
 "right corner of your email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:253
+#: ../../browsing_emails/toc.rst:257
 msgid "Choose your preferred sorting criterion from the options provided."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:254
+#: ../../browsing_emails/toc.rst:258
 msgid ""
 "Once selected, click on the sorting icon again to toggle between "
 "ascending and descending order as per your preference."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:256
+#: ../../browsing_emails/toc.rst:260
 msgid ""
 "The default sorting mode automatically arranges emails based on their "
 "dates."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:265
+#: ../../browsing_emails/toc.rst:269
 msgid "Emails date format"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:267
+#: ../../browsing_emails/toc.rst:271
 msgid ""
 "To ensure clarity, the date format for emails that are not from the "
 "current day, it will always be displayed with the full date and time, "
 "with the complete timestamp."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:269
+#: ../../browsing_emails/toc.rst:273
 msgid ""
 "The timestamp will be shown according to the browser language rules, as "
 "explained in the following table:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:271
+#: ../../browsing_emails/toc.rst:275
 msgid "Date Format"
 msgstr ""
 
@@ -5127,7 +5131,7 @@ msgstr ""
 #: ../../contacts/toc.rst:163 ../../contacts/toc.rst:176
 #: ../../contacts/toc.rst:201 ../../contacts/toc.rst:222
 #: ../../contacts/toc.rst:236 ../../contacts/toc.rst:249
-#: ../../contacts/toc.rst:260
+#: ../../contacts/toc.rst:274
 msgid "Select the **Contacts** from your left sidebar."
 msgstr ""
 
@@ -5541,33 +5545,41 @@ msgstr ""
 msgid "Click **Save**."
 msgstr ""
 
-#: ../../contacts/toc.rst:256
+#: ../../contacts/toc.rst:255
+msgid "The files to be imported must have the following format."
+msgstr ""
+
+#: ../../contacts/toc.rst
+msgid "Example CSV file"
+msgstr ""
+
+#: ../../contacts/toc.rst:270
 msgid "Import a CSV File as an Address Book"
 msgstr ""
 
-#: ../../contacts/toc.rst:258
+#: ../../contacts/toc.rst:272
 msgid ""
 "You can import the stored address book on your computer in CSV (comma-"
 "separated values) format to your Carbonio web client. To do so:"
 msgstr ""
 
-#: ../../contacts/toc.rst:261
+#: ../../contacts/toc.rst:275
 msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "import data in."
 msgstr ""
 
-#: ../../contacts/toc.rst:262
+#: ../../contacts/toc.rst:276
 msgid "Select **Import csv file** from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../contacts/toc.rst:263
+#: ../../contacts/toc.rst:277
 msgid ""
 "Select the csv file containing the address book information stored on "
 "your computer."
 msgstr ""
 
-#: ../../contacts/toc.rst:264 ../../files/toc.rst:60 ../../files/toc.rst:271
+#: ../../contacts/toc.rst:278 ../../files/toc.rst:60 ../../files/toc.rst:271
 msgid "Click **Open**."
 msgstr ""
 
@@ -9466,3 +9478,14 @@ msgstr ""
 
 #~ msgid "Click on ‘Start Recovery’ in the pop-up window that appears."
 #~ msgstr ""
+
+#~ msgid ""
+#~ "Under Trusted addresses, email address, "
+#~ "or domain name in the provided "
+#~ "text box. If you want to include"
+#~ " all addresses from a specific "
+#~ "domain, use an asterisk (*) followed "
+#~ "by the domain name (e.g., "
+#~ "asterisk@domain.com)."
+#~ msgstr ""
+

@@ -225,6 +225,8 @@ To remove a colleague’s shared calendar from your calendars list:
 2.	From the Navigation Panel, right-click on the calendar you wish to remove.
 3.	From the drop-down menu select **Remove shared calendar**.
 
+.. _ics-import:
+
 Import an ICS File as New Calendar
 ====================================
 

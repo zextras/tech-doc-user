@@ -52,6 +52,17 @@ To edit an existing appointment:
 #.	Make changes.
 #.	If you have created the appointment solely for yourself, click **SAVE**. If your appointment includes attendees, click **SEND** to notify them about the changes via an automatic email.
 
+Forwarding an Existing Appointment
+==================================
+
+To forward an existing appointment: 
+
+#.	Select the **Calendars** from your left sidebar.
+#.	Right-click on the appointment you wish to edit, which is displayed on your timetable.
+#.	Select **Forward** from the drop-down menu.
+#.	Enter the email address of the person you wish to forward the appointment to.
+#.	Click **FORWARD** to send the appointment to the specified email address.
+
 Canceling an Appointment
 ========================
 

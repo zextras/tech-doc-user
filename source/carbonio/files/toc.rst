@@ -146,7 +146,9 @@ To view a file stored in your Files:
 
 Double-clicking on the file will also open them for previewing purposes, but for editable formats including DOCX, XLSX, PPTX, ODT, ODS, and ODP, they will be opened in another tab in your browser. In this scenario, ensure that you refrain from editing the file, as it is in an editable mode and accidental deletions or additions may occur.
 
-You can only preview certain file formats such as PDF, DOCX, XLSX, PPTX, ODT, ODS, and ODP, as well as image files like PNG, JPG, etc., but not movies. For unsupported files, you can download them to your computer and open them with specific applications.
+You can only preview most of the frequent file formats such as PDF, DOCX, XLSX, PPTX, ODT, ODS, and ODP, as well as image files like PNG, JPG, etc.
+You can also preview a video, by simply double clicking a video file or open it with preview action: if the browser support that mime type, the video is played directly on the browser.
+For unsupported files, you can download them to your computer and open them with specific applications.
 
 Creating a File
 ===============

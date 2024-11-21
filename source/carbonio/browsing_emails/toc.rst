@@ -68,6 +68,18 @@ The conversation view is advantageous for users who frequently engage in email e
         :align: center
         :width: 100%
 
+Reading Email Header Security Information 
+=========================================
+
+You will now receive visual notifications within the email body and the header will display specific security and informational criteria. This includes notifications for:
+
+	•	External domain origins
+	•	Signatures, such as DMARC and DKIM
+	•	Confidentiality markers
+	•	Distribution-list origins
+
+These enhancements are designed to increase your awareness of potential security risks and improve content integrity.
+
 
 Changing Email Visualization Method
 ===================================

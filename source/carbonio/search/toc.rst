@@ -28,7 +28,7 @@ To do so:
 #.	Select either Mails, Calendars, Contacts, or Files from the left sidebar, depending on which item you want to search for. The text of the search box changes based on which feature is active. For example, in Mails, the term is Search in Mails.
 #.	Enter a keyword in the search box, such as a term used in an email subject or body that you are searching for.
 #.	Click the button next to the search box with the magnifying glass icon.
-#.	Your search results will appear on the left side of a list.
+#.	Your search results will appear on the left side of a list, beside the total number of items loaded.
 
 Using Advanced Search to Filter Your Search
 ===========================================

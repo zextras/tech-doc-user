@@ -181,6 +181,8 @@ You can assign privileges to individuals or groups of colleagues using roles to 
 
 Sharing your calendar with colleagues allows them to view or manage your calendar, which can be incredibly useful, especially for a team. Having a shared calendar enables efficient coordination and collaboration among team members.
 
+If you set the viewing mode to ‘daily’ by clicking on the appropriate icon at the top right, you will also have the opportunity to view each appointment separately, divided into separate columns, for clearer visibility of each team member’s calendars.
+
 Sharing Calendars with Your Colleagues
 ======================================
 

@@ -8,17 +8,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-21 09:34+0100\n"
-"PO-Revision-Date: 2024-10-12 10:37+0000\n"
-"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.8.3\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -546,7 +541,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:171
 msgid "Setting Up Email Filters"
-msgstr ""
+msgstr "Impostazione Filtri Email"
 
 #: ../../advanced_email_management/toc.rst:173
 msgid ""
@@ -563,22 +558,30 @@ msgid ""
 "A filter consists of specific conditions paired with corresponding "
 "actions."
 msgstr ""
+"Un filtro è costituito da condizioni specifiche abbinate ad azioni "
+"corrispondenti."
 
 #: ../../advanced_email_management/toc.rst:177
 msgid ""
 "When an email satisfies the specified conditions, the designated actions "
 "are triggered."
 msgstr ""
+"Quando un'email soddisfa le condizioni specificate, vengono attivate le "
+"azioni impostate."
 
 #: ../../advanced_email_management/toc.rst:179
 msgid ""
 "Conditions can encompass various criteria, such as the subject, sender, "
 "or date of the email."
 msgstr ""
+"Le condizioni possono comprendere vari criteri, come l'oggetto, il mittente "
+"o la data dell'email."
 
 #: ../../advanced_email_management/toc.rst:180
 msgid "Actions may include moving, tagging, or redirecting the emails."
 msgstr ""
+"Le azioni possono includere lo spostamento, il tag o il reindirizzamento "
+"delle email."
 
 #: ../../advanced_email_management/toc.rst:182
 msgid "Some examples are:"
@@ -590,12 +593,19 @@ msgid ""
 "instance, emails from your supervisor can be automatically routed to your"
 " \"Management Directives\" folder upon arrival."
 msgstr ""
+"Spostamento automatico delle e-mail in arrivo nelle cartelle designate. Ad "
+"esempio, tutte le email ricevute dal tuo supervisore possono essere "
+"direttamente indirizzate alla cartella \"Direttive Decisionali\" al loro "
+"arrivo."
 
 #: ../../advanced_email_management/toc.rst:185
 msgid ""
 "Tag specific emails for easy identification. For example, emails from the"
 " corporate events mailing list can be labeled with an \"Events\" tag."
 msgstr ""
+"Tagga email specifiche per identificarle in modo semplice. Per esempio, le "
+"email che arrivano dalla mailing list relativa agli eventi aziedali, possono "
+"essere taggate con l'etichetta \"Eventi\"."
 
 #: ../../advanced_email_management/toc.rst:186
 msgid ""
@@ -622,7 +632,6 @@ msgstr ""
 "modificato a seconda delle necessità."
 
 #: ../../advanced_email_management/toc.rst:192
-#, fuzzy
 msgid "Creating a Filter"
 msgstr "Crea un Filtro"
 
@@ -632,7 +641,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:200
 msgid "To create a filter for **incoming** or **outgoing emails**:"
-msgstr ""
+msgstr "Per creare un filtro per email **in arrivo** o **in uscita**:"
 
 #: ../../advanced_email_management/toc.rst:204
 msgid ""
@@ -9571,18 +9580,3 @@ msgstr ""
 #~ "by the domain name (e.g., "
 #~ "asterisk@domain.com)."
 #~ msgstr ""
-
-#~ msgid ""
-#~ "You can only preview certain file "
-#~ "formats such as PDF, DOCX, XLSX, "
-#~ "PPTX, ODT, ODS, and ODP, as well"
-#~ " as image files like PNG, JPG, "
-#~ "etc., but not movies. For unsupported"
-#~ " files, you can download them to "
-#~ "your computer and open them with "
-#~ "specific applications."
-#~ msgstr ""
-
-#~ msgid "Your search results will appear on the left side of a list."
-#~ msgstr ""
-

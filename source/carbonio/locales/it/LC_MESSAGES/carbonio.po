@@ -8,6 +8,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-12-09 15:18+0000\n"
+"Last-Translator: Zextras Admin <bot@zextras.com>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -398,6 +402,10 @@ msgid ""
 "provided text box. If you want to trust all addresses from a specific "
 "domain, use the entire domain name."
 msgstr ""
+"Sotto Indirizzi attendibili, immettere l'indirizzo e-mail o il nome del "
+"dominio nella casella di testo fornita. Se si desidera considerare "
+"attendibili tutti gli indirizzi di un dominio specifico, utilizzare l'intero "
+"nome del dominio."
 
 #: ../../advanced_email_management/toc.rst:113
 #, fuzzy
@@ -521,6 +529,7 @@ msgstr "Per abilitare la ricevuta di lettura:"
 #: ../../advanced_email_management/toc.rst:160
 msgid "Under **Receiving Messages**, click on the **Read Receipt** field."
 msgstr ""
+"Sotto **Ricezione Messaggi**, fare clic sul campo **Ricevuta di lettura**."
 
 #: ../../advanced_email_management/toc.rst:161
 msgid "Select **Always send a read receipt**."
@@ -619,7 +628,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:187
 msgid "Assign importance flags to specific emails."
-msgstr ""
+msgstr "Assegna flag di importanza a email specifiche."
 
 #: ../../advanced_email_management/toc.rst:189
 msgid ""

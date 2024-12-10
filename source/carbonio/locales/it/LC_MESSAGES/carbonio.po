@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-10 17:51+0000\n"
+"PO-Revision-Date: 2024-12-10 20:43+0000\n"
 "Last-Translator: Gianluca Boiano <gianluca.boiano@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -25,7 +25,6 @@ msgid "Advanced Email Management"
 msgstr "Gestione Avanzata dell'Email"
 
 #: ../../advanced_email_management/toc.rst:9
-#, fuzzy
 msgid ""
 "This section delves into more advanced email management techniques that "
 "offer significant long-term benefits. For Carbonio enthusiasts, we "
@@ -33,11 +32,11 @@ msgid ""
 "effectively handling spam emails, utilizing email filters, and email "
 "signatures, etc."
 msgstr ""
-"Questa sezione approfondisce le tecniche di gestione delle email che "
-"offrono benefici a lungo termine significativi. Invitiamo tutti gli "
-"amanti di Carbonio a prendere nota di queste strategie. Le tecniche "
-"esposte includono come gestire le email di spam, utilizzare i filtri o le"
-" firme nelle email ecc."
+"Questa sezione approfondisce tecniche di gestione delle email più avanzate "
+"che offrono notevoli vantaggi a lungo termine. Per gli appassionati di "
+"Carbonio, consigliamo vivamente di prendere nota di queste strategie. Le "
+"tecniche includono la gestione efficace delle email indesiderate, l'utilizzo "
+"di filtri email e firme email, ecc."
 
 #: ../../advanced_email_management/toc.rst:12
 msgid "Email Check Frequency"
@@ -86,16 +85,15 @@ msgid "Click the SAVE button in the top right corner."
 msgstr "Clicca il pulsante SALVA nell'angolo in altro a destra."
 
 #: ../../advanced_email_management/toc.rst:22
-#, fuzzy
 msgid ""
 "If you select Manually, you will need to click the reload icon to fetch "
 "new emails. If you choose As new email arrives, your inbox will refresh "
 "automatically upon receiving a new email."
 msgstr ""
 "Se selezioni Manualmente, sarà necessario cliccare l'icona di ricarica "
-"pagina per visualizzare le nuove email. Se scegli Quanda arriva una nuova"
-" email, la tua casella di posta si aggiornerà automaticamente ogni volta "
-"che verrà ricevuta una nuova email."
+"pagina per visualizzare le nuove email. Se scegli Quanda arriva una nuova "
+"email, la tua casella di posta si aggiornerà automaticamente ogni volta che "
+"verrà ricevuta una nuova email."
 
 #: ../../advanced_email_management/toc.rst:29
 msgid "Email Notification"
@@ -129,7 +127,6 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:517 ../../calendars/toc.rst:24
 #: ../../calendars/toc.rst:140 ../../calendars/toc.rst:156
 #: ../../calendars/toc.rst:166
-#, fuzzy
 msgid "Click on the **Settings** (gear icon) in the left sidebar."
 msgstr ""
 "Clicca su **Impostazioni** (icona a forma di ingranaggio) nella barra "
@@ -186,7 +183,6 @@ msgid "Receiving Notifications via Another Email Address"
 msgstr "Ricezione di Notifiche tramite un altro Indirizzo Email"
 
 #: ../../advanced_email_management/toc.rst:47
-#, fuzzy
 msgid ""
 "You can customize your email preferences to receive notifications at "
 "another email address when you receive an email in your Carbonio inbox. "
@@ -196,14 +192,13 @@ msgid ""
 "section, for this feature, you do not need to keep your Carbonio webmail "
 "open."
 msgstr ""
-"È possibile impostare le proprie preferenze per ricevere le notifiche su "
-"un altro indirizzo di posta quando ricevi una nuova mail nella casella di"
-" posta in entrata Carbonio. Questa opzione può essere molto utile nel "
-"caso in cui solitamente non ricevi numerose email su questo indirizzo, ma"
-" reputi che quelle ricevute debbano essere controllate tempestivamente. "
-"Al contrario delle notifiche email menzionate nella sezione precedente, "
-"per questa funzionalità non è necessario tenere aperta la webmail "
-"Carbonio."
+"È possibile impostare le proprie preferenze per ricevere le notifiche su un "
+"altro indirizzo di posta quando ricevi una nuova mail nella casella di posta "
+"in entrata Carbonio. Questa opzione può essere molto utile nel caso in cui "
+"solitamente non ricevi numerose email su questo indirizzo, ma reputi che "
+"quelle ricevute debbano essere controllate tempestivamente. Al contrario "
+"delle notifiche email menzionate nella sezione precedente, per questa "
+"funzionalità non è necessario tenere aperta la webmail Carbonio."
 
 #: ../../advanced_email_management/toc.rst:51
 msgid ""
@@ -8345,46 +8340,55 @@ msgstr "Fare clic sul pulsante **NUOVO OTP** +."
 #: ../../get_started/toc.rst:74
 msgid "Insert a **label** to help you remember this OTP (e.g., “mySamsungPhone”)."
 msgstr ""
+"Inserisci un **etichetta** per aiutarti a ricordare questo OTP (ad esempio, "
+"“ilMioTelefonoSamsung”)."
 
 #: ../../get_started/toc.rst:75
 msgid "Hit the CREATE PASSWORD button."
-msgstr ""
+msgstr "Premi il pulsante CREA PASSWORD."
 
 #: ../../get_started/toc.rst:77
 msgid "Install Google Authenticator:"
-msgstr ""
+msgstr "Installa Google Authenticator:"
 
 #: ../../get_started/toc.rst:79
 msgid ""
 "Install the **Google Authenticator app** on your mobile device (available"
 " on both Android and iOS)."
 msgstr ""
+"Installa l'**app Google Authenticator** sul tuo dispositivo mobile ("
+"disponibile su entrambi Android e iOS)."
 
 #: ../../get_started/toc.rst:80
 msgid "Open the app and press the “+” button in the bottom right corner."
-msgstr ""
+msgstr "Apri l'app e premi il pulsante \"+\" nell'angolo in basso a destra."
 
 #: ../../get_started/toc.rst:84
 msgid "Use the app to **scan the QR code** displayed during the setup process."
 msgstr ""
+"Utilizza l'app per **scansionare il codice QR** visualizzato durante la "
+"procedura di setup."
 
 #: ../../get_started/toc.rst:85
 msgid ""
 "This creates an instance in the app that generates a **temporary code** "
 "that updates every 30 seconds."
 msgstr ""
+"Ciò crea un'istanza nell'app che genera un codice temporaneo che si aggiorna "
+"ogni 30 secondi."
 
 #: ../../get_started/toc.rst:89
 msgid "The next time you log in to your Carbonio webmail, follow these steps:"
 msgstr ""
+"La prossima volta che si accede a Carbonio webmail, seguire questi passaggi:"
 
 #: ../../get_started/toc.rst:97
 msgid "> Click **LOGIN**.."
-msgstr ""
+msgstr "Fai clic su **ENTRA**."
 
 #: ../../get_started/toc.rst:101
 msgid "Using SAML to Sign In"
-msgstr ""
+msgstr "Utilizzare SAML per l'accesso"
 
 #: ../../get_started/toc.rst:103
 msgid ""
@@ -8393,24 +8397,33 @@ msgid ""
 " who you say you are. Imagine it as a special pass that lets you into "
 "multiple places without needing a separate key for each door."
 msgstr ""
+"**SAML** è l'acronimo di **Security Assertion Markup Language**. È come una "
+"stretta di mano segreta tra diversi siti web e app per assicurarsi che tu "
+"sia chi dici di essere. Immagina come un pass speciale che ti consente di "
+"accedere a più luoghi senza dover utilizzare una chiave separata per ogni "
+"porta."
 
 #: ../../get_started/toc.rst:105
 msgid ""
 "You have generally two ways to use SAML functionality to sign in to your "
 "Carbonio account:"
 msgstr ""
+"Hai generalmente due modi per utilizzare la funzionalità SAML per accedere "
+"al tuo account Carbonio:"
 
 #: ../../get_started/toc.rst:107
 msgid "First Flow:"
-msgstr ""
+msgstr "Primo flusso:"
 
 #: ../../get_started/toc.rst:109
 msgid "When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
 msgstr ""
+"Durante l'accesso a Carbonio webmail, cercare il pulsante **LOGIN SAML**."
 
 #: ../../get_started/toc.rst:110
 msgid "Click it, and it will automatically sign you into your webmail."
 msgstr ""
+"Cliccalo e ti connetterà automaticamente alla tua posta elettronica web."
 
 #: ../../get_started/toc.rst:111
 msgid ""
@@ -8418,36 +8431,45 @@ msgid ""
 "service** (like Okta or other services provided by your system "
 "administrator)."
 msgstr ""
+"Importante: è necessario essere già connessi al servizio di **provider di "
+"identità** (come Okta o altri servizi forniti dall'amministratore di "
+"sistema)."
 
 #: ../../get_started/toc.rst:112
 msgid ""
 "If you are not sure how to log into your identity provider, reach out to "
 "your **system administrator** for assistance."
 msgstr ""
+"Se non sei sicuro di come accedere al tuo fornitore di identità, contatta "
+"l'**amministratore di sistema** per assistenza."
 
 #: ../../get_started/toc.rst:114
 msgid "Second Flow:"
-msgstr ""
+msgstr "Secondo Flusso:"
 
 #: ../../get_started/toc.rst:116
 msgid ""
 "First, log in to your **identity provider service** (e.g., Okta or other "
 "services provided by your system administrator)."
 msgstr ""
+"Innanzitutto, accedi al tuo **servizio di provider di identità** (ad esempio "
+"Okta o altri servizi forniti dal tuo amministratore di sistema)."
 
 #: ../../get_started/toc.rst:117
 msgid "Once you are logged in there, simply click on the **Carbonio mail app**."
-msgstr ""
+msgstr "Una volta effettuato l'accesso, fare clic sull'app **Carbonio mail**."
 
 #: ../../get_started/toc.rst:118
 msgid ""
 "SAML will seamlessly take you to your webmail without requiring you to "
 "insert your credentials."
 msgstr ""
+"SAML ti porterà senza soluzione di continuità alla tua casella di posta "
+"elettronica web senza richiederti di inserire le tue credenziali."
 
 #: ../../get_started/toc.rst:122
 msgid "Signing Out"
-msgstr ""
+msgstr "Disconnettersi"
 
 #: ../../get_started/toc.rst:124
 msgid ""
@@ -8455,48 +8477,59 @@ msgid ""
 "sign out when you are away from your computer. Here are two "
 "straightforward methods to log out:"
 msgstr ""
+"Per garantire la sicurezza del tuo client web Carbonio, è essenziale "
+"disconnettersi quando ci si allontana dal computer. Ecco due metodi semplici "
+"per uscire:"
 
 #: ../../get_started/toc.rst:126
 msgid "Using the Account Icon:"
-msgstr ""
+msgstr "Utilizzando l'Icona dell'Account:"
 
 #: ../../get_started/toc.rst:128
 msgid ""
 "Click on the account icon located in the top-right corner of the webmail "
 "interface."
 msgstr ""
+"Fare clic sull'icona dell'account situata nell'angolo in alto a destra "
+"dell'interfaccia webmail."
 
 #: ../../get_started/toc.rst:129
 msgid "Select the **Logout** button."
-msgstr ""
+msgstr "Seleziona il pulsante **Disconnetti**."
 
 #: ../../get_started/toc.rst:130
 msgid "You will be securely signed out."
-msgstr ""
+msgstr "Sarai disconnesso in modo sicuro."
 
 #: ../../get_started/toc.rst:132
 msgid "Via General Settings:"
-msgstr ""
+msgstr "Attraverso le Impostazioni Generali:"
 
 #: ../../get_started/toc.rst:134
 msgid "Click the **gear icon** on the left sidebar panel to access settings."
 msgstr ""
+"Fai clic sull'icona dell'**ingranaggio** nel pannello del menu a sinistra "
+"per accedere alle impostazioni."
 
 #: ../../get_started/toc.rst:135
 msgid "Navigate to General Settings."
-msgstr ""
+msgstr "Passa alle Impostazioni generali."
 
 #: ../../get_started/toc.rst:136
 msgid ""
 "In the **Account** section, click the **LOGOUT** button, and you will be "
 "successfully logged out."
 msgstr ""
+"Nella sezione **Account**, fare clic sul pulsante **DISCONNETTI** e verrai "
+"disconnesso con successo."
 
 #: ../../get_started/toc.rst:138
 msgid ""
 "For security purposes, your system administrator might set a maximum "
 "duration for your login session."
 msgstr ""
+"Per motivi di sicurezza, l'amministratore di sistema potrebbe impostare una "
+"durata massima per la tua sessione di accesso."
 
 #: ../../get_started/toc.rst:140
 msgid ""
@@ -8506,10 +8539,16 @@ msgid ""
 " In the snackbar, you will find the option to return to the login page. "
 "You can simply log back in as usual to continue working."
 msgstr ""
+"Quando la tua sessione sta per scadere, sarai notificato in anticipo tramite "
+"la barra in basso a sinistra, che visualizzerà il tempo rimanente: 10 "
+"minuti, 3 minuti e 60 secondi prima della fine della sessione. Nella "
+"snackbar, troverai l'opzione per tornare alla pagina di accesso. Puoi "
+"semplicemente eseguire nuovamente l'accesso come di consueto per continuare "
+"a lavorare."
 
 #: ../../get_started/toc.rst:144
 msgid "In Case of Forgetting Your Password"
-msgstr ""
+msgstr "In caso di dimenticanza della password"
 
 #: ../../get_started/toc.rst:146
 msgid ""
@@ -8518,6 +8557,10 @@ msgid ""
 "Alternatively, you can ask the administrator to set up a recovery e-mail "
 "for your account."
 msgstr ""
+"Per avviare la procedura di recupero della password, è necessario inserire "
+"l'indirizzo di recupero nel pannello **Autenticazione**, nella sezione "
+"**Impostazioni**. In alternativa, è possibile chiedere all'amministratore di "
+"configurare un indirizzo e-mail di recupero per il proprio account."
 
 #: ../../get_started/toc.rst:148
 msgid ""
@@ -8525,32 +8568,40 @@ msgid ""
 " a recovery address, it means that the administrator has not enabled your"
 " account for the recovery process."
 msgstr ""
+"Se nel pannello di autenticazione - sezione Impostazioni - non visualizzi il "
+"campo per impostare un indirizzo di ripristino, significa che "
+"l'amministratore non ha abilitato il tuo account per il processo di "
+"ripristino."
 
 #: ../../get_started/toc.rst:150
 msgid "If you forgot your password, follow these steps:"
-msgstr ""
+msgstr "Se hai dimenticato la tua password, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:157
 msgid "Click on the **Forget Password?** Button, from the login page."
 msgstr ""
+"Cliccare sul pulsante **Dimenticata la password?** dalla pagina di accesso."
 
 #: ../../get_started/toc.rst:158
 msgid "Enter your username."
-msgstr ""
+msgstr "Inserisci il tuo nome utente."
 
 #: ../../get_started/toc.rst:159
 msgid "You will receive an email at your recovery email address."
-msgstr ""
+msgstr "Riceverai un'e-mail al tuo indirizzo e-mail di recupero."
 
 #: ../../get_started/toc.rst:160
 msgid ""
 "A temporary **validation code**, that expires in twenty-four hours, will "
 "be sent to the recovery e-mail address."
 msgstr ""
+"Un codice di **convalida temporaneo**, che scade entro ventiquattro ore, "
+"verrà inviato all'indirizzo e-mail di recupero."
 
 #: ../../get_started/toc.rst:161
 msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
 msgstr ""
+"Copia e incolla, quindi clicca sul pulsante :bdg-primary:`CONVALIDA CODICE`."
 
 #: ../../get_started/toc.rst:162
 msgid ""
@@ -8558,6 +8609,10 @@ msgid ""
 "SESSION`, access your mailbox and then add a new password in the "
 "Settings's module, where you can also change the recovery address."
 msgstr ""
+"Se il codice viene convalidato, puoi :bdg-primary-line:`CONTINUARE CON LA "
+"TUA SESSIONE`, accedere alla tua casella di posta e aggiungere una nuova "
+"password nel modulo Impostazioni, dove puoi anche modificare l'indirizzo di "
+"recupero."
 
 #: ../../get_started/toc.rst:164
 msgid ""
@@ -8566,6 +8621,11 @@ msgid ""
 "you attempt to insert your username to receive the password recovery "
 "email, you will encounter an error message."
 msgstr ""
+"Se l'amministratore di sistema non ha configurato un indirizzo email di "
+"recupero per il tuo account, o non hai inserito il tuo proprio indirizzo "
+"email di recupero, quando cercherai di inserire il tuo nome utente per "
+"ricevere l'email di recupero della password, incontrerai un messaggio di "
+"errore."
 
 #: ../../get_started/toc.rst:166
 msgid ""
@@ -8573,10 +8633,13 @@ msgid ""
 "this scenario, **the only way to log into your account** is by seeking "
 "assistance from your system administrator."
 msgstr ""
+"L'errore ti inviterà a **contattare l'amministratore di sistema**. In questo "
+"scenario, **l'unico modo per accedere al tuo account** è quello di "
+"richiedere assistenza all'amministratore di sistema."
 
 #: ../../get_started/toc.rst:170
 msgid "Changing Your Password"
-msgstr ""
+msgstr "Cambia la tua password"
 
 #: ../../get_started/toc.rst:172
 msgid ""
@@ -8585,46 +8648,56 @@ msgid ""
 "To change your password, you must be logged into your account. Here are "
 "the steps to change your password:"
 msgstr ""
+"Reimpostare una password diventa necessario quando si desidera aggiornare la "
+"password esistente per motivi di sicurezza o altri fattori rilevanti. Per "
+"cambiare la password, è necessario accedere al proprio account. Ecco i "
+"passaggi per cambiare la password:"
 
 #: ../../get_started/toc.rst:174
 msgid "Log into your account."
-msgstr ""
+msgstr "Accedi al tuo account."
 
 #: ../../get_started/toc.rst:175
 msgid "Click on the **settings** (gear icon) located in the left sidebar."
 msgstr ""
+"Fai clic sull'icona **impostazioni** (ingranaggio) posizionata nella barra "
+"laterale sinistra."
 
 #: ../../get_started/toc.rst:176
 msgid "Select **Auth**."
-msgstr ""
+msgstr "Seleziona **Autenticazione**."
 
 #: ../../get_started/toc.rst:177
 msgid "Click on Change Password."
-msgstr ""
+msgstr "Fai clic su Modifica Password."
 
 #: ../../get_started/toc.rst:178
 msgid "Enter your **old password** along with your new password."
-msgstr ""
+msgstr "Inserisci la tua **vecchia password** insieme alla nuova password."
 
 #: ../../get_started/toc.rst:179
 msgid "Click the **CHANGE PASSWORD** button."
-msgstr ""
+msgstr "Fai clic sul pulsante **CAMBIA PASSWORD**."
 
 #: ../../get_started/toc.rst:187
 msgid "Introduction of Carbonio Web Client"
-msgstr ""
+msgstr "Introduzione di Carbonio Web Client"
 
 #: ../../get_started/toc.rst:189
 msgid ""
 "When you log in to check your emails, the **Carbonio web client "
 "interface** greets you with the following components:"
 msgstr ""
+"Quando esegui l'accesso per controllare le tue email, l'**interfaccia client "
+"web di Carbonio** ti saluta con i seguenti componenti:"
 
 #: ../../get_started/toc.rst:196
 msgid ""
 "**Left Sidebar**: This section provides navigation options and quick "
 "access to various features such as Mails, Calendars, Contacts, etc."
 msgstr ""
+"**Barra laterale sinistra**: Questa sezione fornisce opzioni di navigazione "
+"e accesso rapido a varie funzionalità come Posta, Calendari, Contatti, ecc."
 
 #: ../../get_started/toc.rst:197
 msgid ""
@@ -8633,6 +8706,10 @@ msgid ""
 "if you select “Mails” from the left sidebar, you will find access to your"
 " inboxes and email folders here."
 msgstr ""
+"**Pannello di navigazione**: Qui troverai ulteriore contesto relativo alla "
+"funzionalità attiva che hai selezionato dal pannello laterale sinistro. Ad "
+"esempio, se selezioni \"Mail\" dal pannello laterale sinistro, troverai "
+"l'accesso alle tue caselle di posta e alle cartelle di posta elettronica qui."
 
 #: ../../get_started/toc.rst:198
 msgid ""
@@ -8642,10 +8719,15 @@ msgid ""
 "this area; similarly, choosing “Calendars” will display your calendar "
 "events."
 msgstr ""
+"**Pannello principale**: L'area centrale visualizza il contenuto effettivo "
+"relativo alla funzione attiva che hai selezionato dal pannello laterale "
+"sinistro. Ad esempio, se selezioni \"Messaggi\" dal pannello laterale "
+"sinistro, visualizzerai le tue email in questa area; analogamente, la scelta "
+"di \"Calendari\" visualizzerà gli eventi del tuo calendario."
 
 #: ../../get_started/toc.rst:201
 msgid "Using Browser Buttons to Navigate Carbonio"
-msgstr ""
+msgstr "Utilizzo dei pulsanti del browser per la navigazione in Carbonio"
 
 #: ../../get_started/toc.rst:203
 msgid ""
@@ -8654,18 +8736,27 @@ msgid ""
 "or a message. These buttons can inadvertently disrupt your work and cause"
 " you to lose what you are doing. So, proceed with caution."
 msgstr ""
+"È consigliabile evitare di utilizzare i pulsanti di navigazione del browser "
+"troppo frequentemente, soprattutto quando si è in mezzo alla stesura di un'e-"
+"mail o di un messaggio. Questi pulsanti possono interrompere "
+"involontariamente il lavoro e far perdere ciò che si sta facendo. Pertanto, "
+"procedere con cautela."
 
 #: ../../get_started/toc.rst:205
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on Carbonio."
 msgstr ""
+"**Pulsante Indietro**: puoi utilizzare il pulsante indietro del tuo browser "
+"per tornare alla pagina precedente che stavi visualizzando su Carbonio."
 
 #: ../../get_started/toc.rst:206
 msgid ""
 "**Forward Button**: If you have gone back and want to revisit a page you "
 "just left, click the forward button."
 msgstr ""
+"**Pulsante \"Avanti\"**: Se sei tornato indietro e desideri tornare a una "
+"pagina che hai appena lasciato, clicca sul pulsante \"Avanti\"."
 
 #: ../../get_started/toc.rst:207
 msgid ""
@@ -8674,10 +8765,14 @@ msgid ""
 " composing a new email or a lengthy text message. You might lose your "
 "work."
 msgstr ""
+"**Evita Ricarica/Aggiorna**: Fai attenzione al pulsante di ricarica o "
+"aggiorna. Cliccarlo riavvia la tua sessione, il che può essere "
+"particolarmente pericoloso quando si compone un nuovo messaggio di posta "
+"elettronica o un messaggio di testo lungo. Potresti perdere il tuo lavoro."
 
 #: ../../get_started/toc.rst:210
 msgid "Account Personalization"
-msgstr ""
+msgstr "Personalizzazione Account"
 
 #: ../../get_started/toc.rst:212
 msgid ""
@@ -8688,10 +8783,17 @@ msgid ""
 "access it, simply click the gear icon on the left sidebar, and then "
 "select **General Settings**."
 msgstr ""
+"Prima di iniziare ad utilizzare il client web di Carbonio, prenditi un "
+"momento per personalizzare il tuo account. Puoi personalizzare aspetti "
+"visivi come il tema, oltre ad altre impostazioni dell'account come il fuso "
+"orario. La maggior parte di queste opzioni è facilmente accessibile nel menu "
+"**Impostazioni**. Per accedere, basta fare clic sull'icona dell'ingranaggio "
+"nella barra dei menu a sinistra, quindi selezionare **Impostazioni "
+"generali**."
 
 #: ../../get_started/toc.rst:216
 msgid "Changing Theme"
-msgstr ""
+msgstr "Cambio tema"
 
 #: ../../get_started/toc.rst:218
 msgid ""
@@ -8699,87 +8801,116 @@ msgid ""
 "appearance. Currently, there are **two themes** available: **Dark mode** "
 "and **Light mode**. Here is how you can manage them:"
 msgstr ""
+"Un tema nel client web di Carbonio definisce lo schema dei colori utilizzato "
+"per il suo aspetto. Attualmente, sono disponibili **due temi**: **Modalità "
+"scura** e **Modalità luce**. Ecco come puoi gestirli:"
 
 #: ../../get_started/toc.rst:220
 msgid "To **activate Dark mode**, follow these steps:"
-msgstr ""
+msgstr "Per **attivare la modalità scura**, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:222
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
+"Vai a **Impostazioni** (icona dell'ingranaggio) dalla barra dei menu a "
+"sinistra."
 
 #: ../../get_started/toc.rst:224
 msgid "Under **Theme Options**, open the dropdown menu."
-msgstr ""
+msgstr "Sotto **Opzioni del tema**, aprire il menu a discesa."
 
 #: ../../get_started/toc.rst:225
 msgid "Click on **Enabled**."
-msgstr ""
+msgstr "Fare clic su **Abilitato**."
 
 #: ../../get_started/toc.rst:226
 msgid ""
 "Click on the **SAVE** button located in the **top right corner** of the "
 "screen."
 msgstr ""
+"Fai clic sul pulsante **SALVA** posizionato nell'**angolo in alto a destra** "
+"dello schermo."
 
 #: ../../get_started/toc.rst:228
 msgid "To **disable Dark mode**, follow these steps:"
-msgstr ""
+msgstr "Per **disabilitare la modalità scura**, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:230
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr ""
+"Fai clic su **Disabilitato** nel medesimo menu a discesa e fai clic su "
+"**SALVA**."
 
 #: ../../get_started/toc.rst:232
 msgid ""
 "If you choose **Auto**, Carbonio will adapt to your **operating system’s "
 "default theme**. For example:"
 msgstr ""
+"Se scegli **Auto**, Carbonio si adatterà al **tema predefinito del tuo "
+"sistema operativo**. Ad esempio:"
 
 #: ../../get_started/toc.rst:234
 msgid "If your OS theme is dark, Carbonio will also be in dark mode."
 msgstr ""
+"Se il tema del tuo sistema operativo è scuro, anche Carbonio sarà in "
+"modalità scura."
 
 #: ../../get_started/toc.rst:235
 msgid "If your OS theme is light, Carbonio will match that as well."
 msgstr ""
+"Se il tema del tuo sistema operativo è chiaro, Carbonio si adatterà di "
+"conseguenza."
 
 #: ../../get_started/toc.rst:243
 msgid "Changing Font Size"
-msgstr ""
+msgstr "Modifica dimensione del carattere"
 
 #: ../../get_started/toc.rst:245
 msgid ""
 "You can change the font size across all Carbonio web clients according to"
 " your preferences. To change the font size simply follow these steps:"
 msgstr ""
+"È possibile modificare la dimensione del carattere in tutti i client web di "
+"Carbonio in base alle proprie preferenze. Per modificare la dimensione del "
+"carattere, seguire semplicemente questi passaggi:"
 
 #: ../../get_started/toc.rst:247 ../../get_started/toc.rst:266
 #: ../../get_started/toc.rst:281
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr ""
+"Apri le **Impostazioni** (icona dell'ingranaggio) dalla barra dei menu a "
+"sinistra."
 
 #: ../../get_started/toc.rst:249
 msgid ""
 "Under the **Appearance** section, find the slider for adjusting the font "
 "size."
 msgstr ""
+"Nella sezione **Aspetto**, trovare il cursore per regolare la dimensione del "
+"font."
 
 #: ../../get_started/toc.rst:250
 msgid ""
 "If you want to manually control the font size, uncheck the option that "
 "says *Automatically resize the text size depending on the device*."
 msgstr ""
+"Se si desidera controllare manualmente le dimensioni del carattere, "
+"deselezionare l'opzione che dice *Ridimensiona automaticamente le dimensioni "
+"del testo in base al dispositivo*."
 
 #: ../../get_started/toc.rst:251
 msgid ""
 "Use the slider to set the font size to your preference. As you move the "
 "slider, you will see the results in the bottom box with some dummy text."
 msgstr ""
+"Usa il cursore per impostare la dimensione del carattere in base alle tue "
+"preferenze. Mentre sposti il cursore, vedrai i risultati nella casella "
+"inferiore con un testo di esempio."
 
 #: ../../get_started/toc.rst:252
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr ""
+"Una volta soddisfatto, fare clic su **SALVA** nell'angolo in alto a destra."
 
 #: ../../get_started/toc.rst:254
 msgid ""
@@ -8787,10 +8918,13 @@ msgid ""
 "leave the checkbox checked. Otherwise, adjust the font size manually "
 "using the slider."
 msgstr ""
+"Ricorda, se si preferisce una dimensione automatica in base al dispositivo, "
+"è possibile lasciare la casella di controllo selezionata. In caso contrario, "
+"regolare manualmente la dimensione del carattere utilizzando il cursore."
 
 #: ../../get_started/toc.rst:262
 msgid "Changing Your Time Zone"
-msgstr ""
+msgstr "Cambiare il proprio fuso orario"
 
 #: ../../get_started/toc.rst:264
 msgid ""
@@ -8800,34 +8934,44 @@ msgid ""
 "collaborating with colleagues across different countries and time zones. "
 "To change your time zone, follow these steps:"
 msgstr ""
+"Come spazio di lavoro digitale, Carbonio si affidare alle impostazioni "
+"precise del fuso orario per garantire prestazioni ottimali per i calendari e "
+"altre funzionalità come le email, garantendo timestamp accurate. Ciò diventa "
+"particolarmente cruciale quando si collabora con colleghi in diversi paesi e "
+"fusi orari. Per cambiare il proprio fuso orario, seguire questi passaggi:"
 
 #: ../../get_started/toc.rst:268
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Time Zone** and choose your time zone."
 msgstr ""
+"Nella sezione **Fuso orario e lingua** selezionare il menu a discesa per **"
+"Fuso orario** e scegliere il proprio fuso orario."
 
 #: ../../get_started/toc.rst:269 ../../get_started/toc.rst:284
 msgid "Click **SAVE** in the top right corner."
-msgstr ""
+msgstr "Fai clic su **SALVA** nell'angolo in alto a destra."
 
 #: ../../get_started/toc.rst:277
 msgid "Changing Carbonio Language"
-msgstr ""
+msgstr "Cambia lingua di Carbonio"
 
 #: ../../get_started/toc.rst:279
 msgid "To change your Carbonio web client language, follow these steps:"
 msgstr ""
+"Per cambiare la lingua del client web di Carbonio, seguire questi passaggi:"
 
 #: ../../get_started/toc.rst:283
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Language** and choose your language."
 msgstr ""
+"Nella sezione **Fuso orario e lingua** selezionare il menu a discesa per **"
+"Fuso orario** e scegliere il proprio fuso orario."
 
 #: ../../get_started/toc.rst:287
 msgid "Accessing Multiple Accounts"
-msgstr ""
+msgstr "Accesso a più account"
 
 #: ../../get_started/toc.rst:289
 msgid ""
@@ -8839,6 +8983,13 @@ msgid ""
 "can add these accounts and grant you access** to manage them via your "
 "main account."
 msgstr ""
+"Sul client web di Carbonio, hai accesso a più account. Ad esempio, puoi "
+"avere un account personale e due account aggiuntivi creati per le attività "
+"di risorse umane e la comunicazione con i colleghi con il nome \"hr@example."
+"com\" e un altro denominato \"info@example.com\" per le comunicazioni "
+"esterne dell'azienda. **Solo l'amministratore di sistema può aggiungere "
+"questi account e concederti l'accesso per gestirli tramite il tuo account "
+"principale**."
 
 #: ../../get_started/toc.rst:295
 msgid ""
@@ -8848,6 +8999,11 @@ msgid ""
 "a dropdown menu. From there, you can access the inbox and other folders "
 "within each account."
 msgstr ""
+"Quando accedi al tuo account principale, vedrai questi due account "
+"aggiuntivi elencati sotto il tuo account principale. Per accedere a questi "
+"account, basta fare clic sulla freccia verso il basso accanto ai loro nomi "
+"per aprire un menu a discesa. Da lì, puoi accedere alla casella di posta e "
+"ad altre cartelle all'interno di ciascun account."
 
 #: ../../index.rst:12
 msgid "Welcome to |carbonio| User Documentation!"
@@ -8884,6 +9040,10 @@ msgid ""
 "time, URL, size, tags, read status, and file attachments. There are two "
 "types of searches available:"
 msgstr ""
+"La ricerca nel client web di Carbonio consente di trovare email, contatti, "
+"appuntamenti e file utilizzando criteri specifici come parole, date, orario, "
+"URL, dimensione, tag, stato di lettura e allegati di file. Sono disponibili "
+"due tipi di ricerche:"
 
 #: ../../search/toc.rst:11
 msgid ""
@@ -8892,6 +9052,10 @@ msgid ""
 "appointments, and files, based on the active feature selected from the "
 "left sidebar."
 msgstr ""
+"Ricerca rapida: questa operazione viene eseguita utilizzando la casella di "
+"ricerca posizionata sulla barra superiore. È possibile cercare vari "
+"elementi, inclusi email, contatti, appuntamenti e file, in base alla "
+"funzionalità attiva selezionata dal menu a sinistra."
 
 #: ../../search/toc.rst:12
 msgid ""
@@ -8899,16 +9063,21 @@ msgid ""
 "select from the left sidebar. This enables more complex searches using "
 "different filters such as date, time, subject, etc."
 msgstr ""
+"Ricerca Avanzata: Questa viene eseguita utilizzando la funzione di ricerca "
+"che puoi selezionare dalla barra dei menu a sinistra. Ciò consente ricerche "
+"più complesse utilizzando diversi filtri come data, ora, oggetto, ecc."
 
 #: ../../search/toc.rst:14
 msgid ""
 "These search capabilities provide efficient ways to locate and manage "
 "your data within the Carbonio web client."
 msgstr ""
+"Queste funzionalità di ricerca forniscono modi efficienti per localizzare e "
+"gestire i dati all'interno del client web di Carbonio."
 
 #: ../../search/toc.rst:18
 msgid "Using Quick Search for Different Items"
-msgstr ""
+msgstr "Utilizzo della Ricerca Rapida per Elementi Diversi"
 
 #: ../../search/toc.rst:20
 msgid ""
@@ -8917,10 +9086,14 @@ msgid ""
 "appointments, and files, based on the active feature selected from the "
 "left sidebar."
 msgstr ""
+"È possibile eseguire una ricerca rapida utilizzando la casella di ricerca "
+"situata nella barra superiore. È possibile cercare tra vari elementi, tra "
+"cui email, contatti, appuntamenti e file, in base alla funzionalità attiva "
+"selezionata dal menu laterale sinistro."
 
 #: ../../search/toc.rst:26 ../../search/toc.rst:42
 msgid "To do so:"
-msgstr ""
+msgstr "Per farlo:"
 
 #: ../../search/toc.rst:28
 msgid ""
@@ -8929,54 +9102,69 @@ msgid ""
 "box changes based on which feature is active. For example, in Mails, the "
 "term is Search in Mails."
 msgstr ""
+"Seleziona Mails, Calendari, Contatti o File dalla barra laterale sinistra, a "
+"seconda dell'elemento che desideri cercare. Il testo della casella di "
+"ricerca cambia in base alla funzione attiva. Ad esempio, in Mails, il "
+"termine è Cerca in Mails."
 
 #: ../../search/toc.rst:29
 msgid ""
 "Enter a keyword in the search box, such as a term used in an email "
 "subject or body that you are searching for."
 msgstr ""
+"Inserisci una parola chiave nella casella di ricerca, ad esempio un termine "
+"utilizzato nel soggetto o nel corpo di un'e-mail che stai cercando."
 
 #: ../../search/toc.rst:30
 msgid "Click the button next to the search box with the magnifying glass icon."
 msgstr ""
+"Fai clic sul pulsante accanto alla casella di ricerca con l'icona della "
+"lente di ingrandimento."
 
 #: ../../search/toc.rst:31
 msgid ""
 "Your search results will appear on the left side of a list, beside the "
 "total number of items loaded."
 msgstr ""
+"I risultati della tua ricerca appariranno sul lato sinistro di un elenco, "
+"accanto al numero totale di elementi caricati."
 
 #: ../../search/toc.rst:34
 msgid "Using Advanced Search to Filter Your Search"
-msgstr ""
+msgstr "Utilizzare la Ricerca Avanzata per Filtrare la Ricerca"
 
 #: ../../search/toc.rst:36
 msgid ""
 "This is performed using the search feature you can select from the left "
 "sidebar."
 msgstr ""
+"Ciò viene eseguito utilizzando la funzione di ricerca che puoi selezionare "
+"dal pannello di sinistra."
 
 #: ../../search/toc.rst:44
 msgid "Select the **Search feature** from your left sidebar."
-msgstr ""
+msgstr "Seleziona la **funzionalità di Ricerca** dalla barra laterale sinistra."
 
 #: ../../search/toc.rst:45
 msgid ""
 "Select the search category (i.e., Mails, Calendars, Contacts, Files) from"
 " the drop-down menu next to the **NEW** button."
 msgstr ""
+"Selezionare la categoria di ricerca (ad esempio, Poste, Calendari, Contatti, "
+"File) dal menu a discesa accanto al pulsante **NUOVO**."
 
 #: ../../search/toc.rst:46
 msgid "Click on **ADVANCED FILTERS** on the left side. A new window appears."
 msgstr ""
+"Clicca su ** FILTRI AVANZATI** sul lato sinistro. Appare una nuova finestra."
 
 #: ../../search/toc.rst:47
 msgid "Select different filters to refine your search results."
-msgstr ""
+msgstr "Seleziona filtri diversi per raffinare i risultati di ricerca."
 
 #: ../../search/toc.rst:48
 msgid "Click the **SEARCH** button."
-msgstr ""
+msgstr "Fai clic sul pulsante **RICERCA**."
 
 #: ../../search/toc.rst:50
 msgid ""
@@ -8984,86 +9172,99 @@ msgid ""
 "select in step 2. For instance, in the Mails category, the filters "
 "include:"
 msgstr ""
+"I filtri per raffinare i risultati di ricerca variano a seconda della "
+"categoria selezionata al passaggio 2. Ad esempio, nella categoria Posta, i "
+"filtri includono:"
 
 #: ../../search/toc.rst:52
 msgid "**Attachment**: Search in emails that have an attachment."
-msgstr ""
+msgstr "**Allegato**: Cerca nelle email che hanno un allegato."
 
 #: ../../search/toc.rst:53
 msgid "**Flagged**: Search in flagged emails."
-msgstr ""
+msgstr "**Segnalati**: Cerca nelle email segnalate."
 
 #: ../../search/toc.rst:54
 msgid "**Unread**: Search in unread email items."
-msgstr ""
+msgstr "**Non letti**: Cerca tra gli elementi email non letti."
 
 #: ../../search/toc.rst:55
 msgid "**Include shared folders**: Include shared items in the search."
 msgstr ""
+"**Includi cartelle condivise**: Includi gli elementi condivisi nella ricerca."
 
 #: ../../search/toc.rst:56
 msgid "**Keyword**: Search for specific terms used in the email body."
 msgstr ""
+"**Parola chiave**: Cerca termini specifici utilizzati nel corpo dell'email."
 
 #: ../../search/toc.rst:57
 msgid "**Subject**: Search in email subjects."
-msgstr ""
+msgstr "**Oggetto**: Ricerca negli oggetti delle email."
 
 #: ../../search/toc.rst:58
 msgid "**From**: Search for emails received from a specific email address."
-msgstr ""
+msgstr "Cerca email ricevute da un indirizzo email specifico."
 
 #: ../../search/toc.rst:59
 msgid "**To**: Search for emails sent to a specific email address."
-msgstr ""
+msgstr "**Cerca**: Cerca email inviate a un indirizzo email specifico."
 
 #: ../../search/toc.rst:60
 msgid ""
 "**Attachment type**: Search for specific attachment formats such as PDF, "
 "text document, images, etc."
 msgstr ""
+"**Tipo di allegato**: cerca formati di allegato specifici come PDF, "
+"documenti di testo, immagini, ecc."
 
 #: ../../search/toc.rst:61
 msgid ""
 "**Status of e-mail item**: Search for emails with specific status such as"
 " read, unread, flagged, etc."
 msgstr ""
+"**Stato del messaggio di posta elettronica**: Cerca email con uno stato "
+"specifico come letto, non letto, contrassegnato, ecc."
 
 #: ../../search/toc.rst:62
 msgid ""
 "**Size smaller than (MB)**: Search for emails with a size smaller than a "
 "specified number in MB."
 msgstr ""
+"**Dimensione inferiore a (MB)**: Cerca email con una dimensione inferiore a "
+"un numero specificato in MB."
 
 #: ../../search/toc.rst:63
 msgid ""
 "**Size larger than (MB)**: Search for emails with a size larger than a "
 "specified number in MB."
 msgstr ""
+"**Dimensione maggiore di (MB)**: Cerca email con una dimensione maggiore di "
+"un numero specificato in MB."
 
 #: ../../search/toc.rst:64
 msgid "**Sent before**: Search for emails sent before the specified date."
-msgstr ""
+msgstr "**Cercare prima**: Cerca email inviate prima della data specificata."
 
 #: ../../search/toc.rst:65
 msgid "**Sent after**: Search for emails sent after the specified date."
-msgstr ""
+msgstr "**Inviati dopo**: Cerca email inviate dopo la data specificata."
 
 #: ../../search/toc.rst:66
 msgid "**Sent on**: Search for emails sent exactly on the specified date."
-msgstr ""
+msgstr "**Inviato il**: Cerca email inviate esattamente nella data specificata."
 
 #: ../../search/toc.rst:67
 msgid "**Tag**: Search for emails or contacts that have a specific tag."
-msgstr ""
+msgstr "**Tag**: Cerca email o contatti che abbiano un tag specifico."
 
 #: ../../search/toc.rst:68
 msgid "**Is contained in**: Limit the search to selected folders."
-msgstr ""
+msgstr "**È contenuto in**: Limita la ricerca alle cartelle selezionate."
 
 #: ../../search/toc.rst:71
 msgid "Advanced Search Syntax"
-msgstr ""
+msgstr "Sintassi di Ricerca Avanzata"
 
 #: ../../search/toc.rst:73
 msgid ""
@@ -9071,6 +9272,9 @@ msgid ""
 "numbers, or domain names. However, when conducting content searches, it "
 "is essential to follow certain rules."
 msgstr ""
+"**Sintassi**: È possibile cercare vari elementi come parole, nomi, numeri di "
+"telefono o nomi di dominio. Tuttavia, quando si eseguono ricerche di "
+"contenuto, è essenziale seguire alcune regole."
 
 #: ../../search/toc.rst:75
 msgid ""
@@ -9078,18 +9282,26 @@ msgid ""
 "phrase must be an exact match. No spelling variants are allowed. For "
 "instance, a search for \"apple\" will not match with \"apples\"."
 msgstr ""
+"**Corrispondenza Esatta del Testo**: Quando si ricerca una frase, ogni "
+"parola all'interno della frase deve essere una corrispondenza esatta. Non "
+"sono ammesse varianti di ortografia. Ad esempio, una ricerca di \"apple\" "
+"non corrisponderà con \"apples\"."
 
 #: ../../search/toc.rst:77
 msgid ""
 "**Case Sensitivity**: Searches are not case-sensitive. \"Cat\", \"cat\", "
 "and \"CAT\" are all treated as the same."
 msgstr ""
+"**Sensibilità ai caratteri**: Le ricerche non sono sensibili alle maiuscole/"
+"minuscole. \"Cat\", \"cat\" e \"CAT\" sono trattati tutti come uguali."
 
 #: ../../search/toc.rst:79
 msgid ""
 "**Special Characters**: Certain special characters cannot be used in "
 "search text."
 msgstr ""
+"**Caratteri speciali**: Alcuni caratteri speciali non possono essere "
+"utilizzati nel testo di ricerca."
 
 #: ../../search/toc.rst:81
 msgid ""
@@ -9097,6 +9309,10 @@ msgid ""
 "to broaden search results. For example, searching for \"choc\" retrieves "
 "items with words like \"chocolate\", \"chocoholic\", etc."
 msgstr ""
+"**Jolly**: L'asterisco (\\*) può essere utilizzato come jolly dopo un "
+"prefisso per ampliare i risultati di ricerca. Ad esempio, cercando \"choc\" "
+"vengono recuperati elementi con parole come \"cioccolato\", \"cioccolatomane"
+"\", ecc."
 
 #: ../../search/toc.rst:83
 msgid ""
@@ -9104,6 +9320,9 @@ msgid ""
 "searches. These are files that can be converted to HTML, such as PDF "
 "documents and text files."
 msgstr ""
+"**Allegati**: gli allegati di file leggibili dal sistema sono inclusi anche "
+"nelle ricerche. Si tratta di file che possono essere convertiti in HTML, "
+"come ad esempio documenti PDF e file di testo."
 
 #: ../../search/toc.rst:85
 msgid ""
@@ -9112,6 +9331,11 @@ msgid ""
 "by email address, the full address as it appears in the contact entry "
 "must be used. It is not possible to search solely by domain."
 msgstr ""
+"**Contatti negli elenchi degli indirizzi**: Quando si cercano contatti, deve "
+"essere inserita l'intera parola o la stringa di numeri. Ad esempio, per "
+"cercare contatti per indirizzo e-mail, deve essere utilizzato l'indirizzo "
+"completo così come appare nella voce del contatto. Non è possibile cercare "
+"solo per dominio."
 
 #: ../../search/toc.rst:87
 msgid ""
@@ -9119,6 +9343,9 @@ msgid ""
 "differs from text-match searches or typical word-processing features such"
 " as Find."
 msgstr ""
+"**Struttura di Ricerca Linguistica**: Eseguire ricerche di contenuto "
+"differisce leggermente dalle ricerche di corrispondenza di testo o dalle "
+"funzionalità tipiche di elaborazione di testo come Trova."
 
 #: ../../search/toc.rst:89
 msgid ""
@@ -9126,112 +9353,145 @@ msgid ""
 "keywords followed by a colon and the search item in the search text box. "
 "For example, \"in:inbox\"."
 msgstr ""
+"**Parole chiave**: Se sai dove cercare l'elemento, puoi inserire le parole "
+"chiave seguite da due punti e l'elemento di ricerca nella casella di testo "
+"di ricerca. Ad esempio, \"in:posta in arrivo\"."
 
 #: ../../search/toc.rst:91
 msgid "**Options:**"
-msgstr ""
+msgstr "**Opzioni:**"
 
 #: ../../search/toc.rst:93
 msgid ""
 "**Content**: Specifies text that must be present in the message. Example:"
 " content:important."
 msgstr ""
+"**Contenuto**: Specifica il testo che deve essere presente nel messaggio. "
+"Esempio: contenuto:importante."
 
 #: ../../search/toc.rst:94
 msgid ""
 "**From**: Specifies a sender's name or email address. Example: "
 "from:\"john.doe\"."
 msgstr ""
+"**Da**: Specifica il nome o l'indirizzo email del mittente. Esempio: da:"
+"\"john.doe\"."
 
 #: ../../search/toc.rst:95
 msgid ""
 "**To**: Similar to \"From:\", but for recipients in the To: header. "
 "Example: to:\"jane.smith\"."
 msgstr ""
+"**A**: Simile a \"Da:\", ma per i destinatari nell'intestazione A:. Esempio: "
+"a:\"jane.smith\"."
 
 #: ../../search/toc.rst:96
 msgid ""
 "**CC**: Similar to \"From:\", but for recipients in the Cc: header. "
 "Example: cc:\"Manager\"."
 msgstr ""
+"**CC**: Simile a \"Da:\", ma per i destinatari nell'intestazione Cc:. "
+"Esempio: cc:\"Responsabile\"."
 
 #: ../../search/toc.rst:97
 msgid ""
 "**Subject**: Specifies text that must appear in the subject header. "
 "Example: subject:meeting."
 msgstr ""
+"**Oggetto**: Specifica il testo che deve comparire nell'intestazione "
+"dell'oggetto. Esempio: oggetto:riunione."
 
 #: ../../search/toc.rst:98
 msgid "**In**: Specifies a folder. Example: in:sent."
-msgstr ""
+msgstr "**In**: Specifica una cartella. Esempio: in:inviati."
 
 #: ../../search/toc.rst:99
 msgid ""
 "**Has**: Specifies an attribute that the message must have. Example: "
 "has:attachment."
 msgstr ""
+"**Ha**: Specifica un attributo che il messaggio deve avere. Esempio: "
+"ha:allegato."
 
 #: ../../search/toc.rst:100
 msgid ""
 "**Filename**: Specifies an attachment file name. Example: "
 "filename:report.pdf."
 msgstr ""
+"**Nome file**: Specifica il nome di un file allegato. Esempio: nome file: "
+"report.pdf."
 
 #: ../../search/toc.rst:101
 msgid ""
 "**Type**: Specifies a search within attachments of a specified type. "
 "Example: type:excel."
 msgstr ""
+"**Tipo**: Specifica una ricerca all'interno degli allegati di un tipo "
+"specifico. Esempio: tipo:excel."
 
 #: ../../search/toc.rst:102
 msgid ""
 "**Attachment**: Specifies any item with a certain type of attachment. "
 "Example: attachment:word."
 msgstr ""
+"**Allegato**: Specifica qualsiasi elemento con un determinato tipo di "
+"allegato. Esempio: allegato:parola."
 
 #: ../../search/toc.rst:103
 msgid "**Is**: Searches for messages with a specific status. Example: is:unread."
-msgstr ""
+msgstr "**È**: Cerca messaggi con uno stato specifico. Ad esempio: è:non_letto."
 
 #: ../../search/toc.rst:104
 msgid "**Date**: Specifies a date. Example: date:02/20/2024."
-msgstr ""
+msgstr "**Data**: Specifica una data. Esempio: data:20/02/2024."
 
 #: ../../search/toc.rst:105
 msgid ""
 "**After**: Specifies mail sent after a certain date. Example: "
 "after:01/01/2024."
 msgstr ""
+"**Dopo**: Specifica la posta inviata dopo una data specifica. Esempio: dopo:"
+"01/01/2024."
 
 #: ../../search/toc.rst:106
 msgid ""
 "**Before**: Specifies mail sent before a certain date. Example: "
 "before:03/01/2024."
 msgstr ""
+"**Prima di**: Specifica la posta inviata prima di una data specifica. "
+"Esempio: prima di:03/01/2024."
 
 #: ../../search/toc.rst:107
 msgid ""
 "**Size**: Specifies emails based on their total size, including "
 "attachments. Example: size: 1MB."
 msgstr ""
+"**Dimensione**: Specifica le email in base alla loro dimensione totale, "
+"inclusi gli allegati. Esempio: dimensione: 1MB."
 
 #: ../../search/toc.rst:108
 msgid ""
 "**Smaller**: Specifies emails based on their total size, including "
 "attachments. Example: smaller:1MB."
 msgstr ""
+"**Più piccolo**: Specifica le email in base alle loro dimensioni totali, "
+"incluse le allegati. Esempio: più piccolo:1MB."
 
 #: ../../search/toc.rst:109
 msgid ""
 "**Larger**: Specifies emails based on their total size, including "
 "attachments. Example: smaller:1MB."
 msgstr ""
+"**Più grande**: Specifica le email in base alla loro dimensione totale, "
+"inclusi gli allegati. Esempio: minore di:1MB."
 
 #: ../../search/toc.rst:110
 msgid ""
 "**Tag**: Finds messages tagged with a specified tag. Example: "
 "tag:important."
 msgstr ""
+"**Tag**: Trova messaggi contrassegnati con un tag specifico. Esempio: "
+"tag:importante."
 
 #: ../../search/toc.rst:112
 msgid ""
@@ -9241,6 +9501,11 @@ msgid ""
 "Double-byte asterisk signs in search queries are ignored during the "
 "search."
 msgstr ""
+"**Cartelle**: L'asterisco (*) dopo un prefisso funge da jolly per trovare "
+"contenuti con parole di ortografia simile. Ad esempio, \"cane\" recupera "
+"elementi con parole come \"cagnolino\", \"casa del cane\" e così via. Nota: "
+"I segni di asterisco a byte doppio nelle query di ricerca vengono ignorati "
+"durante la ricerca."
 
 #: ../../tasks/toc.rst:7
 msgid "Working with Tasks"
@@ -9252,6 +9517,10 @@ msgid ""
 "managing personal to-dos or coordinating team assignments. Carbonio Tasks"
 " will help you organize your work and manage it easily."
 msgstr ""
+"I compiti sono una parte integrante di qualsiasi flusso di lavoro "
+"organizzato, sia che si tratti di gestire attività personali o di coordinare "
+"assegnazioni di team. Carbonio Tasks ti aiuterà a organizzare il tuo lavoro "
+"e a gestirlo facilmente."
 
 #: ../../tasks/toc.rst:16
 #, fuzzy
@@ -9260,24 +9529,28 @@ msgstr "Impegni"
 
 #: ../../tasks/toc.rst:18
 msgid "To create a new task:"
-msgstr ""
+msgstr "Per creare un nuovo compito:"
 
 #: ../../tasks/toc.rst:20 ../../tasks/toc.rst:37 ../../tasks/toc.rst:48
 #: ../../tasks/toc.rst:58
 msgid "Select the **Tasks** feature from your left sidebar."
-msgstr ""
+msgstr "Seleziona la funzionalità **Attività** dalsidebar di sinistra."
 
 #: ../../tasks/toc.rst:22
 msgid ""
 "In the designated **Title field** on the task board, insert a concise and"
 " descriptive title for your new task."
 msgstr ""
+"Nel campo **Titolo** designato sulla bacheca dei compiti, inserisci un "
+"titolo conciso e descrittivo per il tuo nuovo compito."
 
 #: ../../tasks/toc.rst:23
 msgid ""
 "Utilize the **Priority field** to specify the importance or urgency level"
 " of the task."
 msgstr ""
+"Utilizza il **campo Priorità** per specificare il livello di importanza o "
+"urgenza del compito."
 
 #: ../../tasks/toc.rst:24
 msgid ""
@@ -9285,68 +9558,84 @@ msgid ""
 " toggle the **Enable reminder** option and select your preferred reminder"
 " time."
 msgstr ""
+"Se è necessario che Carbonio ti ricordi questo tarea in un momento "
+"specifico, attiva l'opzione **Abilita promemoria** e seleziona l'orario di "
+"promemoria desiderato."
 
 #: ../../tasks/toc.rst:25
 msgid ""
 "Input relevant details or instructions for the task in the provided "
 "description area."
 msgstr ""
+"Inserisci i dettagli o le istruzioni rilevanti per il compito nell'area di "
+"descrizione fornita."
 
 #: ../../tasks/toc.rst:28
 msgid "Your new task will then be added to your task list, ready for action."
 msgstr ""
+"Il tuo nuovo compito verrà quindi aggiunto alla tua lista dei compiti, "
+"pronto per l'azione."
 
 #: ../../tasks/toc.rst:30
 msgid ""
 "You can easily access the details of your tasks by simply clicking on "
 "them within the task list located in the main panel."
 msgstr ""
+"Puoi accedere facilmente ai dettagli dei tuoi compiti semplicemente "
+"cliccando su di essi all'interno dell'elenco dei compiti situato nel "
+"pannello principale."
 
 #: ../../tasks/toc.rst:33
 msgid "Editing a Task"
-msgstr ""
+msgstr "Modifica di un'attività"
 
 #: ../../tasks/toc.rst:35
 msgid "To edit an existing task:"
-msgstr ""
+msgstr "Per modificare un'attività esistente:"
 
 #: ../../tasks/toc.rst:38
 msgid "Right-click on the task you want to edit from the list of tasks."
 msgstr ""
+"Fare clic con il pulsante destro del mouse sul task che si desidera "
+"modificare dall'elenco dei task."
 
 #: ../../tasks/toc.rst:44
 msgid "Deleting a Task"
-msgstr ""
+msgstr "Eliminazione di un'attività"
 
 #: ../../tasks/toc.rst:46
 msgid "To delete an existing task:"
-msgstr ""
+msgstr "Per eliminare un'attività esistente:"
 
 #: ../../tasks/toc.rst:49
 msgid "Right-click on the task you want to delete from the list of tasks."
 msgstr ""
+"Fai clic con il pulsante destro del mouse sul task che desideri eliminare "
+"dall'elenco dei task."
 
 #: ../../tasks/toc.rst:51
 msgid "Click DELETE PERMANENTLY to confirm."
-msgstr ""
+msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
 
 #: ../../tasks/toc.rst:54
 msgid "Marking a Task as Complete"
-msgstr ""
+msgstr "Segnare un compito come completato"
 
 #: ../../tasks/toc.rst:56
 msgid "To mark a task as complete:"
-msgstr ""
+msgstr "Per contrassegnare un'attività come completata:"
 
 #: ../../tasks/toc.rst:59
 msgid ""
 "Right-click on the task you want to mark as complete from the list of "
 "tasks."
 msgstr ""
+"Fai clic destro sul task che desideri contrassegnare come completato "
+"dall'elenco dei task."
 
 #: ../../tasks/toc.rst:60
 msgid "Select **Complete** from the drop-down menu."
-msgstr ""
+msgstr "Seleziona **Completa** dal menu a discesa."
 
 #: ../../videomeetings(wsc)/toc.rst:7
 #, fuzzy
@@ -9362,6 +9651,13 @@ msgid ""
 "effortlessly start or join meetings, share screens, and record sessions, "
 "ensuring effective and streamlined collaboration."
 msgstr ""
+"In Carbonio, le riunioni in video sono uno strumento essenziale per "
+"abilitare una collaborazione virtuale senza problemi. Sia per le "
+"conversazioni individuali che per le sessioni di gruppo, offrono uno spazio "
+"per interazioni faccia a faccia, promuovendo la comunicazione in tempo reale "
+"e rafforzando il lavoro di squadra. Gli utenti possono avviare o partecipare "
+"a riunioni senza sforzo, condividere schermate e registrare le sessioni, "
+"garantendo una collaborazione efficace e fluida."
 
 #: ../../videomeetings(wsc)/toc.rst:16
 #, fuzzy
@@ -9376,10 +9672,15 @@ msgid ""
 "topics you want to discuss so that the attendees are informed about the "
 "meeting agenda."
 msgstr ""
+"Ogni persona con un account su Carbonio può creare stanze virtuali. Le "
+"stanze virtuali sono spazi condivisi in cui puoi tenere riunioni in "
+"videoconferenza e partecipare a conversazioni tramite chat. Puoi crearle in "
+"base a diversi argomenti che desideri discutere in modo che i partecipanti "
+"siano informati sull'ordine del giorno della riunione."
 
 #: ../../videomeetings(wsc)/toc.rst:20 ../../videomeetings/toc.rst:45
 msgid "To create a new room:"
-msgstr ""
+msgstr "Per creare una nuova stanza:"
 
 #: ../../videomeetings(wsc)/toc.rst:22 ../../videomeetings(wsc)/toc.rst:41
 #: ../../videomeetings(wsc)/toc.rst:51 ../../videomeetings(wsc)/toc.rst:63
@@ -9387,27 +9688,33 @@ msgstr ""
 #: ../../videomeetings(wsc)/toc.rst:161 ../../videomeetings/toc.rst:23
 #: ../../videomeetings/toc.rst:212
 msgid "Select the Chats feature from your left sidebar."
-msgstr ""
+msgstr "Seleziona la funzione di **Chat** dalla barra laterale sinistra."
 
 #: ../../videomeetings(wsc)/toc.rst:23
 msgid ""
 "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the "
 "list of chats. A new window appears."
 msgstr ""
+"Fai clic su LE TUE SALE VIRTUALI posizionato in basso a sinistra sotto "
+"l'elenco delle chat. Appare una nuova finestra."
 
 #: ../../videomeetings(wsc)/toc.rst:24
 msgid "Click on New Virtual Room's name*."
-msgstr ""
+msgstr "Fai clic sul nome della nuova stanza virtuale*."
 
 #: ../../videomeetings(wsc)/toc.rst:25
 msgid "Insert a name for the room in the field and click on the checkmark icon."
 msgstr ""
+"Inserisci un nome per la stanza nel campo e clicca sull'icona del segno di "
+"spunta."
 
 #: ../../videomeetings(wsc)/toc.rst:27
 msgid ""
 "Your room has been successfully created and will be accessible through "
 "the same YOUR VIRTUAL ROOMS button."
 msgstr ""
+"La tua stanza è stata creata con successo e sarà accessibile tramite lo "
+"stesso pulsante TUE STANZE VIRTUALI."
 
 #: ../../videomeetings(wsc)/toc.rst:29
 msgid ""
@@ -9418,10 +9725,16 @@ msgid ""
 " Windows or command+V on macOS. You can use the Arrow icon beside your "
 "room’s name to enter the room."
 msgstr ""
+"Puoi utilizzare l'icona del link accanto al nome della stanza per copiare il "
+"link della stanza. Al clic sul pulsante, il link verrà copiato negli "
+"appunti. Puoi incollarlo ovunque (ad esempio in una chat) facendo clic "
+"destro e selezionando Incolla, o utilizzando il combinations di tasti CTRL+V "
+"su Windows o command+V su macOS. Puoi utilizzare l'icona della freccia "
+"accanto al nome della stanza per entrare nella stanza."
 
 #: ../../videomeetings(wsc)/toc.rst:34
 msgid "Managing Virtual Rooms"
-msgstr ""
+msgstr "Gestione delle Stanze Virtuali"
 
 #: ../../videomeetings(wsc)/toc.rst:36
 msgid ""
@@ -9432,10 +9745,16 @@ msgid ""
 "distinguish which of them are internal and which are external, marked as "
 "“Guest”."
 msgstr ""
+"Ogni persona con un account su Carbonio può creare stanze virtuali. È "
+"possibile utilizzare la propria stanza per invitare altri a riunioni, che "
+"siano colleghi con account sullo stesso sistema o utenti esterni. "
+"Nell'elenco dei partecipanti alla riunione video, sarà possibile distinguere "
+"quali di essi siano interni e quali esterni, contrassegnati come \"Ospite\"."
 
 #: ../../videomeetings(wsc)/toc.rst:39
 msgid "To access and enter your virtual room, follow these steps:"
 msgstr ""
+"Per accedere ed entrare nella tua stanza virtuale, segui questi passaggi:"
 
 #: ../../videomeetings(wsc)/toc.rst:42 ../../videomeetings(wsc)/toc.rst:52
 #: ../../videomeetings(wsc)/toc.rst:64 ../../videomeetings(wsc)/toc.rst:85
@@ -9444,20 +9763,26 @@ msgid ""
 "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the "
 "list of chats to open your list of rooms."
 msgstr ""
+"Clicca sulle tue STANZE VIRTUALI posizionate nell'angolo inferiore sinistro "
+"sotto l'elenco delle chat per aprire l'elenco delle stanze."
 
 #: ../../videomeetings(wsc)/toc.rst:43 ../../videomeetings(wsc)/toc.rst:53
 msgid "You can use the Arrow icon beside the room’s name to enter it."
 msgstr ""
+"È possibile utilizzare l'icona della freccia accanto al nome della stanza "
+"per entrarvi."
 
 #: ../../videomeetings(wsc)/toc.rst:47
 msgid "Entering A Virtual Room"
-msgstr ""
+msgstr "Ingresso in una Stanza Virtuale"
 
 #: ../../videomeetings(wsc)/toc.rst:49 ../../videomeetings/toc.rst:64
 msgid ""
 "To enter a specific room, you need to have its link. To obtain the URL of"
 " a room, you can:"
 msgstr ""
+"Per entrare in una stanza specifica, è necessario avere il suo collegamento. "
+"Per ottenere l'URL di una stanza, è possibile:"
 
 #: ../../videomeetings(wsc)/toc.rst:55
 msgid ""
@@ -9466,20 +9791,28 @@ msgid ""
 " into the address bar of a new browser tab and press Enter. This will "
 "direct you to the room."
 msgstr ""
+"In alternativa, puoi copiare il collegamento per accedere alla sala "
+"utilizzando l'icona del collegamento accanto al nome della sala nell'elenco. "
+"Puoi incollarlo nella barra degli indirizzi di un nuovo pannello del browser "
+"e premere Invio. Ciò ti porterà alla stanza."
 
 #: ../../videomeetings(wsc)/toc.rst:59
 msgid "Inviting Members to A Virtual Room"
-msgstr ""
+msgstr "Invito membri a una stanza virtuale"
 
 #: ../../videomeetings(wsc)/toc.rst:61
 msgid ""
 "To invite other members to a room, you need to have its link. To obtain "
 "the URL of a room, you can:"
 msgstr ""
+"Per invitare altri membri a una stanza, è necessario avere il suo link. Per "
+"ottenere l'URL di una stanza, è possibile:"
 
 #: ../../videomeetings(wsc)/toc.rst:65 ../../videomeetings(wsc)/toc.rst:86
 msgid "Click the link icon beside your room’s name to copy the room's link."
 msgstr ""
+"Fai clic sull'icona del collegamento accanto al nome della tua stanza per "
+"copiare il collegamento della stanza."
 
 #: ../../videomeetings(wsc)/toc.rst:67 ../../videomeetings(wsc)/toc.rst:88
 msgid ""
@@ -9490,28 +9823,36 @@ msgid ""
 "page from the address bar of your browser, then send it to your "
 "colleagues."
 msgstr ""
+"Ciò copierà il link di accesso alla stanza sulla tua clipboard. Puoi "
+"incollarlo ovunque (ad esempio in una chat) facendo clic con il pulsante "
+"destro e selezionando Incolla, o utilizzando il taglio scorciatoia CTRL+V su "
+"Windows o command+V su macOS. In alternativa, puoi entrare nella tua stanza "
+"e copiare l'URL della pagina dalla barra degli indirizzi del browser, quindi "
+"inviarlo ai tuoi colleghi."
 
 #: ../../videomeetings(wsc)/toc.rst:71 ../../videomeetings/toc.rst:86
 msgid "Holding A Video Call with A Member"
-msgstr ""
+msgstr "Eseguire una chiamata video con un membro"
 
 #: ../../videomeetings(wsc)/toc.rst:73 ../../videomeetings/toc.rst:88
 msgid "To invite a colleague to a video call:"
-msgstr ""
+msgstr "Per invitare un collega a una videochiamata:"
 
 #: ../../videomeetings(wsc)/toc.rst:76 ../../videomeetings/toc.rst:91
 msgid ""
 "From the list of chats, choose the colleague with whom you want to have "
 "the video call."
 msgstr ""
+"Dalla lista delle chat, scegli il collega con cui desideri effettuare la "
+"videochiamata."
 
 #: ../../videomeetings(wsc)/toc.rst:77
 msgid "Click on the START MEETING button on top of the chat area."
-msgstr ""
+msgstr "Fai clic sul pulsante AVVIA RIUNIONE in alto nella zona della chat."
 
 #: ../../videomeetings(wsc)/toc.rst:80 ../../videomeetings/toc.rst:99
 msgid "Holding A Video Meeting with Multiple Members"
-msgstr ""
+msgstr "Tieni una riunione in videoconferenza con più membri"
 
 #: ../../videomeetings(wsc)/toc.rst:82 ../../videomeetings/toc.rst:101
 msgid ""
@@ -9519,10 +9860,13 @@ msgid ""
 "do so, you need to send them the link to your personal room. To obtain "
 "your room's link:"
 msgstr ""
+"Puoi utilizzare la tua sala personale per invitare altri a una riunione in "
+"video. Per farlo, devi inviare loro il link alla tua sala personale. Per "
+"ottenere il link della tua sala:"
 
 #: ../../videomeetings(wsc)/toc.rst:92
 msgid "Select Webcam and Microphone"
-msgstr ""
+msgstr "Seleziona Webcam e Microfono"
 
 #: ../../videomeetings(wsc)/toc.rst:94
 msgid ""
@@ -9531,10 +9875,15 @@ msgid ""
 "choose to turn the webcam and microphone on or off before joining the "
 "room. Once your selections are made, press ENTER to join the meeting."
 msgstr ""
+"Prima di entrare in una riunione video, verrai invitato a selezionare una "
+"webcam e un microfono tra le opzioni disponibili sul tuo computer. Puoi "
+"anche scegliere di attivare o disattivare la webcam e il microfono prima di "
+"entrare nella stanza. Una volta effettuate le tue scelte, premi INVIO per "
+"unirti alla riunione."
 
 #: ../../videomeetings(wsc)/toc.rst:98 ../../videomeetings/toc.rst:110
 msgid "Enable Webcam and Microphone"
-msgstr ""
+msgstr "Abilita Webcam e Microfono"
 
 #: ../../videomeetings(wsc)/toc.rst:100
 msgid ""
@@ -9544,6 +9893,12 @@ msgid ""
 "bar, simply move your mouse cursor to the bottom of the screen, and it "
 "will appear."
 msgstr ""
+"Quando si partecipa a una riunione video, è anche possibile attivare o "
+"disattivare la webcam o il microfono. Ecco come fare: togliere la spunta "
+"dall'icona del microfono o della fotocamera sulla barra inferiore "
+"all'interno della stanza della riunione. Se non si vede la barra inferiore, "
+"basta spostare il cursore del mouse nella parte inferiore dello schermo e "
+"apparirà."
 
 #: ../../videomeetings(wsc)/toc.rst:102
 msgid ""
@@ -9551,29 +9906,36 @@ msgid ""
 "Simply click on the arrow icon in the camera button, and then choose the "
 "option Apply Blur Effect."
 msgstr ""
+"Durante una riunione video, hai la possibilità di sfocare lo sfondo. Basta "
+"fare clic sull'icona della freccia nel pulsante della fotocamera e poi "
+"scegliere l'opzione Applica effetto sfocatura."
 
 #: ../../videomeetings(wsc)/toc.rst:106 ../../videomeetings/toc.rst:115
 msgid "Recording a Video Meeting"
-msgstr ""
+msgstr "Registrazione di una riunione video"
 
 #: ../../videomeetings(wsc)/toc.rst:108 ../../videomeetings/toc.rst:117
 msgid "When you are in a video meeting and want to record it:"
-msgstr ""
+msgstr "Quando sei in una riunione video e desideri registrarla:"
 
 #: ../../videomeetings(wsc)/toc.rst:110 ../../videomeetings(wsc)/toc.rst:151
 #: ../../videomeetings(wsc)/toc.rst:171
 msgid "Click the arrow button on the left side to open the chat box."
 msgstr ""
+"Clicca sul pulsante con la freccia sul lato sinistro per aprire la finestra "
+"di chat."
 
 #: ../../videomeetings(wsc)/toc.rst:111
 msgid ""
 "Click the downward arrow next to the Recording section located at the top"
 " of the chat box."
 msgstr ""
+"Clicca sulla freccia rivolta verso il basso accanto alla sezione "
+"Registrazione posizionata in alto nella casella di chat."
 
 #: ../../videomeetings(wsc)/toc.rst:112
 msgid "Click START RECORDING."
-msgstr ""
+msgstr "Fai clic su REGISTRA."
 
 #: ../../videomeetings(wsc)/toc.rst:114
 msgid ""
@@ -9581,24 +9943,30 @@ msgid ""
 "action will automatically save your recording file into your Files after "
 "prompting you to name the recording file."
 msgstr ""
+"Per interrompere la riunione video, basta cliccare il pulsante FERMA "
+"REGISTRAZIONE. Questa azione salverà automaticamente il file di "
+"registrazione nella sezione File dopo aver richiesto di assegnare un nome al "
+"file di registrazione."
 
 #: ../../videomeetings(wsc)/toc.rst:117 ../../videomeetings/toc.rst:126
 msgid "Adding New Members to a Video Meeting"
-msgstr ""
+msgstr "Aggiunta di nuovi membri a una riunione video"
 
 #: ../../videomeetings(wsc)/toc.rst:119
 msgid ""
 "To add new members to an ongoing video meeting, you need to send them the"
 " link to access the room. Here is how:"
 msgstr ""
+"Per aggiungere nuovi membri a una riunione video in corso, è necessario "
+"inviar loro il link per accedere alla stanza. Ecco come:"
 
 #: ../../videomeetings(wsc)/toc.rst:121
 msgid "Make sure you are in the meeting."
-msgstr ""
+msgstr "Assicurati di essere in riunione."
 
 #: ../../videomeetings(wsc)/toc.rst:122
 msgid "Copy the URL of the page from the address bar of your browser."
-msgstr ""
+msgstr "Copia l'URL della pagina dalla barra degli indirizzi del browser."
 
 #: ../../videomeetings(wsc)/toc.rst:124
 msgid ""
@@ -9607,10 +9975,14 @@ msgid ""
 "Paste, or by using the keyboard shortcut CTRL+V on Windows or command+V "
 "on macOS."
 msgstr ""
+"Ciò copierà il link di accesso alla tua stanza negli appunti. Potrai "
+"incollarlo ovunque (ad esempio in una chat) facendo clic destro e "
+"selezionando Incolla, oppure utilizzando il taglio keyboard CTRL+V su "
+"Windows o command+V su macOS."
 
 #: ../../videomeetings(wsc)/toc.rst:127 ../../videomeetings/toc.rst:138
 msgid "Accessing Chat History During a Video Meeting"
-msgstr ""
+msgstr "Accesso alla Cronologia Chat Durante un Incontro Video"
 
 #: ../../videomeetings(wsc)/toc.rst:129
 msgid ""
@@ -9618,10 +9990,13 @@ msgid ""
 "meeting, simply click the arrow button on the left side to open the chat "
 "box."
 msgstr ""
+"Per accedere alla chat della stanza in cui si sta svolgendo la riunione "
+"video, basta cliccare sul pulsante a freccia sul lato sinistro per aprire la "
+"chat."
 
 #: ../../videomeetings(wsc)/toc.rst:132 ../../videomeetings/toc.rst:143
 msgid "Sharing Screen During a Video Meeting"
-msgstr ""
+msgstr "Condivisione dello schermo durante un incontro in video"
 
 #: ../../videomeetings(wsc)/toc.rst:134
 msgid ""
@@ -9633,10 +10008,17 @@ msgid ""
 "specific window. •       Entire screen. Select the desired option and "
 "then click Share."
 msgstr ""
+"Quando sei in una riunione video, puoi condividere il tuo schermo con i "
+"partecipanti. Ecco come: Fai clic sull'icona dello schermo sulla barra "
+"inferiore all'interno della sala riunioni. Se non vedi la barra inferiore, "
+"sposta semplicemente il cursore del mouse verso il fondo dello schermo e "
+"apparirà. Hai tre opzioni da cui scegliere: • La tua scheda del browser. • "
+"Una finestra specifica. • Schermo intero. Seleziona l'opzione desiderata e "
+"quindi fai clic su Condividi."
 
 #: ../../videomeetings(wsc)/toc.rst:142 ../../videomeetings/toc.rst:174
 msgid "Maximizing Video Meeting Screen"
-msgstr ""
+msgstr "Ottimizzazione dello schermo di riunione video"
 
 #: ../../videomeetings(wsc)/toc.rst:144 ../../videomeetings/toc.rst:176
 msgid ""
@@ -9645,10 +10027,14 @@ msgid ""
 " the meeting room, simply move your mouse cursor to the bottom of the "
 "screen, and it will appear."
 msgstr ""
+"Per massimizzare lo schermo della riunione video, fare clic sull'icona con "
+"le frecce all'interno posizionata sulla barra inferiore. Se non si vede la "
+"barra inferiore all'interno della sala riunioni, spostare semplicemente il "
+"cursore del mouse verso il basso dello schermo ed essa apparirà."
 
 #: ../../videomeetings(wsc)/toc.rst:147 ../../videomeetings/toc.rst:179
 msgid "Muting Participants During a Video Meeting"
-msgstr ""
+msgstr "Silenzia dei partecipanti durante una riunione video"
 
 #: ../../videomeetings(wsc)/toc.rst:149
 msgid ""
@@ -9657,48 +10043,56 @@ msgid ""
 "the attendee and click on the microphone icon located at the corner of "
 "their video feed."
 msgstr ""
+"In qualità di moderatore di una sala riunioni, è possibile attenuare il "
+"microfono di un partecipante individualmente. Per farlo, basta fare hover "
+"del cursore sul feed video del partecipante e fare clic sull'icona del "
+"microfono situata nell'angolo del feed video del partecipante."
 
 #: ../../videomeetings(wsc)/toc.rst:152 ../../videomeetings(wsc)/toc.rst:172
 msgid ""
 "Click the downward arrow next to the Participants section located at the "
 "top of the chat box."
 msgstr ""
+"Clicca sulla freccia discendente accanto alla sezione Partecipanti "
+"posizionata in alto nella chat box."
 
 #: ../../videomeetings(wsc)/toc.rst:153
 msgid "Click the microphone icon next to the participant’s name."
-msgstr ""
+msgstr "Cliccare sull'icona del microfono accanto al nome del partecipante."
 
 #: ../../videomeetings(wsc)/toc.rst:154
 msgid "Click MUTE FOR ALL to confirm."
-msgstr ""
+msgstr "Fai clic su DISATTIVA TUTTO per confermare."
 
 #: ../../videomeetings(wsc)/toc.rst:157 ../../videomeetings/toc.rst:197
 msgid "Deleting a Meeting Room"
-msgstr ""
+msgstr "Eliminazione di una sala riunioni"
 
 #: ../../videomeetings(wsc)/toc.rst:159 ../../videomeetings/toc.rst:199
 msgid "To delete a meeting room:"
-msgstr ""
+msgstr "Per eliminare una sala riunioni:"
 
 #: ../../videomeetings(wsc)/toc.rst:163
 msgid "Click the trash icon beside the name of the room you want to delete."
 msgstr ""
+"Fai clic sull'icona del cestino accanto al nome della stanza che desideri "
+"eliminare."
 
 #: ../../videomeetings(wsc)/toc.rst:164
 msgid "Click DELETE to confirm."
-msgstr ""
+msgstr "Fai clic su **ELIMINA** per confermare."
 
 #: ../../videomeetings(wsc)/toc.rst:167 ../../videomeetings/toc.rst:208
 msgid "Adding Moderators to a Room"
-msgstr ""
+msgstr "AggiungereModeratori a una Stanza"
 
 #: ../../videomeetings(wsc)/toc.rst:169
 msgid "To add a moderator to a meeting room:"
-msgstr ""
+msgstr "Per aggiungere un moderatore a una sala riunione:"
 
 #: ../../videomeetings(wsc)/toc.rst:173
 msgid "Click the crown icon next to the participant’s name."
-msgstr ""
+msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #: ../../videomeetings/toc.rst:7
 #, fuzzy
@@ -9713,16 +10107,24 @@ msgid ""
 "to-face interaction, fostering real-time communication and enhancing "
 "teamwork."
 msgstr ""
+"In Carbonio, le riunioni in video svolgono un ruolo fondamentale per "
+"facilitare una collaborazione virtuale senza soluzione di continuità. Sia "
+"che si tratti di condurre discussioni one-to-one o di ospitare riunioni di "
+"gruppo, le riunioni in video offrono una piattaforma per l'interazione "
+"faccia a faccia, favoriscono la comunicazione in tempo reale e migliorano il "
+"lavoro di squadra."
 
 #: ../../videomeetings/toc.rst:15
 msgid ""
 "Users can easily initiate or join meetings, share screens, and record "
 "meetings ensuring efficient collaboration."
 msgstr ""
+"Gli utenti possono facilmente avviare o unirsi a riunioni, condividere "
+"schermi e registrare riunioni, garantendo una collaborazione efficiente."
 
 #: ../../videomeetings/toc.rst:18
 msgid "Entering Your Personal Room"
-msgstr ""
+msgstr "Accedi alla tua Stanza Personale"
 
 #: ../../videomeetings/toc.rst:20
 msgid ""
@@ -9731,30 +10133,38 @@ msgid ""
 " accounts on the same system or external users. To access and enter your "
 "personal room, follow these steps:"
 msgstr ""
+"Ogni persona con un account su Carbonio ha una stanza personale. Puoi "
+"utilizzare la tua stanza per invitare altri a riunioni, siano essi colleghi "
+"con account sullo stesso sistema o utenti esterni. Per accedere ed entrare "
+"nella tua stanza personale, segui questi passaggi:"
 
 #: ../../videomeetings/toc.rst:24
 msgid ""
 "Click PERSONAL ROOM located at the bottom left corner beneath the list of"
 " chats."
 msgstr ""
+"Clicca sulla stanza PERSONALE situata nell'angolo in basso a sinistra sotto "
+"l'elenco delle chat."
 
 #: ../../videomeetings/toc.rst:26
 msgid "This action will open your room in another browser tab."
-msgstr ""
+msgstr "Questa azione aprirà la tua stanza in un'altra scheda del browser."
 
 #: ../../videomeetings/toc.rst:29
 msgid "Inviting Members to Personal Room"
-msgstr ""
+msgstr "Invitare membri a una stanza personale"
 
 #: ../../videomeetings/toc.rst:31
 msgid "To invite other members to your personal room:"
-msgstr ""
+msgstr "Per invitare altri membri nella tua stanza personale:"
 
 #: ../../videomeetings/toc.rst:34 ../../videomeetings/toc.rst:105
 msgid ""
 "Click the **COPY LINK** located at the bottom left corner beneath the "
 "list of chats."
 msgstr ""
+"Fai clic su **COPIA LINK** posizionato in basso a sinistra sotto l'elenco "
+"delle chat."
 
 #: ../../videomeetings/toc.rst:36
 msgid ""
@@ -9765,10 +10175,16 @@ msgid ""
 "URL of the page from the address bar of your browser, then send it to "
 "your colleagues."
 msgstr ""
+"Ciò copierà il link di accesso alla stanza sulla tua clipboard. Puoi "
+"incollarlo ovunque (ad esempio in una chat) facendo clic con il pulsante "
+"destro e selezionando Incolla, o utilizzando il taglio scorciatoia CTRL+V su "
+"Windows o command+V su macOS. In alternativa, puoi entrare nella tua stanza "
+"e copiare l'URL della pagina dalla barra degli indirizzi del browser, quindi "
+"inviarlo ai tuoi colleghi."
 
 #: ../../videomeetings/toc.rst:40
 msgid "Creating New Room"
-msgstr ""
+msgstr "Creare una nuova stanza"
 
 #: ../../videomeetings/toc.rst:42
 msgid ""
@@ -9777,16 +10193,22 @@ msgid ""
 " want to discuss so that the attendees are informed about the meeting "
 "agenda."
 msgstr ""
+"Le stanze sono spazi condivisi in cui è possibile tenere riunioni in "
+"videoconferenza e intraprendere conversazioni via chat. È possibile crearle "
+"in base a diversi argomenti che si desidera discutere in modo che i "
+"partecipanti siano informati sull'ordine del giorno della riunione."
 
 #: ../../videomeetings/toc.rst:48
 msgid ""
 "Click **CREATE ROOM** located at the bottom left corner beneath the list "
 "of chats. A new window appears."
 msgstr ""
+"Fai clic su **CREA STANZA** posizionato nell'angolo in basso a sinistra "
+"sotto l'elenco delle chat. Appare una nuova finestra."
 
 #: ../../videomeetings/toc.rst:49
 msgid "Insert a name for the room in the first field."
-msgstr ""
+msgstr "Inserisci un nome per la stanza nel primo campo."
 
 #: ../../videomeetings/toc.rst:50
 msgid ""
@@ -9795,12 +10217,18 @@ msgid ""
 " in the second field and select them from the suggested list. This step "
 "is optional."
 msgstr ""
+"Se desideri avere altri moderatori che possano assistere nella gestione "
+"della stanza insieme a te, moderatore principale, puoi inserire gli "
+"indirizzi email dei tuoi colleghi nel secondo campo e selezionarli "
+"dall'elenco suggerito. Questo passaggio è opzionale."
 
 #: ../../videomeetings/toc.rst:53
 msgid ""
 "Your room has been successfully created and will be accessible through "
 "the **Rooms tab**."
 msgstr ""
+"La tua stanza è stata creata con successo e sarà accessibile tramite la "
+"scheda **Stanze**."
 
 #: ../../videomeetings/toc.rst:55
 msgid ""
@@ -9810,6 +10238,11 @@ msgid ""
 "**Paste**, or by using the keyboard shortcut CTRL+V on Windows or "
 "command+V on macOS."
 msgstr ""
+"Puoi utilizzare il pulsante **COLLEGA LINK DELLA STANZA** per copiare il "
+"link della stanza. Al click sul pulsante, il link verrà copiato negli "
+"appunti. Puoi incollarlo ovunque (ad esempio in una chat) facendo clic "
+"destro e selezionando **Incolla**, o utilizzando il shortcut da tastiera "
+"CTRL+V su Windows o command+V su macOS."
 
 #: ../../videomeetings/toc.rst:57
 msgid ""
@@ -9818,28 +10251,34 @@ msgid ""
 "in case you have shared the room's link with the wrong person or want to "
 "update the link for security reasons."
 msgstr ""
+"Se desideri modificare il collegamento per accedere alla stanza, fai clic su "
+"**REIMPOSTA COLLEGAMENTO**. Questa azione genererà un altro URL per la "
+"stanza. È utile nel caso in cui tu abbia condiviso il collegamento della "
+"stanza con la persona sbagliata o desideri aggiornare il collegamento per "
+"motivi di sicurezza."
 
 #: ../../videomeetings/toc.rst:59
 msgid "ou can use the **JOIN ROOM** button to enter the room."
 msgstr ""
+"Puoi utilizzare il pulsante **ENTRA NELLA STANZA** per accedere alla stanza."
 
 #: ../../videomeetings/toc.rst:62
 msgid "Entering a Room"
-msgstr ""
+msgstr "Entrare in una Stanza"
 
 #: ../../videomeetings/toc.rst:67 ../../videomeetings/toc.rst:79
 #: ../../videomeetings/toc.rst:202
 msgid "Select the **Rooms tab**."
-msgstr ""
+msgstr "Seleziona la **scheda Stanze**."
 
 #: ../../videomeetings/toc.rst:68 ../../videomeetings/toc.rst:80
 #: ../../videomeetings/toc.rst:203 ../../videomeetings/toc.rst:214
 msgid "Click on the desired room from the list to select it."
-msgstr ""
+msgstr "Fai clic sulla stanza desiderata dall'elenco per selezionarla."
 
 #: ../../videomeetings/toc.rst:69 ../../videomeetings/toc.rst:81
 msgid "Click ROOM’S LINK."
-msgstr ""
+msgstr "Clicca sul collegamento della STANZA."
 
 #: ../../videomeetings/toc.rst:71
 msgid ""
@@ -9847,14 +10286,17 @@ msgid ""
 "can paste it into the address bar of a new browser tab and press Enter. "
 "This will direct you to the room."
 msgstr ""
+"Quest'azione copierà il collegamento per accedere alla stanza nel tuo "
+"portachiavi. Puoi incollarlo nella barra degli indirizzi di una nuova scheda "
+"del browser e premere Invio. Ciò ti indirizzerà alla stanza."
 
 #: ../../videomeetings/toc.rst:74
 msgid "Inviting Members to A Room"
-msgstr ""
+msgstr "Invita Membri a una Stanza"
 
 #: ../../videomeetings/toc.rst:76
 msgid "To invite other members to a room:"
-msgstr ""
+msgstr "Per invitare altri membri in una stanza:"
 
 #: ../../videomeetings/toc.rst:83
 msgid ""
@@ -9863,12 +10305,18 @@ msgid ""
 "**Paste**, or by using the keyboard shortcut CTRL+V on Windows or "
 "command+V on macOS."
 msgstr ""
+"Ciò copierà il link di accesso alla tua stanza negli appunti. Potrai "
+"incollarlo ovunque (ad esempio in una chat) facendo clic destro e "
+"selezionando Incolla, oppure utilizzando il taglio keyboard CTRL+V su "
+"Windows o command+V su macOS."
 
 #: ../../videomeetings/toc.rst:92
 msgid ""
 "Click on the **INVITE TO YOUR PERSONAL ROOM** button on top of the chat "
 "area."
 msgstr ""
+"Clicca sul pulsante **INVITA NELLA TUA STANZA PERSONALE** in alto nell'area "
+"di chat."
 
 #: ../../videomeetings/toc.rst:107 ../../videomeetings/toc.rst:135
 msgid ""
@@ -9877,6 +10325,10 @@ msgid ""
 "**Paste**, or by using the keyboard shortcut CTRL+V on Windows or "
 "command+V on macOS."
 msgstr ""
+"Ciò copierà il link di accesso alla tua stanza negli appunti. Potrai "
+"incollarlo ovunque (ad esempio in una chat) facendo clic destro e "
+"selezionando Incolla, oppure utilizzando il taglio keyboard CTRL+V su "
+"Windows o command+V su macOS."
 
 #: ../../videomeetings/toc.rst:112
 msgid ""
@@ -9886,30 +10338,45 @@ msgid ""
 "simply move your mouse cursor to the bottom of the screen, and it will "
 "appear."
 msgstr ""
+"Quando si partecipa a una riunione video, è anche possibile attivare o "
+"disattivare la webcam o il microfono. Ecco come fare: togliere la spunta "
+"dall'icona del microfono o della fotocamera sulla barra inferiore "
+"all'interno della stanza della riunione. Se non si vede la barra inferiore, "
+"basta spostare il cursore del mouse nella parte inferiore dello schermo e "
+"apparirà."
 
 #: ../../videomeetings/toc.rst:119
 msgid "Click the blue button in the bottom left corner to open the chat box."
 msgstr ""
+"Cliccare il pulsante blu nell'angolo in basso a sinistra per aprire la "
+"finestra di chat."
 
 #: ../../videomeetings/toc.rst:120
 msgid "Click the \"i\" icon located at the top right corner of the chat box."
 msgstr ""
+"Fai clic sull'icona \"i\" posizionata nell'angolo in alto a destra della "
+"finestra di chat."
 
 #: ../../videomeetings/toc.rst:121
 msgid "Under the **Recording** section, click **START**."
-msgstr ""
+msgstr "Nella sezione **Registrazione**, fare clic su **AVVIA**."
 
 #: ../../videomeetings/toc.rst:123
 msgid ""
 "To stop the video meeting, simply click the **STOP** button. This action "
 "will automatically save your recording file into your Files."
 msgstr ""
+"Per interrompere la riunione video, cliccare semplicemente sul pulsante "
+"**INTERROMPI**. Questa azione salverà automaticamente il file di "
+"registrazione nel tuo Files."
 
 #: ../../videomeetings/toc.rst:128
 msgid ""
 "To add new members to an ongoing video meeting, you need to send them the"
 " link to access the room."
 msgstr ""
+"Per aggiungere nuovi membri a una riunione video in corso, è necessario "
+"inviare loro il link per accedere alla stanza."
 
 #: ../../videomeetings/toc.rst:130
 msgid ""
@@ -9917,16 +10384,26 @@ msgid ""
 "open the chat box. #.      Click the \"i\" icon located at the top right "
 "corner of the chat box. #.      Click COPY ROOM’S LINK."
 msgstr ""
+"#.      Fare clic sul pulsante blu nell'angolo inferiore sinistro per aprire "
+"la casella di chat. \n"
+"#.      Fare clic sull'icona \"i\" posizionata nell'angolo superiore destro "
+"della casella di chat. \n"
+"#.      Fare clic su COPIA LINK DELLA STANZA."
 
 #: ../../videomeetings/toc.rst:140
 msgid ""
 "To access the chat box of the room where you are having the video "
 "meeting, simply click the blue button in the bottom left corner."
 msgstr ""
+"Per accedere alla finestra di chat della stanza in cui si sta svolgendo la "
+"riunione video, fare clic semplicemente sul pulsante blu nell'angolo in "
+"basso a sinistra."
 
 #: ../../videomeetings/toc.rst:145
 msgid "When you are in a video meeting, you can share your screen with attendees."
 msgstr ""
+"Quando si è in una riunione video, è possibile condividere lo schermo con i "
+"partecipanti."
 
 #: ../../videomeetings/toc.rst:147
 msgid ""
@@ -9934,34 +10411,43 @@ msgid ""
 "room. If you do not see the bottom bar, simply move your mouse cursor to "
 "the bottom of the screen, and it will appear."
 msgstr ""
+"Fai clic sull'icona dello schermo nella barra inferiore all'interno della "
+"sala riunioni. Se non vedi la barra inferiore, sposta semplicemente il "
+"cursore del mouse verso il fondo dello schermo e apparirà."
 
 #: ../../videomeetings/toc.rst:149
 msgid ""
 "You have three options to choose from: •       Your browser tab. •       "
 "A specific window. •       Entire screen."
 msgstr ""
+"Hai tre opzioni tra cui scegliere: •       La scheda del browser. •       "
+"Una finestra specifica. •       L'intero schermo."
 
 #: ../../videomeetings/toc.rst:154
 msgid "Select the desired option and then click **Share**."
-msgstr ""
+msgstr "Seleziona l'opzione desiderata e quindi clicca su **Condividi**."
 
 #: ../../videomeetings/toc.rst:157
 msgid "Toggling Grid View and Cinema View During a Video Meeting"
 msgstr ""
+"Passaggio tra Visualizzazione a Griglia e Visualizzazione Cinema Durante una "
+"Riunione in Video"
 
 #: ../../videomeetings/toc.rst:159
 msgid ""
 "When you are in a video meeting, you can change the viewing option to "
 "different available modes:"
 msgstr ""
+"Quando sei in una riunione video, puoi cambiare l'opzione di visualizzazione "
+"nei diversi modi disponibili:"
 
 #: ../../videomeetings/toc.rst:161
 msgid "Cinema mode."
-msgstr ""
+msgstr "Modalità cinema."
 
 #: ../../videomeetings/toc.rst:162
 msgid "Grid mode."
-msgstr ""
+msgstr "Modalità a griglia"
 
 #: ../../videomeetings/toc.rst:164
 msgid ""
@@ -9973,10 +10459,17 @@ msgid ""
 "simply move your mouse cursor to the bottom of the screen, and it will "
 "appear."
 msgstr ""
+"In modalità cinema, l'oratore appare nella scatola più grande, mentre gli "
+"altri sono visualizzati in scatole più piccole nell'angolo destro. In "
+"modalità griglia, tutti i partecipanti sono visualizzati insieme nella parte "
+"centrale contemporaneamente. Per passare tra queste modalità, fare clic "
+"sull'icona con le scatole all'interno posizionata sulla barra inferiore. Se "
+"non si vede la barra inferiore all'interno della sala riunioni, basta "
+"spostare il cursore del mouse verso il fondo dello schermo ed essa apparirà."
 
 #: ../../videomeetings/toc.rst:168
 msgid "Adding Virtual Background to Your Video During a Video Meeting"
-msgstr ""
+msgstr "Aggiunta di uno sfondo virtuale al tuo video durante una riunione video"
 
 #: ../../videomeetings/toc.rst:170
 msgid ""
@@ -9987,6 +10480,12 @@ msgid ""
 "meeting room, simply move your mouse cursor to the bottom of the screen, "
 "and it will appear."
 msgstr ""
+"Quando si partecipa a una riunione in video, è possibile modificare lo "
+"sfondo del proprio flusso video, permettendo agli altri partecipanti di "
+"vedere uno sfondo diverso alle proprie spalle. Per farlo: cliccare "
+"sull'icona circolare posizionata sulla barra inferiore. Se non si vede la "
+"barra inferiore all'interno della sala riunioni, è sufficiente spostare il "
+"cursore del mouse verso il fondo dello schermo e comparirà."
 
 #: ../../videomeetings/toc.rst:181
 msgid ""
@@ -9995,16 +10494,22 @@ msgid ""
 "the attendee and click on the microphone icon located at the top right of"
 " their video feed."
 msgstr ""
+"In qualità di moderatore di una sala riunioni, è possibile silenziare il "
+"microfono di un partecipante individualmente. Per farlo, è sufficiente "
+"spostare il cursore del mouse sul flusso video del partecipante e fare clic "
+"sull'icona del microfono posizionata in alto a destra del flusso video."
 
 #: ../../videomeetings/toc.rst:184
 msgid "Resetting the Meeting Room's Link"
-msgstr ""
+msgstr "Reimpostazione del Collegamento della Sala Riunione"
 
 #: ../../videomeetings/toc.rst:186
 msgid ""
 "It is useful in case you have shared the room's link with the wrong "
 "person or want to update the link for security reasons."
 msgstr ""
+"È utile nel caso in cui si sia condiviso il link della stanza con la persona "
+"sbagliata o si desideri aggiornare il link per motivi di sicurezza."
 
 #: ../../videomeetings/toc.rst:188
 msgid ""
@@ -10013,36 +10518,43 @@ msgid ""
 "tab**. #.      Click on the desired room from the list to select it. #."
 "      Click on the **RESET LINK**."
 msgstr ""
+"Se si desidera modificare il link di accesso alla stanza: \n"
+"#. Selezionare la funzione **Chat** dalla barra laterale sinistra. \n"
+"#. Selezionare la scheda **Stanze**. \n"
+"#. Fare clic sulla stanza desiderata dall'elenco per selezionarla. \n"
+"#. Fare clic su **REIMPOSTA LINK**."
 
 #: ../../videomeetings/toc.rst:194
 msgid "This action will generate another URL for the room"
-msgstr ""
+msgstr "Quest'azione genererà un'altra URL per la stanza"
 
 #: ../../videomeetings/toc.rst:204
 msgid "Click on DELETE ROOM."
-msgstr ""
+msgstr "Fai clic su ELIMINA STANZA."
 
 #: ../../videomeetings/toc.rst:210
 msgid "To Add a moderator in a meeting room:"
-msgstr ""
+msgstr "Per aggiungere un moderatore in una sala meeting:"
 
 #: ../../videomeetings/toc.rst:213
 msgid "Select the Rooms tab."
-msgstr ""
+msgstr "Seleziona la scheda Camere."
 
 #: ../../videomeetings/toc.rst:215
 msgid "Click on ADD MODERATOR. A new window appears."
-msgstr ""
+msgstr "Fare clic su AGGIUNGI MODERATORE. Appare una nuova finestra."
 
 #: ../../videomeetings/toc.rst:216
 msgid ""
 "Begin typing the email address of the new moderator and select it from "
 "the suggested list."
 msgstr ""
+"Inizia a digitare l'indirizzo email del nuovo moderatore e selezionalo "
+"dall'elenco suggerito."
 
 #: ../../videomeetings/toc.rst:217
 msgid "Click ADD."
-msgstr ""
+msgstr "Clicca AGGIUNGI."
 
 #~ msgid ""
 #~ "The calendar component allows to keep"

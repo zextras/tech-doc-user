@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-10 20:43+0000\n"
+"PO-Revision-Date: 2024-12-12 00:52+0000\n"
 "Last-Translator: Gianluca Boiano <gianluca.boiano@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -385,11 +385,11 @@ msgid ""
 msgstr ""
 "Hai la possibilità di definire alcuni indirizzi email contenenti uno "
 "specifico dominio come indirizzi affidabili (il dominio dev'essere parte "
-"dell'indirizzo email apparendo dopo il simbolo @ nella posizione di "
-"\"Azienda\" in questo esempio \"tuo.nome@azienda.com\". Questo assicura "
-"che qualsiasi immagine inclusa in email che provengono da questi "
-"indirizzi verrà automaticamente mostrata all'apertura del messaggio.\n"
-"Puoi procedere in questo modo:"
+"dell'indirizzo email apparendo dopo il simbolo @ nella posizione di \"Azienda"
+"\" in questo esempio \"tuo.nome@azienda.com\". Questo assicura che qualsiasi "
+"immagine inclusa in email che provengono da questi indirizzi verrà "
+"automaticamente mostrata all'apertura del messaggio. Puoi procedere in "
+"questo modo:"
 
 #: ../../advanced_email_management/toc.rst:112
 msgid ""
@@ -1661,7 +1661,7 @@ msgstr "Rimozione delle Persone"
 
 #: ../../advanced_email_management/toc.rst:515
 msgid "To remove a persona:"
-msgstr "Eliminare una persona"
+msgstr "Eliminare una persona:"
 
 #: ../../advanced_email_management/toc.rst:519
 msgid "Under the Accounts list section, select the persona you wish to remove."
@@ -1838,7 +1838,7 @@ msgstr "Fissare gli appuntamenti"
 
 #: ../../appointments/toc.rst:23
 msgid "To create a new appointment:"
-msgstr "Creare appuntamento"
+msgstr "Creare appuntamento:"
 
 #: ../../appointments/toc.rst:25 ../../appointments/toc.rst:49
 #: ../../appointments/toc.rst:60 ../../appointments/toc.rst:71
@@ -2508,7 +2508,7 @@ msgstr "Si aprirà una finestra di dialogo. Inserisci un nome per il nuovo tag."
 
 #: ../../basic_email_management/toc.rst:39
 msgid "Choose a color for the tag from the options provided."
-msgstr "Seleziona un colore per l'etichetta dalle opzioni fornite"
+msgstr "Seleziona un colore per l'etichetta dalle opzioni fornite."
 
 #: ../../basic_email_management/toc.rst:40
 msgid "Click on the **CREATE** button to finalize the creation of the new tag."
@@ -2627,7 +2627,7 @@ msgstr ""
 
 #: ../../basic_email_management/toc.rst:91
 msgid "From the dropdown menu, select **Edit Tag**."
-msgstr "Dal menu a discesa, selezionare Modifica etichetta."
+msgstr "Dal menu a discesa, selezionare **Modifica etichetta**."
 
 #: ../../basic_email_management/toc.rst:92
 msgid "A dialog box will appear. Edit the name."
@@ -2699,7 +2699,7 @@ msgstr "Rimozione della segnalazione da un messaggio di posta elettronica"
 msgid "To remove the flag from an email, simply:"
 msgstr ""
 "Per rimuovere il flag da un messaggio di posta elettronica, procedere come "
-"segue"
+"segue:"
 
 #: ../../basic_email_management/toc.rst:124
 msgid "From the dropdown menu select **Remove Flag**."
@@ -3171,7 +3171,7 @@ msgstr "Fai clic sul pulsante AGGIUNGI CONDIVISIONE."
 #: ../../basic_email_management/toc.rst:308
 #: ../../basic_email_management/toc.rst:334
 msgid "Select the **role** from the **Role** field."
-msgstr "Seleziona il *ruolo* dal campo **Ruolo**."
+msgstr "Seleziona il **ruolo** dal campo **Ruolo**."
 
 #: ../../basic_email_management/toc.rst:313
 msgid "Revoking Email Folder Sharing"
@@ -3344,7 +3344,7 @@ msgid ""
 "you can easily hide emails list."
 msgstr ""
 "È possibile anche ridimensionare le colonne che separano l'elenco delle "
-"email dall'anteprima.  Inoltre è possibile passare da una visualizzazione "
+"email dall'anteprima. Inoltre è possibile passare da una visualizzazione "
 "verticale a una orizzontale: l'icona \"cambia visualizzazione\", sul lato "
 "destro della barra di intestazione delle email, aggiorna il layout in base "
 "alla scelta selezionata, consentendo di passare facilmente tra le due "
@@ -4096,7 +4096,7 @@ msgstr "Formato"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇬🇧 English*"
-msgstr "*Lingua inglese*"
+msgstr "*🇬🇧 Inglese*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "07/25/2024 5:08 PM"
@@ -4104,9 +4104,7 @@ msgstr "25/07/2024 17:08"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇮🇹 Italian*"
-msgstr ""
-"Sono un traduttore multilingue. Utilizzo un linguaggio formale e relativo "
-"alla traduzione di software informatico."
+msgstr "*🇮🇹 Italiano*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "25/07/2024 17:08"
@@ -4114,7 +4112,7 @@ msgstr "25/07/2024 17:08"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇨🇳 Chinese*"
-msgstr "*Cinese*"
+msgstr "*🇨🇳 Cinese*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "2024/07/25 17:08"
@@ -4130,7 +4128,7 @@ msgstr "25-07-2024 17:08"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇩🇪 German*"
-msgstr "*tedesco *"
+msgstr "*🇩🇪 Tedesco*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "25.07.2024 17:08"
@@ -4138,7 +4136,7 @@ msgstr "25-07-2024 17:08"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇮🇳 Hindi*"
-msgstr "Hindi *INDiano*"
+msgstr "*🇮🇳 Hindi*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "२५/०७/२०२४ शाम ५:१३ बजे"
@@ -4146,19 +4144,19 @@ msgstr "25/07/2024, ore 17:13"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇯🇵 Japanese*"
-msgstr "*Giapponese*"
+msgstr "*🇯🇵 Giapponese*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇵🇹 Portuguese*"
-msgstr "* Portoghese *"
+msgstr "*🇵🇹 Portoghese*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇵🇱 Polish*"
-msgstr "*Polacco*"
+msgstr "*🇵🇱 Polacco*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇧🇷 Portuguese (Brasil)*"
-msgstr "*Portoghese (Brasile)*"
+msgstr "*🇧🇷 Portoghese (Brasile)*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇷🇴 Romanian*"
@@ -4166,15 +4164,15 @@ msgstr "* Romeno *"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇷🇺 Russian*"
-msgstr "*Russo*"
+msgstr "*🇷🇺 Russo*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇪🇸 Spanish*"
-msgstr "*🇪🇸 Spagnolo"
+msgstr "*🇪🇸 Spagnolo*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇹🇭 Thai*"
-msgstr "*🇹🇭 tailandese"
+msgstr "*🇹🇭 Tailandese*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇹🇷 Turkish*"
@@ -4182,11 +4180,11 @@ msgstr "*🇹🇷 Turco*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇫🇷 French*"
-msgstr "* Francese *"
+msgstr "*🇫🇷 Francese*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇻🇳 Vietnamese*"
-msgstr "*Vietnamita*"
+msgstr "*🇻🇳 Vietnamita*"
 
 #: ../../calendars/toc.rst:7
 msgid "Working with Calendars"
@@ -4725,7 +4723,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:204
 msgid "Select either the **ICS URL** or the **OUTLOOK URL**."
-msgstr "Seleziona **URL ICS** o **URL OUTLOOK**"
+msgstr "Seleziona **URL ICS** o **URL OUTLOOK**."
 
 #: ../../calendars/toc.rst:206
 msgid ""
@@ -4788,7 +4786,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:228
 msgid "From the drop-down menu select **Remove shared calendar**."
-msgstr "Nel menu a discesa selezionare **Rimuovi calendario condiviso**"
+msgstr "Nel menu a discesa selezionare **Rimuovi calendario condiviso**."
 
 #: ../../calendars/toc.rst:233
 msgid "Import an ICS File as New Calendar"
@@ -5084,9 +5082,9 @@ msgid ""
 "You have only a five-minute window to edit a message. After that, you "
 "will not be able to do so, and the edit option will disappear."
 msgstr ""
-"\"Disponi solo di una finestra di cinque minuti per modificare un messaggio. "
+"Disponi solo di una finestra di cinque minuti per modificare un messaggio. "
 "Dopo di che, non sarà più possibile farlo e l'opzione di modifica non sarà "
-"più disponibile.\""
+"più disponibile."
 
 #: ../../chats(wsc)/toc.rst:77 ../../chats/toc.rst:79
 msgid "Reply A Message"
@@ -5102,10 +5100,7 @@ msgstr "Seleziona **Rispondi** dal menu a discesa."
 
 #: ../../chats(wsc)/toc.rst:83 ../../chats/toc.rst:85
 msgid "Write the reply and hit enter."
-msgstr ""
-"Sono una traduttrice multilingue altamente qualificata, esperta nella "
-"traduzione di testi dal \n"
-"linguaggio 'en' al linguaggio 'it' con precisione e sfumatura."
+msgstr "Scrivi la risposta e premi invio."
 
 #: ../../chats(wsc)/toc.rst:86 ../../chats/toc.rst:88
 msgid "Forward A Message"
@@ -5170,7 +5165,7 @@ msgstr ""
 #: ../../chats(wsc)/toc.rst:113 ../../chats/toc.rst:115
 msgid "On the right side of the Main Panel, click **Mute notifications**."
 msgstr ""
-"Nel lato destro del Pannello Principale, cliccare su **Disattiva notifiche**"
+"Nel lato destro del Pannello Principale, cliccare su **Disattiva notifiche**."
 
 #: ../../chats(wsc)/toc.rst:115 ../../chats/toc.rst:117
 msgid ""
@@ -5203,7 +5198,7 @@ msgstr "Clicca su **CANCELLA CRONOLOGIA** per confermare."
 
 #: ../../chats(wsc)/toc.rst:128 ../../chats/toc.rst:130
 msgid "Creating New Group"
-msgstr "Creazione nuovo gruppo…"
+msgstr "Creazione Nuovo Gruppo"
 
 #: ../../chats(wsc)/toc.rst:130 ../../chats/toc.rst:132
 msgid ""
@@ -5649,7 +5644,7 @@ msgstr ""
 
 #: ../../composing_emails/toc.rst:21
 msgid "Write a brief subject in the *Subject* field."
-msgstr "Oggetto: Editore di stringhe di risorse per traduzione"
+msgstr "Scrivi un breve argomento nel campo *Oggetto*."
 
 #: ../../composing_emails/toc.rst:22
 msgid "Compose your message in the body."
@@ -6347,7 +6342,7 @@ msgstr "Per accedere all'elenco dei **Contatti esistenti**:"
 
 #: ../../contacts/toc.rst:25 ../../contacts/toc.rst:32
 msgid "From the left sidebar click on the **Contacts** section."
-msgstr "Dal menu laterale sinistro, fare clic sulla sezione  **Contatti**."
+msgstr "Dal menu laterale sinistro, fare clic sulla sezione **Contatti**."
 
 #: ../../contacts/toc.rst:26
 msgid "In the Navigation Panel, click on the **Contacts** address book."
@@ -6374,8 +6369,8 @@ msgstr "Per accedere ai contatti inviati via e-mail:"
 #: ../../contacts/toc.rst:33
 msgid "In the Navigation Panel, click on the **Emailed Contacts** address book."
 msgstr ""
-"Nel pannello di navigazione, cliccare sull'elenco degli indirizzi **Contatti "
-"via email.**"
+"Nel Pannello di navigazione, fare clic sulla rubrica **Contatti inviati via "
+"e-mail**."
 
 #: ../../contacts/toc.rst:35
 msgid ""
@@ -6582,7 +6577,7 @@ msgstr "Modifica Rubrica Indirizzi"
 
 #: ../../contacts/toc.rst:125
 msgid "To edit an address book:"
-msgstr "Per modificare un'agenda."
+msgstr "Per modificare una rubrica:"
 
 #: ../../contacts/toc.rst:128 ../../contacts/toc.rst:139
 #: ../../contacts/toc.rst:153
@@ -7318,7 +7313,7 @@ msgstr "Per creare un documento di testo:"
 
 #: ../../files/toc.rst:161 ../../files/toc.rst:172
 msgid "Navigate to the folder where you want to create the file."
-msgstr "Passare alla cartella in cui si desidera creare il file"
+msgstr "Passare alla cartella in cui si desidera creare il file."
 
 #: ../../files/toc.rst:163
 msgid "Select **New document** from the drop-down menu."
@@ -7459,12 +7454,12 @@ msgid ""
 "clips. Additionally, you can add animations and transitions to enhance "
 "the visual appeal of your presentation."
 msgstr ""
-"Nei file di presentazione, puoi modificare il contenuto delle diapositive, "
-"compreso testo, immagini e forme.  Hai opzioni per applicare la "
-"formattazione al testo, modificare la layout delle diapositive e incorporare "
-"elementi multimediali come video e clip audio. Inoltre, puoi aggiungere "
-"animazioni e transizioni per migliorare l'aspetto visivo della tua "
-"presentazione."
+"Nei file di presentazione è possibile modificare il contenuto delle "
+"diapositive, inclusi testo, immagini e forme. Sono disponibili opzioni per "
+"applicare la formattazione al testo, regolare i layout delle diapositive e "
+"incorporare elementi multimediali come video e clip audio. Inoltre, puoi "
+"aggiungere animazioni e transizioni per migliorare l'aspetto visivo della "
+"tua presentazione."
 
 #: ../../files/toc.rst:207
 msgid "Moving a File between Folders"
@@ -7503,7 +7498,7 @@ msgstr "Passa alla cartella che contiene il file che desideri copiare."
 
 #: ../../files/toc.rst:228
 msgid "Select **Copy** from the drop-down menu. A new window appears."
-msgstr "Seleziona **Copia** dal menu a tendina.  Appare una nuova finestra"
+msgstr "Seleziona **Copia**dal menu a tendina.  Appare una nuova finestra."
 
 #: ../../files/toc.rst:229
 msgid "Choose the destination folder where you want to copy the file."
@@ -7574,7 +7569,7 @@ msgid ""
 "**Versioning**."
 msgstr ""
 "Sul lato destro del Pannello principale, troverai tre schede. Clicca su "
-"**Versioning**"
+"**Versioning**."
 
 #: ../../files/toc.rst:260
 msgid ""
@@ -7619,7 +7614,7 @@ msgstr "Ripristina un file ad una versione precedente"
 
 #: ../../files/toc.rst:278
 msgid "To restore a file to a previous version:"
-msgstr "Ripristina un file ad una versione precedente"
+msgstr "Ripristina un file ad una versione precedente:"
 
 #: ../../files/toc.rst:284
 msgid ""
@@ -7840,7 +7835,7 @@ msgid ""
 "button."
 msgstr ""
 "Nella sezione **Collegamenti di download pubblico**, clicca sul pulsante **"
-"AGGIUNGI COLLEGAMENTO**"
+"AGGIUNGI COLLEGAMENTO**."
 
 #: ../../files/toc.rst:369 ../../files/toc.rst:452
 msgid "Insert a description for the link and an expiration date."
@@ -8253,7 +8248,7 @@ msgstr "Premi il pulsante + nell'angolo in basso a destra"
 msgid "Use the app to scan the QR code displayed on your computer screen"
 msgstr ""
 "Utilizza l'app per scansionare il codice QR visualizzato sullo schermo del "
-"computer."
+"computer"
 
 #: ../../get_started/toc.rst:45
 msgid ""
@@ -8261,7 +8256,7 @@ msgid ""
 "updates every 30 seconds"
 msgstr ""
 "Ciò crea un'istanza nell'app che genera un codice temporaneo che si aggiorna "
-"ogni 30 secondi."
+"ogni 30 secondi"
 
 #: ../../get_started/toc.rst:47 ../../get_started/toc.rst:87
 msgid "Logging In with 2FA:"
@@ -8311,7 +8306,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:65
 msgid "Accessing Settings:"
-msgstr "Accedere alle Impostazioni"
+msgstr "Accedere alle Impostazioni:"
 
 #: ../../get_started/toc.rst:67
 msgid ""
@@ -8384,7 +8379,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:97
 msgid "> Click **LOGIN**.."
-msgstr "Fai clic su **ENTRA**."
+msgstr "> Fai clic su **ENTRA**.."
 
 #: ../../get_started/toc.rst:101
 msgid "Using SAML to Sign In"
@@ -10447,7 +10442,7 @@ msgstr "Modalità cinema."
 
 #: ../../videomeetings/toc.rst:162
 msgid "Grid mode."
-msgstr "Modalità a griglia"
+msgstr "Modalità a griglia."
 
 #: ../../videomeetings/toc.rst:164
 msgid ""

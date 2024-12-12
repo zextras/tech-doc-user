@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-12 00:52+0000\n"
+"PO-Revision-Date: 2024-12-12 01:09+0000\n"
 "Last-Translator: Gianluca Boiano <gianluca.boiano@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -283,9 +283,8 @@ msgid "Right-click on the **Junk** folder."
 msgstr "Clic con tasto destro sulla cartella **Posta indesiderata**."
 
 #: ../../advanced_email_management/toc.rst:79
-#, fuzzy
 msgid "Select **Wipe Folder** from the menu.*"
-msgstr "Seleziona **Pulisci Cartella* dal menu."
+msgstr "Seleziona **Pulisci Cartella** dal menu.*"
 
 #: ../../advanced_email_management/toc.rst:81
 msgid ""
@@ -330,7 +329,6 @@ msgid "Finding the Origin of an Email"
 msgstr "Trovare l'origine di una Email"
 
 #: ../../advanced_email_management/toc.rst:96
-#, fuzzy
 msgid ""
 "The transportation history of emails serves various purposes, including "
 "verifying authenticity, investigating delivery issues, detecting phishing"
@@ -341,16 +339,16 @@ msgid ""
 " details about the email's journey, such as sender and recipient IP "
 "addresses, timestamps, and any spam detection information."
 msgstr ""
-"La cronologia relativa al trasporto delle email è utile sotto varie "
-"aspetti, tra cui la verifica dell'autenticità, condurre indagini su "
-"problemi di consegna, rilevare tentativi di phishing, eseguire il debug "
-"delle configurazioni del server di posta e soddisfare i requisiti legali "
-"e di compliance. Queste informazioni sono solitamente mostrata in una "
-"pagina di testo che include l'intestazione dell'email (anche definito "
-"come  e il corpo del messaggio. L'intestazione contiene i dettagli "
-"essenziali relativi alla vita del messaggio, quali l'indirizzo IP di "
-"mittente e destinatario, indicazioni orarie e qualsiasi informazione che "
-"riguardi un eventuale rilevamento di spam."
+"La cronologia relativa al trasporto delle email è utile sotto varie aspetti, "
+"tra cui la verifica dell'autenticità, condurre indagini su problemi di "
+"consegna, rilevare tentativi di phishing, eseguire il debug delle "
+"configurazioni del server di posta e soddisfare i requisiti legali e di "
+"compliance. Queste informazioni sono solitamente mostrata in una pagina di "
+"testo che include l'intestazione dell'email (anche definito come e il corpo "
+"del messaggio. L'intestazione contiene i dettagli essenziali relativi alla "
+"vita del messaggio, quali l'indirizzo IP di mittente e destinatario, "
+"indicazioni orarie e qualsiasi informazione che riguardi un eventuale "
+"rilevamento di spam."
 
 #: ../../advanced_email_management/toc.rst:98
 msgid "To trace the email’s origin, follow these steps:"
@@ -457,16 +455,15 @@ msgstr ""
 "durante il seguente periodo e seleziona le date desiderate."
 
 #: ../../advanced_email_management/toc.rst:133
-#, fuzzy
 msgid ""
 "If you prefer to send the out-of-office email only during specific hours "
 "of the day, you can customize the interval by selecting All Day and then "
 "specifying the desired time frame by choosing the start and end hours."
 msgstr ""
 "Se preferisci inviare risposte automatiche fuori ufficio solo durante un "
-"orario specifico della giornata, è possibile personalizzare l'intervallo "
-"di tempo selezionando Tutto il giorno, specificando poi l'intervallo di "
-"tempo scegliendo le ore di inizio e di fine."
+"orario specifico della giornata, è possibile personalizzare l'intervallo di "
+"tempo selezionando Tutto il giorno, specificando poi l'intervallo di tempo "
+"scegliendo le ore di inizio e di fine."
 
 #: ../../advanced_email_management/toc.rst:140
 msgid "Showing Emails in HTML or Plain Text Format"
@@ -1320,9 +1317,8 @@ msgstr ""
 "aggiunto alla fine della tua email come mostrato nell'esempio seguente:"
 
 #: ../../advanced_email_management/toc.rst:385
-#, fuzzy
 msgid "Editing Signatures"
-msgstr "Inizia ad usare Carbonio"
+msgstr "Modifica delle firme"
 
 #: ../../advanced_email_management/toc.rst:387
 msgid "To edit a signature:"
@@ -1832,9 +1828,8 @@ msgstr ""
 "efficacemente il loro tempo e collaborare in modo fluido."
 
 #: ../../appointments/toc.rst:17
-#, fuzzy
 msgid "Creating an Appointment"
-msgstr "Fissare gli appuntamenti"
+msgstr "Creare un Appuntamento"
 
 #: ../../appointments/toc.rst:23
 msgid "To create a new appointment:"
@@ -2033,9 +2028,8 @@ msgstr ""
 "**INVIA** per avvisarli tramite una email automatica."
 
 #: ../../appointments/toc.rst:45
-#, fuzzy
 msgid "Editing an Existing Appointment"
-msgstr "Fissare gli appuntamenti"
+msgstr "Modifica di un appuntamento esistente"
 
 #: ../../appointments/toc.rst:47
 msgid "To edit an existing appointment:"
@@ -2071,14 +2065,12 @@ msgstr ""
 "per notificarli delle modifiche tramite un'email automatica."
 
 #: ../../appointments/toc.rst:56
-#, fuzzy
 msgid "Forwarding an Existing Appointment"
-msgstr "Fissare gli appuntamenti"
+msgstr "Inoltro di un appuntamento esistente"
 
 #: ../../appointments/toc.rst:58
-#, fuzzy
 msgid "To forward an existing appointment:"
-msgstr "Fissare gli appuntamenti"
+msgstr "Per inoltrare un appuntamento esistente:"
 
 #: ../../appointments/toc.rst:62 ../../chats(wsc)/toc.rst:91
 #: ../../chats/toc.rst:93
@@ -2100,9 +2092,8 @@ msgstr ""
 "specificato."
 
 #: ../../appointments/toc.rst:67
-#, fuzzy
 msgid "Canceling an Appointment"
-msgstr "Fissare gli appuntamenti"
+msgstr "Annullamento di un appuntamento"
 
 #: ../../appointments/toc.rst:69
 msgid "To cancel an existing appointment:"
@@ -2208,9 +2199,8 @@ msgstr ""
 "crearle facilmente tramite la sezione Chats del client Web Carbonio."
 
 #: ../../appointments/toc.rst:116
-#, fuzzy
 msgid "Creating a Recurring Appointment"
-msgstr "Fissare gli appuntamenti"
+msgstr "Creazione di un appuntamento ricorrente"
 
 #: ../../appointments/toc.rst:118
 msgid ""
@@ -2228,9 +2218,8 @@ msgstr ""
 "scelto."
 
 #: ../../appointments/toc.rst:120
-#, fuzzy
 msgid "To create a recurring new appointment:"
-msgstr "Fissare gli appuntamenti"
+msgstr "Per creare un nuovo appuntamento ricorrente:"
 
 #: ../../appointments/toc.rst:124
 msgid ""
@@ -2916,9 +2905,8 @@ msgid "A new dialogue box will appear. Perform changes."
 msgstr "Apparirà una nuova finestra di dialogo. Apportare le modifiche."
 
 #: ../../basic_email_management/toc.rst:210
-#, fuzzy
 msgid "Sharing a Folder"
-msgstr "Files"
+msgstr "Condivisione di una cartella"
 
 #: ../../basic_email_management/toc.rst:212
 msgid ""
@@ -2990,9 +2978,8 @@ msgstr ""
 "rilocazione."
 
 #: ../../basic_email_management/toc.rst:235
-#, fuzzy
 msgid "Working with Email Folder Sharing"
-msgstr "Files"
+msgstr "Utilizzo della condivisione delle cartelle e-mail"
 
 #: ../../basic_email_management/toc.rst:237
 msgid ""
@@ -3259,9 +3246,8 @@ msgid "Browsing Emails"
 msgstr "Gestione delle email"
 
 #: ../../browsing_emails/toc.rst:11
-#, fuzzy
 msgid "Reading Emails"
-msgstr "Gestione delle email"
+msgstr "Lettura delle e-mail"
 
 #: ../../browsing_emails/toc.rst:13
 msgid "To read an email simply:"
@@ -3796,9 +3782,8 @@ msgstr ""
 "essa e selezionando **Elimina definitivamente**."
 
 #: ../../browsing_emails/toc.rst:189
-#, fuzzy
 msgid "Recovering Messages"
-msgstr "Rimozione delle Email di Spam"
+msgstr "Recupero dei messaggi"
 
 #: ../../browsing_emails/toc.rst:191
 msgid ""
@@ -3931,9 +3916,8 @@ msgstr ""
 "formato in grassetto dalla riga dell'oggetto, annullando l'azione."
 
 #: ../../browsing_emails/toc.rst:226
-#, fuzzy
 msgid "Printing an Email"
-msgstr "Gestione delle email"
+msgstr "Stampa di un'e-mail"
 
 #: ../../browsing_emails/toc.rst:229
 msgid "To print an email:"
@@ -4015,9 +3999,8 @@ msgstr ""
 "Clicca sull'icona del cestino in alto a destra dell'elenco delle tue email."
 
 #: ../../browsing_emails/toc.rst:264
-#, fuzzy
 msgid "Sorting Emails"
-msgstr "Gestione delle email"
+msgstr "Smistamento delle e-mail"
 
 #: ../../browsing_emails/toc.rst:266
 msgid ""
@@ -4228,9 +4211,8 @@ msgstr "Per modificare la visualizzazione del calendario predefinita:"
 
 #: ../../calendars/toc.rst:25 ../../calendars/toc.rst:157
 #: ../../calendars/toc.rst:167
-#, fuzzy
 msgid "Select Calendars."
-msgstr "Calendari Condivisi"
+msgstr "Seleziona Calendari."
 
 #: ../../calendars/toc.rst:26
 msgid "Under **General**, click on the **Default view** field."
@@ -4279,9 +4261,8 @@ msgid "Changing Calendar View"
 msgstr "Modifica Vista Calendario"
 
 #: ../../calendars/toc.rst:40
-#, fuzzy
 msgid "To change the calendar view:"
-msgstr "Lavorare con Calendari"
+msgstr "Per modificare la visualizzazione del calendario:"
 
 #: ../../calendars/toc.rst:43
 msgid "From the top right corner select your desired view."
@@ -4319,9 +4300,8 @@ msgstr ""
 "del client web."
 
 #: ../../calendars/toc.rst:55
-#, fuzzy
 msgid "Creating a Calendar"
-msgstr "Lavorare con Calendari"
+msgstr "Creazione di un Calendario"
 
 #: ../../calendars/toc.rst:57
 msgid ""
@@ -4424,9 +4404,8 @@ msgid "Click the **OK** button."
 msgstr "Fare clic sul pulsante **OK**."
 
 #: ../../calendars/toc.rst:88
-#, fuzzy
 msgid "Editing a Calendar"
-msgstr "Lavorare con Calendari"
+msgstr "Modifica di un Calendario"
 
 #: ../../calendars/toc.rst:90 ../../calendars/toc.rst:101
 msgid "To delete a calendar:"
@@ -4443,9 +4422,8 @@ msgid "Make your changes."
 msgstr "Esegui le modifiche."
 
 #: ../../calendars/toc.rst:99
-#, fuzzy
 msgid "Deleting a Calendar"
-msgstr "Lavorare con Calendari"
+msgstr "Eliminazione di un Calendario"
 
 #: ../../calendars/toc.rst:105
 msgid ""
@@ -4468,9 +4446,8 @@ msgstr ""
 "eliminato definitivamente da questa cartella."
 
 #: ../../calendars/toc.rst:111
-#, fuzzy
 msgid "Restoring a Trashed Calendar"
-msgstr "Lavorare con Calendari"
+msgstr "Ripristino di un Calendario Cestinato"
 
 #: ../../calendars/toc.rst:113
 msgid "To restore a trashed calendar:"
@@ -4500,9 +4477,8 @@ msgid "This calendar will be moved into your calendar list."
 msgstr "Questo calendario sarà spostato nella tua lista dei calendari."
 
 #: ../../calendars/toc.rst:123
-#, fuzzy
 msgid "Viewing Multiple Calendars"
-msgstr "Lavorare con Calendari"
+msgstr "Visualizzazione di Più Calendari"
 
 #: ../../calendars/toc.rst:125
 msgid "To view multiple calendars in your timetable:"
@@ -4517,9 +4493,8 @@ msgstr ""
 "visualizzare nell'orario per attivare o disattivare la loro visibilità."
 
 #: ../../calendars/toc.rst:135
-#, fuzzy
 msgid "Setting Start of the Week"
-msgstr "Inizia ad usare Carbonio"
+msgstr "Impostazione Inizio della Settimana"
 
 #: ../../calendars/toc.rst:137
 msgid ""
@@ -4532,9 +4507,8 @@ msgstr ""
 "puoi modificarla nelle impostazioni. Per modificare l'inizio della settimana:"
 
 #: ../../calendars/toc.rst:141
-#, fuzzy
 msgid "Select **Calendars**."
-msgstr "Calendari Condivisi"
+msgstr "Seleziona **Calendari**."
 
 #: ../../calendars/toc.rst:142
 msgid "Under **General**, click on the **Start week** on field."
@@ -4609,9 +4583,8 @@ msgstr ""
 "verrà aggiunto automaticamente al tuo calendario."
 
 #: ../../calendars/toc.rst:174
-#, fuzzy
 msgid "Working with Shared Calendars"
-msgstr "Lavorare con Calendari"
+msgstr "Utilizzo dei Calendari Condivisi"
 
 #: ../../calendars/toc.rst:176
 msgid ""
@@ -4736,9 +4709,8 @@ msgstr ""
 "scorciatoia da tastiera CTRL+V su Windows o Comando+V su macOS."
 
 #: ../../calendars/toc.rst:209
-#, fuzzy
 msgid "Find Colleagues' Shared Calendars"
-msgstr "Calendari Condivisi"
+msgstr "Trova i Calendari Condivisi dei Colleghi"
 
 #: ../../calendars/toc.rst:211
 msgid "To find and add your colleagues’ shared calendars:"
@@ -4871,9 +4843,8 @@ msgstr ""
 "download."
 
 #: ../../chats(wsc)/toc.rst:7
-#, fuzzy
 msgid "Working with Chats (WSC) :bdg-primary:`NEW`"
-msgstr "Chat"
+msgstr "Lavorare con Chats (WSC) :bdg-primary:'NUOVO'"
 
 #: ../../chats(wsc)/toc.rst:14
 msgid ""
@@ -4897,9 +4868,8 @@ msgstr ""
 "produttività sia quando lavorano da remoto che quando lavorano in ufficio."
 
 #: ../../chats(wsc)/toc.rst:17 ../../chats/toc.rst:19
-#, fuzzy
 msgid "Creating New Chat"
-msgstr "Chat"
+msgstr "Creazione di una Nuova Chat"
 
 #: ../../chats(wsc)/toc.rst:19 ../../chats/toc.rst:21
 msgid ""
@@ -5413,9 +5383,8 @@ msgid "In the Type to filter list field, insert your colleague's name."
 msgstr "Nel campo Filtra l'elenco digitando, inserisci il nome del tuo collega."
 
 #: ../../chats(wsc)/toc.rst:208
-#, fuzzy
 msgid "Exporting a Chat"
-msgstr "Chat"
+msgstr "Esportazione di una Chat"
 
 #: ../../chats(wsc)/toc.rst:210
 msgid "If needed, you have the chance to export all the chats from your account."
@@ -5604,9 +5573,8 @@ msgstr ""
 "ecc."
 
 #: ../../composing_emails/toc.rst:12
-#, fuzzy
 msgid "Composing a New Email"
-msgstr "Scrivere un'email"
+msgstr "Composizione di una Nuova E-mail"
 
 #: ../../composing_emails/toc.rst:14
 msgid "Below is a concise summary of the steps to write and send an email:"
@@ -5713,9 +5681,8 @@ msgstr ""
 "di compatibilità tra diversi client di posta elettronica."
 
 #: ../../composing_emails/toc.rst:44
-#, fuzzy
 msgid "Addressing Emails"
-msgstr "Gestione delle email"
+msgstr "Indirizzamento E-mail"
 
 #: ../../composing_emails/toc.rst:46
 msgid ""
@@ -6221,9 +6188,8 @@ msgstr ""
 "contemporaneamente."
 
 #: ../../composing_emails/toc.rst:217
-#, fuzzy
 msgid "Forwarding an Email"
-msgstr "Gestione delle email"
+msgstr "Inoltro di un'E-mail"
 
 #: ../../composing_emails/toc.rst:219
 msgid "To forward an email, follow these steps:"
@@ -6383,9 +6349,8 @@ msgstr ""
 "apparire vuota se non hai ancora avuto alcuna corrispondenza."
 
 #: ../../contacts/toc.rst:38
-#, fuzzy
 msgid "Adding a New Contact"
-msgstr "Contatti"
+msgstr "Aggiunta di un Nuovo Contatto"
 
 #: ../../contacts/toc.rst:40
 msgid "To add a new contact to your contact list:"
@@ -6421,9 +6386,8 @@ msgstr ""
 "Fare clic sul pulsante **SALVA** nell'angolo superiore destro della lavagna."
 
 #: ../../contacts/toc.rst:53
-#, fuzzy
 msgid "Editing a Contact"
-msgstr "Contatti"
+msgstr "Modifica di un Contatto"
 
 #: ../../contacts/toc.rst:55
 msgid "To edit an existing contact:"
@@ -6475,9 +6439,8 @@ msgid "Choose the tag you wish to assign to the contact from the drop-down menu.
 msgstr "Scegli il tag che desideri assegnare al contatto dal menu a discesa."
 
 #: ../../contacts/toc.rst:75
-#, fuzzy
 msgid "Deleting a Contact"
-msgstr "Contatti"
+msgstr "Eliminazione di un Contatto"
 
 #: ../../contacts/toc.rst:77
 msgid "To delete an existing contact:"
@@ -7245,9 +7208,8 @@ msgid "Click the **RENAME** button."
 msgstr "Fare clic sul pulsante **RINOMINA**."
 
 #: ../../files/toc.rst:138
-#, fuzzy
 msgid "Viewing a File"
-msgstr "Files"
+msgstr "Visualizzazione di un File"
 
 #: ../../files/toc.rst:140
 msgid "To view a file stored in your Files:"
@@ -7295,9 +7257,8 @@ msgstr ""
 "aprirli con applicazioni specifiche."
 
 #: ../../files/toc.rst:154
-#, fuzzy
 msgid "Creating a File"
-msgstr "Files"
+msgstr "Creazione di un File"
 
 #: ../../files/toc.rst:156
 msgid ""
@@ -7484,9 +7445,8 @@ msgstr ""
 "alto nel Pannello principale, sopra l'elenco di file e cartelle."
 
 #: ../../files/toc.rst:221
-#, fuzzy
 msgid "Copying a File"
-msgstr "Scrivere un'email"
+msgstr "Copia di un File"
 
 #: ../../files/toc.rst:223
 msgid "To copy a file and create a duplicate in another folder:"
@@ -9518,9 +9478,8 @@ msgstr ""
 "e a gestirlo facilmente."
 
 #: ../../tasks/toc.rst:16
-#, fuzzy
 msgid "Creating a Task"
-msgstr "Impegni"
+msgstr "Creazione di un'Attività"
 
 #: ../../tasks/toc.rst:18
 msgid "To create a new task:"
@@ -9633,9 +9592,8 @@ msgid "Select **Complete** from the drop-down menu."
 msgstr "Seleziona **Completa** dal menu a discesa."
 
 #: ../../videomeetings(wsc)/toc.rst:7
-#, fuzzy
 msgid "Working with Video Meetings(WSC) :bdg-info:`NEW`"
-msgstr "Files"
+msgstr "Lavorare con Video Meeting (WSC) :bdg-info:'NUOVO'"
 
 #: ../../videomeetings(wsc)/toc.rst:13
 msgid ""
@@ -9655,9 +9613,8 @@ msgstr ""
 "garantendo una collaborazione efficace e fluida."
 
 #: ../../videomeetings(wsc)/toc.rst:16
-#, fuzzy
 msgid "Creating New Virtual Room"
-msgstr "Chat"
+msgstr "Creazione di una Nuova Stanza Virtuale"
 
 #: ../../videomeetings(wsc)/toc.rst:18
 msgid ""
@@ -10090,9 +10047,8 @@ msgid "Click the crown icon next to the participant’s name."
 msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #: ../../videomeetings/toc.rst:7
-#, fuzzy
 msgid "Working with Video Meetings"
-msgstr "Files"
+msgstr "Utilizzo delle Riunioni Video"
 
 #: ../../videomeetings/toc.rst:13
 msgid ""

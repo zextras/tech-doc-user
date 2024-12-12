@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-12 01:09+0000\n"
+"PO-Revision-Date: 2024-12-12 01:10+0000\n"
 "Last-Translator: Gianluca Boiano <gianluca.boiano@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -312,9 +312,8 @@ msgid "Go to your **Junk** folder."
 msgstr "Vai alla casella **Spam**."
 
 #: ../../advanced_email_management/toc.rst:89
-#, fuzzy
 msgid "Right-click on the email you wish to mark as not spam."
-msgstr "Fai clic con tasto destro sull'email che vuoi segnalare come non spam."
+msgstr "Fai clic destro sull'email che desideri contrassegnare come non spam."
 
 #: ../../advanced_email_management/toc.rst:90
 msgid "From the menu that appears, select **Not spam**."
@@ -401,7 +400,6 @@ msgstr ""
 "nome del dominio."
 
 #: ../../advanced_email_management/toc.rst:113
-#, fuzzy
 msgid "Click the Add button to add the address or domain to the trusted list."
 msgstr ""
 "Fai clic sul pulsante Aggiungi per aggiungere l'indirizzo o il dominio "
@@ -7458,7 +7456,7 @@ msgstr "Passa alla cartella che contiene il file che desideri copiare."
 
 #: ../../files/toc.rst:228
 msgid "Select **Copy** from the drop-down menu. A new window appears."
-msgstr "Seleziona **Copia**dal menu a tendina.  Appare una nuova finestra."
+msgstr "Seleziona **Copia**dal menu a tendina. Appare una nuova finestra."
 
 #: ../../files/toc.rst:229
 msgid "Choose the destination folder where you want to copy the file."

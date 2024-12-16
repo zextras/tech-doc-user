@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-16 16:48+0100\n"
-"PO-Revision-Date: 2024-10-04 09:27+0000\n"
-"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
+"PO-Revision-Date: 2024-12-16 16:50+0000\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Language-Team: French <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.3\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -1979,19 +1979,22 @@ msgstr ""
 
 #: ../../basic_email_management/toc.rst:37
 msgid "From the dropdown menu, select **Create Tag**."
-msgstr ""
+msgstr "Sélectionnez **Créer un étiquette** dans le menu déroulant."
 
 #: ../../basic_email_management/toc.rst:38
 msgid "A dialog box will appear. Insert a name for the new tag."
 msgstr ""
+"Une boîte de dialogue apparaîtra. Insérez un nom pour la nouvelle étiquette."
 
 #: ../../basic_email_management/toc.rst:39
 msgid "Choose a color for the tag from the options provided."
-msgstr ""
+msgstr "Choisissez une couleur pour l'étiquette parmi les options proposées."
 
 #: ../../basic_email_management/toc.rst:40
 msgid "Click on the **CREATE** button to finalize the creation of the new tag."
 msgstr ""
+"Cliquez sur le bouton **CRÉER** pour finaliser la création de la nouvelle "
+"étiquette."
 
 #: ../../basic_email_management/toc.rst:43
 msgid ""
@@ -2001,25 +2004,26 @@ msgstr ""
 
 #: ../../basic_email_management/toc.rst:47
 msgid "Assigning a Tag to an Email"
-msgstr ""
+msgstr "Attribuer une étiquette à un e-mail"
 
 #: ../../basic_email_management/toc.rst:49
 msgid "To assign a tag to an email simply:"
 msgstr ""
+"Pour attribuer une étiquette à un e-mail, procédez simplement comme suit :"
 
 #: ../../basic_email_management/toc.rst:51
 #: ../../basic_email_management/toc.rst:75
 msgid "Right-click on the email to open the dropdown menu."
-msgstr ""
+msgstr "Faites un clic droit sur l'e-mail pour ouvrir le menu déroulant."
 
 #: ../../basic_email_management/toc.rst:52
 #: ../../basic_email_management/toc.rst:76
 msgid "Navigate to the Tags option within the dropdown menu."
-msgstr ""
+msgstr "Accédez à l'option Étiquettes dans le menu déroulant."
 
 #: ../../basic_email_management/toc.rst:53
 msgid "Select one or multiple tags from the list."
-msgstr ""
+msgstr "Sélectionnez une ou plusieurs étiquettes dans la liste."
 
 #: ../../basic_email_management/toc.rst:60
 msgid "Displaying Emails with a Specific Tag"
@@ -2031,33 +2035,39 @@ msgstr ""
 
 #: ../../basic_email_management/toc.rst:65
 msgid "Locate the **Tags** section within the Navigation Panel."
-msgstr ""
+msgstr "Localisez la section **Étiquettes** dans le panneau de navigation."
 
 #: ../../basic_email_management/toc.rst:66
 msgid ""
 "Click on the downward arrow icon located next to the Tags section to open"
 " the list of tags."
 msgstr ""
+"Cliquez sur l'icône de la flèche descendante située à côté de la section "
+"Étiquettes pour ouvrir la liste des étiquettes."
 
 #: ../../basic_email_management/toc.rst:67
 msgid "Click on the tag that you want to find emails for."
 msgstr ""
+"Cliquez sur l'étiquette que vous souhaitez utiliser pour trouver des e-mails."
 
 #: ../../basic_email_management/toc.rst:68
 msgid "All messages with the selected tag will be displayed in the Main Panel."
 msgstr ""
+"Tous les messages avec l'étiquette sélectionnée seront affichés dans le "
+"panneau principal."
 
 #: ../../basic_email_management/toc.rst:71
 msgid "Removing a Tag from an Email"
-msgstr ""
+msgstr "Supprimer une étiquette d'un e-mail"
 
 #: ../../basic_email_management/toc.rst:73
 msgid "To remove a tag from an email simply:"
 msgstr ""
+"Pour supprimer une étiquette d'un e-mail, procédez simplement comme suit :"
 
 #: ../../basic_email_management/toc.rst:77
 msgid "Uncheck one or multiple tags from the list."
-msgstr ""
+msgstr "Décochez une ou plusieurs étiquettes de la liste."
 
 #: ../../basic_email_management/toc.rst:80
 msgid "Changing a Tag Color"
@@ -2066,20 +2076,24 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:82
 msgid "Right-click on the tag you need to edit from the Tags section."
 msgstr ""
+"Faites un clic droit sur l'étiquette que vous devez modifier dans la section "
+"Étiquettes."
 
 #: ../../basic_email_management/toc.rst:83
 msgid "From the dropdown menu, select Edit Tag."
-msgstr ""
+msgstr "Sélectionnez **Éditer l'étiquette** dans le menu déroulant."
 
 #: ../../basic_email_management/toc.rst:84
 msgid ""
 "A dialog box will appear. Choose a color for the tag from the options "
 "provided."
 msgstr ""
+"Une boîte de dialogue apparaîtra. Choisissez une couleur pour l'étiquette "
+"parmi les options proposées."
 
 #: ../../basic_email_management/toc.rst:85
 msgid "Click on the EDIT button."
-msgstr ""
+msgstr "Cliquez sur le bouton **ÉDITER**."
 
 #: ../../basic_email_management/toc.rst:88
 msgid "Renaming a Tag"
@@ -2207,26 +2221,36 @@ msgid ""
 "important to note that top-level folder names must be unique and cannot "
 "match any other top-level folder within your inbox."
 msgstr ""
+"**Dossiers définis par l'utilisateur** : Ces dossiers, que vous créez pour "
+"structurer vos e-mails, apparaissent dans la liste des dossiers dans le "
+"panneau de vue d'ensemble. Il est important de noter que les noms des "
+"dossiers de niveau supérieur doivent être uniques et ne peuvent pas "
+"correspondre à un autre dossier de niveau supérieur dans votre boîte de "
+"réception."
 
 #: ../../basic_email_management/toc.rst:148
 msgid "Creating New Folder"
-msgstr ""
+msgstr "Création d'un nouveau dossier"
 
 #: ../../basic_email_management/toc.rst:150
 msgid ""
 "You can create either a standalone user-defined folder or a subfolder "
 "within another folder, including system folders."
 msgstr ""
+"Vous pouvez créer un dossier défini par l'utilisateur autonome ou un sous-"
+"dossier dans un autre dossier, y compris les dossiers système."
 
 #: ../../basic_email_management/toc.rst:152
 msgid ""
 "It is not possible to create two folders with identical names within the "
 "same parent folder."
 msgstr ""
+"Il est impossible de créer deux dossiers portant des noms identiques dans le "
+"même dossier parent."
 
 #: ../../basic_email_management/toc.rst:154
 msgid "To create a new folder:"
-msgstr ""
+msgstr "Pour créer un nouveau dossier :"
 
 #: ../../basic_email_management/toc.rst:156
 #: ../../basic_email_management/toc.rst:172
@@ -2235,7 +2259,7 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:203
 #: ../../basic_email_management/toc.rst:214
 msgid "Navigate to the **Mail** section from the left sidebar."
-msgstr ""
+msgstr "Accédez à la section **Messagerie** depuis la barre latérale gauche."
 
 #: ../../basic_email_management/toc.rst:157
 #: ../../basic_email_management/toc.rst:173
@@ -2244,34 +2268,37 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:204
 #: ../../basic_email_management/toc.rst:215
 msgid "Right-click on a folder."
-msgstr ""
+msgstr "Cliquez avec le bouton droit sur un dossier."
 
 #: ../../basic_email_management/toc.rst:158
 msgid "Select **New Folder** from the dropdown menu."
-msgstr ""
+msgstr "Sélectionnez **Nouveau dossier** dans le menu déroulant."
 
 #: ../../basic_email_management/toc.rst:159
 msgid "Provide a name for the new folder."
-msgstr ""
+msgstr "Donnez un nom au nouveau dossier."
 
 #: ../../basic_email_management/toc.rst:160
 msgid "Finally, click **CREATE** to confirm your folder creation."
 msgstr ""
+"Enfin, cliquez sur **CRÉER** pour confirmer la création de votre dossier."
 
 #: ../../basic_email_management/toc.rst:168
 msgid "Assigning a Color to a Folder"
-msgstr ""
+msgstr "Attribution d'une couleur à un dossier"
 
 #: ../../basic_email_management/toc.rst:170
 msgid ""
 "You can customize folders with different colors. To assign a color to a "
 "folder:"
 msgstr ""
+"Vous pouvez personnaliser les dossiers avec différentes couleurs. Pour "
+"attribuer une couleur à un dossier :"
 
 #: ../../basic_email_management/toc.rst:174
 #: ../../basic_email_management/toc.rst:205
 msgid "Click on **Edit**."
-msgstr ""
+msgstr "Cliquez sur **Éditer**."
 
 #: ../../basic_email_management/toc.rst:175
 msgid ""
@@ -2282,23 +2309,25 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:176
 #: ../../basic_email_management/toc.rst:207
 msgid "Click **EDIT** to confirm the change."
-msgstr ""
+msgstr "Cliquez sur **ÉDITER** pour confirmer le changement."
 
 #: ../../basic_email_management/toc.rst:179
 msgid "Wiping Folder"
-msgstr ""
+msgstr "Réinitialisation d'un dossier"
 
 #: ../../basic_email_management/toc.rst:181
 msgid "Wiping a folder permanently removes all emails. To wipe a folder:"
 msgstr ""
+"La réinitialisation d'un dossier supprime définitivement tous les e-mails. "
+"Pour réinitialiser un dossier :"
 
 #: ../../basic_email_management/toc.rst:185
 msgid "Select **Wipe Folder** from the dropdown menu."
-msgstr ""
+msgstr "Sélectionnez **Réinitialiser le dossier** dans le menu déroulant."
 
 #: ../../basic_email_management/toc.rst:186
 msgid "Finally, click **WIPE** to confirm."
-msgstr ""
+msgstr "Enfin, cliquez sur **RÉINITIALISER** pour confirmer."
 
 #: ../../basic_email_management/toc.rst:189
 msgid "Deleting Folder"
@@ -2310,7 +2339,7 @@ msgstr ""
 
 #: ../../basic_email_management/toc.rst:195
 msgid "Select **Delete** from the dropdown menu."
-msgstr ""
+msgstr "Sélectionnez **Supprimer** dans le menu déroulant."
 
 #: ../../basic_email_management/toc.rst:196
 msgid "Finally, click **OK** to confirm."
@@ -2362,7 +2391,7 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:309 ../../contacts/toc.rst:144
 #: ../../contacts/toc.rst:206 ../../contacts/toc.rst:227
 msgid "Click the **SHARE FOLDER** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **PARTAGER LE DOSSIER**."
 
 #: ../../basic_email_management/toc.rst:223
 msgid "Moving Emails Between Folders"
@@ -3102,7 +3131,7 @@ msgstr ""
 
 #: ../../browsing_emails/toc.rst:226
 msgid "Printing an Email"
-msgstr ""
+msgstr "Impression d'un e-mail"
 
 #: ../../browsing_emails/toc.rst:229
 msgid "To print an email:"
@@ -3162,7 +3191,7 @@ msgstr ""
 
 #: ../../browsing_emails/toc.rst:253
 msgid "To delete multiple emails at once:"
-msgstr ""
+msgstr "Pour supprimer plusieurs e-mails à la fois :"
 
 #: ../../browsing_emails/toc.rst:255
 msgid "Select multiple emails as described above."
@@ -3174,7 +3203,7 @@ msgstr ""
 
 #: ../../browsing_emails/toc.rst:264
 msgid "Sorting Emails"
-msgstr ""
+msgstr "Tri des e-mails"
 
 #: ../../browsing_emails/toc.rst:266
 msgid ""
@@ -3205,6 +3234,8 @@ msgid ""
 "The default sorting mode automatically arranges emails based on their "
 "dates."
 msgstr ""
+"Le mode de tri par défaut organise automatiquement les e-mails en fonction "
+"de leurs dates."
 
 #: ../../browsing_emails/toc.rst:281
 msgid "Emails date format"
@@ -3233,7 +3264,7 @@ msgstr ""
 
 #: ../../browsing_emails/toc.rst:1
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇬🇧 English*"
@@ -3301,35 +3332,35 @@ msgstr ""
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇷🇴 Romanian*"
-msgstr ""
+msgstr "*🇷🇴 Roumain*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇷🇺 Russian*"
-msgstr ""
+msgstr "*🇷🇺 Russe*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇪🇸 Spanish*"
-msgstr ""
+msgstr "*🇪🇸 Espagnol*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇹🇭 Thai*"
-msgstr ""
+msgstr "*🇹🇭 Thaï*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇹🇷 Turkish*"
-msgstr ""
+msgstr "*🇹🇷 Turc*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇫🇷 French*"
-msgstr ""
+msgstr "*🇫🇷 Français*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇻🇳 Vietnamese*"
-msgstr ""
+msgstr "*🇻🇳 Vietnamien*"
 
 #: ../../calendars/toc.rst:7
 msgid "Working with Calendars"
-msgstr ""
+msgstr "Travail avec les calendriers"
 
 #: ../../calendars/toc.rst:13
 msgid ""
@@ -3337,16 +3368,21 @@ msgid ""
 "appointments, meetings, and events. Additionally, Carbonio enables you to"
 " share your calendars with colleagues or friends."
 msgstr ""
+"Vous pouvez utiliser la fonction Calendrier de Carbonio pour gérer "
+"efficacement vos rendez-vous, réunions et événements. De plus, Carbonio vous "
+"permet de partager vos calendriers avec des collègues ou des amis."
 
 #: ../../calendars/toc.rst:15
 msgid ""
 "To access the Calendar function, simply click on the Calendars section "
 "from the left sidebar."
 msgstr ""
+"Pour accéder à la fonction Calendrier, cliquez simplement sur la section "
+"Calendriers dans la barre latérale gauche."
 
 #: ../../calendars/toc.rst:18
 msgid "Setting Default Calendar View"
-msgstr ""
+msgstr "paramétrer la vue du calendrier par défaut"
 
 #: ../../calendars/toc.rst:20
 msgid ""
@@ -3354,6 +3390,10 @@ msgid ""
 " View. However, you have the option to customize this and choose a "
 "different view to display upon opening."
 msgstr ""
+"Dans Carbonio, la vue par défaut lors de l'ouverture de votre calendrier est "
+"la vue de la semaine de travail. Cependant, vous avez la possibilité de "
+"personnaliser cela et de choisir une autre vue à afficher lors de "
+"l'ouverture."
 
 #: ../../calendars/toc.rst:22
 msgid "To change the default calendar view:"
@@ -3362,15 +3402,15 @@ msgstr ""
 #: ../../calendars/toc.rst:25 ../../calendars/toc.rst:157
 #: ../../calendars/toc.rst:167
 msgid "Select Calendars."
-msgstr ""
+msgstr "Sélectionnez les calendriers."
 
 #: ../../calendars/toc.rst:26
 msgid "Under **General**, click on the **Default view** field."
-msgstr ""
+msgstr "Sous **Général**, cliquez sur le champ **Vue par défaut**."
 
 #: ../../calendars/toc.rst:27
 msgid "Select the desired view from the drop-down menu."
-msgstr ""
+msgstr "Sélectionnez la vue souhaitée dans le menu déroulant."
 
 #: ../../calendars/toc.rst:28 ../../calendars/toc.rst:144
 #: ../../calendars/toc.rst:159 ../../calendars/toc.rst:169
@@ -3417,23 +3457,28 @@ msgstr ""
 
 #: ../../calendars/toc.rst:48
 msgid "WEEK: Focus on a single week's schedule."
-msgstr ""
+msgstr "SEMAINE : Concentrez-vous sur l'emploi du temps d'une seule semaine."
 
 #: ../../calendars/toc.rst:49
 msgid "DAY: Detailed view of events for a single day."
-msgstr ""
+msgstr "JOUR : Vue détaillée des événements d'une seule journée."
 
 #: ../../calendars/toc.rst:50
 msgid ""
 "WORK WEEK: Shows only workdays (Monday to Friday – can be changed from "
 "the settings), ideal for work-focused scheduling."
 msgstr ""
+"SEMAINE DE TRAVAIL : N'affiche que les jours ouvrables (du lundi au vendredi "
+"- peut être modifié dans les paramètres), idéal pour la planification axée "
+"sur le travail."
 
 #: ../../calendars/toc.rst:52
 msgid ""
 "This view will revert to the default settings upon reloading the web "
 "client."
 msgstr ""
+"Cette vue reviendra aux paramètres par défaut lors du rechargement du client "
+"web."
 
 #: ../../calendars/toc.rst:55
 msgid "Creating a Calendar"
@@ -3447,14 +3492,18 @@ msgid ""
 "events, personal appointments, and company activities, enabling you to "
 "manage each aspect of your schedule efficiently."
 msgstr ""
+"Dans Carbonio, un calendrier par défaut est créé pour vous. Cependant, vous "
+"pouvez créer des calendriers suppl"
 
 #: ../../calendars/toc.rst:59
 msgid "To create a calendar:"
-msgstr ""
+msgstr "Pour créer un calendrier :"
 
 #: ../../calendars/toc.rst:62
 msgid "In the Navigation Panel, right-click on the Calendar."
 msgstr ""
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le "
+"Calendrier."
 
 #: ../../calendars/toc.rst:63
 msgid "Select **New calendar** from the drop-down menu. A new window appears."
@@ -3511,94 +3560,109 @@ msgstr ""
 #: ../../calendars/toc.rst:83 ../../calendars/toc.rst:94
 msgid "Select **Edit calendar properties** from the drop-down menu."
 msgstr ""
+"Sélectionnez **Modifier les propriétés du calendrier** dans le menu "
+"déroulant."
 
 #: ../../calendars/toc.rst:84
 msgid "Choose a color from the **Calendar color** field."
-msgstr ""
+msgstr "Choisissez une couleur dans le champ **Couleur du calendrier**."
 
 #: ../../calendars/toc.rst:85 ../../calendars/toc.rst:96
 msgid "Click the **OK** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **OK**."
 
 #: ../../calendars/toc.rst:88
 msgid "Editing a Calendar"
-msgstr ""
+msgstr "Édition d'un calendrier"
 
 #: ../../calendars/toc.rst:90 ../../calendars/toc.rst:101
 msgid "To delete a calendar:"
-msgstr ""
+msgstr "Pour supprimer un calendrier :"
 
 #: ../../calendars/toc.rst:93 ../../calendars/toc.rst:104
 msgid "In the Navigation Panel, right-click on the calendar you wish to edit."
 msgstr ""
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le "
+"calendrier que vous souhaitez modifier."
 
 #: ../../calendars/toc.rst:95 ../../tasks/toc.rst:40
 msgid "Make your changes."
-msgstr ""
+msgstr "Apportez vos modifications."
 
 #: ../../calendars/toc.rst:99
 msgid "Deleting a Calendar"
-msgstr ""
+msgstr "Suppression d'un Calendrier"
 
 #: ../../calendars/toc.rst:105
 msgid ""
 "Select **Delete calendar** from the drop-down menu (this option is "
 "unavailable for your main calendar)."
 msgstr ""
+"Sélectionnez **Supprimer le calendrier** dans le menu déroulant (cette "
+"option est indisponible pour votre calendrier principal)."
 
 #: ../../calendars/toc.rst:106 ../../contacts/toc.rst:166
 msgid "Click the **DELETE** button to confirm."
-msgstr ""
+msgstr "Cliquez sur le bouton **SUPPRIMER** pour confirmer."
 
 #: ../../calendars/toc.rst:108
 msgid ""
 "This calendar will be moved to the **Trash** folder and can be deleted "
 "permanently from this folder."
 msgstr ""
+"Ce calendrier sera déplacé vers le dossier **Corbeille** et pourra être "
+"supprimé définitivement à partir de ce dossier."
 
 #: ../../calendars/toc.rst:111
 msgid "Restoring a Trashed Calendar"
-msgstr ""
+msgstr "Restauration d'un Calendrier Supprimé"
 
 #: ../../calendars/toc.rst:113
 msgid "To restore a trashed calendar:"
-msgstr ""
+msgstr "Pour restaurer un calendrier supprimé :"
 
 #: ../../calendars/toc.rst:116
 msgid ""
 "In the Navigation Panel, click on the downward arrow next to the Trash "
 "folder. (if there is no downward arrow, your trash folder is empty)"
 msgstr ""
+"Dans le panneau de navigation, cliquez sur la flèche descendante à côté du "
+"dossier Corbeille. (si il n'y a pas de flèche descendante, votre dossier de "
+"corbeille est vide)"
 
 #: ../../calendars/toc.rst:117
 msgid "Right-click on the calendar you wish to restore."
 msgstr ""
+"Cliquez avec le bouton droit sur le calendrier que vous souhaitez restaurer."
 
 #: ../../calendars/toc.rst:118
 msgid "Click **Restore calendar** from the drop-down menu."
-msgstr ""
+msgstr "Cliquez sur **Restaurer le calendrier** dans le menu déroulant."
 
 #: ../../calendars/toc.rst:120
 msgid "This calendar will be moved into your calendar list."
-msgstr ""
+msgstr "Ce calendrier sera déplacé dans votre liste de calendriers."
 
 #: ../../calendars/toc.rst:123
 msgid "Viewing Multiple Calendars"
-msgstr ""
+msgstr "Affichage de multiples Calendriers"
 
 #: ../../calendars/toc.rst:125
 msgid "To view multiple calendars in your timetable:"
-msgstr ""
+msgstr "Pour afficher plusieurs calendriers dans votre emploi du temps :"
 
 #: ../../calendars/toc.rst:128
 msgid ""
 "In the Navigation Panel, click on the calendars you wish to display on "
 "your timetable to toggle their visibility on or off."
 msgstr ""
+"Dans le panneau de navigation, cliquez sur les calendriers que vous "
+"souhaitez afficher dans votre emploi du temps pour basculer leur visibilité "
+"entre activé ou désactivé."
 
 #: ../../calendars/toc.rst:135
 msgid "Setting Start of the Week"
-msgstr ""
+msgstr "Définition du Début de la Semaine"
 
 #: ../../calendars/toc.rst:137
 msgid ""
@@ -3606,18 +3670,22 @@ msgid ""
 "region where the week commences with a different day, you can adjust it "
 "from the settings. To modify the start of the week:"
 msgstr ""
+"Le début de la semaine par défaut est le dimanche. Cependant, si vous "
+"résidez dans une région où la semaine commence un jour différent, vous "
+"pouvez l'ajuster depuis les paramètres. Pour modifier le début de la semaine "
+":"
 
 #: ../../calendars/toc.rst:141
 msgid "Select **Calendars**."
-msgstr ""
+msgstr "Sélectionnez **Calendriers**."
 
 #: ../../calendars/toc.rst:142
 msgid "Under **General**, click on the **Start week** on field."
-msgstr ""
+msgstr "Sous **Général**, cliquez sur le champ **Début de la semaine**."
 
 #: ../../calendars/toc.rst:143
 msgid "Select the desired day from the drop-down menu."
-msgstr ""
+msgstr "Sélectionnez le jour souhaité dans le menu déroulant."
 
 #: ../../calendars/toc.rst:146
 msgid ""
@@ -3666,6 +3734,8 @@ msgid ""
 "Now, if a colleague sends you an invitation for a meeting or appointment,"
 " it will be automatically added to your calendar."
 msgstr ""
+"Désormais, si un collègue vous envoie une invitation pour une réunion ou un "
+"rendez-vous, elle sera automatiquement ajoutée à votre calendrier."
 
 #: ../../calendars/toc.rst:174
 msgid "Working with Shared Calendars"
@@ -3679,17 +3749,21 @@ msgstr ""
 
 #: ../../calendars/toc.rst:178
 msgid "Viewer (can view)"
-msgstr ""
+msgstr "Visionneuse (peut afficher)"
 
 #: ../../calendars/toc.rst:179
 msgid ""
 "Editor (can view, edit, add, and delete but cannot accept or reshare "
 "appointments)"
 msgstr ""
+"Éditeur (peut afficher, éditer, ajouter et supprimer, mais ne peut pas "
+"accepter ou répartager des rendez-vous)"
 
 #: ../../calendars/toc.rst:180
 msgid "Manager (can view, edit, add, delete, accept and reshare appointments)"
 msgstr ""
+"Gestionnaire (peut afficher, éditer, ajouter, supprimer, accepter et "
+"répartager des rendez-vous)"
 
 #: ../../calendars/toc.rst:182
 msgid ""
@@ -3698,6 +3772,10 @@ msgid ""
 " shared calendar enables efficient coordination and collaboration among "
 "team members."
 msgstr ""
+"Le partage de votre calendrier avec vos collègues leur permet de le "
+"consulter ou de le gérer, ce qui peut être extrêmement utile, notamment pour "
+"une équipe. Avoir un calendrier partagé permet une coordination et une "
+"collaboration efficaces entre les membres de l'équipe."
 
 #: ../../calendars/toc.rst:184
 msgid ""
@@ -3709,41 +3787,46 @@ msgstr ""
 
 #: ../../calendars/toc.rst:187
 msgid "Sharing Calendars with Your Colleagues"
-msgstr ""
+msgstr "Partage de calendriers avec vos collègues"
 
 #: ../../calendars/toc.rst:189
 msgid "To share your calendar with your colleagues:"
-msgstr ""
+msgstr "Pour partager votre calendrier avec vos collègues :"
 
 #: ../../calendars/toc.rst:191 ../../calendars/toc.rst:201
 msgid "Navigate to the **Calendars** section from the left sidebar."
-msgstr ""
+msgstr "Accédez à la section **Calendriers** dans la barre latérale gauche."
 
 #: ../../calendars/toc.rst:192 ../../calendars/toc.rst:202
 msgid "Right-click on the calendar you wish to share."
 msgstr ""
+"Cliquez avec le bouton droit sur le calendrier que vous souhaitez partager."
 
 #: ../../calendars/toc.rst:193
 msgid "From the drop-down menu select **Share Calendar**."
-msgstr ""
+msgstr "Sélectionnez **Partager le calendrier** dans le menu déroulant."
 
 #: ../../calendars/toc.rst:194 ../../contacts/toc.rst:203
 msgid "From the Share with field, select Internal Users or Groups."
 msgstr ""
+"Dans le champ **Partager avec**, sélectionnez Utilisateurs internes ou "
+"Groupes."
 
 #: ../../calendars/toc.rst:195
 msgid ""
 "Enter the email addresses of your colleagues with whom you wish to share "
 "the calendar into the **Recipients’ e-mail addresses** field."
 msgstr ""
+"Entrez les adresses e-mail de vos collègues avec lesquels vous souhaitez "
+"partager le calendrier dans le champ **Adresses e-mail des destinataires**."
 
 #: ../../calendars/toc.rst:196
 msgid "Select the role from the **Role** field."
-msgstr ""
+msgstr "Sélectionnez le rôle dans le champ **Rôle**."
 
 #: ../../calendars/toc.rst:197
 msgid "Click the **SHARE CALENDAR** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **PARTAGER LE CALENDRIER**."
 
 #: ../../calendars/toc.rst:199
 msgid ""
@@ -3894,7 +3977,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:258
 msgid "Remove a Colleague's Shared Calendars from Your List"
-msgstr ""
+msgstr "Supprimer les calendriers partagés d'un collègue de votre liste"
 
 #: ../../calendars/toc.rst:260
 msgid "To remove a colleague’s shared calendar from your calendars list:"
@@ -3956,6 +4039,8 @@ msgid ""
 "You can also export a calendar in .ics format directly from your Carbonio"
 " web client calendar. To do so:"
 msgstr ""
+"Vous pouvez également exporter un calendrier au format .ics directement "
+"depuis le calendrier du client Web de Carbonio. Pour cela :"
 
 #: ../../calendars/toc.rst:287
 msgid "In the Navigation Panel, right-click on \"Calendar\" you want to export."
@@ -4063,11 +4148,13 @@ msgstr ""
 #: ../../chats(wsc)/toc.rst:173
 msgid "Select the **Chats**  feature from your left sidebar."
 msgstr ""
+"Sélectionnez la fonctionnalité **Chats** dans votre barre latérale gauche."
 
 #: ../../chats(wsc)/toc.rst:44 ../../chats(wsc)/toc.rst:57
 #: ../../chats/toc.rst:46 ../../chats/toc.rst:59
 msgid "Select the chat in which you want to send the file."
 msgstr ""
+"Sélectionnez la conversation dans laquelle vous souhaitez envoyer le fichier."
 
 #: ../../chats(wsc)/toc.rst:45 ../../chats(wsc)/toc.rst:58
 #: ../../chats/toc.rst:47 ../../chats/toc.rst:60
@@ -4075,85 +4162,97 @@ msgid ""
 "Click on the paperclip icon located in the chat box at the bottom of the "
 "page."
 msgstr ""
+"Cliquez sur l'icône de trombone située dans la boîte de chat en bas de page."
 
 #: ../../chats(wsc)/toc.rst:46 ../../chats/toc.rst:48
 msgid "Select **Add from local**. A new window appears."
 msgstr ""
+"Sélectionnez **Ajouter à partir du local**. Une nouvelle fenêtre apparaît."
 
 #: ../../chats(wsc)/toc.rst:47 ../../chats/toc.rst:49
 msgid ""
 "Choose the file from your computer by navigating through the opened "
 "window."
 msgstr ""
+"Choisissez le fichier sur votre ordinateur en naviguant dans la fenêtre "
+"ouverte."
 
 #: ../../chats(wsc)/toc.rst:48 ../../chats/toc.rst:50
 msgid "Click **Open** to attach the file to your message."
-msgstr ""
+msgstr "Cliquez sur **Ouvrir** pour joindre le fichier à votre message."
 
 #: ../../chats(wsc)/toc.rst:51 ../../chats/toc.rst:53
 msgid "Sending Files from Carbonio Files in Chats"
-msgstr ""
+msgstr "Envoyer des fichiers à partir de Carbonio Files dans les conversations"
 
 #: ../../chats(wsc)/toc.rst:53 ../../chats/toc.rst:55
 msgid ""
 "You can use Chats to send a file directly from Carbonio Files to a chat. "
 "Here is how:"
 msgstr ""
+"Vous pouvez utiliser les conversations pour envoyer un fichier directement à "
+"partir de Carbonio Files dans une conversation. Voici comment procéder :"
 
 #: ../../chats(wsc)/toc.rst:59 ../../chats/toc.rst:61
 msgid "Select **Attach public link from Files**. A new window appears."
 msgstr ""
+"Sélectionnez **Joindre le lien public depuis les fichiers**. Une nouvelle "
+"fenêtre apparaît."
 
 #: ../../chats(wsc)/toc.rst:60 ../../chats/toc.rst:62
 msgid "Choose the file by navigating through the opened window."
-msgstr ""
+msgstr "Choisissez le fichier en naviguant dans la fenêtre ouverte."
 
 #: ../../chats(wsc)/toc.rst:61
 msgid "Click **SHARE PUBLIC LINK**."
-msgstr ""
+msgstr "Cliquez sur **PARTAGER LE LIEN PUBLIC**."
 
 #: ../../chats(wsc)/toc.rst:63 ../../chats/toc.rst:65
 msgid ""
 "This process will automatically generate a public link for your file and "
 "send it into the chat."
 msgstr ""
+"Ce processus générera automatiquement un lien public pour votre fichier et "
+"l'envoyez dans la conversation."
 
 #: ../../chats(wsc)/toc.rst:66 ../../chats/toc.rst:68
 msgid "Edit A Message"
-msgstr ""
+msgstr "Modifier un message"
 
 #: ../../chats(wsc)/toc.rst:68 ../../chats/toc.rst:70
 msgid "To edit a message:"
-msgstr ""
+msgstr "Pour modifier un message :"
 
 #: ../../chats(wsc)/toc.rst:70 ../../chats(wsc)/toc.rst:81
 #: ../../chats(wsc)/toc.rst:90 ../../chats(wsc)/toc.rst:101
 #: ../../chats/toc.rst:72 ../../chats/toc.rst:83 ../../chats/toc.rst:92
 #: ../../chats/toc.rst:102
 msgid "Click on the downward arrow located next to the message bubble."
-msgstr ""
+msgstr "Cliquez sur la flèche descendante située à côté de la bulle de message."
 
 #: ../../chats(wsc)/toc.rst:72 ../../chats/toc.rst:74
 msgid "Edit the message and hit enter."
-msgstr ""
+msgstr "Modifiez le message et appuyez sur la touche Entrée."
 
 #: ../../chats(wsc)/toc.rst:74 ../../chats/toc.rst:76
 msgid ""
 "You have only a five-minute window to edit a message. After that, you "
 "will not be able to do so, and the edit option will disappear."
 msgstr ""
+"Vous avez une fenêtre de cinq minutes pour modifier un message. Après cela, "
+"vous ne pourrez plus le faire et l'option de modification disparaîtra."
 
 #: ../../chats(wsc)/toc.rst:77 ../../chats/toc.rst:79
 msgid "Reply A Message"
-msgstr ""
+msgstr "Répondre à un message"
 
 #: ../../chats(wsc)/toc.rst:79 ../../chats/toc.rst:81
 msgid "To reply to a message:"
-msgstr ""
+msgstr "Pour répondre à un message :"
 
 #: ../../chats(wsc)/toc.rst:82 ../../chats/toc.rst:84
 msgid "Select **Reply** from the drop-down menu."
-msgstr ""
+msgstr "Sélectionnez **Répondre** dans le menu déroulant."
 
 #: ../../chats(wsc)/toc.rst:83 ../../chats/toc.rst:85
 msgid "Write the reply and hit enter."
@@ -4189,7 +4288,7 @@ msgstr ""
 
 #: ../../chats(wsc)/toc.rst:102
 msgid "Select **Delete for all** from the drop-down menu."
-msgstr ""
+msgstr "Sélectionnez **Supprimer pour tous** dans le menu déroulant."
 
 #: ../../chats(wsc)/toc.rst:104 ../../chats/toc.rst:106
 msgid ""
@@ -4314,6 +4413,9 @@ msgid ""
 "history** to allow members to view previous messages. Otherwise, they "
 "will not be able to see them."
 msgstr ""
+"Vous pouvez activer la case à cocher **Afficher l'historique des "
+"conversations précédentes** pour permettre aux membres de consulter les "
+"messages précédents. Sinon, ils ne pourront pas les voir."
 
 #: ../../chats(wsc)/toc.rst:159 ../../chats/toc.rst:159
 msgid "Remove Participants from a Group"
@@ -4337,93 +4439,104 @@ msgstr ""
 
 #: ../../chats(wsc)/toc.rst:164
 msgid "Select the group to which you want to remove members."
-msgstr ""
+msgstr "Sélectionnez le groupe dont vous souhaitez supprimer les membres."
 
 #: ../../chats(wsc)/toc.rst:165
 msgid ""
 "On the right side of the Main Panel, under the Members section, click on "
 "the trash icon next to the user you want to remove."
 msgstr ""
+"Sur le côté droit du panneau principal, dans la section Membres, cliquez sur "
+"l'icône de la poubelle à côté de l'utilisateur que vous souhaitez supprimer."
 
 #: ../../chats(wsc)/toc.rst:166 ../../chats/toc.rst:166
 msgid "Click **REMOVE** to confirm."
-msgstr ""
+msgstr "Cliquez sur **SUPPRIMER** pour confirmer."
 
 #: ../../chats(wsc)/toc.rst:169 ../../chats/toc.rst:169
 msgid "Leave Group"
-msgstr ""
+msgstr "Quitter un groupe"
 
 #: ../../chats(wsc)/toc.rst:171 ../../chats/toc.rst:171
 msgid "To leave a group:"
-msgstr ""
+msgstr "Pour quitter un groupe :"
 
 #: ../../chats(wsc)/toc.rst:174 ../../chats/toc.rst:174
 msgid "Select the group you want to leave."
-msgstr ""
+msgstr "Sélectionnez le groupe que vous souhaitez quitter."
 
 #: ../../chats(wsc)/toc.rst:175
 msgid ""
 "On the right side of the Main Panel, under the Actions section, click "
 "**Leave Group**."
 msgstr ""
+"Sur le côté droit du panneau principal, sous la section Actions, cliquez sur "
+"**Quitter le groupe**."
 
 #: ../../chats(wsc)/toc.rst:176 ../../chats/toc.rst:176
 msgid "Click **LEAVE** to confirm."
-msgstr ""
+msgstr "Cliquez sur **QUITTER** pour confirmer."
 
 #: ../../chats(wsc)/toc.rst:179 ../../chats/toc.rst:179
 msgid "Assigning Moderators for A Group"
-msgstr ""
+msgstr "Attribuer des modérateurs pour un groupe"
 
 #: ../../chats(wsc)/toc.rst:181 ../../chats/toc.rst:181
 msgid ""
 "If you are already a moderator, you can assign other moderators to a "
 "group. Here is how:"
 msgstr ""
+"Si vous êtes déjà modérateur, vous pouvez attribuer d'autres modérateurs à "
+"un groupe. Voici comment procéder :"
 
 #: ../../chats(wsc)/toc.rst:184 ../../chats/toc.rst:184
 msgid "Select the group to which you want to add a moderator."
-msgstr ""
+msgstr "Sélectionnez le groupe auquel vous souhaitez ajouter un modérateur."
 
 #: ../../chats(wsc)/toc.rst:185
 msgid ""
 "On the right side of the Main Panel, under the Members section, click on "
 "the crown icon next to the user you want to appoint as a moderator."
 msgstr ""
+"Sur le côté droit du panneau principal, sous la section Membres, cliquez sur "
+"l'icône de couronne à côté de l'utilisateur que vous souhaitez nommer "
+"modérateur."
 
 #: ../../chats(wsc)/toc.rst:188
 msgid "Edit a Group's Name or Topic"
-msgstr ""
+msgstr "Éditer le nom ou le sujet d'un groupe"
 
 #: ../../chats(wsc)/toc.rst:190 ../../chats/toc.rst:190
 msgid "To edit a group’s name:"
-msgstr ""
+msgstr "Pour éditer le nom d'un groupe :"
 
 #: ../../chats(wsc)/toc.rst:193 ../../chats/toc.rst:193
 msgid "Select the group for which you want to change the name."
-msgstr ""
+msgstr "Sélectionnez le groupe pour lequel vous souhaitez modifier le nom."
 
 #: ../../chats(wsc)/toc.rst:194
 msgid ""
 "On the right side of the Main Panel, under the Actions section, click on "
 "the Edit details."
 msgstr ""
+"Sur le côté droit du panneau principal, sous la section Actions, cliquez sur "
+"Éditer les détails."
 
 #: ../../chats(wsc)/toc.rst:195
 msgid "Edit the name or topic."
-msgstr ""
+msgstr "Éditez le nom ou le sujet."
 
 #: ../../chats(wsc)/toc.rst:196 ../../chats/toc.rst:196
 msgid "Press the save icon on the right."
-msgstr ""
+msgstr "Appuyez sur l'icône d'enregistrement sur la droite."
 
 #: ../../chats(wsc)/toc.rst:200 ../../chats/toc.rst:204
 msgid "Search for A Member in Your Chats List"
-msgstr ""
+msgstr "Rechercher un membre dans votre liste de discussions"
 
 #: ../../chats(wsc)/toc.rst:202 ../../chats/toc.rst:206
 msgid "To search for a colleague in your chat list:"
-msgstr ""
+msgstr "Pour rechercher un collègue dans votre liste de discussions :"
 
 #: ../../chats(wsc)/toc.rst:205
 msgid "In the Type to filter list field, insert your colleague's name."
@@ -4436,10 +4549,13 @@ msgstr ""
 #: ../../chats(wsc)/toc.rst:210
 msgid "If needed, you have the chance to export all the chats from your account."
 msgstr ""
+"Si nécessaire, vous avez la possibilité d'exporter toutes les discussions de "
+"votre compte."
 
 #: ../../chats(wsc)/toc.rst:212
 msgid "To export a chat simply:"
 msgstr ""
+"Pour exporter une conversation, procédez simplement de la façon suivante :"
 
 #: ../../chats(wsc)/toc.rst:214
 msgid "Open Chats settings, clicking on gear icon in the left bar"
@@ -4470,6 +4586,11 @@ msgid ""
 "in centralized messaging, facilitating real-time discussions and "
 "enhancing collaborative efforts."
 msgstr ""
+"Dans le client Web de Carbonio, les discussions sont un outil de "
+"communication essentiel, accueillant à la fois des conversations en un "
+"contre un et des conversations de groupe. Les utilisateurs peuvent engager "
+"des discussions de messagerie centralisées, facilitant les discussions en "
+"temps réel et améliorant les efforts de collaboration."
 
 #: ../../chats/toc.rst:16
 msgid ""
@@ -4479,6 +4600,8 @@ msgid ""
 "productivity regardless of their location, whether remote or in the "
 "office."
 msgstr ""
+"Que ce soit pour partager des mises à jour, échanger des idées ou coordonner "
+"des tâches, les discussions offrent une plate-forme"
 
 #: ../../chats/toc.rst:31
 msgid ""
@@ -4498,14 +4621,18 @@ msgstr ""
 #: ../../files/toc.rst:42 ../../files/toc.rst:162 ../../files/toc.rst:173
 msgid "From the top bar, click the **downward arrow** next to the **NEW** button."
 msgstr ""
+"Dans la barre du haut, cliquez sur la **flèche descendante** à côté du "
+"bouton **NOUVEAU**."
 
 #: ../../chats/toc.rst:136
 msgid "Select **Create Group** from the drop-down menu. A new window appears."
 msgstr ""
+"Sélectionnez **Créer un groupe** dans le menu déroulant. Une nouvelle "
+"fenêtre apparaît."
 
 #: ../../chats/toc.rst:137
 msgid "Insert a name for the group."
-msgstr ""
+msgstr "Insérez un nom pour le groupe."
 
 #: ../../chats/toc.rst:138
 msgid ""
@@ -4536,7 +4663,7 @@ msgstr ""
 
 #: ../../chats/toc.rst:188
 msgid "Edit a Group's Name"
-msgstr ""
+msgstr "Modifier le nom d'un groupe"
 
 #: ../../chats/toc.rst:194
 msgid ""
@@ -4576,6 +4703,9 @@ msgid ""
 "composer and how to use its various features including working with "
 "attachments, addressing emails, using account personas, etc."
 msgstr ""
+"Dans cette section, vous découvrirez comment naviguer dans le compositeur "
+"d'e-mail de Carbonio et comment utiliser ses différentes fonctionnalités, "
+"notamment le travail avec les pièces jointes, l'adresse"
 
 #: ../../composing_emails/toc.rst:12
 msgid "Composing a New Email"
@@ -4623,11 +4753,11 @@ msgstr ""
 
 #: ../../composing_emails/toc.rst:25
 msgid "A copy of the sent email is stored in your Sent folder."
-msgstr ""
+msgstr "Une copie de l'email envoyé est stockée dans votre dossier Envoyé."
 
 #: ../../composing_emails/toc.rst:32
 msgid "Disabling / Enabling Rich Text Editor"
-msgstr ""
+msgstr "Désactiver / Activer l'éditeur de texte enrichi"
 
 #: ../../composing_emails/toc.rst:34
 msgid ""
@@ -4663,7 +4793,7 @@ msgstr ""
 
 #: ../../composing_emails/toc.rst:44
 msgid "Addressing Emails"
-msgstr ""
+msgstr "Adresse des emails"
 
 #: ../../composing_emails/toc.rst:46
 msgid ""
@@ -4757,7 +4887,7 @@ msgstr ""
 
 #: ../../composing_emails/toc.rst:83
 msgid "Adding Attachments"
-msgstr ""
+msgstr "Ajouter des pièces jointes"
 
 #: ../../composing_emails/toc.rst:85
 msgid ""
@@ -4771,11 +4901,11 @@ msgstr ""
 
 #: ../../composing_emails/toc.rst:89 ../../composing_emails/toc.rst:97
 msgid "Click on the paperclip icon."
-msgstr ""
+msgstr "Cliquez sur l'icône de trombone."
 
 #: ../../composing_emails/toc.rst:90
 msgid "Select Add from local."
-msgstr ""
+msgstr "Sélectionnez Ajouter à partir du local."
 
 #: ../../composing_emails/toc.rst:91
 msgid "A new window appears, and you can select desired files from your computer."
@@ -5243,111 +5373,128 @@ msgid ""
 "Locate and right-click on the contact you wish to edit from the main "
 "panel."
 msgstr ""
+"Localisez et faites un clic droit sur le contact que vous souhaitez modifier "
+"à partir du panneau principal."
 
 #: ../../contacts/toc.rst:72
 msgid "Choose the tag you wish to assign to the contact from the drop-down menu."
 msgstr ""
+"Sélectionnez le tag que vous souhaitez attribuer au contact dans le menu "
+"déroulant."
 
 #: ../../contacts/toc.rst:75
 msgid "Deleting a Contact"
-msgstr ""
+msgstr "Suppression d'un contact"
 
 #: ../../contacts/toc.rst:77
 msgid "To delete an existing contact:"
-msgstr ""
+msgstr "Pour supprimer un contact existant :"
 
 #: ../../contacts/toc.rst:81
 msgid ""
 "Locate and right-click on the contact you wish to delete from the main "
 "panel."
 msgstr ""
+"Localisez et faites un clic droit sur le contact que vous souhaitez "
+"supprimer à partir du panneau principal."
 
 #: ../../contacts/toc.rst:82
 msgid "Click on the **Delete** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **Supprimer**."
 
 #: ../../contacts/toc.rst:85
 msgid "Adding an Address Book"
-msgstr ""
+msgstr "Ajout d'un carnet d'adresses"
 
 #: ../../contacts/toc.rst:87
 msgid "To add an address book:"
-msgstr ""
+msgstr "Pour ajouter un carnet d'adresses :"
 
 #: ../../contacts/toc.rst:90
 msgid ""
 "In the Navigation Panel, right-click on the address book where you want "
 "to add the address book."
 msgstr ""
+"Dans le panneau de navigation, faites un clic droit sur le carnet d'adresses "
+"où vous souhaitez ajouter le carnet d'adresses."
 
 #: ../../contacts/toc.rst:91
 msgid "Select **New address Book**. A new board will appear."
 msgstr ""
+"Sélectionnez **Nouveau carnet d'adresses**. Un nouveau panneau apparaîtra."
 
 #: ../../contacts/toc.rst:92
 msgid "Add a name for the address book."
-msgstr ""
+msgstr "Ajoutez un nom pour le carnet d'adresses."
 
 #: ../../contacts/toc.rst:100
 msgid "Moving a Contact Between Address Books"
-msgstr ""
+msgstr "Déplacement d'un contact entre carnets d'adresses"
 
 #: ../../contacts/toc.rst:102
 msgid "To move a contact between address books:"
-msgstr ""
+msgstr "Pour déplacer un contact entre carnets d'adresses :"
 
 #: ../../contacts/toc.rst:105
 msgid ""
 "In the Navigation Panel, click on the address book that contains the "
 "contact you wish to move."
 msgstr ""
+"Dans le panneau de navigation, cliquez sur le carnet d'adresses qui contient "
+"le contact que vous souhaitez déplacer."
 
 #: ../../contacts/toc.rst:106
 msgid "Right-click on the contact you wish to move."
-msgstr ""
+msgstr "Faites un clic droit sur le contact que vous souhaitez déplacer."
 
 #: ../../contacts/toc.rst:107 ../../contacts/toc.rst:118
 #: ../../files/toc.rst:214
 msgid "Select **Move** from the drop-down menu. A new window appears."
 msgstr ""
+"Sélectionnez **Déplacer** dans le menu déroulant. Une nouvelle fenêtre "
+"apparaîtra."
 
 #: ../../contacts/toc.rst:108
 msgid "Select the destination address book."
-msgstr ""
+msgstr "Sélectionnez le carnet d'adresses de destination."
 
 #: ../../contacts/toc.rst:109 ../../contacts/toc.rst:120
 #: ../../files/toc.rst:216
 msgid "Click the **MOVE** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **Déplacer**."
 
 #: ../../contacts/toc.rst:112
 msgid "Moving an Address Book"
-msgstr ""
+msgstr "Déplacement d'un carnet d'adresses"
 
 #: ../../contacts/toc.rst:114
 msgid "To move an address book:"
-msgstr ""
+msgstr "Pour déplacer un carnet d'adresses :"
 
 #: ../../contacts/toc.rst:117
 msgid "In the Navigation Panel, right-click on the address book you wish to move."
 msgstr ""
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
+"d'adresses que vous souhaitez déplacer."
 
 #: ../../contacts/toc.rst:119
 msgid "Select the destination."
-msgstr ""
+msgstr "Sélectionnez la destination."
 
 #: ../../contacts/toc.rst:123
 msgid "Editing an Address Book"
-msgstr ""
+msgstr "Édition d'un carnet d'adresses"
 
 #: ../../contacts/toc.rst:125
 msgid "To edit an address book:"
-msgstr ""
+msgstr "Pour éditer un carnet d'adresses :"
 
 #: ../../contacts/toc.rst:128 ../../contacts/toc.rst:139
 #: ../../contacts/toc.rst:153
 msgid "In the Navigation Panel, right-click on the address book you wish to edit."
 msgstr ""
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
+"d'adresses que vous souhaitez éditer."
 
 #: ../../contacts/toc.rst:129 ../../contacts/toc.rst:140
 #: ../../contacts/toc.rst:154
@@ -5355,66 +5502,73 @@ msgid ""
 "Select **Edit address book** from the drop-down menu. A new window "
 "appears."
 msgstr ""
+"Sélectionnez **Éditer le carnet d'adresses** dans le menu déroulant. Une "
+"nouvelle fenêtre apparaît."
 
 #: ../../contacts/toc.rst:130
 msgid "Make the desired changes."
-msgstr ""
+msgstr "Effectuez les modifications souhaitées."
 
 #: ../../contacts/toc.rst:131 ../../contacts/toc.rst:156
 msgid "Click the **EDIT** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **ÉDITER**."
 
 #: ../../contacts/toc.rst:134
 msgid "Sharing an Address Book"
-msgstr ""
+msgstr "Partage d'un carnet d'adresses"
 
 #: ../../contacts/toc.rst:136
 msgid "To share an address book:"
-msgstr ""
+msgstr "Pour partager un carnet d'adresses :"
 
 #: ../../contacts/toc.rst:141
 msgid "Click on **ADD SHARE** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **AJOUTER UN PARTAGE**."
 
 #: ../../contacts/toc.rst:142
 msgid ""
 "Insert email addresses you want to share the address book with, and "
 "assign them the role."
 msgstr ""
+"Insérez les adresses e-mail avec lesquelles vous souhaitez partager le "
+"carnet d'adresses et attribuez-leur un rôle."
 
 #: ../../contacts/toc.rst:148
 msgid "Assigning a Color to an Address Book"
-msgstr ""
+msgstr "Attribution d'une couleur à un carnet d'adresses"
 
 #: ../../contacts/toc.rst:150
 msgid "To assign a color to an address book:"
-msgstr ""
+msgstr "Pour attribuer une couleur à un carnet d'adresses :"
 
 #: ../../contacts/toc.rst:155
 msgid "Select the desired color from the **Select Color field**."
 msgstr ""
+"Sélectionnez la couleur souhaitée dans le champ **Sélectionner une couleur**."
 
 #: ../../contacts/toc.rst:159
 msgid "Deleting an Address Book"
-msgstr ""
+msgstr "Suppression d'un carnet d'adresses"
 
 #: ../../contacts/toc.rst:161
 msgid "To delete an address book:"
-msgstr ""
+msgstr "Pour supprimer un carnet d'adresses :"
 
 #: ../../contacts/toc.rst:164
 msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "delete."
 msgstr ""
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
+"d'adresses que vous souhaitez supprimer."
 
 #: ../../contacts/toc.rst:165
 msgid "Select **Delete address book** from the drop-down menu."
-msgstr ""
+msgstr "Sélectionnez **Supprimer le carnet d'adresses** dans le menu déroulant."
 
 #: ../../contacts/toc.rst:169
 msgid "Creating a Contact Group"
-msgstr ""
+msgstr "Création d'un groupe de contacts"
 
 #: ../../contacts/toc.rst:171
 msgid ""
@@ -5571,7 +5725,7 @@ msgstr ""
 
 #: ../../contacts/toc.rst:245
 msgid "Export an Address Book as a CSV File"
-msgstr ""
+msgstr "Exporter un carnet d'adresses au format CSV"
 
 #: ../../contacts/toc.rst:247
 msgid ""
@@ -5599,7 +5753,7 @@ msgstr ""
 
 #: ../../contacts/toc.rst:258
 msgid "Import a CSV File as an Address Book"
-msgstr ""
+msgstr "Importer un fichier CSV comme carnet d'adresses"
 
 #: ../../contacts/toc.rst:260
 msgid ""
@@ -5672,7 +5826,7 @@ msgstr ""
 
 #: ../../files/toc.rst:29
 msgid "To create a folder in Files:"
-msgstr ""
+msgstr "Pour créer un dossier dans les fichiers :"
 
 #: ../../files/toc.rst:31 ../../files/toc.rst:97 ../../files/toc.rst:117
 #: ../../files/toc.rst:130 ../../files/toc.rst:142 ../../files/toc.rst:160
@@ -5687,38 +5841,44 @@ msgstr ""
 #: ../../files/toc.rst:33 ../../files/toc.rst:43
 msgid "Select **New Folder** from the drop-down menu. A new board will appear."
 msgstr ""
+"Sélectionnez **Nouveau dossier** dans le menu déroulant. Un nouveau panneau "
+"apparaîtra."
 
 #: ../../files/toc.rst:34 ../../files/toc.rst:44
 msgid "Insert a name for the folder."
-msgstr ""
+msgstr "Insérez un nom pour le dossier."
 
 #: ../../files/toc.rst:37
 msgid ""
 "The new folder is displayed in the main panel among the list of files and"
 " folders."
 msgstr ""
+"Le nouveau dossier est affiché dans le panneau principal parmi la liste des "
+"fichiers et des dossiers."
 
 #: ../../files/toc.rst:39
 msgid "If you wish to create a new folder within another folder, simply:"
 msgstr ""
+"Si vous souhaitez créer un nouveau dossier à l'intérieur d'un autre dossier, "
+"procédez simplement comme suit :"
 
 #: ../../files/toc.rst:41
 msgid "Navigate to the folder where you intend to create a new folder."
-msgstr ""
+msgstr "Accédez au dossier dans lequel vous souhaitez créer un nouveau dossier."
 
 #: ../../files/toc.rst:52
 msgid "Adding a File from Your Computer"
-msgstr ""
+msgstr "Ajout d'un fichier depuis votre ordinateur"
 
 #: ../../files/toc.rst:54
 msgid "To upload document files from your computer:"
-msgstr ""
+msgstr "Pour télécharger des fichiers de documents depuis votre ordinateur :"
 
 #: ../../files/toc.rst:56 ../../files/toc.rst:211 ../../files/toc.rst:386
 #: ../../files/toc.rst:408 ../../files/toc.rst:424 ../../files/toc.rst:435
 #: ../../files/toc.rst:448
 msgid "Select the **Files** feature from your left sidebar."
-msgstr ""
+msgstr "Sélectionnez la fonction **Fichiers** dans votre barre latérale gauche."
 
 #: ../../files/toc.rst:57
 msgid "Navigate to the folder where you intend to upload the file."
@@ -5730,7 +5890,7 @@ msgstr ""
 
 #: ../../files/toc.rst:59
 msgid "Select a file from the window."
-msgstr ""
+msgstr "Sélectionnez un fichier depuis la fenêtre."
 
 #: ../../files/toc.rst:62
 msgid ""
@@ -5771,47 +5931,54 @@ msgstr ""
 #: ../../files/toc.rst:73
 msgid "Select the folder where you want to save the attachment."
 msgstr ""
+"Sélectionnez le dossier dans lequel vous souhaitez enregistrer le fichier "
+"joint."
 
 #: ../../files/toc.rst:81
 msgid "Downloading a File on Your Computer"
-msgstr ""
+msgstr "Téléchargement d'un fichier sur votre ordinateur"
 
 #: ../../files/toc.rst:83
 msgid "To download a file on your computer:"
-msgstr ""
+msgstr "Pour télécharger un fichier sur votre ordinateur :"
 
 #: ../../files/toc.rst:85
 msgid "Select the Files feature from your left sidebar."
-msgstr ""
+msgstr "Sélectionnez la fonction **Fichiers** dans votre barre latérale gauche."
 
 #: ../../files/toc.rst:86
 msgid "Navigate to the folder that contains the file you want to download."
 msgstr ""
+"Accédez au dossier qui contient le fichier que vous souhaitez télécharger."
 
 #: ../../files/toc.rst:87 ../../files/toc.rst:144 ../../files/toc.rst:213
 #: ../../files/toc.rst:227 ../../files/toc.rst:239 ../../files/toc.rst:339
 msgid "Right-click on the file."
-msgstr ""
+msgstr "Faites un clic droit sur le fichier."
 
 #: ../../files/toc.rst:88
 msgid "Select Download from the drop-down menu. A new window appears."
 msgstr ""
+"Sélectionnez **Télécharger** dans le menu déroulant. Une nouvelle fenêtre "
+"apparaît."
 
 #: ../../files/toc.rst:89
 msgid "Select the folder on your computer where you want to download the file."
 msgstr ""
+"Sélectionnez le dossier de votre ordinateur dans lequel vous souhaitez "
+"télécharger le fichier."
 
 #: ../../files/toc.rst:90
 msgid "Click the Save button."
-msgstr ""
+msgstr "Cliquez sur le bouton **Enregistrer**."
 
 #: ../../files/toc.rst:93
 msgid "Deleting a File or a Folder"
-msgstr ""
+msgstr "Suppression d'un fichier ou d'un dossier"
 
 #: ../../files/toc.rst:95
 msgid "To delete a file or folder from your Files:"
-msgstr ""
+msgstr "Pour supprimer un fichier ou un dossier de vos Fichiers :"
 
 #: ../../files/toc.rst:98
 msgid ""
@@ -5831,7 +5998,7 @@ msgstr ""
 
 #: ../../files/toc.rst:104
 msgid "If you want to remove the file permanently:"
-msgstr ""
+msgstr "Si vous souhaitez supprimer définitivement le fichier :"
 
 #: ../../files/toc.rst:106 ../../files/toc.rst:118
 msgid "Click on the downward arrow next to the **Trash folder**."
@@ -5963,7 +6130,7 @@ msgstr ""
 
 #: ../../files/toc.rst:165 ../../files/toc.rst:176
 msgid "Insert a name for the file."
-msgstr ""
+msgstr "Insérez un nom pour le fichier."
 
 #: ../../files/toc.rst:167 ../../files/toc.rst:178
 msgid ""
@@ -5977,19 +6144,23 @@ msgstr ""
 
 #: ../../files/toc.rst:174
 msgid "Select **New spreadsheet** from the drop-down menu."
-msgstr ""
+msgstr "Sélectionnez **Nouvelle feuille de calcul** dans le menu déroulant."
 
 #: ../../files/toc.rst:175
 msgid ""
 "Select the file format choosing either OpenDocument (.ods) or Microsoft "
 "(.xlsx) from the menu. A new window appears."
 msgstr ""
+"Sélectionnez le format de fichier en choisissant OpenDocument (.ods) ou "
+"Microsoft (.xlsx) dans le menu. Une nouvelle fenêtre s'ouvre."
 
 #: ../../files/toc.rst:180
 msgid ""
 "You can double-click on it to open the editor in another browser tab and "
 "begin editing the file online."
 msgstr ""
+"Vous pouvez double-cliquer dessus pour ouvrir l'éditeur dans un autre onglet "
+"du navigateur et commencer à modifier le fichier en ligne."
 
 #: ../../files/toc.rst:182
 msgid ""
@@ -5998,6 +6169,11 @@ msgid ""
 "OpenDocument files (.odt, .ods, .odp) adhere to an open standard and are "
 "compatible with open-source office suites like LibreOffice."
 msgstr ""
+"La principale différence entre OpenDocument et les fichiers Microsoft réside "
+"dans leurs formats de fichiers et les logiciels utilisés pour les créer et "
+"les éditer. Les fichiers OpenDocument (.odt, .ods, .odp) suivent une norme "
+"ouverte et sont compatibles avec les suites bureautiques open source comme "
+"LibreOffice."
 
 #: ../../files/toc.rst:184
 msgid ""
@@ -6013,6 +6189,8 @@ msgid ""
 "Users typically choose between them based on software preference and "
 "collaboration requirements."
 msgstr ""
+"Les utilisateurs choisissent généralement l'un ou l'autre en fonction de "
+"leurs préférences logicielles et des exigences de collaboration."
 
 #: ../../files/toc.rst:189
 msgid "Editing a File Online"
@@ -6031,11 +6209,11 @@ msgstr ""
 
 #: ../../files/toc.rst:196
 msgid "Double-click on the file."
-msgstr ""
+msgstr "Double-cliquez sur le fichier."
 
 #: ../../files/toc.rst:198
 msgid "A new tab will open in your browser for editing."
-msgstr ""
+msgstr "Un nouvel onglet s'ouvrira dans votre navigateur pour la modification."
 
 #: ../../files/toc.rst:200
 msgid ""
@@ -6043,6 +6221,10 @@ msgid ""
 "formatting such as font styles, sizes, and colors. Additionally, you can "
 "add images, tables, and other objects to enhance the document's content."
 msgstr ""
+"Pour les documents texte, vous avez diverses options pour la modification, "
+"notamment la mise en forme du texte, tels que les styles de police, les "
+"tailles et les couleurs. Vous pouvez également ajouter des images, des "
+"tableaux et d'autres objets pour améliorer le contenu du document."
 
 #: ../../files/toc.rst:202
 msgid ""
@@ -6063,11 +6245,11 @@ msgstr ""
 
 #: ../../files/toc.rst:207
 msgid "Moving a File between Folders"
-msgstr ""
+msgstr "Déplacer un fichier entre les dossiers"
 
 #: ../../files/toc.rst:209
 msgid "To move a file to another folder:"
-msgstr ""
+msgstr "Pour déplacer un fichier vers un autre dossier :"
 
 #: ../../files/toc.rst:215
 msgid "Select the folder where you want to move the file."
@@ -6106,29 +6288,33 @@ msgstr ""
 
 #: ../../files/toc.rst:233
 msgid "Flagging a File"
-msgstr ""
+msgstr "Marquer un fichier"
 
 #: ../../files/toc.rst:235
 msgid "To flag a file for future reference and make it stand out, you can:"
 msgstr ""
+"Pour marquer un fichier pour référence future et le faire ressortir, vous "
+"pouvez :"
 
 #: ../../files/toc.rst:238
 msgid "Navigate to the folder that contains the file you want to flag."
-msgstr ""
+msgstr "Accédez au dossier qui contient le fichier que vous souhaitez marquer."
 
 #: ../../files/toc.rst:240
 msgid "Select **Flag** from the drop-down menu."
-msgstr ""
+msgstr "Sélectionnez **Marquer** dans le menu déroulant."
 
 #: ../../files/toc.rst:242
 msgid ""
 "To remove the flag from the file, you can follow the same process and "
 "select **Unflag**."
 msgstr ""
+"Pour supprimer le marquage du fichier, vous pouvez suivre la même procédure "
+"et sélectionner **Supprimer le marquage**."
 
 #: ../../files/toc.rst:245
 msgid "Managing File Versioning"
-msgstr ""
+msgstr "Gestion des versions de fichier"
 
 #: ../../files/toc.rst:251
 msgid ""
@@ -6140,7 +6326,7 @@ msgstr ""
 
 #: ../../files/toc.rst:253
 msgid "To view the history of the file, you can follow these steps:"
-msgstr ""
+msgstr "Pour afficher l'historique du fichier, suivez ces étapes :"
 
 #: ../../files/toc.rst:256
 msgid "Navigate to the folder that contains the file you want to check."
@@ -6182,23 +6368,26 @@ msgstr ""
 #: ../../files/toc.rst:270 ../../files/toc.rst:283 ../../files/toc.rst:299
 #: ../../files/toc.rst:311 ../../files/toc.rst:326
 msgid "On the right side of the Main Panel, click **Versioning**."
-msgstr ""
+msgstr "Sur le côté droit du panneau principal, cliquez sur **Versioning**."
 
 #: ../../files/toc.rst:271
 msgid "Click the **UPLOAD VERSION** button. A new window appears."
 msgstr ""
+"Cliquez sur le bouton **TÉLÉCHARGER LA VERSION**. Une nouvelle fenêtre "
+"s'ouvre."
 
 #: ../../files/toc.rst:272
 msgid "Choose the new version of the file from the opened window."
 msgstr ""
+"Choisissez la nouvelle version du fichier à partir de la fenêtre ouverte."
 
 #: ../../files/toc.rst:276
 msgid "Restore a File to a Previous Version"
-msgstr ""
+msgstr "Restaurer un fichier à une version antérieure"
 
 #: ../../files/toc.rst:278
 msgid "To restore a file to a previous version:"
-msgstr ""
+msgstr "Pour restaurer un fichier à"
 
 #: ../../files/toc.rst:284
 msgid ""
@@ -6278,6 +6467,8 @@ msgid ""
 "Under the **Old versions** section, click on the **three vertical dots** "
 "next to the version you want to delete."
 msgstr ""
+"Dans la section **Anciennes versions**, cliquez sur les **trois points "
+"verticaux** à côté de la version que vous souhaitez supprimer."
 
 #: ../../files/toc.rst:328
 msgid "Click **Delete version** from the drop-down menu."
@@ -6301,6 +6492,8 @@ msgid ""
 "You can send files stored in your Files as attachments via email to your "
 "colleagues. To do so:"
 msgstr ""
+"Vous pouvez envoyer des fichiers stockés dans vos Fichiers en pièces jointes "
+"par e-mail à vos collègues. Pour ce faire :"
 
 #: ../../files/toc.rst:340
 msgid "Select **Send via e-mail** from the drop-down menu."
@@ -6361,6 +6554,8 @@ msgid ""
 "You can send this link while composing a new email and include it inside "
 "the message."
 msgstr ""
+"Vous pouvez envoyer ce lien lors de la composition d'un nouveau courrier "
+"électronique et le inclure dans le message."
 
 #: ../../files/toc.rst:362
 msgid "To send the link to external collaborators:"
@@ -6804,7 +6999,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:97
 msgid "> Click **LOGIN**.."
-msgstr ""
+msgstr "> Cliquez sur **CONNEXION**.."
 
 #: ../../get_started/toc.rst:101
 msgid "Using SAML to Sign In"
@@ -6882,7 +7077,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:126
 msgid "Using the Account Icon:"
-msgstr ""
+msgstr "En utilisant l'icône de compte :"
 
 #: ../../get_started/toc.rst:128
 msgid ""
@@ -6952,7 +7147,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:150
 msgid "If you forgot your password, follow these steps:"
-msgstr ""
+msgstr "Si vous avez oublié votre mot de passe, suivez ces étapes :"
 
 #: ../../get_started/toc.rst:157
 msgid "Click on the **Forget Password?** Button, from the login page."
@@ -7024,7 +7219,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:177
 msgid "Click on Change Password."
-msgstr ""
+msgstr "Cliquez sur Changer le mot de passe."
 
 #: ../../get_started/toc.rst:178
 msgid "Enter your **old password** along with your new password."
@@ -7837,10 +8032,17 @@ msgid ""
 " Windows or command+V on macOS. You can use the Arrow icon beside your "
 "room’s name to enter the room."
 msgstr ""
+"Vous pouvez utiliser l'icône de lien à côté du nom de votre salle pour "
+"copier le lien de la salle. Lorsque vous cliquez sur le bouton, le lien est "
+"copié dans le presse-papiers. Vous pouvez le coller n'importe où (par "
+"exemple dans un chat) en faisant un clic droit et en sélectionnant Coller, "
+"ou en utilisant le raccourci clavier CTRL+V sous Windows ou command+V sur "
+"macOS. Vous pouvez utiliser l'icône de la flèche à côté du nom de votre "
+"salle pour entrer dans la salle."
 
 #: ../../videomeetings(wsc)/toc.rst:34
 msgid "Managing Virtual Rooms"
-msgstr ""
+msgstr "Gestion des salles virtuelles"
 
 #: ../../videomeetings(wsc)/toc.rst:36
 msgid ""
@@ -7854,7 +8056,7 @@ msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:39
 msgid "To access and enter your virtual room, follow these steps:"
-msgstr ""
+msgstr "Pour accéder à votre salle virtuelle et y entrer, suivez ces étapes :"
 
 #: ../../videomeetings(wsc)/toc.rst:42 ../../videomeetings(wsc)/toc.rst:52
 #: ../../videomeetings(wsc)/toc.rst:64 ../../videomeetings(wsc)/toc.rst:85
@@ -8485,4 +8687,3 @@ msgstr ""
 
 #~ msgid "Your search results will appear on the left side of a list."
 #~ msgstr ""
-

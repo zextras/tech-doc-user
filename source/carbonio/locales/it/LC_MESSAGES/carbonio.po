@@ -8,12 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-12-16 16:50+0000\n"
+"Last-Translator: Gianluca Boiano <gianluca.boiano@zextras.com>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
-"Language-Team: it <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.8.3\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -1273,39 +1277,45 @@ msgstr ""
 "ciascuna identità/personaggio."
 
 #: ../../advanced_email_management/toc.rst:363
-
 #: ../../advanced_email_management/toc.rst:365
 msgid ""
 "S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for "
 "email encryption and signing, providing authentication, integrity, and "
 "non-repudiation for emails. Here’s how you can send S/MIME-signed emails:"
 msgstr ""
+"S/MIME (Secure/Multipurpose Internet Mail Extensions) è uno standard per la "
+"crittografia e la firma delle email, che fornisce autenticazione, integrità "
+"e non ripudiabilità per le email. Ecco come puoi inviare email firmate con S/"
+"MIME:"
 
 #: ../../advanced_email_management/toc.rst:370
 msgid "Select **Use Certificate to sign (S/MIME)** from the menu that appears."
 msgstr ""
+"Seleziona **Usa certificato per la firma (S/MIME)** dal menu che appare."
 
 #: ../../advanced_email_management/toc.rst:371
 msgid ""
 "Attach the certificate in the proper space (or just browse you documents "
 "to insert it)."
 msgstr ""
+"Allega il certificato nello spazio appropriato (o simplemente sfoglia i "
+"documenti per inserirlo)."
 
 #: ../../advanced_email_management/toc.rst:372
 msgid "Insert the **password** for the uploaded certificate."
-msgstr ""
+msgstr "Inserisci la **password** per il certificato caricato."
 
 #: ../../advanced_email_management/toc.rst:373
 msgid "Click **Upload** to insert the S/MIME signature."
-msgstr ""
+msgstr "Fai clic su **Carica** per inserire la firma S/MIME."
 
 #: ../../advanced_email_management/toc.rst:375
 msgid "You can now send your S/MIME-signed email."
-msgstr ""
+msgstr "Puoi ora inviare la tua email firmata con S/MIME."
 
 #: ../../advanced_email_management/toc.rst:379
 msgid "Creating Signatures"
-msgstr ""
+msgstr "Creazione di firme"
 
 #: ../../advanced_email_management/toc.rst:381
 msgid "To create a signature:"
@@ -4771,22 +4781,28 @@ msgid ""
 "You also have the option to create calendar groups, making it easier to "
 "search for certain shared calendars. To do this, simply:"
 msgstr ""
+"Puoi anche creare gruppi di calendari, facilitando la ricerca di calendari "
+"condivisi. Per fare ciò, basta semplicemente:"
 
 #: ../../calendars/toc.rst:227
 msgid "Click on **Create New Group** button."
-msgstr ""
+msgstr "Fai clic sul pulsante **Crea nuovo gruppo**."
 
 #: ../../calendars/toc.rst:228
 msgid ""
 "Enter the name of the group in the proper field of the new modal that "
 "appears."
 msgstr ""
+"Inserisci il nome del gruppo nel campo appropriato della nuova modale che "
+"appare."
 
 #: ../../calendars/toc.rst:229
 msgid ""
 "Select the calendars you wish to add to the group from the list, by "
 "simply searching for them."
 msgstr ""
+"Seleziona i calendari che desideri aggiungere al gruppo dalla lista, "
+"semplicemente cercandoli."
 
 #: ../../calendars/toc.rst:230
 #, fuzzy
@@ -4795,17 +4811,19 @@ msgstr "Clicca il bottone **SALVA** nell'angolo in alto a destra."
 
 #: ../../calendars/toc.rst:231
 msgid "Click the **REMOVE** button, if you have to remove some of them."
-msgstr ""
+msgstr "Fai clic sul pulsante **RIMUOVI**, se devi rimuovere alcuni di essi."
 
 #: ../../calendars/toc.rst:232
 msgid "Click the **CREATE GROUP** button."
-msgstr ""
+msgstr "Fare clic sul pulsante **CREA GRUPPO**."
 
 #: ../../calendars/toc.rst:234
 msgid ""
 "Now you can switch on and off the group everytime you need to see all the"
 " calendars of the users in that group."
 msgstr ""
+"Ora puoi attivare e disattivare il gruppo ogni volta che hai bisogno di "
+"visualizzare tutti i calendari degli utenti in quel gruppo."
 
 #: ../../calendars/toc.rst:237
 #, fuzzy
@@ -4832,6 +4850,8 @@ msgid ""
 "Make the necessary changes to the group name or the calendars included in"
 " the group."
 msgstr ""
+"Effettua le modifiche necessarie al nome del gruppo o ai calendari inclusi "
+"nel gruppo."
 
 #: ../../calendars/toc.rst:244
 #, fuzzy
@@ -4845,7 +4865,7 @@ msgstr "Lavorare con Calendari"
 
 #: ../../calendars/toc.rst:249
 msgid "To delete a calendar group, simply:"
-msgstr ""
+msgstr "Per eliminare un gruppo di calendario, semplicemente:"
 
 #: ../../calendars/toc.rst:251
 #, fuzzy
@@ -4854,17 +4874,19 @@ msgstr "Clic con tasto destro sulla cartella **Posta indesiderata**."
 
 #: ../../calendars/toc.rst:252
 msgid "Select **Delete permanently** option."
-msgstr ""
+msgstr "Seleziona l'opzione **Elimina definitivamente**."
 
 #: ../../calendars/toc.rst:253
 msgid ""
 "Confirm that you want to delete the group, by clicking on the red button "
 "**DELETE PERMANENTLY**"
 msgstr ""
+"Conferma di voler eliminare il gruppo facendo clic sul pulsante rosso **"
+"ELIMINA DEFINITIVAMENTE**"
 
 #: ../../calendars/toc.rst:254
 msgid "The group will be permanently deleted."
-msgstr ""
+msgstr "Il gruppo verrà cancellato definitivamente."
 
 #: ../../calendars/toc.rst:258
 msgid "Remove a Colleague's Shared Calendars from Your List"
@@ -11698,4 +11720,3 @@ msgstr "Clicca AGGIUNGI."
 #~ "by the domain name (e.g., "
 #~ "asterisk@domain.com)."
 #~ msgstr ""
-

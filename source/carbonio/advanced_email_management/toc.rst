@@ -359,6 +359,22 @@ Follow these steps to toggle the rich text editor on:
 
 When a signature is set, it will be visible at the end of the email you are composing. Additionally, you can effortlessly switch between identities /personas by selecting them from the top-left corner of the composing board, automatically applying the respective signatures assigned to each identity/persona.
 
+Sending S/MIME signed emails
+============================
+
+S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for email encryption and signing, providing authentication, integrity, and non-repudiation for emails. 
+Here’s how you can send S/MIME-signed emails:
+
+
+#.	Click on the **three vertical dots** located in the top-right corner of the compose board.
+#.	Select **Use Certificate to sign (S/MIME)** from the menu that appears.
+#.  Attach the certificate in the proper space (or just browse you documents to insert it).
+#.	Insert the **password** for the uploaded certificate.
+#.	Click **Upload** to insert the S/MIME signature.
+
+You can now send your S/MIME-signed email.
+
+
 Creating Signatures
 ===================
 

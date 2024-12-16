@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-21 09:34+0100\n"
+"POT-Creation-Date: 2024-12-16 16:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,13 +81,13 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:314
 #: ../../advanced_email_management/toc.rst:327
 #: ../../advanced_email_management/toc.rst:338
-#: ../../advanced_email_management/toc.rst:367
-#: ../../advanced_email_management/toc.rst:389
-#: ../../advanced_email_management/toc.rst:400
-#: ../../advanced_email_management/toc.rst:413
-#: ../../advanced_email_management/toc.rst:449
-#: ../../advanced_email_management/toc.rst:502
-#: ../../advanced_email_management/toc.rst:517
+#: ../../advanced_email_management/toc.rst:383
+#: ../../advanced_email_management/toc.rst:405
+#: ../../advanced_email_management/toc.rst:416
+#: ../../advanced_email_management/toc.rst:429
+#: ../../advanced_email_management/toc.rst:465
+#: ../../advanced_email_management/toc.rst:518
+#: ../../advanced_email_management/toc.rst:533
 #: ../../calendars/toc.rst:24
 #: ../../calendars/toc.rst:140
 #: ../../calendars/toc.rst:156
@@ -104,10 +104,10 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:315
 #: ../../advanced_email_management/toc.rst:328
 #: ../../advanced_email_management/toc.rst:339
-#: ../../advanced_email_management/toc.rst:368
-#: ../../advanced_email_management/toc.rst:390
-#: ../../advanced_email_management/toc.rst:401
-#: ../../advanced_email_management/toc.rst:414
+#: ../../advanced_email_management/toc.rst:384
+#: ../../advanced_email_management/toc.rst:406
+#: ../../advanced_email_management/toc.rst:417
+#: ../../advanced_email_management/toc.rst:430
 msgid "Select **Mails**."
 msgstr ""
 
@@ -747,6 +747,7 @@ msgid "Follow these steps to toggle the rich text editor on:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:357
+#: ../../advanced_email_management/toc.rst:369
 msgid "Click on the **three vertical dots** located in the top-right corner of the compose board."
 msgstr ""
 
@@ -759,306 +760,334 @@ msgid "When a signature is set, it will be visible at the end of the email you a
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:363
-msgid "Creating Signatures"
+msgid "Sending S/MIME signed emails"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:365
-msgid "To create a signature:"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:369
-msgid "Under the **Signatures** section, click **ADD SIGNATURE**."
+msgid "S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for email encryption and signing, providing authentication, integrity, and non-repudiation for emails. Here’s how you can send S/MIME-signed emails:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:370
-msgid "Provide a name for the signature in the designated field."
+msgid "Select **Use Certificate to sign (S/MIME)** from the menu that appears."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:371
-msgid "Utilize the rich text editor on the right side to compose your signature."
+msgid "Attach the certificate in the proper space (or just browse you documents to insert it)."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:372
-#: ../../advanced_email_management/toc.rst:393
-#: ../../advanced_email_management/toc.rst:404
-#: ../../advanced_email_management/toc.rst:416
-#: ../../advanced_email_management/toc.rst:455
-#: ../../advanced_email_management/toc.rst:506
-msgid "Click **SAVE** from the top-right corner."
+msgid "Insert the **password** for the uploaded certificate."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:374
-msgid "Anything composed in this section will automatically append to the end of your email as shown in the following example::"
+#: ../../advanced_email_management/toc.rst:373
+msgid "Click **Upload** to insert the S/MIME signature."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:375
+msgid "You can now send your S/MIME-signed email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:379
+msgid "Creating Signatures"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:381
+msgid "To create a signature:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:385
-msgid "Editing Signatures"
+msgid "Under the **Signatures** section, click **ADD SIGNATURE**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:386
+msgid "Provide a name for the signature in the designated field."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:387
-msgid "To edit a signature:"
+msgid "Utilize the rich text editor on the right side to compose your signature."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:391
-msgid "Under the **Signatures** section, click on the signature you want to edit."
+#: ../../advanced_email_management/toc.rst:388
+#: ../../advanced_email_management/toc.rst:409
+#: ../../advanced_email_management/toc.rst:420
+#: ../../advanced_email_management/toc.rst:432
+#: ../../advanced_email_management/toc.rst:471
+#: ../../advanced_email_management/toc.rst:522
+msgid "Click **SAVE** from the top-right corner."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:392
-msgid "Utilize the rich text editor on the right side to edit your signature."
+#: ../../advanced_email_management/toc.rst:390
+msgid "Anything composed in this section will automatically append to the end of your email as shown in the following example::"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:396
-msgid "Removing Signatures"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:398
-msgid "To remove a signature:"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:402
-msgid "Under the **Signatures section**, click on the signature you want to remove."
+#: ../../advanced_email_management/toc.rst:401
+msgid "Editing Signatures"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:403
-msgid "Hover your mouse cursor over the signature name. A red button labeled **DELETE** will appear. Click on it, and the signature will be removed."
+msgid "To edit a signature:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:407
-msgid "Assign Different Signatures to Different Identities / Personas"
+msgid "Under the **Signatures** section, click on the signature you want to edit."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:409
-msgid "You can personalize each account persona or identity with a unique signature. This ensures that when selecting an identity/persona while composing an email, the appropriate signature is automatically applied."
+#: ../../advanced_email_management/toc.rst:408
+msgid "Utilize the rich text editor on the right side to edit your signature."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:411
-msgid "To assign each identity/persona a signature:"
+#: ../../advanced_email_management/toc.rst:412
+msgid "Removing Signatures"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:415
-msgid "In the Signatures Usage section, choose a signature for each persona/identity from the dropdown menu provided."
+#: ../../advanced_email_management/toc.rst:414
+msgid "To remove a signature:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:418
-msgid "You can effortlessly switch between identities/personas by selecting them from the top-left corner of the composing board, automatically applying the respective signatures assigned to each identity/persona."
+msgid "Under the **Signatures section**, click on the signature you want to remove."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:421
-msgid "Changing Signature While Composing An Email"
+#: ../../advanced_email_management/toc.rst:419
+msgid "Hover your mouse cursor over the signature name. A red button labeled **DELETE** will appear. Click on it, and the signature will be removed."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:423
-msgid "If you have set two or more signatures, you can easily switch between them, while you are writing an email."
+msgid "Assign Different Signatures to Different Identities / Personas"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:425
-msgid "Just click on the **feather pen icon** on top of the composing tab and choose the one you want to use, between the different options in the list, based on the existing signatures. You can also choose *Do not use a signature* option, if you want to completely remove the signature from the current email."
+msgid "You can personalize each account persona or identity with a unique signature. This ensures that when selecting an identity/persona while composing an email, the appropriate signature is automatically applied."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:433
-msgid "Email Delegations"
+#: ../../advanced_email_management/toc.rst:427
+msgid "To assign each identity/persona a signature:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:435
-msgid "You can permit others to send emails on your behalf. When someone sends an email on your behalf, the recipient sees both your name and the sender's name. It is important to note that this is not the same as sharing your entire inbox. The sender operates from their email account when sending emails on your behalf, with your name selected from the From field drop-down menu as the sender."
+#: ../../advanced_email_management/toc.rst:431
+msgid "In the Signatures Usage section, choose a signature for each persona/identity from the dropdown menu provided."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:434
+msgid "You can effortlessly switch between identities/personas by selecting them from the top-left corner of the composing board, automatically applying the respective signatures assigned to each identity/persona."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:437
-msgid "Similarly, if you have been delegated permission to send emails on behalf of someone else, you can do so with their email address as the sender. In this case, the From address will display both your email address and the person you are representing. When you have been given authorization to send an email to that person, their email address appears in the menu, without including your address in the email."
+msgid "Changing Signature While Composing An Email"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:439
-msgid "Email delegation can be particularly useful in scenarios where you need someone else to handle your email correspondence on your behalf, such as when you are out of the office or managing multiple responsibilities. It allows for efficient management of emails without the need for direct access to your inbox, streamlining communication processes. This feature is especially handy for executives, assistants, or team members who need to act on behalf of others while maintaining clarity about the sender's identity."
+msgid "If you have set two or more signatures, you can easily switch between them, while you are writing an email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:443
-msgid "Delegating Others to Send Emails on Your Behalf"
+#: ../../advanced_email_management/toc.rst:441
+msgid "Just click on the **feather pen icon** on top of the composing tab and choose the one you want to use, between the different options in the list, based on the existing signatures. You can also choose *Do not use a signature* option, if you want to completely remove the signature from the current email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:445
-msgid "You can authorize others to send messages on your behalf. When they do so, your name and email address appear as the sender, even though the message is dispatched from the delegate's inbox."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:447
-msgid "To set this up:"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:450
-#: ../../advanced_email_management/toc.rst:503
-#: ../../advanced_email_management/toc.rst:518
-msgid "Select **Accounts**."
+#: ../../advanced_email_management/toc.rst:449
+msgid "Email Delegations"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:451
-msgid "In the Delegates section, click **ADD DELEGATE**."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:452
-msgid "Enter the email address of the person you are authorizing; this should be an internal user's address like one of your colleagues."
+msgid "You can permit others to send emails on your behalf. When someone sends an email on your behalf, the recipient sees both your name and the sender's name. It is important to note that this is not the same as sharing your entire inbox. The sender operates from their email account when sending emails on your behalf, with your name selected from the From field drop-down menu as the sender."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:453
-msgid "Choose the permissions you wish to grant, and then click **OK**."
+msgid "Similarly, if you have been delegated permission to send emails on behalf of someone else, you can do so with their email address as the sender. In this case, the From address will display both your email address and the person you are representing. When you have been given authorization to send an email to that person, their email address appears in the menu, without including your address in the email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:454
-msgid "Choose Save a copy of sent messages to my Sent folder from the list, if you want to get a copy of the email sent by the delegate. Otherwise, you can choose different options based on your preferences."
+#: ../../advanced_email_management/toc.rst:455
+msgid "Email delegation can be particularly useful in scenarios where you need someone else to handle your email correspondence on your behalf, such as when you are out of the office or managing multiple responsibilities. It allows for efficient management of emails without the need for direct access to your inbox, streamlining communication processes. This feature is especially handy for executives, assistants, or team members who need to act on behalf of others while maintaining clarity about the sender's identity."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:457
-msgid "An email notification will be sent to the designated person, informing them of their newly acquired delegate permissions."
+#: ../../advanced_email_management/toc.rst:459
+msgid "Delegating Others to Send Emails on Your Behalf"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:464
-msgid "Sending Email on Behalf of Someone Else"
+#: ../../advanced_email_management/toc.rst:461
+msgid "You can authorize others to send messages on your behalf. When they do so, your name and email address appear as the sender, even though the message is dispatched from the delegate's inbox."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:463
+msgid "To set this up:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:466
+#: ../../advanced_email_management/toc.rst:519
+#: ../../advanced_email_management/toc.rst:534
+msgid "Select **Accounts**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:467
+msgid "In the Delegates section, click **ADD DELEGATE**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:468
+msgid "Enter the email address of the person you are authorizing; this should be an internal user's address like one of your colleagues."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:469
+msgid "Choose the permissions you wish to grant, and then click **OK**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:470
+msgid "Choose Save a copy of sent messages to my Sent folder from the list, if you want to get a copy of the email sent by the delegate. Otherwise, you can choose different options based on your preferences."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:473
+msgid "An email notification will be sent to the designated person, informing them of their newly acquired delegate permissions."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:480
+msgid "Sending Email on Behalf of Someone Else"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:482
 msgid "If you have been granted delegate permissions for another person, you can send emails on their behalf. While composing an email, click on the top-left corner where your account name is displayed. From there, you can select your email address, as well as any other identities or personas you may have, and the person you are representing. If you have been permitted to send messages as that individual, their email address will be available in the menu. When selected, your address will be omitted from the email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:475
+#: ../../advanced_email_management/toc.rst:491
 msgid "Account Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:477
+#: ../../advanced_email_management/toc.rst:493
 msgid "When sending emails, each email is associated with an email account. By default, your primary identity is tied to your account name when setting up your email account. However, you have the option to create additional email identities known as personas, which can be used to manage different types of emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:479
+#: ../../advanced_email_management/toc.rst:495
 msgid "For instance, you might establish one persona for your sales correspondence and another for personal emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:481
-#: ../../advanced_email_management/toc.rst:486
+#: ../../advanced_email_management/toc.rst:497
+#: ../../advanced_email_management/toc.rst:502
 msgid "If you have multiple personas or external accounts linked, you can choose the specific persona you wish to utilize when sending an email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:484
+#: ../../advanced_email_management/toc.rst:500
 msgid "Using Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:488
+#: ../../advanced_email_management/toc.rst:504
 msgid "You can send emails from different personas while composing a message."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:490
+#: ../../advanced_email_management/toc.rst:506
 msgid "The recipient will see the username aligned with the selected persona as the sender of the emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:492
+#: ../../advanced_email_management/toc.rst:508
 msgid "To switch personas, follow these steps:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:494
+#: ../../advanced_email_management/toc.rst:510
 msgid "Click on your email address located at the **top left corner** of the composing board when composing your email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:495
+#: ../../advanced_email_management/toc.rst:511
 msgid "Choose your preferred persona from the menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:498
+#: ../../advanced_email_management/toc.rst:514
 msgid "Creating Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:500
+#: ../../advanced_email_management/toc.rst:516
 msgid "To create a new persona alongside your default one:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:504
+#: ../../advanced_email_management/toc.rst:520
 msgid "Under the Accounts list section, click **ADD PERSONA**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:505
+#: ../../advanced_email_management/toc.rst:521
 msgid "Under the **Persona Settings** section, choose a name for the added persona."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:513
+#: ../../advanced_email_management/toc.rst:529
 msgid "Removing Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:515
+#: ../../advanced_email_management/toc.rst:531
 msgid "To remove a persona:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:519
+#: ../../advanced_email_management/toc.rst:535
 msgid "Under the Accounts list section, select the persona you wish to remove."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:520
+#: ../../advanced_email_management/toc.rst:536
 msgid "Click **DELETE**, and then **DELETE PERMANENTLY** to confirm."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:523
+#: ../../advanced_email_management/toc.rst:539
 msgid "Set Email Retention and Disposal Policies for a Folder"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:525
+#: ../../advanced_email_management/toc.rst:541
 msgid "The email **retention policy** establishes that emails stored within a designated folder and falling within the retention period will necessitate explicit confirmation before deletion. Conversely, the email **disposal policy** dictates that emails residing in a specified folder and surpassing the disposal threshold will undergo automated cleanup and deletion without requiring manual intervention."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:528
+#: ../../advanced_email_management/toc.rst:544
 msgid "To enable and set a **retention policy** for a folder:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:530
-#: ../../advanced_email_management/toc.rst:542
+#: ../../advanced_email_management/toc.rst:546
+#: ../../advanced_email_management/toc.rst:558
 #: ../../basic_email_management/toc.rst:22
 #: ../../basic_email_management/toc.rst:34
 #: ../../basic_email_management/toc.rst:64
 msgid "From the left sidebar click on the **Mails** section."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:531
+#: ../../advanced_email_management/toc.rst:547
 msgid "In the Navigation Panel, right-click on the folder for which you wish to set its retention policy."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:532
-#: ../../advanced_email_management/toc.rst:544
+#: ../../advanced_email_management/toc.rst:548
+#: ../../advanced_email_management/toc.rst:560
 msgid "From the dropdown menu, select **Edit**. A new window appears."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:533
-#: ../../advanced_email_management/toc.rst:545
+#: ../../advanced_email_management/toc.rst:549
+#: ../../advanced_email_management/toc.rst:561
 msgid "Click the downward arrow next to the **Retention policy** section."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:534
+#: ../../advanced_email_management/toc.rst:550
 msgid "Tick the box labeled Enable Message Retention."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:535
+#: ../../advanced_email_management/toc.rst:551
 msgid "Enter a numerical value in the **Retention Range** field and choose the appropriate unit of time (such as days, weeks, etc.) from the adjacent dropdown menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:536
-#: ../../advanced_email_management/toc.rst:548
+#: ../../advanced_email_management/toc.rst:552
+#: ../../advanced_email_management/toc.rst:564
 #: ../../tasks/toc.rst:41
 msgid "Click **EDIT**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:538
+#: ../../advanced_email_management/toc.rst:554
 msgid "After clicking EDIT, the retention policy will be activated for the specified folder, requiring explicit confirmation before the deletion of emails within the retention period."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:540
+#: ../../advanced_email_management/toc.rst:556
 msgid "To enable and set a **disposal policy** for a folder:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:543
+#: ../../advanced_email_management/toc.rst:559
 msgid "In the Navigation Panel, right-click on the folder for which you wish to set its disposal policy."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:546
+#: ../../advanced_email_management/toc.rst:562
 msgid "Tick the box labeled Enable Message Disposal."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:547
+#: ../../advanced_email_management/toc.rst:563
 msgid "Enter a numerical value in the **Disposal Threshold** field and choose the appropriate unit of time (such as days, weeks, etc.) from the adjacent dropdown menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:550
+#: ../../advanced_email_management/toc.rst:566
 msgid "After clicking EDIT, the disposal policy will be applied to the specified folder, triggering automated cleanup and deletion for emails surpassing the disposal threshold."
 msgstr ""
 
@@ -1087,15 +1116,15 @@ msgid "To create a new appointment:"
 msgstr ""
 
 #: ../../appointments/toc.rst:25
-#: ../../appointments/toc.rst:49
-#: ../../appointments/toc.rst:60
-#: ../../appointments/toc.rst:71
-#: ../../appointments/toc.rst:85
-#: ../../appointments/toc.rst:96
-#: ../../appointments/toc.rst:107
-#: ../../appointments/toc.rst:122
-#: ../../appointments/toc.rst:145
-#: ../../appointments/toc.rst:158
+#: ../../appointments/toc.rst:56
+#: ../../appointments/toc.rst:67
+#: ../../appointments/toc.rst:78
+#: ../../appointments/toc.rst:92
+#: ../../appointments/toc.rst:103
+#: ../../appointments/toc.rst:114
+#: ../../appointments/toc.rst:129
+#: ../../appointments/toc.rst:152
+#: ../../appointments/toc.rst:165
 #: ../../calendars/toc.rst:42
 #: ../../calendars/toc.rst:61
 #: ../../calendars/toc.rst:92
@@ -1104,13 +1133,14 @@ msgstr ""
 #: ../../calendars/toc.rst:127
 #: ../../calendars/toc.rst:213
 #: ../../calendars/toc.rst:226
-#: ../../calendars/toc.rst:237
-#: ../../calendars/toc.rst:250
+#: ../../calendars/toc.rst:262
+#: ../../calendars/toc.rst:273
+#: ../../calendars/toc.rst:286
 msgid "Select the **Calendars** from your left sidebar."
 msgstr ""
 
 #: ../../appointments/toc.rst:26
-#: ../../appointments/toc.rst:123
+#: ../../appointments/toc.rst:130
 #: ../../contacts/toc.rst:43
 #: ../../tasks/toc.rst:21
 msgid "Click on the **NEW** button located on the top bar. A new board will appear."
@@ -1125,7 +1155,7 @@ msgid "Enter a title for the appointment in the **Event title** field."
 msgstr ""
 
 #: ../../appointments/toc.rst:29
-#: ../../appointments/toc.rst:126
+#: ../../appointments/toc.rst:133
 msgid "Specify a location for the appointment to occur in the **Location field**. If applicable, you may include details such as Room Number 2."
 msgstr ""
 
@@ -1134,32 +1164,32 @@ msgid "Choose a meeting room from the available options in the **Meeting room** 
 msgstr ""
 
 #: ../../appointments/toc.rst:31
-#: ../../appointments/toc.rst:128
+#: ../../appointments/toc.rst:135
 msgid "Choose the required equipment from the available options under the **Equipment field**. Please note that the equipment is configured by your system administrator. If you do not see the desired equipment listed, kindly contact your system administrator to ensure all relevant equipment such as cameras, displays, etc. in your office are included."
 msgstr ""
 
 #: ../../appointments/toc.rst:32
-#: ../../appointments/toc.rst:129
+#: ../../appointments/toc.rst:136
 msgid "If you prefer to host a virtual meeting using Carbonio Chats' video meeting feature in one of your virtual rooms, you can select the desired virtual room from the **Virtual Room field**. If you have not set up any virtual rooms yet, you can easily create them through the Chats section on the Carbonio web client."
 msgstr ""
 
 #: ../../appointments/toc.rst:33
-#: ../../appointments/toc.rst:130
+#: ../../appointments/toc.rst:137
 msgid "Enter the email addresses of the attendees into the **Attendees field**. You can leave this field empty if you are creating a personal appointment for yourself."
 msgstr ""
 
 #: ../../appointments/toc.rst:34
-#: ../../appointments/toc.rst:131
+#: ../../appointments/toc.rst:138
 msgid "Choose whether you would like Carbonio to mark this time slot for the appointment as busy or free from the **Display field**. This will inform your colleagues of your availability when they attempt to schedule another appointment during the same time slot."
 msgstr ""
 
 #: ../../appointments/toc.rst:35
-#: ../../appointments/toc.rst:132
+#: ../../appointments/toc.rst:139
 msgid "Choose the calendar in which you want to create the appointment from the **Calendar field**."
 msgstr ""
 
 #: ../../appointments/toc.rst:36
-#: ../../appointments/toc.rst:133
+#: ../../appointments/toc.rst:140
 msgid "Tick the **Private checkbox** if you wish to conceal the details of this appointment, such as its title, from your colleagues. Even if you have shared your calendar with them, your colleagues will still see the appointment listed on your calendar, but without the specific details like the title."
 msgstr ""
 
@@ -1168,7 +1198,7 @@ msgid "Choose the time slot for the appointment by specifying the start date and
 msgstr ""
 
 #: ../../appointments/toc.rst:38
-#: ../../appointments/toc.rst:135
+#: ../../appointments/toc.rst:142
 msgid "Choose a reminder for the appointment from the **Reminder field** to ensure you are informed beforehand. Carbonio will display a warning window in the Carbonio client at the specified time to remind you of the appointment."
 msgstr ""
 
@@ -1181,254 +1211,262 @@ msgid "Choose the time zone, if different from the default one. You need to enab
 msgstr ""
 
 #: ../../appointments/toc.rst:41
-#: ../../appointments/toc.rst:136
+#: ../../appointments/toc.rst:143
 msgid "Add any notes about this appointment in the text box."
 msgstr ""
 
 #: ../../appointments/toc.rst:42
-#: ../../appointments/toc.rst:138
+#: ../../appointments/toc.rst:145
 msgid "If you are creating the appointment solely for yourself, click **SAVE**. If your appointment includes attendees, as specified in step 8, click **SEND** to notify them via an automatic email."
 msgstr ""
 
 #: ../../appointments/toc.rst:45
-msgid "Editing an Existing Appointment"
+msgid "Checking on attendees' availability with organizer tool"
 msgstr ""
 
 #: ../../appointments/toc.rst:47
+msgid "When scheduling a new meeting, with expected other attendees, you will also have the option to check on other attendees availability by simply opening the **organizer tool**. Once you open the editor to create the appointment, after selecting all participants (both mandatory and optional), simply scroll down and click the “Show organizer tool” button. A new section will open, displaying a timeline chart for the selected time range, showing the availability of each participant in the meeting. This will make it easier to select the most convenient time for everyone. This section is particularly useful when there are many participants, eliminating the need to check each individual calendar before choosing the time."
+msgstr ""
+
+#: ../../appointments/toc.rst:52
+msgid "Editing an Existing Appointment"
+msgstr ""
+
+#: ../../appointments/toc.rst:54
 msgid "To edit an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:50
-#: ../../appointments/toc.rst:61
+#: ../../appointments/toc.rst:57
+#: ../../appointments/toc.rst:68
 msgid "Right-click on the appointment you wish to edit, which is displayed on your timetable."
 msgstr ""
 
-#: ../../appointments/toc.rst:51
-#: ../../appointments/toc.rst:87
-#: ../../appointments/toc.rst:98
-#: ../../appointments/toc.rst:109
+#: ../../appointments/toc.rst:58
+#: ../../appointments/toc.rst:94
+#: ../../appointments/toc.rst:105
+#: ../../appointments/toc.rst:116
 #: ../../chats(wsc)/toc.rst:71
 #: ../../chats/toc.rst:73
 #: ../../tasks/toc.rst:39
 msgid "Select **Edit** from the drop-down menu."
 msgstr ""
 
-#: ../../appointments/toc.rst:52
-#: ../../appointments/toc.rst:88
+#: ../../appointments/toc.rst:59
+#: ../../appointments/toc.rst:95
 msgid "Make changes."
 msgstr ""
 
-#: ../../appointments/toc.rst:53
-#: ../../appointments/toc.rst:89
-#: ../../appointments/toc.rst:100
-#: ../../appointments/toc.rst:111
+#: ../../appointments/toc.rst:60
+#: ../../appointments/toc.rst:96
+#: ../../appointments/toc.rst:107
+#: ../../appointments/toc.rst:118
 msgid "If you have created the appointment solely for yourself, click **SAVE**. If your appointment includes attendees, click **SEND** to notify them about the changes via an automatic email."
 msgstr ""
 
-#: ../../appointments/toc.rst:56
+#: ../../appointments/toc.rst:63
 msgid "Forwarding an Existing Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:58
+#: ../../appointments/toc.rst:65
 msgid "To forward an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:62
+#: ../../appointments/toc.rst:69
 #: ../../chats(wsc)/toc.rst:91
 #: ../../chats/toc.rst:93
 msgid "Select **Forward** from the drop-down menu."
 msgstr ""
 
-#: ../../appointments/toc.rst:63
+#: ../../appointments/toc.rst:70
 msgid "Enter the email address of the person you wish to forward the appointment to."
 msgstr ""
 
-#: ../../appointments/toc.rst:64
+#: ../../appointments/toc.rst:71
 msgid "Click **FORWARD** to send the appointment to the specified email address."
 msgstr ""
 
-#: ../../appointments/toc.rst:67
+#: ../../appointments/toc.rst:74
 msgid "Canceling an Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:69
+#: ../../appointments/toc.rst:76
 msgid "To cancel an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:72
-#: ../../appointments/toc.rst:86
-#: ../../appointments/toc.rst:97
-#: ../../appointments/toc.rst:108
+#: ../../appointments/toc.rst:79
+#: ../../appointments/toc.rst:93
+#: ../../appointments/toc.rst:104
+#: ../../appointments/toc.rst:115
 msgid "Right-click on the appointment displayed on your timetable."
 msgstr ""
 
-#: ../../appointments/toc.rst:73
+#: ../../appointments/toc.rst:80
 #: ../../chats/toc.rst:103
 #: ../../files/toc.rst:100
 #: ../../tasks/toc.rst:50
 msgid "Select **Delete** from the drop-down menu."
 msgstr ""
 
-#: ../../appointments/toc.rst:74
+#: ../../appointments/toc.rst:81
 msgid "Click the **SEND CANCELATION** or **DELETE** button to confirm."
 msgstr ""
 
-#: ../../appointments/toc.rst:76
+#: ../../appointments/toc.rst:83
 msgid "If there are attendees for this appointment, a notification email will automatically be sent to the attendees to inform them about the cancellation."
 msgstr ""
 
-#: ../../appointments/toc.rst:79
+#: ../../appointments/toc.rst:86
 msgid "Moving an Existing Appointment to a Different Time"
 msgstr ""
 
-#: ../../appointments/toc.rst:81
+#: ../../appointments/toc.rst:88
 msgid "To reschedule an appointment to a different time, you can simply click and hold on to the appointment in your timetable and drag it to another time slot."
 msgstr ""
 
-#: ../../appointments/toc.rst:83
+#: ../../appointments/toc.rst:90
 msgid "Alternatively:"
 msgstr ""
 
-#: ../../appointments/toc.rst:92
+#: ../../appointments/toc.rst:99
 msgid "Adding / Removing Attendees to an Existing Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:94
+#: ../../appointments/toc.rst:101
 msgid "To add or remove attendees to an appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:99
+#: ../../appointments/toc.rst:106
 msgid "To add attendees, enter the email addresses of new attendees into the **Attendees field**. To remove attendees, click the cross button next to the attendees' email addresses."
 msgstr ""
 
-#: ../../appointments/toc.rst:103
+#: ../../appointments/toc.rst:110
 msgid "Adding a Meeting Room to an Existing Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:105
+#: ../../appointments/toc.rst:112
 msgid "To add a meeting room to an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:110
+#: ../../appointments/toc.rst:117
 msgid "Choose a meeting room from the available options in the **Meeting room field**. Alternatively, if you prefer to host a virtual meeting using Carbonio Chats' video meeting feature in one of your virtual rooms, you can select the desired virtual room from the **Virtual Room field**."
 msgstr ""
 
-#: ../../appointments/toc.rst:113
+#: ../../appointments/toc.rst:120
 msgid "Please note that these meeting rooms are configured by your system administrator. If you do not see the desired room listed, kindly contact your system administrator to ensure all relevant meeting rooms in your office are included. Similarly, if you have not set up any virtual rooms yet, you can easily create them through the Chats section on the Carbonio web client."
 msgstr ""
 
-#: ../../appointments/toc.rst:116
+#: ../../appointments/toc.rst:123
 msgid "Creating a Recurring Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:118
+#: ../../appointments/toc.rst:125
 msgid "A recurring appointment is an event scheduled to occur repeatedly at specified intervals, such as daily, weekly, monthly, or yearly. Rather than creating separate appointments for each occurrence, a recurring appointment allows you to set up a single event that repeats according to your chosen pattern."
 msgstr ""
 
-#: ../../appointments/toc.rst:120
+#: ../../appointments/toc.rst:127
 msgid "To create a recurring new appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:124
+#: ../../appointments/toc.rst:131
 msgid "In the **From field**, select the identity you want to use to schedule and send the appointment invitation."
 msgstr ""
 
-#: ../../appointments/toc.rst:125
+#: ../../appointments/toc.rst:132
 msgid "Enter a title for the appointment in the **Event title field**."
 msgstr ""
 
-#: ../../appointments/toc.rst:127
+#: ../../appointments/toc.rst:134
 msgid "Choose a meeting room from the available options in the **Meeting room field**. Please note that these meeting rooms are configured by your system administrator. If you do not see the desired room listed, kindly contact your system administrator to ensure all relevant meeting rooms in your office are included."
 msgstr ""
 
-#: ../../appointments/toc.rst:134
+#: ../../appointments/toc.rst:141
 msgid "Choose the time slot for the appointment by specifying the start date and time in the **Start date and time field**, and the end date and time in the **End date and time field**. Alternatively, you can tick the checkbox labeled All day if the appointment spans the entire day."
 msgstr ""
 
-#: ../../appointments/toc.rst:137
+#: ../../appointments/toc.rst:144
 msgid "Choose your preferred option (Every Day, Every Week, Every Month, Every Year) from the **Repeat field** to establish the recurring pattern."
 msgstr ""
 
-#: ../../appointments/toc.rst:141
+#: ../../appointments/toc.rst:148
 msgid "Canceling a Recurring Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:143
+#: ../../appointments/toc.rst:150
 msgid "To cancel a recurring appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:146
-#: ../../appointments/toc.rst:159
+#: ../../appointments/toc.rst:153
+#: ../../appointments/toc.rst:166
 msgid "Right-click on the appointment you wish to cancel, which is displayed on your timetable."
 msgstr ""
 
-#: ../../appointments/toc.rst:147
+#: ../../appointments/toc.rst:154
 msgid "Go to the **Series** from the drop-down menu and select **Delete**."
 msgstr ""
 
-#: ../../appointments/toc.rst:148
+#: ../../appointments/toc.rst:155
 msgid "In this step, you can choose whether to delete all occurrences or only this and future occurrences by selecting the appropriate option."
 msgstr ""
 
-#: ../../appointments/toc.rst:149
-#: ../../appointments/toc.rst:161
+#: ../../appointments/toc.rst:156
+#: ../../appointments/toc.rst:168
 msgid "Click **DELETE** to confirm. If prompted, click **SEND CANCELATION** as well."
 msgstr ""
 
-#: ../../appointments/toc.rst:151
-#: ../../appointments/toc.rst:163
+#: ../../appointments/toc.rst:158
+#: ../../appointments/toc.rst:170
 msgid "If there are attendees for this appointment, a notification email will be automatically sent to the attendees to inform them about the cancellation."
 msgstr ""
 
-#: ../../appointments/toc.rst:154
+#: ../../appointments/toc.rst:161
 msgid "Canceling a Single Instance of a Recurring Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:156
+#: ../../appointments/toc.rst:163
 msgid "To cancel a single instance of a recurring appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:160
+#: ../../appointments/toc.rst:167
 msgid "Go to the **Instance** from the drop-down menu and select **Delete**."
 msgstr ""
 
-#: ../../appointments/toc.rst:166
+#: ../../appointments/toc.rst:173
 msgid "Responding to an Appointment Invitation"
 msgstr ""
 
-#: ../../appointments/toc.rst:168
+#: ../../appointments/toc.rst:175
 msgid "When a colleague sends you an invitation for an appointment, you will receive an automatic email indicating that you are invited. Inside the email, you have four options to choose from:"
 msgstr ""
 
-#: ../../appointments/toc.rst:171
+#: ../../appointments/toc.rst:178
 msgid "**YES**: Confirm your attendance for the appointment."
 msgstr ""
 
-#: ../../appointments/toc.rst:172
+#: ../../appointments/toc.rst:179
 msgid "**MAYBE**: Indicate that you are unsure about attending the appointment."
 msgstr ""
 
-#: ../../appointments/toc.rst:173
+#: ../../appointments/toc.rst:180
 msgid "**NO**: Decline the invitation and indicate that you will not attend the appointment."
 msgstr ""
 
-#: ../../appointments/toc.rst:174
+#: ../../appointments/toc.rst:181
 msgid "**PROPOSE NEW TIME**: Suggest an alternative time for the appointment if the proposed time is not suitable for you."
 msgstr ""
 
-#: ../../appointments/toc.rst:176
+#: ../../appointments/toc.rst:183
 msgid "Before selecting **YES**, you can also choose the calendar in which you want to save the appointment from the Calendar field."
 msgstr ""
 
-#: ../../appointments/toc.rst:178
+#: ../../appointments/toc.rst:185
 msgid "If you choose **PROPOSE NEW TIME**, a new window will appear where you can select a new time slot for the appointment and then click the **SEND** button."
 msgstr ""
 
-#: ../../appointments/toc.rst:180
+#: ../../appointments/toc.rst:187
 msgid "Furthermore, you have the option to enable or disable the **Notify organizer checkbox** based on whether you wish to send an automatic email notification to them or not."
 msgstr ""
 
-#: ../../appointments/toc.rst:182
+#: ../../appointments/toc.rst:189
 msgid "After selecting one of the four buttons, the invitation email will automatically be moved to your Trash folder."
 msgstr ""
 
@@ -2985,70 +3023,154 @@ msgid "The shared calendar will appear in your calendars list."
 msgstr ""
 
 #: ../../calendars/toc.rst:222
-msgid "Remove a Colleague's Shared Calendars from Your List"
+msgid "Creating Calendar Groups"
 msgstr ""
 
 #: ../../calendars/toc.rst:224
-msgid "To remove a colleague’s shared calendar from your calendars list:"
+msgid "You also have the option to create calendar groups, making it easier to search for certain shared calendars. To do this, simply:"
 msgstr ""
 
 #: ../../calendars/toc.rst:227
-msgid "From the Navigation Panel, right-click on the calendar you wish to remove."
+msgid "Click on **Create New Group** button."
 msgstr ""
 
 #: ../../calendars/toc.rst:228
-msgid "From the drop-down menu select **Remove shared calendar**."
+msgid "Enter the name of the group in the proper field of the new modal that appears."
 msgstr ""
 
-#: ../../calendars/toc.rst:233
-msgid "Import an ICS File as New Calendar"
+#: ../../calendars/toc.rst:229
+msgid "Select the calendars you wish to add to the group from the list, by simply searching for them."
 msgstr ""
 
-#: ../../calendars/toc.rst:235
-msgid "You can import a calendar in .ics format directly to your Carbonio web client calendar. To do so:"
+#: ../../calendars/toc.rst:230
+msgid "Click the **+** button, to add them all."
 msgstr ""
 
-#: ../../calendars/toc.rst:238
-msgid "In the Navigation Panel, right-click on \"Calendar\" and select the voice \"New Calendar\": this step is not mandatory, but recommended to avoid mixing existing calendars with the imported one."
+#: ../../calendars/toc.rst:231
+msgid "Click the **REMOVE** button, if you have to remove some of them."
+msgstr ""
+
+#: ../../calendars/toc.rst:232
+msgid "Click the **CREATE GROUP** button."
+msgstr ""
+
+#: ../../calendars/toc.rst:234
+msgid "Now you can switch on and off the group everytime you need to see all the calendars of the users in that group."
+msgstr ""
+
+#: ../../calendars/toc.rst:237
+msgid "Editing Calendar Groups"
 msgstr ""
 
 #: ../../calendars/toc.rst:239
-msgid "Choose the name and settings of the new calendar that will contain the imported data and save it."
-msgstr ""
-
-#: ../../calendars/toc.rst:240
-msgid "Right-click on the new calendar and select the \"Import ICS file\" option."
+msgid "To edit a calendar group, follow these steps:"
 msgstr ""
 
 #: ../../calendars/toc.rst:241
-msgid "Select the .ics file containing the calendar, stored on your computer."
+msgid "Right-click on the group you want to edit."
 msgstr ""
 
 #: ../../calendars/toc.rst:242
-msgid "Click **Open** and **Import**."
+msgid "Select **Edit Group** option."
 msgstr ""
 
 #: ../../calendars/toc.rst:243
-msgid "Refresh the page to get the updated calendar view."
+msgid "Make the necessary changes to the group name or the calendars included in the group."
 msgstr ""
 
-#: ../../calendars/toc.rst:246
-msgid "Export an ICS File as New Calendar"
+#: ../../calendars/toc.rst:244
+msgid "Click the **SAVE CHANGES** button."
 msgstr ""
 
-#: ../../calendars/toc.rst:248
-msgid "You can also export a calendar in .ics format directly from your Carbonio web client calendar. To do so:"
+#: ../../calendars/toc.rst:247
+msgid "Deeleting Calendar Groups"
+msgstr ""
+
+#: ../../calendars/toc.rst:249
+msgid "To delete a calendar group, simply:"
 msgstr ""
 
 #: ../../calendars/toc.rst:251
-msgid "In the Navigation Panel, right-click on \"Calendar\" you want to export."
+msgid "Right-click on the group you want to delete."
 msgstr ""
 
 #: ../../calendars/toc.rst:252
-msgid "Select the \"Export ICS file\" option."
+msgid "Select **Delete permanently** option."
 msgstr ""
 
 #: ../../calendars/toc.rst:253
+msgid "Confirm that you want to delete the group, by clicking on the red button **DELETE PERMANENTLY**"
+msgstr ""
+
+#: ../../calendars/toc.rst:254
+msgid "The group will be permanently deleted."
+msgstr ""
+
+#: ../../calendars/toc.rst:258
+msgid "Remove a Colleague's Shared Calendars from Your List"
+msgstr ""
+
+#: ../../calendars/toc.rst:260
+msgid "To remove a colleague’s shared calendar from your calendars list:"
+msgstr ""
+
+#: ../../calendars/toc.rst:263
+msgid "From the Navigation Panel, right-click on the calendar you wish to remove."
+msgstr ""
+
+#: ../../calendars/toc.rst:264
+msgid "From the drop-down menu select **Remove shared calendar**."
+msgstr ""
+
+#: ../../calendars/toc.rst:269
+msgid "Import an ICS File as New Calendar"
+msgstr ""
+
+#: ../../calendars/toc.rst:271
+msgid "You can import a calendar in .ics format directly to your Carbonio web client calendar. To do so:"
+msgstr ""
+
+#: ../../calendars/toc.rst:274
+msgid "In the Navigation Panel, right-click on \"Calendar\" and select the voice \"New Calendar\": this step is not mandatory, but recommended to avoid mixing existing calendars with the imported one."
+msgstr ""
+
+#: ../../calendars/toc.rst:275
+msgid "Choose the name and settings of the new calendar that will contain the imported data and save it."
+msgstr ""
+
+#: ../../calendars/toc.rst:276
+msgid "Right-click on the new calendar and select the \"Import ICS file\" option."
+msgstr ""
+
+#: ../../calendars/toc.rst:277
+msgid "Select the .ics file containing the calendar, stored on your computer."
+msgstr ""
+
+#: ../../calendars/toc.rst:278
+msgid "Click **Open** and **Import**."
+msgstr ""
+
+#: ../../calendars/toc.rst:279
+msgid "Refresh the page to get the updated calendar view."
+msgstr ""
+
+#: ../../calendars/toc.rst:282
+msgid "Export an ICS File as New Calendar"
+msgstr ""
+
+#: ../../calendars/toc.rst:284
+msgid "You can also export a calendar in .ics format directly from your Carbonio web client calendar. To do so:"
+msgstr ""
+
+#: ../../calendars/toc.rst:287
+msgid "In the Navigation Panel, right-click on \"Calendar\" you want to export."
+msgstr ""
+
+#: ../../calendars/toc.rst:288
+msgid "Select the \"Export ICS file\" option."
+msgstr ""
+
+#: ../../calendars/toc.rst:289
 msgid "The download will start in a while, find you .ics file in your download folder."
 msgstr ""
 

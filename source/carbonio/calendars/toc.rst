@@ -218,6 +218,42 @@ To find and add your colleagues’ shared calendars:
 
 The shared calendar will appear in your calendars list.
 
+Creating Calendar Groups
+========================
+
+You also have the option to create calendar groups, making it easier to search for certain shared calendars. To do this, simply:
+
+#.	Select the **Calendars** from your left sidebar.
+#.  Click on **Create New Group** button.
+#.  Enter the name of the group in the proper field of the new modal that appears.
+#.  Select the calendars you wish to add to the group from the list, by simply searching for them.
+#.  Click the **+** button, to add them all.
+#.  Click the **REMOVE** button, if you have to remove some of them.
+#.  Click the **CREATE GROUP** button. 
+
+Now you can switch on and off the group everytime you need to see all the calendars of the users in that group.
+
+Editing Calendar Groups
+========================
+
+To edit a calendar group, follow these steps:
+
+#. Right-click on the group you want to edit.
+#. Select **Edit Group** option.
+#. Make the necessary changes to the group name or the calendars included in the group.
+#. Click the **SAVE CHANGES** button.
+
+Deeleting Calendar Groups
+=========================
+
+To delete a calendar group, simply:
+
+#. Right-click on the group you want to delete.
+#. Select **Delete permanently** option.
+#. Confirm that you want to delete the group, by clicking on the red button **DELETE PERMANENTLY**
+#. The group will be permanently deleted.
+
+
 Remove a Colleague's Shared Calendars from Your List
 ====================================================
 

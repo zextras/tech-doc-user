@@ -41,6 +41,13 @@ To create a new appointment:
 #.	Add any notes about this appointment in the text box.
 #.	If you are creating the appointment solely for yourself, click **SAVE**. If your appointment includes attendees, as specified in step 8, click **SEND** to notify them via an automatic email.
 
+Checking on attendees' availability with organizer tool
+=======================================================
+
+When scheduling a new meeting, with expected other attendees, you will also have the option to check on other attendees availability by simply opening the **organizer tool**.
+Once you open the editor to create the appointment, after selecting all participants (both mandatory and optional), simply scroll down and click the “Show organizer tool” button.
+A new section will open, displaying a timeline chart for the selected time range, showing the availability of each participant in the meeting. This will make it easier to select the most convenient time for everyone. This section is particularly useful when there are many participants, eliminating the need to check each individual calendar before choosing the time.
+
 Editing an Existing Appointment
 ===============================
 

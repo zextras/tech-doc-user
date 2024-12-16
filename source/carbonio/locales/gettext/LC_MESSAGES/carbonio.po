@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-13 18:42+0200\n"
+"POT-Creation-Date: 2024-12-16 16:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: gettext\n"
@@ -99,13 +99,13 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:314
 #: ../../advanced_email_management/toc.rst:327
 #: ../../advanced_email_management/toc.rst:338
-#: ../../advanced_email_management/toc.rst:367
-#: ../../advanced_email_management/toc.rst:389
-#: ../../advanced_email_management/toc.rst:400
-#: ../../advanced_email_management/toc.rst:413
-#: ../../advanced_email_management/toc.rst:449
-#: ../../advanced_email_management/toc.rst:502
-#: ../../advanced_email_management/toc.rst:517 ../../calendars/toc.rst:24
+#: ../../advanced_email_management/toc.rst:383
+#: ../../advanced_email_management/toc.rst:405
+#: ../../advanced_email_management/toc.rst:416
+#: ../../advanced_email_management/toc.rst:429
+#: ../../advanced_email_management/toc.rst:465
+#: ../../advanced_email_management/toc.rst:518
+#: ../../advanced_email_management/toc.rst:533 ../../calendars/toc.rst:24
 #: ../../calendars/toc.rst:140 ../../calendars/toc.rst:156
 #: ../../calendars/toc.rst:166
 msgid "Click on the **Settings** (gear icon) in the left sidebar."
@@ -120,10 +120,10 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:315
 #: ../../advanced_email_management/toc.rst:328
 #: ../../advanced_email_management/toc.rst:339
-#: ../../advanced_email_management/toc.rst:368
-#: ../../advanced_email_management/toc.rst:390
-#: ../../advanced_email_management/toc.rst:401
-#: ../../advanced_email_management/toc.rst:414
+#: ../../advanced_email_management/toc.rst:384
+#: ../../advanced_email_management/toc.rst:406
+#: ../../advanced_email_management/toc.rst:417
+#: ../../advanced_email_management/toc.rst:430
 msgid "Select **Mails**."
 msgstr ""
 
@@ -229,7 +229,7 @@ msgid "Right-click on the **Junk** folder."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:79
-msgid "Select **Wipe Folder** from the menu."
+msgid "Select **Wipe Folder** from the menu.*"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:81
@@ -314,10 +314,9 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:112
 msgid ""
-"Under Trusted addresses, email address, or domain name in the provided "
-"text box. If you want to include all addresses from a specific domain, "
-"use an asterisk (*) followed by the domain name (e.g., "
-"asterisk@domain.com)."
+"Under Trusted addresses, set email address, or domain name in the "
+"provided text box. If you want to trust all addresses from a specific "
+"domain, use the entire domain name."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:113
@@ -974,6 +973,7 @@ msgid "Follow these steps to toggle the rich text editor on:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:357
+#: ../../advanced_email_management/toc.rst:369
 msgid ""
 "Click on the **three vertical dots** located in the top-right corner of "
 "the compose board."
@@ -993,115 +993,148 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:363
-msgid "Creating Signatures"
+msgid "Sending S/MIME signed emails"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:365
-msgid "To create a signature:"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:369
-msgid "Under the **Signatures** section, click **ADD SIGNATURE**."
+msgid ""
+"S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for "
+"email encryption and signing, providing authentication, integrity, and "
+"non-repudiation for emails. Here’s how you can send S/MIME-signed emails:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:370
-msgid "Provide a name for the signature in the designated field."
+msgid "Select **Use Certificate to sign (S/MIME)** from the menu that appears."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:371
-msgid "Utilize the rich text editor on the right side to compose your signature."
+msgid ""
+"Attach the certificate in the proper space (or just browse you documents "
+"to insert it)."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:372
-#: ../../advanced_email_management/toc.rst:393
-#: ../../advanced_email_management/toc.rst:404
-#: ../../advanced_email_management/toc.rst:416
-#: ../../advanced_email_management/toc.rst:455
-#: ../../advanced_email_management/toc.rst:506
+msgid "Insert the **password** for the uploaded certificate."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:373
+msgid "Click **Upload** to insert the S/MIME signature."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:375
+msgid "You can now send your S/MIME-signed email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:379
+msgid "Creating Signatures"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:381
+msgid "To create a signature:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:385
+msgid "Under the **Signatures** section, click **ADD SIGNATURE**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:386
+msgid "Provide a name for the signature in the designated field."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:387
+msgid "Utilize the rich text editor on the right side to compose your signature."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:388
+#: ../../advanced_email_management/toc.rst:409
+#: ../../advanced_email_management/toc.rst:420
+#: ../../advanced_email_management/toc.rst:432
+#: ../../advanced_email_management/toc.rst:471
+#: ../../advanced_email_management/toc.rst:522
 msgid "Click **SAVE** from the top-right corner."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:374
+#: ../../advanced_email_management/toc.rst:390
 msgid ""
 "Anything composed in this section will automatically append to the end of"
 " your email as shown in the following example::"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:385
+#: ../../advanced_email_management/toc.rst:401
 msgid "Editing Signatures"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:387
+#: ../../advanced_email_management/toc.rst:403
 msgid "To edit a signature:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:391
+#: ../../advanced_email_management/toc.rst:407
 msgid "Under the **Signatures** section, click on the signature you want to edit."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:392
+#: ../../advanced_email_management/toc.rst:408
 msgid "Utilize the rich text editor on the right side to edit your signature."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:396
+#: ../../advanced_email_management/toc.rst:412
 msgid "Removing Signatures"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:398
+#: ../../advanced_email_management/toc.rst:414
 msgid "To remove a signature:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:402
+#: ../../advanced_email_management/toc.rst:418
 msgid ""
 "Under the **Signatures section**, click on the signature you want to "
 "remove."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:403
+#: ../../advanced_email_management/toc.rst:419
 msgid ""
 "Hover your mouse cursor over the signature name. A red button labeled "
 "**DELETE** will appear. Click on it, and the signature will be removed."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:407
+#: ../../advanced_email_management/toc.rst:423
 msgid "Assign Different Signatures to Different Identities / Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:409
+#: ../../advanced_email_management/toc.rst:425
 msgid ""
 "You can personalize each account persona or identity with a unique "
 "signature. This ensures that when selecting an identity/persona while "
 "composing an email, the appropriate signature is automatically applied."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:411
+#: ../../advanced_email_management/toc.rst:427
 msgid "To assign each identity/persona a signature:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:415
+#: ../../advanced_email_management/toc.rst:431
 msgid ""
 "In the Signatures Usage section, choose a signature for each "
 "persona/identity from the dropdown menu provided."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:418
+#: ../../advanced_email_management/toc.rst:434
 msgid ""
 "You can effortlessly switch between identities/personas by selecting them"
 " from the top-left corner of the composing board, automatically applying "
 "the respective signatures assigned to each identity/persona."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:421
+#: ../../advanced_email_management/toc.rst:437
 msgid "Changing Signature While Composing An Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:423
+#: ../../advanced_email_management/toc.rst:439
 msgid ""
 "If you have set two or more signatures, you can easily switch between "
 "them, while you are writing an email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:425
+#: ../../advanced_email_management/toc.rst:441
 msgid ""
 "Just click on the **feather pen icon** on top of the composing tab and "
 "choose the one you want to use, between the different options in the "
@@ -1110,11 +1143,11 @@ msgid ""
 "the current email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:433
+#: ../../advanced_email_management/toc.rst:449
 msgid "Email Delegations"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:435
+#: ../../advanced_email_management/toc.rst:451
 msgid ""
 "You can permit others to send emails on your behalf. When someone sends "
 "an email on your behalf, the recipient sees both your name and the "
@@ -1124,7 +1157,7 @@ msgid ""
 " field drop-down menu as the sender."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:437
+#: ../../advanced_email_management/toc.rst:453
 msgid ""
 "Similarly, if you have been delegated permission to send emails on behalf"
 " of someone else, you can do so with their email address as the sender. "
@@ -1134,7 +1167,7 @@ msgid ""
 " without including your address in the email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:439
+#: ../../advanced_email_management/toc.rst:455
 msgid ""
 "Email delegation can be particularly useful in scenarios where you need "
 "someone else to handle your email correspondence on your behalf, such as "
@@ -1146,59 +1179,59 @@ msgid ""
 "identity."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:443
+#: ../../advanced_email_management/toc.rst:459
 msgid "Delegating Others to Send Emails on Your Behalf"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:445
+#: ../../advanced_email_management/toc.rst:461
 msgid ""
 "You can authorize others to send messages on your behalf. When they do "
 "so, your name and email address appear as the sender, even though the "
 "message is dispatched from the delegate's inbox."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:447
+#: ../../advanced_email_management/toc.rst:463
 msgid "To set this up:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:450
-#: ../../advanced_email_management/toc.rst:503
-#: ../../advanced_email_management/toc.rst:518
+#: ../../advanced_email_management/toc.rst:466
+#: ../../advanced_email_management/toc.rst:519
+#: ../../advanced_email_management/toc.rst:534
 msgid "Select **Accounts**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:451
+#: ../../advanced_email_management/toc.rst:467
 msgid "In the Delegates section, click **ADD DELEGATE**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:452
+#: ../../advanced_email_management/toc.rst:468
 msgid ""
 "Enter the email address of the person you are authorizing; this should be"
 " an internal user's address like one of your colleagues."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:453
+#: ../../advanced_email_management/toc.rst:469
 msgid "Choose the permissions you wish to grant, and then click **OK**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:454
+#: ../../advanced_email_management/toc.rst:470
 msgid ""
 "Choose Save a copy of sent messages to my Sent folder from the list, if "
 "you want to get a copy of the email sent by the delegate. Otherwise, you "
 "can choose different options based on your preferences."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:457
+#: ../../advanced_email_management/toc.rst:473
 msgid ""
 "An email notification will be sent to the designated person, informing "
 "them of their newly acquired delegate permissions."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:464
+#: ../../advanced_email_management/toc.rst:480
 msgid "Sending Email on Behalf of Someone Else"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:466
+#: ../../advanced_email_management/toc.rst:482
 msgid ""
 "If you have been granted delegate permissions for another person, you can"
 " send emails on their behalf. While composing an email, click on the top-"
@@ -1210,11 +1243,11 @@ msgid ""
 "from the email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:475
+#: ../../advanced_email_management/toc.rst:491
 msgid "Account Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:477
+#: ../../advanced_email_management/toc.rst:493
 msgid ""
 "When sending emails, each email is associated with an email account. By "
 "default, your primary identity is tied to your account name when setting "
@@ -1223,86 +1256,86 @@ msgid ""
 " types of emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:479
+#: ../../advanced_email_management/toc.rst:495
 msgid ""
 "For instance, you might establish one persona for your sales "
 "correspondence and another for personal emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:481
-#: ../../advanced_email_management/toc.rst:486
+#: ../../advanced_email_management/toc.rst:497
+#: ../../advanced_email_management/toc.rst:502
 msgid ""
 "If you have multiple personas or external accounts linked, you can choose"
 " the specific persona you wish to utilize when sending an email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:484
+#: ../../advanced_email_management/toc.rst:500
 msgid "Using Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:488
+#: ../../advanced_email_management/toc.rst:504
 msgid "You can send emails from different personas while composing a message."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:490
+#: ../../advanced_email_management/toc.rst:506
 msgid ""
 "The recipient will see the username aligned with the selected persona as "
 "the sender of the emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:492
+#: ../../advanced_email_management/toc.rst:508
 msgid "To switch personas, follow these steps:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:494
+#: ../../advanced_email_management/toc.rst:510
 msgid ""
 "Click on your email address located at the **top left corner** of the "
 "composing board when composing your email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:495
+#: ../../advanced_email_management/toc.rst:511
 msgid "Choose your preferred persona from the menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:498
+#: ../../advanced_email_management/toc.rst:514
 msgid "Creating Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:500
+#: ../../advanced_email_management/toc.rst:516
 msgid "To create a new persona alongside your default one:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:504
+#: ../../advanced_email_management/toc.rst:520
 msgid "Under the Accounts list section, click **ADD PERSONA**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:505
+#: ../../advanced_email_management/toc.rst:521
 msgid ""
 "Under the **Persona Settings** section, choose a name for the added "
 "persona."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:513
+#: ../../advanced_email_management/toc.rst:529
 msgid "Removing Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:515
+#: ../../advanced_email_management/toc.rst:531
 msgid "To remove a persona:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:519
+#: ../../advanced_email_management/toc.rst:535
 msgid "Under the Accounts list section, select the persona you wish to remove."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:520
+#: ../../advanced_email_management/toc.rst:536
 msgid "Click **DELETE**, and then **DELETE PERMANENTLY** to confirm."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:523
+#: ../../advanced_email_management/toc.rst:539
 msgid "Set Email Retention and Disposal Policies for a Folder"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:525
+#: ../../advanced_email_management/toc.rst:541
 msgid ""
 "The email **retention policy** establishes that emails stored within a "
 "designated folder and falling within the retention period will "
@@ -1312,79 +1345,79 @@ msgid ""
 "deletion without requiring manual intervention."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:528
+#: ../../advanced_email_management/toc.rst:544
 msgid "To enable and set a **retention policy** for a folder:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:530
-#: ../../advanced_email_management/toc.rst:542
+#: ../../advanced_email_management/toc.rst:546
+#: ../../advanced_email_management/toc.rst:558
 #: ../../basic_email_management/toc.rst:22
 #: ../../basic_email_management/toc.rst:34
 #: ../../basic_email_management/toc.rst:64
 msgid "From the left sidebar click on the **Mails** section."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:531
+#: ../../advanced_email_management/toc.rst:547
 msgid ""
 "In the Navigation Panel, right-click on the folder for which you wish to "
 "set its retention policy."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:532
-#: ../../advanced_email_management/toc.rst:544
+#: ../../advanced_email_management/toc.rst:548
+#: ../../advanced_email_management/toc.rst:560
 msgid "From the dropdown menu, select **Edit**. A new window appears."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:533
-#: ../../advanced_email_management/toc.rst:545
+#: ../../advanced_email_management/toc.rst:549
+#: ../../advanced_email_management/toc.rst:561
 msgid "Click the downward arrow next to the **Retention policy** section."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:534
+#: ../../advanced_email_management/toc.rst:550
 msgid "Tick the box labeled Enable Message Retention."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:535
+#: ../../advanced_email_management/toc.rst:551
 msgid ""
 "Enter a numerical value in the **Retention Range** field and choose the "
 "appropriate unit of time (such as days, weeks, etc.) from the adjacent "
 "dropdown menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:536
-#: ../../advanced_email_management/toc.rst:548 ../../tasks/toc.rst:41
+#: ../../advanced_email_management/toc.rst:552
+#: ../../advanced_email_management/toc.rst:564 ../../tasks/toc.rst:41
 msgid "Click **EDIT**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:538
+#: ../../advanced_email_management/toc.rst:554
 msgid ""
 "After clicking EDIT, the retention policy will be activated for the "
 "specified folder, requiring explicit confirmation before the deletion of "
 "emails within the retention period."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:540
+#: ../../advanced_email_management/toc.rst:556
 msgid "To enable and set a **disposal policy** for a folder:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:543
+#: ../../advanced_email_management/toc.rst:559
 msgid ""
 "In the Navigation Panel, right-click on the folder for which you wish to "
 "set its disposal policy."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:546
+#: ../../advanced_email_management/toc.rst:562
 msgid "Tick the box labeled Enable Message Disposal."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:547
+#: ../../advanced_email_management/toc.rst:563
 msgid ""
 "Enter a numerical value in the **Disposal Threshold** field and choose "
 "the appropriate unit of time (such as days, weeks, etc.) from the "
 "adjacent dropdown menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:550
+#: ../../advanced_email_management/toc.rst:566
 msgid ""
 "After clicking EDIT, the disposal policy will be applied to the specified"
 " folder, triggering automated cleanup and deletion for emails surpassing "
@@ -1425,20 +1458,21 @@ msgstr ""
 msgid "To create a new appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:25 ../../appointments/toc.rst:49
-#: ../../appointments/toc.rst:60 ../../appointments/toc.rst:74
-#: ../../appointments/toc.rst:85 ../../appointments/toc.rst:96
-#: ../../appointments/toc.rst:111 ../../appointments/toc.rst:134
-#: ../../appointments/toc.rst:147 ../../calendars/toc.rst:42
-#: ../../calendars/toc.rst:61 ../../calendars/toc.rst:92
-#: ../../calendars/toc.rst:103 ../../calendars/toc.rst:115
-#: ../../calendars/toc.rst:127 ../../calendars/toc.rst:211
-#: ../../calendars/toc.rst:224 ../../calendars/toc.rst:233
-#: ../../calendars/toc.rst:246
+#: ../../appointments/toc.rst:25 ../../appointments/toc.rst:56
+#: ../../appointments/toc.rst:67 ../../appointments/toc.rst:78
+#: ../../appointments/toc.rst:92 ../../appointments/toc.rst:103
+#: ../../appointments/toc.rst:114 ../../appointments/toc.rst:129
+#: ../../appointments/toc.rst:152 ../../appointments/toc.rst:165
+#: ../../calendars/toc.rst:42 ../../calendars/toc.rst:61
+#: ../../calendars/toc.rst:92 ../../calendars/toc.rst:103
+#: ../../calendars/toc.rst:115 ../../calendars/toc.rst:127
+#: ../../calendars/toc.rst:213 ../../calendars/toc.rst:226
+#: ../../calendars/toc.rst:262 ../../calendars/toc.rst:273
+#: ../../calendars/toc.rst:286
 msgid "Select the **Calendars** from your left sidebar."
 msgstr ""
 
-#: ../../appointments/toc.rst:26 ../../appointments/toc.rst:112
+#: ../../appointments/toc.rst:26 ../../appointments/toc.rst:130
 #: ../../contacts/toc.rst:43 ../../tasks/toc.rst:21
 msgid ""
 "Click on the **NEW** button located on the top bar. A new board will "
@@ -1455,7 +1489,7 @@ msgstr ""
 msgid "Enter a title for the appointment in the **Event title** field."
 msgstr ""
 
-#: ../../appointments/toc.rst:29 ../../appointments/toc.rst:115
+#: ../../appointments/toc.rst:29 ../../appointments/toc.rst:133
 msgid ""
 "Specify a location for the appointment to occur in the **Location "
 "field**. If applicable, you may include details such as Room Number 2."
@@ -1470,7 +1504,7 @@ msgid ""
 "office are included."
 msgstr ""
 
-#: ../../appointments/toc.rst:31 ../../appointments/toc.rst:117
+#: ../../appointments/toc.rst:31 ../../appointments/toc.rst:135
 msgid ""
 "Choose the required equipment from the available options under the "
 "**Equipment field**. Please note that the equipment is configured by your"
@@ -1479,7 +1513,7 @@ msgid ""
 " such as cameras, displays, etc. in your office are included."
 msgstr ""
 
-#: ../../appointments/toc.rst:32 ../../appointments/toc.rst:118
+#: ../../appointments/toc.rst:32 ../../appointments/toc.rst:136
 msgid ""
 "If you prefer to host a virtual meeting using Carbonio Chats' video "
 "meeting feature in one of your virtual rooms, you can select the desired "
@@ -1488,14 +1522,14 @@ msgid ""
 "on the Carbonio web client."
 msgstr ""
 
-#: ../../appointments/toc.rst:33 ../../appointments/toc.rst:119
+#: ../../appointments/toc.rst:33 ../../appointments/toc.rst:137
 msgid ""
 "Enter the email addresses of the attendees into the **Attendees field**. "
 "You can leave this field empty if you are creating a personal appointment"
 " for yourself."
 msgstr ""
 
-#: ../../appointments/toc.rst:34 ../../appointments/toc.rst:120
+#: ../../appointments/toc.rst:34 ../../appointments/toc.rst:138
 msgid ""
 "Choose whether you would like Carbonio to mark this time slot for the "
 "appointment as busy or free from the **Display field**. This will inform "
@@ -1503,13 +1537,13 @@ msgid ""
 "another appointment during the same time slot."
 msgstr ""
 
-#: ../../appointments/toc.rst:35 ../../appointments/toc.rst:121
+#: ../../appointments/toc.rst:35 ../../appointments/toc.rst:139
 msgid ""
 "Choose the calendar in which you want to create the appointment from the "
 "**Calendar field**."
 msgstr ""
 
-#: ../../appointments/toc.rst:36 ../../appointments/toc.rst:122
+#: ../../appointments/toc.rst:36 ../../appointments/toc.rst:140
 msgid ""
 "Tick the **Private checkbox** if you wish to conceal the details of this "
 "appointment, such as its title, from your colleagues. Even if you have "
@@ -1526,7 +1560,7 @@ msgid ""
 " labeled **All day** if the appointment spans the entire day."
 msgstr ""
 
-#: ../../appointments/toc.rst:38 ../../appointments/toc.rst:124
+#: ../../appointments/toc.rst:38 ../../appointments/toc.rst:142
 msgid ""
 "Choose a reminder for the appointment from the **Reminder field** to "
 "ensure you are informed beforehand. Carbonio will display a warning "
@@ -1549,11 +1583,11 @@ msgid ""
 "Appointment* Section."
 msgstr ""
 
-#: ../../appointments/toc.rst:41 ../../appointments/toc.rst:125
+#: ../../appointments/toc.rst:41 ../../appointments/toc.rst:143
 msgid "Add any notes about this appointment in the text box."
 msgstr ""
 
-#: ../../appointments/toc.rst:42 ../../appointments/toc.rst:127
+#: ../../appointments/toc.rst:42 ../../appointments/toc.rst:145
 msgid ""
 "If you are creating the appointment solely for yourself, click **SAVE**. "
 "If your appointment includes attendees, as specified in step 8, click "
@@ -1561,105 +1595,147 @@ msgid ""
 msgstr ""
 
 #: ../../appointments/toc.rst:45
-msgid "Editing an Existing Appointment"
+msgid "Checking on attendees' availability with organizer tool"
 msgstr ""
 
 #: ../../appointments/toc.rst:47
+msgid ""
+"When scheduling a new meeting, with expected other attendees, you will "
+"also have the option to check on other attendees availability by simply "
+"opening the **organizer tool**. Once you open the editor to create the "
+"appointment, after selecting all participants (both mandatory and "
+"optional), simply scroll down and click the “Show organizer tool” button."
+" A new section will open, displaying a timeline chart for the selected "
+"time range, showing the availability of each participant in the meeting. "
+"This will make it easier to select the most convenient time for everyone."
+" This section is particularly useful when there are many participants, "
+"eliminating the need to check each individual calendar before choosing "
+"the time."
+msgstr ""
+
+#: ../../appointments/toc.rst:52
+msgid "Editing an Existing Appointment"
+msgstr ""
+
+#: ../../appointments/toc.rst:54
 msgid "To edit an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:50
+#: ../../appointments/toc.rst:57 ../../appointments/toc.rst:68
 msgid ""
 "Right-click on the appointment you wish to edit, which is displayed on "
 "your timetable."
 msgstr ""
 
-#: ../../appointments/toc.rst:51 ../../appointments/toc.rst:76
-#: ../../appointments/toc.rst:87 ../../appointments/toc.rst:98
+#: ../../appointments/toc.rst:58 ../../appointments/toc.rst:94
+#: ../../appointments/toc.rst:105 ../../appointments/toc.rst:116
 #: ../../chats(wsc)/toc.rst:71 ../../chats/toc.rst:73 ../../tasks/toc.rst:39
 msgid "Select **Edit** from the drop-down menu."
 msgstr ""
 
-#: ../../appointments/toc.rst:52 ../../appointments/toc.rst:77
+#: ../../appointments/toc.rst:59 ../../appointments/toc.rst:95
 msgid "Make changes."
 msgstr ""
 
-#: ../../appointments/toc.rst:53 ../../appointments/toc.rst:78
-#: ../../appointments/toc.rst:89 ../../appointments/toc.rst:100
+#: ../../appointments/toc.rst:60 ../../appointments/toc.rst:96
+#: ../../appointments/toc.rst:107 ../../appointments/toc.rst:118
 msgid ""
 "If you have created the appointment solely for yourself, click **SAVE**. "
 "If your appointment includes attendees, click **SEND** to notify them "
 "about the changes via an automatic email."
 msgstr ""
 
-#: ../../appointments/toc.rst:56
+#: ../../appointments/toc.rst:63
+msgid "Forwarding an Existing Appointment"
+msgstr ""
+
+#: ../../appointments/toc.rst:65
+msgid "To forward an existing appointment:"
+msgstr ""
+
+#: ../../appointments/toc.rst:69 ../../chats(wsc)/toc.rst:91
+#: ../../chats/toc.rst:93
+msgid "Select **Forward** from the drop-down menu."
+msgstr ""
+
+#: ../../appointments/toc.rst:70
+msgid ""
+"Enter the email address of the person you wish to forward the appointment"
+" to."
+msgstr ""
+
+#: ../../appointments/toc.rst:71
+msgid "Click **FORWARD** to send the appointment to the specified email address."
+msgstr ""
+
+#: ../../appointments/toc.rst:74
 msgid "Canceling an Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:58
+#: ../../appointments/toc.rst:76
 msgid "To cancel an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:61 ../../appointments/toc.rst:75
-#: ../../appointments/toc.rst:86 ../../appointments/toc.rst:97
+#: ../../appointments/toc.rst:79 ../../appointments/toc.rst:93
+#: ../../appointments/toc.rst:104 ../../appointments/toc.rst:115
 msgid "Right-click on the appointment displayed on your timetable."
 msgstr ""
 
-#: ../../appointments/toc.rst:62 ../../chats/toc.rst:103
+#: ../../appointments/toc.rst:80 ../../chats/toc.rst:103
 #: ../../files/toc.rst:100 ../../tasks/toc.rst:50
 msgid "Select **Delete** from the drop-down menu."
 msgstr ""
 
-#: ../../appointments/toc.rst:63
+#: ../../appointments/toc.rst:81
 msgid "Click the **SEND CANCELATION** or **DELETE** button to confirm."
 msgstr ""
 
-#: ../../appointments/toc.rst:65
+#: ../../appointments/toc.rst:83
 msgid ""
 "If there are attendees for this appointment, a notification email will "
 "automatically be sent to the attendees to inform them about the "
 "cancellation."
 msgstr ""
 
-#: ../../appointments/toc.rst:68
+#: ../../appointments/toc.rst:86
 msgid "Moving an Existing Appointment to a Different Time"
 msgstr ""
 
-#: ../../appointments/toc.rst:70
+#: ../../appointments/toc.rst:88
 msgid ""
 "To reschedule an appointment to a different time, you can simply click "
 "and hold on to the appointment in your timetable and drag it to another "
 "time slot."
 msgstr ""
 
-#: ../../appointments/toc.rst:72
+#: ../../appointments/toc.rst:90
 msgid "Alternatively:"
 msgstr ""
 
-#: ../../appointments/toc.rst:81
+#: ../../appointments/toc.rst:99
 msgid "Adding / Removing Attendees to an Existing Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:83
+#: ../../appointments/toc.rst:101
 msgid "To add or remove attendees to an appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:88
+#: ../../appointments/toc.rst:106
 msgid ""
 "To add attendees, enter the email addresses of new attendees into the "
 "**Attendees field**. To remove attendees, click the cross button next to "
 "the attendees' email addresses."
 msgstr ""
 
-#: ../../appointments/toc.rst:92
+#: ../../appointments/toc.rst:110
 msgid "Adding a Meeting Room to an Existing Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:94
+#: ../../appointments/toc.rst:112
 msgid "To add a meeting room to an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:99
+#: ../../appointments/toc.rst:117
 msgid ""
 "Choose a meeting room from the available options in the **Meeting room "
 "field**. Alternatively, if you prefer to host a virtual meeting using "
@@ -1667,7 +1743,7 @@ msgid ""
 "can select the desired virtual room from the **Virtual Room field**."
 msgstr ""
 
-#: ../../appointments/toc.rst:102
+#: ../../appointments/toc.rst:120
 msgid ""
 "Please note that these meeting rooms are configured by your system "
 "administrator. If you do not see the desired room listed, kindly contact "
@@ -1677,11 +1753,11 @@ msgid ""
 " web client."
 msgstr ""
 
-#: ../../appointments/toc.rst:105
+#: ../../appointments/toc.rst:123
 msgid "Creating a Recurring Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:107
+#: ../../appointments/toc.rst:125
 msgid ""
 "A recurring appointment is an event scheduled to occur repeatedly at "
 "specified intervals, such as daily, weekly, monthly, or yearly. Rather "
@@ -1690,21 +1766,21 @@ msgid ""
 " your chosen pattern."
 msgstr ""
 
-#: ../../appointments/toc.rst:109
+#: ../../appointments/toc.rst:127
 msgid "To create a recurring new appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:113
+#: ../../appointments/toc.rst:131
 msgid ""
 "In the **From field**, select the identity you want to use to schedule "
 "and send the appointment invitation."
 msgstr ""
 
-#: ../../appointments/toc.rst:114
+#: ../../appointments/toc.rst:132
 msgid "Enter a title for the appointment in the **Event title field**."
 msgstr ""
 
-#: ../../appointments/toc.rst:116
+#: ../../appointments/toc.rst:134
 msgid ""
 "Choose a meeting room from the available options in the **Meeting room "
 "field**. Please note that these meeting rooms are configured by your "
@@ -1713,7 +1789,7 @@ msgid ""
 " your office are included."
 msgstr ""
 
-#: ../../appointments/toc.rst:123
+#: ../../appointments/toc.rst:141
 msgid ""
 "Choose the time slot for the appointment by specifying the start date and"
 " time in the **Start date and time field**, and the end date and time in "
@@ -1721,113 +1797,113 @@ msgid ""
 " labeled All day if the appointment spans the entire day."
 msgstr ""
 
-#: ../../appointments/toc.rst:126
+#: ../../appointments/toc.rst:144
 msgid ""
 "Choose your preferred option (Every Day, Every Week, Every Month, Every "
 "Year) from the **Repeat field** to establish the recurring pattern."
 msgstr ""
 
-#: ../../appointments/toc.rst:130
+#: ../../appointments/toc.rst:148
 msgid "Canceling a Recurring Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:132
+#: ../../appointments/toc.rst:150
 msgid "To cancel a recurring appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:135 ../../appointments/toc.rst:148
+#: ../../appointments/toc.rst:153 ../../appointments/toc.rst:166
 msgid ""
 "Right-click on the appointment you wish to cancel, which is displayed on "
 "your timetable."
 msgstr ""
 
-#: ../../appointments/toc.rst:136
+#: ../../appointments/toc.rst:154
 msgid "Go to the **Series** from the drop-down menu and select **Delete**."
 msgstr ""
 
-#: ../../appointments/toc.rst:137
+#: ../../appointments/toc.rst:155
 msgid ""
 "In this step, you can choose whether to delete all occurrences or only "
 "this and future occurrences by selecting the appropriate option."
 msgstr ""
 
-#: ../../appointments/toc.rst:138 ../../appointments/toc.rst:150
+#: ../../appointments/toc.rst:156 ../../appointments/toc.rst:168
 msgid ""
 "Click **DELETE** to confirm. If prompted, click **SEND CANCELATION** as "
 "well."
 msgstr ""
 
-#: ../../appointments/toc.rst:140 ../../appointments/toc.rst:152
+#: ../../appointments/toc.rst:158 ../../appointments/toc.rst:170
 msgid ""
 "If there are attendees for this appointment, a notification email will be"
 " automatically sent to the attendees to inform them about the "
 "cancellation."
 msgstr ""
 
-#: ../../appointments/toc.rst:143
+#: ../../appointments/toc.rst:161
 msgid "Canceling a Single Instance of a Recurring Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:145
+#: ../../appointments/toc.rst:163
 msgid "To cancel a single instance of a recurring appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:149
+#: ../../appointments/toc.rst:167
 msgid "Go to the **Instance** from the drop-down menu and select **Delete**."
 msgstr ""
 
-#: ../../appointments/toc.rst:155
+#: ../../appointments/toc.rst:173
 msgid "Responding to an Appointment Invitation"
 msgstr ""
 
-#: ../../appointments/toc.rst:157
+#: ../../appointments/toc.rst:175
 msgid ""
 "When a colleague sends you an invitation for an appointment, you will "
 "receive an automatic email indicating that you are invited. Inside the "
 "email, you have four options to choose from:"
 msgstr ""
 
-#: ../../appointments/toc.rst:160
+#: ../../appointments/toc.rst:178
 msgid "**YES**: Confirm your attendance for the appointment."
 msgstr ""
 
-#: ../../appointments/toc.rst:161
+#: ../../appointments/toc.rst:179
 msgid "**MAYBE**: Indicate that you are unsure about attending the appointment."
 msgstr ""
 
-#: ../../appointments/toc.rst:162
+#: ../../appointments/toc.rst:180
 msgid ""
 "**NO**: Decline the invitation and indicate that you will not attend the "
 "appointment."
 msgstr ""
 
-#: ../../appointments/toc.rst:163
+#: ../../appointments/toc.rst:181
 msgid ""
 "**PROPOSE NEW TIME**: Suggest an alternative time for the appointment if "
 "the proposed time is not suitable for you."
 msgstr ""
 
-#: ../../appointments/toc.rst:165
+#: ../../appointments/toc.rst:183
 msgid ""
 "Before selecting **YES**, you can also choose the calendar in which you "
 "want to save the appointment from the Calendar field."
 msgstr ""
 
-#: ../../appointments/toc.rst:167
+#: ../../appointments/toc.rst:185
 msgid ""
 "If you choose **PROPOSE NEW TIME**, a new window will appear where you "
 "can select a new time slot for the appointment and then click the "
 "**SEND** button."
 msgstr ""
 
-#: ../../appointments/toc.rst:169
+#: ../../appointments/toc.rst:187
 msgid ""
 "Furthermore, you have the option to enable or disable the **Notify "
 "organizer checkbox** based on whether you wish to send an automatic email"
 " notification to them or not."
 msgstr ""
 
-#: ../../appointments/toc.rst:171
+#: ../../appointments/toc.rst:189
 msgid ""
 "After selecting one of the four buttons, the invitation email will "
 "automatically be moved to your Trash folder."
@@ -2478,7 +2554,7 @@ msgstr ""
 msgid "Under the Sharing of this folder section, click **REVOKE**."
 msgstr ""
 
-#: ../../basic_email_management/toc.rst:320 ../../files/toc.rst:480
+#: ../../basic_email_management/toc.rst:320 ../../files/toc.rst:482
 msgid "Click the **REVOKE** button to confirm."
 msgstr ""
 
@@ -2525,7 +2601,7 @@ msgid ""
 "list."
 msgstr ""
 
-#: ../../basic_email_management/toc.rst:346 ../../calendars/toc.rst:215
+#: ../../basic_email_management/toc.rst:346 ../../calendars/toc.rst:217
 #: ../../contacts/toc.rst:240
 msgid "Click the **ADD** button."
 msgstr ""
@@ -2685,35 +2761,68 @@ msgid ""
 "scattered throughout their inbox."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:73
+#: ../../browsing_emails/toc.rst:72
+msgid "Reading Email Header Security Information"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:74
+msgid ""
+"You will now receive visual notifications within the email body and the "
+"header will display specific security and informational criteria. This "
+"includes notifications for:"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:76
+msgid "External domain origins"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:77
+msgid "Signatures, such as DMARC and DKIM"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:78
+msgid "Confidentiality markers"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:79
+msgid "Distribution-list origins"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:81
+msgid ""
+"These enhancements are designed to increase your awareness of potential "
+"security risks and improve content integrity."
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:85
 msgid "Changing Email Visualization Method"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:75
+#: ../../browsing_emails/toc.rst:87
 msgid ""
 "To adjust Carbonio's email visualization, whether opting for threaded "
 "conversations or individual messages:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:77
+#: ../../browsing_emails/toc.rst:89
 msgid "Navigate to the **Settings** (Gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:78
+#: ../../browsing_emails/toc.rst:90
 msgid "Access the **Mails** section."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:79
+#: ../../browsing_emails/toc.rst:91
 msgid ""
 "Under the **Visualization Options** select your preferred viewing mode, "
 "either *By Conversation* or *By Message*."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:87
+#: ../../browsing_emails/toc.rst:99
 msgid "Email Attachment Files"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:89
+#: ../../browsing_emails/toc.rst:101
 msgid ""
 "Emails can contain various types of attached files, such as word "
 "processing documents, spreadsheets, text files, ZIP archives, images, "
@@ -2722,21 +2831,21 @@ msgid ""
 " icon next to the subject line."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:91
+#: ../../browsing_emails/toc.rst:103
 msgid ""
 "You can directly access any attached file from your account, provided you"
 " have the appropriate application, and the file extension is not blocked "
 "by your system administrator."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:93
+#: ../../browsing_emails/toc.rst:105
 msgid ""
 "If your computer has compatible software installed, simply downloading, "
 "and double-clicking on the file will open it in the correct application "
 "for viewing."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:95
+#: ../../browsing_emails/toc.rst:107
 msgid ""
 "File attachments are a common vector for spreading computer viruses. To "
 "mitigate this risk, system administrators often block incoming emails "
@@ -2745,14 +2854,14 @@ msgid ""
 "system administrators to allow such files."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:97
+#: ../../browsing_emails/toc.rst:109
 msgid ""
 "Virus filtering for incoming emails and regular virus scans for personal "
 "computers are standard practices among system administrators. However, "
 "there is always a possibility of a virus slipping through these defenses."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:99
+#: ../../browsing_emails/toc.rst:111
 msgid ""
 "Email viruses are typically activated when the infected attachment is "
 "opened or viewed. Many of these viruses propagate themselves by "
@@ -2761,26 +2870,26 @@ msgid ""
 "senders."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:103
+#: ../../browsing_emails/toc.rst:115
 msgid "Previewing Attachments"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:105
+#: ../../browsing_emails/toc.rst:117
 msgid "To access an attachment, follow these steps:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:107
+#: ../../browsing_emails/toc.rst:119
 msgid "Open the message containing the attachment."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:108
+#: ../../browsing_emails/toc.rst:120
 msgid ""
 "Click on the attachment's name to open it, provided it is one of the "
 "following file formats: PDF, ODT, ODS, ODP, DOC, XLS, PPT, DOCX, XLSX, "
 "PPTX."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:110
+#: ../../browsing_emails/toc.rst:122
 msgid ""
 "Alternatively, if the attachment has a different file format, **hover** "
 "your mouse cursor over the attachment's name to reveal the **Download "
@@ -2790,11 +2899,11 @@ msgid ""
 "remove it."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:119 ../../composing_emails/toc.rst:119
+#: ../../browsing_emails/toc.rst:131 ../../composing_emails/toc.rst:119
 msgid "Removing Attachments"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:121
+#: ../../browsing_emails/toc.rst:133
 msgid ""
 "Attachments included in your email contribute to your storage quota. "
 "Consider removing larger attachments to free up space. Deleting the "
@@ -2803,76 +2912,76 @@ msgid ""
 " on your device."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:123
+#: ../../browsing_emails/toc.rst:135
 msgid "To remove an attachment:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:125
+#: ../../browsing_emails/toc.rst:137
 msgid "Open the email that includes the attachment."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:126
+#: ../../browsing_emails/toc.rst:138
 msgid ""
 "Hover your mouse cursor on the attachment to reveal the **Delete icon**. "
 "Click on it to remove the attachment."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:133
+#: ../../browsing_emails/toc.rst:145
 msgid "Downloading / Saving Attachments on Your Computer"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:135
+#: ../../browsing_emails/toc.rst:147
 msgid "To download an attachment to your computer:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:137 ../../browsing_emails/toc.rst:151
+#: ../../browsing_emails/toc.rst:149 ../../browsing_emails/toc.rst:163
 msgid "Open the email containing the attachment."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:138
+#: ../../browsing_emails/toc.rst:150
 msgid ""
 "Under the attachment, click **Download** to initiate the download "
 "process. This will open a window, enabling you to specify the destination"
 " folder."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:147
+#: ../../browsing_emails/toc.rst:159
 msgid "Saving Attachments in Your Carbonio Files"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:149
+#: ../../browsing_emails/toc.rst:161
 msgid "To save an attachment in your Carbonio Files:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:152
+#: ../../browsing_emails/toc.rst:164
 msgid ""
 "Under the attachment, click **Save to Files**. This will open a window, "
 "enabling you to specify the destination folder on your Files."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:159
+#: ../../browsing_emails/toc.rst:171
 msgid "Deleting an Email"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:161
+#: ../../browsing_emails/toc.rst:173
 msgid ""
 "You have the option to remove an individual email or entire conversation "
 "thread. For that:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:163
+#: ../../browsing_emails/toc.rst:175
 msgid "Right-click on the email or conversation you want to remove."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:164
+#: ../../browsing_emails/toc.rst:176
 msgid "Choose the **Delete** option from the menu."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:165
+#: ../../browsing_emails/toc.rst:177
 msgid "The deleted emails will then be moved to your **Trash folder**."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:167
+#: ../../browsing_emails/toc.rst:179
 msgid ""
 "Deleted emails will then be moved to your Trash folder. You can retrieve "
 "items from the Trash within a 30-day window after deletion (unless your "
@@ -2880,73 +2989,77 @@ msgid ""
 "will be permanently removed."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:169
+#: ../../browsing_emails/toc.rst:181
 msgid ""
 "Additionally, you can manually access your Trash folder and permanently "
 "erase the email by right-clicking on it and selecting **Delete "
 "Permanently**."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:175
+#: ../../browsing_emails/toc.rst:189
+msgid "Recovering Messages"
+msgstr ""
+
+#: ../../browsing_emails/toc.rst:191
 msgid ""
 "There is the chance, if enabled by your system administrator, to recover "
 "even permanently deleted emails. To do so, you will need to follow these "
 "steps:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:177
+#: ../../browsing_emails/toc.rst:193
 msgid "Click on the **gear icon** in the left panel."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:178
+#: ../../browsing_emails/toc.rst:194
 msgid ""
 "Click on the **‘Mails’** option and scroll down to the **‘Recover "
 "Messages’** section."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:179
+#: ../../browsing_emails/toc.rst:195
 msgid "Enter a keyword and/or the date of the email you wish to recover."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:180
+#: ../../browsing_emails/toc.rst:196
 msgid ""
 "Click on ‘Search E-mails’ and then on **‘Start Search’** in the pop-up "
 "window that will appear."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:181
+#: ../../browsing_emails/toc.rst:197
 msgid ""
 "Select the email you intend to recover by ticking the flag and click the "
 "**‘Recover Selected E-mails’** button in the top-right corner."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:182
+#: ../../browsing_emails/toc.rst:198
 msgid "Click on **‘Start Recovery’** in the pop-up window that appears."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:183
+#: ../../browsing_emails/toc.rst:199
 msgid ""
 "You will find the recovered email inside a folder in your inbox, renamed "
 "with the date and time details of the recovery."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:184
+#: ../../browsing_emails/toc.rst:200
 msgid ""
 "You will also receive a notification in your inbox with the details of "
 "the recovery process outcome."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:186
+#: ../../browsing_emails/toc.rst:202
 msgid ""
 "Please note that the ability to perform this operation strictly depends "
 "on the backup settings configured by your system administrator."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:189
+#: ../../browsing_emails/toc.rst:205
 msgid "Marking an Email as Unread"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:191
+#: ../../browsing_emails/toc.rst:207
 msgid ""
 "Marking emails as unread can be particularly helpful when you need to "
 "revisit an email for future reference or further reading, especially if "
@@ -2954,7 +3067,7 @@ msgid ""
 "with its content."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:193
+#: ../../browsing_emails/toc.rst:209
 msgid ""
 "The key distinction between a read and unread email lies in their "
 "appearance within your inbox: read emails typically display with regular "
@@ -2962,106 +3075,106 @@ msgid ""
 "easier to spot."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:195
+#: ../../browsing_emails/toc.rst:211
 msgid "To mark an email as unread, follow these steps:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:197
+#: ../../browsing_emails/toc.rst:213
 msgid "Right-click on the email you wish to mark as unread."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:198
+#: ../../browsing_emails/toc.rst:214
 msgid "From the menu that appears, select **Mark as unread**."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:199
+#: ../../browsing_emails/toc.rst:215
 msgid "Notice how the email's subject line now appears in bold font."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:201
+#: ../../browsing_emails/toc.rst:217
 msgid ""
 "It is important to be cautious after marking an email as unread, as "
 "inadvertently clicking on it again will remove the bold formatting from "
 "the subject line which undo your action."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:210
+#: ../../browsing_emails/toc.rst:226
 msgid "Printing an Email"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:213
+#: ../../browsing_emails/toc.rst:229
 msgid "To print an email:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:215
+#: ../../browsing_emails/toc.rst:231
 msgid "Right-click on the email or conversation you wish to print."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:216
+#: ../../browsing_emails/toc.rst:232
 msgid "Select the **Print** option from the menu."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:217
+#: ../../browsing_emails/toc.rst:233
 msgid ""
 "A new tab will open in your browser displaying the email, along with a "
 "window for adjusting printer settings. Make any necessary adjustments."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:218
+#: ../../browsing_emails/toc.rst:234
 msgid "Click the Print button to proceed with printing."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:226
+#: ../../browsing_emails/toc.rst:242
 msgid "Actions on Multiple Emails at Once"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:228
+#: ../../browsing_emails/toc.rst:244
 msgid "To perform an action on multiple emails:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:230
+#: ../../browsing_emails/toc.rst:246
 msgid ""
 "Click on the check mark icon at the top left corner of your main panel to"
 " enter selection mode."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:231
+#: ../../browsing_emails/toc.rst:247
 msgid "Select the empty circles beside each email you wish to choose."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:232
+#: ../../browsing_emails/toc.rst:248
 msgid ""
 "Click on the three vertical dots icon at the top right corner of the "
 "email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:233
+#: ../../browsing_emails/toc.rst:249
 msgid "Choose the action you want to perform."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:235
+#: ../../browsing_emails/toc.rst:251
 msgid ""
 "The available actions for multiple emails include marking as unread, "
 "adding a flag, moving, and tagging."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:237
+#: ../../browsing_emails/toc.rst:253
 msgid "To delete multiple emails at once:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:239
+#: ../../browsing_emails/toc.rst:255
 msgid "Select multiple emails as described above."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:240
+#: ../../browsing_emails/toc.rst:256
 msgid "Click on the trash icon at the top right corner of your email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:248
+#: ../../browsing_emails/toc.rst:264
 msgid "Sorting Emails"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:250
+#: ../../browsing_emails/toc.rst:266
 msgid ""
 "Sorting emails can offer significant utility across various scenarios. "
 "You have the flexibility to categorize emails based on criteria such as "
@@ -3069,46 +3182,46 @@ msgid ""
 "sender, date, and subject."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:252
+#: ../../browsing_emails/toc.rst:268
 msgid ""
 "To initiate sorting, click on the **sorting icon** located in the top "
 "right corner of your email list."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:253
+#: ../../browsing_emails/toc.rst:269
 msgid "Choose your preferred sorting criterion from the options provided."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:254
+#: ../../browsing_emails/toc.rst:270
 msgid ""
 "Once selected, click on the sorting icon again to toggle between "
 "ascending and descending order as per your preference."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:256
+#: ../../browsing_emails/toc.rst:272
 msgid ""
 "The default sorting mode automatically arranges emails based on their "
 "dates."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:265
+#: ../../browsing_emails/toc.rst:281
 msgid "Emails date format"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:267
+#: ../../browsing_emails/toc.rst:283
 msgid ""
 "To ensure clarity, the date format for emails that are not from the "
 "current day, it will always be displayed with the full date and time, "
 "with the complete timestamp."
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:269
+#: ../../browsing_emails/toc.rst:285
 msgid ""
 "The timestamp will be shown according to the browser language rules, as "
 "explained in the following table:"
 msgstr ""
 
-#: ../../browsing_emails/toc.rst:271
+#: ../../browsing_emails/toc.rst:287
 msgid "Date Format"
 msgstr ""
 
@@ -3584,169 +3697,273 @@ msgid ""
 "team members."
 msgstr ""
 
-#: ../../calendars/toc.rst:185
-msgid "Sharing Calendars with Your Colleagues"
+#: ../../calendars/toc.rst:184
+msgid ""
+"If you set the viewing mode to ‘daily’ by clicking on the appropriate "
+"icon at the top right, you will also have the opportunity to view each "
+"appointment separately, divided into separate columns, for clearer "
+"visibility of each team member’s calendars."
 msgstr ""
 
 #: ../../calendars/toc.rst:187
+msgid "Sharing Calendars with Your Colleagues"
+msgstr ""
+
+#: ../../calendars/toc.rst:189
 msgid "To share your calendar with your colleagues:"
 msgstr ""
 
-#: ../../calendars/toc.rst:189 ../../calendars/toc.rst:199
+#: ../../calendars/toc.rst:191 ../../calendars/toc.rst:201
 msgid "Navigate to the **Calendars** section from the left sidebar."
 msgstr ""
 
-#: ../../calendars/toc.rst:190 ../../calendars/toc.rst:200
+#: ../../calendars/toc.rst:192 ../../calendars/toc.rst:202
 msgid "Right-click on the calendar you wish to share."
 msgstr ""
 
-#: ../../calendars/toc.rst:191
+#: ../../calendars/toc.rst:193
 msgid "From the drop-down menu select **Share Calendar**."
 msgstr ""
 
-#: ../../calendars/toc.rst:192 ../../contacts/toc.rst:203
+#: ../../calendars/toc.rst:194 ../../contacts/toc.rst:203
 msgid "From the Share with field, select Internal Users or Groups."
 msgstr ""
 
-#: ../../calendars/toc.rst:193
+#: ../../calendars/toc.rst:195
 msgid ""
 "Enter the email addresses of your colleagues with whom you wish to share "
 "the calendar into the **Recipients’ e-mail addresses** field."
 msgstr ""
 
-#: ../../calendars/toc.rst:194
+#: ../../calendars/toc.rst:196
 msgid "Select the role from the **Role** field."
 msgstr ""
 
-#: ../../calendars/toc.rst:195
+#: ../../calendars/toc.rst:197
 msgid "Click the **SHARE CALENDAR** button."
 msgstr ""
 
-#: ../../calendars/toc.rst:197
+#: ../../calendars/toc.rst:199
 msgid ""
 "Alternatively, you can share you are a URL to be able to share your "
 "calendar with your collaborators:"
 msgstr ""
 
-#: ../../calendars/toc.rst:201
+#: ../../calendars/toc.rst:203
 msgid ""
 "From the drop-down menu select **Calendar’s access share**. A new window "
 "appears."
 msgstr ""
 
-#: ../../calendars/toc.rst:202
+#: ../../calendars/toc.rst:204
 msgid "Select either the **ICS URL** or the **OUTLOOK URL**."
 msgstr ""
 
-#: ../../calendars/toc.rst:204
+#: ../../calendars/toc.rst:206
 msgid ""
 "The link is copied to your clipboard. You can then send it to your "
 "collaborators via email or message by pasting it, or by using the "
 "keyboard shortcut CTRL+V on Windows or Command+V on macOS."
 msgstr ""
 
-#: ../../calendars/toc.rst:207
+#: ../../calendars/toc.rst:209
 msgid "Find Colleagues' Shared Calendars"
 msgstr ""
 
-#: ../../calendars/toc.rst:209
+#: ../../calendars/toc.rst:211
 msgid "To find and add your colleagues’ shared calendars:"
 msgstr ""
 
-#: ../../calendars/toc.rst:212
+#: ../../calendars/toc.rst:214
 msgid ""
 "From the Navigation Panel, click the **FIND SHARES** button. A new window"
 " appears."
 msgstr ""
 
-#: ../../calendars/toc.rst:213
+#: ../../calendars/toc.rst:215
 msgid ""
 "Begin typing your colleague’s email address and select it from the "
 "suggestions that appear."
 msgstr ""
 
-#: ../../calendars/toc.rst:214
+#: ../../calendars/toc.rst:216
 msgid "Select the calendar shared with you from the list."
 msgstr ""
 
-#: ../../calendars/toc.rst:217
+#: ../../calendars/toc.rst:219
 msgid "The shared calendar will appear in your calendars list."
 msgstr ""
 
-#: ../../calendars/toc.rst:220
-msgid "Remove a Colleague's Shared Calendars from Your List"
-msgstr ""
-
 #: ../../calendars/toc.rst:222
-msgid "To remove a colleague’s shared calendar from your calendars list:"
+msgid "Creating Calendar Groups"
 msgstr ""
 
-#: ../../calendars/toc.rst:225
-msgid "From the Navigation Panel, right-click on the calendar you wish to remove."
+#: ../../calendars/toc.rst:224
+msgid ""
+"You also have the option to create calendar groups, making it easier to "
+"search for certain shared calendars. To do this, simply:"
 msgstr ""
 
-#: ../../calendars/toc.rst:226
-msgid "From the drop-down menu select **Remove shared calendar**."
+#: ../../calendars/toc.rst:227
+msgid "Click on **Create New Group** button."
+msgstr ""
+
+#: ../../calendars/toc.rst:228
+msgid ""
+"Enter the name of the group in the proper field of the new modal that "
+"appears."
 msgstr ""
 
 #: ../../calendars/toc.rst:229
-msgid "Import an ICS File as New Calendar"
+msgid ""
+"Select the calendars you wish to add to the group from the list, by "
+"simply searching for them."
+msgstr ""
+
+#: ../../calendars/toc.rst:230
+msgid "Click the **+** button, to add them all."
 msgstr ""
 
 #: ../../calendars/toc.rst:231
+msgid "Click the **REMOVE** button, if you have to remove some of them."
+msgstr ""
+
+#: ../../calendars/toc.rst:232
+msgid "Click the **CREATE GROUP** button."
+msgstr ""
+
+#: ../../calendars/toc.rst:234
+msgid ""
+"Now you can switch on and off the group everytime you need to see all the"
+" calendars of the users in that group."
+msgstr ""
+
+#: ../../calendars/toc.rst:237
+msgid "Editing Calendar Groups"
+msgstr ""
+
+#: ../../calendars/toc.rst:239
+msgid "To edit a calendar group, follow these steps:"
+msgstr ""
+
+#: ../../calendars/toc.rst:241
+msgid "Right-click on the group you want to edit."
+msgstr ""
+
+#: ../../calendars/toc.rst:242
+msgid "Select **Edit Group** option."
+msgstr ""
+
+#: ../../calendars/toc.rst:243
+msgid ""
+"Make the necessary changes to the group name or the calendars included in"
+" the group."
+msgstr ""
+
+#: ../../calendars/toc.rst:244
+msgid "Click the **SAVE CHANGES** button."
+msgstr ""
+
+#: ../../calendars/toc.rst:247
+msgid "Deeleting Calendar Groups"
+msgstr ""
+
+#: ../../calendars/toc.rst:249
+msgid "To delete a calendar group, simply:"
+msgstr ""
+
+#: ../../calendars/toc.rst:251
+msgid "Right-click on the group you want to delete."
+msgstr ""
+
+#: ../../calendars/toc.rst:252
+msgid "Select **Delete permanently** option."
+msgstr ""
+
+#: ../../calendars/toc.rst:253
+msgid ""
+"Confirm that you want to delete the group, by clicking on the red button "
+"**DELETE PERMANENTLY**"
+msgstr ""
+
+#: ../../calendars/toc.rst:254
+msgid "The group will be permanently deleted."
+msgstr ""
+
+#: ../../calendars/toc.rst:258
+msgid "Remove a Colleague's Shared Calendars from Your List"
+msgstr ""
+
+#: ../../calendars/toc.rst:260
+msgid "To remove a colleague’s shared calendar from your calendars list:"
+msgstr ""
+
+#: ../../calendars/toc.rst:263
+msgid "From the Navigation Panel, right-click on the calendar you wish to remove."
+msgstr ""
+
+#: ../../calendars/toc.rst:264
+msgid "From the drop-down menu select **Remove shared calendar**."
+msgstr ""
+
+#: ../../calendars/toc.rst:269
+msgid "Import an ICS File as New Calendar"
+msgstr ""
+
+#: ../../calendars/toc.rst:271
 msgid ""
 "You can import a calendar in .ics format directly to your Carbonio web "
 "client calendar. To do so:"
 msgstr ""
 
-#: ../../calendars/toc.rst:234
+#: ../../calendars/toc.rst:274
 msgid ""
 "In the Navigation Panel, right-click on \"Calendar\" and select the voice"
 " \"New Calendar\": this step is not mandatory, but recommended to avoid "
 "mixing existing calendars with the imported one."
 msgstr ""
 
-#: ../../calendars/toc.rst:235
+#: ../../calendars/toc.rst:275
 msgid ""
 "Choose the name and settings of the new calendar that will contain the "
 "imported data and save it."
 msgstr ""
 
-#: ../../calendars/toc.rst:236
+#: ../../calendars/toc.rst:276
 msgid "Right-click on the new calendar and select the \"Import ICS file\" option."
 msgstr ""
 
-#: ../../calendars/toc.rst:237
+#: ../../calendars/toc.rst:277
 msgid "Select the .ics file containing the calendar, stored on your computer."
 msgstr ""
 
-#: ../../calendars/toc.rst:238
+#: ../../calendars/toc.rst:278
 msgid "Click **Open** and **Import**."
 msgstr ""
 
-#: ../../calendars/toc.rst:239
+#: ../../calendars/toc.rst:279
 msgid "Refresh the page to get the updated calendar view."
 msgstr ""
 
-#: ../../calendars/toc.rst:242
+#: ../../calendars/toc.rst:282
 msgid "Export an ICS File as New Calendar"
 msgstr ""
 
-#: ../../calendars/toc.rst:244
+#: ../../calendars/toc.rst:284
 msgid ""
 "You can also export a calendar in .ics format directly from your Carbonio"
 " web client calendar. To do so:"
 msgstr ""
 
-#: ../../calendars/toc.rst:247
+#: ../../calendars/toc.rst:287
 msgid "In the Navigation Panel, right-click on \"Calendar\" you want to export."
 msgstr ""
 
-#: ../../calendars/toc.rst:248
+#: ../../calendars/toc.rst:288
 msgid "Select the \"Export ICS file\" option."
 msgstr ""
 
-#: ../../calendars/toc.rst:249
+#: ../../calendars/toc.rst:289
 msgid ""
 "The download will start in a while, find you .ics file in your download "
 "folder."
@@ -3948,10 +4165,6 @@ msgstr ""
 msgid "To forward a message:"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:91 ../../chats/toc.rst:93
-msgid "Select **Forward** from the drop-down menu."
-msgstr ""
-
 #: ../../chats(wsc)/toc.rst:92
 msgid "Click **FORWARD** at the bottom right corner of the chat box"
 msgstr ""
@@ -4112,7 +4325,7 @@ msgstr ""
 #: ../../chats(wsc)/toc.rst:192 ../../chats(wsc)/toc.rst:204
 #: ../../chats/toc.rst:45 ../../chats/toc.rst:58 ../../chats/toc.rst:134
 #: ../../chats/toc.rst:150 ../../chats/toc.rst:163 ../../chats/toc.rst:173
-#: ../../chats/toc.rst:183 ../../chats/toc.rst:192 ../../chats/toc.rst:203
+#: ../../chats/toc.rst:183 ../../chats/toc.rst:192 ../../chats/toc.rst:208
 #: ../../videomeetings/toc.rst:33 ../../videomeetings/toc.rst:47
 #: ../../videomeetings/toc.rst:66 ../../videomeetings/toc.rst:78
 #: ../../videomeetings/toc.rst:90 ../../videomeetings/toc.rst:104
@@ -4202,11 +4415,11 @@ msgstr ""
 msgid "Press the save icon on the right."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:200 ../../chats/toc.rst:199
+#: ../../chats(wsc)/toc.rst:200 ../../chats/toc.rst:204
 msgid "Search for A Member in Your Chats List"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:202 ../../chats/toc.rst:201
+#: ../../chats(wsc)/toc.rst:202 ../../chats/toc.rst:206
 msgid "To search for a colleague in your chat list:"
 msgstr ""
 
@@ -4280,7 +4493,7 @@ msgid "Click **DELETE** to confirm."
 msgstr ""
 
 #: ../../chats/toc.rst:135 ../../contacts/toc.rst:177 ../../files/toc.rst:32
-#: ../../files/toc.rst:42 ../../files/toc.rst:160 ../../files/toc.rst:171
+#: ../../files/toc.rst:42 ../../files/toc.rst:162 ../../files/toc.rst:173
 msgid "From the top bar, click the **downward arrow** next to the **NEW** button."
 msgstr ""
 
@@ -4333,7 +4546,21 @@ msgstr ""
 msgid "Edit the name."
 msgstr ""
 
-#: ../../chats/toc.rst:204
+#: ../../chats/toc.rst:199
+msgid "Exporting a Group to the New Chat (WSC):"
+msgstr ""
+
+#: ../../chats/toc.rst:201
+msgid ""
+"To export an existing group to the new chat, simply enter the group, "
+"click the button on the right, below the group’s name, **COPY GROUP**. A "
+"modal will then appear with all the information related to migrating the "
+"group from the old chat to the new one. Simply click the **CONTINUE** "
+"button, and the group will be duplicated, redirecting you to the exported"
+" group in the new chat."
+msgstr ""
+
+#: ../../chats/toc.rst:209
 msgid "Under the **Filter chats list** field, insert your colleague's name."
 msgstr ""
 
@@ -4956,7 +5183,7 @@ msgstr ""
 #: ../../contacts/toc.rst:163 ../../contacts/toc.rst:176
 #: ../../contacts/toc.rst:201 ../../contacts/toc.rst:222
 #: ../../contacts/toc.rst:236 ../../contacts/toc.rst:249
-#: ../../contacts/toc.rst:260
+#: ../../contacts/toc.rst:262
 msgid "Select the **Contacts** from your left sidebar."
 msgstr ""
 
@@ -5078,7 +5305,7 @@ msgid "Right-click on the contact you wish to move."
 msgstr ""
 
 #: ../../contacts/toc.rst:107 ../../contacts/toc.rst:118
-#: ../../files/toc.rst:212
+#: ../../files/toc.rst:214
 msgid "Select **Move** from the drop-down menu. A new window appears."
 msgstr ""
 
@@ -5087,7 +5314,7 @@ msgid "Select the destination address book."
 msgstr ""
 
 #: ../../contacts/toc.rst:109 ../../contacts/toc.rst:120
-#: ../../files/toc.rst:214
+#: ../../files/toc.rst:216
 msgid "Click the **MOVE** button."
 msgstr ""
 
@@ -5368,34 +5595,42 @@ msgstr ""
 msgid "Click **Save**."
 msgstr ""
 
-#: ../../contacts/toc.rst:256
+#: ../../contacts/toc.rst:258
 msgid "Import a CSV File as an Address Book"
 msgstr ""
 
-#: ../../contacts/toc.rst:258
+#: ../../contacts/toc.rst:260
 msgid ""
 "You can import the stored address book on your computer in CSV (comma-"
 "separated values) format to your Carbonio web client. To do so:"
 msgstr ""
 
-#: ../../contacts/toc.rst:261
+#: ../../contacts/toc.rst:263
 msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "import data in."
 msgstr ""
 
-#: ../../contacts/toc.rst:262
+#: ../../contacts/toc.rst:264
 msgid "Select **Import csv file** from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../contacts/toc.rst:263
+#: ../../contacts/toc.rst:265
 msgid ""
 "Select the csv file containing the address book information stored on "
 "your computer."
 msgstr ""
 
-#: ../../contacts/toc.rst:264 ../../files/toc.rst:60 ../../files/toc.rst:271
+#: ../../contacts/toc.rst:266 ../../files/toc.rst:60 ../../files/toc.rst:273
 msgid "Click **Open**."
+msgstr ""
+
+#: ../../contacts/toc.rst:268
+msgid "The files to be imported must have the following format."
+msgstr ""
+
+#: ../../contacts/toc.rst
+msgid "Example CSV file"
 msgstr ""
 
 #: ../../files/toc.rst:7
@@ -5438,12 +5673,12 @@ msgid "To create a folder in Files:"
 msgstr ""
 
 #: ../../files/toc.rst:31 ../../files/toc.rst:97 ../../files/toc.rst:117
-#: ../../files/toc.rst:130 ../../files/toc.rst:142 ../../files/toc.rst:158
-#: ../../files/toc.rst:169 ../../files/toc.rst:192 ../../files/toc.rst:223
-#: ../../files/toc.rst:235 ../../files/toc.rst:253 ../../files/toc.rst:265
-#: ../../files/toc.rst:278 ../../files/toc.rst:294 ../../files/toc.rst:306
-#: ../../files/toc.rst:321 ../../files/toc.rst:335 ../../files/toc.rst:351
-#: ../../files/toc.rst:362 ../../files/toc.rst:464 ../../files/toc.rst:476
+#: ../../files/toc.rst:130 ../../files/toc.rst:142 ../../files/toc.rst:160
+#: ../../files/toc.rst:171 ../../files/toc.rst:194 ../../files/toc.rst:225
+#: ../../files/toc.rst:237 ../../files/toc.rst:255 ../../files/toc.rst:267
+#: ../../files/toc.rst:280 ../../files/toc.rst:296 ../../files/toc.rst:308
+#: ../../files/toc.rst:323 ../../files/toc.rst:337 ../../files/toc.rst:353
+#: ../../files/toc.rst:364 ../../files/toc.rst:466 ../../files/toc.rst:478
 msgid "Select the **Files feature** from your left sidebar."
 msgstr ""
 
@@ -5477,9 +5712,9 @@ msgstr ""
 msgid "To upload document files from your computer:"
 msgstr ""
 
-#: ../../files/toc.rst:56 ../../files/toc.rst:209 ../../files/toc.rst:384
-#: ../../files/toc.rst:406 ../../files/toc.rst:422 ../../files/toc.rst:433
-#: ../../files/toc.rst:446
+#: ../../files/toc.rst:56 ../../files/toc.rst:211 ../../files/toc.rst:386
+#: ../../files/toc.rst:408 ../../files/toc.rst:424 ../../files/toc.rst:435
+#: ../../files/toc.rst:448
 msgid "Select the **Files** feature from your left sidebar."
 msgstr ""
 
@@ -5551,8 +5786,8 @@ msgstr ""
 msgid "Navigate to the folder that contains the file you want to download."
 msgstr ""
 
-#: ../../files/toc.rst:87 ../../files/toc.rst:144 ../../files/toc.rst:211
-#: ../../files/toc.rst:225 ../../files/toc.rst:237 ../../files/toc.rst:337
+#: ../../files/toc.rst:87 ../../files/toc.rst:144 ../../files/toc.rst:213
+#: ../../files/toc.rst:227 ../../files/toc.rst:239 ../../files/toc.rst:339
 msgid "Right-click on the file."
 msgstr ""
 
@@ -5687,71 +5922,74 @@ msgstr ""
 
 #: ../../files/toc.rst:149
 msgid ""
-"You can only preview certain file formats such as PDF, DOCX, XLSX, PPTX, "
-"ODT, ODS, and ODP, as well as image files like PNG, JPG, etc., but not "
-"movies. For unsupported files, you can download them to your computer and"
-" open them with specific applications."
-msgstr ""
-
-#: ../../files/toc.rst:152
-msgid "Creating a File"
+"You can only preview most of the frequent file formats such as PDF, DOCX,"
+" XLSX, PPTX, ODT, ODS, and ODP, as well as image files like PNG, JPG, "
+"etc. You can also preview a video, by simply double clicking a video file"
+" or open it with preview action: if the browser support that mime type, "
+"the video is played directly on the browser. For unsupported files, you "
+"can download them to your computer and open them with specific "
+"applications."
 msgstr ""
 
 #: ../../files/toc.rst:154
+msgid "Creating a File"
+msgstr ""
+
+#: ../../files/toc.rst:156
 msgid ""
 "You can use Files to create specific files including text documents, "
 "spreadsheets, and presentation files."
 msgstr ""
 
-#: ../../files/toc.rst:156
+#: ../../files/toc.rst:158
 msgid "To create a text document:"
 msgstr ""
 
-#: ../../files/toc.rst:159 ../../files/toc.rst:170
+#: ../../files/toc.rst:161 ../../files/toc.rst:172
 msgid "Navigate to the folder where you want to create the file."
 msgstr ""
 
-#: ../../files/toc.rst:161
+#: ../../files/toc.rst:163
 msgid "Select **New document** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:162
+#: ../../files/toc.rst:164
 msgid ""
 "Select the file format choosing either OpenDocument (.odt) or Microsoft "
 "(.docx) from the menu. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:163 ../../files/toc.rst:174
+#: ../../files/toc.rst:165 ../../files/toc.rst:176
 msgid "Insert a name for the file."
 msgstr ""
 
-#: ../../files/toc.rst:165 ../../files/toc.rst:176
+#: ../../files/toc.rst:167 ../../files/toc.rst:178
 msgid ""
 "You will find the created file in the Main Panel among the list of files "
 "and folders."
 msgstr ""
 
-#: ../../files/toc.rst:167
+#: ../../files/toc.rst:169
 msgid "To create a spreadsheet:"
 msgstr ""
 
-#: ../../files/toc.rst:172
+#: ../../files/toc.rst:174
 msgid "Select **New spreadsheet** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:173
+#: ../../files/toc.rst:175
 msgid ""
 "Select the file format choosing either OpenDocument (.ods) or Microsoft "
 "(.xlsx) from the menu. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:178
+#: ../../files/toc.rst:180
 msgid ""
 "You can double-click on it to open the editor in another browser tab and "
 "begin editing the file online."
 msgstr ""
 
-#: ../../files/toc.rst:180
+#: ../../files/toc.rst:182
 msgid ""
 "The main difference between OpenDocument and Microsoft files lies in "
 "their file formats and the software used to create and edit them. "
@@ -5759,7 +5997,7 @@ msgid ""
 "compatible with open-source office suites like LibreOffice."
 msgstr ""
 
-#: ../../files/toc.rst:182
+#: ../../files/toc.rst:184
 msgid ""
 "In contrast, Microsoft files (.docx, .xlsx, .pptx) are created with "
 "Microsoft Office software. From a user perspective, OpenDocument files "
@@ -5768,43 +6006,43 @@ msgid ""
 "settings due to the widespread use of Microsoft Office."
 msgstr ""
 
-#: ../../files/toc.rst:184
+#: ../../files/toc.rst:186
 msgid ""
 "Users typically choose between them based on software preference and "
 "collaboration requirements."
 msgstr ""
 
-#: ../../files/toc.rst:187
+#: ../../files/toc.rst:189
 msgid "Editing a File Online"
 msgstr ""
 
-#: ../../files/toc.rst:189
+#: ../../files/toc.rst:191
 msgid ""
 "In Files, you can edit certain documents online, including formats like "
 "DOCX, XLSX, PPTX, ODT, ODS, and ODP. When you double-click them, they "
 "will open in another tab in your browser for editing."
 msgstr ""
 
-#: ../../files/toc.rst:193 ../../files/toc.rst:210
+#: ../../files/toc.rst:195 ../../files/toc.rst:212
 msgid "Navigate to the folder that contains the file you want to edit."
 msgstr ""
 
-#: ../../files/toc.rst:194
+#: ../../files/toc.rst:196
 msgid "Double-click on the file."
 msgstr ""
 
-#: ../../files/toc.rst:196
+#: ../../files/toc.rst:198
 msgid "A new tab will open in your browser for editing."
 msgstr ""
 
-#: ../../files/toc.rst:198
+#: ../../files/toc.rst:200
 msgid ""
 "For text documents, you have various options for editing, including text "
 "formatting such as font styles, sizes, and colors. Additionally, you can "
 "add images, tables, and other objects to enhance the document's content."
 msgstr ""
 
-#: ../../files/toc.rst:200
+#: ../../files/toc.rst:202
 msgid ""
 "In spreadsheets, you can edit cell contents, apply formatting to cells, "
 "rows, and columns, and perform calculations using built-in functions. You"
@@ -5812,7 +6050,7 @@ msgid ""
 "data effectively."
 msgstr ""
 
-#: ../../files/toc.rst:202
+#: ../../files/toc.rst:204
 msgid ""
 "In presentation files, you can edit slide content, including text, "
 "images, and shapes. You have options to apply formatting to text, adjust "
@@ -5821,76 +6059,76 @@ msgid ""
 "the visual appeal of your presentation."
 msgstr ""
 
-#: ../../files/toc.rst:205
+#: ../../files/toc.rst:207
 msgid "Moving a File between Folders"
 msgstr ""
 
-#: ../../files/toc.rst:207
+#: ../../files/toc.rst:209
 msgid "To move a file to another folder:"
 msgstr ""
 
-#: ../../files/toc.rst:213
+#: ../../files/toc.rst:215
 msgid "Select the folder where you want to move the file."
 msgstr ""
 
-#: ../../files/toc.rst:216
+#: ../../files/toc.rst:218
 msgid ""
 "Alternatively, you can drag and drop files into different folders, or the"
 " parent folder displayed on the folder path at the top of the Main Panel,"
 " above the list of files and folders."
 msgstr ""
 
-#: ../../files/toc.rst:219
+#: ../../files/toc.rst:221
 msgid "Copying a File"
 msgstr ""
 
-#: ../../files/toc.rst:221
+#: ../../files/toc.rst:223
 msgid "To copy a file and create a duplicate in another folder:"
 msgstr ""
 
-#: ../../files/toc.rst:224
+#: ../../files/toc.rst:226
 msgid "Navigate to the folder that contains the file you want to copy."
 msgstr ""
 
-#: ../../files/toc.rst:226
+#: ../../files/toc.rst:228
 msgid "Select **Copy** from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:227
+#: ../../files/toc.rst:229
 msgid "Choose the destination folder where you want to copy the file."
 msgstr ""
 
-#: ../../files/toc.rst:228
+#: ../../files/toc.rst:230
 msgid "Click the **COPY** button."
 msgstr ""
 
-#: ../../files/toc.rst:231
+#: ../../files/toc.rst:233
 msgid "Flagging a File"
 msgstr ""
 
-#: ../../files/toc.rst:233
+#: ../../files/toc.rst:235
 msgid "To flag a file for future reference and make it stand out, you can:"
 msgstr ""
 
-#: ../../files/toc.rst:236
+#: ../../files/toc.rst:238
 msgid "Navigate to the folder that contains the file you want to flag."
 msgstr ""
 
-#: ../../files/toc.rst:238
+#: ../../files/toc.rst:240
 msgid "Select **Flag** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:240
+#: ../../files/toc.rst:242
 msgid ""
 "To remove the flag from the file, you can follow the same process and "
 "select **Unflag**."
 msgstr ""
 
-#: ../../files/toc.rst:243
+#: ../../files/toc.rst:245
 msgid "Managing File Versioning"
 msgstr ""
 
-#: ../../files/toc.rst:249
+#: ../../files/toc.rst:251
 msgid ""
 "File versioning enables you to manage changes to your documents in Files."
 " Each time you modify and save a file, the version number automatically "
@@ -5898,126 +6136,126 @@ msgid ""
 "list."
 msgstr ""
 
-#: ../../files/toc.rst:251
+#: ../../files/toc.rst:253
 msgid "To view the history of the file, you can follow these steps:"
 msgstr ""
 
-#: ../../files/toc.rst:254
+#: ../../files/toc.rst:256
 msgid "Navigate to the folder that contains the file you want to check."
 msgstr ""
 
-#: ../../files/toc.rst:255 ../../files/toc.rst:267 ../../files/toc.rst:280
-#: ../../files/toc.rst:296 ../../files/toc.rst:308 ../../files/toc.rst:323
-#: ../../files/toc.rst:353 ../../files/toc.rst:364
+#: ../../files/toc.rst:257 ../../files/toc.rst:269 ../../files/toc.rst:282
+#: ../../files/toc.rst:298 ../../files/toc.rst:310 ../../files/toc.rst:325
+#: ../../files/toc.rst:355 ../../files/toc.rst:366
 msgid "Select the file."
 msgstr ""
 
-#: ../../files/toc.rst:256
+#: ../../files/toc.rst:258
 msgid ""
 "On the right side of the Main Panel, you will find three tabs. Click "
 "**Versioning**."
 msgstr ""
 
-#: ../../files/toc.rst:258
+#: ../../files/toc.rst:260
 msgid ""
 "Under the **Current version**, you will find the last modified status of "
 "the file, and under **Older versions** you will find all previous "
 "versions, if they exist."
 msgstr ""
 
-#: ../../files/toc.rst:261
+#: ../../files/toc.rst:263
 msgid "Updating a File with a New Version"
 msgstr ""
 
-#: ../../files/toc.rst:263
+#: ../../files/toc.rst:265
 msgid "To update a file with a new version, follow these steps:"
 msgstr ""
 
-#: ../../files/toc.rst:266 ../../files/toc.rst:279 ../../files/toc.rst:295
-#: ../../files/toc.rst:307 ../../files/toc.rst:322 ../../files/toc.rst:336
-#: ../../files/toc.rst:352 ../../files/toc.rst:363 ../../files/toc.rst:434
+#: ../../files/toc.rst:268 ../../files/toc.rst:281 ../../files/toc.rst:297
+#: ../../files/toc.rst:309 ../../files/toc.rst:324 ../../files/toc.rst:338
+#: ../../files/toc.rst:354 ../../files/toc.rst:365 ../../files/toc.rst:436
 msgid "Navigate to the folder that contains the file."
 msgstr ""
 
-#: ../../files/toc.rst:268 ../../files/toc.rst:281 ../../files/toc.rst:297
-#: ../../files/toc.rst:309 ../../files/toc.rst:324
+#: ../../files/toc.rst:270 ../../files/toc.rst:283 ../../files/toc.rst:299
+#: ../../files/toc.rst:311 ../../files/toc.rst:326
 msgid "On the right side of the Main Panel, click **Versioning**."
 msgstr ""
 
-#: ../../files/toc.rst:269
+#: ../../files/toc.rst:271
 msgid "Click the **UPLOAD VERSION** button. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:270
+#: ../../files/toc.rst:272
 msgid "Choose the new version of the file from the opened window."
 msgstr ""
 
-#: ../../files/toc.rst:274
+#: ../../files/toc.rst:276
 msgid "Restore a File to a Previous Version"
 msgstr ""
 
-#: ../../files/toc.rst:276
+#: ../../files/toc.rst:278
 msgid "To restore a file to a previous version:"
 msgstr ""
 
-#: ../../files/toc.rst:282
+#: ../../files/toc.rst:284
 msgid ""
 "Under the **Old versions** section, click on the **three vertical dots** "
 "next to the version you want to restore."
 msgstr ""
 
-#: ../../files/toc.rst:283
+#: ../../files/toc.rst:285
 msgid "Select **Clone as current** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:285
+#: ../../files/toc.rst:287
 msgid ""
 "This will update the current version based on the cloned version, and the"
 " previous version will be added to the list of older versions."
 msgstr ""
 
-#: ../../files/toc.rst:288
+#: ../../files/toc.rst:290
 msgid "Keep a Version of a File Forever"
 msgstr ""
 
-#: ../../files/toc.rst:290
+#: ../../files/toc.rst:292
 msgid ""
 "Setting a version as **Keep this version forever**, will prevent that "
 "specific version from being deleted, even if a purge of all versions is "
 "performed."
 msgstr ""
 
-#: ../../files/toc.rst:292
+#: ../../files/toc.rst:294
 msgid "To set a version as Keep this version forever:"
 msgstr ""
 
-#: ../../files/toc.rst:298
+#: ../../files/toc.rst:300
 msgid ""
 "Under the **Old versions** section, click on the **three vertical dots** "
 "next to the version you want to keep forever."
 msgstr ""
 
-#: ../../files/toc.rst:299
+#: ../../files/toc.rst:301
 msgid "Select **Keep this version forever** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:302
+#: ../../files/toc.rst:304
 msgid "Delete Version History of a File"
 msgstr ""
 
-#: ../../files/toc.rst:304
+#: ../../files/toc.rst:306
 msgid "To delete the version history of a file:"
 msgstr ""
 
-#: ../../files/toc.rst:310
+#: ../../files/toc.rst:312
 msgid "Click the **PURGE ALL VERSIONS** button."
 msgstr ""
 
-#: ../../files/toc.rst:312
+#: ../../files/toc.rst:314
 msgid "This will delete all versions of the file, keeping the current version."
 msgstr ""
 
-#: ../../files/toc.rst:314
+#: ../../files/toc.rst:316
 msgid ""
 "In case a version is set to **Keep forever**, purging all versions will "
 "not affect that particular version. To remove these versions as well you "
@@ -6025,25 +6263,25 @@ msgid ""
 "and select **Remove keep forever**."
 msgstr ""
 
-#: ../../files/toc.rst:317
+#: ../../files/toc.rst:319
 msgid "Delete a Specific Version of a File"
 msgstr ""
 
-#: ../../files/toc.rst:319
+#: ../../files/toc.rst:321
 msgid "To delete a specific version of a file:"
 msgstr ""
 
-#: ../../files/toc.rst:325
+#: ../../files/toc.rst:327
 msgid ""
 "Under the **Old versions** section, click on the **three vertical dots** "
 "next to the version you want to delete."
 msgstr ""
 
-#: ../../files/toc.rst:326
+#: ../../files/toc.rst:328
 msgid "Click **Delete version** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:328
+#: ../../files/toc.rst:330
 msgid ""
 "If a version is set to **Keep forever**, the delete button will be "
 "disabled. You need to remove this version from **Keep forever** before "
@@ -6052,63 +6290,63 @@ msgid ""
 "**Remove keep forever**."
 msgstr ""
 
-#: ../../files/toc.rst:331
+#: ../../files/toc.rst:333
 msgid "Sending a File as an Email Attachment"
 msgstr ""
 
-#: ../../files/toc.rst:333
+#: ../../files/toc.rst:335
 msgid ""
 "You can send files stored in your Files as attachments via email to your "
 "colleagues. To do so:"
 msgstr ""
 
-#: ../../files/toc.rst:338
+#: ../../files/toc.rst:340
 msgid "Select **Send via e-mail** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:339
+#: ../../files/toc.rst:341
 msgid "A new compose board will appear which includes the file as an attachment."
 msgstr ""
 
-#: ../../files/toc.rst:340
+#: ../../files/toc.rst:342
 msgid "Complete composing your email and click **SEND**."
 msgstr ""
 
-#: ../../files/toc.rst:343
+#: ../../files/toc.rst:345
 msgid "Sending an Email with a Link to a File"
 msgstr ""
 
-#: ../../files/toc.rst:345
+#: ../../files/toc.rst:347
 msgid ""
 "Instead of sending the file as an attachment, you can opt to send an "
 "email with a link to a file stored in your Files. This can be "
 "particularly useful, especially for large files."
 msgstr ""
 
-#: ../../files/toc.rst:347
+#: ../../files/toc.rst:349
 msgid ""
 "However, the procedure differs for colleagues who have accounts on the "
 "same system as you and for external users with no account on the system."
 msgstr ""
 
-#: ../../files/toc.rst:349
+#: ../../files/toc.rst:351
 msgid "To send the link to your colleagues:"
 msgstr ""
 
-#: ../../files/toc.rst:354 ../../files/toc.rst:365
+#: ../../files/toc.rst:356 ../../files/toc.rst:367
 msgid ""
 "On the right side of the Main Panel, you will find three tabs. Click "
 "**Sharing**."
 msgstr ""
 
-#: ../../files/toc.rst:355 ../../files/toc.rst:437
+#: ../../files/toc.rst:357 ../../files/toc.rst:439
 msgid ""
 "Under the **Collaboration links** section, click on the **GENERATE LINK**"
 " button next to either **Read and Share** or **Write and Share** "
 "depending on the privileges you want to grant to the recipient."
 msgstr ""
 
-#: ../../files/toc.rst:356 ../../files/toc.rst:369 ../../files/toc.rst:453
+#: ../../files/toc.rst:358 ../../files/toc.rst:371 ../../files/toc.rst:455
 msgid ""
 "Copy the generated link by clicking on it. The link will be saved to your"
 " clipboard and can be pasted anywhere by right-clicking and selecting "
@@ -6116,35 +6354,35 @@ msgid ""
 "Command+V on macOS."
 msgstr ""
 
-#: ../../files/toc.rst:358 ../../files/toc.rst:371
+#: ../../files/toc.rst:360 ../../files/toc.rst:373
 msgid ""
 "You can send this link while composing a new email and include it inside "
 "the message."
 msgstr ""
 
-#: ../../files/toc.rst:360
+#: ../../files/toc.rst:362
 msgid "To send the link to external collaborators:"
 msgstr ""
 
-#: ../../files/toc.rst:366 ../../files/toc.rst:449
+#: ../../files/toc.rst:368 ../../files/toc.rst:451
 msgid ""
 "Under the **Public download links** section, click on the **ADD LINK** "
 "button."
 msgstr ""
 
-#: ../../files/toc.rst:367 ../../files/toc.rst:450
+#: ../../files/toc.rst:369 ../../files/toc.rst:452
 msgid "Insert a description for the link and an expiration date."
 msgstr ""
 
-#: ../../files/toc.rst:368 ../../files/toc.rst:451
+#: ../../files/toc.rst:370 ../../files/toc.rst:453
 msgid "Click the **GENERATE LINK** button on the right."
 msgstr ""
 
-#: ../../files/toc.rst:374
+#: ../../files/toc.rst:376
 msgid "Sharing Files and Folders"
 msgstr ""
 
-#: ../../files/toc.rst:376
+#: ../../files/toc.rst:378
 msgid ""
 "One of the most important and useful features of Files is its sharing "
 "capabilities. Sharing allows you to grant others access to files and "
@@ -6153,44 +6391,44 @@ msgid ""
 "or decline the invitation."
 msgstr ""
 
-#: ../../files/toc.rst:382
+#: ../../files/toc.rst:384
 msgid "To manage sharing properties of a file or folder:"
 msgstr ""
 
-#: ../../files/toc.rst:385
+#: ../../files/toc.rst:387
 msgid "Click on the folder or file you want to share."
 msgstr ""
 
-#: ../../files/toc.rst:386 ../../files/toc.rst:408 ../../files/toc.rst:424
-#: ../../files/toc.rst:436 ../../files/toc.rst:448 ../../files/toc.rst:466
-#: ../../files/toc.rst:478
+#: ../../files/toc.rst:388 ../../files/toc.rst:410 ../../files/toc.rst:426
+#: ../../files/toc.rst:438 ../../files/toc.rst:450 ../../files/toc.rst:468
+#: ../../files/toc.rst:480
 msgid ""
 "On the right side of the Main Panel, you will find different tabs. Click "
 "**Sharing**."
 msgstr ""
 
-#: ../../files/toc.rst:387
+#: ../../files/toc.rst:389
 msgid ""
 "Under the **Collaborators**, **Collaboration links**, and **Public "
 "download links** sections, you can manage various sharing properties."
 msgstr ""
 
-#: ../../files/toc.rst:389
+#: ../../files/toc.rst:391
 msgid "**Collaboration:**"
 msgstr ""
 
-#: ../../files/toc.rst:391
+#: ../../files/toc.rst:393
 msgid ""
 "This section enables you to include multiple colleagues for collaboration"
 " on a file or folder, granting them different privileges such as the "
 "ability to view, download, share, and edit the file."
 msgstr ""
 
-#: ../../files/toc.rst:393
+#: ../../files/toc.rst:395
 msgid "**Collaboration links:**"
 msgstr ""
 
-#: ../../files/toc.rst:395
+#: ../../files/toc.rst:397
 msgid ""
 "This section allows you to generate different links for a file or folder,"
 " enabling you to send these links to colleagues. Those with accounts on "
@@ -6199,11 +6437,11 @@ msgid ""
 "generating the respective links."
 msgstr ""
 
-#: ../../files/toc.rst:397
+#: ../../files/toc.rst:399
 msgid "**Public download links:**"
 msgstr ""
 
-#: ../../files/toc.rst:399
+#: ../../files/toc.rst:401
 msgid ""
 "This section allows you to generate different links for a file or folder,"
 " enabling you to send these links to external users. The generated link "
@@ -6211,70 +6449,70 @@ msgid ""
 " of the file or folder."
 msgstr ""
 
-#: ../../files/toc.rst:402
+#: ../../files/toc.rst:404
 msgid "Adding Collaborators to a File / Folder"
 msgstr ""
 
-#: ../../files/toc.rst:404
+#: ../../files/toc.rst:406
 msgid "To add collaborators to a file or folder in Files:"
 msgstr ""
 
-#: ../../files/toc.rst:407 ../../files/toc.rst:423
+#: ../../files/toc.rst:409 ../../files/toc.rst:425
 msgid "Click on the folder or folder to which you want to grant access."
 msgstr ""
 
-#: ../../files/toc.rst:409
+#: ../../files/toc.rst:411
 msgid ""
 "In the Collaborators section, begin entering the email addresses of the "
 "colleagues you wish to share the item with and select them from the "
 "suggestions."
 msgstr ""
 
-#: ../../files/toc.rst:410
+#: ../../files/toc.rst:412
 msgid ""
 "Click on the eye icon next to the name of the colleague you have just "
 "inserted."
 msgstr ""
 
-#: ../../files/toc.rst:411
+#: ../../files/toc.rst:413
 msgid ""
 "Choose the access level you want to give, like **Viewer** or **Editor**, "
 "from the menu. You can also decide whether this user can share the item "
 "with others by checking the **Sharing allowed checkbox**."
 msgstr ""
 
-#: ../../files/toc.rst:412
+#: ../../files/toc.rst:414
 msgid "Click the **SHARE** button."
 msgstr ""
 
-#: ../../files/toc.rst:420
+#: ../../files/toc.rst:422
 msgid "Removing Collaborators from a File / Folder"
 msgstr ""
 
-#: ../../files/toc.rst:425
+#: ../../files/toc.rst:427
 msgid ""
 "In the Collaborators section, hover your mouse cursor over the name of "
 "the colleague. Small buttons will appear next to their name."
 msgstr ""
 
-#: ../../files/toc.rst:426
+#: ../../files/toc.rst:428
 msgid "Click on the **x** button to remove them from the list."
 msgstr ""
 
-#: ../../files/toc.rst:429
+#: ../../files/toc.rst:431
 msgid "Generating Collaboration Links for Colleagues"
 msgstr ""
 
-#: ../../files/toc.rst:431
+#: ../../files/toc.rst:433
 msgid "To generate a collaboration link for your colleagues:"
 msgstr ""
 
-#: ../../files/toc.rst:435 ../../files/toc.rst:447 ../../files/toc.rst:465
-#: ../../files/toc.rst:477
+#: ../../files/toc.rst:437 ../../files/toc.rst:449 ../../files/toc.rst:467
+#: ../../files/toc.rst:479
 msgid "Navigate to the file or folder and click on it."
 msgstr ""
 
-#: ../../files/toc.rst:439
+#: ../../files/toc.rst:441
 msgid ""
 "You can copy the generated link by clicking on it. The link will be saved"
 " to your clipboard and can be pasted anywhere by right-clicking and "
@@ -6282,53 +6520,53 @@ msgid ""
 "or Command+V on macOS."
 msgstr ""
 
-#: ../../files/toc.rst:442
+#: ../../files/toc.rst:444
 msgid "Generating Public Download Links for External Users"
 msgstr ""
 
-#: ../../files/toc.rst:444
+#: ../../files/toc.rst:446
 msgid "To generate a sharing link external user:"
 msgstr ""
 
-#: ../../files/toc.rst:460
+#: ../../files/toc.rst:462
 msgid "Extending the Expiration Date of a Public Access Link"
 msgstr ""
 
-#: ../../files/toc.rst:462
+#: ../../files/toc.rst:464
 msgid "To extend the expiration date for a public access link:"
 msgstr ""
 
-#: ../../files/toc.rst:467
+#: ../../files/toc.rst:469
 msgid "Under the **Public download links** section, click on the **EDIT** button."
 msgstr ""
 
-#: ../../files/toc.rst:468
+#: ../../files/toc.rst:470
 msgid "Edit the expiration date."
 msgstr ""
 
-#: ../../files/toc.rst:469
+#: ../../files/toc.rst:471
 msgid "Click the **EDIT LINK** button on the right."
 msgstr ""
 
-#: ../../files/toc.rst:472
+#: ../../files/toc.rst:474
 msgid "Revoking Public Access Links"
 msgstr ""
 
-#: ../../files/toc.rst:474
+#: ../../files/toc.rst:476
 msgid "To revoke a public access link:"
 msgstr ""
 
-#: ../../files/toc.rst:479
+#: ../../files/toc.rst:481
 msgid ""
 "Under the **Public download links** section, click on the **REVOKE** "
 "button."
 msgstr ""
 
-#: ../../files/toc.rst:483
+#: ../../files/toc.rst:485
 msgid "Exceeding Files quota limit"
 msgstr ""
 
-#: ../../files/toc.rst:485
+#: ../../files/toc.rst:487
 msgid ""
 "If you overcome the quota limit for **Files**, documents will be opened "
 "in *read-only mode*: this will also be enforced by a label that appears "
@@ -6339,7 +6577,7 @@ msgid ""
 "changes made to the document."
 msgstr ""
 
-#: ../../files/toc.rst:493
+#: ../../files/toc.rst:495
 msgid ""
 "For the **Files** quota limitation, you should contact your system "
 "administrator."
@@ -7123,7 +7361,9 @@ msgid "Click the button next to the search box with the magnifying glass icon."
 msgstr ""
 
 #: ../../search/toc.rst:31
-msgid "Your search results will appear on the left side of a list."
+msgid ""
+"Your search results will appear on the left side of a list, beside the "
+"total number of items loaded."
 msgstr ""
 
 #: ../../search/toc.rst:34
@@ -8371,5 +8611,32 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Click on ‘Start Recovery’ in the pop-up window that appears."
+#~ msgstr ""
+
+#~ msgid "Select **Wipe Folder** from the menu."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Under Trusted addresses, email address, "
+#~ "or domain name in the provided "
+#~ "text box. If you want to include"
+#~ " all addresses from a specific "
+#~ "domain, use an asterisk (*) followed "
+#~ "by the domain name (e.g., "
+#~ "asterisk@domain.com)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can only preview certain file "
+#~ "formats such as PDF, DOCX, XLSX, "
+#~ "PPTX, ODT, ODS, and ODP, as well"
+#~ " as image files like PNG, JPG, "
+#~ "etc., but not movies. For unsupported"
+#~ " files, you can download them to "
+#~ "your computer and open them with "
+#~ "specific applications."
+#~ msgstr ""
+
+#~ msgid "Your search results will appear on the left side of a list."
 #~ msgstr ""
 

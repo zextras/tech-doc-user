@@ -6,7 +6,7 @@
  Working with Contacts 
 =======================
 
-  .. image:: /img/usage/contacts.png
+  .. image:: /img/contacts.png
                 :align: center
                 :width: 100%
 
@@ -45,7 +45,7 @@ To add a new contact to your contact list:
 #.	Under the **Destination address book section**, choose the address book where you want the contact to be saved.
 #.	Click the **SAVE** button in the top right corner of the board.
 
-  .. image:: /img/usage/add-contact.png
+  .. image:: /img/add-contact.png
                   :align: center
                   :width: 100%
 
@@ -92,7 +92,7 @@ To add an address book:
 #.	Add a name for the address book.
 #.	Click the **CREATE** button.
 
-  .. image:: /img/usage/address-book.png
+  .. image:: /img/address-book.png
                   :align: center
                   :width: 100%
 
@@ -189,7 +189,7 @@ To use your contact group:
 1.	Begin typing its name in the **To** field while composing a new email. As you type, the contact group name will appear as a suggestion.
 2.	Click on the contact group, and it will automatically populate the **To** field with all the addresses included in the contact group.
 
-  .. image:: /img/usage/contact-group.png
+  .. image:: /img/contact-group.png
                     :align: center
                     :width: 100%
 
@@ -252,6 +252,8 @@ You can export and store your address book on your computer in CSV (comma-separa
 4.	Select the destination folder to save the CSV file on your computer.
 5.	Click **Save**.
 
+.. _csv-import:
+
 Import a CSV File as an Address Book
 ====================================
 
@@ -263,3 +265,15 @@ You can import the stored address book on your computer in CSV (comma-separated 
 4.	Select the csv file containing the address book information stored on your computer.
 5.	Click **Open**.
 
+The files to be imported must have the following format.
+
+.. dropdown:: Example CSV file
+   :open:
+
+   ::
+
+      "company","email","firstName","jobTitle","lastName","middleName","mobilePhone","namePrefix","nickname","workCity","workCountry","workPostalCode","workState","workStreet","workURL"
+      "ACME","j.doe@example.com","john","CEO","doe","","","","Boss",“Vicenza”,“IT”,“36100”,"","","www.example.com"
+      "ACME","m.jane@example.com","mary","CFO","jane","","+39 000000000","","MJ",“Vicenza”,“IT”,“36100”,"","","www.example.com"
+      "ACME","p.sullivan@example.com","Peter","Head of HR","Sullivan","Raymond","","mr","Ray",“Vicenza”,“IT”,“36100”,"","","www.example.com"
+      "ACME","d.smith@example.com","Donald","CTO","Smith",“”,"","","Don",“Vicenza”,“IT”,“36100”,“”,“”,"www.example.com"

@@ -6,7 +6,7 @@
  Working with Video Meetings
 ============================
 
-  .. image:: /img/usage/video-meeting.png
+  .. image:: /img/video-meeting.png
                 :align: center
                 :width: 100%
 
@@ -91,7 +91,7 @@ To invite a colleague to a video call:
 #.	From the list of chats, choose the colleague with whom you want to have the video call.
 #.	Click on the **INVITE TO YOUR PERSONAL ROOM** button on top of the chat area. 
 
-  .. image:: /img/usage/invite-to-room.png
+  .. image:: /img/invite-to-room.png
                 :align: center
                 :width: 100%
 

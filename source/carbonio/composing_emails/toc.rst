@@ -24,7 +24,7 @@ Below is a concise summary of the steps to write and send an email:
 
 A copy of the sent email is stored in your Sent folder.
 
-  .. image:: /img/usage/compose-board.png
+  .. image:: /img/compose-board.png
         :align: center
         :width: 100%
 
@@ -70,7 +70,7 @@ Additionally, you can utilize the **drag-and-drop** feature to effortlessly move
 
 You can also copy-paste email addresses directly into the To, CC, and BCC fields, while composing an email: furthermore, a small contextual menu appears when you right-click in the To, CC, or BCC fields, so you can directly click "Paste" to insert email adresses, you previously copied, in the related fields.
 
-  .. image:: /img/usage/addressing-email.png
+  .. image:: /img/addressing-email.png
         :align: center
         :width: 100%
 
@@ -100,7 +100,7 @@ Adding attachment from your Carbonio Files:
 
 It is important to note that computer viruses are commonly transmitted through file attachments. As a precaution, system administrators may block incomin cdg emails containing certain types of attachments, particularly those with extensions such as .EXE or .ZIP as part of their filename. If you send an email to someone whose email system blocks these attachments, you may not receive any notification about the blocking. Therefore, it is advisable to confirm with your recipient whether they have received the attachment or not.
 
-  .. image:: /img/usage/add-attachment.png
+  .. image:: /img/add-attachment.png
         :align: center
         :width: 100%
 
@@ -109,7 +109,7 @@ Managing Large Attachments
 
 When you want to attach large attachments to an email, you may encounter some limitations. When you reach the size limit set by your admin for the attachments, using the "smart links" option, it is possible to convert every attachment in Smart Links by clicking the **paperclip** icon inside the composing board and choosing the "Add public link from Files option". (lui suggerisce)
 
-  .. image:: /img/usage/smart-link.png
+  .. image:: /img/smart-link.png
         :align: center
         :width: 100%
 
@@ -134,7 +134,7 @@ To switch identities or personas, follow these steps:
 1.	Click on your email address located at the **top left corner** of the composing board.
 2.	Choose your preferred identity or persona from the menu.
 
-  .. image:: /img/usage/different-persona.png
+  .. image:: /img/different-persona.png
         :align: center
         :width: 100%
 
@@ -151,7 +151,7 @@ To request a read receipt while composing an email:
 1.	Click on the **three vertical dots** located within the composing board at the top right corner.
 2.	Select *Request read receipt*.
 
-  .. image:: /img/usage/read-receipt.png
+  .. image:: /img/read-receipt.png
         :align: center
         :width: 100%
 
@@ -189,7 +189,7 @@ Drafted emails are accessible from the Draft folder. Here is how you can access 
 3.	To edit the email before sending it, double-click on it. Alternatively, you can click on it once to review it from the right side of the main panel.
 4.	To send the email, simply click on the send button located at the top right corner of the main panel.
 
-  .. image:: /img/usage/send-draft.png
+  .. image:: /img/send-draft.png
           :align: center
           :width: 100%
 

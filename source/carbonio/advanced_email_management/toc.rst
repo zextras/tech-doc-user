@@ -21,7 +21,7 @@ You can customize how frequently you receive emails by adjusting your settings. 
 
 If you select Manually, you will need to click the reload icon to fetch new emails. If you choose As new email arrives, your inbox will refresh automatically upon receiving a new email.
 
-  .. image:: /img/usage/check-frequency.png
+  .. image:: /img/check-frequency.png
           :align: center
           :width: 100%
 
@@ -37,7 +37,7 @@ You can customize whether you are notified when you receive new emails. To enabl
 #.	Check the box for the **Play audio hint when new notification appears** if you prefer an audible notification for incoming emails.
 #.	Click the **SAVE** button in the top right corner.
 
-  .. image:: /img/usage/email-notification.png
+  .. image:: /img/email-notification.png
           :align: center
           :width: 100%
 
@@ -53,7 +53,7 @@ You can customize your email preferences to receive notifications at another ema
 
 Going forward, you will receive an email notification on your Gmail account whenever a new email arrives in your Carbonio inbox.
 
-  .. image:: /img/usage/notification-via-another-email.png
+  .. image:: /img/notification-via-another-email.png
             :align: center
             :width: 100%
 
@@ -76,7 +76,7 @@ If you do not take action to remove your spam emails, they will be automatically
 
 #.	Click on the **Mails** in the left sidebar.
 #.	Right-click on the **Junk** folder.
-#.	Select **Wipe Folder** from the menu.
+#.	Select **Wipe Folder** from the menu.*
 
 If you need to remove a specific spam email, you can easily right-click on the email and select **Delete**.
 
@@ -109,11 +109,11 @@ Here is how to do it:
 
 #.	Click on the Settings (gear icon) in the left sidebar.
 #.	Select Mails.
-#.	Under Trusted addresses, email address, or domain name in the provided text box. If you want to include all addresses from a specific domain, use an asterisk (*) followed by the domain name (e.g., asterisk@domain.com).
+#.  Under Trusted addresses, set email address, or domain name in the provided text box. If you want to trust all addresses from a specific domain, use the entire domain name.
 #.	Click the Add button to add the address or domain to the trusted list.
 #.	Click the SAVE button in the top right corner.
 
-  .. image:: /img/usage/trusted-address.png
+  .. image:: /img/trusted-address.png
           :align: center
           :width: 100%
 
@@ -132,7 +132,7 @@ When you are away from the office, setting up an automatic reply can keep collea
 
 If you prefer to send the out-of-office email only during specific hours of the day, you can customize the interval by selecting All Day and then specifying the desired time frame by choosing the start and end hours.
 
-  .. image:: /img/usage/ooo-email.png
+  .. image:: /img/ooo-email.png
             :align: center
             :width: 100%
 
@@ -163,7 +163,7 @@ To enable the read receipt feature:
 
 Alternatively, you can choose the option **Never send a read receipt** to ensure it is never sent automatically or select **Ask me** so that you are prompted each time you open an email with a read receipt request, giving you the choice to send it or not.
 
-  .. image:: /img/usage/read-receipt-setting.png
+  .. image:: /img/read-receipt-setting.png
               :align: center
               :width: 100%
 
@@ -191,7 +191,7 @@ Filters are applied sequentially, following the order in which they are listed i
 Creating a Filter
 =================
 
-  .. image:: /img/usage/read-receipt-setting.png
+  .. image:: /img/read-receipt-setting.png
               :align: center
               :width: 100%
 
@@ -274,7 +274,7 @@ Let's implement a filter to automatically move incoming emails containing the ke
 #.	Check or uncheck the **Do not process additional filters** checkbox to determine whether this filter rule, when its conditions are met, will prevent the execution of any other rules. Enabling this option means that once this filter’s conditions are satisfied, the system will not evaluate any other filters.
 #.	Click CREATE.
 
-  .. image:: /img/usage/filter-example.png
+  .. image:: /img/filter-example.png
               :align: center
               :width: 100%
 
@@ -359,6 +359,22 @@ Follow these steps to toggle the rich text editor on:
 
 When a signature is set, it will be visible at the end of the email you are composing. Additionally, you can effortlessly switch between identities /personas by selecting them from the top-left corner of the composing board, automatically applying the respective signatures assigned to each identity/persona.
 
+Sending S/MIME signed emails
+============================
+
+S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for email encryption and signing, providing authentication, integrity, and non-repudiation for emails. 
+Here’s how you can send S/MIME-signed emails:
+
+
+#.	Click on the **three vertical dots** located in the top-right corner of the compose board.
+#.	Select **Use Certificate to sign (S/MIME)** from the menu that appears.
+#.  Attach the certificate in the proper space (or just browse you documents to insert it).
+#.	Insert the **password** for the uploaded certificate.
+#.	Click **Upload** to insert the S/MIME signature.
+
+You can now send your S/MIME-signed email.
+
+
 Creating Signatures
 ===================
 
@@ -377,7 +393,7 @@ Anything composed in this section will automatically append to the end of your e
   John Doe
   CEO
 
-.. image:: /img/usage/signature.png
+.. image:: /img/signature.png
            :align: center
            :width: 100%
 
@@ -424,7 +440,7 @@ If you have set two or more signatures, you can easily switch between them, whil
 
 Just click on the **feather pen icon** on top of the composing tab and choose the one you want to use, between the different options in the list, based on the existing signatures. You can also choose *Do not use a signature* option, if you want to completely remove the signature from the current email.
 
-  .. image:: /img/usage/changing-email-signature.png
+  .. image:: /img/changing-email-signature.png
             :align: center
             :width: 100%
 
@@ -456,7 +472,7 @@ To set this up:
 
 An email notification will be sent to the designated person, informing them of their newly acquired delegate permissions.
 
-  .. image:: /img/usage/email-delegate.png
+  .. image:: /img/email-delegate.png
               :align: center
               :width: 100%
 
@@ -467,7 +483,7 @@ If you have been granted delegate permissions for another person, you can send e
 While composing an email, click on the top-left corner where your account name is displayed. From there, you can select your email address, as well as any other identities or personas you may have, and the person you are representing. 
 If you have been permitted to send messages as that individual, their email address will be available in the menu. When selected, your address will be omitted from the email.
 
-  .. image:: /img/usage/different-persona.png
+  .. image:: /img/different-persona.png
               :align: center
               :width: 100%
 
@@ -505,7 +521,7 @@ To create a new persona alongside your default one:
 #.	Under the **Persona Settings** section, choose a name for the added persona.
 #.	Click **SAVE** from the top-right corner.
 
-  .. image:: /img/usage/personas.png
+  .. image:: /img/personas.png
               :align: center
               :width: 100%
 

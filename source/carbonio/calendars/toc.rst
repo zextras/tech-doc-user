@@ -6,7 +6,7 @@
  Working with Calendars 
 ========================
 
-  .. image:: /img/usage/calendars.png
+  .. image:: /img/calendars.png
                 :align: center
                 :width: 100%
 
@@ -67,7 +67,7 @@ To create a calendar:
 
 You can utilize the checkbox labeled **Exclude this calendar when reporting the free/busy times** when creating the calendar if you prefer not to include events from this specific calendar when Carbonio reports your availability to colleagues. This feature is particularly useful when creating calendars for personal use, ensuring that your availability for meetings is accurately reflected without disclosing details of events from this calendar.
 
-  .. image:: /img/usage/new-calendar1.png
+  .. image:: /img/new-calendar1.png
                 :align: center
                 :width: 100%
 
@@ -127,7 +127,7 @@ To view multiple calendars in your timetable:
 1.	Select the **Calendars** from your left sidebar.
 2.	In the Navigation Panel, click on the calendars you wish to display on your timetable to toggle their visibility on or off.
 
-  .. image:: /img/usage/multiple-calendar.png
+  .. image:: /img/multiple-calendar.png
                 :align: center
                 :width: 100%
 
@@ -181,6 +181,8 @@ You can assign privileges to individuals or groups of colleagues using roles to 
 
 Sharing your calendar with colleagues allows them to view or manage your calendar, which can be incredibly useful, especially for a team. Having a shared calendar enables efficient coordination and collaboration among team members.
 
+If you set the viewing mode to ‘daily’ by clicking on the appropriate icon at the top right, you will also have the opportunity to view each appointment separately, divided into separate columns, for clearer visibility of each team member’s calendars.
+
 Sharing Calendars with Your Colleagues
 ======================================
 
@@ -216,6 +218,42 @@ To find and add your colleagues’ shared calendars:
 
 The shared calendar will appear in your calendars list.
 
+Creating Calendar Groups
+========================
+
+You also have the option to create calendar groups, making it easier to search for certain shared calendars. To do this, simply:
+
+#.	Select the **Calendars** from your left sidebar.
+#.  Click on **Create New Group** button.
+#.  Enter the name of the group in the proper field of the new modal that appears.
+#.  Select the calendars you wish to add to the group from the list, by simply searching for them.
+#.  Click the **+** button, to add them all.
+#.  Click the **REMOVE** button, if you have to remove some of them.
+#.  Click the **CREATE GROUP** button. 
+
+Now you can switch on and off the group everytime you need to see all the calendars of the users in that group.
+
+Editing Calendar Groups
+========================
+
+To edit a calendar group, follow these steps:
+
+#. Right-click on the group you want to edit.
+#. Select **Edit Group** option.
+#. Make the necessary changes to the group name or the calendars included in the group.
+#. Click the **SAVE CHANGES** button.
+
+Deeleting Calendar Groups
+=========================
+
+To delete a calendar group, simply:
+
+#. Right-click on the group you want to delete.
+#. Select **Delete permanently** option.
+#. Confirm that you want to delete the group, by clicking on the red button **DELETE PERMANENTLY**
+#. The group will be permanently deleted.
+
+
 Remove a Colleague's Shared Calendars from Your List
 ====================================================
 
@@ -224,6 +262,8 @@ To remove a colleague’s shared calendar from your calendars list:
 1.	Select the **Calendars** from your left sidebar.
 2.	From the Navigation Panel, right-click on the calendar you wish to remove.
 3.	From the drop-down menu select **Remove shared calendar**.
+
+.. _ics-import:
 
 Import an ICS File as New Calendar
 ====================================

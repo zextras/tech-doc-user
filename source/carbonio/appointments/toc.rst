@@ -16,7 +16,7 @@ Such features enhance communication and coordination, fostering a productive wor
 Creating an Appointment
 =======================
 
-  .. image:: /img/usage/appointments.png
+  .. image:: /img/appointments.png
                 :align: center
                 :width: 100%
 
@@ -41,6 +41,13 @@ To create a new appointment:
 #.	Add any notes about this appointment in the text box.
 #.	If you are creating the appointment solely for yourself, click **SAVE**. If your appointment includes attendees, as specified in step 8, click **SEND** to notify them via an automatic email.
 
+Checking on attendees' availability with organizer tool
+=======================================================
+
+When scheduling a new meeting, with expected other attendees, you will also have the option to check on other attendees availability by simply opening the **organizer tool**.
+Once you open the editor to create the appointment, after selecting all participants (both mandatory and optional), simply scroll down and click the “Show organizer tool” button.
+A new section will open, displaying a timeline chart for the selected time range, showing the availability of each participant in the meeting. This will make it easier to select the most convenient time for everyone. This section is particularly useful when there are many participants, eliminating the need to check each individual calendar before choosing the time.
+
 Editing an Existing Appointment
 ===============================
 
@@ -51,6 +58,17 @@ To edit an existing appointment:
 #.	Select **Edit** from the drop-down menu.
 #.	Make changes.
 #.	If you have created the appointment solely for yourself, click **SAVE**. If your appointment includes attendees, click **SEND** to notify them about the changes via an automatic email.
+
+Forwarding an Existing Appointment
+==================================
+
+To forward an existing appointment: 
+
+#.	Select the **Calendars** from your left sidebar.
+#.	Right-click on the appointment you wish to edit, which is displayed on your timetable.
+#.	Select **Forward** from the drop-down menu.
+#.	Enter the email address of the person you wish to forward the appointment to.
+#.	Click **FORWARD** to send the appointment to the specified email address.
 
 Canceling an Appointment
 ========================

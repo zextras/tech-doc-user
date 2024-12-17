@@ -6,7 +6,7 @@
  Working with Files
 ====================
 
-  .. image:: /img/usage/files.png
+  .. image:: /img/files.png
                 :align: center
                 :width: 100%
               
@@ -44,7 +44,7 @@ If you wish to create a new folder within another folder, simply:
 #.	Insert a name for the folder.
 #.	Click **CREATE**.
 
-  .. image:: /img/usage/files-new-folder.png
+  .. image:: /img/files-new-folder.png
                 :align: center
                 :width: 100%
 
@@ -73,7 +73,7 @@ You have the option to save attachment files from your emails directly to your F
 #.	Select the folder where you want to save the attachment.
 #.	Click the **SAVE** button.
 
-  .. image:: /img/usage/save-attachment.png
+  .. image:: /img/save-attachment.png
                 :align: center
                 :width: 100%
 
@@ -146,7 +146,9 @@ To view a file stored in your Files:
 
 Double-clicking on the file will also open them for previewing purposes, but for editable formats including DOCX, XLSX, PPTX, ODT, ODS, and ODP, they will be opened in another tab in your browser. In this scenario, ensure that you refrain from editing the file, as it is in an editable mode and accidental deletions or additions may occur.
 
-You can only preview certain file formats such as PDF, DOCX, XLSX, PPTX, ODT, ODS, and ODP, as well as image files like PNG, JPG, etc., but not movies. For unsupported files, you can download them to your computer and open them with specific applications.
+You can only preview most of the frequent file formats such as PDF, DOCX, XLSX, PPTX, ODT, ODS, and ODP, as well as image files like PNG, JPG, etc.
+You can also preview a video, by simply double clicking a video file or open it with preview action: if the browser support that mime type, the video is played directly on the browser.
+For unsupported files, you can download them to your computer and open them with specific applications.
 
 Creating a File
 ===============
@@ -242,7 +244,7 @@ To remove the flag from the file, you can follow the same process and select **U
 Managing File Versioning
 ========================
 
-  .. image:: /img/usage/versions.png
+  .. image:: /img/versions.png
                 :align: center
                 :width: 100%
 
@@ -375,7 +377,7 @@ Sharing Files and Folders
 
 One of the most important and useful features of Files is its sharing capabilities. Sharing allows you to grant others access to files and folders. You can specify which items to share, and the level of access granted. When you invite a user to share, they have the option to accept or decline the invitation.
 
-  .. image:: /img/usage/share-files.png
+  .. image:: /img/share-files.png
                 :align: center
                 :width: 100%
 
@@ -412,7 +414,7 @@ To add collaborators to a file or folder in Files:
 #.	Click the **SHARE** button.
 
 
-  .. image:: /img/usage/collaboration-section.png
+  .. image:: /img/collaboration-section.png
                 :align: center
                 :width: 100%
 
@@ -452,7 +454,7 @@ To generate a sharing link external user:
 
 Copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS.
 
-  .. image:: /img/usage/public-link.png
+  .. image:: /img/public-link.png
                 :align: center
                 :width: 100%
 

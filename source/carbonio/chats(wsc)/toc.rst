@@ -7,7 +7,7 @@ Working with Chats (WSC) :bdg-primary:`NEW`
 ================================================================================
 
 
-  .. image:: /img/usage/wsc-chats.png
+  .. image:: /img/wsc-chats.png
                 :align: center
                 :width: 100%
 

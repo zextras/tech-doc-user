@@ -6,7 +6,7 @@
  Working with Video Meetings(WSC) :bdg-info:`NEW`
 ===================================================
 
-  .. image:: /img/usage/wsc-meeting.png
+  .. image:: /img/wsc-meeting.png
                 :align: center
                 :width: 100%
 

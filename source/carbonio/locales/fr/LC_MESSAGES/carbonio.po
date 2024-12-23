@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-16 16:48+0100\n"
-"PO-Revision-Date: 2024-12-16 16:50+0000\n"
+"PO-Revision-Date: 2024-12-24 06:14+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.3\n"
+"X-Generator: Weblate 5.9.1\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -4143,6 +4143,8 @@ msgstr ""
 #: ../../chats(wsc)/toc.rst:41 ../../chats/toc.rst:43
 msgid "To send a file saved on your computer using Chats, follow these steps:"
 msgstr ""
+"Pour envoyer un fichier enregistré sur votre ordinateur à l'aide de Chats, "
+"suivez ces étapes :"
 
 #: ../../chats(wsc)/toc.rst:43 ../../chats(wsc)/toc.rst:56
 #: ../../chats(wsc)/toc.rst:173
@@ -4256,11 +4258,11 @@ msgstr "Sélectionnez **Répondre** dans le menu déroulant."
 
 #: ../../chats(wsc)/toc.rst:83 ../../chats/toc.rst:85
 msgid "Write the reply and hit enter."
-msgstr ""
+msgstr "Écrivez la réponse et appuyez sur Entrée."
 
 #: ../../chats(wsc)/toc.rst:86 ../../chats/toc.rst:88
 msgid "Forward A Message"
-msgstr ""
+msgstr "Transmettre un message"
 
 #: ../../chats(wsc)/toc.rst:88 ../../chats/toc.rst:90
 msgid "To forward a message:"
@@ -4298,7 +4300,7 @@ msgstr ""
 
 #: ../../chats(wsc)/toc.rst:107 ../../chats/toc.rst:109
 msgid "Mute Notifications of a Chat"
-msgstr ""
+msgstr "Désactiver les notifications d'un chat"
 
 #: ../../chats(wsc)/toc.rst:109 ../../chats/toc.rst:111
 msgid ""
@@ -4306,72 +4308,89 @@ msgid ""
 "will see a notification on your screen to inform you. If you want to "
 "disable notifications for a specific chat or group, follow these steps:"
 msgstr ""
+"Lorsque vous recevez un nouveau message dans un chat individuel ou de "
+"groupe, vous verrez une notification à l'écran pour vous informer. Si vous "
+"souhaitez désactiver les notifications pour un chat ou un groupe spécifique, "
+"suivez ces étapes :"
 
 #: ../../chats(wsc)/toc.rst:112 ../../chats/toc.rst:114
 msgid "Select the chat or group for which you want to mute notifications."
 msgstr ""
+"Sélectionnez le chat ou le groupe pour lequel vous souhaitez désactiver les "
+"notifications."
 
 #: ../../chats(wsc)/toc.rst:113 ../../chats/toc.rst:115
 msgid "On the right side of the Main Panel, click **Mute notifications**."
 msgstr ""
+"Sur le côté droit du panneau principal, cliquez sur **Désactiver les "
+"notifications**."
 
 #: ../../chats(wsc)/toc.rst:115 ../../chats/toc.rst:117
 msgid ""
 "To unmute, follow the same procedure and choose **Activate "
 "notifications**."
 msgstr ""
+"Pour réactiver, suivez la même procédure et choisissez **Activer les "
+"notifications**."
 
 #: ../../chats(wsc)/toc.rst:118 ../../chats/toc.rst:120
 msgid "Clear History of a Chat"
-msgstr ""
+msgstr "Effacer l'historique d'un chat"
 
 #: ../../chats(wsc)/toc.rst:120 ../../chats/toc.rst:122
 msgid "To clear the history of a specific chat or group:"
-msgstr ""
+msgstr "Pour effacer l'historique d'un chat ou groupe spécifique :"
 
 #: ../../chats(wsc)/toc.rst:123 ../../chats/toc.rst:125
 msgid "Select the chat or group you want to clear the history for."
 msgstr ""
+"Sélectionnez le chat ou le groupe pour lequel vous souhaitez effacer "
+"l'historique."
 
 #: ../../chats(wsc)/toc.rst:124 ../../chats/toc.rst:126
 msgid "On the right side of the Main Panel, click **Clear History**."
 msgstr ""
+"Sur le côté droit du panneau principal, cliquez sur **Effacer l'historique**."
 
 #: ../../chats(wsc)/toc.rst:125 ../../chats/toc.rst:127
 msgid "Click **CLEAR HISTORY** to confirm."
-msgstr ""
+msgstr "Cliquez sur **EFFACER L'HISTORIQUE** pour confirmer."
 
 #: ../../chats(wsc)/toc.rst:128 ../../chats/toc.rst:130
 msgid "Creating New Group"
-msgstr ""
+msgstr "Créer un nouveau groupe"
 
 #: ../../chats(wsc)/toc.rst:130 ../../chats/toc.rst:132
 msgid ""
 "Groups allow for group conversations with at least three attendees. You "
 "can create a group chat by following these steps:"
 msgstr ""
+"Les groupes permettent des conversations de groupe avec au moins trois "
+"participants. Vous pouvez créer un chat de groupe en suivant ces étapes :"
 
 #: ../../chats(wsc)/toc.rst:135
 msgid "Click on the name of the colleagues that appears in the list."
-msgstr ""
+msgstr "Cliquez sur le nom des collègues qui apparaît dans la liste."
 
 #: ../../chats(wsc)/toc.rst:136
 msgid "Insert a title for the group."
-msgstr ""
+msgstr "Insérez un titre pour le groupe."
 
 #: ../../chats(wsc)/toc.rst:137
 msgid ""
 "(Optional) Insert a topic for the group. While this step is not "
 "mandatory, providing a topic can help clarify the group's purpose."
 msgstr ""
+"(Optionnel) Insérez un sujet pour le groupe. Même si cette étape n'est pas "
+"obligatoire, fournir un sujet peut aider à clarifier l'objectif du groupe."
 
 #: ../../chats(wsc)/toc.rst:138
 msgid "Click **NEW GROUP**."
-msgstr ""
+msgstr "Cliquez sur **NOUVEAU GROUPE**."
 
 #: ../../chats(wsc)/toc.rst:141 ../../chats/toc.rst:141
 msgid "Now this group is added to your list under the Chats tab."
-msgstr ""
+msgstr "Maintenant, ce groupe est ajouté à votre"
 
 #: ../../chats(wsc)/toc.rst:143 ../../chats/toc.rst:143
 msgid ""
@@ -4391,17 +4410,20 @@ msgstr ""
 
 #: ../../chats(wsc)/toc.rst:151 ../../chats/toc.rst:151 ../../chats/toc.rst:164
 msgid "Select the group to which you want to add members."
-msgstr ""
+msgstr "Sélectionnez le groupe auquel vous souhaitez ajouter des membres."
 
 #: ../../chats(wsc)/toc.rst:152 ../../chats/toc.rst:152
 msgid ""
 "On the right side of the Main Panel, click **Add new members**. A new "
 "window appears."
 msgstr ""
+"Sur le côté droit du panneau principal, cliquez sur **Ajouter de nouveaux "
+"membres**. Une nouvelle fenêtre apparaît."
 
 #: ../../chats(wsc)/toc.rst:153 ../../chats/toc.rst:153
 msgid "Begin typing the email address of the colleague you wish to add."
 msgstr ""
+"Commencez à saisir l'adresse e-mail du collègue que vous souhaitez ajouter."
 
 #: ../../chats(wsc)/toc.rst:154
 msgid "Click **ADD NEW MEMBERS** to confirm."
@@ -4419,11 +4441,13 @@ msgstr ""
 
 #: ../../chats(wsc)/toc.rst:159 ../../chats/toc.rst:159
 msgid "Remove Participants from a Group"
-msgstr ""
+msgstr "Supprimer des participants d'un groupe"
 
 #: ../../chats(wsc)/toc.rst:161 ../../chats/toc.rst:161
 msgid "You can remove members from a group if you are a moderator. Here is how:"
 msgstr ""
+"Vous pouvez supprimer des membres d'un groupe si vous êtes un modérateur. "
+"Voici comment procéder :"
 
 #: ../../chats(wsc)/toc.rst:163 ../../chats(wsc)/toc.rst:183
 #: ../../chats(wsc)/toc.rst:192 ../../chats(wsc)/toc.rst:204
@@ -4436,6 +4460,7 @@ msgstr ""
 #: ../../videomeetings/toc.rst:201
 msgid "Select the **Chats feature** from your left sidebar."
 msgstr ""
+"Sélectionnez la fonction **Discussions** dans votre barre latérale gauche."
 
 #: ../../chats(wsc)/toc.rst:164
 msgid "Select the group to which you want to remove members."
@@ -4540,11 +4565,11 @@ msgstr "Pour rechercher un collègue dans votre liste de discussions :"
 
 #: ../../chats(wsc)/toc.rst:205
 msgid "In the Type to filter list field, insert your colleague's name."
-msgstr ""
+msgstr "Dans le champ Filtre de liste, insérez le nom de votre collègue."
 
 #: ../../chats(wsc)/toc.rst:208
 msgid "Exporting a Chat"
-msgstr ""
+msgstr "Exporter une conversation"
 
 #: ../../chats(wsc)/toc.rst:210
 msgid "If needed, you have the chance to export all the chats from your account."
@@ -4560,24 +4585,29 @@ msgstr ""
 #: ../../chats(wsc)/toc.rst:214
 msgid "Open Chats settings, clicking on gear icon in the left bar"
 msgstr ""
+"Ouvrez les paramètres des discussions en cliquant sur l'icône d'engrenage "
+"dans la barre latérale gauche"
 
 #: ../../chats(wsc)/toc.rst:215
 msgid "Go to \"Export Chat\" section"
-msgstr ""
+msgstr "Allez à la section **Exporter la conversation**"
 
 #: ../../chats(wsc)/toc.rst:216
 msgid "Select the chat you want to export"
-msgstr ""
+msgstr "Sélectionnez la conversation que vous souhaitez exporter"
 
 #: ../../chats(wsc)/toc.rst:217
 msgid ""
 "After a while (depending on how many messages it contains) it will start "
 "the download process of the chat, in a .txt file format"
 msgstr ""
+"Après un moment (en fonction du nombre de messages qu'elle contient), elle "
+"démarrera le processus de téléchargement de la conversation, au format de "
+"fichier .txt"
 
 #: ../../chats/toc.rst:7
 msgid "Working with Chats"
-msgstr ""
+msgstr "Travailler avec les discussions"
 
 #: ../../chats/toc.rst:14
 msgid ""
@@ -4615,7 +4645,7 @@ msgstr ""
 
 #: ../../chats/toc.rst:104 ../../videomeetings/toc.rst:205
 msgid "Click **DELETE** to confirm."
-msgstr ""
+msgstr "Cliquez sur **SUPPRIMER** pour confirmer."
 
 #: ../../chats/toc.rst:135 ../../contacts/toc.rst:177 ../../files/toc.rst:32
 #: ../../files/toc.rst:42 ../../files/toc.rst:162 ../../files/toc.rst:173
@@ -4639,20 +4669,26 @@ msgid ""
 "In the next field, begin typing the email address of the colleagues you "
 "wish to add to the group."
 msgstr ""
+"Dans le champ suivant, commencez à saisir l'adresse e-mail des collègues que "
+"vous souhaitez ajouter au groupe."
 
 #: ../../chats/toc.rst:154
 msgid "Click **SAVE**."
-msgstr ""
+msgstr "Cliquez sur **ENREGISTRER**."
 
 #: ../../chats/toc.rst:165
 msgid ""
 "On the right side of the Main Panel, under the **Participants section**, "
 "click on the trash icon next to the user you want to remove."
 msgstr ""
+"Sur le côté droit du panneau principal, sous la section **Participants**, "
+"cliquez sur l'icône de la corbeille à côté de l'utilisateur que vous "
+"souhaitez supprimer."
 
 #: ../../chats/toc.rst:175
 msgid "On the right side of the Main Panel, click **Leave Group**."
 msgstr ""
+"Sur le côté droit du panneau principal, cliquez sur **Quitter le groupe**."
 
 #: ../../chats/toc.rst:185
 msgid ""
@@ -4660,6 +4696,9 @@ msgid ""
 "click on the crown icon next to the user you want to appoint as a "
 "moderator."
 msgstr ""
+"Sur le côté droit du panneau principal, sous la section **Participants**, "
+"cliquez sur l'icône de la couronne à côté de l'utilisateur que vous "
+"souhaitez nommer modérateur."
 
 #: ../../chats/toc.rst:188
 msgid "Edit a Group's Name"
@@ -4669,7 +4708,7 @@ msgstr "Modifier le nom d'un groupe"
 msgid ""
 "On the right side of the Main Panel, click on the pen icon next to the "
 "group’s name."
-msgstr ""
+msgstr "Sur le"
 
 #: ../../chats/toc.rst:195 ../../files/toc.rst:134
 msgid "Edit the name."
@@ -6899,33 +6938,37 @@ msgstr ""
 
 #: ../../get_started/toc.rst:47 ../../get_started/toc.rst:87
 msgid "Logging In with 2FA:"
-msgstr ""
+msgstr "Connexion avec l'authentification à 2 facteurs :"
 
 #: ../../get_started/toc.rst:49
 msgid "Next time you log in to your Carbonio webmail, follow these steps:"
 msgstr ""
+"La prochaine fois que vous vous connectez à votre webmail Carbonio, suivez "
+"ces étapes :"
 
 #: ../../get_started/toc.rst:51 ../../get_started/toc.rst:91
 msgid "> Enter your **username** and **password**;"
-msgstr ""
+msgstr "> Entrez votre **nom d'utilisateur** et votre **mot de passe** ;"
 
 #: ../../get_started/toc.rst:53 ../../get_started/toc.rst:93
 msgid ""
 "> If prompted for the second-factor authentication, open the Google "
 "Authenticator app;"
 msgstr ""
+"> Si vous êtes invité à une authentification à deux facteurs, ouvrez "
+"l'application Google Authenticator ;"
 
 #: ../../get_started/toc.rst:55 ../../get_started/toc.rst:95
 msgid "> Insert the **code** from the app on your login page;"
-msgstr ""
+msgstr "> Insérez le **code** de l'application sur votre page de connexion ;"
 
 #: ../../get_started/toc.rst:57
 msgid "> Click **LOGIN**."
-msgstr ""
+msgstr "> Cliquez sur **CONNEXION**."
 
 #: ../../get_started/toc.rst:60
 msgid "Setting Up Two-factor Auth (2FA)"
-msgstr ""
+msgstr "Configuration de l'authentification à deux facteurs (2FA)"
 
 #: ../../get_started/toc.rst:63
 msgid ""
@@ -6934,54 +6977,65 @@ msgid ""
 " you the proper permission. By following these steps, you will enhance "
 "the security of your Carbonio webmail account."
 msgstr ""
+"Si vous n'êtes pas obligé d'utiliser l'authentification à 2 facteurs lors de "
+"vos invites de connexion, vous pouvez la configurer manuellement via les "
+"paramètres de votre client web, si votre administrateur système vous a donné "
+"les autorisations nécessaires. En suivant ces étapes, vous améliorerez la "
+"sécurité de votre compte webmail Carbonio."
 
 #: ../../get_started/toc.rst:65
 msgid "Accessing Settings:"
-msgstr ""
+msgstr "Accès aux paramètres :"
 
 #: ../../get_started/toc.rst:67
 msgid ""
 "Click on the **gear icon** located in the left sidebar of your webmail "
 "interface."
 msgstr ""
+"Cliquez sur l'**icône d'engrenage** située dans la barre latérale gauche de "
+"votre interface webmail."
 
 #: ../../get_started/toc.rst:68
 msgid "Navigate to the **Auth** section."
-msgstr ""
+msgstr "Accédez à la section **Auth**."
 
 #: ../../get_started/toc.rst:70
 msgid "Creating an OTP Label:"
-msgstr ""
+msgstr "Création d'un libellé OTP :"
 
 #: ../../get_started/toc.rst:72
 msgid "In the Auth section, click on **OTP Authentication**."
-msgstr ""
+msgstr "Dans la section Auth, cliquez sur **Authentification OTP**."
 
 #: ../../get_started/toc.rst:73
 msgid "Click the **NEW OTP** + button."
-msgstr ""
+msgstr "Cliquez sur le bouton **Nouvel OTP** +."
 
 #: ../../get_started/toc.rst:74
 msgid "Insert a **label** to help you remember this OTP (e.g., “mySamsungPhone”)."
 msgstr ""
+"Insérez un **libellé** pour vous aider à vous rappeler de cet OTP (par "
+"exemple, « monSamsungPhone »)."
 
 #: ../../get_started/toc.rst:75
 msgid "Hit the CREATE PASSWORD button."
-msgstr ""
+msgstr "Appuyez sur le bouton **CRÉER UN MOT DE PASSE**."
 
 #: ../../get_started/toc.rst:77
 msgid "Install Google Authenticator:"
-msgstr ""
+msgstr "Installation de Google Authenticator :"
 
 #: ../../get_started/toc.rst:79
 msgid ""
 "Install the **Google Authenticator app** on your mobile device (available"
 " on both Android and iOS)."
 msgstr ""
+"Installez l'**application Google Authenticator** sur votre appareil mobile ("
+"disponible sur Android et iOS)."
 
 #: ../../get_started/toc.rst:80
 msgid "Open the app and press the “+” button in the bottom right corner."
-msgstr ""
+msgstr "Ouvrez l'application et appuyez sur le bouton « + » en bas à droite."
 
 #: ../../get_started/toc.rst:84
 msgid "Use the app to **scan the QR code** displayed during the setup process."
@@ -7083,7 +7137,7 @@ msgstr "En utilisant l'icône de compte :"
 msgid ""
 "Click on the account icon located in the top-right corner of the webmail "
 "interface."
-msgstr ""
+msgstr "Cliquez sur"
 
 #: ../../get_started/toc.rst:129
 msgid "Select the **Logout** button."
@@ -8022,6 +8076,8 @@ msgid ""
 "Your room has been successfully created and will be accessible through "
 "the same YOUR VIRTUAL ROOMS button."
 msgstr ""
+"Votre salle a été créée avec succès et sera accessible via le même bouton "
+"VOS SALLES VIRTUELLES."
 
 #: ../../videomeetings(wsc)/toc.rst:29
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-16 16:48+0100\n"
-"PO-Revision-Date: 2024-12-16 16:50+0000\n"
+"PO-Revision-Date: 2024-12-24 06:14+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/gettext/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.3\n"
+"X-Generator: Weblate 5.9.1\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -3153,31 +3153,36 @@ msgstr ""
 
 #: ../../browsing_emails/toc.rst:232
 msgid "Select the **Print** option from the menu."
-msgstr ""
+msgstr "Seleziona l'opzione **Stampa** dal menu."
 
 #: ../../browsing_emails/toc.rst:233
 msgid ""
 "A new tab will open in your browser displaying the email, along with a "
 "window for adjusting printer settings. Make any necessary adjustments."
 msgstr ""
+"Si aprirà una nuova scheda nel browser che visualizza l'email, insieme a una "
+"finestra per regolare le impostazioni della stampante. Apporta le modifiche "
+"necessarie."
 
 #: ../../browsing_emails/toc.rst:234
 msgid "Click the Print button to proceed with printing."
-msgstr ""
+msgstr "Fai clic sul pulsante Stampa per procedere con la stampa."
 
 #: ../../browsing_emails/toc.rst:242
 msgid "Actions on Multiple Emails at Once"
-msgstr ""
+msgstr "Azioni su più email contemporaneamente"
 
 #: ../../browsing_emails/toc.rst:244
 msgid "To perform an action on multiple emails:"
-msgstr ""
+msgstr "Per eseguire un'azione su più email:"
 
 #: ../../browsing_emails/toc.rst:246
 msgid ""
 "Click on the check mark icon at the top left corner of your main panel to"
 " enter selection mode."
 msgstr ""
+"Fai clic sull'icona del segno di spunta nell'angolo superiore sinistro del "
+"pannello principale per entrare in modalità di selezione."
 
 #: ../../browsing_emails/toc.rst:247
 msgid "Select the empty circles beside each email you wish to choose."
@@ -3784,6 +3789,10 @@ msgid ""
 " shared calendar enables efficient coordination and collaboration among "
 "team members."
 msgstr ""
+"Condividere il calendario con i colleghi consente loro di visualizzare o "
+"gestire il tuo calendario, il che può essere incredibilmente utile, "
+"specialmente per un team. Avere un calendario condiviso consente una "
+"coordinazione e collaborazione efficienti tra i membri del team."
 
 #: ../../calendars/toc.rst:184
 msgid ""
@@ -3795,11 +3804,11 @@ msgstr ""
 
 #: ../../calendars/toc.rst:187
 msgid "Sharing Calendars with Your Colleagues"
-msgstr ""
+msgstr "Condivisione dei calendari con i colleghi"
 
 #: ../../calendars/toc.rst:189
 msgid "To share your calendar with your colleagues:"
-msgstr ""
+msgstr "Per condividere il tuo calendario con i colleghi:"
 
 #: ../../calendars/toc.rst:191 ../../calendars/toc.rst:201
 msgid "Navigate to the **Calendars** section from the left sidebar."
@@ -4059,7 +4068,7 @@ msgstr ""
 
 #: ../../chats(wsc)/toc.rst:7
 msgid "Working with Chats (WSC) :bdg-primary:`NEW`"
-msgstr ""
+msgstr "Working with Chats (WSC) :bdg-primary:`NEW`"
 
 #: ../../chats(wsc)/toc.rst:14
 msgid ""
@@ -4102,13 +4111,15 @@ msgstr ""
 
 #: ../../chats(wsc)/toc.rst:24 ../../chats/toc.rst:26
 msgid "Click on the name of the colleague that appears in the list."
-msgstr ""
+msgstr "Fai clic sul nome del collega che appare nell'elenco."
 
 #: ../../chats(wsc)/toc.rst:27 ../../chats/toc.rst:29
 msgid ""
 "Now, this chat is added under the Chats tab, containing a list of all "
 "available chats."
 msgstr ""
+"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco di "
+"tutte le chat disponibili."
 
 #: ../../chats(wsc)/toc.rst:29
 msgid ""
@@ -4162,7 +4173,7 @@ msgstr "Seleziona la funzione **Chats** nel menu a sinistra."
 #: ../../chats(wsc)/toc.rst:44 ../../chats(wsc)/toc.rst:57
 #: ../../chats/toc.rst:46 ../../chats/toc.rst:59
 msgid "Select the chat in which you want to send the file."
-msgstr ""
+msgstr "Seleziona la chat in cui desideri inviare il file."
 
 #: ../../chats(wsc)/toc.rst:45 ../../chats(wsc)/toc.rst:58
 #: ../../chats/toc.rst:47 ../../chats/toc.rst:60
@@ -4170,10 +4181,12 @@ msgid ""
 "Click on the paperclip icon located in the chat box at the bottom of the "
 "page."
 msgstr ""
+"Fai clic sull'icona della graffetta situata nella casella di chat in fondo "
+"alla pagina."
 
 #: ../../chats(wsc)/toc.rst:46 ../../chats/toc.rst:48
 msgid "Select **Add from local**. A new window appears."
-msgstr ""
+msgstr "Seleziona **Aggiungi da locale**. Si apre una nuova finestra."
 
 #: ../../chats(wsc)/toc.rst:47 ../../chats/toc.rst:49
 msgid ""
@@ -4273,19 +4286,19 @@ msgstr "Fai clic su **INOLTRA** nell'angolo"
 
 #: ../../chats(wsc)/toc.rst:93 ../../chats/toc.rst:94
 msgid "Select the chat to which you want to forward the message."
-msgstr ""
+msgstr "Seleziona la chat a cui desideri inoltrare il messaggio."
 
 #: ../../chats(wsc)/toc.rst:94 ../../chats/toc.rst:95
 msgid "Click **FORWARD**."
-msgstr ""
+msgstr "Fai clic su **INOLTRA**."
 
 #: ../../chats(wsc)/toc.rst:97 ../../chats/toc.rst:98
 msgid "Delete A Message"
-msgstr ""
+msgstr "Elimina un messaggio"
 
 #: ../../chats(wsc)/toc.rst:99 ../../chats/toc.rst:100
 msgid "To delete a message:"
-msgstr ""
+msgstr "Per eliminare"
 
 #: ../../chats(wsc)/toc.rst:102
 msgid "Select **Delete for all** from the drop-down menu."
@@ -4433,7 +4446,7 @@ msgstr ""
 #: ../../videomeetings/toc.rst:90 ../../videomeetings/toc.rst:104
 #: ../../videomeetings/toc.rst:201
 msgid "Select the **Chats feature** from your left sidebar."
-msgstr ""
+msgstr "Seleziona la funzione **Chat** dal menu a sinistra."
 
 #: ../../chats(wsc)/toc.rst:164
 msgid "Select the group to which you want to remove members."
@@ -4585,6 +4598,8 @@ msgid ""
 "Initially, you will not see any chats in your chat system, but once you "
 "create them, you can find them on the list."
 msgstr ""
+"Inizialmente, non vedrai alcuna chat nel tuo sistema di chat, ma una volta "
+"create, puoi trovarle nell'elenco."
 
 #: ../../chats/toc.rst:63
 msgid "Click **SHARE PUBLICK LINK**."
@@ -6993,6 +7008,7 @@ msgstr ""
 #: ../../get_started/toc.rst:109
 msgid "When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
 msgstr ""
+"When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
 
 #: ../../get_started/toc.rst:110
 msgid "Click it, and it will automatically sign you into your webmail."
@@ -7070,7 +7086,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:135
 msgid "Navigate to General Settings."
-msgstr ""
+msgstr "Navigate to General Settings."
 
 #: ../../get_started/toc.rst:136
 msgid ""
@@ -7083,6 +7099,8 @@ msgid ""
 "For security purposes, your system administrator might set a maximum "
 "duration for your login session."
 msgstr ""
+"For security purposes, your system administrator might set a maximum "
+"duration for your login session."
 
 #: ../../get_started/toc.rst:140
 msgid ""
@@ -7246,6 +7264,8 @@ msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on Carbonio."
 msgstr ""
+"**Back Button**: You can use your browser’s back button to return to the "
+"previous page you were viewing on Carbonio."
 
 #: ../../get_started/toc.rst:206
 msgid ""
@@ -7260,6 +7280,9 @@ msgid ""
 " composing a new email or a lengthy text message. You might lose your "
 "work."
 msgstr ""
+"**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
+"Clicking it restarts your session, which can be especially dangerous when "
+"composing a new email or a lengthy text message. You might lose your work."
 
 #: ../../get_started/toc.rst:210
 msgid "Account Personalization"
@@ -7296,11 +7319,11 @@ msgstr ""
 
 #: ../../get_started/toc.rst:224
 msgid "Under **Theme Options**, open the dropdown menu."
-msgstr ""
+msgstr "Under **Theme Options**, open the dropdown menu."
 
 #: ../../get_started/toc.rst:225
 msgid "Click on **Enabled**."
-msgstr ""
+msgstr "Click on **Enabled**."
 
 #: ../../get_started/toc.rst:226
 msgid ""
@@ -7310,11 +7333,11 @@ msgstr ""
 
 #: ../../get_started/toc.rst:228
 msgid "To **disable Dark mode**, follow these steps:"
-msgstr ""
+msgstr "To **disable Dark mode**, follow these steps:"
 
 #: ../../get_started/toc.rst:230
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
-msgstr ""
+msgstr "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 
 #: ../../get_started/toc.rst:232
 msgid ""
@@ -7339,6 +7362,8 @@ msgid ""
 "You can change the font size across all Carbonio web clients according to"
 " your preferences. To change the font size simply follow these steps:"
 msgstr ""
+"You can change the font size across all Carbonio web clients according to "
+"your preferences. To change the font size simply follow these steps:"
 
 #: ../../get_started/toc.rst:247 ../../get_started/toc.rst:266
 #: ../../get_started/toc.rst:281
@@ -7489,10 +7514,12 @@ msgid ""
 "These search capabilities provide efficient ways to locate and manage "
 "your data within the Carbonio web client."
 msgstr ""
+"These search capabilities provide efficient ways to locate and manage your "
+"data within the Carbonio web client."
 
 #: ../../search/toc.rst:18
 msgid "Using Quick Search for Different Items"
-msgstr ""
+msgstr "Using Quick Search for Different Items"
 
 #: ../../search/toc.rst:20
 msgid ""
@@ -7599,13 +7626,15 @@ msgstr ""
 
 #: ../../search/toc.rst:59
 msgid "**To**: Search for emails sent to a specific email address."
-msgstr ""
+msgstr "**To**: Search for emails sent to a specific email address."
 
 #: ../../search/toc.rst:60
 msgid ""
 "**Attachment type**: Search for specific attachment formats such as PDF, "
 "text document, images, etc."
 msgstr ""
+"**Attachment type**: Search for specific attachment formats such as PDF, "
+"text document, images, etc."
 
 #: ../../search/toc.rst:61
 msgid ""
@@ -8401,7 +8430,7 @@ msgstr ""
 
 #: ../../videomeetings/toc.rst:59
 msgid "ou can use the **JOIN ROOM** button to enter the room."
-msgstr ""
+msgstr "You can use the **JOIN ROOM** button to enter the room."
 
 #: ../../videomeetings/toc.rst:62
 msgid "Entering a Room"
@@ -8469,21 +8498,23 @@ msgstr ""
 
 #: ../../videomeetings/toc.rst:119
 msgid "Click the blue button in the bottom left corner to open the chat box."
-msgstr ""
+msgstr "Click the blue button in the bottom left corner to open the chat box."
 
 #: ../../videomeetings/toc.rst:120
 msgid "Click the \"i\" icon located at the top right corner of the chat box."
-msgstr ""
+msgstr "Click the \"i\" icon located at the top right corner of the chat box."
 
 #: ../../videomeetings/toc.rst:121
 msgid "Under the **Recording** section, click **START**."
-msgstr ""
+msgstr "Under the **Recording** section, click **START**."
 
 #: ../../videomeetings/toc.rst:123
 msgid ""
 "To stop the video meeting, simply click the **STOP** button. This action "
 "will automatically save your recording file into your Files."
 msgstr ""
+"To stop the video meeting, simply click the **STOP** button. This action "
+"will automatically save your recording file into your Files."
 
 #: ../../videomeetings/toc.rst:128
 msgid ""

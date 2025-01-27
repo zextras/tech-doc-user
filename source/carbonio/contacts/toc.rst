@@ -10,7 +10,7 @@
                 :align: center
                 :width: 100%
 
-Managing your contacts is essential for staying connected and organized. In this section, we will guide you through the features and functionalities of the Contacts module in our webmail platform. Whether you are keeping track of personal connections, professional networks, or client relationships, Carbonio makes it easy to store, organize, and access your contacts effortlessly.
+Managing your contacts is essential for staying connected and organized. In this section, we will guide you through the features and functionalities of the Contacts module in our webmail platform. Whether you are keeping track of personal connections, professional networks, or client relationships, |product| makes it easy to store, organize, and access your contacts effortlessly.
 
 Accessing Your Contact Book
 ===========================
@@ -257,7 +257,7 @@ You can export and store your address book on your computer in CSV (comma-separa
 Import a CSV File as an Address Book
 ====================================
 
-You can import the stored address book on your computer in CSV (comma-separated values) format to your Carbonio web client. To do so:
+You can import the stored address book on your computer in CSV (comma-separated values) format to your |product| web client. To do so:
 
 1.	Select the **Contacts** from your left sidebar.
 2.	In the Navigation Panel, right-click on the address book you wish to import data in.

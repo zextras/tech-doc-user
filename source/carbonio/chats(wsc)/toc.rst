@@ -11,7 +11,7 @@ Working with Chats (WSC) :bdg-primary:`NEW`
                 :align: center
                 :width: 100%
 
-In the Carbonio web client, Chats (WSC - Workstream Collaboration) serve as a key communication feature, supporting both individual and group interactions. Users benefit from centralized messaging, promoting real-time conversations and fostering collaboration. Whether it's about sharing information, brainstorming, or organizing tasks, Chats offer a seamless platform for efficient teamwork. Notifications ensure that users stay updated and engaged, maintaining productivity whether they are working remotely or in the office.
+In the |product| web client, Chats (WSC - Workstream Collaboration) serve as a key communication feature, supporting both individual and group interactions. Users benefit from centralized messaging, promoting real-time conversations and fostering collaboration. Whether it's about sharing information, brainstorming, or organizing tasks, Chats offer a seamless platform for efficient teamwork. Notifications ensure that users stay updated and engaged, maintaining productivity whether they are working remotely or in the office.
 
 Creating New Chat
 =================
@@ -47,10 +47,10 @@ To send a file saved on your computer using Chats, follow these steps:
 #.	Choose the file from your computer by navigating through the opened window.
 #.	Click **Open** to attach the file to your message.
 
-Sending Files from Carbonio Files in Chats
-==========================================
+Sending Files from |product| Files in Chats
+===========================================
 
-You can use Chats to send a file directly from Carbonio Files to a chat. 
+You can use Chats to send a file directly from |product| Files to a chat. 
 Here is how:
 
 #.	Select the **Chats**  feature from your left sidebar.

@@ -10,14 +10,14 @@
                 :align: center
                 :width: 100%
 
-You can utilize the Carbonio Calendar feature to effectively manage your appointments, meetings, and events. Additionally, Carbonio enables you to share your calendars with colleagues or friends.
+You can utilize the |product| Calendar feature to effectively manage your appointments, meetings, and events. Additionally, |product| enables you to share your calendars with colleagues or friends.
 
 To access the Calendar function, simply click on the Calendars section from the left sidebar.
 
 Setting Default Calendar View
 =============================
 
-In Carbonio, the default view when opening your calendar is the Work Week View. However, you have the option to customize this and choose a different view to display upon opening.
+In |product|, the default view when opening your calendar is the Work Week View. However, you have the option to customize this and choose a different view to display upon opening.
 
 To change the default calendar view:
 
@@ -54,7 +54,7 @@ This view will revert to the default settings upon reloading the web client.
 Creating a Calendar
 ===================
 
-In Carbonio, a default calendar is created for you. However, you can create additional calendars to organize different types of appointments. For instance, you can establish separate calendars for work-related events, personal appointments, and company activities, enabling you to manage each aspect of your schedule efficiently.
+In |product|, a default calendar is created for you. However, you can create additional calendars to organize different types of appointments. For instance, you can establish separate calendars for work-related events, personal appointments, and company activities, enabling you to manage each aspect of your schedule efficiently.
 
 To create a calendar:
 
@@ -65,7 +65,7 @@ To create a calendar:
 5.	Set the color of the calendar.
 6.	Click the **CREATE** button.
 
-You can utilize the checkbox labeled **Exclude this calendar when reporting the free/busy times** when creating the calendar if you prefer not to include events from this specific calendar when Carbonio reports your availability to colleagues. This feature is particularly useful when creating calendars for personal use, ensuring that your availability for meetings is accurately reflected without disclosing details of events from this calendar.
+You can utilize the checkbox labeled **Exclude this calendar when reporting the free/busy times** when creating the calendar if you prefer not to include events from this specific calendar when |product| reports your availability to colleagues. This feature is particularly useful when creating calendars for personal use, ensuring that your availability for meetings is accurately reflected without disclosing details of events from this calendar.
 
   .. image:: /img/new-calendar1.png
                 :align: center
@@ -74,7 +74,7 @@ You can utilize the checkbox labeled **Exclude this calendar when reporting the 
 Setting a Color for a Calendar
 ==============================
 
-To optimize your experience with Carbonio's multiple calendar feature, it is advisable to assign distinct colors to each calendar. This ensures clarity when viewing them collectively on the same timetable.
+To optimize your experience with |product|'s multiple calendar feature, it is advisable to assign distinct colors to each calendar. This ensures clarity when viewing them collectively on the same timetable.
 
 To set a color for a calendar:
 
@@ -268,7 +268,7 @@ To remove a colleague’s shared calendar from your calendars list:
 Import an ICS File as New Calendar
 ====================================
 
-You can import a calendar in .ics format directly to your Carbonio web client calendar. To do so:
+You can import a calendar in .ics format directly to your |product| web client calendar. To do so:
 
 1.	Select the **Calendars** from your left sidebar.
 2.	In the Navigation Panel, right-click on "Calendar" and select the voice "New Calendar": this step is not mandatory, but recommended to avoid mixing existing calendars with the imported one.
@@ -281,7 +281,7 @@ You can import a calendar in .ics format directly to your Carbonio web client ca
 Export an ICS File as New Calendar
 ====================================
 
-You can also export a calendar in .ics format directly from your Carbonio web client calendar. To do so:
+You can also export a calendar in .ics format directly from your |product| web client calendar. To do so:
 
 1.	Select the **Calendars** from your left sidebar.
 2.	In the Navigation Panel, right-click on "Calendar" you want to export.

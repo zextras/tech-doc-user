@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-16 16:48+0100\n"
+"POT-Creation-Date: 2025-01-27 16:37+0100\n"
 "PO-Revision-Date: 2024-12-24 06:14+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
-"Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
-"documentation/carbonio-user-guide/gettext/>\n"
 "Language: gettext\n"
+"Language-Team: gettext (generated) "
+"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
+"guide/gettext/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9.1\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -28,7 +27,7 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:9
 msgid ""
 "This section delves into more advanced email management techniques that "
-"offer significant long-term benefits. For Carbonio enthusiasts, we "
+"offer significant long-term benefits. For |product| enthusiasts, we "
 "strongly advise taking note of these strategies. Techniques include "
 "effectively handling spam emails, utilizing email filters, and email "
 "signatures, etc."
@@ -160,12 +159,12 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:47
 msgid ""
 "You can customize your email preferences to receive notifications at "
-"another email address when you receive an email in your Carbonio inbox. "
+"another email address when you receive an email in your |product| inbox. "
 "This option can be particularly beneficial if you do not receive a high "
 "volume of emails to this account, but those you do receive require prompt"
 " attention. Unlike the email notifications mentioned in the previous "
-"section, for this feature, you do not need to keep your Carbonio webmail "
-"open."
+"section, for this feature, you do not need to keep your |product| webmail"
+" open."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:51
@@ -177,7 +176,7 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:54
 msgid ""
 "Going forward, you will receive an email notification on your Gmail "
-"account whenever a new email arrives in your Carbonio inbox."
+"account whenever a new email arrives in your |product| inbox."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:61
@@ -195,7 +194,7 @@ msgid ""
 "number of days, as determined by your system administrator. If you find "
 "yourself inundated with a significant volume of unwanted emails, it is "
 "advisable to reach out to your system administrator. Marking such emails "
-"as spam automatically helps Carbonio in refining the spam filtering "
+"as spam automatically helps |product| in refining the spam filtering "
 "process."
 msgstr ""
 
@@ -399,11 +398,11 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:154
 msgid ""
-"When sending messages to other Carbonio users, you can choose to request "
-"a return receipt, which notifies you when the recipient opens your email."
-" However, for this feature to function, the recipient must have the read "
-"receipt feature enabled or manually accept it as soon as they open the "
-"email."
+"When sending messages to other |product| users, you can choose to request"
+" a return receipt, which notifies you when the recipient opens your "
+"email. However, for this feature to function, the recipient must have the"
+" read receipt feature enabled or manually accept it as soon as they open "
+"the email."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:156
@@ -1517,11 +1516,11 @@ msgstr ""
 
 #: ../../appointments/toc.rst:32 ../../appointments/toc.rst:136
 msgid ""
-"If you prefer to host a virtual meeting using Carbonio Chats' video "
+"If you prefer to host a virtual meeting using |product| Chats' video "
 "meeting feature in one of your virtual rooms, you can select the desired "
 "virtual room from the **Virtual Room field**. If you have not set up any "
 "virtual rooms yet, you can easily create them through the Chats section "
-"on the Carbonio web client."
+"on the |product| web client."
 msgstr ""
 
 #: ../../appointments/toc.rst:33 ../../appointments/toc.rst:137
@@ -1533,7 +1532,7 @@ msgstr ""
 
 #: ../../appointments/toc.rst:34 ../../appointments/toc.rst:138
 msgid ""
-"Choose whether you would like Carbonio to mark this time slot for the "
+"Choose whether you would like |product| to mark this time slot for the "
 "appointment as busy or free from the **Display field**. This will inform "
 "your colleagues of your availability when they attempt to schedule "
 "another appointment during the same time slot."
@@ -1565,9 +1564,9 @@ msgstr ""
 #: ../../appointments/toc.rst:38 ../../appointments/toc.rst:142
 msgid ""
 "Choose a reminder for the appointment from the **Reminder field** to "
-"ensure you are informed beforehand. Carbonio will display a warning "
-"window in the Carbonio client at the specified time to remind you of the "
-"appointment."
+"ensure you are informed beforehand. |product| will display a warning "
+"window in the |product| client at the specified time to remind you of the"
+" appointment."
 msgstr ""
 
 #: ../../appointments/toc.rst:39
@@ -1741,7 +1740,7 @@ msgstr ""
 msgid ""
 "Choose a meeting room from the available options in the **Meeting room "
 "field**. Alternatively, if you prefer to host a virtual meeting using "
-"Carbonio Chats' video meeting feature in one of your virtual rooms, you "
+"|product| Chats' video meeting feature in one of your virtual rooms, you "
 "can select the desired virtual room from the **Virtual Room field**."
 msgstr ""
 
@@ -1751,8 +1750,8 @@ msgid ""
 "administrator. If you do not see the desired room listed, kindly contact "
 "your system administrator to ensure all relevant meeting rooms in your "
 "office are included. Similarly, if you have not set up any virtual rooms "
-"yet, you can easily create them through the Chats section on the Carbonio"
-" web client."
+"yet, you can easily create them through the Chats section on the "
+"|product| web client."
 msgstr ""
 
 #: ../../appointments/toc.rst:123
@@ -1916,14 +1915,15 @@ msgid "Basic Email Management"
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:9
+#, fuzzy
 msgid ""
 "In this section, we will delve into the versatile functionalities of "
-"Carbonio, focusing on its efficient organizational tools such as folders,"
-" tags, and sharing capabilities."
+"|product|, focusing on its efficient organizational tools such as "
+"folders, tags, and sharing capabilities."
 msgstr ""
 "In questa sezione, analizzeremo le funzionalità versatili di Carbonio, "
-"concentrandoci sugli strumenti organizzativi efficienti come cartelle, tag e "
-"funzionalità di condivisione."
+"concentrandoci sugli strumenti organizzativi efficienti come cartelle, "
+"tag e funzionalità di condivisione."
 
 #: ../../basic_email_management/toc.rst:12
 msgid "Using Tags"
@@ -1931,7 +1931,7 @@ msgstr "Utilizzo dei tag"
 
 #: ../../basic_email_management/toc.rst:14
 msgid ""
-"Tags in Carbonio offer a versatile solution for classifying and "
+"Tags in |product| offer a versatile solution for classifying and "
 "organizing emails. For instance, you might designate tags like \"Medium "
 "Priority\" to swiftly categorize items according to their urgency or "
 "importance."
@@ -1994,16 +1994,15 @@ msgstr "Scegli un colore per il tag tra le opzioni fornite."
 
 #: ../../basic_email_management/toc.rst:40
 msgid "Click on the **CREATE** button to finalize the creation of the new tag."
-msgstr ""
-"Clicca sul pulsante **CREA** per finalizzare la creazione del nuovo tag."
+msgstr "Clicca sul pulsante **CREA** per finalizzare la creazione del nuovo tag."
 
 #: ../../basic_email_management/toc.rst:43
 msgid ""
 "To see your tags, you should click on the downward arrow icon located "
 "next to the Tags section."
 msgstr ""
-"Per visualizzare i tuoi tag, devi cliccare sull'icona della freccia verso il "
-"basso situata accanto alla sezione Tag."
+"Per visualizzare i tuoi tag, devi cliccare sull'icona della freccia verso"
+" il basso situata accanto alla sezione Tag."
 
 #: ../../basic_email_management/toc.rst:47
 msgid "Assigning a Tag to an Email"
@@ -2017,8 +2016,8 @@ msgstr "Per assegnare un tag a un'e-mail, semplicemente:"
 #: ../../basic_email_management/toc.rst:75
 msgid "Right-click on the email to open the dropdown menu."
 msgstr ""
-"Fai clic con il pulsante destro del mouse sull'e-mail per aprire il menu a "
-"discesa."
+"Fai clic con il pulsante destro del mouse sull'e-mail per aprire il menu "
+"a discesa."
 
 #: ../../basic_email_management/toc.rst:52
 #: ../../basic_email_management/toc.rst:76
@@ -2046,8 +2045,8 @@ msgid ""
 "Click on the downward arrow icon located next to the Tags section to open"
 " the list of tags."
 msgstr ""
-"Clicca sull'icona della freccia verso il basso situata accanto alla sezione "
-"Tag per aprire l'elenco dei tag."
+"Clicca sull'icona della freccia verso il basso situata accanto alla "
+"sezione Tag per aprire l'elenco dei tag."
 
 #: ../../basic_email_management/toc.rst:67
 msgid "Click on the tag that you want to find emails for."
@@ -2056,8 +2055,8 @@ msgstr "Clicca sul tag che desideri cercare per le e-mail."
 #: ../../basic_email_management/toc.rst:68
 msgid "All messages with the selected tag will be displayed in the Main Panel."
 msgstr ""
-"Tutti i messaggi con il tag selezionato verranno visualizzati nel Pannello "
-"principale."
+"Tutti i messaggi con il tag selezionato verranno visualizzati nel "
+"Pannello principale."
 
 #: ../../basic_email_management/toc.rst:71
 msgid "Removing a Tag from an Email"
@@ -2078,8 +2077,8 @@ msgstr "Modifica del colore di un tag"
 #: ../../basic_email_management/toc.rst:82
 msgid "Right-click on the tag you need to edit from the Tags section."
 msgstr ""
-"Fate clic con il pulsante destro del mouse sul tag che desiderate modificare "
-"nella sezione Tag."
+"Fate clic con il pulsante destro del mouse sul tag che desiderate "
+"modificare nella sezione Tag."
 
 #: ../../basic_email_management/toc.rst:83
 msgid "From the dropdown menu, select Edit Tag."
@@ -2090,8 +2089,8 @@ msgid ""
 "A dialog box will appear. Choose a color for the tag from the options "
 "provided."
 msgstr ""
-"Verrà visualizzata una finestra di dialogo. Scegliete un colore per il tag "
-"dalle opzioni fornite."
+"Verrà visualizzata una finestra di dialogo. Scegliete un colore per il "
+"tag dalle opzioni fornite."
 
 #: ../../basic_email_management/toc.rst:85
 msgid "Click on the EDIT button."
@@ -2104,8 +2103,8 @@ msgstr "Rinominare un tag"
 #: ../../basic_email_management/toc.rst:90
 msgid "Right-click on the tag you need to edit from the **Tags** section."
 msgstr ""
-"Fate clic con il pulsante destro del mouse sul tag che desiderate modificare "
-"nella sezione **Tag**."
+"Fate clic con il pulsante destro del mouse sul tag che desiderate "
+"modificare nella sezione **Tag**."
 
 #: ../../basic_email_management/toc.rst:91
 msgid "From the dropdown menu, select **Edit Tag**."
@@ -2142,8 +2141,8 @@ msgid ""
 "A flag acts like a special tag for important emails, showing up with a "
 "red flag icon next to the subject line."
 msgstr ""
-"Un flag agisce come un tag speciale per le e-mail importanti, visualizzato "
-"con un'icona di flag rosso accanto alla riga dell'oggetto."
+"Un flag agisce come un tag speciale per le e-mail importanti, "
+"visualizzato con un'icona di flag rosso accanto alla riga dell'oggetto."
 
 #: ../../basic_email_management/toc.rst:106
 msgid ""
@@ -2315,8 +2314,8 @@ msgstr "Cancellazione della cartella"
 #: ../../basic_email_management/toc.rst:181
 msgid "Wiping a folder permanently removes all emails. To wipe a folder:"
 msgstr ""
-"La cancellazione di una cartella rimuove permanentemente tutte le e-mail. "
-"Per cancellare una cartella:"
+"La cancellazione di una cartella rimuove permanentemente tutte le e-mail."
+" Per cancellare una cartella:"
 
 #: ../../basic_email_management/toc.rst:185
 msgid "Select **Wipe Folder** from the dropdown menu."
@@ -2409,8 +2408,8 @@ msgid ""
 "A new dialogue box will appear. Choose the folder where you wish to "
 "relocate the email."
 msgstr ""
-"Sarà visualizzata una nuova finestra di dialogo. Scegli la cartella in cui "
-"desideri spostare l'email."
+"Sarà visualizzata una nuova finestra di dialogo. Scegli la cartella in "
+"cui desideri spostare l'email."
 
 #: ../../basic_email_management/toc.rst:229
 msgid "Click MOVE to confirm."
@@ -2632,8 +2631,8 @@ msgid ""
 "Check the shared folder you want to add from the available shared items "
 "list."
 msgstr ""
-"Seleziona la cartella condivisa che desideri aggiungere dall'elenco degli "
-"elementi condivisi disponibili."
+"Seleziona la cartella condivisa che desideri aggiungere dall'elenco degli"
+" elementi condivisi disponibili."
 
 #: ../../basic_email_management/toc.rst:346 ../../calendars/toc.rst:217
 #: ../../contacts/toc.rst:240
@@ -2665,8 +2664,9 @@ msgid "Select the email from the main panel."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:24
+#, fuzzy
 msgid ""
-"Within the Carbonio web client, there are two distinct methods for "
+"Within the |product| web client, there are two distinct methods for "
 "displaying emails:"
 msgstr ""
 "All'interno del client web di Carbonio, ci sono due metodi distinti per "
@@ -2807,9 +2807,9 @@ msgid ""
 "header will display specific security and informational criteria. This "
 "includes notifications for:"
 msgstr ""
-"Riceverai notifiche visive all'interno del corpo dell'email e l'intestazione "
-"visualizzerà specifici criteri di sicurezza e informazioni. Ciò include "
-"notifiche per:"
+"Riceverai notifiche visive all'interno del corpo dell'email e "
+"l'intestazione visualizzerà specifici criteri di sicurezza e "
+"informazioni. Ciò include notifiche per:"
 
 #: ../../browsing_emails/toc.rst:76
 msgid "External domain origins"
@@ -2839,15 +2839,15 @@ msgstr ""
 
 #: ../../browsing_emails/toc.rst:87
 msgid ""
-"To adjust Carbonio's email visualization, whether opting for threaded "
+"To adjust |product|'s email visualization, whether opting for threaded "
 "conversations or individual messages:"
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:89
 msgid "Navigate to the **Settings** (Gear icon) from the left sidebar."
 msgstr ""
-"Accedi alle **Impostazioni** (icona dell'ingranaggio) dal pannello laterale "
-"sinistro."
+"Accedi alle **Impostazioni** (icona dell'ingranaggio) dal pannello "
+"laterale sinistro."
 
 #: ../../browsing_emails/toc.rst:90
 msgid "Access the **Mails** section."
@@ -2987,11 +2987,11 @@ msgid ""
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:159
-msgid "Saving Attachments in Your Carbonio Files"
+msgid "Saving Attachments in Your |product| Files"
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:161
-msgid "To save an attachment in your Carbonio Files:"
+msgid "To save an attachment in your |product| Files:"
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:164
@@ -3160,9 +3160,9 @@ msgid ""
 "A new tab will open in your browser displaying the email, along with a "
 "window for adjusting printer settings. Make any necessary adjustments."
 msgstr ""
-"Si aprirà una nuova scheda nel browser che visualizza l'email, insieme a una "
-"finestra per regolare le impostazioni della stampante. Apporta le modifiche "
-"necessarie."
+"Si aprirà una nuova scheda nel browser che visualizza l'email, insieme a "
+"una finestra per regolare le impostazioni della stampante. Apporta le "
+"modifiche necessarie."
 
 #: ../../browsing_emails/toc.rst:234
 msgid "Click the Print button to proceed with printing."
@@ -3181,8 +3181,8 @@ msgid ""
 "Click on the check mark icon at the top left corner of your main panel to"
 " enter selection mode."
 msgstr ""
-"Fai clic sull'icona del segno di spunta nell'angolo superiore sinistro del "
-"pannello principale per entrare in modalità di selezione."
+"Fai clic sull'icona del segno di spunta nell'angolo superiore sinistro "
+"del pannello principale per entrare in modalità di selezione."
 
 #: ../../browsing_emails/toc.rst:247
 msgid "Select the empty circles beside each email you wish to choose."
@@ -3218,8 +3218,7 @@ msgstr "Seleziona più email come descritto sopra."
 
 #: ../../browsing_emails/toc.rst:256
 msgid "Click on the trash icon at the top right corner of your email list."
-msgstr ""
-"Fai clic sull'icona del cestino in alto a destra dell'elenco delle email."
+msgstr "Fai clic sull'icona del cestino in alto a destra dell'elenco delle email."
 
 #: ../../browsing_emails/toc.rst:264
 msgid "Sorting Emails"
@@ -3232,18 +3231,18 @@ msgid ""
 "unread status, importance, flagged status, presence of attachments, "
 "sender, date, and subject."
 msgstr ""
-"L'ordinamento degli email può offrire una notevole utilità in vari scenari. "
-"Hai la flessibilità di categorizzare le email in base a criteri come lo "
-"stato non letto, l'importanza, lo stato contrassegnato, la presenza di "
-"allegati, il mittente, la data e l'oggetto."
+"L'ordinamento degli email può offrire una notevole utilità in vari "
+"scenari. Hai la flessibilità di categorizzare le email in base a criteri "
+"come lo stato non letto, l'importanza, lo stato contrassegnato, la "
+"presenza di allegati, il mittente, la data e l'oggetto."
 
 #: ../../browsing_emails/toc.rst:268
 msgid ""
 "To initiate sorting, click on the **sorting icon** located in the top "
 "right corner of your email list."
 msgstr ""
-"Per avviare l'ordinamento, fai clic sull'icona di **ordinamento** situata in "
-"alto a destra dell'elenco delle email."
+"Per avviare l'ordinamento, fai clic sull'icona di **ordinamento** situata"
+" in alto a destra dell'elenco delle email."
 
 #: ../../browsing_emails/toc.rst:269
 msgid "Choose your preferred sorting criterion from the options provided."
@@ -3255,7 +3254,8 @@ msgid ""
 "ascending and descending order as per your preference."
 msgstr ""
 "Una volta selezionato, fare clic sull'icona di ordinamento di nuovo per "
-"commutare tra l'ordine ascendente e discendente secondo le tue preferenze."
+"commutare tra l'ordine ascendente e discendente secondo le tue "
+"preferenze."
 
 #: ../../browsing_emails/toc.rst:272
 msgid ""
@@ -3273,17 +3273,17 @@ msgid ""
 "current day, it will always be displayed with the full date and time, "
 "with the complete timestamp."
 msgstr ""
-"Per garantire la chiarezza, il formato di data per le email che non sono del "
-"giorno corrente, sarà sempre visualizzato con la data e l'ora complete, con "
-"il timestamp completo."
+"Per garantire la chiarezza, il formato di data per le email che non sono "
+"del giorno corrente, sarà sempre visualizzato con la data e l'ora "
+"complete, con il timestamp completo."
 
 #: ../../browsing_emails/toc.rst:285
 msgid ""
 "The timestamp will be shown according to the browser language rules, as "
 "explained in the following table:"
 msgstr ""
-"Il timestamp sarà mostrato secondo le regole della lingua del browser, come "
-"spiegato nella tabella seguente:"
+"Il timestamp sarà mostrato secondo le regole della lingua del browser, "
+"come spiegato nella tabella seguente:"
 
 #: ../../browsing_emails/toc.rst:287
 msgid "Date Format"
@@ -3394,14 +3394,15 @@ msgid "Working with Calendars"
 msgstr "Lavorare con i calendari"
 
 #: ../../calendars/toc.rst:13
+#, fuzzy
 msgid ""
-"You can utilize the Carbonio Calendar feature to effectively manage your "
-"appointments, meetings, and events. Additionally, Carbonio enables you to"
-" share your calendars with colleagues or friends."
+"You can utilize the |product| Calendar feature to effectively manage your"
+" appointments, meetings, and events. Additionally, |product| enables you "
+"to share your calendars with colleagues or friends."
 msgstr ""
-"Bạn có thể sử dụng tính năng Lịch của Carbonio để quản lý cuộc hẹn, cuộc họp "
-"và sự kiện của mình hiệu quả. Ngoài ra, Carbonio cũng cho phép bạn chia sẻ "
-"lịch của mình với đồng nghiệp hoặc bạn bè."
+"Bạn có thể sử dụng tính năng Lịch của Carbonio để quản lý cuộc hẹn, cuộc "
+"họp và sự kiện của mình hiệu quả. Ngoài ra, Carbonio cũng cho phép bạn "
+"chia sẻ lịch của mình với đồng nghiệp hoặc bạn bè."
 
 #: ../../calendars/toc.rst:15
 msgid ""
@@ -3414,14 +3415,15 @@ msgid "Setting Default Calendar View"
 msgstr "Cài đặt chế độ xem lịch mặc định"
 
 #: ../../calendars/toc.rst:20
+#, fuzzy
 msgid ""
-"In Carbonio, the default view when opening your calendar is the Work Week"
-" View. However, you have the option to customize this and choose a "
+"In |product|, the default view when opening your calendar is the Work "
+"Week View. However, you have the option to customize this and choose a "
 "different view to display upon opening."
 msgstr ""
-"Trong Carbonio, chế độ xem mặc định khi mở lịch là chế độ xem Tuần làm việc. "
-"Tuy nhiên, bạn có thể tùy chỉnh chế độ xem này và chọn một chế độ xem khác "
-"để hiển thị khi mở."
+"Trong Carbonio, chế độ xem mặc định khi mở lịch là chế độ xem Tuần làm "
+"việc. Tuy nhiên, bạn có thể tùy chỉnh chế độ xem này và chọn một chế độ "
+"xem khác để hiển thị khi mở."
 
 #: ../../calendars/toc.rst:22
 msgid "To change the default calendar view:"
@@ -3466,8 +3468,8 @@ msgid ""
 "Work Week View: Shows only workdays (Monday to Friday – can be changed "
 "from the settings), ideal for work-focused scheduling."
 msgstr ""
-"Chế độ xem Tuần làm việc: Chỉ hiển thị các ngày làm việc (Thứ Hai đến Thứ "
-"Sáu - có thể thay đổi từ cài đặt), lý tưởng cho lịch trình làm việc."
+"Chế độ xem Tuần làm việc: Chỉ hiển thị các ngày làm việc (Thứ Hai đến Thứ"
+" Sáu - có thể thay đổi từ cài đặt), lý tưởng cho lịch trình làm việc."
 
 #: ../../calendars/toc.rst:38
 msgid "Changing Calendar View"
@@ -3511,7 +3513,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:57
 msgid ""
-"In Carbonio, a default calendar is created for you. However, you can "
+"In |product|, a default calendar is created for you. However, you can "
 "create additional calendars to organize different types of appointments. "
 "For instance, you can establish separate calendars for work-related "
 "events, personal appointments, and company activities, enabling you to "
@@ -3543,21 +3545,22 @@ msgid "Click the **CREATE** button."
 msgstr ""
 
 #: ../../calendars/toc.rst:68
+#, fuzzy
 msgid ""
 "You can utilize the checkbox labeled **Exclude this calendar when "
 "reporting the free/busy times** when creating the calendar if you prefer "
-"not to include events from this specific calendar when Carbonio reports "
+"not to include events from this specific calendar when |product| reports "
 "your availability to colleagues. This feature is particularly useful when"
 " creating calendars for personal use, ensuring that your availability for"
 " meetings is accurately reflected without disclosing details of events "
 "from this calendar."
 msgstr ""
 "Puoi utilizzare la casella di controllo etichettata **Escludi questo "
-"calendario quando si segnalano gli orari di disponibilità** quando crei il "
-"calendario se preferisci non includere gli eventi di questo calendario "
-"specifico quando Carbonio segnala la tua disponibilità ai colleghi. Questa "
-"funzione è particolarmente utile quando si creano calendari per uso "
-"personale, assicurando che la tua disponibilità per le riunioni sia "
+"calendario quando si segnalano gli orari di disponibilità** quando crei "
+"il calendario se preferisci non includere gli eventi di questo calendario"
+" specifico quando Carbonio segnala la tua disponibilità ai colleghi. "
+"Questa funzione è particolarmente utile quando si creano calendari per "
+"uso personale, assicurando che la tua disponibilità per le riunioni sia "
 "rappresentata in modo accurato senza divulgare dettagli degli eventi di "
 "questo calendario."
 
@@ -3567,8 +3570,8 @@ msgstr ""
 
 #: ../../calendars/toc.rst:77
 msgid ""
-"To optimize your experience with Carbonio's multiple calendar feature, it"
-" is advisable to assign distinct colors to each calendar. This ensures "
+"To optimize your experience with |product|'s multiple calendar feature, "
+"it is advisable to assign distinct colors to each calendar. This ensures "
 "clarity when viewing them collectively on the same timetable."
 msgstr ""
 
@@ -3623,8 +3626,8 @@ msgid ""
 "Select **Delete calendar** from the drop-down menu (this option is "
 "unavailable for your main calendar)."
 msgstr ""
-"Selezionare **Elimina calendario** dal menu a discesa (questa opzione non è "
-"disponibile per il calendario principale)."
+"Selezionare **Elimina calendario** dal menu a discesa (questa opzione non"
+" è disponibile per il calendario principale)."
 
 #: ../../calendars/toc.rst:106 ../../contacts/toc.rst:166
 msgid "Click the **DELETE** button to confirm."
@@ -3651,15 +3654,15 @@ msgid ""
 "In the Navigation Panel, click on the downward arrow next to the Trash "
 "folder. (if there is no downward arrow, your trash folder is empty)"
 msgstr ""
-"Nel pannello di navigazione, fare clic sulla freccia verso il basso accanto "
-"alla cartella Cestino. (se non c'è la freccia verso il basso, la cartella "
-"cestino è vuota)"
+"Nel pannello di navigazione, fare clic sulla freccia verso il basso "
+"accanto alla cartella Cestino. (se non c'è la freccia verso il basso, la "
+"cartella cestino è vuota)"
 
 #: ../../calendars/toc.rst:117
 msgid "Right-click on the calendar you wish to restore."
 msgstr ""
-"Fare clic con il pulsante destro del mouse sul calendario che si desidera "
-"ripristinare."
+"Fare clic con il pulsante destro del mouse sul calendario che si desidera"
+" ripristinare."
 
 #: ../../calendars/toc.rst:118
 msgid "Click **Restore calendar** from the drop-down menu."
@@ -3765,8 +3768,8 @@ msgid ""
 "You can assign privileges to individuals or groups of colleagues using "
 "roles to see to manage your shared calendars."
 msgstr ""
-"Puoi assegnare privilegi a individui o gruppi di colleghi utilizzando ruoli "
-"per gestire i calendari condivisi."
+"Puoi assegnare privilegi a individui o gruppi di colleghi utilizzando "
+"ruoli per gestire i calendari condivisi."
 
 #: ../../calendars/toc.rst:178
 msgid "Viewer (can view)"
@@ -4009,7 +4012,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:271
 msgid ""
-"You can import a calendar in .ics format directly to your Carbonio web "
+"You can import a calendar in .ics format directly to your |product| web "
 "client calendar. To do so:"
 msgstr ""
 
@@ -4048,8 +4051,8 @@ msgstr ""
 
 #: ../../calendars/toc.rst:284
 msgid ""
-"You can also export a calendar in .ics format directly from your Carbonio"
-" web client calendar. To do so:"
+"You can also export a calendar in .ics format directly from your "
+"|product| web client calendar. To do so:"
 msgstr ""
 
 #: ../../calendars/toc.rst:287
@@ -4072,8 +4075,8 @@ msgstr "Working with Chats (WSC) :bdg-primary:`NEW`"
 
 #: ../../chats(wsc)/toc.rst:14
 msgid ""
-"In the Carbonio web client, Chats (WSC - Workstream Collaboration) serve "
-"as a key communication feature, supporting both individual and group "
+"In the |product| web client, Chats (WSC - Workstream Collaboration) serve"
+" as a key communication feature, supporting both individual and group "
 "interactions. Users benefit from centralized messaging, promoting real-"
 "time conversations and fostering collaboration. Whether it's about "
 "sharing information, brainstorming, or organizing tasks, Chats offer a "
@@ -4118,8 +4121,8 @@ msgid ""
 "Now, this chat is added under the Chats tab, containing a list of all "
 "available chats."
 msgstr ""
-"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco di "
-"tutte le chat disponibili."
+"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco"
+" di tutte le chat disponibili."
 
 #: ../../chats(wsc)/toc.rst:29
 msgid ""
@@ -4138,8 +4141,8 @@ msgid ""
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il tuo "
 "messaggio nella casella di testo in basso. Puoi anche aggiungere emoji e "
-"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per "
-"inviare il messaggio."
+"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per"
+" inviare il messaggio."
 
 #: ../../chats(wsc)/toc.rst:34 ../../chats/toc.rst:36
 msgid "Adding Emojis to Your Message"
@@ -4152,8 +4155,9 @@ msgid ""
 "clicking on the emoji icon located in the text box."
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il "
-"messaggio nella casella di testo in basso. Puoi anche aggiungere emoji nel "
-"testo facendo clic sull'icona dell'emoji situata nella casella di testo."
+"messaggio nella casella di testo in basso. Puoi anche aggiungere emoji "
+"nel testo facendo clic sull'icona dell'emoji situata nella casella di "
+"testo."
 
 #: ../../chats(wsc)/toc.rst:39 ../../chats/toc.rst:41
 msgid "Sending Files from Your Computer in Chats"
@@ -4162,8 +4166,8 @@ msgstr ""
 #: ../../chats(wsc)/toc.rst:41 ../../chats/toc.rst:43
 msgid "To send a file saved on your computer using Chats, follow these steps:"
 msgstr ""
-"Per inviare un file salvato sul tuo computer utilizzando Chats, segui questi "
-"passaggi:"
+"Per inviare un file salvato sul tuo computer utilizzando Chats, segui "
+"questi passaggi:"
 
 #: ../../chats(wsc)/toc.rst:43 ../../chats(wsc)/toc.rst:56
 #: ../../chats(wsc)/toc.rst:173
@@ -4181,8 +4185,8 @@ msgid ""
 "Click on the paperclip icon located in the chat box at the bottom of the "
 "page."
 msgstr ""
-"Fai clic sull'icona della graffetta situata nella casella di chat in fondo "
-"alla pagina."
+"Fai clic sull'icona della graffetta situata nella casella di chat in "
+"fondo alla pagina."
 
 #: ../../chats(wsc)/toc.rst:46 ../../chats/toc.rst:48
 msgid "Select **Add from local**. A new window appears."
@@ -4199,19 +4203,19 @@ msgid "Click **Open** to attach the file to your message."
 msgstr "Fai clic su **Apri** per allegare il file al messaggio."
 
 #: ../../chats(wsc)/toc.rst:51 ../../chats/toc.rst:53
-msgid "Sending Files from Carbonio Files in Chats"
+#, fuzzy
+msgid "Sending Files from |product| Files in Chats"
 msgstr "Invio di file da Carbonio Files in Chats"
 
 #: ../../chats(wsc)/toc.rst:53 ../../chats/toc.rst:55
 msgid ""
-"You can use Chats to send a file directly from Carbonio Files to a chat. "
-"Here is how:"
+"You can use Chats to send a file directly from |product| Files to a chat."
+" Here is how:"
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:59 ../../chats/toc.rst:61
 msgid "Select **Attach public link from Files**. A new window appears."
-msgstr ""
-"Seleziona **Allega link pubblico da Files**. Si apre una nuova finestra."
+msgstr "Seleziona **Allega link pubblico da Files**. Si apre una nuova finestra."
 
 #: ../../chats(wsc)/toc.rst:60 ../../chats/toc.rst:62
 msgid "Choose the file by navigating through the opened window."
@@ -4241,8 +4245,8 @@ msgstr "Per modificare un messaggio:"
 #: ../../chats/toc.rst:102
 msgid "Click on the downward arrow located next to the message bubble."
 msgstr ""
-"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla del "
-"messaggio."
+"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla "
+"del messaggio."
 
 #: ../../chats(wsc)/toc.rst:72 ../../chats/toc.rst:74
 msgid "Edit the message and hit enter."
@@ -4578,7 +4582,7 @@ msgstr ""
 
 #: ../../chats/toc.rst:14
 msgid ""
-"Within the Carbonio web client, Chats are a pivotal communication tool, "
+"Within the |product| web client, Chats are a pivotal communication tool, "
 "accommodating both one-on-one and group conversations. Users can engage "
 "in centralized messaging, facilitating real-time discussions and "
 "enhancing collaborative efforts."
@@ -4598,8 +4602,8 @@ msgid ""
 "Initially, you will not see any chats in your chat system, but once you "
 "create them, you can find them on the list."
 msgstr ""
-"Inizialmente, non vedrai alcuna chat nel tuo sistema di chat, ma una volta "
-"create, puoi trovarle nell'elenco."
+"Inizialmente, non vedrai alcuna chat nel tuo sistema di chat, ma una "
+"volta create, puoi trovarle nell'elenco."
 
 #: ../../chats/toc.rst:63
 msgid "Click **SHARE PUBLICK LINK**."
@@ -4658,8 +4662,8 @@ msgid ""
 "On the right side of the Main Panel, click on the pen icon next to the "
 "group’s name."
 msgstr ""
-"Sul lato destro del Pannello principale, fare clic sull'icona della penna "
-"accanto al nome del gruppo."
+"Sul lato destro del Pannello principale, fare clic sull'icona della penna"
+" accanto al nome del gruppo."
 
 #: ../../chats/toc.rst:195 ../../files/toc.rst:134
 msgid "Edit the name."
@@ -4689,7 +4693,7 @@ msgstr "Composizione di email"
 
 #: ../../composing_emails/toc.rst:9
 msgid ""
-"In this section, you will discover how to navigate Carbonio email "
+"In this section, you will discover how to navigate |product| email "
 "composer and how to use its various features including working with "
 "attachments, addressing emails, using account personas, etc."
 msgstr ""
@@ -4741,7 +4745,8 @@ msgstr "Fare clic sul pulsante **INVIA** per inviare l'email."
 #: ../../composing_emails/toc.rst:25
 msgid "A copy of the sent email is stored in your Sent folder."
 msgstr ""
-"Una copia dell'email inviata viene archiviata nella cartella Posta inviata."
+"Una copia dell'email inviata viene archiviata nella cartella Posta "
+"inviata."
 
 #: ../../composing_emails/toc.rst:32
 msgid "Disabling / Enabling Rich Text Editor"
@@ -4790,10 +4795,10 @@ msgid ""
 "generates a list of potential addresses where either the first name, last"
 " name, or email address matches the text you have typed."
 msgstr ""
-"La funzione di autocompletamento ti aiuta durante la digitazione nei campi "
-"A, Cc e Bcc di un nuovo messaggio suggerendo nomi dai tuoi contatti. Genera "
-"un elenco di indirizzi potenziali in cui il nome, il cognome o l'indirizzo "
-"email corrisponde al testo che hai digitato."
+"La funzione di autocompletamento ti aiuta durante la digitazione nei "
+"campi A, Cc e Bcc di un nuovo messaggio suggerendo nomi dai tuoi "
+"contatti. Genera un elenco di indirizzi potenziali in cui il nome, il "
+"cognome o l'indirizzo email corrisponde al testo che hai digitato."
 
 #: ../../composing_emails/toc.rst:48
 msgid ""
@@ -4883,8 +4888,8 @@ msgstr "Aggiunta di allegati"
 
 #: ../../composing_emails/toc.rst:85
 msgid ""
-"You can attach any file from your computer or Carbonio Files by using the"
-" **paperclip** icon inside the composing board."
+"You can attach any file from your computer or |product| Files by using "
+"the **paperclip** icon inside the composing board."
 msgstr ""
 
 #: ../../composing_emails/toc.rst:87
@@ -4910,8 +4915,9 @@ msgid ""
 msgstr ""
 
 #: ../../composing_emails/toc.rst:95
-msgid "Adding attachment from your Carbonio Files:"
-msgstr ""
+#, fuzzy
+msgid "Adding attachment from your |product| Files:"
+msgstr "Aggiungere un file dal computer"
 
 #: ../../composing_emails/toc.rst:98
 msgid "Select Add from Files."
@@ -4919,8 +4925,8 @@ msgstr ""
 
 #: ../../composing_emails/toc.rst:99
 msgid ""
-"A new window appears, and you can select desired files from your Carbonio"
-" Files."
+"A new window appears, and you can select desired files from your "
+"|product| Files."
 msgstr ""
 
 #: ../../composing_emails/toc.rst:101
@@ -4980,7 +4986,7 @@ msgstr ""
 #: ../../composing_emails/toc.rst:130
 msgid ""
 "An email identity refers to having access to multiple accounts on the "
-"Carbonio web client, allowing you to choose which one to send the email "
+"|product| web client, allowing you to choose which one to send the email "
 "from. Alternatively, if you have configured another persona in your "
 "settings, you can send messages from it. In either case, the recipient "
 "will see the email address or username aligned with the selected identity"
@@ -5232,7 +5238,7 @@ msgid ""
 "In this section, we will guide you through the features and "
 "functionalities of the Contacts module in our webmail platform. Whether "
 "you are keeping track of personal connections, professional networks, or "
-"client relationships, Carbonio makes it easy to store, organize, and "
+"client relationships, |product| makes it easy to store, organize, and "
 "access your contacts effortlessly."
 msgstr ""
 
@@ -5292,9 +5298,10 @@ msgid ""
 "whom you have corresponded via email. Initially, this section might "
 "appear empty if you have not had any correspondence yet."
 msgstr ""
-"Una volta selezionato, verrà visualizzato un elenco di tutti gli indirizzi "
-"con cui hai intrattenuto una corrispondenza via email. Inizialmente, questa "
-"sezione potrebbe apparire vuota se non hai ancora avuto corrispondenza."
+"Una volta selezionato, verrà visualizzato un elenco di tutti gli "
+"indirizzi con cui hai intrattenuto una corrispondenza via email. "
+"Inizialmente, questa sezione potrebbe apparire vuota se non hai ancora "
+"avuto corrispondenza."
 
 #: ../../contacts/toc.rst:38
 msgid "Adding a New Contact"
@@ -5458,8 +5465,8 @@ msgstr "Per spostare una rubrica:"
 #: ../../contacts/toc.rst:117
 msgid "In the Navigation Panel, right-click on the address book you wish to move."
 msgstr ""
-"Nel pannello di navigazione, fare clic destro sulla rubrica che si desidera "
-"spostare."
+"Nel pannello di navigazione, fare clic destro sulla rubrica che si "
+"desidera spostare."
 
 #: ../../contacts/toc.rst:119
 msgid "Select the destination."
@@ -5538,8 +5545,8 @@ msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "delete."
 msgstr ""
-"Nel pannello di navigazione, fare clic destro sulla rubrica che si desidera "
-"eliminare."
+"Nel pannello di navigazione, fare clic destro sulla rubrica che si "
+"desidera eliminare."
 
 #: ../../contacts/toc.rst:165
 msgid "Select **Delete address book** from the drop-down menu."
@@ -5568,8 +5575,8 @@ msgid ""
 "Select the **New Contact group** from the drop-down menu. A new board "
 "will appear."
 msgstr ""
-"Selezionare il **Nuovo gruppo di contatti** dal menu a discesa. Si aprirà "
-"una nuova scheda."
+"Selezionare il **Nuovo gruppo di contatti** dal menu a discesa. Si aprirà"
+" una nuova scheda."
 
 #: ../../contacts/toc.rst:179
 msgid "Insert a name for the contact group in the **Group name** field."
@@ -5719,8 +5726,8 @@ msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "export."
 msgstr ""
-"Nel Pannello di navigazione, fai clic destro sull'indirizzario che desideri "
-"esportare."
+"Nel Pannello di navigazione, fai clic destro sull'indirizzario che "
+"desideri esportare."
 
 #: ../../contacts/toc.rst:251
 msgid "Select **Export csv file** from the drop-down menu. A new window appears."
@@ -5741,12 +5748,13 @@ msgid "Import a CSV File as an Address Book"
 msgstr "Importa un file CSV come indirizzario"
 
 #: ../../contacts/toc.rst:260
+#, fuzzy
 msgid ""
 "You can import the stored address book on your computer in CSV (comma-"
-"separated values) format to your Carbonio web client. To do so:"
+"separated values) format to your |product| web client. To do so:"
 msgstr ""
-"Puoi importare l'indirizzario salvato sul tuo computer in formato CSV ("
-"valori separati da virgole) nel tuo client web Carbonio. Per farlo:"
+"Puoi importare l'indirizzario salvato sul tuo computer in formato CSV "
+"(valori separati da virgole) nel tuo client web Carbonio. Per farlo:"
 
 #: ../../contacts/toc.rst:263
 msgid ""
@@ -5831,8 +5839,7 @@ msgstr "Seleziona la funzione **File** nel pannello laterale sinistro."
 
 #: ../../files/toc.rst:33 ../../files/toc.rst:43
 msgid "Select **New Folder** from the drop-down menu. A new board will appear."
-msgstr ""
-"Seleziona **Nuova cartella** dal menu a discesa. Si apre una nuova scheda."
+msgstr "Seleziona **Nuova cartella** dal menu a discesa. Si apre una nuova scheda."
 
 #: ../../files/toc.rst:34 ../../files/toc.rst:44
 msgid "Insert a name for the folder."
@@ -5873,7 +5880,8 @@ msgstr "Passa alla cartella in cui desideri caricare il file."
 #: ../../files/toc.rst:58
 msgid "From the top bar, click the **NEW** button. A new window appears."
 msgstr ""
-"Dal menu in alto, clicca sul pulsante **NUOVO**. Si apre una nuova finestra."
+"Dal menu in alto, clicca sul pulsante **NUOVO**. Si apre una nuova "
+"finestra."
 
 #: ../../files/toc.rst:59
 msgid "Select a file from the window."
@@ -5896,8 +5904,8 @@ msgid ""
 "You have the option to save attachment files from your emails directly to"
 " your Files. To do so:"
 msgstr ""
-"Hai la possibilità di salvare i file allegati dalle tue email direttamente "
-"nella tua sezione File. Per farlo:"
+"Hai la possibilità di salvare i file allegati dalle tue email "
+"direttamente nella tua sezione File. Per farlo:"
 
 #: ../../files/toc.rst:69
 msgid "Select **Mails** from the left sidebar."
@@ -5950,8 +5958,7 @@ msgstr "Seleziona Download dal menu a discesa. Si apre una nuova finestra."
 
 #: ../../files/toc.rst:89
 msgid "Select the folder on your computer where you want to download the file."
-msgstr ""
-"Seleziona la cartella sul tuo computer in cui desideri scaricare il file."
+msgstr "Seleziona la cartella sul tuo computer in cui desideri scaricare il file."
 
 #: ../../files/toc.rst:90
 msgid "Click the Save button."
@@ -5991,8 +5998,7 @@ msgstr "Se desideri rimuovere definitivamente il file:"
 
 #: ../../files/toc.rst:106 ../../files/toc.rst:118
 msgid "Click on the downward arrow next to the **Trash folder**."
-msgstr ""
-"Fai clic sulla freccia verso il basso accanto alla cartella **Cestino**."
+msgstr "Fai clic sulla freccia verso il basso accanto alla cartella **Cestino**."
 
 #: ../../files/toc.rst:107 ../../files/toc.rst:119
 msgid "Select **My items**."
@@ -6145,16 +6151,16 @@ msgid ""
 "Select the file format choosing either OpenDocument (.ods) or Microsoft "
 "(.xlsx) from the menu. A new window appears."
 msgstr ""
-"Seleziona il formato del file scegliendo tra OpenDocument (.ods) o Microsoft "
-"(.xlsx) dal menu. Si apre una nuova finestra."
+"Seleziona il formato del file scegliendo tra OpenDocument (.ods) o "
+"Microsoft (.xlsx) dal menu. Si apre una nuova finestra."
 
 #: ../../files/toc.rst:180
 msgid ""
 "You can double-click on it to open the editor in another browser tab and "
 "begin editing the file online."
 msgstr ""
-"Puoi fare doppio clic su di esso per aprire l'editor in un'altra scheda del "
-"browser e iniziare a modificare il file online."
+"Puoi fare doppio clic su di esso per aprire l'editor in un'altra scheda "
+"del browser e iniziare a modificare il file online."
 
 #: ../../files/toc.rst:182
 msgid ""
@@ -6275,13 +6281,11 @@ msgstr "Contrassegnare un file"
 
 #: ../../files/toc.rst:235
 msgid "To flag a file for future reference and make it stand out, you can:"
-msgstr ""
-"Per contrassegnare un file per future referenze e farlo risaltare, puoi:"
+msgstr "Per contrassegnare un file per future referenze e farlo risaltare, puoi:"
 
 #: ../../files/toc.rst:238
 msgid "Navigate to the folder that contains the file you want to flag."
-msgstr ""
-"Navigare nella cartella che contiene il file che desideri contrassegnare."
+msgstr "Navigare nella cartella che contiene il file che desideri contrassegnare."
 
 #: ../../files/toc.rst:240
 msgid "Select **Flag** from the drop-down menu."
@@ -6305,9 +6309,9 @@ msgid ""
 "list."
 msgstr ""
 "La gestione delle versioni dei file consente di gestire le modifiche ai "
-"documenti in File. Ogni volta che modifichi e salvi un file, il numero di "
-"versione viene aggiornato automaticamente. Il numero di versione più recente "
-"è visibile nell'elenco dei documenti del file."
+"documenti in File. Ogni volta che modifichi e salvi un file, il numero di"
+" versione viene aggiornato automaticamente. Il numero di versione più "
+"recente è visibile nell'elenco dei documenti del file."
 
 #: ../../files/toc.rst:253
 msgid "To view the history of the file, you can follow these steps:"
@@ -6765,7 +6769,7 @@ msgstr ""
 #: ../../get_started/toc.rst:9
 msgid ""
 "In this section, we are going to explore the essential steps for signing "
-"in to your Carbonio web client. Properly signing in is the first step "
+"in to your |product| web client. Properly signing in is the first step "
 "towards accessing your emails and utilizing the various features offered "
 "by the platform. We will cover everything from accessing the webmail "
 "address to navigating through two-factor authentication (2FA) and using "
@@ -6780,8 +6784,8 @@ msgstr ""
 
 #: ../../get_started/toc.rst:14
 msgid ""
-"To access your Carbonio web client, the initial step is to sign in. This "
-"can be easily accomplished by navigating to your company's webmail "
+"To access your |product| web client, the initial step is to sign in. This"
+" can be easily accomplished by navigating to your company's webmail "
 "address via your browser. To do so, you can simply follow these steps:"
 msgstr ""
 
@@ -6880,7 +6884,7 @@ msgid "Logging In with 2FA:"
 msgstr ""
 
 #: ../../get_started/toc.rst:49
-msgid "Next time you log in to your Carbonio webmail, follow these steps:"
+msgid "Next time you log in to your |product| webmail, follow these steps:"
 msgstr ""
 
 #: ../../get_started/toc.rst:51 ../../get_started/toc.rst:91
@@ -6910,7 +6914,7 @@ msgid ""
 "If you are not forced to use 2FA on your login prompts, you can manually "
 "set it up via your web client settings, if your system administrator gave"
 " you the proper permission. By following these steps, you will enhance "
-"the security of your Carbonio webmail account."
+"the security of your |product| webmail account."
 msgstr ""
 
 #: ../../get_started/toc.rst:65
@@ -6958,8 +6962,8 @@ msgid ""
 "Install the **Google Authenticator app** on your mobile device (available"
 " on both Android and iOS)."
 msgstr ""
-"Installa l'app **Google Authenticator** sul tuo dispositivo mobile ("
-"disponibile su Android e iOS)."
+"Installa l'app **Google Authenticator** sul tuo dispositivo mobile "
+"(disponibile su Android e iOS)."
 
 #: ../../get_started/toc.rst:80
 msgid "Open the app and press the “+” button in the bottom right corner."
@@ -6976,7 +6980,7 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:89
-msgid "The next time you log in to your Carbonio webmail, follow these steps:"
+msgid "The next time you log in to your |product| webmail, follow these steps:"
 msgstr ""
 
 #: ../../get_started/toc.rst:97
@@ -6998,7 +7002,7 @@ msgstr ""
 #: ../../get_started/toc.rst:105
 msgid ""
 "You have generally two ways to use SAML functionality to sign in to your "
-"Carbonio account:"
+"|product| account:"
 msgstr ""
 
 #: ../../get_started/toc.rst:107
@@ -7006,9 +7010,9 @@ msgid "First Flow:"
 msgstr ""
 
 #: ../../get_started/toc.rst:109
-msgid "When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
-msgstr ""
-"When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
+#, fuzzy
+msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
+msgstr "When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
 
 #: ../../get_started/toc.rst:110
 msgid "Click it, and it will automatically sign you into your webmail."
@@ -7038,7 +7042,7 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:117
-msgid "Once you are logged in there, simply click on the **Carbonio mail app**."
+msgid "Once you are logged in there, simply click on the **|product| mail app**."
 msgstr ""
 
 #: ../../get_started/toc.rst:118
@@ -7053,7 +7057,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:124
 msgid ""
-"To ensure the security of your Carbonio web client, it is essential to "
+"To ensure the security of your |product| web client, it is essential to "
 "sign out when you are away from your computer. Here are two "
 "straightforward methods to log out:"
 msgstr ""
@@ -7215,12 +7219,12 @@ msgid "Click the **CHANGE PASSWORD** button."
 msgstr ""
 
 #: ../../get_started/toc.rst:187
-msgid "Introduction of Carbonio Web Client"
+msgid "Introduction of |product| Web Client"
 msgstr ""
 
 #: ../../get_started/toc.rst:189
 msgid ""
-"When you log in to check your emails, the **Carbonio web client "
+"When you log in to check your emails, the **|product| web client "
 "interface** greets you with the following components:"
 msgstr ""
 
@@ -7248,7 +7252,7 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:201
-msgid "Using Browser Buttons to Navigate Carbonio"
+msgid "Using Browser Buttons to Navigate |product|"
 msgstr ""
 
 #: ../../get_started/toc.rst:203
@@ -7260,9 +7264,10 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:205
+#, fuzzy
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
-"previous page you were viewing on Carbonio."
+"previous page you were viewing on |product|."
 msgstr ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on Carbonio."
@@ -7281,8 +7286,9 @@ msgid ""
 "work."
 msgstr ""
 "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
-"Clicking it restarts your session, which can be especially dangerous when "
-"composing a new email or a lengthy text message. You might lose your work."
+"Clicking it restarts your session, which can be especially dangerous when"
+" composing a new email or a lengthy text message. You might lose your "
+"work."
 
 #: ../../get_started/toc.rst:210
 msgid "Account Personalization"
@@ -7290,7 +7296,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:212
 msgid ""
-"Before you start using the Carbonio web client, take a moment to "
+"Before you start using the |product| web client, take a moment to "
 "personalize your account. You can customize visual aspects such as the "
 "theme, as well as other account settings like your time zone. Most of "
 "these options are conveniently accessible in the **Settings** menu. To "
@@ -7304,9 +7310,9 @@ msgstr ""
 
 #: ../../get_started/toc.rst:218
 msgid ""
-"A theme in the Carbonio web client defines the color scheme used for its "
-"appearance. Currently, there are **two themes** available: **Dark mode** "
-"and **Light mode**. Here is how you can manage them:"
+"A theme in the |product| web client defines the color scheme used for its"
+" appearance. Currently, there are **two themes** available: **Dark mode**"
+" and **Light mode**. Here is how you can manage them:"
 msgstr ""
 
 #: ../../get_started/toc.rst:220
@@ -7341,16 +7347,16 @@ msgstr "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 
 #: ../../get_started/toc.rst:232
 msgid ""
-"If you choose **Auto**, Carbonio will adapt to your **operating system’s "
-"default theme**. For example:"
+"If you choose **Auto**, |product| will adapt to your **operating system’s"
+" default theme**. For example:"
 msgstr ""
 
 #: ../../get_started/toc.rst:234
-msgid "If your OS theme is dark, Carbonio will also be in dark mode."
+msgid "If your OS theme is dark, |product| will also be in dark mode."
 msgstr ""
 
 #: ../../get_started/toc.rst:235
-msgid "If your OS theme is light, Carbonio will match that as well."
+msgid "If your OS theme is light, |product| will match that as well."
 msgstr ""
 
 #: ../../get_started/toc.rst:243
@@ -7358,12 +7364,13 @@ msgid "Changing Font Size"
 msgstr ""
 
 #: ../../get_started/toc.rst:245
+#, fuzzy
 msgid ""
+"You can change the font size across all |product| web clients according "
+"to your preferences. To change the font size simply follow these steps:"
+msgstr ""
 "You can change the font size across all Carbonio web clients according to"
 " your preferences. To change the font size simply follow these steps:"
-msgstr ""
-"You can change the font size across all Carbonio web clients according to "
-"your preferences. To change the font size simply follow these steps:"
 
 #: ../../get_started/toc.rst:247 ../../get_started/toc.rst:266
 #: ../../get_started/toc.rst:281
@@ -7405,11 +7412,11 @@ msgstr ""
 
 #: ../../get_started/toc.rst:264
 msgid ""
-"As a digital workspace, Carbonio relies on precise time zone settings to "
-"ensure optimal performance for calendars and other features like emails, "
-"guaranteeing accurate timestamps. This becomes particularly crucial when "
-"collaborating with colleagues across different countries and time zones. "
-"To change your time zone, follow these steps:"
+"As a digital workspace, |product| relies on precise time zone settings to"
+" ensure optimal performance for calendars and other features like emails,"
+" guaranteeing accurate timestamps. This becomes particularly crucial when"
+" collaborating with colleagues across different countries and time zones."
+" To change your time zone, follow these steps:"
 msgstr ""
 
 #: ../../get_started/toc.rst:268
@@ -7423,11 +7430,11 @@ msgid "Click **SAVE** in the top right corner."
 msgstr ""
 
 #: ../../get_started/toc.rst:277
-msgid "Changing Carbonio Language"
+msgid "Changing |product| Language"
 msgstr ""
 
 #: ../../get_started/toc.rst:279
-msgid "To change your Carbonio web client language, follow these steps:"
+msgid "To change your |product| web client language, follow these steps:"
 msgstr ""
 
 #: ../../get_started/toc.rst:283
@@ -7442,7 +7449,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:289
 msgid ""
-"On the Carbonio web client, you have access to multiple accounts. Let's "
+"On the |product| web client, you have access to multiple accounts. Let's "
 "say you have your personal account, as well as two additional accounts "
 "created for HR tasks and communications with your colleagues under the "
 "name “hr@example.com”, and another one named “info@example.com” for "
@@ -7461,12 +7468,12 @@ msgid ""
 msgstr ""
 
 #: ../../index.rst:12
-msgid "Welcome to |carbonio| User Documentation!"
+msgid "Welcome to |product| User Documentation!"
 msgstr ""
 
 #: ../../index.rst:14
 msgid ""
-"This is the documentation of |carbonio|, the fully private digital "
+"This is the documentation of ||product||, the fully private digital "
 "workplace."
 msgstr ""
 
@@ -7488,10 +7495,10 @@ msgstr ""
 
 #: ../../search/toc.rst:9
 msgid ""
-"Searching in the Carbonio web client allows you to find emails, contacts,"
-" appointments, and files using specific criteria such as words, dates, "
-"time, URL, size, tags, read status, and file attachments. There are two "
-"types of searches available:"
+"Searching in the |product| web client allows you to find emails, "
+"contacts, appointments, and files using specific criteria such as words, "
+"dates, time, URL, size, tags, read status, and file attachments. There "
+"are two types of searches available:"
 msgstr ""
 
 #: ../../search/toc.rst:11
@@ -7510,12 +7517,13 @@ msgid ""
 msgstr ""
 
 #: ../../search/toc.rst:14
+#, fuzzy
 msgid ""
 "These search capabilities provide efficient ways to locate and manage "
-"your data within the Carbonio web client."
+"your data within the |product| web client."
 msgstr ""
-"These search capabilities provide efficient ways to locate and manage your "
-"data within the Carbonio web client."
+"These search capabilities provide efficient ways to locate and manage "
+"your data within the Carbonio web client."
 
 #: ../../search/toc.rst:18
 msgid "Using Quick Search for Different Items"
@@ -7862,8 +7870,8 @@ msgstr ""
 #: ../../tasks/toc.rst:9
 msgid ""
 "Tasks are an integral part of any organized workflow, whether it is "
-"managing personal to-dos or coordinating team assignments. Carbonio Tasks"
-" will help you organize your work and manage it easily."
+"managing personal to-dos or coordinating team assignments. |product| "
+"Tasks will help you organize your work and manage it easily."
 msgstr ""
 
 #: ../../tasks/toc.rst:16
@@ -7893,9 +7901,9 @@ msgstr ""
 
 #: ../../tasks/toc.rst:24
 msgid ""
-"If you require Carbonio to remind you about this task at a specific time,"
-" toggle the **Enable reminder** option and select your preferred reminder"
-" time."
+"If you require |product| to remind you about this task at a specific "
+"time, toggle the **Enable reminder** option and select your preferred "
+"reminder time."
 msgstr ""
 
 #: ../../tasks/toc.rst:25
@@ -7966,7 +7974,7 @@ msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:13
 msgid ""
-"In Carbonio, video meetings are an essential tool for enabling smooth "
+"In |product|, video meetings are an essential tool for enabling smooth "
 "virtual collaboration. Whether for individual conversations or group "
 "sessions, they offer a space for face-to-face interactions, promoting "
 "real-time communication and strengthening teamwork. Users can "
@@ -7980,7 +7988,7 @@ msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:18
 msgid ""
-"Every person with an account on Carbonio can create virtual rooms. "
+"Every person with an account on |product| can create virtual rooms. "
 "Virtual rooms are shared spaces where you can hold video meetings and "
 "engage in conversations via chat. You can create them based on different "
 "topics you want to discuss so that the attendees are informed about the "
@@ -8035,7 +8043,7 @@ msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:36
 msgid ""
-"Every person with an account on Carbonio can create virtual rooms. You "
+"Every person with an account on |product| can create virtual rooms. You "
 "can use your room to invite others to meetings, whether they are "
 "colleagues with accounts on the same system or external users. In the "
 "list of participants in the video meeting, you will be able to "
@@ -8316,11 +8324,11 @@ msgstr ""
 
 #: ../../videomeetings/toc.rst:13
 msgid ""
-"In Carbonio, video meetings serve as a fundamental tool for facilitating "
-"seamless virtual collaboration. Whether conducting one-on-one discussions"
-" or hosting group meetings, video meetings provide a platform for face-"
-"to-face interaction, fostering real-time communication and enhancing "
-"teamwork."
+"In |product|, video meetings serve as a fundamental tool for facilitating"
+" seamless virtual collaboration. Whether conducting one-on-one "
+"discussions or hosting group meetings, video meetings provide a platform "
+"for face-to-face interaction, fostering real-time communication and "
+"enhancing teamwork."
 msgstr ""
 
 #: ../../videomeetings/toc.rst:15
@@ -8335,10 +8343,10 @@ msgstr ""
 
 #: ../../videomeetings/toc.rst:20
 msgid ""
-"Every person with an account on Carbonio has a personal room. You can use"
-" your room to invite others to meetings, whether they are colleagues with"
-" accounts on the same system or external users. To access and enter your "
-"personal room, follow these steps:"
+"Every person with an account on |product| has a personal room. You can "
+"use your room to invite others to meetings, whether they are colleagues "
+"with accounts on the same system or external users. To access and enter "
+"your personal room, follow these steps:"
 msgstr ""
 
 #: ../../videomeetings/toc.rst:24
@@ -8834,3 +8842,518 @@ msgstr ""
 
 #~ msgid "Your search results will appear on the left side of a list."
 #~ msgstr ""
+
+#~ msgid ""
+#~ "This section delves into more advanced"
+#~ " email management techniques that offer "
+#~ "significant long-term benefits. For "
+#~ "Carbonio enthusiasts, we strongly advise "
+#~ "taking note of these strategies. "
+#~ "Techniques include effectively handling spam"
+#~ " emails, utilizing email filters, and "
+#~ "email signatures, etc."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can customize your email preferences"
+#~ " to receive notifications at another "
+#~ "email address when you receive an "
+#~ "email in your Carbonio inbox. This "
+#~ "option can be particularly beneficial if"
+#~ " you do not receive a high "
+#~ "volume of emails to this account, "
+#~ "but those you do receive require "
+#~ "prompt attention. Unlike the email "
+#~ "notifications mentioned in the previous "
+#~ "section, for this feature, you do "
+#~ "not need to keep your Carbonio "
+#~ "webmail open."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Going forward, you will receive an "
+#~ "email notification on your Gmail account"
+#~ " whenever a new email arrives in "
+#~ "your Carbonio inbox."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Most unsolicited automated emails, commonly"
+#~ " referred to as spam or junk "
+#~ "mail, are filtered by a spam "
+#~ "filter before they reach your Inbox. "
+#~ "Emails that are potentially junk but "
+#~ "not definitively identified as such are"
+#~ " directed to your Junk folder. You"
+#~ " have the option to review these "
+#~ "messages and either move them out "
+#~ "of the Junk folder or delete them."
+#~ " If left untouched, these messages "
+#~ "are automatically removed after a "
+#~ "certain number of days, as determined"
+#~ " by your system administrator. If you"
+#~ " find yourself inundated with a "
+#~ "significant volume of unwanted emails, "
+#~ "it is advisable to reach out to"
+#~ " your system administrator. Marking such"
+#~ " emails as spam automatically helps "
+#~ "Carbonio in refining the spam filtering"
+#~ " process."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "When sending messages to other Carbonio"
+#~ " users, you can choose to request "
+#~ "a return receipt, which notifies you "
+#~ "when the recipient opens your email. "
+#~ "However, for this feature to function,"
+#~ " the recipient must have the read "
+#~ "receipt feature enabled or manually "
+#~ "accept it as soon as they open "
+#~ "the email."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you prefer to host a virtual"
+#~ " meeting using Carbonio Chats' video "
+#~ "meeting feature in one of your "
+#~ "virtual rooms, you can select the "
+#~ "desired virtual room from the **Virtual"
+#~ " Room field**. If you have not "
+#~ "set up any virtual rooms yet, you"
+#~ " can easily create them through the"
+#~ " Chats section on the Carbonio web"
+#~ " client."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Choose whether you would like Carbonio"
+#~ " to mark this time slot for the"
+#~ " appointment as busy or free from "
+#~ "the **Display field**. This will inform"
+#~ " your colleagues of your availability "
+#~ "when they attempt to schedule another"
+#~ " appointment during the same time "
+#~ "slot."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Choose a reminder for the appointment"
+#~ " from the **Reminder field** to "
+#~ "ensure you are informed beforehand. "
+#~ "Carbonio will display a warning window"
+#~ " in the Carbonio client at the "
+#~ "specified time to remind you of "
+#~ "the appointment."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Choose a meeting room from the "
+#~ "available options in the **Meeting room"
+#~ " field**. Alternatively, if you prefer "
+#~ "to host a virtual meeting using "
+#~ "Carbonio Chats' video meeting feature in"
+#~ " one of your virtual rooms, you "
+#~ "can select the desired virtual room "
+#~ "from the **Virtual Room field**."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Please note that these meeting rooms "
+#~ "are configured by your system "
+#~ "administrator. If you do not see "
+#~ "the desired room listed, kindly contact"
+#~ " your system administrator to ensure "
+#~ "all relevant meeting rooms in your "
+#~ "office are included. Similarly, if you"
+#~ " have not set up any virtual "
+#~ "rooms yet, you can easily create "
+#~ "them through the Chats section on "
+#~ "the Carbonio web client."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Tags in Carbonio offer a versatile "
+#~ "solution for classifying and organizing "
+#~ "emails. For instance, you might "
+#~ "designate tags like \"Medium Priority\" "
+#~ "to swiftly categorize items according to"
+#~ " their urgency or importance."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To adjust Carbonio's email visualization, "
+#~ "whether opting for threaded conversations "
+#~ "or individual messages:"
+#~ msgstr ""
+
+#~ msgid "Saving Attachments in Your Carbonio Files"
+#~ msgstr ""
+
+#~ msgid "To save an attachment in your Carbonio Files:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In Carbonio, a default calendar is "
+#~ "created for you. However, you can "
+#~ "create additional calendars to organize "
+#~ "different types of appointments. For "
+#~ "instance, you can establish separate "
+#~ "calendars for work-related events, "
+#~ "personal appointments, and company activities,"
+#~ " enabling you to manage each aspect"
+#~ " of your schedule efficiently."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To optimize your experience with "
+#~ "Carbonio's multiple calendar feature, it "
+#~ "is advisable to assign distinct colors"
+#~ " to each calendar. This ensures "
+#~ "clarity when viewing them collectively "
+#~ "on the same timetable."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can import a calendar in .ics"
+#~ " format directly to your Carbonio web"
+#~ " client calendar. To do so:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can also export a calendar in"
+#~ " .ics format directly from your "
+#~ "Carbonio web client calendar. To do "
+#~ "so:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the Carbonio web client, Chats "
+#~ "(WSC - Workstream Collaboration) serve "
+#~ "as a key communication feature, "
+#~ "supporting both individual and group "
+#~ "interactions. Users benefit from centralized"
+#~ " messaging, promoting real-time "
+#~ "conversations and fostering collaboration. "
+#~ "Whether it's about sharing information, "
+#~ "brainstorming, or organizing tasks, Chats "
+#~ "offer a seamless platform for efficient"
+#~ " teamwork. Notifications ensure that users"
+#~ " stay updated and engaged, maintaining "
+#~ "productivity whether they are working "
+#~ "remotely or in the office."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can use Chats to send a "
+#~ "file directly from Carbonio Files to "
+#~ "a chat. Here is how:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Within the Carbonio web client, Chats"
+#~ " are a pivotal communication tool, "
+#~ "accommodating both one-on-one and "
+#~ "group conversations. Users can engage in"
+#~ " centralized messaging, facilitating real-"
+#~ "time discussions and enhancing collaborative"
+#~ " efforts."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In this section, you will discover "
+#~ "how to navigate Carbonio email composer"
+#~ " and how to use its various "
+#~ "features including working with attachments,"
+#~ " addressing emails, using account personas,"
+#~ " etc."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can attach any file from your"
+#~ " computer or Carbonio Files by using"
+#~ " the **paperclip** icon inside the "
+#~ "composing board."
+#~ msgstr ""
+
+#~ msgid "Adding attachment from your Carbonio Files:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A new window appears, and you can"
+#~ " select desired files from your "
+#~ "Carbonio Files."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "An email identity refers to having "
+#~ "access to multiple accounts on the "
+#~ "Carbonio web client, allowing you to "
+#~ "choose which one to send the email"
+#~ " from. Alternatively, if you have "
+#~ "configured another persona in your "
+#~ "settings, you can send messages from "
+#~ "it. In either case, the recipient "
+#~ "will see the email address or "
+#~ "username aligned with the selected "
+#~ "identity or persona as the sender "
+#~ "of the emails."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Managing your contacts is essential for"
+#~ " staying connected and organized. In "
+#~ "this section, we will guide you "
+#~ "through the features and functionalities "
+#~ "of the Contacts module in our "
+#~ "webmail platform. Whether you are "
+#~ "keeping track of personal connections, "
+#~ "professional networks, or client "
+#~ "relationships, Carbonio makes it easy to"
+#~ " store, organize, and access your "
+#~ "contacts effortlessly."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In this section, we are going to"
+#~ " explore the essential steps for "
+#~ "signing in to your Carbonio web "
+#~ "client. Properly signing in is the "
+#~ "first step towards accessing your emails"
+#~ " and utilizing the various features "
+#~ "offered by the platform. We will "
+#~ "cover everything from accessing the "
+#~ "webmail address to navigating through "
+#~ "two-factor authentication (2FA) and using"
+#~ " SAML functionality. Additionally, we will"
+#~ " discuss how to sign out securely,"
+#~ " recover forgotten passwords, change your"
+#~ " login credentials, and other "
+#~ "configurations."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To access your Carbonio web client, "
+#~ "the initial step is to sign in."
+#~ " This can be easily accomplished by"
+#~ " navigating to your company's webmail "
+#~ "address via your browser. To do "
+#~ "so, you can simply follow these "
+#~ "steps:"
+#~ msgstr ""
+
+#~ msgid "Next time you log in to your Carbonio webmail, follow these steps:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are not forced to use "
+#~ "2FA on your login prompts, you can"
+#~ " manually set it up via your "
+#~ "web client settings, if your system "
+#~ "administrator gave you the proper "
+#~ "permission. By following these steps, "
+#~ "you will enhance the security of "
+#~ "your Carbonio webmail account."
+#~ msgstr ""
+
+#~ msgid "The next time you log in to your Carbonio webmail, follow these steps:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You have generally two ways to use"
+#~ " SAML functionality to sign in to "
+#~ "your Carbonio account:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Once you are logged in there, "
+#~ "simply click on the **Carbonio mail "
+#~ "app**."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To ensure the security of your "
+#~ "Carbonio web client, it is essential "
+#~ "to sign out when you are away "
+#~ "from your computer. Here are two "
+#~ "straightforward methods to log out:"
+#~ msgstr ""
+
+#~ msgid "Introduction of Carbonio Web Client"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "When you log in to check your "
+#~ "emails, the **Carbonio web client "
+#~ "interface** greets you with the "
+#~ "following components:"
+#~ msgstr ""
+
+#~ msgid "Using Browser Buttons to Navigate Carbonio"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Before you start using the Carbonio "
+#~ "web client, take a moment to "
+#~ "personalize your account. You can "
+#~ "customize visual aspects such as the "
+#~ "theme, as well as other account "
+#~ "settings like your time zone. Most "
+#~ "of these options are conveniently "
+#~ "accessible in the **Settings** menu. To"
+#~ " access it, simply click the gear "
+#~ "icon on the left sidebar, and then"
+#~ " select **General Settings**."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A theme in the Carbonio web client"
+#~ " defines the color scheme used for"
+#~ " its appearance. Currently, there are "
+#~ "**two themes** available: **Dark mode** "
+#~ "and **Light mode**. Here is how "
+#~ "you can manage them:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you choose **Auto**, Carbonio will"
+#~ " adapt to your **operating system’s "
+#~ "default theme**. For example:"
+#~ msgstr ""
+
+#~ msgid "If your OS theme is dark, Carbonio will also be in dark mode."
+#~ msgstr ""
+
+#~ msgid "If your OS theme is light, Carbonio will match that as well."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "As a digital workspace, Carbonio relies"
+#~ " on precise time zone settings to "
+#~ "ensure optimal performance for calendars "
+#~ "and other features like emails, "
+#~ "guaranteeing accurate timestamps. This becomes"
+#~ " particularly crucial when collaborating "
+#~ "with colleagues across different countries "
+#~ "and time zones. To change your "
+#~ "time zone, follow these steps:"
+#~ msgstr ""
+
+#~ msgid "Changing Carbonio Language"
+#~ msgstr ""
+
+#~ msgid "To change your Carbonio web client language, follow these steps:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On the Carbonio web client, you "
+#~ "have access to multiple accounts. Let's"
+#~ " say you have your personal account,"
+#~ " as well as two additional accounts"
+#~ " created for HR tasks and "
+#~ "communications with your colleagues under "
+#~ "the name “hr@example.com”, and another "
+#~ "one named “info@example.com” for external "
+#~ "communications of the company. **Only "
+#~ "your system administrator can add these"
+#~ " accounts and grant you access** to"
+#~ " manage them via your main account."
+#~ msgstr ""
+
+#~ msgid "Welcome to |carbonio| User Documentation!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This is the documentation of |carbonio|,"
+#~ " the fully private digital workplace."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Searching in the Carbonio web client "
+#~ "allows you to find emails, contacts, "
+#~ "appointments, and files using specific "
+#~ "criteria such as words, dates, time, "
+#~ "URL, size, tags, read status, and "
+#~ "file attachments. There are two types"
+#~ " of searches available:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Tasks are an integral part of any"
+#~ " organized workflow, whether it is "
+#~ "managing personal to-dos or coordinating"
+#~ " team assignments. Carbonio Tasks will "
+#~ "help you organize your work and "
+#~ "manage it easily."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you require Carbonio to remind "
+#~ "you about this task at a specific"
+#~ " time, toggle the **Enable reminder** "
+#~ "option and select your preferred "
+#~ "reminder time."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In Carbonio, video meetings are an "
+#~ "essential tool for enabling smooth "
+#~ "virtual collaboration. Whether for individual"
+#~ " conversations or group sessions, they "
+#~ "offer a space for face-to-face "
+#~ "interactions, promoting real-time "
+#~ "communication and strengthening teamwork. "
+#~ "Users can effortlessly start or join "
+#~ "meetings, share screens, and record "
+#~ "sessions, ensuring effective and streamlined"
+#~ " collaboration."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Every person with an account on "
+#~ "Carbonio can create virtual rooms. "
+#~ "Virtual rooms are shared spaces where"
+#~ " you can hold video meetings and "
+#~ "engage in conversations via chat. You"
+#~ " can create them based on different"
+#~ " topics you want to discuss so "
+#~ "that the attendees are informed about"
+#~ " the meeting agenda."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Every person with an account on "
+#~ "Carbonio can create virtual rooms. You"
+#~ " can use your room to invite "
+#~ "others to meetings, whether they are "
+#~ "colleagues with accounts on the same "
+#~ "system or external users. In the "
+#~ "list of participants in the video "
+#~ "meeting, you will be able to "
+#~ "distinguish which of them are internal"
+#~ " and which are external, marked as"
+#~ " “Guest”."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In Carbonio, video meetings serve as "
+#~ "a fundamental tool for facilitating "
+#~ "seamless virtual collaboration. Whether "
+#~ "conducting one-on-one discussions or "
+#~ "hosting group meetings, video meetings "
+#~ "provide a platform for face-to-"
+#~ "face interaction, fostering real-time "
+#~ "communication and enhancing teamwork."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Every person with an account on "
+#~ "Carbonio has a personal room. You "
+#~ "can use your room to invite others"
+#~ " to meetings, whether they are "
+#~ "colleagues with accounts on the same "
+#~ "system or external users. To access "
+#~ "and enter your personal room, follow "
+#~ "these steps:"
+#~ msgstr ""
+

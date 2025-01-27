@@ -29,13 +29,13 @@ To create a new appointment:
 #.	Specify a location for the appointment to occur in the **Location field**. If applicable, you may include details such as Room Number 2.
 #.	Choose a meeting room from the available options in the **Meeting room** field. Please note that these meeting rooms are configured by your system administrator. If you do not see the desired room listed, kindly contact your system administrator to ensure all relevant meeting rooms in your office are included.	
 #.	Choose the required equipment from the available options under the **Equipment field**. Please note that the equipment is configured by your system administrator. If you do not see the desired equipment listed, kindly contact your system administrator to ensure all relevant equipment such as cameras, displays, etc. in your office are included.
-#.	If you prefer to host a virtual meeting using Carbonio Chats' video meeting feature in one of your virtual rooms, you can select the desired virtual room from the **Virtual Room field**. If you have not set up any virtual rooms yet, you can easily create them through the Chats section on the Carbonio web client.
+#.	If you prefer to host a virtual meeting using |product| Chats' video meeting feature in one of your virtual rooms, you can select the desired virtual room from the **Virtual Room field**. If you have not set up any virtual rooms yet, you can easily create them through the Chats section on the |product| web client.
 #.	Enter the email addresses of the attendees into the **Attendees field**. You can leave this field empty if you are creating a personal appointment for yourself.
-#.	Choose whether you would like Carbonio to mark this time slot for the appointment as busy or free from the **Display field**. This will inform your colleagues of your availability when they attempt to schedule another appointment during the same time slot.
+#.	Choose whether you would like |product| to mark this time slot for the appointment as busy or free from the **Display field**. This will inform your colleagues of your availability when they attempt to schedule another appointment during the same time slot.
 #.	Choose the calendar in which you want to create the appointment from the **Calendar field**.
 #.	Tick the **Private checkbox** if you wish to conceal the details of this appointment, such as its title, from your colleagues. Even if you have shared your calendar with them, your colleagues will still see the appointment listed on your calendar, but without the specific details like the title.
 #.	Choose the time slot for the appointment by specifying the start date and time in the **Start date and time field**, and the end date and time in the **End date and time field**. Alternatively, you can tick the checkbox labeled **All day** if the appointment spans the entire day.
-#.	Choose a reminder for the appointment from the **Reminder field** to ensure you are informed beforehand. Carbonio will display a warning window in the Carbonio client at the specified time to remind you of the appointment.
+#.	Choose a reminder for the appointment from the **Reminder field** to ensure you are informed beforehand. |product| will display a warning window in the |product| client at the specified time to remind you of the appointment.
 #.   Tick the **repeat** recurrence of the appointment if you want to use any of the pre-defined recurrences (every day, week, month, or year) or define a custom one, that may end after a date or a number of occurrences.
 #.   Choose the time zone, if different from the default one. You need to enable this option in the Calendar's module settings, in *Creating Appointment* Section.
 #.	Add any notes about this appointment in the text box.
@@ -114,10 +114,10 @@ To add a meeting room to an existing appointment:
 #.	Select the **Calendars** from your left sidebar.
 #.	Right-click on the appointment displayed on your timetable.
 #.	Select **Edit** from the drop-down menu.
-#.	Choose a meeting room from the available options in the **Meeting room field**. Alternatively, if you prefer to host a virtual meeting using Carbonio Chats' video meeting feature in one of your virtual rooms, you can select the desired virtual room from the **Virtual Room field**.
+#.	Choose a meeting room from the available options in the **Meeting room field**. Alternatively, if you prefer to host a virtual meeting using |product| Chats' video meeting feature in one of your virtual rooms, you can select the desired virtual room from the **Virtual Room field**.
 #.	If you have created the appointment solely for yourself, click **SAVE**. If your appointment includes attendees, click **SEND** to notify them about the changes via an automatic email.
 
-Please note that these meeting rooms are configured by your system administrator. If you do not see the desired room listed, kindly contact your system administrator to ensure all relevant meeting rooms in your office are included. Similarly, if you have not set up any virtual rooms yet, you can easily create them through the Chats section on the Carbonio web client.
+Please note that these meeting rooms are configured by your system administrator. If you do not see the desired room listed, kindly contact your system administrator to ensure all relevant meeting rooms in your office are included. Similarly, if you have not set up any virtual rooms yet, you can easily create them through the Chats section on the |product| web client.
 
 Creating a Recurring Appointment
 ================================
@@ -133,13 +133,13 @@ To create a recurring new appointment:
 #.	Specify a location for the appointment to occur in the **Location field**. If applicable, you may include details such as Room Number 2.
 #.	Choose a meeting room from the available options in the **Meeting room field**. Please note that these meeting rooms are configured by your system administrator. If you do not see the desired room listed, kindly contact your system administrator to ensure all relevant meeting rooms in your office are included.	
 #.	Choose the required equipment from the available options under the **Equipment field**. Please note that the equipment is configured by your system administrator. If you do not see the desired equipment listed, kindly contact your system administrator to ensure all relevant equipment such as cameras, displays, etc. in your office are included.
-#.	If you prefer to host a virtual meeting using Carbonio Chats' video meeting feature in one of your virtual rooms, you can select the desired virtual room from the **Virtual Room field**. If you have not set up any virtual rooms yet, you can easily create them through the Chats section on the Carbonio web client.
+#.	If you prefer to host a virtual meeting using |product| Chats' video meeting feature in one of your virtual rooms, you can select the desired virtual room from the **Virtual Room field**. If you have not set up any virtual rooms yet, you can easily create them through the Chats section on the |product| web client.
 #.	Enter the email addresses of the attendees into the **Attendees field**. You can leave this field empty if you are creating a personal appointment for yourself.
-#.	Choose whether you would like Carbonio to mark this time slot for the appointment as busy or free from the **Display field**. This will inform your colleagues of your availability when they attempt to schedule another appointment during the same time slot.
+#.	Choose whether you would like |product| to mark this time slot for the appointment as busy or free from the **Display field**. This will inform your colleagues of your availability when they attempt to schedule another appointment during the same time slot.
 #.	Choose the calendar in which you want to create the appointment from the **Calendar field**.
 #.	Tick the **Private checkbox** if you wish to conceal the details of this appointment, such as its title, from your colleagues. Even if you have shared your calendar with them, your colleagues will still see the appointment listed on your calendar, but without the specific details like the title.
 #.	Choose the time slot for the appointment by specifying the start date and time in the **Start date and time field**, and the end date and time in the **End date and time field**. Alternatively, you can tick the checkbox labeled All day if the appointment spans the entire day.
-#.	Choose a reminder for the appointment from the **Reminder field** to ensure you are informed beforehand. Carbonio will display a warning window in the Carbonio client at the specified time to remind you of the appointment.
+#.	Choose a reminder for the appointment from the **Reminder field** to ensure you are informed beforehand. |product| will display a warning window in the |product| client at the specified time to remind you of the appointment.
 #.	Add any notes about this appointment in the text box.
 #.	Choose your preferred option (Every Day, Every Week, Every Month, Every Year) from the **Repeat field** to establish the recurring pattern.
 #.	If you are creating the appointment solely for yourself, click **SAVE**. If your appointment includes attendees, as specified in step 8, click **SEND** to notify them via an automatic email.

@@ -11,7 +11,7 @@
                 :align: center
                 :width: 100%
 
-Within the Carbonio web client, Chats are a pivotal communication tool, accommodating both one-on-one and group conversations. Users can engage in centralized messaging, facilitating real-time discussions and enhancing collaborative efforts. 
+Within the |product| web client, Chats are a pivotal communication tool, accommodating both one-on-one and group conversations. Users can engage in centralized messaging, facilitating real-time discussions and enhancing collaborative efforts. 
 
 Whether it is sharing updates, exchanging ideas, or coordinating tasks, the Chats provide a streamlined platform for efficient teamwork. Notification alerts keep users connected and informed, ensuring productivity regardless of their location, whether remote or in the office.
 
@@ -49,10 +49,10 @@ To send a file saved on your computer using Chats, follow these steps:
 #.	Choose the file from your computer by navigating through the opened window.
 #.	Click **Open** to attach the file to your message.
 
-Sending Files from Carbonio Files in Chats
-==========================================
+Sending Files from |product| Files in Chats
+===========================================
 
-You can use Chats to send a file directly from Carbonio Files to a chat. 
+You can use Chats to send a file directly from |product| Files to a chat. 
 Here is how:
 
 #.	Select the **Chats feature** from your left sidebar.

@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-01-28 16:54+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"PO-Revision-Date: 2025-02-07 10:54+0000\n"
+"Last-Translator: Emmanuelle Hérillard <emmanuelle.herillard@zextras.fr>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:7
 msgid "Advanced Email Management"
-msgstr ""
+msgstr "Gestion avancée des courriels"
 
 #: ../../advanced_email_management/toc.rst:9
 msgid ""
@@ -33,16 +33,24 @@ msgid ""
 "effectively handling spam emails, utilizing email filters, and email "
 "signatures, etc."
 msgstr ""
+"Cette section aborde des techniques plus avancées de gestion des courriels "
+"qui offrent des avantages significatifs à long terme. Nous conseillons "
+"vivement aux passionnés de nos |produits| de prendre connaissance de ces "
+"stratégies. Les techniques comprennent le traitement efficace des courriels "
+"indésirables, l'utilisation des filtres de messagerie, les signatures de "
+"courriels, etc."
 
 #: ../../advanced_email_management/toc.rst:12
 msgid "Email Check Frequency"
-msgstr ""
+msgstr "Fréquence de vérification des courriels"
 
 #: ../../advanced_email_management/toc.rst:14
 msgid ""
 "You can customize how frequently you receive emails by adjusting your "
 "settings. Here is how:"
 msgstr ""
+"Vous pouvez personnaliser la fréquence à laquelle vous recevez des courriels "
+"en modifiant vos paramètres. Voici comment procéder :"
 
 #: ../../advanced_email_management/toc.rst:16
 #: ../../advanced_email_management/toc.rst:49
@@ -50,6 +58,7 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:125
 msgid "Click on the Settings (gear icon) in the left sidebar."
 msgstr ""
+"Cliquez sur les paramètres (icône d'engrenage) dans la barre latérale gauche."
 
 #: ../../advanced_email_management/toc.rst:17
 #: ../../advanced_email_management/toc.rst:50
@@ -59,7 +68,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:18
 msgid "Under Displaying Messages, click on Check new e-mail."
-msgstr ""
+msgstr "Sous Affichage des Messages, cliquez sur Vérifier les nouveaux emails."
 
 #: ../../advanced_email_management/toc.rst:19
 msgid ""

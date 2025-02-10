@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-10 14:46+0000\n"
-"Last-Translator: Gianluca Boiano <gianluca.boiano@zextras.com>\n"
+"PO-Revision-Date: 2025-02-11 14:54+0000\n"
+"Last-Translator: Flaminia Spinelli <flaminia.spinelli@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -22,12 +22,10 @@ msgstr ""
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
-#, fuzzy
 msgid "Advanced Email Management"
 msgstr "Gestione Avanzata dell'Email"
 
 #: ../../advanced_email_management/toc.rst:9
-#, fuzzy
 msgid ""
 "This section delves into more advanced email management techniques that "
 "offer significant long-term benefits. For |product| enthusiasts, we "
@@ -35,31 +33,28 @@ msgid ""
 "effectively handling spam emails, utilizing email filters, and email "
 "signatures, etc."
 msgstr ""
-"Questa sezione approfondisce tecniche di gestione delle email più "
-"avanzate che offrono notevoli vantaggi a lungo termine. Per gli "
-"appassionati di Carbonio, consigliamo vivamente di prendere nota di "
-"queste strategie. Le tecniche includono la gestione efficace delle email "
-"indesiderate, l'utilizzo di filtri email e firme email, ecc."
+"Questa sezione approfondisce tecniche di gestione delle email più avanzate, "
+"che offrono notevoli vantaggi a lungo termine. Consigliamo agli appassionati "
+"di Carbonio di prendere nota di queste strategie, che includono la gestione "
+"efficace delle email indesiderate, l'utilizzo di filtri, la gestione delle "
+"firme etc."
 
 #: ../../advanced_email_management/toc.rst:12
-#, fuzzy
 msgid "Email Check Frequency"
-msgstr "Frequenza di controllo delle email"
+msgstr "Frequenza di controllo nuove email"
 
 #: ../../advanced_email_management/toc.rst:14
-#, fuzzy
 msgid ""
 "You can customize how frequently you receive emails by adjusting your "
 "settings. Here is how:"
 msgstr ""
-"È possibile personalizzare la frequenza con cui ricevi le email modificando "
-"le impostazioni. Ecco come procedere:"
+"È possibile personalizzare la frequenza con cui ricevi nuove email "
+"modificando le impostazioni. Ecco come procedere:"
 
 #: ../../advanced_email_management/toc.rst:16
 #: ../../advanced_email_management/toc.rst:49
 #: ../../advanced_email_management/toc.rst:110
 #: ../../advanced_email_management/toc.rst:125
-#, fuzzy
 msgid "Click on the Settings (gear icon) in the left sidebar."
 msgstr ""
 "Clicca su Impostazioni (icona a forma di ingranaggio) nella barra laterale "
@@ -68,59 +63,52 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:17
 #: ../../advanced_email_management/toc.rst:50
 #: ../../advanced_email_management/toc.rst:111
-#, fuzzy
 msgid "Select Mails."
-msgstr "Seleziona Email."
+msgstr "Seleziona Mail."
 
 #: ../../advanced_email_management/toc.rst:18
-#, fuzzy
 msgid "Under Displaying Messages, click on Check new e-mail."
 msgstr "Nella sezione Visualizza Messaggi, clicca su Controlla nuove email."
 
 #: ../../advanced_email_management/toc.rst:19
-#, fuzzy
 msgid ""
 "From the drop-down menu, choose how often you would like to check for new"
 " mail."
 msgstr ""
 "Dal menu a tendina, seleziona ogni quanto desideri che venga effettuato il "
-"controllo sui nuovi messaggi."
+"controllo sulle nuove email."
 
 #: ../../advanced_email_management/toc.rst:20
 #: ../../advanced_email_management/toc.rst:52
 #: ../../advanced_email_management/toc.rst:114
 #: ../../advanced_email_management/toc.rst:131
-#, fuzzy
 msgid "Click the SAVE button in the top right corner."
 msgstr "Clicca il pulsante SALVA nell'angolo in altro a destra."
 
 #: ../../advanced_email_management/toc.rst:22
-#, fuzzy
 msgid ""
 "If you select Manually, you will need to click the reload icon to fetch "
 "new emails. If you choose As new email arrives, your inbox will refresh "
 "automatically upon receiving a new email."
 msgstr ""
-"Se selezioni Manualmente, sarà necessario cliccare l'icona di ricarica "
-"pagina per visualizzare le nuove email. Se scegli Quanda arriva una nuova "
-"email, la tua casella di posta si aggiornerà automaticamente ogni volta che "
-"verrà ricevuta una nuova email."
+"Se selezioni Manualmente, sarà necessario ricaricare la pagina per "
+"visualizzare le nuove email. Se scegli Quando arriva una nuova email, la tua "
+"casella di posta si aggiornerà automaticamente ogni volta che viene ricevuta "
+"una nuova email."
 
 #: ../../advanced_email_management/toc.rst:29
-#, fuzzy
 msgid "Email Notification"
-msgstr "Notifica Email"
+msgstr "Notifica di Arrivo Email"
 
 #: ../../advanced_email_management/toc.rst:31
-#, fuzzy
 msgid ""
 "You can customize whether you are notified when you receive new emails. "
 "To enable desktop alerts for new email notifications, ensure that your "
 "web client is open on your browser."
 msgstr ""
 "Puoi decidere se ricevere o meno una notifica all'arrivo di nuovi messaggi. "
-"Per abilitare le notifiche desktop per i messaggi in entrata, assicurarsi "
-"che il client web sia aperto sul browser."
+"Per abilitare le notifiche desktop per le email in entrata, assicurati che "
+"il client web sia aperto nel browser."
 
 #: ../../advanced_email_management/toc.rst:33
 #: ../../advanced_email_management/toc.rst:145
@@ -140,7 +128,6 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:533 ../../calendars/toc.rst:24
 #: ../../calendars/toc.rst:140 ../../calendars/toc.rst:156
 #: ../../calendars/toc.rst:166
-#, fuzzy
 msgid "Click on the **Settings** (gear icon) in the left sidebar."
 msgstr ""
 "Clicca su **Impostazioni** (icona a forma di ingranaggio) nella barra "
@@ -159,12 +146,10 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:406
 #: ../../advanced_email_management/toc.rst:417
 #: ../../advanced_email_management/toc.rst:430
-#, fuzzy
 msgid "Select **Mails**."
 msgstr "Seleziona **Email**."
 
 #: ../../advanced_email_management/toc.rst:35
-#, fuzzy
 msgid ""
 "Under **Arrival Notifications**, you will see different notification "
 "options."
@@ -173,7 +158,6 @@ msgstr ""
 "notifiche."
 
 #: ../../advanced_email_management/toc.rst:36
-#, fuzzy
 msgid ""
 "Check the box for **Show a popup notification** if you prefer a window "
 "pop-up when receiving a new email."
@@ -182,28 +166,24 @@ msgstr ""
 "finestra pop up quando ricevi una nuova email."
 
 #: ../../advanced_email_management/toc.rst:37
-#, fuzzy
 msgid ""
 "Check the box for the **Play audio hint when new notification appears** "
 "if you prefer an audible notification for incoming emails."
 msgstr ""
-"Seleziona la casella **Riproduci avviso sonoro quando appare una nuova "
-"notifica** se preferisci avere una notifica audio per le email in arrivo."
+"Seleziona la casella **Avviso sonoro quando appare una nuova notifica** se "
+"preferisci avere una notifica audio per le email in arrivo."
 
 #: ../../advanced_email_management/toc.rst:38
 #: ../../advanced_email_management/toc.rst:149
 #: ../../advanced_email_management/toc.rst:162
-#, fuzzy
 msgid "Click the **SAVE** button in the top right corner."
 msgstr "Clicca il bottone **SALVA** nell'angolo in alto a destra."
 
 #: ../../advanced_email_management/toc.rst:45
-#, fuzzy
 msgid "Receiving Notifications via Another Email Address"
-msgstr "Ricezione di Notifiche tramite un altro Indirizzo Email"
+msgstr "Ricezione di Notifiche su un altro Indirizzo Email"
 
 #: ../../advanced_email_management/toc.rst:47
-#, fuzzy
 msgid ""
 "You can customize your email preferences to receive notifications at "
 "another email address when you receive an email in your |product| inbox. "
@@ -213,41 +193,35 @@ msgid ""
 "section, for this feature, you do not need to keep your |product| webmail"
 " open."
 msgstr ""
-"È possibile impostare le proprie preferenze per ricevere le notifiche su "
-"un altro indirizzo di posta quando ricevi una nuova mail nella casella di"
-" posta in entrata Carbonio. Questa opzione può essere molto utile nel "
-"caso in cui solitamente non ricevi numerose email su questo indirizzo, ma"
-" reputi che quelle ricevute debbano essere controllate tempestivamente. "
-"Al contrario delle notifiche email menzionate nella sezione precedente, "
-"per questa funzionalità non è necessario tenere aperta la webmail "
-"Carbonio."
+"Puoi impostare di ricevere una notifica su un altro indirizzo di posta "
+"ogniqualvolta ricevi una nuova mail nella casella di posta Carbonio. Questa "
+"opzione può essere molto utile nel caso in cui solitamente tu non riceva "
+"numerose email su questo indirizzo, ma reputi che esse debbano essere "
+"controllate tempestivamente. Al contrario delle notifiche email menzionate "
+"nella sezione precedente, per questa funzionalità non è necessario tenere "
+"aperta la webmail Carbonio."
 
 #: ../../advanced_email_management/toc.rst:51
-#, fuzzy
 msgid ""
 "Under Message Arrival, insert another email address (e.g., your Gmail "
 "address)."
 msgstr ""
 "Nella sezione Messaggi in Arrivo, inserisci un altro indirizzo email (es. il "
-"to indirizzo Gmail)."
+"tuo indirizzo Gmail)."
 
 #: ../../advanced_email_management/toc.rst:54
-#, fuzzy
 msgid ""
 "Going forward, you will receive an email notification on your Gmail "
 "account whenever a new email arrives in your |product| inbox."
 msgstr ""
-"Procedendo, riceverai un' email di notifica sul tuo account Gmail ogni "
-"volta che un nuovo messaggio arriverà nella tua casella in entrata "
-"Carbonio."
+"Procedendo, riceverai un'email di notifica sul tuo account Gmail ogni volta "
+"che un nuovo messaggio arriverà nella tua casella in entrata Carbonio."
 
 #: ../../advanced_email_management/toc.rst:61
-#, fuzzy
 msgid "Marking an Email as Spam"
-msgstr "Seleziona l'email come Spam"
+msgstr "Contrassegna un'Email come Spam"
 
 #: ../../advanced_email_management/toc.rst:63
-#, fuzzy
 msgid ""
 "Most unsolicited automated emails, commonly referred to as spam or junk "
 "mail, are filtered by a spam filter before they reach your Inbox. Emails "
@@ -261,116 +235,99 @@ msgid ""
 "as spam automatically helps |product| in refining the spam filtering "
 "process."
 msgstr ""
-"La maggior parte delle email automatiche, comunemente indicate come spam,"
-" sono filtrare dal filtro spam prima di arrivare nella tua posta in "
-"entrata. Le email che sono potenzialmente email di spam ma non ancora "
-"precisamente identificate come tali vengono indirizzate direttamente "
-"nella casella di Spam. Tali messaggi possono essere visionati in "
-"qualsiasi momento e si può scegliere di spostarli dalla casella di spam "
-"oppure cancellarli. Se non spostati o cancellati, i messaggi verranno "
-"comunque eliminati dopo un dato numero di giorni, in linea con quanto "
-"stabilito dall'amministratore di sistema. Se consideri di ricevere troppe"
-" email di spam, ti consigliamo di contattare l'amministratore di sistema."
-" Segnalare tali email come spam aiuta Carbonio a rifinire il processo di "
-"filtraggio dello spam."
+"La maggior parte delle email automatiche indesiderate, comunemente chiamate "
+"spam, sono analizzate dal filtro spam prima di arrivare nella tua casella di "
+"posta. Le email che sono potenzialmente spam, ma non ancora precisamente "
+"identificate come tali, vengono indirizzate direttamente nella casella Spam. "
+"Potrai visionare tali messaggi in qualsiasi momento, per poi scegliere se "
+"spostarli dalla casella Spam oppure cancellarli. Se non spostati o "
+"cancellati, i messaggi verranno comunque eliminati dopo un certo numero di "
+"giorni, stabilito dall'amministratore di sistema. Se reputi di ricevere "
+"troppe email di spam, ti consigliamo di contattare l'amministratore di "
+"sistema. Contrassegnare tali email come spam aiuta Carbonio a rifinire il "
+"processo di filtraggio dello spam."
 
 #: ../../advanced_email_management/toc.rst:68
-#, fuzzy
 msgid "Right-click on the email you wish to mark as spam."
-msgstr "Clicca il pulsante **SALVA** nell'angolo in altro a destra."
+msgstr "Fai clic destro sull'email che vuoi contrassegnare come Spam."
 
 #: ../../advanced_email_management/toc.rst:69
-#, fuzzy
 msgid "From the menu that appears, select Mark as spam."
-msgstr "Dal menu che appare, seleziona Contrassegna come spam."
+msgstr "Dal menu che appare, seleziona Segna come spam."
 
 #: ../../advanced_email_management/toc.rst:70
-#, fuzzy
 msgid "Your email will be automatically moved to your Junk Folder."
-msgstr "La tua email verrà spostata automaticamente nella Posta Indesiderata."
+msgstr "La tua email verrà spostata automaticamente nella casella Spam."
 
 #: ../../advanced_email_management/toc.rst:73
-#, fuzzy
 msgid "Removing Spam Emails"
-msgstr "Rimozione delle Email di Spam"
+msgstr "Rimozione delle Email Spam"
 
 #: ../../advanced_email_management/toc.rst:75
-#, fuzzy
 msgid ""
 "If you do not take action to remove your spam emails, they will be "
 "automatically purged after a certain period, as determined by your system"
 " administrator. To remove your spam emails:"
 msgstr ""
-"Se non esegui nessuna azione per rimuovere le email di spam, queste verranno "
-"automaticamente eliminate dopo uno specifico periodo di tempo stabilito "
-"dall'amministratore di sistema. Per rimuovere le email di spam:"
+"Se non esegui nessuna azione per rimuovere le email spam, queste verranno "
+"automaticamente eliminate dopo uno specifico periodo di tempo, stabilito "
+"dall'amministratore di sistema. Per rimuovere le email spam:"
 
 #: ../../advanced_email_management/toc.rst:77
-#, fuzzy
 msgid "Click on the **Mails** in the left sidebar."
 msgstr "Clicca su **Email** nella barra laterale sinistra."
 
 #: ../../advanced_email_management/toc.rst:78
-#, fuzzy
 msgid "Right-click on the **Junk** folder."
-msgstr "Clic con tasto destro sulla cartella **Posta indesiderata**."
+msgstr "Fai clic destro sulla cartella **Spam**."
 
 #: ../../advanced_email_management/toc.rst:79
-#, fuzzy
 msgid "Select **Wipe Folder** from the menu.*"
-msgstr "Seleziona **Pulisci Cartella** dal menu.*"
+msgstr "Seleziona **Pulisci Cartella** dal menu."
 
 #: ../../advanced_email_management/toc.rst:81
-#, fuzzy
 msgid ""
 "If you need to remove a specific spam email, you can easily right-click "
 "on the email and select **Delete**."
 msgstr ""
-"Se è necessario rimuovere una specifica email di spam, puoi semplicemente "
-"fare clic con tasto destro sull'email e selezionare **Elimina**."
+"Se vuoi rimuovere una specifica email spam, puoi semplicemente fare clic con "
+"tasto destro sull'email e selezionare **Elimina**."
 
 #: ../../advanced_email_management/toc.rst:84
-#, fuzzy
 msgid "Marking Email as Not Spam"
-msgstr "Seleziona l'email con non Spam"
+msgstr "Contrassegnare un'email con Non Spam"
 
 #: ../../advanced_email_management/toc.rst:86
-#, fuzzy
 msgid ""
 "Occasionally, emails that are not junk may end up in the Junk folder. In "
 "such cases, you can manually move these emails to the appropriate folder."
 msgstr ""
-"Occasionalmente, alcune email che non sono spam potrebbero entrare nella "
-"casella Spam. In questi casi, è possibile spostare manualmente questi "
-"messaggi nella casella appropriata."
+"Occasionalmente, alcune email che non sono spam potrebbero finire nella "
+"casella Spam. In questi casi, puoi spostare manualmente questi messaggi "
+"nella casella appropriata."
 
 #: ../../advanced_email_management/toc.rst:88
-#, fuzzy
 msgid "Go to your **Junk** folder."
 msgstr "Vai alla casella **Spam**."
 
 #: ../../advanced_email_management/toc.rst:89
-#, fuzzy
 msgid "Right-click on the email you wish to mark as not spam."
-msgstr "Fai clic destro sull'email che desideri contrassegnare come non spam."
+msgstr "Fai clic destro sull'email che desideri contrassegnare come Non spam."
 
 #: ../../advanced_email_management/toc.rst:90
-#, fuzzy
 msgid "From the menu that appears, select **Not spam**."
 msgstr "Dal menu che appare, seleziona **Non spam**."
 
 #: ../../advanced_email_management/toc.rst:91
-#, fuzzy
 msgid "Your email will be automatically moved to the intended folder."
-msgstr "La tua email varrà spostata immediatamente nella cartella indicata."
+msgstr ""
+"La tua email varrà spostata immediatamente nella casella di posta in arrivo."
 
 #: ../../advanced_email_management/toc.rst:94
-#, fuzzy
 msgid "Finding the Origin of an Email"
-msgstr "Trovare l'origine di una Email"
+msgstr "Mostrare l'Origine di una Email"
 
 #: ../../advanced_email_management/toc.rst:96
-#, fuzzy
 msgid ""
 "The transportation history of emails serves various purposes, including "
 "verifying authenticity, investigating delivery issues, detecting phishing"
@@ -381,47 +338,40 @@ msgid ""
 " details about the email's journey, such as sender and recipient IP "
 "addresses, timestamps, and any spam detection information."
 msgstr ""
-"La cronologia relativa al trasporto delle email è utile sotto varie aspetti, "
+"La cronologia relativa al trasporto delle email è utile sotto vari aspetti, "
 "tra cui la verifica dell'autenticità, condurre indagini su problemi di "
 "consegna, rilevare tentativi di phishing, eseguire il debug delle "
 "configurazioni del server di posta e soddisfare i requisiti legali e di "
 "compliance. Queste informazioni sono solitamente mostrata in una pagina di "
-"testo che include l'intestazione dell'email (anche definito come e il corpo "
-"del messaggio. L'intestazione contiene i dettagli essenziali relativi alla "
-"vita del messaggio, quali l'indirizzo IP di mittente e destinatario, "
-"indicazioni orarie e qualsiasi informazione che riguardi un eventuale "
-"rilevamento di spam."
+"testo che include l'intestazione dell'email e il corpo del messaggio. "
+"L'intestazione contiene dettagli essenziali relativi al viaggio dell'email, "
+"quali l'indirizzo IP di mittente e destinatario, indicazioni orarie e "
+"qualsiasi informazione che riguardi un eventuale rilevamento di spam."
 
 #: ../../advanced_email_management/toc.rst:98
-#, fuzzy
 msgid "To trace the email’s origin, follow these steps:"
-msgstr "Per tracciare l'origine di una email, segui questi passaggi:"
+msgstr "Per individuare l'origine di una email, segui questi passaggi:"
 
 #: ../../advanced_email_management/toc.rst:100
 #: ../../basic_email_management/toc.rst:110
 #: ../../basic_email_management/toc.rst:123 ../../composing_emails/toc.rst:202
 #: ../../composing_emails/toc.rst:222 ../../composing_emails/toc.rst:233
-#, fuzzy
 msgid "Right-click on the email."
-msgstr "Clic tasto destro sull'email."
+msgstr "Clic destro sull'email."
 
 #: ../../advanced_email_management/toc.rst:101
-#, fuzzy
 msgid "Select Show original."
 msgstr "Seleziona Mostra originale."
 
 #: ../../advanced_email_management/toc.rst:102
-#, fuzzy
 msgid "A new window will open, displaying the relevant information."
-msgstr "Si aprirà una nuova finestra che include le informazioni rilevanti."
+msgstr "Si aprirà una nuova finestra che mostra le informazioni rilevanti."
 
 #: ../../advanced_email_management/toc.rst:105
-#, fuzzy
 msgid "Setting Up Trusted Addresses"
-msgstr "Impostazione degli Indirizzi Attendibili"
+msgstr "Impostare gli Indirizzi Affidabili"
 
 #: ../../advanced_email_management/toc.rst:107
-#, fuzzy
 msgid ""
 "You have the option to designate email addresses from specific domains as"
 " trusted addresses (the domain is part of the address after the @ like "
@@ -429,106 +379,93 @@ msgid ""
 "embedded images in emails received from addresses with this domain will "
 "automatically display upon opening the email. Here is how to do it:"
 msgstr ""
-"Hai la possibilità di definire alcuni indirizzi email contenenti uno "
-"specifico dominio come indirizzi affidabili (il dominio dev'essere parte "
-"dell'indirizzo email apparendo dopo il simbolo @ nella posizione di \"Azienda"
-"\" in questo esempio \"tuo.nome@azienda.com\". Questo assicura che qualsiasi "
-"immagine inclusa in email che provengono da questi indirizzi verrà "
+"Hai la possibilità di definire gli indirizzi email provenienti da uno "
+"specifico dominio come indirizzi affidabili (il dominio è la parte "
+"dell'indirizzo email che appare dopo il simbolo @, nella posizione di "
+"\"azienda\" in questo esempio: \"nome.cognome@azienda.com\". Facendo questo, "
+"qualsiasi immagine inclusa in email che provengono da questi indirizzi verrà "
 "automaticamente mostrata all'apertura del messaggio. Puoi procedere in "
 "questo modo:"
 
 #: ../../advanced_email_management/toc.rst:112
-#, fuzzy
 msgid ""
 "Under Trusted addresses, set email address, or domain name in the "
 "provided text box. If you want to trust all addresses from a specific "
 "domain, use the entire domain name."
 msgstr ""
-"Sotto Indirizzi attendibili, immettere l'indirizzo e-mail o il nome del "
-"dominio nella casella di testo fornita. Se si desidera considerare "
-"attendibili tutti gli indirizzi di un dominio specifico, utilizzare l'intero "
-"nome del dominio."
+"Sotto Indirizzi affidabili, immetti l'indirizzo e-mail o il nome del "
+"dominio. Se desideri rendere attendibili tutti gli indirizzi di un dominio "
+"specifico, inserisci l'intero nome del dominio (es. azienda.com)."
 
 #: ../../advanced_email_management/toc.rst:113
-#, fuzzy
 msgid "Click the Add button to add the address or domain to the trusted list."
 msgstr ""
 "Fai clic sul pulsante Aggiungi per aggiungere l'indirizzo o il dominio "
-"all'elenco di fiducia."
+"all'elenco di Indirizzi affidabili."
 
 #: ../../advanced_email_management/toc.rst:121
-#, fuzzy
 msgid "Creating an Out-of-Office Email"
-msgstr "Configurare un'Email di risposta automatica (fuori sede)"
+msgstr "Configurare un'Email di Risposta Automatica (Fuori Ufficio)"
 
 #: ../../advanced_email_management/toc.rst:123
-#, fuzzy
 msgid ""
 "When you are away from the office, setting up an automatic reply can keep"
 " colleagues and clients informed. Here is how to set it up:"
 msgstr ""
-"Quando sei fuori ufficio, impostare una email di risposta automatica ti "
-"permetterà di informare i colleghi e clienti sul tuo stato. Ecco come "
+"Quando sei fuori ufficio, impostare un'email di risposta automatica ti "
+"permetterà di informare colleghi e clienti sul tuo stato. Ecco come "
 "impostarla:"
 
 #: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:223
 #: ../../get_started/toc.rst:248 ../../get_started/toc.rst:267
 #: ../../get_started/toc.rst:282
-#, fuzzy
 msgid "Select General Settings."
 msgstr "Seleziona Impostazioni Generali."
 
 #: ../../advanced_email_management/toc.rst:127
-#, fuzzy
 msgid ""
 "Under Out of Office Settings, select Send auto-replies from the first "
 "drop-down menu."
 msgstr ""
-"Nella sezione Fuori Ufficio, seleziona Invia risposta automatica dal primo "
-"menu a tendina."
+"Nella sezione Impostazioni Fuori Ufficio, seleziona Invia risposte "
+"automatiche dal primo menu a tendina."
 
 #: ../../advanced_email_management/toc.rst:128
-#, fuzzy
 msgid ""
 "In the Auto-Reply Message field, type the message you would like to be "
 "sent out while you are away."
 msgstr ""
-"Nel campo Messaggio di risposta automatica, scrivi il messaggi che vorresti "
-"fosse inviato mentre sei fuori ufficio."
+"Nel campo Messaggio risposta automatica, scrivi il messaggio che vuoi venga "
+"inviato mentre sei fuori ufficio."
 
 #: ../../advanced_email_management/toc.rst:129
-#, fuzzy
 msgid "Select the recipient from the External Senders field."
-msgstr "Selezionare il destinatario dal campo Mittenti Esterni."
+msgstr "Seleziona i destinatari desiderati dal menu Mittenti Esterni."
 
 #: ../../advanced_email_management/toc.rst:130
-#, fuzzy
 msgid ""
 "Under Time Period select Send auto-replies during the following period "
 "and select the dates."
 msgstr ""
-"Nella sezione Periodo di tempo seleziona Invia risposte automatiche durante "
-"il seguente periodo e seleziona le date desiderate."
+"Nella sezione Periodo di Tempo seleziona Invia risposta automatica durante "
+"questo periodo, e seleziona le date desiderate."
 
 #: ../../advanced_email_management/toc.rst:133
-#, fuzzy
 msgid ""
 "If you prefer to send the out-of-office email only during specific hours "
 "of the day, you can customize the interval by selecting All Day and then "
 "specifying the desired time frame by choosing the start and end hours."
 msgstr ""
 "Se preferisci inviare risposte automatiche fuori ufficio solo durante un "
-"orario specifico della giornata, è possibile personalizzare l'intervallo di "
-"tempo selezionando Tutto il giorno, specificando poi l'intervallo di tempo "
-"scegliendo le ore di inizio e di fine."
+"orario specifico della giornata, puoi personalizzare l'intervallo di tempo "
+"selezionando Tutto il giorno, specificando poi l'intervallo di tempo "
+"scegliendo l'ora di inizio e di fine."
 
 #: ../../advanced_email_management/toc.rst:140
-#, fuzzy
 msgid "Showing Emails in HTML or Plain Text Format"
-msgstr "Mostrare le e-mail in formato HTML o testo semplice"
+msgstr "Mostrare le email in formato HTML o come Testo"
 
 #: ../../advanced_email_management/toc.rst:142
-#, fuzzy
 msgid ""
 "You can view email messages in two formats, HTML, or plain text. HTML "
 "messages can have text formatting, numbering, bullets, colored "
@@ -539,31 +476,27 @@ msgid ""
 "displayed in the body of the message in the plain text view."
 msgstr ""
 "Puoi visualizzare i messaggi email in due formati: HTML o testo. I messaggi "
-"HTML includono la formattazione del testo, elenchi numerati e puntati, "
-"sfondi colorati e link che possono rendere più facile la lettura del "
-"messaggio. I messaggi di testo possono essere sempre letti da altri client "
-"di posta. I messaggi visualizzati come testo non supportano alcuna "
-"formattazione, link o immagini. É sempre possibile visualizzare un messaggio "
-"come testo anche se contiene HTML. I tag HTML vengono mostrati nel corpo del "
-"messaggio se visualizzato come testo."
+"HTML includono la formattazione del testo, come elenchi numerati e puntati, "
+"sfondi colorati e link cliccabili, che possono rendere più facile la lettura "
+"del messaggio. I messaggi di testo possono essere sempre letti da qualunque "
+"altro client di posta. I messaggi visualizzati come testo non supportano "
+"alcuna formattazione, link o immagini. É sempre possibile visualizzare un "
+"messaggio come testo, anche se contiene HTML: i tag HTML vengono mostrati "
+"nel corpo del messaggio se visualizzato come testo."
 
 #: ../../advanced_email_management/toc.rst:147
-#, fuzzy
 msgid "Under Displaying Messages, click on the Display mail field."
-msgstr "In Visualizza Messaggi, fare clic sul campo Visualizza e-mail."
+msgstr "In Visualizza Messaggi, fare clic sul campo Visualizza email."
 
 #: ../../advanced_email_management/toc.rst:148
-#, fuzzy
 msgid "From the drop-down menu, select **As HTML** or **As text**."
 msgstr "Dal menu a tendina, seleziona **Come HTML** o **Come testo**."
 
 #: ../../advanced_email_management/toc.rst:152
-#, fuzzy
 msgid "Configuring Read Receipts Behavior"
-msgstr "Configurazione del comportamento delle Ricevute di lettura"
+msgstr "Configurare la Ricevuta di lettura"
 
 #: ../../advanced_email_management/toc.rst:154
-#, fuzzy
 msgid ""
 "When sending messages to other |product| users, you can choose to request"
 " a return receipt, which notifies you when the recipient opens your "
@@ -571,60 +504,53 @@ msgid ""
 " read receipt feature enabled or manually accept it as soon as they open "
 "the email."
 msgstr ""
-"Quando si inviano messaggi ad altri utenti di Carbonio, si può scegliere "
-"di richiedere una ricevuta di lettura, che notifica l'apertura "
-"dell'e-mail da parte del destinatario. Tuttavia, affinché questa funzione"
-" funzioni, il destinatario deve avere la funzione di ricevuta di lettura "
-"attivata o accettarla manualmente non appena apre l'e-mail."
+"Quando invii messaggi ad altri utenti di Carbonio, puoi decidere di "
+"richiedere una ricevuta di lettura, che ti notifica sull'apertura dell'email "
+"da parte del destinatario. Tuttavia, affinché la notifica funzioni, il "
+"destinatario deve avere la funzione di ricevuta di lettura attivata, o "
+"accettarla manualmente non appena apre l'email."
 
 #: ../../advanced_email_management/toc.rst:156
-#, fuzzy
 msgid "To enable the read receipt feature:"
 msgstr "Per abilitare la ricevuta di lettura:"
 
 #: ../../advanced_email_management/toc.rst:160
-#, fuzzy
 msgid "Under **Receiving Messages**, click on the **Read Receipt** field."
 msgstr ""
-"Sotto **Ricezione Messaggi**, fare clic sul campo **Ricevuta di lettura**."
+"Sotto **Messaggi Ricevuti**, fai clic sul campo **Ricevuta di lettura**."
 
 #: ../../advanced_email_management/toc.rst:161
-#, fuzzy
 msgid "Select **Always send a read receipt**."
-msgstr "Seleziona **Invia sempre la ricevuta di lettura**."
+msgstr "Seleziona **Manda sempre una conferma di lettura**."
 
 #: ../../advanced_email_management/toc.rst:164
-#, fuzzy
 msgid ""
 "Alternatively, you can choose the option **Never send a read receipt** to"
 " ensure it is never sent automatically or select **Ask me** so that you "
 "are prompted each time you open an email with a read receipt request, "
 "giving you the choice to send it or not."
 msgstr ""
-"In alternativa, puoi scegliere l'opzione **Non inviare mai la ricevuta di "
-"lettura* per assicurarti che non venga mai inviata automaticamente o "
+"In alternativa, puoi scegliere l'opzione **Non inviare mai la conferma di "
+"lettura** per assicurarti che non venga mai inviata automaticamente, oppure "
 "seleziona **Chiedimi** per essere notificato ogni volta che apri una mail "
 "che richiede la ricevuta di lettura, avendo quindi la possibilità di "
 "scegliere se inviarla o meno."
 
 #: ../../advanced_email_management/toc.rst:171
-#, fuzzy
 msgid "Setting Up Email Filters"
-msgstr "Impostazione Filtri Email"
+msgstr "Impostare i Filtri"
 
 #: ../../advanced_email_management/toc.rst:173
-#, fuzzy
 msgid ""
 "You can effectively manage your inbox by utilizing email filters. These "
 "filters allow you to set up actions, such as organizing incoming and "
 "outgoing emails into specific folders."
 msgstr ""
-"Puoi gestire in modo efficace la tua casella di posta utilizzando i filtri e-"
-"mail. Questi filtri permettono di impostare varie azioni, come organizzare "
-"in specifiche cartelle le email in entrata e in uscita.."
+"Puoi gestire efficacemente la tua casella di posta utilizzando i filtri "
+"email. Questi filtri permettono di impostare varie azioni, come organizzare "
+"in cartelle specifiche le email in entrata e in uscita."
 
 #: ../../advanced_email_management/toc.rst:175
-#, fuzzy
 msgid ""
 "A filter consists of specific conditions paired with corresponding "
 "actions."
@@ -633,16 +559,14 @@ msgstr ""
 "corrispondenti."
 
 #: ../../advanced_email_management/toc.rst:177
-#, fuzzy
 msgid ""
 "When an email satisfies the specified conditions, the designated actions "
 "are triggered."
 msgstr ""
-"Quando un'email soddisfa le condizioni specificate, vengono attivate le "
-"azioni impostate."
+"Quando un'email soddisfa le condizioni specificate, si attivano le azioni "
+"impostate corrispondenti."
 
 #: ../../advanced_email_management/toc.rst:179
-#, fuzzy
 msgid ""
 "Conditions can encompass various criteria, such as the subject, sender, "
 "or date of the email."
@@ -651,102 +575,88 @@ msgstr ""
 "o la data dell'email."
 
 #: ../../advanced_email_management/toc.rst:180
-#, fuzzy
 msgid "Actions may include moving, tagging, or redirecting the emails."
 msgstr ""
-"Le azioni possono includere lo spostamento, il tag o il reindirizzamento "
-"delle email."
+"Le azioni possono includere ad esempio lo spostamento, il tag o il "
+"reindirizzamento delle email."
 
 #: ../../advanced_email_management/toc.rst:182
-#, fuzzy
 msgid "Some examples are:"
-msgstr "Alcuni esempi sono:"
+msgstr "Alcuni esempi:"
 
 #: ../../advanced_email_management/toc.rst:184
-#, fuzzy
 msgid ""
 "Automatically moving incoming emails into designated folders. For "
 "instance, emails from your supervisor can be automatically routed to your"
 " \"Management Directives\" folder upon arrival."
 msgstr ""
-"Spostamento automatico delle e-mail in arrivo nelle cartelle designate. Ad "
+"Spostare automaticamente le email in arrivo in cartelle designate. Ad "
 "esempio, tutte le email ricevute dal tuo supervisore possono essere "
-"direttamente indirizzate alla cartella \"Direttive Decisionali\" al loro "
-"arrivo."
+"direttamente indirizzate alla cartella \"Direttive\" al loro arrivo."
 
 #: ../../advanced_email_management/toc.rst:185
-#, fuzzy
 msgid ""
 "Tag specific emails for easy identification. For example, emails from the"
 " corporate events mailing list can be labeled with an \"Events\" tag."
 msgstr ""
-"Tagga email specifiche per identificarle in modo semplice. Per esempio, le "
-"email che arrivano dalla mailing list relativa agli eventi aziedali, possono "
-"essere taggate con l'etichetta \"Eventi\"."
+"Taggare email specifiche per identificarle in modo semplice. Per esempio, "
+"puoi taggare automaticamente le email che arrivano dalla mailing list "
+"relativa agli eventi aziendali con l'etichetta \"Eventi\"."
 
 #: ../../advanced_email_management/toc.rst:186
-#, fuzzy
 msgid ""
 "Redirect or delete emails based on predefined criteria. For instance, all"
 " emails from a specific sender can be forwarded or moved to the Trash "
 "folder."
 msgstr ""
-"Elimina o redireziona le email sulla base di criteri predefiniti. Per "
-"esempio, tutte le email provenienti da uno specifico mittente può essere "
-"inoltrata ad altri oppure spostata nel Cestino."
+"Eliminare o reindirizzare le email sulla base di criteri predefiniti. Per "
+"esempio, tutte le email provenienti da uno specifico mittente possono essere "
+"inoltrate ad altri oppure spostate nel Cestino."
 
 #: ../../advanced_email_management/toc.rst:187
-#, fuzzy
 msgid "Assign importance flags to specific emails."
-msgstr "Assegna flag di importanza a email specifiche."
+msgstr "Contrassegnare email specifiche come importanti."
 
 #: ../../advanced_email_management/toc.rst:189
-#, fuzzy
 msgid ""
 "Filters are applied sequentially, following the order in which they are "
 "listed in your settings. You retain the flexibility to modify the order "
 "of filters as needed."
 msgstr ""
 "I filtri vengono applicati in modo sequenziale, seguendo l'ordine in cui "
-"vengono mostrati nelle impostazioni. L'ordine dei filtri può essere "
-"modificato a seconda delle necessità."
+"appaiono nelle impostazioni. L'ordine dei filtri può essere modificato a "
+"piacere."
 
 #: ../../advanced_email_management/toc.rst:192
-#, fuzzy
 msgid "Creating a Filter"
-msgstr "Crea un Filtro"
+msgstr "Creare un Filtro"
 
 #: ../../advanced_email_management/toc.rst:198
-#, fuzzy
 msgid "You can configure filters independently for incoming and outgoing emails."
 msgstr ""
-"È possibile configurare i filtri in modo indipendente per le e-mail in "
-"entrata e in uscita."
+"Puoi configurare i filtri in modo indipendente per le email in entrata e in "
+"uscita."
 
 #: ../../advanced_email_management/toc.rst:200
-#, fuzzy
 msgid "To create a filter for **incoming** or **outgoing emails**:"
-msgstr "Per creare un filtro per email **in arrivo** o **in uscita**:"
+msgstr "Per creare un filtro per le email **in arrivo** o **in uscita**:"
 
 #: ../../advanced_email_management/toc.rst:204
-#, fuzzy
 msgid ""
 "Under **Filters**, choose either **Incoming Message Filters** or "
 "**Outgoing Message Filters** depending on whether you intend to create a "
 "filter for emails you receive or emails you send, respectively."
 msgstr ""
-"Sotto **Filtri**, scegli **Filtri messaggi in arrivo** o **Filtri messaggi "
-"in uscita**, in base a se intendi creare un filtro per le e-mail che ricevi "
-"o per le e-mail che invii, rispettivamente."
+"Sotto **Filtri**, scegli **Filtri messaggi in entrata** o **Filtri messaggi "
+"in uscita**, a seconda che tu intenda creare un filtro per le email che "
+"ricevi o per le email che invii, rispettivamente."
 
 #: ../../advanced_email_management/toc.rst:205
 #: ../../advanced_email_management/toc.rst:264
-#, fuzzy
 msgid "Click **CREATE**. A new window appears."
 msgstr "Clicca **CREA**. Si aprirà una nuova finestra."
 
 #: ../../advanced_email_management/toc.rst:206
-#, fuzzy
 msgid ""
 "Insert a name for your filter in the **Filter Name** field (e.g., junk "
 "mail)"
@@ -755,45 +665,39 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:207
 #: ../../advanced_email_management/toc.rst:266
-#, fuzzy
 msgid ""
 "Ensure to mark the **Active filter** checkbox so the filter becomes "
 "operational immediately upon its creation."
 msgstr ""
-"Assicurati di selezionare la voce **Attiva filtro** per far sì che il filtro "
+"Assicurati di selezionare la voce **Filtro attivo** per far sì che il filtro "
 "sia operativo subito dopo la creazione."
 
 #: ../../advanced_email_management/toc.rst:208
-#, fuzzy
 msgid ""
 "Under the **Conditions** section, select the proper options for the logic"
 " of your filter. Press the + button if you need to add more conditions "
 "(please refer to the section below titled **How to create conditions** "
 "for guidance on setting up the necessary criteria)."
 msgstr ""
-"Nella sezione **Condizioni** seleziona le opzioni corrette da applicare alla "
-"logica del tuo filtro. Seleziona il bottone + se hai bisogno di aggiungere "
-"ulteriori condizioni (fare riferimento alla sezione sottostante **Come "
-"creare delle condizioni** come guida relativa alle impostazioni dei criteri "
-"necessari)."
+"Nella sezione **Condizioni** seleziona le opzioni da applicare alla logica "
+"del tuo filtro. Clicca il tasto + se hai bisogno di aggiungere ulteriori "
+"condizioni (vedi la sezione sottostante **Come creare delle condizioni** per "
+"sapere come impostare i criteri necessari)."
 
 #: ../../advanced_email_management/toc.rst:209
-#, fuzzy
 msgid ""
 "Under the **Actions** section, choose the appropriate action to be taken "
 "if the filter conditions are met. Press the **+** button if you need to "
 "add more actions (please refer to the section below titled **How to "
 "create actions** for guidance on setting up the necessary criteria)."
 msgstr ""
-"Nella sezione **Azioni**, scegli l'azione appropriata da intraprendere se le "
-"condizioni del filtro sono soddisfatte. Seleziona il bottone **+** se hai "
-"bisogno di aggiungere ulteriori azioni (fare riferimenti alla sezione "
-"sottostante **Come creare azioni** come guida relativa alle impostazioni dei "
-"criteri necessari)."
+"Nella sezione **Azioni**, scegli l'azione appropriata da effettuare se le "
+"condizioni del filtro sono soddisfatte. Usa il tasto **+** se hai bisogno di "
+"aggiungere ulteriori azioni (vedi la sezione sottostante **Come creare "
+"azioni** per sapere come impostare i criteri necessari)."
 
 #: ../../advanced_email_management/toc.rst:210
 #: ../../advanced_email_management/toc.rst:274
-#, fuzzy
 msgid ""
 "Check or uncheck the **Do not process additional filters** checkbox to "
 "determine whether this filter rule, when its conditions are met, will "
@@ -801,181 +705,151 @@ msgid ""
 " once this filter’s conditions are satisfied, the system will not "
 "evaluate any other filters."
 msgstr ""
-"Seleziona o deseleziona la casella di controllo **Non elaborare filtri "
-"aggiuntivi** per determinare se questa regola del filtro, quando le sue "
-"condizioni sono soddisfatte, impedirà l'esecuzione di eventuali altre "
-"regole. L'abilitazione di questa opzione significa che una volta soddisfatte "
-"le condizioni di questo filtro, il sistema non valuterà altri filtri."
+"Seleziona o deseleziona la casella **Non processare ulteriori filtri** se "
+"vuoi che questa regola del filtro, quando le sue condizioni sono "
+"soddisfatte, impedisca l'esecuzione di eventuali altre regole. Selezionare "
+"questa opzione significa che una volta soddisfatte le condizioni di questo "
+"filtro, il sistema non valuterà altri filtri."
 
 #: ../../advanced_email_management/toc.rst:211 ../../chats(wsc)/toc.rst:25
 #: ../../chats/toc.rst:27 ../../chats/toc.rst:139 ../../files/toc.rst:35
 #: ../../files/toc.rst:45 ../../tasks/toc.rst:26 ../../videomeetings/toc.rst:51
-#, fuzzy
 msgid "Click **CREATE**."
 msgstr "Fai clic su **Crea**."
 
 #: ../../advanced_email_management/toc.rst:213
-#, fuzzy
 msgid ""
 "You can locate your filter under **Active Filters**, indicating that it "
 "is already operational and will be applied to incoming emails."
 msgstr ""
-"È possibile localizzare il filtro sotto **Filtri attivi**, indicando che è "
-"già operativo e sarà applicato alle email in ingresso."
+"Puoi ritrovare il filtro sotto **Filtri attivi**, che significa che è già "
+"operativo e sarà applicato alle email in arrivo."
 
 #: ../../advanced_email_management/toc.rst:215
-#, fuzzy
 msgid ""
 "If you did not select the **Active filter** on step 6, you will find the "
 "filter under the **Available Filters**. To activate it, simply select it "
 "and click **ADD**."
 msgstr ""
-"Se non hai selezionato il filtro **Attivo** al passaggio 6, lo troverai tra "
-"i **Filtri disponibili**. Per attivarlo, selezionalo e clicca su "
-"**AGGIUNGI**."
+"Se non hai selezionato la casella **Filtro attivo** al passaggio 6, lo "
+"troverai invece tra i **Filtri disponibili**. Per attivarlo, selezionalo e "
+"clicca sul tasto **AGGIUNGI**."
 
 #: ../../advanced_email_management/toc.rst:217
-#, fuzzy
 msgid "How to create conditions:"
 msgstr "Come creare condizioni:"
 
 #: ../../advanced_email_management/toc.rst:219
-#, fuzzy
 msgid ""
 "Under the **Conditions** section, you can configure various fields. These"
 " fields determine the conditions that must be met for your email filter "
 "to execute the specified action."
 msgstr ""
-"Nella sezione **Condizioni**, è possibile configurare vari campi. Questi "
-"campi determinano le condizioni che devono essere soddisfatte perché il "
-"filtro email esegua l'azione specificata."
+"Nella sezione **Condizioni** puoi configurare vari campi. Essi determinano "
+"le condizioni che devono essere soddisfatte perché il filtro email esegua "
+"l'azione specificata."
 
 #: ../../advanced_email_management/toc.rst:221
-#, fuzzy
 msgid ""
 "**If field**: In this field, you can specify whether **Any** or **All** "
 "conditions need to be matched for the filter rule to be executed."
 msgstr ""
-"**Campo Se**: In questo campo, puoi specificare se le condizioni **Tutte** o "
-"**Qualsiasi** devono essere soddisfatte perché la regola del filtro venga "
-"eseguita."
+"**Campo Se**: In questo campo, puoi specificare se **Tutte** o **Qualsiasi** "
+"tra le condizioni devono essere soddisfatte perché la regola venga eseguita."
 
 #: ../../advanced_email_management/toc.rst:223
-#, fuzzy
 msgid "**First field**: This field contains multiple values. i.e."
-msgstr "**Primo campo**: Questo campo contiene più valori."
+msgstr "**Primo campo**: Questo campo contiene più valori, come"
 
 #: ../../advanced_email_management/toc.rst:225
-#, fuzzy
 msgid "**From**: Specifies the sender's email address."
 msgstr "**Da**: Specifica l'indirizzo email del mittente."
 
 #: ../../advanced_email_management/toc.rst:226
-#, fuzzy
 msgid "**To**: Specifies the recipient's email address."
-msgstr "**Destinatario**: Specifica l'indirizzo email del destinatario."
+msgstr "**A**: Specifica l'indirizzo email del destinatario."
 
 #: ../../advanced_email_management/toc.rst:227
-#, fuzzy
 msgid "**Cc**: Specifies the email addresses listed in the \"Cc\" field."
 msgstr "**Cc**: Specifica gli indirizzi email elencati nel campo \"Cc\"."
 
 #: ../../advanced_email_management/toc.rst:228
-#, fuzzy
 msgid ""
 "**To** or **Cc**: Specifies email addresses in either the \"To\" or "
 "\"Cc\" fields."
 msgstr "**A** o **Cc**: Specifica gli indirizzi email nei campi \"A\" o \"Cc\"."
 
 #: ../../advanced_email_management/toc.rst:229
-#, fuzzy
 msgid "**Subject**: Specifies keywords or phrases found in the email subject."
 msgstr ""
 "**Oggetto**: Specifica parole chiave o frasi presenti nell'oggetto "
 "dell'email."
 
 #: ../../advanced_email_management/toc.rst:230
-#, fuzzy
 msgid ""
 "**Message**: Specifies email properties, such as those involved in "
 "conversations I've participated in."
 msgstr ""
-"**Messaggio**: Specifica le proprietà di posta elettronica, come quelle "
-"coinvolte nelle conversazioni in cui ho partecipato."
+"**Messaggio**: Specifica una proprietà dell'email, come ad esempio "
+"appartenere alle conversazioni in cui ho partecipato."
 
 #: ../../advanced_email_management/toc.rst:231
-#, fuzzy
 msgid "**Size**: Specifies the size of the email in kilobytes."
-msgstr "**Dimensione**: Specifica le dimensioni dell'e-mail in kilobyte."
+msgstr "**Dimensione**: Specifica le dimensioni dell'email in kilobyte."
 
 #: ../../advanced_email_management/toc.rst:232
-#, fuzzy
 msgid "**Date**: Specifies the date the email was sent or received."
 msgstr "**Data**: Specifica la data in cui l'email è stata inviata o ricevuta."
 
 #: ../../advanced_email_management/toc.rst:233
-#, fuzzy
 msgid "**Body**: Specifies specific content within the email body."
-msgstr ""
-"**Corpo**: Specifica contenuto specifico all'interno del corpo dell'email."
+msgstr "**Corpo**: Specifica elementi specifici nel corpo dell'email."
 
 #: ../../advanced_email_management/toc.rst:234
-#, fuzzy
 msgid "**Attachment**: Specifies the presence or absence of attachments."
 msgstr "**Allegato**: Specifica la presenza o l'assenza di allegati."
 
 #: ../../advanced_email_management/toc.rst:235
-#, fuzzy
 msgid ""
 "**Read Receipt**: Specifies whether a read receipt has been requested or "
 "received."
 msgstr ""
 "**Ricevuta di lettura**: Specifica se è stata richiesta o ricevuta una "
-"ricevuta di lettura."
+"conferma di lettura."
 
 #: ../../advanced_email_management/toc.rst:236
-#, fuzzy
 msgid ""
 "**Address In**: Specifies specific addresses (e.g., sender, or recipient)"
 " that exist in the contacts or frequent emails."
 msgstr ""
 "**Indirizzo In**: Specifica indirizzi specifici (ad esempio mittente o "
-"destinatario) che esistono nei contatti o nelle email frequenti."
+"destinatario) che esistono nei \"Contatti\" o tra \"Le mie email frequenti\"."
 
 #: ../../advanced_email_management/toc.rst:237
-#, fuzzy
 msgid ""
 "**Calendar**: Specifies events or calendar-related information within the"
 " email, such as whether the invitation has been replied to."
 msgstr ""
-"**Calendario**: Specifica eventi o informazioni correlate al calendario "
-"all'interno dell'email, come ad esempio se l'invito è stato risposto."
+"**Calendario**: Specifica informazioni correlate agli eventi del calendario "
+"inviati via email, come ad esempio se l'invito ha avuto risposta."
 
 #: ../../advanced_email_management/toc.rst:238
-#, fuzzy
 msgid "**Social**: Specifies social media-related content within the email."
-msgstr ""
-"**Social**: Specifica il contenuto relativo ai social media all'interno "
-"dell'e-mail."
+msgstr "**Social**: Specifica se si tratta di email relative ai social media."
 
 #: ../../advanced_email_management/toc.rst:239
-#, fuzzy
 msgid "**Header Named**: Specifies a custom email header name."
-msgstr ""
-"**Nome intestazione personalizzato**: Specifica un nome di intestazione "
-"email personalizzato."
+msgstr "**Nome intestazione **: Specifica caratteristiche dell'intestazione."
 
 #: ../../advanced_email_management/toc.rst:241
-#, fuzzy
 msgid ""
 "You can choose anything among these values and your next field values "
 "will appear accordingly."
 msgstr ""
-"Puoi scegliere qualsiasi valore tra questi e i tuoi prossimi valori del "
-"campo appariranno di conseguenza."
+"Puoi scegliere qualsiasi valore tra questi, e i valori successivi del campo "
+"appariranno di conseguenza."
 
 #: ../../advanced_email_management/toc.rst:243
-#, fuzzy
 msgid ""
 "**Second field**: Depending on the value of the first field, you will get"
 " to choose values for this field. Let me give you an example. If you "
@@ -988,27 +862,25 @@ msgid ""
 "first field, you will get a different set of values for this field."
 msgstr ""
 "**Secondo campo**: A seconda del valore del primo campo, potrai scegliere i "
-"valori per questo campo. Ti darò un esempio. Se scegli Da come valore nel "
-"primo campo, allora in questo campo otterrai i seguenti valori da scegliere ("
-"vale a dire Corrisponde esattamente, Non corrisponde esattamente, Contiene, "
-"Non contiene, Corrisponde alla condizione dei caratteri jolly, Non "
-"corrisponde alla condizione dei caratteri jolly). Ma se scegli Size come "
-"valore nel primo campo, allora otterrai Inferiore a, Non inferiore a, "
-"Superiore a e Non superiore a come valori selezionabili in questo campo. "
-"Allo stesso modo, per tutti gli altri valori del primo campo, otterrai un "
-"set diverso di valori per questo campo."
+"valori per questo campo. Ecco un esempio. Se scegli Da come valore nel primo "
+"campo, allora in questo campo otterrai i seguenti valori da scegliere: "
+"Corrisponde esattamente, Non corrisponde esattamente, Contiene, Non "
+"contiene, Corrisponde alla condizione dei caratteri jolly, Non corrisponde "
+"alla condizione dei caratteri jolly. Ma se scegli Dimensione come valore nel "
+"primo campo, allora otterrai: Inferiore a, Non inferiore a, Superiore a e "
+"Non superiore a come valori selezionabili. Allo stesso modo, per tutti gli "
+"altri valori del primo campo, otterrai un set diverso di valori per il "
+"secondo campo."
 
 #: ../../advanced_email_management/toc.rst:245
-#, fuzzy
 msgid ""
 "Depending on the First field and second field, you may get additional "
 "fields with different values."
 msgstr ""
-"A seconda del primo campo e del secondo campo, potresti ottenere campi "
+"In base al primo campo e al secondo campo, potresti ottenere campi "
 "aggiuntivi con valori diversi."
 
 #: ../../advanced_email_management/toc.rst:247
-#, fuzzy
 msgid "How to create actions:"
 msgstr "Come creare azioni:"
 

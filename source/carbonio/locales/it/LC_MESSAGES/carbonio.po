@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-08 13:54+0000\n"
+"PO-Revision-Date: 2025-02-10 11:54+0000\n"
 "Last-Translator: Flaminia Spinelli <flaminia.spinelli@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -10784,11 +10784,11 @@ msgstr "Per aggiungere un moderatore in una sala meeting:"
 
 #: ../../videomeetings/toc.rst:213
 msgid "Select the Rooms tab."
-msgstr "Seleziona la scheda Camere."
+msgstr "Seleziona la scheda Stanze Virtuali."
 
 #: ../../videomeetings/toc.rst:215
 msgid "Click on ADD MODERATOR. A new window appears."
-msgstr "Fare clic su AGGIUNGI MODERATORE. Appare una nuova finestra."
+msgstr "Fai clic su AGGIUNGI MODERATORE. Apparirà una nuova finestra."
 
 #: ../../videomeetings/toc.rst:216
 msgid ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-11 14:54+0000\n"
+"PO-Revision-Date: 2025-02-12 15:54+0000\n"
 "Last-Translator: Emmanuelle Hérillard <emmanuelle.herillard@zextras.fr>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
@@ -533,7 +533,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:161
 msgid "Select **Always send a read receipt**."
-msgstr ""
+msgstr "Sélectionnez **Toujours envoyer un accusé de réception**."
 
 #: ../../advanced_email_management/toc.rst:164
 msgid ""
@@ -542,10 +542,15 @@ msgid ""
 "are prompted each time you open an email with a read receipt request, "
 "giving you the choice to send it or not."
 msgstr ""
+"Vous pouvez également choisir l'option **Ne jamais envoyer un accusé de "
+"réception** pour vous assurer qu'il n'est jamais envoyé automatiquement ou "
+"sélectionner **Me demander** pour que vous soyez invité à chaque fois que "
+"vous ouvrez un courriel avec une demande d'accusé de lecture, vous donnant "
+"le choix de l'envoyer ou non."
 
 #: ../../advanced_email_management/toc.rst:171
 msgid "Setting Up Email Filters"
-msgstr ""
+msgstr "Configuration des Filtres de courrier électronique"
 
 #: ../../advanced_email_management/toc.rst:173
 msgid ""
@@ -553,32 +558,44 @@ msgid ""
 "filters allow you to set up actions, such as organizing incoming and "
 "outgoing emails into specific folders."
 msgstr ""
+"Vous pouvez gérer efficacement votre boîte de réception en utilisant des "
+"filtres de messagerie. Ces filtres vous permettent de mettre en place des "
+"actions, telles que l'organisation des courriels entrants et sortants dans "
+"des dossiers spécifiques."
 
 #: ../../advanced_email_management/toc.rst:175
 msgid ""
 "A filter consists of specific conditions paired with corresponding "
 "actions."
 msgstr ""
+"Un filtre se compose de conditions spécifiques associées à des actions "
+"correspondantes."
 
 #: ../../advanced_email_management/toc.rst:177
 msgid ""
 "When an email satisfies the specified conditions, the designated actions "
 "are triggered."
 msgstr ""
+"Lorsqu'un courriel remplit les conditions spécifiées, les actions désignées "
+"sont déclenchées."
 
 #: ../../advanced_email_management/toc.rst:179
 msgid ""
 "Conditions can encompass various criteria, such as the subject, sender, "
 "or date of the email."
 msgstr ""
+"Les conditions peuvent englober différents critères, tels que l'objet, "
+"l'expéditeur ou la date de l'email."
 
 #: ../../advanced_email_management/toc.rst:180
 msgid "Actions may include moving, tagging, or redirecting the emails."
 msgstr ""
+"Les actions peuvent consister à déplacer, étiqueter ou rediriger les "
+"courriels."
 
 #: ../../advanced_email_management/toc.rst:182
 msgid "Some examples are:"
-msgstr ""
+msgstr "Voici quelques exemples :"
 
 #: ../../advanced_email_management/toc.rst:184
 msgid ""
@@ -586,12 +603,18 @@ msgid ""
 "instance, emails from your supervisor can be automatically routed to your"
 " \"Management Directives\" folder upon arrival."
 msgstr ""
+"Déplacer automatiquement les courriels entrants dans les dossiers désignés. "
+"Par exemple, les courriels de votre supérieur peuvent être automatiquement "
+"acheminés vers votre dossier « Directives de la direction » dès leur arrivée."
 
 #: ../../advanced_email_management/toc.rst:185
 msgid ""
 "Tag specific emails for easy identification. For example, emails from the"
 " corporate events mailing list can be labeled with an \"Events\" tag."
 msgstr ""
+"Étiqueter des courriels spécifiques pour en faciliter l'identification. Par "
+"exemple, les courriels provenant de la liste de diffusion des événements "
+"d'entreprise peuvent être étiquetés avec une étiquette « Événements »."
 
 #: ../../advanced_email_management/toc.rst:186
 msgid ""
@@ -599,10 +622,13 @@ msgid ""
 " emails from a specific sender can be forwarded or moved to the Trash "
 "folder."
 msgstr ""
+"Rediriger ou supprimer des courriels en fonction de critères prédéfinis. Par "
+"exemple, tous les courriels provenant d'un expéditeur spécifique peuvent "
+"être transférés ou déplacés dans le dossier Corbeille."
 
 #: ../../advanced_email_management/toc.rst:187
 msgid "Assign importance flags to specific emails."
-msgstr ""
+msgstr "Attribuer des indicateurs d'importance à des courriels spécifiques."
 
 #: ../../advanced_email_management/toc.rst:189
 msgid ""
@@ -610,18 +636,23 @@ msgid ""
 "listed in your settings. You retain the flexibility to modify the order "
 "of filters as needed."
 msgstr ""
+"Les filtres sont appliqués de manière séquentielle, en suivant l'ordre dans "
+"lequel ils sont répertoriés dans vos paramètres. Vous pouvez modifier "
+"l'ordre des filtres si nécessaire."
 
 #: ../../advanced_email_management/toc.rst:192
 msgid "Creating a Filter"
-msgstr ""
+msgstr "Création d'un Filtre"
 
 #: ../../advanced_email_management/toc.rst:198
 msgid "You can configure filters independently for incoming and outgoing emails."
 msgstr ""
+"Vous pouvez configurer les filtres indépendamment pour les courriels "
+"entrants et sortants."
 
 #: ../../advanced_email_management/toc.rst:200
 msgid "To create a filter for **incoming** or **outgoing emails**:"
-msgstr ""
+msgstr "Pour créer un filtre pour les **mails entrants** ou **sortants** :"
 
 #: ../../advanced_email_management/toc.rst:204
 msgid ""
@@ -629,17 +660,23 @@ msgid ""
 "**Outgoing Message Filters** depending on whether you intend to create a "
 "filter for emails you receive or emails you send, respectively."
 msgstr ""
+"Sous **Filtres**, choisissez **Filtres de messages entrants** ou **Filtres "
+"de messages sortants** selon que vous avez l'intention de créer un filtre "
+"pour les courriels que vous recevez ou pour les courriels que vous envoyez, "
+"respectivement."
 
 #: ../../advanced_email_management/toc.rst:205
 #: ../../advanced_email_management/toc.rst:264
 msgid "Click **CREATE**. A new window appears."
-msgstr ""
+msgstr "Cliquez sur **CRÉER**. Une nouvelle fenêtre apparaît."
 
 #: ../../advanced_email_management/toc.rst:206
 msgid ""
 "Insert a name for your filter in the **Filter Name** field (e.g., junk "
 "mail)"
 msgstr ""
+"Insérez un nom pour votre filtre dans le champ **Nom du filtre** (par "
+"exemple, Courrier indésirable)"
 
 #: ../../advanced_email_management/toc.rst:207
 #: ../../advanced_email_management/toc.rst:266
@@ -647,6 +684,8 @@ msgid ""
 "Ensure to mark the **Active filter** checkbox so the filter becomes "
 "operational immediately upon its creation."
 msgstr ""
+"Veillez à cocher la case **Filtre actif** pour que le filtre devienne "
+"opérationnel dès sa création."
 
 #: ../../advanced_email_management/toc.rst:208
 msgid ""
@@ -655,6 +694,11 @@ msgid ""
 "(please refer to the section below titled **How to create conditions** "
 "for guidance on setting up the necessary criteria)."
 msgstr ""
+"Dans la section **Conditions**, sélectionnez les options appropriées à la "
+"logique de votre filtre. Appuyez sur le bouton + si vous avez besoin "
+"d'ajouter d'autres conditions (veuillez vous référer à la section ci-dessous "
+"intitulée **Comment créer des conditions** pour obtenir des conseils sur la "
+"mise en place des critères nécessaires)."
 
 #: ../../advanced_email_management/toc.rst:209
 msgid ""
@@ -663,6 +707,11 @@ msgid ""
 "add more actions (please refer to the section below titled **How to "
 "create actions** for guidance on setting up the necessary criteria)."
 msgstr ""
+"Dans la section **Actions**, choisissez l'action appropriée à entreprendre "
+"si les conditions du filtre sont remplies. Appuyez sur le bouton **+** si "
+"vous avez besoin d'ajouter d'autres actions (veuillez vous référer à la "
+"section ci-dessous intitulée **Comment créer des actions** pour obtenir des "
+"conseils sur la définition des critères nécessaires)."
 
 #: ../../advanced_email_management/toc.rst:210
 #: ../../advanced_email_management/toc.rst:274
@@ -673,18 +722,25 @@ msgid ""
 " once this filter’s conditions are satisfied, the system will not "
 "evaluate any other filters."
 msgstr ""
+"Cochez ou décochez la case **Ne pas traiter d'autres filtres** pour "
+"déterminer si cette règle de filtrage, lorsque ses conditions sont remplies, "
+"empêchera l'exécution d'autres règles. L'activation de cette option signifie "
+"qu'une fois que les conditions de ce filtre sont remplies, le système "
+"n'évaluera pas d'autres filtres."
 
 #: ../../advanced_email_management/toc.rst:211 ../../chats(wsc)/toc.rst:25
 #: ../../chats/toc.rst:27 ../../chats/toc.rst:139 ../../files/toc.rst:35
 #: ../../files/toc.rst:45 ../../tasks/toc.rst:26 ../../videomeetings/toc.rst:51
 msgid "Click **CREATE**."
-msgstr ""
+msgstr "Cliquez sur **CRÉER**."
 
 #: ../../advanced_email_management/toc.rst:213
 msgid ""
 "You can locate your filter under **Active Filters**, indicating that it "
 "is already operational and will be applied to incoming emails."
 msgstr ""
+"Vous pouvez localiser votre filtre sous **Filtres actifs**, ce qui indique "
+"qu'il est déjà opérationnel et qu'il sera appliqué aux courriels entrants."
 
 #: ../../advanced_email_management/toc.rst:215
 msgid ""
@@ -692,10 +748,13 @@ msgid ""
 "filter under the **Available Filters**. To activate it, simply select it "
 "and click **ADD**."
 msgstr ""
+"Si vous n'avez pas sélectionné le **Filtre actif** à l'étape 6, vous "
+"trouverez le filtre sous les **Filtres disponibles**. Pour l'activer, il "
+"suffit de le sélectionner et de cliquer sur **AJOUTER**."
 
 #: ../../advanced_email_management/toc.rst:217
 msgid "How to create conditions:"
-msgstr ""
+msgstr "Comment créer des conditions :"
 
 #: ../../advanced_email_management/toc.rst:219
 msgid ""
@@ -703,92 +762,115 @@ msgid ""
 " fields determine the conditions that must be met for your email filter "
 "to execute the specified action."
 msgstr ""
+"Dans la section **Conditions**, vous pouvez configurer différents champs. "
+"Ces champs déterminent les conditions qui doivent être remplies pour que "
+"votre filtre exécute l'action spécifiée."
 
 #: ../../advanced_email_management/toc.rst:221
 msgid ""
 "**If field**: In this field, you can specify whether **Any** or **All** "
 "conditions need to be matched for the filter rule to be executed."
 msgstr ""
+"**Champ Si** : Dans ce champ, vous pouvez spécifier si les conditions **Au "
+"Moins Une Condition** ou **Toutes Les Conditions** doivent être remplies "
+"pour que la règle de filtrage soit exécutée."
 
 #: ../../advanced_email_management/toc.rst:223
 msgid "**First field**: This field contains multiple values. i.e."
-msgstr ""
+msgstr "**Premier champ** : Ce champ contient plusieurs valeurs. Notamment"
 
 #: ../../advanced_email_management/toc.rst:225
 msgid "**From**: Specifies the sender's email address."
-msgstr ""
+msgstr "**De** : Spécifie l'adresse électronique de l'expéditeur."
 
 #: ../../advanced_email_management/toc.rst:226
 msgid "**To**: Specifies the recipient's email address."
-msgstr ""
+msgstr "**À** : Spécifie l'adresse électronique du destinataire."
 
 #: ../../advanced_email_management/toc.rst:227
 msgid "**Cc**: Specifies the email addresses listed in the \"Cc\" field."
 msgstr ""
+"**Cc** : Spécifie les adresses électroniques figurant dans le champ « Cc »."
 
 #: ../../advanced_email_management/toc.rst:228
 msgid ""
 "**To** or **Cc**: Specifies email addresses in either the \"To\" or "
 "\"Cc\" fields."
 msgstr ""
+"**À** ou **Cc** : Spécifie les adresses électroniques dans les champs « À » "
+"ou « Cc »."
 
 #: ../../advanced_email_management/toc.rst:229
 msgid "**Subject**: Specifies keywords or phrases found in the email subject."
 msgstr ""
+"**Objet** : Spécifie les mots-clés ou les phrases trouvés dans l'objet de "
+"l'email."
 
 #: ../../advanced_email_management/toc.rst:230
 msgid ""
 "**Message**: Specifies email properties, such as those involved in "
 "conversations I've participated in."
 msgstr ""
+"**Message** : Spécifie les propriétés du courrier électronique, telles que "
+"celles des conversations auxquelles j'ai participé."
 
 #: ../../advanced_email_management/toc.rst:231
 msgid "**Size**: Specifies the size of the email in kilobytes."
-msgstr ""
+msgstr "**Taille** : Spécifie la taille de l'email en kilo-octets."
 
 #: ../../advanced_email_management/toc.rst:232
 msgid "**Date**: Specifies the date the email was sent or received."
-msgstr ""
+msgstr "**Date** : Spécifie la date d'envoi ou de réception du courriel."
 
 #: ../../advanced_email_management/toc.rst:233
 msgid "**Body**: Specifies specific content within the email body."
-msgstr ""
+msgstr "**Corps** : Spécifie le contenu spécifique du corps du message."
 
 #: ../../advanced_email_management/toc.rst:234
 msgid "**Attachment**: Specifies the presence or absence of attachments."
-msgstr ""
+msgstr "**Attachement** : Spécifie la présence ou l'absence de pièces jointes."
 
 #: ../../advanced_email_management/toc.rst:235
 msgid ""
 "**Read Receipt**: Specifies whether a read receipt has been requested or "
 "received."
 msgstr ""
+"**Accusé de lecture** : Indique si un accusé de lecture a été demandé ou "
+"reçu."
 
 #: ../../advanced_email_management/toc.rst:236
 msgid ""
 "**Address In**: Specifies specific addresses (e.g., sender, or recipient)"
 " that exist in the contacts or frequent emails."
 msgstr ""
+"**Adresse dans** : Spécifie des adresses spécifiques (par exemple, "
+"l'expéditeur ou le destinataire) qui existent dans les contacts ou les "
+"courriels fréquents."
 
 #: ../../advanced_email_management/toc.rst:237
 msgid ""
 "**Calendar**: Specifies events or calendar-related information within the"
 " email, such as whether the invitation has been replied to."
 msgstr ""
+"**Calendrier** : Spécifie les événements ou les informations liées au "
+"calendrier dans l'email, par exemple si l'invitation a fait l'objet d'une "
+"réponse."
 
 #: ../../advanced_email_management/toc.rst:238
 msgid "**Social**: Specifies social media-related content within the email."
-msgstr ""
+msgstr "**Social** : Spécifie le contenu de l'email lié aux réseaux sociaux."
 
 #: ../../advanced_email_management/toc.rst:239
 msgid "**Header Named**: Specifies a custom email header name."
-msgstr ""
+msgstr "**Nom de l'entête** : Spécifie un nom d'entête d'email personnalisé."
 
 #: ../../advanced_email_management/toc.rst:241
 msgid ""
 "You can choose anything among these values and your next field values "
 "will appear accordingly."
 msgstr ""
+"Vous pouvez choisir n'importe laquelle de ces valeurs et les valeurs des "
+"champs suivants apparaîtront en conséquence."
 
 #: ../../advanced_email_management/toc.rst:243
 msgid ""
@@ -802,16 +884,28 @@ msgid ""
 "selectable values in this field. Similarly, for all other values of the "
 "first field, you will get a different set of values for this field."
 msgstr ""
+"**Deuxième champ** : En fonction de la valeur du premier champ, vous pourrez "
+"choisir des valeurs pour ce champ. Voici un exemple. Si vous choisissez De "
+"comme valeur dans le premier champ, vous pourrez choisir les valeurs "
+"suivantes dans ce champ. (c.-à-d. correspond exactement, ne correspond pas "
+"exactement, contient, ne contient pas, correspond à la condition du joker, "
+"ne correspond pas à la condition du joker). Mais si vous choisissez Taille "
+"comme valeur dans le premier champ, vous obtiendrez Inférieur, Non "
+"inférieur, Supérieur et Non supérieur comme valeurs sélectionnables dans ce "
+"champ. De même, pour toutes les autres valeurs du premier champ, vous "
+"obtiendrez un ensemble différent de valeurs pour ce champ."
 
 #: ../../advanced_email_management/toc.rst:245
 msgid ""
 "Depending on the First field and second field, you may get additional "
 "fields with different values."
 msgstr ""
+"En fonction du premier et du deuxième champ, vous pouvez obtenir des champs "
+"supplémentaires avec des valeurs différentes."
 
 #: ../../advanced_email_management/toc.rst:247
 msgid "How to create actions:"
-msgstr ""
+msgstr "Comment créer des actions :"
 
 #: ../../advanced_email_management/toc.rst:249
 msgid ""
@@ -819,48 +913,59 @@ msgid ""
 "determine the actions to be taken if the specified conditions are met. "
 "Actions have a few paths to set such as:"
 msgstr ""
+"Dans la section Action, vous pouvez configurer différents champs. Ces champs "
+"déterminent les actions à entreprendre si les conditions spécifiées sont "
+"remplies. Les actions ont quelques chemins à définir, tels que :"
 
 #: ../../advanced_email_management/toc.rst:251
 msgid "**Discard**: Moves the email into the Junk folder."
-msgstr ""
+msgstr "**Rejeter** : Déplace l'email dans le dossier Spam."
 
 #: ../../advanced_email_management/toc.rst:252
 msgid "**Move Into Folder**: Transfers the email to a specified folder."
 msgstr ""
+"**Déplacer dans le dossier** : Transfère l'email dans un dossier spécifié."
 
 #: ../../advanced_email_management/toc.rst:253
 msgid "**Mark As**: Marks the email as read or flagged."
-msgstr ""
+msgstr "**Marquer comme** : Marque l'email comme lu ou signalé."
 
 #: ../../advanced_email_management/toc.rst:254
 msgid "**Tag With**: Assigns a tag to the email."
-msgstr ""
+msgstr "**Marquer avec** : Attribue une étiquette à l'email."
 
 #: ../../advanced_email_management/toc.rst:255
 msgid ""
 "**Redirect To Address**: Redirects the email to the specified email "
 "address."
 msgstr ""
+"**Rediriger vers l'adresse** : Redirige l'email vers l'adresse email "
+"spécifiée."
 
 #: ../../advanced_email_management/toc.rst:257
 msgid "Example:"
-msgstr ""
+msgstr "Exemple :"
 
 #: ../../advanced_email_management/toc.rst:259
 msgid ""
 "Let's implement a filter to automatically move incoming emails containing"
 " the keywords 'Drug' and 'Violence' into the Trash folder."
 msgstr ""
+"Mettons en place un filtre pour déplacer automatiquement les courriels "
+"entrants contenant les mots-clés « Drogue » et « Violence » dans le dossier "
+"Corbeille."
 
 #: ../../advanced_email_management/toc.rst:263
 msgid "Under Filters, choose **Incoming Message Filters**."
-msgstr ""
+msgstr "Sous Filtres, choisissez **Filtres de messages entrants**."
 
 #: ../../advanced_email_management/toc.rst:265
 msgid ""
 "Insert a name for your filter in the **Filter Name** field (e.g., drug "
 "junk mail)"
 msgstr ""
+"Insérez un nom pour votre filtre dans le champ **Nom du filtre** (par "
+"exemple, courrier indésirable)"
 
 #: ../../advanced_email_management/toc.rst:267
 msgid ""
@@ -868,6 +973,10 @@ msgid ""
 "condition, meaning if either 'Drug' or 'Violence' is found in the email, "
 "it will be moved to the junk folder."
 msgstr ""
+"Dans la section **Conditions**, sélectionnez **Toutes**. Nous l'avons réglé "
+"pour qu'il corresponde à n'importe quelle condition, ce qui signifie que si "
+"l'email contient les mots « drogue » ou « violence », il sera déplacé dans "
+"le dossier « courrier indésirable »."
 
 #: ../../advanced_email_management/toc.rst:268
 msgid ""
@@ -876,10 +985,14 @@ msgid ""
 "that any email containing the word 'Violence' in its body should trigger "
 "the filter."
 msgstr ""
+"Dans le premier champ, sélectionnez **Corps**, dans le deuxième champ, "
+"sélectionnez **Contient**, et enfin dans le troisième champ, écrivez "
+"*Violence* pour spécifier que tout email contenant le mot « Violence » dans "
+"son corps doit déclencher le filtre."
 
 #: ../../advanced_email_management/toc.rst:269
 msgid "Click on the **+** button to add another condition."
-msgstr ""
+msgstr "Cliquez sur le bouton **+** pour ajouter une autre condition."
 
 #: ../../advanced_email_management/toc.rst:270
 msgid ""
@@ -888,26 +1001,30 @@ msgid ""
 " any email containing the word 'Drug' in its body should trigger the "
 "filter."
 msgstr ""
+"Dans le premier champ, sélectionnez **Corps**, dans le deuxième champ, "
+"sélectionnez **Contient**, et enfin dans le troisième champ, écrivez *Drogue*"
+" pour spécifier que tout courriel contenant le mot « Drogue » dans son corps "
+"doit déclencher le filtre."
 
 #: ../../advanced_email_management/toc.rst:271
 msgid "Under the **Actions** section, choose **Move Into Folder**."
-msgstr ""
+msgstr "Dans la section **Actions**, choisissez **Déplacer dans le dossier**."
 
 #: ../../advanced_email_management/toc.rst:272
 msgid "Click **BROWSE**, and a new window appears."
-msgstr ""
+msgstr "Cliquez sur **PARCOURIR**, et une nouvelle fenêtre s'affiche."
 
 #: ../../advanced_email_management/toc.rst:273
 msgid "Select your Trash folder and click **CHOOSE**."
-msgstr ""
+msgstr "Sélectionnez votre dossier Corbeille et cliquez sur **CHOISIR**."
 
 #: ../../advanced_email_management/toc.rst:275
 msgid "Click CREATE."
-msgstr ""
+msgstr "Cliquez sur CRÉER."
 
 #: ../../advanced_email_management/toc.rst:282
 msgid "Activating/Deactivating a Filter"
-msgstr ""
+msgstr "Activer/désactiver un filtre"
 
 #: ../../advanced_email_management/toc.rst:284
 msgid ""
@@ -915,6 +1032,10 @@ msgid ""
 " checkbox. If selected, your filter will be placed in the Active Filters "
 "section; otherwise, it will be listed under **Available Filters**."
 msgstr ""
+"Lorsque vous créez un filtre, vous avez la possibilité de cocher la case **"
+"Filtre actif**. Si cette case est cochée, votre filtre sera placé dans la "
+"section Filtres actifs ; sinon, il sera répertorié dans la section **Filtres "
+"disponibles**."
 
 #: ../../advanced_email_management/toc.rst:286
 msgid ""
@@ -923,6 +1044,11 @@ msgid ""
 "are inactive but can be retained for future use. You have the flexibility"
 " to move them into the Active Filters section whenever needed."
 msgstr ""
+"Les filtres actifs sont opérationnels et seront appliqués automatiquement "
+"aux courriels. À l'inverse, les filtres conservés dans la section Filtres "
+"disponibles sont inactifs mais peuvent être conservés pour une utilisation "
+"ultérieure. Vous avez la possibilité de les déplacer dans la section Filtres "
+"actifs à tout moment."
 
 #: ../../advanced_email_management/toc.rst:288
 msgid ""
@@ -931,6 +1057,11 @@ msgid ""
 "button. This action will transfer the filter to the Available Filters "
 "section, where it will remain inactive until reactivated."
 msgstr ""
+"Pour déplacer un filtre de la section Filtres actifs vers la section Filtres "
+"disponibles, il suffit de sélectionner le filtre que vous souhaitez "
+"désactiver et de cliquer sur le bouton **SUPPRIMER**. Cette action "
+"transférera le filtre dans la section Filtres disponibles, où il restera "
+"inactif jusqu'à ce qu'il soit réactivé."
 
 #: ../../advanced_email_management/toc.rst:289
 msgid ""
@@ -939,10 +1070,15 @@ msgid ""
 "This action will transfer the filter to the Available Filters section, "
 "where it will remain active until deactivated."
 msgstr ""
+"Pour déplacer un filtre de la section Filtres disponibles vers la section "
+"Filtres actifs, il suffit de sélectionner le filtre que vous souhaitez "
+"activer et de cliquer sur le bouton **AJOUTER**. Cette action transférera le "
+"filtre dans la section Filtres disponibles, où il restera actif jusqu'à ce "
+"qu'il soit désactivé."
 
 #: ../../advanced_email_management/toc.rst:292
 msgid "Applying a Filter to Existing Emails"
-msgstr ""
+msgstr "Appliquer un filtre à des emails existants"
 
 #: ../../advanced_email_management/toc.rst:294
 msgid ""
@@ -951,16 +1087,25 @@ msgid ""
 "instance, you can create a filter to move all emails containing the word "
 "'Violence' into the junk folder to tidy up your inbox."
 msgstr ""
+"Les filtres actifs sont automatiquement appliqués aux nouveaux courriels, "
+"tandis que pour la gestion des courriels existants, vous devrez peut-être "
+"appliquer un filtre manuellement. Par exemple, vous pouvez créer un filtre "
+"pour déplacer tous les courriels contenant le mot « Violence » dans le "
+"dossier des indésirables afin de mettre de l'ordre dans votre boîte de "
+"réception."
 
 #: ../../advanced_email_management/toc.rst:296
 msgid ""
 "This manual application allows you to organize existing emails according "
 "to your preferences."
 msgstr ""
+"Cette application manuelle vous permet d'organiser les courriels existants "
+"selon vos préférences."
 
 #: ../../advanced_email_management/toc.rst:298
 msgid "To apply a filter to existing emails, follow these steps:"
 msgstr ""
+"Pour appliquer un filtre à des courriels existants, procédez comme suit :"
 
 #: ../../advanced_email_management/toc.rst:302
 #: ../../advanced_email_management/toc.rst:340
@@ -968,32 +1113,38 @@ msgid ""
 "Under Filters, choose **Incoming Message Filters** or **Outgoing Message "
 "Filters**, depending on where your filter is located."
 msgstr ""
+"Sous Filtres, choisissez **Filtres de messages entrants** ou **Filtres de "
+"messages sortants**, en fonction de l'emplacement de votre filtre."
 
 #: ../../advanced_email_management/toc.rst:303
 msgid "Select the filter you want to apply from the list."
-msgstr ""
+msgstr "Sélectionnez le filtre que vous souhaitez appliquer dans la liste."
 
 #: ../../advanced_email_management/toc.rst:304
 msgid "Click **APPLY**. A new window will appear."
-msgstr ""
+msgstr "Cliquez sur **APPLIQUER**. Une nouvelle fenêtre apparaît."
 
 #: ../../advanced_email_management/toc.rst:305
 msgid ""
 "From the drop-down menu, select the folder you want the filter to be "
 "applied to."
 msgstr ""
+"Dans le menu déroulant, sélectionnez le dossier auquel vous souhaitez "
+"appliquer le filtre."
 
 #: ../../advanced_email_management/toc.rst:306
 msgid "Click **APPLY** to confirm and execute the filter on existing emails."
 msgstr ""
+"Cliquez sur **ACCEPTER** pour confirmer et exécuter le filtre sur les "
+"courriels existants."
 
 #: ../../advanced_email_management/toc.rst:310
 msgid "Editing a Filter"
-msgstr ""
+msgstr "Modification d'un filtre"
 
 #: ../../advanced_email_management/toc.rst:312
 msgid "To edit an existing filter, follow these steps:"
-msgstr ""
+msgstr "Pour modifier un filtre existant, procédez comme suit :"
 
 #: ../../advanced_email_management/toc.rst:316
 #: ../../advanced_email_management/toc.rst:329
@@ -1001,46 +1152,53 @@ msgid ""
 "Under Filters, choose Incoming **Message Filters** or **Outgoing Message "
 "Filters**, depending on where your filter is located."
 msgstr ""
+"Sous Filtres, choisissez **Filtres de messages entrants** ou **sortants**, "
+"en fonction de l'emplacement de votre filtre."
 
 #: ../../advanced_email_management/toc.rst:317
 msgid "Select the filter you want to edit from the list."
-msgstr ""
+msgstr "Sélectionnez le filtre que vous souhaitez modifier dans la liste."
 
 #: ../../advanced_email_management/toc.rst:318
 msgid "Click **EDIT**. A new window will appear."
-msgstr ""
+msgstr "Cliquez sur **MODIFIER**. Une nouvelle fenêtre apparaît."
 
 #: ../../advanced_email_management/toc.rst:319
 msgid ""
 "Perform your edits, ensuring the filter is set up according to your "
 "preferences."
 msgstr ""
+"Effectuez vos modifications, en veillant à ce que le filtre soit configuré "
+"selon vos préférences."
 
 #: ../../advanced_email_management/toc.rst:320
 msgid "Click **SAVE** to confirm and apply the changes."
 msgstr ""
+"Cliquez sur **SAUVEGARDER** pour confirmer et appliquer les modifications."
 
 #: ../../advanced_email_management/toc.rst:323
 msgid "Deleting a Filter"
-msgstr ""
+msgstr "Suppression d'un filtre"
 
 #: ../../advanced_email_management/toc.rst:325
 msgid "To delete an existing filter, follow these steps:"
-msgstr ""
+msgstr "Pour supprimer un filtre existant, procédez comme suit :"
 
 #: ../../advanced_email_management/toc.rst:330
 msgid "Select the filter you want to delete from the list."
-msgstr ""
+msgstr "Sélectionnez le filtre que vous souhaitez supprimer de la liste."
 
 #: ../../advanced_email_management/toc.rst:331
 msgid ""
 "Click **DELETE**. A new window will appear; click **DELETE** again to "
 "confirm and remove the selected filter."
 msgstr ""
+"Cliquez sur **SUPPRIMER**. Une nouvelle fenêtre s'affiche ; cliquez à "
+"nouveau sur **SUPPRIMER** pour confirmer et supprimer le filtre sélectionné."
 
 #: ../../advanced_email_management/toc.rst:334
 msgid "Change Filter Order"
-msgstr ""
+msgstr "Modifier l'ordre des filtres"
 
 #: ../../advanced_email_management/toc.rst:336
 msgid ""
@@ -1048,20 +1206,25 @@ msgid ""
 "to adjust the order of filters at any point to influence their priority "
 "in processing emails. To change the order:"
 msgstr ""
+"L'ordre des filtres détermine leur application. Vous avez la possibilité de "
+"modifier l'ordre des filtres à tout moment afin d'influencer leur priorité "
+"dans le traitement des courriels. Pour modifier l'ordre :"
 
 #: ../../advanced_email_management/toc.rst:341
 msgid "Select a filter whose order you want to modify."
-msgstr ""
+msgstr "Sélectionnez un filtre dont vous souhaitez modifier l'ordre."
 
 #: ../../advanced_email_management/toc.rst:342
 msgid ""
 "Click the downward or upward arrow to adjust the position of the selected"
 " filter, thereby changing its order in the list."
 msgstr ""
+"Cliquez sur la flèche vers le bas ou vers le haut pour ajuster la position "
+"du filtre sélectionné, modifiant ainsi son ordre dans la liste."
 
 #: ../../advanced_email_management/toc.rst:345
 msgid "Account Signatures"
-msgstr ""
+msgstr "Signatures"
 
 #: ../../advanced_email_management/toc.rst:347
 msgid ""
@@ -1076,20 +1239,33 @@ msgid ""
 "email identities, often referred to as personas, you can devise distinct "
 "signatures and allocate them to specific addresses."
 msgstr ""
+"Incorporer une signature automatique à la fin de vos courriels est une "
+"pratique courante. Une signature comprend généralement votre nom et tout "
+"texte supplémentaire. Si vous utilisez un **éditeur de texte riche**, vous "
+"avez la possibilité de formater votre signature, d'insérer des URL pour les "
+"liens et d'inclure des graphiques. Il est également possible de créer "
+"plusieurs signatures pour répondre à différents contextes. Par exemple, vous "
+"pouvez opter pour une signature formelle adaptée à la correspondance avec "
+"les clients, tout en réservant une signature informelle à la communication "
+"avec les amis. En outre, si vous gérez plusieurs identités de courrier "
+"électronique, souvent appelées « personas », vous pouvez concevoir des "
+"signatures distinctes et les attribuer à des adresses spécifiques."
 
 #: ../../advanced_email_management/toc.rst:351
 msgid "Using Signatures"
-msgstr ""
+msgstr "Utilisation des signatures"
 
 #: ../../advanced_email_management/toc.rst:353
 msgid ""
 "To ensure that signatures appear in your email, you must switch to the "
 "**rich text editor** while composing."
 msgstr ""
+"Pour que les signatures apparaissent dans votre courrier électronique, vous "
+"devez passer à l'**éditeur de texte riche** pendant leur rédaction."
 
 #: ../../advanced_email_management/toc.rst:355
 msgid "Follow these steps to toggle the rich text editor on:"
-msgstr ""
+msgstr "Procédez comme suit pour activer l'éditeur de texte enrichi :"
 
 #: ../../advanced_email_management/toc.rst:357
 #: ../../advanced_email_management/toc.rst:369
@@ -1097,10 +1273,13 @@ msgid ""
 "Click on the **three vertical dots** located in the top-right corner of "
 "the compose board."
 msgstr ""
+"Cliquez sur les **trois points verticaux** situés dans le coin supérieur "
+"droit du tableau de composition."
 
 #: ../../advanced_email_management/toc.rst:358
 msgid "Select **Enable rich text editor** from the menu that appears."
 msgstr ""
+"Sélectionnez **Activer l'éditeur de texte riche** dans le menu qui s'affiche."
 
 #: ../../advanced_email_management/toc.rst:360
 msgid ""
@@ -1110,10 +1289,16 @@ msgid ""
 "composing board, automatically applying the respective signatures "
 "assigned to each identity/persona."
 msgstr ""
+"Lorsqu'une signature est définie, elle est visible à la fin de l'email que "
+"vous êtes en train de rédiger. En outre, vous pouvez passer sans effort "
+"d'une identité ou d'une personnalité à l'autre en les sélectionnant dans le "
+"coin supérieur gauche du tableau de composition, ce qui permet d'appliquer "
+"automatiquement les signatures respectives attribuées à chaque "
+"identité/personne."
 
 #: ../../advanced_email_management/toc.rst:363
 msgid "Sending S/MIME signed emails"
-msgstr ""
+msgstr "Envoi de courriels signés S/MIME"
 
 #: ../../advanced_email_management/toc.rst:365
 msgid ""
@@ -1121,48 +1306,58 @@ msgid ""
 "email encryption and signing, providing authentication, integrity, and "
 "non-repudiation for emails. Here’s how you can send S/MIME-signed emails:"
 msgstr ""
+"S/MIME (Secure/Multipurpose Internet Mail Extensions) est une norme de "
+"cryptage et de signature des courriers électroniques, qui assure "
+"l'authentification, l'intégrité et la non-répudiation des courriers "
+"électroniques. Voici comment envoyer des courriels signés S/MIME :"
 
 #: ../../advanced_email_management/toc.rst:370
 msgid "Select **Use Certificate to sign (S/MIME)** from the menu that appears."
 msgstr ""
+"Sélectionnez **Utiliser un certificat pour signer (S/MIME)** dans le menu "
+"qui s'affiche."
 
 #: ../../advanced_email_management/toc.rst:371
 msgid ""
 "Attach the certificate in the proper space (or just browse you documents "
 "to insert it)."
 msgstr ""
+"Joignez le certificat dans l'espace prévu à cet effet (ou parcourez "
+"simplement vos documents pour l'insérer)."
 
 #: ../../advanced_email_management/toc.rst:372
 msgid "Insert the **password** for the uploaded certificate."
-msgstr ""
+msgstr "Insérez le **mot de passe** pour le certificat téléchargé."
 
 #: ../../advanced_email_management/toc.rst:373
 msgid "Click **Upload** to insert the S/MIME signature."
-msgstr ""
+msgstr "Cliquez sur **Téléverser** pour insérer la signature S/MIME."
 
 #: ../../advanced_email_management/toc.rst:375
 msgid "You can now send your S/MIME-signed email."
-msgstr ""
+msgstr "Vous pouvez maintenant envoyer vos courriels signés S/MIME."
 
 #: ../../advanced_email_management/toc.rst:379
 msgid "Creating Signatures"
-msgstr ""
+msgstr "Création de signatures"
 
 #: ../../advanced_email_management/toc.rst:381
 msgid "To create a signature:"
-msgstr ""
+msgstr "Pour créer une signature :"
 
 #: ../../advanced_email_management/toc.rst:385
 msgid "Under the **Signatures** section, click **ADD SIGNATURE**."
-msgstr ""
+msgstr "Dans la section **Signatures**, cliquez sur **AJOUTER UNE SIGNATURE**."
 
 #: ../../advanced_email_management/toc.rst:386
 msgid "Provide a name for the signature in the designated field."
-msgstr ""
+msgstr "Indiquez le nom de la signature dans le champ prévu à cet effet."
 
 #: ../../advanced_email_management/toc.rst:387
 msgid "Utilize the rich text editor on the right side to compose your signature."
 msgstr ""
+"Utilisez l'éditeur de texte riche sur le côté droit pour rédiger votre "
+"signature."
 
 #: ../../advanced_email_management/toc.rst:388
 #: ../../advanced_email_management/toc.rst:409
@@ -1171,53 +1366,65 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:471
 #: ../../advanced_email_management/toc.rst:522
 msgid "Click **SAVE** from the top-right corner."
-msgstr ""
+msgstr "Cliquez sur **ENREGISTRER** dans le coin supérieur droit."
 
 #: ../../advanced_email_management/toc.rst:390
 msgid ""
 "Anything composed in this section will automatically append to the end of"
 " your email as shown in the following example::"
 msgstr ""
+"Tout ce qui est composé dans cette section sera automatiquement ajouté à la "
+"fin de votre courriel, comme le montre l'exemple suivant :"
 
 #: ../../advanced_email_management/toc.rst:401
 msgid "Editing Signatures"
-msgstr ""
+msgstr "Modification des signatures"
 
 #: ../../advanced_email_management/toc.rst:403
 msgid "To edit a signature:"
-msgstr ""
+msgstr "Pour modifier une signature :"
 
 #: ../../advanced_email_management/toc.rst:407
 msgid "Under the **Signatures** section, click on the signature you want to edit."
 msgstr ""
+"Dans la section **Signatures**, cliquez sur la signature que vous souhaitez "
+"modifier."
 
 #: ../../advanced_email_management/toc.rst:408
 msgid "Utilize the rich text editor on the right side to edit your signature."
 msgstr ""
+"Utilisez l'éditeur de texte riche sur le côté droit pour modifier votre "
+"signature."
 
 #: ../../advanced_email_management/toc.rst:412
 msgid "Removing Signatures"
-msgstr ""
+msgstr "Suppression des signatures"
 
 #: ../../advanced_email_management/toc.rst:414
 msgid "To remove a signature:"
-msgstr ""
+msgstr "Suppression de signature :"
 
 #: ../../advanced_email_management/toc.rst:418
 msgid ""
 "Under the **Signatures section**, click on the signature you want to "
 "remove."
 msgstr ""
+"Dans la section **Signatures**, cliquez sur la signature que vous souhaitez "
+"supprimer."
 
 #: ../../advanced_email_management/toc.rst:419
 msgid ""
 "Hover your mouse cursor over the signature name. A red button labeled "
 "**DELETE** will appear. Click on it, and the signature will be removed."
 msgstr ""
+"Placez le curseur de votre souris sur le nom de la signature. Un bouton "
+"rouge intitulé **SUPPRIMER** apparaît. Cliquez dessus et la signature sera "
+"supprimée."
 
 #: ../../advanced_email_management/toc.rst:423
 msgid "Assign Different Signatures to Different Identities / Personas"
 msgstr ""
+"Attribuer des signatures différentes à des identités/personnes différentes"
 
 #: ../../advanced_email_management/toc.rst:425
 msgid ""
@@ -1225,16 +1432,22 @@ msgid ""
 "signature. This ensures that when selecting an identity/persona while "
 "composing an email, the appropriate signature is automatically applied."
 msgstr ""
+"Vous pouvez personnaliser chaque compte ou identité avec une signature "
+"unique. Ainsi, lorsque vous sélectionnez une identité/personne lors de la "
+"rédaction d'un courriel, la signature appropriée est automatiquement "
+"appliquée."
 
 #: ../../advanced_email_management/toc.rst:427
 msgid "To assign each identity/persona a signature:"
-msgstr ""
+msgstr "Attribuer une signature à chaque identité/personne :"
 
 #: ../../advanced_email_management/toc.rst:431
 msgid ""
 "In the Signatures Usage section, choose a signature for each "
 "persona/identity from the dropdown menu provided."
 msgstr ""
+"Dans la section Utilisation des signatures, choisissez une signature pour "
+"chaque personne/identité dans le menu déroulant proposé."
 
 #: ../../advanced_email_management/toc.rst:434
 msgid ""
@@ -1242,16 +1455,22 @@ msgid ""
 " from the top-left corner of the composing board, automatically applying "
 "the respective signatures assigned to each identity/persona."
 msgstr ""
+"Vous pouvez facilement passer d'une identité ou d'une personne à l'autre en "
+"les sélectionnant dans le coin supérieur gauche du tableau de composition, "
+"en appliquant automatiquement les signatures respectives attribuées à chaque "
+"identité ou personne."
 
 #: ../../advanced_email_management/toc.rst:437
 msgid "Changing Signature While Composing An Email"
-msgstr ""
+msgstr "Modification de la signature lors de la rédaction d'un email"
 
 #: ../../advanced_email_management/toc.rst:439
 msgid ""
 "If you have set two or more signatures, you can easily switch between "
 "them, while you are writing an email."
 msgstr ""
+"Si vous avez défini deux signatures ou plus, vous pouvez facilement passer "
+"de l'une à l'autre pendant la rédaction d'un courriel."
 
 #: ../../advanced_email_management/toc.rst:441
 msgid ""
@@ -1261,10 +1480,15 @@ msgid ""
 " signature* option, if you want to completely remove the signature from "
 "the current email."
 msgstr ""
+"Il vous suffit de cliquer sur l'icône du **stylo plume** en haut de l'onglet "
+"de composition et de choisir celle que vous souhaitez utiliser parmi les "
+"différentes options de la liste, en fonction des signatures existantes. Vous "
+"pouvez également choisir l'option *Ne pas utiliser de signature*, si vous "
+"souhaitez supprimer complètement la signature de l'email en cours."
 
 #: ../../advanced_email_management/toc.rst:449
 msgid "Email Delegations"
-msgstr ""
+msgstr "Délégations d'emails"
 
 #: ../../advanced_email_management/toc.rst:451
 msgid ""
@@ -1275,6 +1499,13 @@ msgid ""
 "when sending emails on your behalf, with your name selected from the From"
 " field drop-down menu as the sender."
 msgstr ""
+"Vous pouvez autoriser d'autres personnes à envoyer des courriels en votre "
+"nom. Lorsque quelqu'un envoie un courriel en votre nom, le destinataire voit "
+"à la fois votre nom et celui de l'expéditeur. Il est important de noter que "
+"cela n'équivaut pas à partager l'intégralité de votre boîte de réception. "
+"L'expéditeur opère à partir de son compte de messagerie lorsqu'il envoie des "
+"courriels en votre nom, avec votre nom sélectionné dans le menu déroulant du "
+"champ De en tant qu'expéditeur."
 
 #: ../../advanced_email_management/toc.rst:453
 msgid ""
@@ -1285,6 +1516,13 @@ msgid ""
 "to send an email to that person, their email address appears in the menu,"
 " without including your address in the email."
 msgstr ""
+"De même, si vous avez reçu l'autorisation d'envoyer des courriels au nom de "
+"quelqu'un d'autre, vous pouvez le faire en indiquant l'adresse électronique "
+"de cette personne comme expéditeur. Dans ce cas, l'adresse « De » affichera "
+"à la fois votre adresse électronique et celle de la personne que vous "
+"représentez. Lorsque vous avez reçu l'autorisation d'envoyer un courriel à "
+"cette personne, son adresse électronique apparaît dans le menu, sans que "
+"votre adresse soit incluse dans le courriel."
 
 #: ../../advanced_email_management/toc.rst:455
 msgid ""
@@ -1297,10 +1535,21 @@ msgid ""
 "to act on behalf of others while maintaining clarity about the sender's "
 "identity."
 msgstr ""
+"La délégation de courrier électronique peut s'avérer particulièrement utile "
+"lorsque vous avez besoin que quelqu'un d'autre s'occupe de votre "
+"correspondance électronique en votre nom, par exemple lorsque vous n'êtes "
+"pas au bureau ou que vous gérez des responsabilités multiples. Elle permet "
+"de gérer efficacement les courriels sans avoir besoin d'accéder directement "
+"à votre boîte de réception, ce qui rationalise les processus de "
+"communication. Cette fonction est particulièrement pratique pour les cadres, "
+"les assistants ou les membres d'une équipe qui doivent agir au nom d'autres "
+"personnes tout en conservant une certaine clarté quant à l'identité de "
+"l'expéditeur."
 
 #: ../../advanced_email_management/toc.rst:459
 msgid "Delegating Others to Send Emails on Your Behalf"
 msgstr ""
+"Déléguer à d'autres personnes l'envoi de courriers électroniques en votre nom"
 
 #: ../../advanced_email_management/toc.rst:461
 msgid ""
@@ -1308,30 +1557,39 @@ msgid ""
 "so, your name and email address appear as the sender, even though the "
 "message is dispatched from the delegate's inbox."
 msgstr ""
+"Vous pouvez autoriser d'autres personnes à envoyer des messages en votre "
+"nom. Lorsqu'elles le font, votre nom et votre adresse électronique "
+"apparaissent en tant qu'expéditeur, même si le message est envoyé depuis la "
+"boîte de réception du délégué."
 
 #: ../../advanced_email_management/toc.rst:463
 msgid "To set this up:"
-msgstr ""
+msgstr "Pour mettre cela en place :"
 
 #: ../../advanced_email_management/toc.rst:466
 #: ../../advanced_email_management/toc.rst:519
 #: ../../advanced_email_management/toc.rst:534
 msgid "Select **Accounts**."
-msgstr ""
+msgstr "Sélectionnez **Comptes**."
 
 #: ../../advanced_email_management/toc.rst:467
 msgid "In the Delegates section, click **ADD DELEGATE**."
-msgstr ""
+msgstr "Dans la section Délégués, cliquez sur **AJOUTER UN DELEGUÉ**."
 
 #: ../../advanced_email_management/toc.rst:468
 msgid ""
 "Enter the email address of the person you are authorizing; this should be"
 " an internal user's address like one of your colleagues."
 msgstr ""
+"Saisissez l'adresse électronique de la personne que vous autorisez ; il doit "
+"s'agir de l'adresse d'un utilisateur interne, par exemple l'un de vos "
+"collègues."
 
 #: ../../advanced_email_management/toc.rst:469
 msgid "Choose the permissions you wish to grant, and then click **OK**."
 msgstr ""
+"Choisissez les autorisations que vous souhaitez accorder, puis cliquez sur "
+"**OK**."
 
 #: ../../advanced_email_management/toc.rst:470
 msgid ""
@@ -1339,16 +1597,22 @@ msgid ""
 "you want to get a copy of the email sent by the delegate. Otherwise, you "
 "can choose different options based on your preferences."
 msgstr ""
+"Choisissez Enregistrer une copie des messages envoyés dans mon dossier "
+"Envoyés dans la liste, si vous souhaitez obtenir une copie de l'email envoyé "
+"par le délégué. Sinon, vous pouvez choisir différentes options en fonction "
+"de vos préférences."
 
 #: ../../advanced_email_management/toc.rst:473
 msgid ""
 "An email notification will be sent to the designated person, informing "
 "them of their newly acquired delegate permissions."
 msgstr ""
+"Une notification par courrier électronique sera envoyée à la personne "
+"désignée, l'informant de ses nouvelles autorisations de délégué."
 
 #: ../../advanced_email_management/toc.rst:480
 msgid "Sending Email on Behalf of Someone Else"
-msgstr ""
+msgstr "Envoi d'un courriel au nom de quelqu'un d'autre"
 
 #: ../../advanced_email_management/toc.rst:482
 msgid ""
@@ -1361,10 +1625,18 @@ msgid ""
 "be available in the menu. When selected, your address will be omitted "
 "from the email."
 msgstr ""
+"Si vous avez reçu des autorisations de délégué pour une autre personne, vous "
+"pouvez envoyer des courriels en son nom. Lors de la rédaction d'un courriel, "
+"cliquez sur le coin supérieur gauche où s'affiche le nom de votre compte. À "
+"partir de là, vous pouvez sélectionner votre adresse électronique, ainsi que "
+"toute autre identité ou personas que vous pourriez avoir, et la personne que "
+"vous représentez. Si vous avez été autorisé à envoyer des messages en tant "
+"que cette personne, son adresse électronique sera disponible dans le menu. "
+"Si vous la sélectionnez, votre adresse sera omise du message."
 
 #: ../../advanced_email_management/toc.rst:491
 msgid "Account Personas"
-msgstr ""
+msgstr "Identités de comptes"
 
 #: ../../advanced_email_management/toc.rst:493
 msgid ""
@@ -1374,12 +1646,19 @@ msgid ""
 "email identities known as personas, which can be used to manage different"
 " types of emails."
 msgstr ""
+"Lors de l'envoi de courriels, chaque courriel est associé à un compte de "
+"messagerie. Par défaut, votre identité principale est liée à votre nom de "
+"compte lors de la configuration de votre compte de messagerie. Cependant, "
+"vous avez la possibilité de créer des identités supplémentaires, appelées "
+"Identités, qui peuvent être utilisées pour gérer différents types d'emails."
 
 #: ../../advanced_email_management/toc.rst:495
 msgid ""
 "For instance, you might establish one persona for your sales "
 "correspondence and another for personal emails."
 msgstr ""
+"Par exemple, vous pouvez créer une Identité pour votre correspondance "
+"commerciale et une autre pour vos courriels personnels."
 
 #: ../../advanced_email_management/toc.rst:497
 #: ../../advanced_email_management/toc.rst:502
@@ -1387,72 +1666,91 @@ msgid ""
 "If you have multiple personas or external accounts linked, you can choose"
 " the specific persona you wish to utilize when sending an email."
 msgstr ""
+"Si plusieurs Identités ou comptes externes sont liés, vous pouvez choisir "
+"l'Identité spécifique que vous souhaitez utiliser lors de l'envoi d'un "
+"courrier électronique."
 
 #: ../../advanced_email_management/toc.rst:500
 msgid "Using Personas"
-msgstr ""
+msgstr "Utilisation des Identités"
 
 #: ../../advanced_email_management/toc.rst:504
 msgid "You can send emails from different personas while composing a message."
 msgstr ""
+"Vous pouvez envoyer des courriels à partir de différentes Identités lors de "
+"la rédaction d'un message."
 
 #: ../../advanced_email_management/toc.rst:506
 msgid ""
 "The recipient will see the username aligned with the selected persona as "
 "the sender of the emails."
 msgstr ""
+"Le destinataire verra le nom d'utilisateur aligné sur l'Identité "
+"sélectionnée comme expéditeur des courriels."
 
 #: ../../advanced_email_management/toc.rst:508
 msgid "To switch personas, follow these steps:"
-msgstr ""
+msgstr "Pour changer d'Identité, suivez les étapes suivantes :"
 
 #: ../../advanced_email_management/toc.rst:510
 msgid ""
 "Click on your email address located at the **top left corner** of the "
 "composing board when composing your email."
 msgstr ""
+"Cliquez sur votre adresse email située dans le **coin supérieur gauche** du "
+"tableau de composition lorsque vous rédigez votre email."
 
 #: ../../advanced_email_management/toc.rst:511
 msgid "Choose your preferred persona from the menu."
-msgstr ""
+msgstr "Choisissez votre Identité préférée dans le menu."
 
 #: ../../advanced_email_management/toc.rst:514
 msgid "Creating Personas"
-msgstr ""
+msgstr "Création d'Identités"
 
 #: ../../advanced_email_management/toc.rst:516
 msgid "To create a new persona alongside your default one:"
-msgstr ""
+msgstr "Pour créer une nouvelle Identité à côté de votre Identité par défaut :"
 
 #: ../../advanced_email_management/toc.rst:520
 msgid "Under the Accounts list section, click **ADD PERSONA**."
 msgstr ""
+"Dans la section de la liste des comptes, cliquez sur **AJOUTER UNE "
+"IDENTITÉ**."
 
 #: ../../advanced_email_management/toc.rst:521
 msgid ""
 "Under the **Persona Settings** section, choose a name for the added "
 "persona."
 msgstr ""
+"Dans la section **Paramètres Identité**, choisissez un nom pour l'Identité "
+"ajoutée."
 
 #: ../../advanced_email_management/toc.rst:529
 msgid "Removing Personas"
-msgstr ""
+msgstr "Suppression des Identités"
 
 #: ../../advanced_email_management/toc.rst:531
 msgid "To remove a persona:"
-msgstr ""
+msgstr "Supprimer une Identité :"
 
 #: ../../advanced_email_management/toc.rst:535
 msgid "Under the Accounts list section, select the persona you wish to remove."
 msgstr ""
+"Dans la section Liste des comptes, sélectionnez l'Identité que vous "
+"souhaitez supprimer."
 
 #: ../../advanced_email_management/toc.rst:536
 msgid "Click **DELETE**, and then **DELETE PERMANENTLY** to confirm."
 msgstr ""
+"Cliquez sur **SUPPRIMER**, puis sur **SUPPRIMER DÉFINITIVEMENT** pour "
+"confirmer."
 
 #: ../../advanced_email_management/toc.rst:539
 msgid "Set Email Retention and Disposal Policies for a Folder"
 msgstr ""
+"Définir les règles de conservation et d'élimination des courriels pour un "
+"dossier"
 
 #: ../../advanced_email_management/toc.rst:541
 msgid ""
@@ -1463,10 +1761,18 @@ msgid ""
 "and surpassing the disposal threshold will undergo automated cleanup and "
 "deletion without requiring manual intervention."
 msgstr ""
+"La **politique de conservation** des courriels établit que les courriels "
+"stockés dans un dossier désigné et entrant dans la période de conservation "
+"nécessiteront une confirmation explicite avant d'être supprimés. "
+"Inversement, la **politique d'élimination** des courriels prévoit que les "
+"courriels résidant dans un dossier spécifié et dépassant le seuil "
+"d'élimination feront l'objet d'un nettoyage et d'une suppression automatisés "
+"sans intervention manuelle."
 
 #: ../../advanced_email_management/toc.rst:544
 msgid "To enable and set a **retention policy** for a folder:"
 msgstr ""
+"Pour activer et définir une **politique de rétention** pour un dossier :"
 
 #: ../../advanced_email_management/toc.rst:546
 #: ../../advanced_email_management/toc.rst:558
@@ -1474,27 +1780,33 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:34
 #: ../../basic_email_management/toc.rst:64
 msgid "From the left sidebar click on the **Mails** section."
-msgstr ""
+msgstr "Dans la barre latérale gauche, cliquez sur la section **Mails**."
 
 #: ../../advanced_email_management/toc.rst:547
 msgid ""
 "In the Navigation Panel, right-click on the folder for which you wish to "
 "set its retention policy."
 msgstr ""
+"Dans le panneau de navigation, cliquez avec le bouton droit de la souris sur "
+"le dossier dont vous souhaitez définir la politique de conservation."
 
 #: ../../advanced_email_management/toc.rst:548
 #: ../../advanced_email_management/toc.rst:560
 msgid "From the dropdown menu, select **Edit**. A new window appears."
 msgstr ""
+"Dans le menu déroulant, sélectionnez **Éditer**. Une nouvelle fenêtre "
+"apparaît."
 
 #: ../../advanced_email_management/toc.rst:549
 #: ../../advanced_email_management/toc.rst:561
 msgid "Click the downward arrow next to the **Retention policy** section."
 msgstr ""
+"Cliquez sur la flèche vers le bas à côté de la section **Politique de "
+"rétention**."
 
 #: ../../advanced_email_management/toc.rst:550
 msgid "Tick the box labeled Enable Message Retention."
-msgstr ""
+msgstr "Cochez la case Activer la conservation des messages."
 
 #: ../../advanced_email_management/toc.rst:551
 msgid ""
@@ -1502,11 +1814,14 @@ msgid ""
 "appropriate unit of time (such as days, weeks, etc.) from the adjacent "
 "dropdown menu."
 msgstr ""
+"Saisissez une valeur numérique dans le champ **Plage de rétention** et "
+"choisissez l'unité de temps appropriée (jours, semaines, etc.) dans le menu "
+"déroulant adjacent."
 
 #: ../../advanced_email_management/toc.rst:552
 #: ../../advanced_email_management/toc.rst:564 ../../tasks/toc.rst:41
 msgid "Click **EDIT**."
-msgstr ""
+msgstr "Cliquez sur **MODIFIER**."
 
 #: ../../advanced_email_management/toc.rst:554
 msgid ""
@@ -1514,20 +1829,26 @@ msgid ""
 "specified folder, requiring explicit confirmation before the deletion of "
 "emails within the retention period."
 msgstr ""
+"Après avoir cliqué sur MODIFIER, la politique de conservation sera activée "
+"pour le dossier spécifié, nécessitant une confirmation explicite avant la "
+"suppression des courriels pendant la période de conservation."
 
 #: ../../advanced_email_management/toc.rst:556
 msgid "To enable and set a **disposal policy** for a folder:"
 msgstr ""
+"Pour activer et définir une **politique d'élimination** pour un dossier :"
 
 #: ../../advanced_email_management/toc.rst:559
 msgid ""
 "In the Navigation Panel, right-click on the folder for which you wish to "
 "set its disposal policy."
 msgstr ""
+"Dans le panneau de navigation, cliquez avec le bouton droit de la souris sur "
+"le dossier dont vous souhaitez définir la politique d'élimination."
 
 #: ../../advanced_email_management/toc.rst:562
 msgid "Tick the box labeled Enable Message Disposal."
-msgstr ""
+msgstr "Cochez la case intitulée Activer la suppression des messages."
 
 #: ../../advanced_email_management/toc.rst:563
 msgid ""
@@ -1535,6 +1856,9 @@ msgid ""
 "the appropriate unit of time (such as days, weeks, etc.) from the "
 "adjacent dropdown menu."
 msgstr ""
+"Saisissez une valeur numérique dans le champ **Seuil de suppression** et "
+"choisissez l'unité de temps appropriée (jours, semaines, etc.) dans le menu "
+"déroulant adjacent."
 
 #: ../../advanced_email_management/toc.rst:566
 msgid ""
@@ -1542,10 +1866,13 @@ msgid ""
 " folder, triggering automated cleanup and deletion for emails surpassing "
 "the disposal threshold."
 msgstr ""
+"Après avoir cliqué sur MODIFIER, la politique de suppression sera appliquée "
+"au dossier spécifié, déclenchant le nettoyage et la suppression automatiques "
+"des courriels dépassant le seuil de suppression."
 
 #: ../../appointments/toc.rst:7
 msgid "Working with Appointments"
-msgstr ""
+msgstr "Utilisation des rendez-vous"
 
 #: ../../appointments/toc.rst:9
 msgid ""
@@ -1553,6 +1880,9 @@ msgid ""
 "the creation of both one-time and recurring events, meetings, and "
 "engagements."
 msgstr ""
+"Les rendez-vous sont des outils essentiels pour l'organisation des emplois "
+"du temps, permettant la création d'événements, de réunions et d'engagements "
+"ponctuels ou récurrents."
 
 #: ../../appointments/toc.rst:11
 msgid ""
@@ -1561,6 +1891,10 @@ msgid ""
 "necessary resources such as meeting rooms and equipment, and append "
 "personalized messages to invitations."
 msgstr ""
+"Cette fonction facilite la planification en permettant aux utilisateurs de "
+"vérifier la disponibilité des participants avant d'envoyer des invitations, "
+"de réserver les ressources nécessaires telles que les salles de réunion et "
+"l'équipement, et d'ajouter des messages personnalisés aux invitations."
 
 #: ../../appointments/toc.rst:13
 msgid ""
@@ -1568,14 +1902,17 @@ msgid ""
 "productive work environment where employees can effectively manage their "
 "time and collaborate seamlessly."
 msgstr ""
+"Ces fonctionnalités améliorent la communication et la coordination, "
+"favorisant un environnement de travail productif où les employés peuvent "
+"gérer efficacement leur temps et collaborer de manière transparente."
 
 #: ../../appointments/toc.rst:17
 msgid "Creating an Appointment"
-msgstr ""
+msgstr "Création d'un rendez-vous"
 
 #: ../../appointments/toc.rst:23
 msgid "To create a new appointment:"
-msgstr ""
+msgstr "Pour créer un nouveau rendez-vous :"
 
 #: ../../appointments/toc.rst:25 ../../appointments/toc.rst:56
 #: ../../appointments/toc.rst:67 ../../appointments/toc.rst:78
@@ -1589,7 +1926,7 @@ msgstr ""
 #: ../../calendars/toc.rst:262 ../../calendars/toc.rst:273
 #: ../../calendars/toc.rst:286
 msgid "Select the **Calendars** from your left sidebar."
-msgstr ""
+msgstr "Sélectionnez les **Calendriers** dans la barre latérale gauche."
 
 #: ../../appointments/toc.rst:26 ../../appointments/toc.rst:130
 #: ../../contacts/toc.rst:43 ../../tasks/toc.rst:21

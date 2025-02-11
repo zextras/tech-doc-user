@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-11 14:54+0000\n"
+"PO-Revision-Date: 2025-02-12 15:54+0000\n"
 "Last-Translator: Flaminia Spinelli <flaminia.spinelli@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -885,90 +885,76 @@ msgid "How to create actions:"
 msgstr "Come creare azioni:"
 
 #: ../../advanced_email_management/toc.rst:249
-#, fuzzy
 msgid ""
 "Under the Action section, you can configure various fields. These fields "
 "determine the actions to be taken if the specified conditions are met. "
 "Actions have a few paths to set such as:"
 msgstr ""
-"Nella sezione Azione, è possibile configurare vari campi. Questi campi "
-"determinano le azioni da eseguire se le condizioni specificate sono "
-"soddisfatte. Le azioni dispongono di alcuni percorsi da impostare, come:"
+"Nella sezione Azioni puoi configurare vari campi, che determinano le azioni "
+"da eseguire se le condizioni specificate sono soddisfatte. Le azioni offrono "
+"alcuni percorsi da impostare, come:"
 
 #: ../../advanced_email_management/toc.rst:251
-#, fuzzy
 msgid "**Discard**: Moves the email into the Junk folder."
-msgstr ""
-"**Scarta**: Sposta il messaggio di posta nella cartella Posta indesiderata."
+msgstr "**Abbandona**: Sposta il messaggio nella cartella Posta indesiderata."
 
 #: ../../advanced_email_management/toc.rst:252
-#, fuzzy
 msgid "**Move Into Folder**: Transfers the email to a specified folder."
 msgstr ""
-"**Sposta in cartella**: Trasferisce l'e-mail in una cartella specificata."
+"**Sposta nella cartella**: Trasferisce l'email in una cartella specificata."
 
 #: ../../advanced_email_management/toc.rst:253
-#, fuzzy
 msgid "**Mark As**: Marks the email as read or flagged."
-msgstr "**Segna come**: Contrassegna l'email come letta o segnalata."
+msgstr "**Segna come**: visualizza l'email come letta o segnata da flag."
 
 #: ../../advanced_email_management/toc.rst:254
-#, fuzzy
 msgid "**Tag With**: Assigns a tag to the email."
-msgstr "**Etichetta con**: Assegna un'etichetta all'e-mail."
+msgstr "**Contrassegna con**: Assegna un'etichetta (tag) all'email."
 
 #: ../../advanced_email_management/toc.rst:255
-#, fuzzy
 msgid ""
 "**Redirect To Address**: Redirects the email to the specified email "
 "address."
 msgstr ""
-"**Reindirizza all'indirizzo**: Reindirizza l'email all'indirizzo email "
+"**Reindirizza a indirizzo**: Reindirizza l'email all'indirizzo email "
 "specificato."
 
 #: ../../advanced_email_management/toc.rst:257
-#, fuzzy
 msgid "Example:"
 msgstr "Esempio:"
 
 #: ../../advanced_email_management/toc.rst:259
-#, fuzzy
 msgid ""
 "Let's implement a filter to automatically move incoming emails containing"
 " the keywords 'Drug' and 'Violence' into the Trash folder."
 msgstr ""
 "Implementiamo un filtro per spostare automaticamente le email in arrivo che "
-"contengono le parole chiave 'Medicinale' e 'Violenza' nella cartella "
-"'Cestino'."
+"contengono le parole chiave 'Farmaco' e 'Violenza' nella cartella 'Cestino'."
 
 #: ../../advanced_email_management/toc.rst:263
-#, fuzzy
 msgid "Under Filters, choose **Incoming Message Filters**."
 msgstr "Sotto **Filtri**, scegli **Filtri messaggi in entrata**."
 
 #: ../../advanced_email_management/toc.rst:265
-#, fuzzy
 msgid ""
 "Insert a name for your filter in the **Filter Name** field (e.g., drug "
 "junk mail)"
 msgstr ""
-"Inserisci un nome per il tuo filtro nel campo **Nome del filtro** (ad "
-"esempio, posta di farmaci indesiderati)"
+"Inserisci un nome per il tuo filtro nel campo **Nome filtro** (ad esempio, "
+"\"farmaci indesiderati\")"
 
 #: ../../advanced_email_management/toc.rst:267
-#, fuzzy
 msgid ""
 "Under the **Conditions** section, select **Any**. We set it to match any "
 "condition, meaning if either 'Drug' or 'Violence' is found in the email, "
 "it will be moved to the junk folder."
 msgstr ""
-"Nella sezione **Condizioni**, seleziona **Qualsiasi**. Lo impostiamo per "
-"corrispondere a qualsiasi condizione, il che significa che se vengono "
-"trovati 'Farmaco' o 'Violenza' nell'e-mail, verrà spostata nella cartella di "
-"posta indesiderata."
+"Nella sezione **Condizioni**, seleziona **Qualsiasi**. In questo modo sarà "
+"sufficiente una qualsiasi condizione, il che significa che se vengono "
+"trovati 'Farmaco' o 'Violenza' nell'email, essa verrà spostata nella "
+"cartella Spam."
 
 #: ../../advanced_email_management/toc.rst:268
-#, fuzzy
 msgid ""
 "In the first field, select **Body**, in the second field, select "
 "**Contains**, and lastly in the third field, write *Violence* to specify "
@@ -977,16 +963,14 @@ msgid ""
 msgstr ""
 "Nel primo campo, seleziona **Corpo**, nel secondo campo, seleziona "
 "**Contiene**, e infine, nel terzo campo, scrivi *Violenza* per specificare "
-"che qualsiasi email che contiene la parola 'Violenza' nel suo corpo dovrebbe "
+"che qualsiasi email che contiene la parola 'Violenza' nel suo corpo dovrà "
 "attivare il filtro."
 
 #: ../../advanced_email_management/toc.rst:269
-#, fuzzy
 msgid "Click on the **+** button to add another condition."
-msgstr "Fai clic sul pulsante **+** per aggiungere un'altra condizione."
+msgstr "Fai clic sul tasto **+** per aggiungere un'altra condizione."
 
 #: ../../advanced_email_management/toc.rst:270
-#, fuzzy
 msgid ""
 "In the first field, select **Body**, in the second field, select "
 "**Contains**, and lastly in the third field, write *Drug* to specify that"
@@ -994,93 +978,81 @@ msgid ""
 "filter."
 msgstr ""
 "Nel primo campo, seleziona **Corpo**, nel secondo campo, seleziona "
-"**Contiene**, e infine nel terzo campo, scrivi *Drug* per specificare che "
-"qualsiasi email che contiene la parola 'Drug' nel corpo deve attivare il "
+"**Contiene**, nel terzo campo, scrivi *Farmaco* per specificare che "
+"qualsiasi email che contiene la parola 'Farmaco' nel corpo dovrà attivare il "
 "filtro."
 
 #: ../../advanced_email_management/toc.rst:271
-#, fuzzy
 msgid "Under the **Actions** section, choose **Move Into Folder**."
-msgstr "Nella sezione **Azioni**, scegli **Sposta in cartella**."
+msgstr "Nella sezione **Azioni**, scegli **Sposta nella cartella**."
 
 #: ../../advanced_email_management/toc.rst:272
-#, fuzzy
 msgid "Click **BROWSE**, and a new window appears."
-msgstr "Fai clic su **SFoglia**, e viene visualizzata una nuova finestra."
+msgstr "Fai clic su **Sfoglia**, apparirà una nuova finestra."
 
 #: ../../advanced_email_management/toc.rst:273
-#, fuzzy
 msgid "Select your Trash folder and click **CHOOSE**."
-msgstr "Seleziona la tua cartella Cestino e clicca su **SELEZIONA**."
+msgstr "Seleziona la tua cartella Cestino e clicca su **SCEGLI*."
 
 #: ../../advanced_email_management/toc.rst:275
-#, fuzzy
 msgid "Click CREATE."
-msgstr "Clicca SU CREA."
+msgstr "Clicca su CREA."
 
 #: ../../advanced_email_management/toc.rst:282
-#, fuzzy
 msgid "Activating/Deactivating a Filter"
-msgstr "Attivazione/Disattivazione di un Filtro"
+msgstr "Attivare/Disattivare un Filtro"
 
 #: ../../advanced_email_management/toc.rst:284
-#, fuzzy
 msgid ""
 "When creating a filter, you have the option to mark the **Active filter**"
 " checkbox. If selected, your filter will be placed in the Active Filters "
 "section; otherwise, it will be listed under **Available Filters**."
 msgstr ""
-"Durante la creazione di un filtro, avete l'opzione di selezionare la casella "
-"di controllo **Filtro attivo**. Se selezionata, il tuo filtro sarà collocato "
-"nella sezione Filtri attivi; in caso contrario, sarà elencato tra i **Filtri "
-"disponibili**."
+"Quando crei un filtro, puoi selezionare la casella **Filtro attivo**. Se "
+"selezionata, il tuo filtro sarà collocato nella sezione Filtri attivi; in "
+"caso contrario, sarà elencato tra i **Filtri disponibili**."
 
 #: ../../advanced_email_management/toc.rst:286
-#, fuzzy
 msgid ""
 "Active Filters are operational and will be applied to emails "
 "automatically. Conversely, filters kept in the Available Filters section "
 "are inactive but can be retained for future use. You have the flexibility"
 " to move them into the Active Filters section whenever needed."
 msgstr ""
-"I filtri attivi sono operativi e verranno applicati automaticamente alle e-"
-"mail. D'altra parte, i filtri rimasti nella sezione Filtri disponibili sono "
-"inattivi, ma possono essere mantenuti per un uso futuro. Avete la "
-"flessibilità per spostarli nella sezione Filtro attivi quando necessario."
+"I filtri attivi sono operativi e verranno applicati automaticamente alle "
+"email. I filtri rimasti nella sezione Filtri disponibili sono invece "
+"inattivi, ma possono essere conservati per un uso futuro. Potrai spostarli "
+"nella sezione Filtri attivi in qualunque momento."
 
 #: ../../advanced_email_management/toc.rst:288
-#, fuzzy
 msgid ""
 "To move a filter from the Active Filters to the Available Filters, simply"
 " select the filter you want to deactivate and click on the **REMOVE** "
 "button. This action will transfer the filter to the Available Filters "
 "section, where it will remain inactive until reactivated."
 msgstr ""
-"Per spostare un filtro dai Filtri attivi ai Filtri disponibili, selezionare "
-"semplicemente il filtro che si desidera disattivare e fare clic sul pulsante "
-"**RIMUOVI**. Questaazione trasferirà il filtro alla sezione Filtri "
+"Per spostare un filtro dai Filtri attivi ai Filtri disponibili, seleziona "
+"semplicemente il filtro che desideri disattivare e fai clic sul tasto "
+"**RIMUOVI**. Questa azione trasferirà il filtro alla sezione Filtri "
 "disponibili, in cui rimarrà inattivo fino a quando non sarà riattivato."
 
 #: ../../advanced_email_management/toc.rst:289
-#, fuzzy
 msgid ""
 "To move a filter from the Available Filters to the Active Filters, simply"
 " select the filter you want to activate and click on the **ADD** button. "
 "This action will transfer the filter to the Available Filters section, "
 "where it will remain active until deactivated."
 msgstr ""
-"Per spostare un filtro dai Filtri disponibili ai Filtri attivi, selezionare "
-"semplicemente il filtro che si desidera attivare e fare clic sul pulsante "
-"**AGGIUNGI**. Questa azione sposterà il filtro nella sezione Filtri "
-"disponibili, dove rimarrà attivo fino a quando non verrà disattivato."
+"Per spostare un filtro dai Filtri disponibili ai Filtri attivi, seleziona il "
+"filtro che vuoi attivare e fai clic sul tasto **AGGIUNGI**. Questa azione "
+"sposterà il filtro nella sezione Filtri attivi, dove rimarrà attivo fino a "
+"quando non verrà disattivato."
 
 #: ../../advanced_email_management/toc.rst:292
-#, fuzzy
 msgid "Applying a Filter to Existing Emails"
-msgstr "Applicazione di un filtro a email esistenti"
+msgstr "Applicare un filtro a email esistenti"
 
 #: ../../advanced_email_management/toc.rst:294
-#, fuzzy
 msgid ""
 "Active Filters are automatically applied to new emails, whereas for "
 "managing existing emails, you may need to manually apply a filter. For "
@@ -1089,12 +1061,11 @@ msgid ""
 msgstr ""
 "I filtri attivi vengono applicati automaticamente alle nuove email, mentre "
 "per gestire le email esistenti potrebbe essere necessario applicare "
-"manualmente un filtro. Ad esempio, è possibile creare un filtro per spostare "
-"tutte le email che contengono la parola \"Violenza\" nella cartella posta "
-"indesiderata per pulire la casella di posta in arrivo."
+"manualmente un filtro. Ad esempio, puoi creare un filtro per spostare tutte "
+"le email che contengono la parola \"Violenza\" nella cartella Spam per "
+"pulire la casella di posta In arrivo."
 
 #: ../../advanced_email_management/toc.rst:296
-#, fuzzy
 msgid ""
 "This manual application allows you to organize existing emails according "
 "to your preferences."
@@ -1103,79 +1074,66 @@ msgstr ""
 "secondo le tue preferenze."
 
 #: ../../advanced_email_management/toc.rst:298
-#, fuzzy
 msgid "To apply a filter to existing emails, follow these steps:"
 msgstr ""
-"Per applicare un filtro ai messaggi e-mail esistenti, segui questi passaggi:"
+"Per applicare un filtro ai messaggi email esistenti, segui questi passaggi:"
 
 #: ../../advanced_email_management/toc.rst:302
 #: ../../advanced_email_management/toc.rst:340
-#, fuzzy
 msgid ""
 "Under Filters, choose **Incoming Message Filters** or **Outgoing Message "
 "Filters**, depending on where your filter is located."
 msgstr ""
-"Sotto Filtri, scegli **Filtri per i messaggi in entrata** o **Filtri per i "
-"messaggi in uscita**, a seconda della posizione del filtro."
+"Sotto Filtri, scegli **Filtri messaggi in entrata** o **Filtri messaggi in "
+"uscita**, a seconda della posizione del filtro."
 
 #: ../../advanced_email_management/toc.rst:303
-#, fuzzy
 msgid "Select the filter you want to apply from the list."
 msgstr "Seleziona il filtro che desideri applicare dall'elenco."
 
 #: ../../advanced_email_management/toc.rst:304
-#, fuzzy
 msgid "Click **APPLY**. A new window will appear."
 msgstr "Clicca su **APPLICA**. Verrà visualizzata una nuova finestra."
 
 #: ../../advanced_email_management/toc.rst:305
-#, fuzzy
 msgid ""
 "From the drop-down menu, select the folder you want the filter to be "
 "applied to."
 msgstr ""
-"Selezionare dalla menu a discesa la cartella a cui si desidera applicare il "
-"filtro."
+"Seleziona dal menu a tendina la cartella a cui desideri applicare il filtro."
 
 #: ../../advanced_email_management/toc.rst:306
-#, fuzzy
 msgid "Click **APPLY** to confirm and execute the filter on existing emails."
 msgstr ""
-"Fai clic su **APPLICA** per confermare ed eseguire il filtro nelle e-mail "
+"Fai clic su **APPLICA** per confermare ed eseguire il filtro nelle email "
 "esistenti."
 
 #: ../../advanced_email_management/toc.rst:310
-#, fuzzy
 msgid "Editing a Filter"
-msgstr "Modifica di un filtro"
+msgstr "Modificare un filtro"
 
 #: ../../advanced_email_management/toc.rst:312
-#, fuzzy
 msgid "To edit an existing filter, follow these steps:"
 msgstr "Per modificare un filtro esistente, segui questi passaggi:"
 
 #: ../../advanced_email_management/toc.rst:316
 #: ../../advanced_email_management/toc.rst:329
-#, fuzzy
 msgid ""
 "Under Filters, choose Incoming **Message Filters** or **Outgoing Message "
 "Filters**, depending on where your filter is located."
 msgstr ""
-"Sotto Filtri, scegli Filtri **-message in entrata** o **Filtri messaggi di "
+"Sotto Filtri, scegli ** Filtri message in entrata** o **Filtri messaggi in "
 "uscita**, a seconda della posizione del tuo filtro."
 
 #: ../../advanced_email_management/toc.rst:317
-#, fuzzy
 msgid "Select the filter you want to edit from the list."
 msgstr "Seleziona il filtro che desideri modificare dall'elenco."
 
 #: ../../advanced_email_management/toc.rst:318
-#, fuzzy
 msgid "Click **EDIT**. A new window will appear."
 msgstr "Clicca su **MODIFICA**. Apparirà una nuova finestra."
 
 #: ../../advanced_email_management/toc.rst:319
-#, fuzzy
 msgid ""
 "Perform your edits, ensuring the filter is set up according to your "
 "preferences."
@@ -1184,27 +1142,22 @@ msgstr ""
 "tue preferenze."
 
 #: ../../advanced_email_management/toc.rst:320
-#, fuzzy
 msgid "Click **SAVE** to confirm and apply the changes."
 msgstr "Fai clic su **SALVA** per confermare e applicare le modifiche."
 
 #: ../../advanced_email_management/toc.rst:323
-#, fuzzy
 msgid "Deleting a Filter"
-msgstr "Eliminazione di un filtro"
+msgstr "Eliminare un filtro"
 
 #: ../../advanced_email_management/toc.rst:325
-#, fuzzy
 msgid "To delete an existing filter, follow these steps:"
 msgstr "Per eliminare un filtro esistente, segui questi passaggi:"
 
 #: ../../advanced_email_management/toc.rst:330
-#, fuzzy
 msgid "Select the filter you want to delete from the list."
 msgstr "Seleziona il filtro che desideri eliminare dall'elenco."
 
 #: ../../advanced_email_management/toc.rst:331
-#, fuzzy
 msgid ""
 "Click **DELETE**. A new window will appear; click **DELETE** again to "
 "confirm and remove the selected filter."
@@ -1213,28 +1166,24 @@ msgstr ""
 "**ELIMINA** nuovamente per confermare e rimuovere il filtro selezionato."
 
 #: ../../advanced_email_management/toc.rst:334
-#, fuzzy
 msgid "Change Filter Order"
-msgstr "Cambia Ordine Filtri"
+msgstr "Cambiare Ordine ai Filtri"
 
 #: ../../advanced_email_management/toc.rst:336
-#, fuzzy
 msgid ""
 "The order of filters determines their application. You have the freedom "
 "to adjust the order of filters at any point to influence their priority "
 "in processing emails. To change the order:"
 msgstr ""
 "L'ordine dei filtri determina la loro applicazione. Sei libero di modificare "
-"l'ordine dei filtri in qualsiasi momento per influenzare la priorità di "
-"elaborazione delle e-mail. Per cambiare l'ordine:"
+"l'ordine dei filtri in qualsiasi momento, per cambiare la priorità di "
+"elaborazione delle email. Per cambiare l'ordine:"
 
 #: ../../advanced_email_management/toc.rst:341
-#, fuzzy
 msgid "Select a filter whose order you want to modify."
-msgstr "Seleziona un filtro il cui ordine si desidera modificare."
+msgstr "Seleziona un filtro di cui desideri modificare l'ordine."
 
 #: ../../advanced_email_management/toc.rst:342
-#, fuzzy
 msgid ""
 "Click the downward or upward arrow to adjust the position of the selected"
 " filter, thereby changing its order in the list."
@@ -1243,12 +1192,10 @@ msgstr ""
 "posizione del filtro selezionato, cambiandone così l'ordine nell'elenco."
 
 #: ../../advanced_email_management/toc.rst:345
-#, fuzzy
 msgid "Account Signatures"
 msgstr "Firme degli account"
 
 #: ../../advanced_email_management/toc.rst:347
-#, fuzzy
 msgid ""
 "Incorporating an automatic signature at the end of your emails is a "
 "common practice. A signature typically comprises your name along with any"
@@ -1262,52 +1209,45 @@ msgid ""
 "signatures and allocate them to specific addresses."
 msgstr ""
 "Incorporare una firma automatica alla fine delle tue email è una pratica "
-"comune. Una firma di solito comprende il tuo nome e ogni testo "
-"supplementare. Se utilizzi un **editor di testo avanzato**, hai la "
-"flessibilità di formattare la tua firma, inserire URL per i collegamenti e "
-"includere grafici. È inoltre possibile creare più firme per adattarle a "
-"contesti diversi. Ad esempio, potresti optare per una firma formale studiata "
-"per la corrispondenza con i clienti, riservando una firma informale per "
-"comunicare con gli amici. Inoltre, se gestisci più identità email, spesso "
-"chiamate persone, puoi creare firme distinte e assegnarle a indirizzi "
-"specifici."
+"comune. Una firma di solito comprende il tuo nome e del testo supplementare. "
+"Se utilizzi un **editor di testo avanzato**, hai la flessibilità di "
+"formattare la tua firma, inserire URL per i link e includere immagini. È "
+"inoltre possibile creare più firme per adattarle a contesti diversi. Ad "
+"esempio, potresti optare per una firma formale studiata per la "
+"corrispondenza con i clienti, e una firma informale per comunicare con i "
+"colleghi. Inoltre, se gestisci più identità email, spesso chiamate \"persona"
+"\", puoi creare firme distinte e assegnarle a indirizzi specifici."
 
 #: ../../advanced_email_management/toc.rst:351
-#, fuzzy
 msgid "Using Signatures"
-msgstr "Uso delle firme"
+msgstr "Usare le Firme"
 
 #: ../../advanced_email_management/toc.rst:353
-#, fuzzy
 msgid ""
 "To ensure that signatures appear in your email, you must switch to the "
 "**rich text editor** while composing."
 msgstr ""
-"Per assicurarti che le firme appaiano nella tua email, devi passare al **"
-"editor di testo avanzato** mentre componi."
+"Per assicurarti che le firme appaiano nella tua email, devi passare all' **"
+"editor di testo avanzato** mentre scrivi una mail."
 
 #: ../../advanced_email_management/toc.rst:355
-#, fuzzy
 msgid "Follow these steps to toggle the rich text editor on:"
-msgstr "Segui questi passaggi per attivare l'editor di testo avanzato:"
+msgstr "Segui questi passaggi per attivare l'editor avanzato:"
 
 #: ../../advanced_email_management/toc.rst:357
 #: ../../advanced_email_management/toc.rst:369
-#, fuzzy
 msgid ""
 "Click on the **three vertical dots** located in the top-right corner of "
 "the compose board."
 msgstr ""
 "Clicca sui **tre punti verticali** posizionati nell'angolo in alto a destra "
-"della scheda di composizione."
+"della scheda di composizione dell'email."
 
 #: ../../advanced_email_management/toc.rst:358
-#, fuzzy
 msgid "Select **Enable rich text editor** from the menu that appears."
-msgstr "Seleziona **Abilita editor di testo avanzato** dal menu che appare."
+msgstr "Seleziona **Abilita editor avanzato** dal menu che appare."
 
 #: ../../advanced_email_management/toc.rst:360
-#, fuzzy
 msgid ""
 "When a signature is set, it will be visible at the end of the email you "
 "are composing. Additionally, you can effortlessly switch between "
@@ -1315,81 +1255,68 @@ msgid ""
 "composing board, automatically applying the respective signatures "
 "assigned to each identity/persona."
 msgstr ""
-"Quando una firma viene impostata, sarà visibile alla fine dell'e-mail che si "
-"sta componendo. Inoltre, è possibile passare senza difficoltà tra identità/"
-"personaggi selezionandole dall'angolo superiore sinistro della piattaforma "
-"di composizione, applicando automaticamente le firme relative assegnate a "
-"ciascuna identità/personaggio."
+"Quando una firma viene impostata, sarà visibile alla fine dell'email che si "
+"sta scrivendo. Inoltre, è possibile passare senza difficoltà tra identità/"
+"persona selezionandole dall'angolo superiore sinistro della scheda di "
+"composizione, applicando automaticamente le firme assegnate a ciascuna "
+"identità/persona."
 
 #: ../../advanced_email_management/toc.rst:363
-#, fuzzy
 msgid "Sending S/MIME signed emails"
-msgstr "Puoi ora inviare la tua email firmata con S/MIME."
+msgstr "Inviare email firmate con S/MIME"
 
 #: ../../advanced_email_management/toc.rst:365
-#, fuzzy
 msgid ""
 "S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for "
 "email encryption and signing, providing authentication, integrity, and "
 "non-repudiation for emails. Here’s how you can send S/MIME-signed emails:"
 msgstr ""
 "S/MIME (Secure/Multipurpose Internet Mail Extensions) è uno standard per la "
-"crittografia e la firma delle email, che fornisce autenticazione, integrità "
+"crittografia e la firma delle email, che assicura autenticazione, integrità "
 "e non ripudiabilità per le email. Ecco come puoi inviare email firmate con S/"
 "MIME:"
 
 #: ../../advanced_email_management/toc.rst:370
-#, fuzzy
 msgid "Select **Use Certificate to sign (S/MIME)** from the menu that appears."
-msgstr ""
-"Seleziona **Usa certificato per la firma (S/MIME)** dal menu che appare."
+msgstr "Seleziona **Usa certificato per firmare (S/MIME)** dal menu che appare."
 
 #: ../../advanced_email_management/toc.rst:371
-#, fuzzy
 msgid ""
 "Attach the certificate in the proper space (or just browse you documents "
 "to insert it)."
 msgstr ""
-"Allega il certificato nello spazio appropriato (o simplemente sfoglia i "
-"documenti per inserirlo)."
+"Allega il certificato nello spazio dedicato (o sfoglia i tuoi file per "
+"inserirlo)."
 
 #: ../../advanced_email_management/toc.rst:372
-#, fuzzy
 msgid "Insert the **password** for the uploaded certificate."
 msgstr "Inserisci la **password** per il certificato caricato."
 
 #: ../../advanced_email_management/toc.rst:373
-#, fuzzy
 msgid "Click **Upload** to insert the S/MIME signature."
 msgstr "Fai clic su **Carica** per inserire la firma S/MIME."
 
 #: ../../advanced_email_management/toc.rst:375
-#, fuzzy
 msgid "You can now send your S/MIME-signed email."
 msgstr "Puoi ora inviare la tua email firmata con S/MIME."
 
 #: ../../advanced_email_management/toc.rst:379
-#, fuzzy
 msgid "Creating Signatures"
-msgstr "Creazione di firme"
+msgstr "Creare Firme"
 
 #: ../../advanced_email_management/toc.rst:381
-#, fuzzy
 msgid "To create a signature:"
 msgstr "Per creare una firma:"
 
 #: ../../advanced_email_management/toc.rst:385
-#, fuzzy
 msgid "Under the **Signatures** section, click **ADD SIGNATURE**."
 msgstr "Nella sezione **Firme**, fare clic su **Aggiungi firma**."
 
 #: ../../advanced_email_management/toc.rst:386
-#, fuzzy
 msgid "Provide a name for the signature in the designated field."
-msgstr "Inserisci un nome per la firma nel campo designato."
+msgstr "Inserisci un nome per la firma nel campo dedicato."
 
 #: ../../advanced_email_management/toc.rst:387
-#, fuzzy
 msgid "Utilize the rich text editor on the right side to compose your signature."
 msgstr ""
 "Utilizza l'editor di testo avanzato sul lato destro per comporre la tua "
@@ -1401,127 +1328,107 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:432
 #: ../../advanced_email_management/toc.rst:471
 #: ../../advanced_email_management/toc.rst:522
-#, fuzzy
 msgid "Click **SAVE** from the top-right corner."
 msgstr "Fai clic su **SALVA** nell'angolo in alto a destra."
 
 #: ../../advanced_email_management/toc.rst:390
-#, fuzzy
 msgid ""
 "Anything composed in this section will automatically append to the end of"
 " your email as shown in the following example::"
 msgstr ""
 "Qualsiasi contenuto composto in questa sezione verrà automaticamente "
-"aggiunto alla fine della tua email come mostrato nell'esempio seguente:"
+"aggiunto alla fine della tua email, come mostrato nell'esempio seguente:"
 
 #: ../../advanced_email_management/toc.rst:401
-#, fuzzy
 msgid "Editing Signatures"
-msgstr "Modifica delle firme"
+msgstr "Modificare le Firme"
 
 #: ../../advanced_email_management/toc.rst:403
-#, fuzzy
 msgid "To edit a signature:"
 msgstr "Per modificare una firma:"
 
 #: ../../advanced_email_management/toc.rst:407
-#, fuzzy
 msgid "Under the **Signatures** section, click on the signature you want to edit."
-msgstr ""
-"Nella sezione **Firme**, fate clic sulla firma che desiderate modificare."
+msgstr "Nella sezione **Firme**, fai clic sulla firma che desideri modificare."
 
 #: ../../advanced_email_management/toc.rst:408
-#, fuzzy
 msgid "Utilize the rich text editor on the right side to edit your signature."
 msgstr ""
 "Utilizza l'editor di testo avanzato sul lato destro per modificare la tua "
 "firma."
 
 #: ../../advanced_email_management/toc.rst:412
-#, fuzzy
 msgid "Removing Signatures"
-msgstr "Rimozione delle firme"
+msgstr "Rimuovere le Firme"
 
 #: ../../advanced_email_management/toc.rst:414
-#, fuzzy
 msgid "To remove a signature:"
 msgstr "Per rimuovere una firma:"
 
 #: ../../advanced_email_management/toc.rst:418
-#, fuzzy
 msgid ""
 "Under the **Signatures section**, click on the signature you want to "
 "remove."
-msgstr ""
-"Nella sezione **Firme**, fai clic sulla firma che si desidera rimuovere."
+msgstr "Nella sezione **Firme**, fai clic sulla firma che desideri rimuovere."
 
 #: ../../advanced_email_management/toc.rst:419
-#, fuzzy
 msgid ""
 "Hover your mouse cursor over the signature name. A red button labeled "
 "**DELETE** will appear. Click on it, and the signature will be removed."
 msgstr ""
-"Passa con il cursore del mouse sul nome della firma. Comparirà un pulsante "
-"rosso etichettato **ELIMINA**. Cliccalo e la firma verrà rimossa."
+"Passa con il cursore sul nome della firma. Comparirà un tasto rosso con "
+"scritto **ELIMINA**. Cliccalo e la firma verrà rimossa."
 
 #: ../../advanced_email_management/toc.rst:423
-#, fuzzy
 msgid "Assign Different Signatures to Different Identities / Personas"
-msgstr "Assegna firme diverse a identità/persona diverse"
+msgstr "Assegnare Firme Diverse a Identità/Persona Diverse"
 
 #: ../../advanced_email_management/toc.rst:425
-#, fuzzy
 msgid ""
 "You can personalize each account persona or identity with a unique "
 "signature. This ensures that when selecting an identity/persona while "
 "composing an email, the appropriate signature is automatically applied."
 msgstr ""
-"È possibile personalizzare ogni account persona o identità con una firma "
-"unica. Ciò assicura che quando si seleziona un'identità/persona durante la "
-"composizione di un messaggio di posta elettronica, la firma appropriata "
-"venga applicata automaticamente."
+"Puoi personalizzare ogni account, persona o identità, con una firma unica. "
+"Ciò assicura che quando selezioni un'identità/persona mentre scrivi "
+"un'email, la firma appropriata verrà applicata automaticamente."
 
 #: ../../advanced_email_management/toc.rst:427
-#, fuzzy
 msgid "To assign each identity/persona a signature:"
 msgstr "Per assegnare una firma a ogni identità/persona:"
 
 #: ../../advanced_email_management/toc.rst:431
-#, fuzzy
 msgid ""
 "In the Signatures Usage section, choose a signature for each "
 "persona/identity from the dropdown menu provided."
 msgstr ""
-"Nella sezione Utilizzo firme, selezionare una firma per ogni persona/"
-"identità dal menu a discesa fornito."
+"Nella sezione Utilizzo firme, seleziona una firma per ogni persona/identità "
+"dal menu a tendina fornito."
 
 #: ../../advanced_email_management/toc.rst:434
-#, fuzzy
 msgid ""
 "You can effortlessly switch between identities/personas by selecting them"
 " from the top-left corner of the composing board, automatically applying "
 "the respective signatures assigned to each identity/persona."
 msgstr ""
-"Puoi passare da un'identità/persona all'altra senza sforzo, selezionandole "
-"dall'angolo in alto a sinistra della tavola di composizione, applicando "
-"automaticamente le relative firme associate a ciascuna identità/persona."
+"Componendo un'email, puoi passare da un'identità/persona all'altra senza "
+"sforzo, selezionandole dall'angolo in alto a sinistra del pannello; le "
+"relative firme associate a ciascuna identità/persona si applicheranno "
+"automaticamente."
 
 #: ../../advanced_email_management/toc.rst:437
-#, fuzzy
 msgid "Changing Signature While Composing An Email"
-msgstr "Cambiare Firma mentre si compone un'e-mail"
+msgstr "Cambiare Firma Mentre si Compone un'Email"
 
 #: ../../advanced_email_management/toc.rst:439
-#, fuzzy
 msgid ""
 "If you have set two or more signatures, you can easily switch between "
 "them, while you are writing an email."
 msgstr ""
 "Se hai impostato due o più firme, puoi passare facilmente da una all'altra "
-"mentre scrivi una email."
+"mentre scrivi un'email."
 
 #: ../../advanced_email_management/toc.rst:441
-#, fuzzy
 msgid ""
 "Just click on the **feather pen icon** on top of the composing tab and "
 "choose the one you want to use, between the different options in the "
@@ -1529,19 +1436,16 @@ msgid ""
 " signature* option, if you want to completely remove the signature from "
 "the current email."
 msgstr ""
-"Fai clic sull'icona *penna piumata* in alto nella scheda di composizione e "
-"scegli quella che desideri utilizzare tra le diverse opzioni elencate in "
-"base alle firme esistenti. Puoi anche scegliere l'opzione *Non utilizzare "
-"una firma*, se desideri rimuovere completamente la firma dall'e-mail "
-"corrente."
+"Fai clic sull'icona *penna piumata* in alto nella scheda di scrittura email, "
+"e scegli quella che desideri utilizzare tra le diverse firme esistenti. Puoi "
+"anche scegliere l'opzione *Non utilizzare una firma*, se desideri rimuovere "
+"completamente la firma dall'email corrente."
 
 #: ../../advanced_email_management/toc.rst:449
-#, fuzzy
 msgid "Email Delegations"
-msgstr "Delegate Email"
+msgstr "Delegare le Email"
 
 #: ../../advanced_email_management/toc.rst:451
-#, fuzzy
 msgid ""
 "You can permit others to send emails on your behalf. When someone sends "
 "an email on your behalf, the recipient sees both your name and the "
@@ -1554,11 +1458,10 @@ msgstr ""
 "qualcuno invia un'email in tuo nome, il destinatario visualizza sia il tuo "
 "nome che il nome del mittente. È importante notare che non si tratta della "
 "stessa cosa di condividere l'intera casella di posta. Il mittente opera dal "
-"proprio account di posta elettronica quando invia e-mail in tuo nome, con il "
-"tuo nome selezionato come mittente dal menu a discesa del campo Da."
+"proprio account di posta quando invia email in tuo nome, selezionando il tuo "
+"nome come mittente dal menu a tendina del campo Da."
 
 #: ../../advanced_email_management/toc.rst:453
-#, fuzzy
 msgid ""
 "Similarly, if you have been delegated permission to send emails on behalf"
 " of someone else, you can do so with their email address as the sender. "
@@ -1569,14 +1472,12 @@ msgid ""
 msgstr ""
 "Allo stesso modo, se ti è stato delegato il permesso di inviare email in "
 "nome di qualcun altro, puoi farlo utilizzando il suo indirizzo email come "
-"mittente. In questo caso, l'indirizzo \"From\" visualizzerà sia il tuo "
-"indirizzo email che quello della persona che stai rappresentando. Quando ti "
-"è stata data l'autorizzazione per inviare un'email a quella persona, il suo "
-"indirizzo email compare nel menu, senza includere il tuo indirizzo "
-"nell'email."
+"mittente. In questo caso, \"Da\" visualizzerà sia il tuo indirizzo email che "
+"quello della persona che stai rappresentando. Una volta che ti è stata data "
+"l'autorizzazione per inviare un'email a quella persona, il suo indirizzo "
+"email compare nel menu, senza includere il tuo indirizzo nell'email."
 
 #: ../../advanced_email_management/toc.rst:455
-#, fuzzy
 msgid ""
 "Email delegation can be particularly useful in scenarios where you need "
 "someone else to handle your email correspondence on your behalf, such as "
@@ -1587,92 +1488,81 @@ msgid ""
 "to act on behalf of others while maintaining clarity about the sender's "
 "identity."
 msgstr ""
-"La delega delle e-mail può essere particolarmente utile in scenari in cui è "
-"necessario che qualcun altro gestisca la posta elettronica per conto tuo, "
-"come ad esempio quando sei fuori sede o stai gestendo più responsabilità. "
-"Ciò consente una gestione efficiente delle e-mail senza la necessità di un "
-"accesso diretto alla casella di posta, semplificando i processi di "
+"La delega delle email può essere particolarmente utile quando è necessario "
+"che qualcun altro gestisca la posta elettronica per conto tuo, come ad "
+"esempio quando sei fuori sede o stai gestendo altre responsabilità. Ciò "
+"consente una gestione efficiente delle email senza la necessità di un "
+"accesso diretto alla tua casella di posta, semplificando i processi di "
 "comunicazione. Questa funzionalità è particolarmente utile per dirigenti, "
-"assistenti o membri del team che devono agire per conto di altri mentre "
-"mantengono chiarezza sul'identità del mittente."
+"assistenti o membri del team che devono agire per conto di altri, pur "
+"mantenendo chiarezza sull'identità del mittente."
 
 #: ../../advanced_email_management/toc.rst:459
-#, fuzzy
 msgid "Delegating Others to Send Emails on Your Behalf"
-msgstr "Delegare ad altri l'invio di e-mail per tuo conto"
+msgstr "Delegare ad Altri l'Invio di Email per Tuo Conto"
 
 #: ../../advanced_email_management/toc.rst:461
-#, fuzzy
 msgid ""
 "You can authorize others to send messages on your behalf. When they do "
 "so, your name and email address appear as the sender, even though the "
 "message is dispatched from the delegate's inbox."
 msgstr ""
-"È possibile autorizzare altre persone ad inviare messaggi in proprio nome. "
-"Quando lo fanno, il tuo nome e l'indirizzo e-mail vengono visualizzati come "
+"Puoi autorizzare altre persone ad inviare messaggi in tuo nome. Quando lo "
+"fanno, il tuo nome e il tuo indirizzo email vengono visualizzati come "
 "mittente, anche se il messaggio viene inviato dalla casella di posta del "
 "delegato."
 
 #: ../../advanced_email_management/toc.rst:463
-#, fuzzy
 msgid "To set this up:"
-msgstr "Per configurare questo:"
+msgstr "Per configurare ciò:"
 
 #: ../../advanced_email_management/toc.rst:466
 #: ../../advanced_email_management/toc.rst:519
 #: ../../advanced_email_management/toc.rst:534
-#, fuzzy
 msgid "Select **Accounts**."
 msgstr "Seleziona **Account**."
 
 #: ../../advanced_email_management/toc.rst:467
-#, fuzzy
 msgid "In the Delegates section, click **ADD DELEGATE**."
 msgstr "Nella sezione Delegati, fare clic su **AGGIUNGI DELEGATO**."
 
 #: ../../advanced_email_management/toc.rst:468
-#, fuzzy
 msgid ""
 "Enter the email address of the person you are authorizing; this should be"
 " an internal user's address like one of your colleagues."
 msgstr ""
-"Immettere l'indirizzo email della persona che si sta autorizzando; dovrebbe "
+"Immetti l'indirizzo email della persona che stai autorizzando; dovrebbe "
 "essere un indirizzo di un utente interno, come ad esempio uno dei colleghi."
 
 #: ../../advanced_email_management/toc.rst:469
-#, fuzzy
 msgid "Choose the permissions you wish to grant, and then click **OK**."
 msgstr ""
 "Scegli le autorizzazioni che desideri concedere, quindi fai clic su **OK**."
 
 #: ../../advanced_email_management/toc.rst:470
-#, fuzzy
 msgid ""
 "Choose Save a copy of sent messages to my Sent folder from the list, if "
 "you want to get a copy of the email sent by the delegate. Otherwise, you "
 "can choose different options based on your preferences."
 msgstr ""
-"Seleziona Salva una copia dei messaggi inviati nella mia cartella Posta "
-"inviata dall'elenco, se desideri ricevere una copia dell'email inviata dal "
-"delegato. In caso contrario, puoi scegliere opzioni diverse in base alle tue "
-"preferenze."
+"Seleziona \"Salva una copia dei messaggi inviati nella mia cartella Posta "
+"inviata\" dall'elenco, se desideri sempre ricevere una copia dell'email "
+"inviata dal delegato. In caso contrario, puoi scegliere opzioni diverse in "
+"base alle tue preferenze."
 
 #: ../../advanced_email_management/toc.rst:473
-#, fuzzy
 msgid ""
 "An email notification will be sent to the designated person, informing "
 "them of their newly acquired delegate permissions."
 msgstr ""
-"Verrà inviata una notifica tramite e-mail alla persona designata, "
+"Verrà inviata una notifica tramite email alla persona designata, "
 "informandola dei nuovi permessi di delega acquisiti."
 
 #: ../../advanced_email_management/toc.rst:480
-#, fuzzy
 msgid "Sending Email on Behalf of Someone Else"
-msgstr "Invio di e-mail in nome di qualcun altro"
+msgstr "Inviare Email in Nome di Qualcun Altro"
 
 #: ../../advanced_email_management/toc.rst:482
-#, fuzzy
 msgid ""
 "If you have been granted delegate permissions for another person, you can"
 " send emails on their behalf. While composing an email, click on the top-"
@@ -1683,22 +1573,20 @@ msgid ""
 "be available in the menu. When selected, your address will be omitted "
 "from the email."
 msgstr ""
-"Se hai ricevuto deleghe di permessi per un'altra persona, puoi inviare email "
-"a suo nome. Mentre stai componendo un messaggio di posta elettronica, fai "
-"clic sull'angolo superiore sinistro dove è visualizzato il tuo nome utente. "
-"Da lì puoi selezionare il tuo indirizzo email, nonché qualsiasi altra "
-"identità o personalità che potresti avere, e la persona che stai "
+"Se hai ricevuto il permesso di delega da un'altra persona, puoi inviare "
+"email a suo nome. Mentre stai componendo un messaggio di posta elettronica, "
+"fai clic sull'angolo superiore sinistro dove è visualizzato il tuo nome "
+"utente. Da lì puoi selezionare il tuo indirizzo email, nonché qualsiasi "
+"altra identità o personalità impostata, e la persona che stai "
 "rappresentando. Se hai ottenuto l'autorizzazione a inviare messaggi per "
 "conto di quella persona, il suo indirizzo email sarà disponibile nel menu. "
 "Una volta selezionato, il tuo indirizzo sarà omesso dal messaggio."
 
 #: ../../advanced_email_management/toc.rst:491
-#, fuzzy
 msgid "Account Personas"
-msgstr "Profili degli Account"
+msgstr "Account Persona o Personalità"
 
 #: ../../advanced_email_management/toc.rst:493
-#, fuzzy
 msgid ""
 "When sending emails, each email is associated with an email account. By "
 "default, your primary identity is tied to your account name when setting "
@@ -1706,125 +1594,106 @@ msgid ""
 "email identities known as personas, which can be used to manage different"
 " types of emails."
 msgstr ""
-"Quando si inviano email, ogni email è associata a un account email. "
-"Inizialmente, la tua identità principale è legata al nome dell'account "
-"durante la creazione dell'account email. Tuttavia, hai la possibilità di "
-"creare identità email aggiuntive, note come persone, che possono essere "
-"utilizzate per gestire diversi tipi di email."
+"Quando invii un'email, ogni email è associata al tuo account email. Di base, "
+"la tua identità principale è legata al nome dell'account quando l'account "
+"email viene creato la prima volta. Tuttavia, hai la possibilità di creare "
+"identità email aggiuntive, note come persona (personalità), che possono "
+"essere utilizzate per gestire diversi tipi di email."
 
 #: ../../advanced_email_management/toc.rst:495
-#, fuzzy
 msgid ""
 "For instance, you might establish one persona for your sales "
 "correspondence and another for personal emails."
 msgstr ""
-"Ad esempio, è possibile istituire una persona per la corrispondenza di "
-"vendita e un'altra per la corrispondenza personale."
+"Ad esempio, potresti impostare una persona per la corrispondenza aziendale e "
+"un'altra per la corrispondenza personale."
 
 #: ../../advanced_email_management/toc.rst:497
 #: ../../advanced_email_management/toc.rst:502
-#, fuzzy
 msgid ""
 "If you have multiple personas or external accounts linked, you can choose"
 " the specific persona you wish to utilize when sending an email."
 msgstr ""
-"Se hai più identità o account esterni collegati, puoi scegliere l'identità "
-"specifica che desideri utilizzare quando invii un'e-mail."
+"Se hai più personalità o account esterni collegati, puoi scegliere la "
+"persona specifica che desideri utilizzare quando invii un'email."
 
 #: ../../advanced_email_management/toc.rst:500
-#, fuzzy
 msgid "Using Personas"
-msgstr "Utilizzo delle Persone"
+msgstr "Utilizzare le Persona (Personalità)"
 
 #: ../../advanced_email_management/toc.rst:504
-#, fuzzy
 msgid "You can send emails from different personas while composing a message."
-msgstr ""
-"È possibile inviare email da diverse persone mentre si compone un messaggio."
+msgstr "Puoi inviare email da diverse persona quando componi un messaggio."
 
 #: ../../advanced_email_management/toc.rst:506
-#, fuzzy
 msgid ""
 "The recipient will see the username aligned with the selected persona as "
 "the sender of the emails."
 msgstr ""
-"Il destinatario vedrà il nome utente allineato con la persona selezionata "
-"come mittente delle email."
+"Il destinatario vedrà il nome della persona selezionata come mittente delle "
+"email."
 
 #: ../../advanced_email_management/toc.rst:508
-#, fuzzy
 msgid "To switch personas, follow these steps:"
-msgstr "Per commutare le persone, seguire questi passaggi:"
+msgstr "Per cambiare personalità, segui questi passaggi:"
 
 #: ../../advanced_email_management/toc.rst:510
-#, fuzzy
 msgid ""
 "Click on your email address located at the **top left corner** of the "
 "composing board when composing your email."
 msgstr ""
-"Fai clic sul tuo indirizzo email posizionato in alto a sinistra della "
-"palette di scrittura quando componi la tua email."
+"Fai clic sul tuo indirizzo email che vedi in alto a sinistra nella scheda di "
+"composizione dell'email."
 
 #: ../../advanced_email_management/toc.rst:511
-#, fuzzy
 msgid "Choose your preferred persona from the menu."
-msgstr "Scegli la tua persona preferita dal menu."
+msgstr "Scegli la tua personalità preferita dal menu."
 
 #: ../../advanced_email_management/toc.rst:514
-#, fuzzy
 msgid "Creating Personas"
-msgstr "Creare Personas"
+msgstr "Creare Persona (Personalità)"
 
 #: ../../advanced_email_management/toc.rst:516
-#, fuzzy
 msgid "To create a new persona alongside your default one:"
-msgstr "Creare una nuova persona accanto a quella predefinita:"
+msgstr "Per creare una nuova persona oltre a quella predefinita:"
 
 #: ../../advanced_email_management/toc.rst:520
-#, fuzzy
 msgid "Under the Accounts list section, click **ADD PERSONA**."
-msgstr "Nella sezione Elenco account, fare clic su **AGGIUNGI PERSONA**."
+msgstr ""
+"Nella sezione Lista degli account, fare clic su **AGGIUNGI PERSONALITÀ**."
 
 #: ../../advanced_email_management/toc.rst:521
-#, fuzzy
 msgid ""
 "Under the **Persona Settings** section, choose a name for the added "
 "persona."
 msgstr ""
-"Sotto la sezione **Impostazioni persona**, scegli un nome per la persona "
-"aggiunta."
+"Seleziona la nuova personalità: nella sezione **Impostazioni personalità** "
+"che appare, scegli un nome per la nuova persona."
 
 #: ../../advanced_email_management/toc.rst:529
-#, fuzzy
 msgid "Removing Personas"
-msgstr "Rimozione delle Persone"
+msgstr "Rimuovere Personalità"
 
 #: ../../advanced_email_management/toc.rst:531
-#, fuzzy
 msgid "To remove a persona:"
-msgstr "Eliminare una persona:"
+msgstr "Per eliminare una persona (personalità):"
 
 #: ../../advanced_email_management/toc.rst:535
-#, fuzzy
 msgid "Under the Accounts list section, select the persona you wish to remove."
 msgstr ""
-"Nella sezione Elenco account, seleziona la persona che desideri rimuovere."
+"Nella sezione Lista degli account, seleziona la personalità che desideri "
+"rimuovere."
 
 #: ../../advanced_email_management/toc.rst:536
-#, fuzzy
 msgid "Click **DELETE**, and then **DELETE PERMANENTLY** to confirm."
 msgstr ""
 "Clicca su **ELIMINA** e poi su **ELIMINA DEFINITIVAMENTE** per confermare."
 
 #: ../../advanced_email_management/toc.rst:539
-#, fuzzy
 msgid "Set Email Retention and Disposal Policies for a Folder"
-msgstr ""
-"Imposta le Politiche di Conservazione e Eliminazione Posta Elettronica per "
-"una Cartella"
+msgstr "Impostare le Regole di Conservazione per una Casella"
 
 #: ../../advanced_email_management/toc.rst:541
-#, fuzzy
 msgid ""
 "The email **retention policy** establishes that emails stored within a "
 "designated folder and falling within the retention period will "
@@ -1833,176 +1702,154 @@ msgid ""
 "and surpassing the disposal threshold will undergo automated cleanup and "
 "deletion without requiring manual intervention."
 msgstr ""
-"La **politica di conservazione di posta elettronica** stabilisce che le e-"
-"mail archiviate all'interno di una cartella designata e rientranti nel "
-"periodo di conservazione richiederanno una conferma esplicita prima della "
-"cancellazione. Al contrario, la **politica di smaltimento di posta "
-"elettronica** dispone che le e-mail residenti in una cartella specificata e "
-"che superano lo standard per lo smaltimento subiranno una pulizia e "
-"cancellazione automatica senza richiedere un intervento manuale."
+"Le **regole di conservazione** o retention stabiliscono che le email "
+"contenute in una cartella e rientranti nel periodo di conservazione "
+"richiederanno una conferma esplicita per poter essere cancellate. Al "
+"contrario, le **regole di cancellazione dei messaggi** prevedono che le "
+"email contenute in una cartella specifica che superano il periodo stabilito "
+"per lo smaltimento subiranno una cancellazione automatica, senza richiedere "
+"un intervento manuale."
 
 #: ../../advanced_email_management/toc.rst:544
-#, fuzzy
 msgid "To enable and set a **retention policy** for a folder:"
 msgstr ""
-"Per abilitare e impostare una **policy di conservazione** per una cartella:"
+"Per abilitare e impostare delle **regole di conservazione** per una cartella:"
 
 #: ../../advanced_email_management/toc.rst:546
 #: ../../advanced_email_management/toc.rst:558
 #: ../../basic_email_management/toc.rst:22
 #: ../../basic_email_management/toc.rst:34
 #: ../../basic_email_management/toc.rst:64
-#, fuzzy
 msgid "From the left sidebar click on the **Mails** section."
-msgstr "Dalla barra laterale sinistra, fare clic sulla sezione **Mail**."
+msgstr "Dalla barra laterale sinistra, fai clic sulla sezione **Mail**."
 
 #: ../../advanced_email_management/toc.rst:547
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click on the folder for which you wish to "
 "set its retention policy."
 msgstr ""
-"Nel pannello di navigazione, fare clic con il pulsante destro del mouse "
-"sulla cartella per cui si desidera impostare la politica di conservazione."
+"Nel pannello di navigazione, fai clic destro con il mouse sulla cartella per "
+"cui desideri impostare le regole di conservazione."
 
 #: ../../advanced_email_management/toc.rst:548
 #: ../../advanced_email_management/toc.rst:560
-#, fuzzy
 msgid "From the dropdown menu, select **Edit**. A new window appears."
-msgstr "Seleziona **Modifica** dal menu a discesa. Appare una nuova finestra."
+msgstr "Seleziona **Modifica** dal menu a tendina. Apparirà una nuova finestra."
 
 #: ../../advanced_email_management/toc.rst:549
 #: ../../advanced_email_management/toc.rst:561
-#, fuzzy
 msgid "Click the downward arrow next to the **Retention policy** section."
 msgstr ""
-"Fai clic sulla freccia discendente accanto alla sezione **Criteri di "
-"conservazione**."
+"Fai clic sulla freccia discendente accanto al campo **Periodo di retention**."
 
 #: ../../advanced_email_management/toc.rst:550
-#, fuzzy
 msgid "Tick the box labeled Enable Message Retention."
-msgstr "Seleziona la casella Etichetta Abilita conservazione messaggi."
+msgstr "Spunta la casella Abilita la conservazione dei messaggi."
 
 #: ../../advanced_email_management/toc.rst:551
-#, fuzzy
 msgid ""
 "Enter a numerical value in the **Retention Range** field and choose the "
 "appropriate unit of time (such as days, weeks, etc.) from the adjacent "
 "dropdown menu."
 msgstr ""
-"Inserisci un valore numerico nel campo di **Retention Range** e seleziona "
-"l'unità di tempo appropriata (ad esempio giorni, settimane, ecc.) dal menu a "
-"discesa adiacente."
+"Inserisci un valore numerico nel campo di **Periodo di retention** e "
+"seleziona l'unità di tempo appropriata (ad esempio giorni, settimane ecc.) "
+"dal menu a tendina adiacente."
 
 #: ../../advanced_email_management/toc.rst:552
 #: ../../advanced_email_management/toc.rst:564 ../../tasks/toc.rst:41
-#, fuzzy
 msgid "Click **EDIT**."
-msgstr "Fai clic su **MODIFICA**."
+msgstr "Fai clic su **MODIFICA** per confermare."
 
 #: ../../advanced_email_management/toc.rst:554
-#, fuzzy
 msgid ""
 "After clicking EDIT, the retention policy will be activated for the "
 "specified folder, requiring explicit confirmation before the deletion of "
 "emails within the retention period."
 msgstr ""
-"Dopo aver fatto clic su MODIFICA, la politica di conservazione sarà attivata "
-"per la cartella specificata, richiedendo una conferma esplicita prima "
-"dell'eliminazione delle email all'interno del periodo di conservazione."
+"Una volta fatto clic su MODIFICA, la regola di conservazione sarà attivata "
+"per la cartella specificata, quindi verrà richiesta una conferma esplicita "
+"per poter eliminare delle email che ricadono nel periodo di conservazione."
 
 #: ../../advanced_email_management/toc.rst:556
-#, fuzzy
 msgid "To enable and set a **disposal policy** for a folder:"
 msgstr ""
-"Per abilitare e impostare una **politica di eliminazione** per una cartella:"
+"Per impostare e abilitare una **regola di cancellazione** per una cartella:"
 
 #: ../../advanced_email_management/toc.rst:559
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click on the folder for which you wish to "
 "set its disposal policy."
 msgstr ""
-"Nel pannello di Navigazione, fare clic destro sulle cartelle per le quali si "
-"desidera impostare il criterio di eliminazione."
+"Nel pannello di navigazione, fai clic destro sulla cartella per cui desideri "
+"impostare la regola di cancellazione."
 
 #: ../../advanced_email_management/toc.rst:562
-#, fuzzy
 msgid "Tick the box labeled Enable Message Disposal."
-msgstr "Seleziona la casella contrassegnata Abilita eliminazione messaggi."
+msgstr "Spunta la casella Abilita la cancellazione dei messaggi."
 
 #: ../../advanced_email_management/toc.rst:563
-#, fuzzy
 msgid ""
 "Enter a numerical value in the **Disposal Threshold** field and choose "
 "the appropriate unit of time (such as days, weeks, etc.) from the "
 "adjacent dropdown menu."
 msgstr ""
-"Inserire un valore numerico nel campo **Limite di Smaltimento** e "
-"selezionare l'unità di tempo appropriata (ad esempio giorni, settimane, ecc.)"
-" dal menu a discesa adiacente."
+"Inserisci un valore numerico nel campo **Limite per l'eliminazione** e "
+"seleziona l'unità di tempo appropriata (ad esempio giorni, settimane ecc.) "
+"dal menu a tendina adiacente."
 
 #: ../../advanced_email_management/toc.rst:566
-#, fuzzy
 msgid ""
 "After clicking EDIT, the disposal policy will be applied to the specified"
 " folder, triggering automated cleanup and deletion for emails surpassing "
 "the disposal threshold."
 msgstr ""
-"Dopo aver fatto clic su MODIFICA, la politica di smaltimento verrà applicata "
-"alla cartella specificata, attivando la pulizia e la cancellazione "
-"automatiche per le e-mail che superano la soglia di smaltimento."
+"Una volta confermato cliccando su MODIFICA, la regola di cancellazione verrà "
+"applicata alla cartella specificata, attivando l'eliminazione automatica per "
+"le email che superano il periodo di cancellazione."
 
 #: ../../appointments/toc.rst:7
-#, fuzzy
 msgid "Working with Appointments"
-msgstr "Fissare gli appuntamenti"
+msgstr "Fissare gli Appuntamenti"
 
 #: ../../appointments/toc.rst:9
-#, fuzzy
 msgid ""
 "Appointments serve as pivotal tools for organizing schedules, enabling "
 "the creation of both one-time and recurring events, meetings, and "
 "engagements."
 msgstr ""
-"Gli appuntamenti fungono da strumenti fondamentali per organizzare gli "
-"orari, consentendo la creazione di eventi, riunioni e impegni sia una tantum "
-"che ricorrenti."
+"Gli appuntamenti sono strumenti fondamentali per pianificare i tuoi orari: "
+"puoi creare eventi, riunioni e impegni sia singoli che ricorrenti."
 
 #: ../../appointments/toc.rst:11
-#, fuzzy
 msgid ""
 "This feature facilitates efficient planning by allowing users to check "
 "the availability of attendees before extending invitations, reserve "
 "necessary resources such as meeting rooms and equipment, and append "
 "personalized messages to invitations."
 msgstr ""
-"Questa funzione consente una pianificazione efficiente permettendo agli "
-"utenti di verificare la disponibilità dei partecipanti prima di inviare "
-"inviti, prenotare le risorse necessarie come sale riunioni e attrezzature e "
-"allegare messaggi personalizzati agli inviti."
+"Questa funzione consente una pianificazione efficiente, ad esempio puoi "
+"verificare la disponibilità dei partecipanti prima di inviare loro gli "
+"inviti, prenotare le risorse necessarie come sale riunioni e attrezzature, o "
+"allegare messaggi personalizzati ai tuoi inviti."
 
 #: ../../appointments/toc.rst:13
-#, fuzzy
 msgid ""
 "Such features enhance communication and coordination, fostering a "
 "productive work environment where employees can effectively manage their "
 "time and collaborate seamlessly."
 msgstr ""
-"Tali funzionalità migliorano la comunicazione e la coordinazione, favorendo "
-"un ambiente di lavoro produttivo in cui i dipendenti possano gestire "
-"efficacemente il loro tempo e collaborare in modo fluido."
+"Questo semplifica la comunicazione e la coordinazione, favorendo un ambiente "
+"di lavoro produttivo in cui i dipendenti possano gestire efficacemente il "
+"loro tempo e collaborare in modo fluido."
 
 #: ../../appointments/toc.rst:17
-#, fuzzy
 msgid "Creating an Appointment"
 msgstr "Creare un Appuntamento"
 
 #: ../../appointments/toc.rst:23
-#, fuzzy
 msgid "To create a new appointment:"
-msgstr "Creare appuntamento:"
+msgstr "Per creare un appuntamento:"
 
 #: ../../appointments/toc.rst:25 ../../appointments/toc.rst:56
 #: ../../appointments/toc.rst:67 ../../appointments/toc.rst:78
@@ -2015,46 +1862,39 @@ msgstr "Creare appuntamento:"
 #: ../../calendars/toc.rst:213 ../../calendars/toc.rst:226
 #: ../../calendars/toc.rst:262 ../../calendars/toc.rst:273
 #: ../../calendars/toc.rst:286
-#, fuzzy
 msgid "Select the **Calendars** from your left sidebar."
-msgstr "Seleziona **Calendario** nel menu laterale a sinistra **."
+msgstr "Seleziona **Calendario** nel menu laterale a sinistra."
 
 #: ../../appointments/toc.rst:26 ../../appointments/toc.rst:130
 #: ../../contacts/toc.rst:43 ../../tasks/toc.rst:21
-#, fuzzy
 msgid ""
 "Click on the **NEW** button located on the top bar. A new board will "
 "appear."
 msgstr ""
-"Clicca sul pulsante **NUOVO** posizionato sulla barra superiore. Sarà "
-"visualizzata una nuova scheda."
+"Clicca sul tasto **NUOVO** posizionato nella barra superiore. Si aprirà una "
+"nuova scheda."
 
 #: ../../appointments/toc.rst:27
-#, fuzzy
 msgid ""
 "In the **From** field, select the identity you want to use to schedule "
 "and send the appointment invitation."
 msgstr ""
-"Nel campo **Da**, selezionare l'identità che si desidera utilizzare per "
-"pianificare e inviare l'invito a incontri."
+"Nel campo **Da**, seleziona l'identità che desideri utilizzare per inviare "
+"l'invito."
 
 #: ../../appointments/toc.rst:28
-#, fuzzy
 msgid "Enter a title for the appointment in the **Event title** field."
-msgstr "Immettere un titolo per l'appuntamento nel campo **Titolo evento**."
+msgstr "Immetti un titolo per l'appuntamento nel campo **Titolo dell'evento**."
 
 #: ../../appointments/toc.rst:29 ../../appointments/toc.rst:133
-#, fuzzy
 msgid ""
 "Specify a location for the appointment to occur in the **Location "
 "field**. If applicable, you may include details such as Room Number 2."
 msgstr ""
-"Specificare una posizione in cui si terrà l'appuntamento nel campo "
-"**Posizione**. Se applicabile, è possibile includere dettagli come il Numero "
-"della Stanza 2."
+"Specifica il luogo fisico dove si terrà l'appuntamento nel campo **Luogo**. "
+"Se applicabile, puoi includere dettagli come \"stanza numero 2\"."
 
 #: ../../appointments/toc.rst:30
-#, fuzzy
 msgid ""
 "Choose a meeting room from the available options in the **Meeting room** "
 "field. Please note that these meeting rooms are configured by your system"
@@ -2063,11 +1903,10 @@ msgid ""
 "office are included."
 msgstr ""
 "Scegli una sala riunioni tra le opzioni disponibili nel campo **Sala "
-"riunioni**. Si prega di notare che queste sale riunioni sono state "
-"configurate dal tuo amministratore di sistema. Se non si vede la sala "
-"desiderata elencata, si prega di contattare il proprio amministratore di "
-"sistema per assicurarsi che tutte le sale riunioni pertinenti nel proprio "
-"ufficio siano incluse."
+"riunioni**. Not che queste sale riunioni sono state configurate dal tuo "
+"amministratore di sistema. Se non vedi la sala desiderata in elenco, "
+"contatta il tuo amministratore di sistema per assicurarti che tutte le sale "
+"riunioni pertinenti del tuo ufficio siano incluse."
 
 #: ../../appointments/toc.rst:31 ../../appointments/toc.rst:135
 #, fuzzy
@@ -2240,73 +2079,62 @@ msgid "Editing an Existing Appointment"
 msgstr "Modifica di un appuntamento esistente"
 
 #: ../../appointments/toc.rst:54
-#, fuzzy
 msgid "To edit an existing appointment:"
 msgstr "Per modificare un appuntamento esistente:"
 
 #: ../../appointments/toc.rst:57 ../../appointments/toc.rst:68
-#, fuzzy
 msgid ""
 "Right-click on the appointment you wish to edit, which is displayed on "
 "your timetable."
 msgstr ""
-"Fai clic con il pulsante destro del mouse sull'appuntamento che desideri "
-"modificare, visualizzato sul tuo orario."
+"Fai clic con il tasto destro del mouse sull'appuntamento che desideri "
+"modificare, visualizzato nel tuo calendario."
 
 #: ../../appointments/toc.rst:58 ../../appointments/toc.rst:94
 #: ../../appointments/toc.rst:105 ../../appointments/toc.rst:116
 #: ../../chats(wsc)/toc.rst:71 ../../chats/toc.rst:73 ../../tasks/toc.rst:39
-#, fuzzy
 msgid "Select **Edit** from the drop-down menu."
-msgstr "Seleziona **Modifica** dal menu a discesa."
+msgstr "Seleziona **Modifica** dal menu a tendina."
 
 #: ../../appointments/toc.rst:59 ../../appointments/toc.rst:95
-#, fuzzy
 msgid "Make changes."
-msgstr "Apportare modifiche."
+msgstr "Apporta le modifiche."
 
 #: ../../appointments/toc.rst:60 ../../appointments/toc.rst:96
 #: ../../appointments/toc.rst:107 ../../appointments/toc.rst:118
-#, fuzzy
 msgid ""
 "If you have created the appointment solely for yourself, click **SAVE**. "
 "If your appointment includes attendees, click **SEND** to notify them "
 "about the changes via an automatic email."
 msgstr ""
 "Se hai creato l'appuntamento esclusivamente per te stesso, clicca su "
-"**SALVA**. Se il tuo appuntamento include partecipanti, clicca su **INVIA** "
-"per notificarli delle modifiche tramite un'email automatica."
+"**SALVA**. Se il tuo appuntamento include degli altri partecipanti, clicca "
+"su **INVIA** per notificarli delle modifiche tramite un'email automatica."
 
 #: ../../appointments/toc.rst:63
-#, fuzzy
 msgid "Forwarding an Existing Appointment"
-msgstr "Inoltro di un appuntamento esistente"
+msgstr "Inoltrare un appuntamento esistente"
 
 #: ../../appointments/toc.rst:65
-#, fuzzy
 msgid "To forward an existing appointment:"
 msgstr "Per inoltrare un appuntamento esistente:"
 
 #: ../../appointments/toc.rst:69 ../../chats(wsc)/toc.rst:91
 #: ../../chats/toc.rst:93
-#, fuzzy
 msgid "Select **Forward** from the drop-down menu."
-msgstr "Seleziona **Continua** dal menu a discesa."
+msgstr "Seleziona **Inoltra** dal menu a tendina."
 
 #: ../../appointments/toc.rst:70
-#, fuzzy
 msgid ""
 "Enter the email address of the person you wish to forward the appointment"
 " to."
 msgstr ""
-"Immettere l'indirizzo e-mail della persona alla quale si desidera inoltrare "
-"l'appuntamento."
+"Immetti l'indirizzo email della persona a cui vuoi inoltrare l'appuntamento."
 
 #: ../../appointments/toc.rst:71
-#, fuzzy
 msgid "Click **FORWARD** to send the appointment to the specified email address."
 msgstr ""
-"Fare clic su **INOLTRO** per inviare l'appuntamento all'indirizzo email "
+"Fai clic su **INOLTRA** per inviare l'appuntamento all'indirizzo email "
 "specificato."
 
 #: ../../appointments/toc.rst:74

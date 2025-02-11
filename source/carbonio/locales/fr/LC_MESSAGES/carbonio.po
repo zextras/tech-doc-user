@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-07 10:54+0000\n"
+"PO-Revision-Date: 2025-02-11 14:54+0000\n"
 "Last-Translator: Emmanuelle Hérillard <emmanuelle.herillard@zextras.fr>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
@@ -35,7 +35,7 @@ msgid ""
 msgstr ""
 "Cette section aborde des techniques plus avancées de gestion des courriels "
 "qui offrent des avantages significatifs à long terme. Nous conseillons "
-"vivement aux passionnés de nos |produits| de prendre connaissance de ces "
+"vivement aux passionnés de |produit| de prendre connaissance de ces "
 "stratégies. Les techniques comprennent le traitement efficace des courriels "
 "indésirables, l'utilisation des filtres de messagerie, les signatures de "
 "courriels, etc."
@@ -64,7 +64,7 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:50
 #: ../../advanced_email_management/toc.rst:111
 msgid "Select Mails."
-msgstr ""
+msgstr "Sélectionnez Emails."
 
 #: ../../advanced_email_management/toc.rst:18
 msgid "Under Displaying Messages, click on Check new e-mail."
@@ -75,13 +75,15 @@ msgid ""
 "From the drop-down menu, choose how often you would like to check for new"
 " mail."
 msgstr ""
+"Dans le menu déroulant, choisissez la fréquence à laquelle vous souhaitez "
+"vérifier la présence de nouveaux courriers."
 
 #: ../../advanced_email_management/toc.rst:20
 #: ../../advanced_email_management/toc.rst:52
 #: ../../advanced_email_management/toc.rst:114
 #: ../../advanced_email_management/toc.rst:131
 msgid "Click the SAVE button in the top right corner."
-msgstr ""
+msgstr "Cliquez sur le bouton SAUVEGARDER dans le coin supérieur droit."
 
 #: ../../advanced_email_management/toc.rst:22
 msgid ""
@@ -89,10 +91,14 @@ msgid ""
 "new emails. If you choose As new email arrives, your inbox will refresh "
 "automatically upon receiving a new email."
 msgstr ""
+"Si vous sélectionnez Manuellement, vous devrez cliquer sur l'icône de "
+"rechargement pour récupérer les nouveaux courriels. Si vous choisissez À "
+"l'arrivée d'un nouveau courriel, votre boîte de réception sera actualisée "
+"automatiquement à la réception d'un nouveau courriel."
 
 #: ../../advanced_email_management/toc.rst:29
 msgid "Email Notification"
-msgstr ""
+msgstr "Notification de réception d'emails"
 
 #: ../../advanced_email_management/toc.rst:31
 msgid ""
@@ -100,6 +106,10 @@ msgid ""
 "To enable desktop alerts for new email notifications, ensure that your "
 "web client is open on your browser."
 msgstr ""
+"Vous pouvez personnaliser l'envoi d'une notification lorsque vous recevez de "
+"nouveaux emails. Afin d'activer les alertes de bureau pour les notifications "
+"de nouveaux courriels, assurez-vous que votre client web est ouvert sur "
+"votre navigateur."
 
 #: ../../advanced_email_management/toc.rst:33
 #: ../../advanced_email_management/toc.rst:145
@@ -121,6 +131,7 @@ msgstr ""
 #: ../../calendars/toc.rst:166
 msgid "Click on the **Settings** (gear icon) in the left sidebar."
 msgstr ""
+"Cliquez sur **Réglages** (icône d'engrenage) dans la barre latérale gauche."
 
 #: ../../advanced_email_management/toc.rst:34
 #: ../../advanced_email_management/toc.rst:146
@@ -136,35 +147,42 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:417
 #: ../../advanced_email_management/toc.rst:430
 msgid "Select **Mails**."
-msgstr ""
+msgstr "Sélectionnez **Emails**."
 
 #: ../../advanced_email_management/toc.rst:35
 msgid ""
 "Under **Arrival Notifications**, you will see different notification "
 "options."
 msgstr ""
+"Sous **Notifications d'arrivée**, vous verrez différentes options de "
+"notification."
 
 #: ../../advanced_email_management/toc.rst:36
 msgid ""
 "Check the box for **Show a popup notification** if you prefer a window "
 "pop-up when receiving a new email."
 msgstr ""
+"Cochez la case **Afficher une notification popup** si vous préférez qu'une "
+"fenêtre popup s'affiche lors de la réception d'un nouvel email."
 
 #: ../../advanced_email_management/toc.rst:37
 msgid ""
 "Check the box for the **Play audio hint when new notification appears** "
 "if you prefer an audible notification for incoming emails."
 msgstr ""
+"Cochez la case **Jouer un signal sonore quand une nouvelle notification "
+"arrive** si vous préférez une notification sonore pour les courriels "
+"entrants."
 
 #: ../../advanced_email_management/toc.rst:38
 #: ../../advanced_email_management/toc.rst:149
 #: ../../advanced_email_management/toc.rst:162
 msgid "Click the **SAVE** button in the top right corner."
-msgstr ""
+msgstr "Cliquez sur le bouton **SAUVEGARDER** dans le coin supérieur droit."
 
 #: ../../advanced_email_management/toc.rst:45
 msgid "Receiving Notifications via Another Email Address"
-msgstr ""
+msgstr "Recevoir des notifications via une autre adresse électronique"
 
 #: ../../advanced_email_management/toc.rst:47
 msgid ""
@@ -176,22 +194,35 @@ msgid ""
 "section, for this feature, you do not need to keep your |product| webmail"
 " open."
 msgstr ""
+"Vous pouvez personnaliser vos préférences afin de recevoir des notifications "
+"à une autre adresse électronique lorsque vous recevez un courrier "
+"électronique dans votre boîte de réception |produit|. Cette option peut "
+"s'avérer particulièrement utile si vous ne recevez pas un grand nombre "
+"d'emails sur ce compte, mais que ceux que vous recevez requièrent une "
+"attention immédiate. Contrairement aux notifications mentionnées dans la "
+"section précédente, cette fonctionnalité ne nécessite pas que vous gardiez "
+"votre webmail |produit| ouvert."
 
 #: ../../advanced_email_management/toc.rst:51
 msgid ""
 "Under Message Arrival, insert another email address (e.g., your Gmail "
 "address)."
 msgstr ""
+"Sous Arrivée de message, insérez une autre adresse électronique (par "
+"exemple, votre adresse Gmail)."
 
 #: ../../advanced_email_management/toc.rst:54
 msgid ""
 "Going forward, you will receive an email notification on your Gmail "
 "account whenever a new email arrives in your |product| inbox."
 msgstr ""
+"À l'avenir, vous recevrez une notification par courriel sur votre compte "
+"Gmail chaque fois qu'un nouveau courriel arrivera dans votre boîte de "
+"réception |produit|."
 
 #: ../../advanced_email_management/toc.rst:61
 msgid "Marking an Email as Spam"
-msgstr ""
+msgstr "Marquer un courriel comme spam"
 
 #: ../../advanced_email_management/toc.rst:63
 msgid ""
@@ -207,22 +238,36 @@ msgid ""
 "as spam automatically helps |product| in refining the spam filtering "
 "process."
 msgstr ""
+"La plupart des courriels automatisés non sollicités, communément appelés « "
+"spam » ou « courrier indésirable », sont filtrés par un filtre anti-spam "
+"avant d'arriver dans votre boîte de réception. Les messages potentiellement "
+"indésirables, mais qui ne sont pas définitivement identifiés comme tels, "
+"sont dirigés vers votre dossier « Courrier indésirable ». Vous avez la "
+"possibilité de consulter ces messages et de les déplacer hors du dossier "
+"Courrier indésirable ou de les supprimer. S'ils ne sont pas supprimés, ces "
+"messages sont automatiquement supprimés après un certain nombre de jours, "
+"déterminé par votre administrateur système. Si vous êtes inondé d'un volume "
+"important de courriels indésirables, il est conseillé de contacter votre "
+"administrateur système. Le fait de marquer ces courriels comme étant du spam "
+"aide automatiquement à affiner le processus de filtrage du spam."
 
 #: ../../advanced_email_management/toc.rst:68
 msgid "Right-click on the email you wish to mark as spam."
 msgstr ""
+"Cliquez avec le bouton droit de la souris sur l'email que vous souhaitez "
+"marquer comme spam."
 
 #: ../../advanced_email_management/toc.rst:69
 msgid "From the menu that appears, select Mark as spam."
-msgstr ""
+msgstr "Dans le menu qui s'affiche, sélectionnez Marquer comme spam."
 
 #: ../../advanced_email_management/toc.rst:70
 msgid "Your email will be automatically moved to your Junk Folder."
-msgstr ""
+msgstr "Votre courriel sera automatiquement déplacé dans votre Dossier Spam."
 
 #: ../../advanced_email_management/toc.rst:73
 msgid "Removing Spam Emails"
-msgstr ""
+msgstr "Suppression des courriels indésirables"
 
 #: ../../advanced_email_management/toc.rst:75
 msgid ""
@@ -230,54 +275,67 @@ msgid ""
 "automatically purged after a certain period, as determined by your system"
 " administrator. To remove your spam emails:"
 msgstr ""
+"Si vous ne prenez pas de mesures pour supprimer vos courriels indésirables, "
+"ils seront automatiquement purgés après une certaine période, déterminée par "
+"votre administrateur système. Pour supprimer vos spams :"
 
 #: ../../advanced_email_management/toc.rst:77
 msgid "Click on the **Mails** in the left sidebar."
-msgstr ""
+msgstr "Cliquez sur **Mails** dans la barre latérale gauche."
 
 #: ../../advanced_email_management/toc.rst:78
 msgid "Right-click on the **Junk** folder."
-msgstr ""
+msgstr "Cliquez avec le bouton droit de la souris sur le dossier **Spam**."
 
 #: ../../advanced_email_management/toc.rst:79
 msgid "Select **Wipe Folder** from the menu.*"
-msgstr ""
+msgstr "Sélectionnez **Effacer le dossier** dans le menu.*"
 
 #: ../../advanced_email_management/toc.rst:81
 msgid ""
 "If you need to remove a specific spam email, you can easily right-click "
 "on the email and select **Delete**."
 msgstr ""
+"Si vous avez besoin de supprimer un courriel indésirable spécifique, vous "
+"pouvez facilement cliquer avec le bouton droit de la souris sur le courriel "
+"et sélectionner **Supprimer**."
 
 #: ../../advanced_email_management/toc.rst:84
 msgid "Marking Email as Not Spam"
-msgstr ""
+msgstr "Marquer les courriels comme n'étant pas un Spam"
 
 #: ../../advanced_email_management/toc.rst:86
 msgid ""
 "Occasionally, emails that are not junk may end up in the Junk folder. In "
 "such cases, you can manually move these emails to the appropriate folder."
 msgstr ""
+"Il peut arriver que des courriers électroniques qui ne sont pas des "
+"courriers indésirables se retrouvent dans le dossier « Spam ». Dans ce cas, "
+"vous pouvez les déplacer manuellement vers le dossier approprié."
 
 #: ../../advanced_email_management/toc.rst:88
 msgid "Go to your **Junk** folder."
-msgstr ""
+msgstr "Allez dans votre dossier **Spam**."
 
 #: ../../advanced_email_management/toc.rst:89
 msgid "Right-click on the email you wish to mark as not spam."
 msgstr ""
+"Cliquez avec le bouton droit de la souris sur l'email que vous souhaitez "
+"marquer comme n'étant pas un spam."
 
 #: ../../advanced_email_management/toc.rst:90
 msgid "From the menu that appears, select **Not spam**."
-msgstr ""
+msgstr "Dans le menu qui s'affiche, sélectionnez **Pas de spam**."
 
 #: ../../advanced_email_management/toc.rst:91
 msgid "Your email will be automatically moved to the intended folder."
 msgstr ""
+"Votre courriel sera automatiquement déplacé dans le dossier prévu à cet "
+"effet."
 
 #: ../../advanced_email_management/toc.rst:94
 msgid "Finding the Origin of an Email"
-msgstr ""
+msgstr "Trouver l'origine d'un email"
 
 #: ../../advanced_email_management/toc.rst:96
 msgid ""
@@ -290,29 +348,40 @@ msgid ""
 " details about the email's journey, such as sender and recipient IP "
 "addresses, timestamps, and any spam detection information."
 msgstr ""
+"L'historique du transport des courriels sert à diverses fins, notamment à "
+"vérifier l'authenticité, à enquêter sur les problèmes de livraison, à "
+"détecter les tentatives d'hameçonnage, à déboguer les configurations des "
+"serveurs de messagerie, à assurer la conformité et à répondre aux exigences "
+"légales. Ces informations sont généralement affichées sur une page de texte, "
+"comprenant l'en-tête de l'email (également appelé information sur "
+"l'enveloppe) et le corps de l'email. L'en-tête de l'email contient des "
+"informations essentielles sur le parcours de l'email, telles que les "
+"adresses IP de l'expéditeur et du destinataire, l'horodatage et toute "
+"information relative à la détection du spam."
 
 #: ../../advanced_email_management/toc.rst:98
 msgid "To trace the email’s origin, follow these steps:"
 msgstr ""
+"Pour retrouver l'origine du courrier électronique, procédez comme suit :"
 
 #: ../../advanced_email_management/toc.rst:100
 #: ../../basic_email_management/toc.rst:110
 #: ../../basic_email_management/toc.rst:123 ../../composing_emails/toc.rst:202
 #: ../../composing_emails/toc.rst:222 ../../composing_emails/toc.rst:233
 msgid "Right-click on the email."
-msgstr ""
+msgstr "Cliquez avec le bouton droit de la souris sur l'email."
 
 #: ../../advanced_email_management/toc.rst:101
 msgid "Select Show original."
-msgstr ""
+msgstr "Sélectionnez Afficher l'original."
 
 #: ../../advanced_email_management/toc.rst:102
 msgid "A new window will open, displaying the relevant information."
-msgstr ""
+msgstr "Une nouvelle fenêtre s'ouvre, affichant les informations pertinentes."
 
 #: ../../advanced_email_management/toc.rst:105
 msgid "Setting Up Trusted Addresses"
-msgstr ""
+msgstr "Configuration des adresses de confiance"
 
 #: ../../advanced_email_management/toc.rst:107
 msgid ""
@@ -322,6 +391,12 @@ msgid ""
 "embedded images in emails received from addresses with this domain will "
 "automatically display upon opening the email. Here is how to do it:"
 msgstr ""
+"Vous avez la possibilité de désigner des adresses électroniques provenant de "
+"domaines spécifiques comme adresses de confiance (le domaine fait partie de "
+"l'adresse après le @, comme votreEntreprise dans prénom.nom@votreEntreprise."
+"com). En procédant ainsi, vous vous assurez que toutes les images intégrées "
+"dans les courriels reçus à partir d'adresses ayant ce domaine s'afficheront "
+"automatiquement à l'ouverture du courriel. Voici comment procéder :"
 
 #: ../../advanced_email_management/toc.rst:112
 msgid ""
@@ -329,48 +404,63 @@ msgid ""
 "provided text box. If you want to trust all addresses from a specific "
 "domain, use the entire domain name."
 msgstr ""
+"Sous Adresses de confiance, indiquez l'adresse email ou le nom de domaine "
+"dans la zone de texte prévue à cet effet. Si vous voulez faire confiance à "
+"toutes les adresses d'un domaine spécifique, utilisez le nom de domaine "
+"entier."
 
 #: ../../advanced_email_management/toc.rst:113
 msgid "Click the Add button to add the address or domain to the trusted list."
 msgstr ""
+"Cliquez sur le bouton Ajouter pour ajouter l'adresse ou le domaine à la "
+"liste de confiance."
 
 #: ../../advanced_email_management/toc.rst:121
 msgid "Creating an Out-of-Office Email"
-msgstr ""
+msgstr "Création d'un courriel Absent du bureau"
 
 #: ../../advanced_email_management/toc.rst:123
 msgid ""
 "When you are away from the office, setting up an automatic reply can keep"
 " colleagues and clients informed. Here is how to set it up:"
 msgstr ""
+"Lorsque vous n'êtes pas au bureau, la mise en place d'une réponse "
+"automatique permet de tenir vos collègues et vos clients informés. Voici "
+"comment procéder :"
 
 #: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:223
 #: ../../get_started/toc.rst:248 ../../get_started/toc.rst:267
 #: ../../get_started/toc.rst:282
 msgid "Select General Settings."
-msgstr ""
+msgstr "Sélectionnez Paramètres généraux."
 
 #: ../../advanced_email_management/toc.rst:127
 msgid ""
 "Under Out of Office Settings, select Send auto-replies from the first "
 "drop-down menu."
 msgstr ""
+"Sous Paramètres d'absence du bureau, sélectionnez Envoyez des réponses "
+"automatiques dans le premier menu déroulant."
 
 #: ../../advanced_email_management/toc.rst:128
 msgid ""
 "In the Auto-Reply Message field, type the message you would like to be "
 "sent out while you are away."
 msgstr ""
+"Dans le champ Message de réponse automatique, saisissez le message que vous "
+"souhaitez envoyer pendant votre absence."
 
 #: ../../advanced_email_management/toc.rst:129
 msgid "Select the recipient from the External Senders field."
-msgstr ""
+msgstr "Sélectionnez le destinataire dans le champ Expéditeurs externes."
 
 #: ../../advanced_email_management/toc.rst:130
 msgid ""
 "Under Time Period select Send auto-replies during the following period "
 "and select the dates."
 msgstr ""
+"Sous Période de temps, sélectionnez Envoyer des réponses automatiques "
+"pendant la période suivante et sélectionnez les dates."
 
 #: ../../advanced_email_management/toc.rst:133
 msgid ""
@@ -378,10 +468,14 @@ msgid ""
 "of the day, you can customize the interval by selecting All Day and then "
 "specifying the desired time frame by choosing the start and end hours."
 msgstr ""
+"Si vous préférez n'envoyer le courriel hors du bureau qu'à certaines heures "
+"de la journée, vous pouvez personnaliser l'intervalle en sélectionnant Toute "
+"la journée, puis en spécifiant la plage horaire souhaitée en choisissant les "
+"heures de début et de fin."
 
 #: ../../advanced_email_management/toc.rst:140
 msgid "Showing Emails in HTML or Plain Text Format"
-msgstr ""
+msgstr "Afficher les courriels au format HTML ou texte brut"
 
 #: ../../advanced_email_management/toc.rst:142
 msgid ""
@@ -393,18 +487,26 @@ msgid ""
 " message in plain-text mode even if it contains HTML. The HTML tags are "
 "displayed in the body of the message in the plain text view."
 msgstr ""
+"Les messages électroniques peuvent être affichés dans deux formats : HTML ou "
+"texte brut. Les messages HTML peuvent contenir du texte formaté, des "
+"numéros, des puces, des arrière-plans colorés et des liens, ce qui facilite "
+"la lecture des messages. Les messages en texte brut peuvent toujours être "
+"lus par d'autres clients de messagerie. Le texte brut ne prend pas en charge "
+"la mise en forme du texte, les styles, les liens ou les images. Vous pouvez "
+"afficher un message en mode texte brut même s'il contient du HTML. Les "
+"balises HTML sont affichées dans le corps du message en mode texte brut."
 
 #: ../../advanced_email_management/toc.rst:147
 msgid "Under Displaying Messages, click on the Display mail field."
-msgstr ""
+msgstr "Sous Afficher les messages, cliquez sur le champ Afficher le courrier."
 
 #: ../../advanced_email_management/toc.rst:148
 msgid "From the drop-down menu, select **As HTML** or **As text**."
-msgstr ""
+msgstr "Dans le menu déroulant, sélectionnez **En HTML** ou **En texte**."
 
 #: ../../advanced_email_management/toc.rst:152
 msgid "Configuring Read Receipts Behavior"
-msgstr ""
+msgstr "Configuration du comportement des accusés de lecture"
 
 #: ../../advanced_email_management/toc.rst:154
 msgid ""
@@ -414,14 +516,20 @@ msgid ""
 " read receipt feature enabled or manually accept it as soon as they open "
 "the email."
 msgstr ""
+"Lorsque vous envoyez des messages à d'autres utilisateurs de |product|, vous "
+"pouvez choisir de demander un accusé de lecture, qui vous informe lorsque le "
+"destinataire ouvre votre courrier électronique. Cependant, pour que cette "
+"fonction fonctionne, le destinataire doit avoir activé la fonction d'accusé "
+"de lecture ou l'accepter manuellement dès qu'il ouvre l'email."
 
 #: ../../advanced_email_management/toc.rst:156
 msgid "To enable the read receipt feature:"
-msgstr ""
+msgstr "Pour activer la fonction d'accusé de lecture :"
 
 #: ../../advanced_email_management/toc.rst:160
 msgid "Under **Receiving Messages**, click on the **Read Receipt** field."
 msgstr ""
+"Sous **Réception des messages**, cliquez sur le champ **Accusé de lecture**."
 
 #: ../../advanced_email_management/toc.rst:161
 msgid "Select **Always send a read receipt**."

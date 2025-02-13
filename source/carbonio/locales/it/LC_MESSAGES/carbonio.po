@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-12 15:54+0000\n"
+"PO-Revision-Date: 2025-02-13 17:54+0000\n"
 "Last-Translator: Flaminia Spinelli <flaminia.spinelli@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -1909,7 +1909,6 @@ msgstr ""
 "riunioni pertinenti del tuo ufficio siano incluse."
 
 #: ../../appointments/toc.rst:31 ../../appointments/toc.rst:135
-#, fuzzy
 msgid ""
 "Choose the required equipment from the available options under the "
 "**Equipment field**. Please note that the equipment is configured by your"
@@ -1917,15 +1916,14 @@ msgid ""
 "kindly contact your system administrator to ensure all relevant equipment"
 " such as cameras, displays, etc. in your office are included."
 msgstr ""
-"Seleziona l'attrezzatura richiesta tra le opzioni disponibili nel campo "
-"**Attrezzatura**. Si prega di notare che l'attrezzatura è configurata "
-"dall'amministratore del sistema. Se non si vedono le attrezzature desiderate "
-"nell'elenco, si prega di contattare l'amministratore del sistema per "
-"assicurarsi che tutte le attrezzature pertinenti, come fotocamere, schermi, "
-"ecc., presenti nel vostro ufficio siano incluse."
+"Seleziona l'apparecchiatura richiesta tra le opzioni disponibili nel campo "
+"**Attrezzatura**. Nota che l'attrezzatura è configurata dall'amministratore "
+"del sistema: se non vedi le attrezzature desiderate nell'elenco, contatta "
+"l'amministratore di sistema per assicurarti che tutte le attrezzature "
+"pertinenti, come fotocamere, schermi ecc., presenti nel vostro ufficio siano "
+"incluse."
 
 #: ../../appointments/toc.rst:32 ../../appointments/toc.rst:136
-#, fuzzy
 msgid ""
 "If you prefer to host a virtual meeting using |product| Chats' video "
 "meeting feature in one of your virtual rooms, you can select the desired "
@@ -1933,38 +1931,34 @@ msgid ""
 "virtual rooms yet, you can easily create them through the Chats section "
 "on the |product| web client."
 msgstr ""
-"Se si preferisce ospitare una riunione virtuale utilizzando la funzione "
-"di meeting video di Carbonio Chats in una delle tue sale virtuali, puoi "
-"selezionare la sala virtuale desiderata dal campo **Sala virtuale**. Se "
-"non hai ancora configurato sale virtuali, puoi crearle facilmente "
-"attraverso la sezione Chats sul client web di Carbonio."
+"Se preferisci tenere una riunione virtuale, utilizzando la funzione video "
+"chiamate di Carbonio Chats, puoi selezionare la stanza virtuale desiderata "
+"dal campo **Stanza virtuale**. Se non hai ancora configurato stanze "
+"virtuali, puoi crearle facilmente attraverso la sezione Chats."
 
 #: ../../appointments/toc.rst:33 ../../appointments/toc.rst:137
-#, fuzzy
 msgid ""
 "Enter the email addresses of the attendees into the **Attendees field**. "
 "You can leave this field empty if you are creating a personal appointment"
 " for yourself."
 msgstr ""
-"Immettere gli indirizzi email dei partecipanti nel campo **Partecipanti**. È "
-"possibile lasciare vuoto questo campo se si sta creando un appuntamento "
-"personale per sé."
+"Immetti gli indirizzi email dei partecipanti nel campo **Partecipanti**. Se "
+"stai creando un appuntamento personale per te stesso, puoi lasciare questo "
+"campo vuoto."
 
 #: ../../appointments/toc.rst:34 ../../appointments/toc.rst:138
-#, fuzzy
 msgid ""
 "Choose whether you would like |product| to mark this time slot for the "
 "appointment as busy or free from the **Display field**. This will inform "
 "your colleagues of your availability when they attempt to schedule "
 "another appointment during the same time slot."
 msgstr ""
-"Scegli se desideri che Carbonio contrassegni questo time slot per "
-"l'appuntamento come occupato o libero dal campo **Visualizza**. Ciò "
-"informerà i tuoi colleghi della tua disponibilità quando proveranno a "
-"pianificare un altro appuntamento nello stesso time slot."
+"Scegli se vuoi che Carbonio ti mostri durante questo appuntamento come "
+"occupato o libero dal campo **Visualizza**. Questo informerà i tuoi colleghi "
+"circa la tua disponibilità quando proveranno a pianificare un altro "
+"appuntamento nello stesso orario."
 
 #: ../../appointments/toc.rst:35 ../../appointments/toc.rst:139
-#, fuzzy
 msgid ""
 "Choose the calendar in which you want to create the appointment from the "
 "**Calendar field**."
@@ -1973,7 +1967,6 @@ msgstr ""
 "**Calendario**."
 
 #: ../../appointments/toc.rst:36 ../../appointments/toc.rst:140
-#, fuzzy
 msgid ""
 "Tick the **Private checkbox** if you wish to conceal the details of this "
 "appointment, such as its title, from your colleagues. Even if you have "
@@ -1981,25 +1974,22 @@ msgid ""
 "appointment listed on your calendar, but without the specific details "
 "like the title."
 msgstr ""
-"Selezionare la casella di controllo **Privato** per nascondere i dettagli di "
-"questo appuntamento, come il titolo, ai colleghi. Anche se si sono condivisi "
-"i propri calendari con loro, i colleghi continueranno a visualizzare "
-"l'appuntamento elencato nel calendario ma senza i dettagli specifici come il "
-"titolo."
+"Spunta la casella **Privato** per nascondere i dettagli di questo "
+"appuntamento, come il titolo, ai colleghi. Se hai condiviso il tuo "
+"calendario con loro, i colleghi visualizzeranno l'appuntamento elencato nel "
+"calendario, ma senza i dettagli specifici come il titolo."
 
 #: ../../appointments/toc.rst:37
-#, fuzzy
 msgid ""
 "Choose the time slot for the appointment by specifying the start date and"
 " time in the **Start date and time field**, and the end date and time in "
 "the **End date and time field**. Alternatively, you can tick the checkbox"
 " labeled **All day** if the appointment spans the entire day."
 msgstr ""
-"Scegliete l'intervallo di tempo per l'appuntamento specificando la data e "
+"Imposta l'intervallo di tempo per l'appuntamento specificando la data e "
 "l'ora di inizio nel campo **Data e ora di inizio**, e la data e l'ora di "
-"fine nel campo **Data e ora di fine**. In alternativa, è possibile "
-"selezionare la casella di controllo **Tutta la giornata** se l'appuntamento "
-"dura tutto il giorno."
+"fine nel campo **Data e ora di fine**. In alternativa, seleziona la casella**"
+"Tutto il giorno** se l'appuntamento durerà tutta la giornata."
 
 #: ../../appointments/toc.rst:38 ../../appointments/toc.rst:142
 #, fuzzy
@@ -2203,29 +2193,24 @@ msgid "Adding / Removing Attendees to an Existing Appointment"
 msgstr "Aggiunta / Rimozione di partecipanti a un appuntamento esistente"
 
 #: ../../appointments/toc.rst:101
-#, fuzzy
 msgid "To add or remove attendees to an appointment:"
-msgstr "Per aggiungere o rimuovere partecipanti a un appuntamento:"
+msgstr "Per aggiungere o rimuovere partecipanti da un appuntamento:"
 
 #: ../../appointments/toc.rst:106
-#, fuzzy
 msgid ""
 "To add attendees, enter the email addresses of new attendees into the "
 "**Attendees field**. To remove attendees, click the cross button next to "
 "the attendees' email addresses."
 msgstr ""
-"Per aggiungere i partecipanti, inserisci gli indirizzi email dei nuovi "
-"partecipanti nel campo **Partecipanti**. Per rimuovere i partecipanti, "
-"clicca sul pulsante con la croce accanto agli indirizzi email dei "
-"partecipanti."
+"Per aggiungere i partecipanti, inserisci gli indirizzi email nel campo "
+"**Partecipanti**. Per rimuovere partecipanti, clicca sulla croce accanto "
+"agli indirizzi email dei partecipanti."
 
 #: ../../appointments/toc.rst:110
-#, fuzzy
 msgid "Adding a Meeting Room to an Existing Appointment"
 msgstr "Aggiungere una Sala Riunione a un Appuntamento Esistente"
 
 #: ../../appointments/toc.rst:112
-#, fuzzy
 msgid "To add a meeting room to an existing appointment:"
 msgstr "Per aggiungere una sala riunione a un appuntamento esistente:"
 
@@ -2283,26 +2268,22 @@ msgstr ""
 "scelto."
 
 #: ../../appointments/toc.rst:127
-#, fuzzy
 msgid "To create a recurring new appointment:"
 msgstr "Per creare un nuovo appuntamento ricorrente:"
 
 #: ../../appointments/toc.rst:131
-#, fuzzy
 msgid ""
 "In the **From field**, select the identity you want to use to schedule "
 "and send the appointment invitation."
 msgstr ""
-"Nel campo **Da**, selezionare l'identità che si desidera utilizzare per "
-"pianificare e inviare l'invito a incontri."
+"Nel campo **Da**, seleziona l'identità che desideri utilizzare per "
+"pianificare e inviare l'appuntamento."
 
 #: ../../appointments/toc.rst:132
-#, fuzzy
 msgid "Enter a title for the appointment in the **Event title field**."
-msgstr "Immettere un titolo per l'appuntamento nel campo **Titolo evento**."
+msgstr "Immetti un titolo per l'appuntamento nel campo **Titolo dell'evento**."
 
 #: ../../appointments/toc.rst:134
-#, fuzzy
 msgid ""
 "Choose a meeting room from the available options in the **Meeting room "
 "field**. Please note that these meeting rooms are configured by your "
@@ -2311,39 +2292,34 @@ msgid ""
 " your office are included."
 msgstr ""
 "Scegli una sala riunioni tra le opzioni disponibili nel campo **Sala "
-"riunioni**. Si prega di notare che queste sale riunioni sono state "
-"configurate dal tuo amministratore di sistema. Se non si vede la sala "
-"desiderata elencata, si prega di contattare il proprio amministratore di "
-"sistema per assicurarsi che tutte le sale riunioni pertinenti nel proprio "
-"ufficio siano incluse."
+"riunioni**. Ricorda che queste sale riunioni sono state configurate dal tuo "
+"amministratore di sistema: se non vedi la sala desiderata in elenco, "
+"contatta il tuo amministratore di sistema per assicurarti che tutte le sale "
+"riunioni pertinenti del tuo ufficio siano incluse."
 
 #: ../../appointments/toc.rst:141
-#, fuzzy
 msgid ""
 "Choose the time slot for the appointment by specifying the start date and"
 " time in the **Start date and time field**, and the end date and time in "
 "the **End date and time field**. Alternatively, you can tick the checkbox"
 " labeled All day if the appointment spans the entire day."
 msgstr ""
-"Scegliete l'intervallo di tempo per l'appuntamento specificando la data e "
-"l'ora di inizio nel campo **Data e ora di inizio**, e la data e l'ora di "
-"fine nel campo **Data e ora di fine**. In alternativa, è possibile "
-"selezionare la casella di controllo **Tutta la giornata** se l'appuntamento "
-"dura tutto il giorno."
+"Scegli l'intervallo di tempo per l'appuntamento specificando la data e l'ora "
+"di inizio nel campo **Data e ora di inizio**, e la data e l'ora di fine nel "
+"campo **Data e ora di fine**. In alternativa, puoi selezionare la casella **"
+"Tutto il giorno** se l'appuntamento dura l'intera giornata."
 
 #: ../../appointments/toc.rst:144
-#, fuzzy
 msgid ""
 "Choose your preferred option (Every Day, Every Week, Every Month, Every "
 "Year) from the **Repeat field** to establish the recurring pattern."
 msgstr ""
-"Scegli l'opzione preferita (Ogni giorno, Ogni settimana, Ogni mese, Ogni "
-"anno) dal campo **Ripeti** per stabilire il modello di ripetizione."
+"Scegli l'opzione che preferisci (Ogni giorno, Ogni settimana, Ogni mese, "
+"Ogni anno) dal campo **Ripeti** per stabilire la cadenza di ripetizione."
 
 #: ../../appointments/toc.rst:148
-#, fuzzy
 msgid "Canceling a Recurring Appointment"
-msgstr "Annullamento di un appuntamento ricorrente"
+msgstr "Annullare un appuntamento ricorrente"
 
 #: ../../appointments/toc.rst:150
 #, fuzzy

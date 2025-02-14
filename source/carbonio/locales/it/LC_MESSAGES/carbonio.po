@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-13 17:54+0000\n"
+"PO-Revision-Date: 2025-02-14 18:54+0000\n"
 "Last-Translator: Flaminia Spinelli <flaminia.spinelli@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -1992,55 +1992,49 @@ msgstr ""
 "Tutto il giorno** se l'appuntamento durerà tutta la giornata."
 
 #: ../../appointments/toc.rst:38 ../../appointments/toc.rst:142
-#, fuzzy
 msgid ""
 "Choose a reminder for the appointment from the **Reminder field** to "
 "ensure you are informed beforehand. |product| will display a warning "
 "window in the |product| client at the specified time to remind you of the"
 " appointment."
 msgstr ""
-"Scegli un promemoria per l'appuntamento dal campo **Promemoria** per "
-"assicurarti di essere informato in anticipo. Carbonio visualizzerà una "
-"finestra di avviso sul client Carbonio nel momento specificato per "
-"ricordarti l'appuntamento."
+"Imposta un promemoria per l'appuntamento dal campo **Promemoria** per "
+"assicurarti di essere informato in anticipo. Carbonio mostrerà una finestra "
+"di avviso nel momento specificato, per ricordarti l'appuntamento."
 
 #: ../../appointments/toc.rst:39
-#, fuzzy
 msgid ""
 "Tick the **repeat** recurrence of the appointment if you want to use any "
 "of the pre-defined recurrences (every day, week, month, or year) or "
 "define a custom one, that may end after a date or a number of "
 "occurrences."
 msgstr ""
-"Spuntare la **ripetizione** della ricorrenza dell'appuntamento se si "
-"desidera utilizzare una delle ricorrenze predefinite (ogni giorno, "
-"settimana, mese o anno) o definire una ricorrenza personalizzata, che può "
-"terminare dopo una data o un numero di occorrenze."
+"Clicca **Ripeti** se desideri utilizzare una delle ricorrenze predefinite ("
+"ogni giorno, settimana, mese o anno) o definire una ricorrenza "
+"personalizzata, che può terminare dopo una data specifica o un certo numero "
+"di istanze."
 
 #: ../../appointments/toc.rst:40
-#, fuzzy
 msgid ""
 "Choose the time zone, if different from the default one. You need to "
 "enable this option in the Calendar's module settings, in *Creating "
 "Appointment* Section."
 msgstr ""
-"Scegli il fuso orario, se diverso da quello predefinito. È necessario "
-"abilitare questa opzione nelle impostazioni del modulo Calendario, nella "
-"sezione *Creazione appuntamento*."
+"Scegli il fuso orario, se diverso da quello predefinito. Per poterla "
+"impostare in un nuovo appuntamento, questa opzione va abilitata nelle "
+"impostazioni del modulo Calendario, nella sezione *Crea appuntamenti*."
 
 #: ../../appointments/toc.rst:41 ../../appointments/toc.rst:143
-#, fuzzy
 msgid "Add any notes about this appointment in the text box."
 msgstr "Aggiungi eventuali note su questo appuntamento nella casella di testo."
 
 #: ../../appointments/toc.rst:42 ../../appointments/toc.rst:145
-#, fuzzy
 msgid ""
 "If you are creating the appointment solely for yourself, click **SAVE**. "
 "If your appointment includes attendees, as specified in step 8, click "
 "**SEND** to notify them via an automatic email."
 msgstr ""
-"Se l'appuntamento viene creato esclusivamente per te, clicca **SALVA**. Se "
+"Se crei l'appuntamento esclusivamente per te, clicca **SALVA**. Se "
 "l'appuntamento include partecipanti, come specificato nel punto 8, clicca "
 "**INVIA** per avvisarli tramite una email automatica."
 
@@ -2064,9 +2058,8 @@ msgid ""
 msgstr ""
 
 #: ../../appointments/toc.rst:52
-#, fuzzy
 msgid "Editing an Existing Appointment"
-msgstr "Modifica di un appuntamento esistente"
+msgstr "Modifcare un appuntamento esistente"
 
 #: ../../appointments/toc.rst:54
 msgid "To edit an existing appointment:"
@@ -2128,69 +2121,57 @@ msgstr ""
 "specificato."
 
 #: ../../appointments/toc.rst:74
-#, fuzzy
 msgid "Canceling an Appointment"
-msgstr "Annullamento di un appuntamento"
+msgstr "Cancellare un appuntamento"
 
 #: ../../appointments/toc.rst:76
-#, fuzzy
 msgid "To cancel an existing appointment:"
-msgstr "Per annullare un appuntamento esistente:"
+msgstr "Per cancellare un appuntamento esistente:"
 
 #: ../../appointments/toc.rst:79 ../../appointments/toc.rst:93
 #: ../../appointments/toc.rst:104 ../../appointments/toc.rst:115
-#, fuzzy
 msgid "Right-click on the appointment displayed on your timetable."
 msgstr "Fai clic destro sull'appuntamento visualizzato nel tuo calendario."
 
 #: ../../appointments/toc.rst:80 ../../chats/toc.rst:103
 #: ../../files/toc.rst:100 ../../tasks/toc.rst:50
-#, fuzzy
 msgid "Select **Delete** from the drop-down menu."
-msgstr "Seleziona **Elimina** dal menu a discesa."
+msgstr "Seleziona **Elimina** dal menu a tendina."
 
 #: ../../appointments/toc.rst:81
-#, fuzzy
 msgid "Click the **SEND CANCELATION** or **DELETE** button to confirm."
-msgstr ""
-"Clicca sul pulsante **INVIA ANNNULLAMENTO** o **ELIMINA** per confermare."
+msgstr "Clicca sul tasto**INVIA CANCELLAZIONE** o **ELIMINA** per confermare."
 
 #: ../../appointments/toc.rst:83
-#, fuzzy
 msgid ""
 "If there are attendees for this appointment, a notification email will "
 "automatically be sent to the attendees to inform them about the "
 "cancellation."
 msgstr ""
-"Se esistono partecipanti per questo appuntamento, viene automaticamente "
-"inviata una notifica via e-mail ai partecipanti per informarli della "
-"cancellazione."
+"Se esistono partecipanti per questo appuntamento, verrà automaticamente "
+"inviata loro una notifica via email per informarli della cancellazione."
 
 #: ../../appointments/toc.rst:86
-#, fuzzy
 msgid "Moving an Existing Appointment to a Different Time"
 msgstr "Spostare un Appuntamento Esistente in un Orario Diverso"
 
 #: ../../appointments/toc.rst:88
-#, fuzzy
 msgid ""
 "To reschedule an appointment to a different time, you can simply click "
 "and hold on to the appointment in your timetable and drag it to another "
 "time slot."
 msgstr ""
-"Per riprogrammare un appuntamento in un momento diverso, puoi semplicemente "
-"fare clic e tenere premuto sull'appuntamento nel tuo calendario e "
-"trascinarlo in un'altra fascia oraria."
+"Per riprogrammare un appuntamento in un momento diverso, basta che tu "
+"clicchi sull'appuntamento e, tenendolo premuto, potrai trascinarlo in "
+"un'altra fascia oraria nel tuo calendario."
 
 #: ../../appointments/toc.rst:90
-#, fuzzy
 msgid "Alternatively:"
 msgstr "In alternativa:"
 
 #: ../../appointments/toc.rst:99
-#, fuzzy
 msgid "Adding / Removing Attendees to an Existing Appointment"
-msgstr "Aggiunta / Rimozione di partecipanti a un appuntamento esistente"
+msgstr "Aggiungere / Rimuovere Partecipanti a un Appuntamento Esistente"
 
 #: ../../appointments/toc.rst:101
 msgid "To add or remove attendees to an appointment:"
@@ -2215,7 +2196,6 @@ msgid "To add a meeting room to an existing appointment:"
 msgstr "Per aggiungere una sala riunione a un appuntamento esistente:"
 
 #: ../../appointments/toc.rst:117
-#, fuzzy
 msgid ""
 "Choose a meeting room from the available options in the **Meeting room "
 "field**. Alternatively, if you prefer to host a virtual meeting using "
@@ -2223,13 +2203,11 @@ msgid ""
 "can select the desired virtual room from the **Virtual Room field**."
 msgstr ""
 "Seleziona una sala riunioni dalle opzioni disponibili nel campo **Sala "
-"riunione**. In alternativa, se si preferisce ospitare una riunione "
-"virtuale utilizzando la funzione di videoconferenza di Carbonio Chats in "
-"una delle sale virtuali, è possibile selezionare la sala virtuale "
-"desiderata dal campo **Sala virtuale**."
+"riunione**. In alternativa, se preferisci tenere una riunione virtuale "
+"usando una delle stanze virtuali di Carbonio Chats, puoi selezionarne una "
+"esistente dal campo **Stanza virtuale**."
 
 #: ../../appointments/toc.rst:120
-#, fuzzy
 msgid ""
 "Please note that these meeting rooms are configured by your system "
 "administrator. If you do not see the desired room listed, kindly contact "
@@ -2238,21 +2216,18 @@ msgid ""
 "yet, you can easily create them through the Chats section on the "
 "|product| web client."
 msgstr ""
-"Si prega di notare che queste sale riunioni sono configurate dal vostro "
-"amministratore di sistema. Se non si vede l'elenco della sala desiderata,"
-" si prega di contattare il proprio amministratore di sistema per "
-"assicurarsi che tutte le sale riunioni rilevanti nell'ufficio siano "
-"incluse. Allo stesso modo, se non si sono ancora configurate sale "
-"riunioni virtuali, è possibile crearle facilmente tramite la sezione "
-"Chats del client Web Carbonio."
+"Tiene presente che le sale riunioni sono configurate dal tuo amministratore "
+"di sistema: se non vedi quella desiderata in elenco, contatta il tuo "
+"amministratore di sistema per assicurarti che tutte le sale riunioni "
+"rilevanti dell'ufficio siano incluse. Invece, se non hai ancora configurato "
+"stanze virtuali, puoi crearne tu stesso una tramite la sezione Chats di "
+"Carbonio."
 
 #: ../../appointments/toc.rst:123
-#, fuzzy
 msgid "Creating a Recurring Appointment"
-msgstr "Creazione di un appuntamento ricorrente"
+msgstr "Creare un Appuntamento Ricorrente"
 
 #: ../../appointments/toc.rst:125
-#, fuzzy
 msgid ""
 "A recurring appointment is an event scheduled to occur repeatedly at "
 "specified intervals, such as daily, weekly, monthly, or yearly. Rather "
@@ -2260,12 +2235,11 @@ msgid ""
 "appointment allows you to set up a single event that repeats according to"
 " your chosen pattern."
 msgstr ""
-"Un appuntamento ricorrente è un evento programmato per verificarsi "
-"ripetutamente ad intervalli specificati, come quotidianamente, "
-"settimanalmente, mensilmente o annualmente. Piuttosto che creare "
-"appuntamenti separati per ogni occorrenza, un appuntamento ricorrente ti "
-"consente di impostare un singolo evento che si ripete secondo il tuo schema "
-"scelto."
+"Un appuntamento ricorrente è un evento programmato per ripetersi ad "
+"intervalli specificati, come quotidianamente, settimanalmente, mensilmente o "
+"annualmente. Anziché creare appuntamenti singoli per ogni ricorrenza, un "
+"appuntamento ricorrente ti consente di impostare un singolo evento che si "
+"ripete ciclicamente, secondo le tue preferenze."
 
 #: ../../appointments/toc.rst:127
 msgid "To create a recurring new appointment:"
@@ -2322,514 +2296,431 @@ msgid "Canceling a Recurring Appointment"
 msgstr "Annullare un appuntamento ricorrente"
 
 #: ../../appointments/toc.rst:150
-#, fuzzy
 msgid "To cancel a recurring appointment:"
-msgstr "Per annullare un appuntamento ricorrente:"
+msgstr "Per cancellare un appuntamento ricorrente:"
 
 #: ../../appointments/toc.rst:153 ../../appointments/toc.rst:166
-#, fuzzy
 msgid ""
 "Right-click on the appointment you wish to cancel, which is displayed on "
 "your timetable."
 msgstr ""
-"Fare clic con il pulsante destro del mouse sull'appuntamento che si desidera "
-"annullare, visualizzato nel proprio orario."
+"Fai clic con il tasto destro sull'appuntamento che vuoi annullare, dal tuo "
+"calendario."
 
 #: ../../appointments/toc.rst:154
-#, fuzzy
 msgid "Go to the **Series** from the drop-down menu and select **Delete**."
-msgstr "Vai a **Serie** dal menu a tendina e seleziona **Cancella**."
+msgstr "Clicca su **Serie** e poi dal menu **Elimina**."
 
 #: ../../appointments/toc.rst:155
-#, fuzzy
 msgid ""
 "In this step, you can choose whether to delete all occurrences or only "
 "this and future occurrences by selecting the appropriate option."
 msgstr ""
-"In questo passaggio, è possibile scegliere se eliminare tutte le occorrenze "
-"o solo questa e le future occorrenze selezionando l'opzione appropriata."
+"In questo passaggio, puoi decidere se eliminare tutte le istanze (passate e "
+"future) o solo questa e le future istanze selezionando l'opzione appropriata."
 
 #: ../../appointments/toc.rst:156 ../../appointments/toc.rst:168
-#, fuzzy
 msgid ""
 "Click **DELETE** to confirm. If prompted, click **SEND CANCELATION** as "
 "well."
 msgstr ""
-"Cliccare su **ANNULLA** per confermare. Se richiesto, cliccare su **INVIA "
-"ANNUNNCIO DI ANNULLAMENTO**."
+"Clicca **ELIMINA** per confermare. Se richiesto, clicca **INVIA "
+"CANCELLAZIONE**."
 
 #: ../../appointments/toc.rst:158 ../../appointments/toc.rst:170
-#, fuzzy
 msgid ""
 "If there are attendees for this appointment, a notification email will be"
 " automatically sent to the attendees to inform them about the "
 "cancellation."
 msgstr ""
-"Se esistono partecipanti per questo appuntamento, viene automaticamente "
-"inviata una notifica via e-mail ai partecipanti per informarli della "
-"cancellazione."
+"Se esistono partecipanti nell'appuntamento, verrà automaticamente inviata "
+"loro una notifica via email per informarli della cancellazione."
 
 #: ../../appointments/toc.rst:161
-#, fuzzy
 msgid "Canceling a Single Instance of a Recurring Appointment"
-msgstr "Annullamento di una singola istanza di un appuntamento ricorrente"
+msgstr "Cancellare una Singola Istanza di un Appuntamento Ricorrente"
 
 #: ../../appointments/toc.rst:163
-#, fuzzy
 msgid "To cancel a single instance of a recurring appointment:"
-msgstr "Per annullare una sola istanza di un appuntamento ricorrente:"
+msgstr "Per cancellare una sola istanza di un appuntamento ricorrente:"
 
 #: ../../appointments/toc.rst:167
-#, fuzzy
 msgid "Go to the **Instance** from the drop-down menu and select **Delete**."
-msgstr "Vai all'opzione **Istanza** nel menu a tendina e seleziona **Elimina**."
+msgstr ""
+"Fai clic destro su un appuntamento e poi **Istanza**, poi clicca **Elimina**."
 
 #: ../../appointments/toc.rst:173
-#, fuzzy
 msgid "Responding to an Appointment Invitation"
-msgstr "Risposta ad un invito per un appuntamento"
+msgstr "Rispondere ad un Invito per un Appuntamento"
 
 #: ../../appointments/toc.rst:175
-#, fuzzy
 msgid ""
 "When a colleague sends you an invitation for an appointment, you will "
 "receive an automatic email indicating that you are invited. Inside the "
 "email, you have four options to choose from:"
 msgstr ""
-"Quando un collega ti invia un invito per un appuntamento, riceverai "
-"automaticamente un'email che indica che sei stato invitato. All'interno "
-"dell'email, avrai quattro opzioni tra cui scegliere:"
+"Quando un collega ti include in un appuntamento, riceverai automaticamente "
+"un'email che ti avvisa che sei stato invitato. All'interno dell'email, "
+"vedrai quattro opzioni tra cui scegliere:"
 
 #: ../../appointments/toc.rst:178
-#, fuzzy
 msgid "**YES**: Confirm your attendance for the appointment."
-msgstr "**SI**: Conferma la tua presenza all'appuntamento."
+msgstr "**ACCETTA**: Conferma la tua presenza all'appuntamento."
 
 #: ../../appointments/toc.rst:179
-#, fuzzy
 msgid "**MAYBE**: Indicate that you are unsure about attending the appointment."
 msgstr "**FORSE**: Indica che non sei sicuro di partecipare all'appuntamento."
 
 #: ../../appointments/toc.rst:180
-#, fuzzy
 msgid ""
 "**NO**: Decline the invitation and indicate that you will not attend the "
 "appointment."
 msgstr ""
-"**NO**: Rinuncia all'invito e indica che non si presenterà all'appuntamento."
+"**RIFIUTA**: Declina l'invito e indica che non ci si presenterà "
+"all'appuntamento."
 
 #: ../../appointments/toc.rst:181
-#, fuzzy
 msgid ""
 "**PROPOSE NEW TIME**: Suggest an alternative time for the appointment if "
 "the proposed time is not suitable for you."
 msgstr ""
-"**PROPORRE NUOVA ORA**: Suggerire un'alternativa di orario per "
+"**PROPONI NUOVO ORARIO**: Permette di suggerire un orario alternativo per "
 "l'appuntamento se l'orario proposto non è adatto."
 
 #: ../../appointments/toc.rst:183
-#, fuzzy
 msgid ""
 "Before selecting **YES**, you can also choose the calendar in which you "
 "want to save the appointment from the Calendar field."
 msgstr ""
-"Prima di selezionare **SI**, è anche possibile scegliere il calendario in "
-"cui salvare l'appuntamento dal campo Calendario."
+"Prima di rispondere **ACCETTA**, hai anche la possibilità di scegliere in "
+"quale dei tuoi calendari vuoi salvare l'appuntamento, dal campo (Pianificato "
+"in) Calendario."
 
 #: ../../appointments/toc.rst:185
-#, fuzzy
 msgid ""
 "If you choose **PROPOSE NEW TIME**, a new window will appear where you "
 "can select a new time slot for the appointment and then click the "
 "**SEND** button."
 msgstr ""
-"Se scegli **PROPORRE NUOVO ORARIO**, apparirà una nuova finestra dove potrai "
-"selezionare un nuovo orario per l'appuntamento e poi fare clic sul pulsante "
-"**INVIA**."
+"Se scegli **PROPONI NUOVO ORARIO**, apparirà una nuova finestra dove potrai "
+"selezionare un nuovo orario per l'appuntamento e poi fare clic su **INVIA**."
 
 #: ../../appointments/toc.rst:187
-#, fuzzy
 msgid ""
 "Furthermore, you have the option to enable or disable the **Notify "
 "organizer checkbox** based on whether you wish to send an automatic email"
 " notification to them or not."
 msgstr ""
-"Inoltre, avete la possibilità di abilitare o disabilitare la casella di "
-"controllo **Notifica organizzatore**, a seconda che desideriate inviare o "
-"meno una notifica automatica via email."
+"Inoltre, puoi scegliere se deselezionare la casella **Notifica "
+"organizzatore**, se preferisci non inviare una notifica automatica via email."
 
 #: ../../appointments/toc.rst:189
-#, fuzzy
 msgid ""
 "After selecting one of the four buttons, the invitation email will "
 "automatically be moved to your Trash folder."
 msgstr ""
-"Dopo aver selezionato uno dei quattro pulsanti, l'invito via e-mail verrà "
-"automaticamente spostato nella cartella Cestino."
+"Dopo aver selezionato una delle quattro opzioni, l'invito che hai ricevuto "
+"via email verrà automaticamente spostato nella cartella Cestino."
 
 #: ../../basic_email_management/toc.rst:7
-#, fuzzy
 msgid "Basic Email Management"
-msgstr "Gestione Email di base"
+msgstr "Gestire le Funzioni Base dell'Email"
 
 #: ../../basic_email_management/toc.rst:9
-#, fuzzy
 msgid ""
 "In this section, we will delve into the versatile functionalities of "
 "|product|, focusing on its efficient organizational tools such as "
 "folders, tags, and sharing capabilities."
 msgstr ""
-"In questa sezione, esploreremo le funzionalità multiformi di Carbonio, "
-"concentrandomoci sugli strumenti organizzativi efficienti come cartelle, "
-"tag e funzionalità di condivisione."
+"In questa sezione, esploreremo le molte funzionalità di Carbonio, "
+"concentrandoci sugli strumenti organizzativi come cartelle, etichette e "
+"funzionalità di condivisione."
 
 #: ../../basic_email_management/toc.rst:12
-#, fuzzy
 msgid "Using Tags"
-msgstr "L'uso dei tag"
+msgstr "Usare le Etichette"
 
 #: ../../basic_email_management/toc.rst:14
-#, fuzzy
 msgid ""
 "Tags in |product| offer a versatile solution for classifying and "
 "organizing emails. For instance, you might designate tags like \"Medium "
 "Priority\" to swiftly categorize items according to their urgency or "
 "importance."
 msgstr ""
-"I tag in Carbonio offrono una soluzione versatile per classificare e "
-"organizzare le email. Ad esempio, potresti assegnare tag come \"Priorità "
-"media\" per categorizzare velocemente gli elementi in base alla loro "
-"urgenza o importanza."
+"Le etichette (o tag) in Carbonio ti offrono una soluzione versatile per "
+"classificare e organizzare le tue email. Ad esempio, potresti assegnare "
+"etichette come \"Priorità media\" per categorizzare velocemente gli elementi "
+"in base alla loro urgenza o importanza."
 
 #: ../../basic_email_management/toc.rst:16
-#, fuzzy
 msgid ""
 "Tags enable seamless organization, allowing users to easily locate items "
 "associated with specific tags through efficient search functionality."
 msgstr ""
-"I tag consentono un'organizzazione trasparente, permettendo agli utenti di "
-"localizzare facilmente gli elementi associati a tag specifici attraverso una "
-"funzionalità di ricerca efficiente."
+"Le etichette consentono un'organizzazione trasparente, ad esempio "
+"permettendoti di localizzare facilmente tutti gli elementi associati ad "
+"etichette specifiche usando la ricerca."
 
 #: ../../basic_email_management/toc.rst:18
-#, fuzzy
 msgid ""
 "Moreover, the flexibility extends to the ability to apply multiple tags "
 "to a single item, ensuring thorough categorization and enhanced "
 "accessibility within the platform."
 msgstr ""
-"Inoltre, la flessibilità si estende alla capacità di applicare più tag a un "
-"singolo elemento, garantendo una categorizzazione approfondita e una "
-"maggiore accessibilità all'interno della piattaforma."
+"Inoltre, hai la flessibilità di applicare più etichette a un singolo "
+"elemento, che permette una categorizzazione approfondita e una ancora più "
+"accessibilità all'interno della piattaforma."
 
 #: ../../basic_email_management/toc.rst:20
-#, fuzzy
 msgid ""
 "Your tags are located under the **Tags** section of the **Mails**. To "
 "view your current tags:"
 msgstr ""
-"I tuoi tag sono situati nella sezione **Tag** della sezione **Email**. Per "
-"visualizzare i tuoi tag attuali:"
+"Le tue etichette si trovano nella sezione **Etichette** del pannello "
+"**Email**. Per visualizzare le tue etichette:"
 
 #: ../../basic_email_management/toc.rst:23
-#, fuzzy
 msgid "In the Navigation Panel of the mails section, locate the **Tags** section."
 msgstr ""
-"Nel Pannello di Navigazione della sezione delle email, individua la sezione "
-"**Etichette**."
+"Nel pannello di navigazione delle Email, individua la sezione **Etichette**."
 
 #: ../../basic_email_management/toc.rst:24
-#, fuzzy
 msgid "Click on the downward arrow icon located next to the **Tags** section."
 msgstr ""
-"Clicca sull'icona della freccia rivolta verso il basso posizionata accanto "
-"alla sezione **Tags**."
+"Clicca sulla freccia rivolta verso il basso accanto alla sezione "
+"**Etichette**."
 
 #: ../../basic_email_management/toc.rst:25
-#, fuzzy
 msgid "This action will expand or reveal your tags."
-msgstr "Questa azione espanderà o mostrerà i tuoi tag."
+msgstr "Questa azione espanderà o mostrerà le tue etichette."
 
 #: ../../basic_email_management/toc.rst:32
-#, fuzzy
 msgid "Creating a Tag"
-msgstr "Creazione di un Tag"
+msgstr "Creare un'Etichetta"
 
 #: ../../basic_email_management/toc.rst:35
-#, fuzzy
 msgid "In the Navigation Panel of the mails section, locate the **Tags** option."
 msgstr ""
-"Nel Pannello di Navigazione della sezione delle e-mail, individuare "
-"l'opzione **Etichette**."
+"Nel pannello di navigazione delle Email, individua la sezione **Etichette**."
 
 #: ../../basic_email_management/toc.rst:36
-#, fuzzy
 msgid "Right-click on the Tags option."
-msgstr "Fai clic con il pulsante destro del mouse sull'opzione Tag."
+msgstr "Fai clic con il tasto destro del mouse sulla scritta Etichette."
 
 #: ../../basic_email_management/toc.rst:37
-#, fuzzy
 msgid "From the dropdown menu, select **Create Tag**."
-msgstr "Seleziona **Crea tag** dal menu a discesa."
+msgstr "Clicca **Crea Etichetta** che apparirà."
 
 #: ../../basic_email_management/toc.rst:38
-#, fuzzy
 msgid "A dialog box will appear. Insert a name for the new tag."
-msgstr "Si aprirà una finestra di dialogo. Inserisci un nome per il nuovo tag."
+msgstr "Si aprirà una nuova finestra. Inserisci un nome per la nuova etichetta."
 
 #: ../../basic_email_management/toc.rst:39
-#, fuzzy
 msgid "Choose a color for the tag from the options provided."
-msgstr "Seleziona un colore per l'etichetta dalle opzioni fornite."
+msgstr "Seleziona un colore per l'etichetta tra le opzioni fornite."
 
 #: ../../basic_email_management/toc.rst:40
-#, fuzzy
 msgid "Click on the **CREATE** button to finalize the creation of the new tag."
-msgstr ""
-"Fai clic sul pulsante **CREA** per finalizzare la creazione del nuovo tag."
+msgstr "Clicca **CREA** per finalizzare la creazione della nuova etichetta."
 
 #: ../../basic_email_management/toc.rst:43
-#, fuzzy
 msgid ""
 "To see your tags, you should click on the downward arrow icon located "
 "next to the Tags section."
 msgstr ""
-"Per vedere i tuoi tag, dovresti fare clic sull'icona della freccia rivolta "
-"verso il basso posizionata accanto alla sezione Tag."
+"Per vedere le tue etichette, fai clic sulla freccia rivolta verso il basso "
+"accanto alla sezione Etichette."
 
 #: ../../basic_email_management/toc.rst:47
-#, fuzzy
 msgid "Assigning a Tag to an Email"
-msgstr "Assegnare un Tag a una Email"
+msgstr "Assegnare un'Etichetta a un'Email"
 
 #: ../../basic_email_management/toc.rst:49
-#, fuzzy
 msgid "To assign a tag to an email simply:"
-msgstr "Per assegnare un tag a un'email è sufficiente:"
+msgstr "Per assegnare un'etichetta a un'email:"
 
 #: ../../basic_email_management/toc.rst:51
 #: ../../basic_email_management/toc.rst:75
-#, fuzzy
 msgid "Right-click on the email to open the dropdown menu."
-msgstr ""
-"Fai clic con il pulsante destro del mouse sull'email per aprire il menu a "
-"discesa."
+msgstr "Fai clic destro su un'email per aprire il menu a tendina."
 
 #: ../../basic_email_management/toc.rst:52
 #: ../../basic_email_management/toc.rst:76
-#, fuzzy
 msgid "Navigate to the Tags option within the dropdown menu."
-msgstr "Passa all'opzione Tag nel menu a discesa."
+msgstr "Clicca Tag (etichetta) nel menu a tendina."
 
 #: ../../basic_email_management/toc.rst:53
-#, fuzzy
 msgid "Select one or multiple tags from the list."
-msgstr "Seleziona uno o più tag dall'elenco."
+msgstr "Seleziona una o più etichette tra quelle presenti."
 
 #: ../../basic_email_management/toc.rst:60
-#, fuzzy
 msgid "Displaying Emails with a Specific Tag"
-msgstr "Visualizzazione delle e-mail con un tag specifico"
+msgstr "Visualizzare le Email con un'Etichetta Specifica"
 
 #: ../../basic_email_management/toc.rst:62
-#, fuzzy
 msgid "To display emails with a specific tag:"
-msgstr "Per visualizzare le e-mail con un tag specifico:"
+msgstr "Per visualizzare le email con un'etichetta specifica:"
 
 #: ../../basic_email_management/toc.rst:65
-#, fuzzy
 msgid "Locate the **Tags** section within the Navigation Panel."
-msgstr "Trova la sezione **Tag** nel pannello di navigazione."
+msgstr "Trova la sezione **Etichette** nel pannello di navigazione email."
 
 #: ../../basic_email_management/toc.rst:66
-#, fuzzy
 msgid ""
 "Click on the downward arrow icon located next to the Tags section to open"
 " the list of tags."
 msgstr ""
-"Fai clic sull'icona della freccia verso il basso situata accanto alla "
-"sezione Tags per aprire l'elenco dei tag."
+"Fai clic sulla freccia verso il basso accanto alla sezione Etichette per "
+"aprire l'elenco dei tag."
 
 #: ../../basic_email_management/toc.rst:67
-#, fuzzy
 msgid "Click on the tag that you want to find emails for."
 msgstr "Clicca sull'etichetta per cui vuoi trovare email."
 
 #: ../../basic_email_management/toc.rst:68
-#, fuzzy
 msgid "All messages with the selected tag will be displayed in the Main Panel."
 msgstr ""
-"Tutti i messaggi con il tag selezionato verranno visualizzati nel Pannello "
-"Principale."
+"Tutti i messaggi con l'etichetta selezionata verranno visualizzati nel "
+"pannello principale."
 
 #: ../../basic_email_management/toc.rst:71
-#, fuzzy
 msgid "Removing a Tag from an Email"
-msgstr "Rimozione di un tag da un messaggio di posta elettronica"
+msgstr "Rimuovere un'Etichetta da un'Email"
 
 #: ../../basic_email_management/toc.rst:73
-#, fuzzy
 msgid "To remove a tag from an email simply:"
-msgstr "Per rimuovere un tag da un'e-mail, basta semplicemente:"
+msgstr "Per rimuovere un'etichetta da un'email:"
 
 #: ../../basic_email_management/toc.rst:77
-#, fuzzy
 msgid "Uncheck one or multiple tags from the list."
-msgstr "Deseleziona uno o più tag dall'elenco."
+msgstr "Deseleziona una o più etichette dall'elenco."
 
 #: ../../basic_email_management/toc.rst:80
-#, fuzzy
 msgid "Changing a Tag Color"
-msgstr "Modifica del colore dell'etichetta"
+msgstr "Modificare il Colore di un'Etichetta"
 
 #: ../../basic_email_management/toc.rst:82
-#, fuzzy
 msgid "Right-click on the tag you need to edit from the Tags section."
 msgstr ""
-"Fai clic con il pulsante destro del mouse sul tag che devi modificare nella "
-"sezione Tag."
+"Fai clic destro sull'etichetta che devi modificare nella sezione Etichette."
 
 #: ../../basic_email_management/toc.rst:83
-#, fuzzy
 msgid "From the dropdown menu, select Edit Tag."
-msgstr "Dal menu a discesa, selezionare Modifica etichetta."
+msgstr "Dal menu a tendina, seleziona Modifica etichetta."
 
 #: ../../basic_email_management/toc.rst:84
-#, fuzzy
 msgid ""
 "A dialog box will appear. Choose a color for the tag from the options "
 "provided."
 msgstr ""
-"Apparirà una finestra di dialogo. Scegli un colore per il tag tra le opzioni "
-"disponibili."
+"Apparirà una finestra di dialogo. Scegli un colore per l'etichetta tra le "
+"opzioni disponibili."
 
 #: ../../basic_email_management/toc.rst:85
-#, fuzzy
 msgid "Click on the EDIT button."
-msgstr "Clicca sul pulsante MODIFICA."
+msgstr "Clicca sul tasto MODIFICA."
 
 #: ../../basic_email_management/toc.rst:88
-#, fuzzy
 msgid "Renaming a Tag"
-msgstr "Rinominazione di un tag"
+msgstr "Rinominare un'Etichetta"
 
 #: ../../basic_email_management/toc.rst:90
-#, fuzzy
 msgid "Right-click on the tag you need to edit from the **Tags** section."
 msgstr ""
-"Fai clic con il pulsante destro del mouse sul tag che devi modificare nella "
-"sezione Tag."
+"Fai clic con il tasto destro del mouse sull'etichetta che vuoi modificare "
+"nella sezione Etichette."
 
 #: ../../basic_email_management/toc.rst:91
-#, fuzzy
 msgid "From the dropdown menu, select **Edit Tag**."
-msgstr "Dal menu a discesa, selezionare **Modifica etichetta**."
+msgstr "Dal menu a tendina, seleziona **Modifica etichetta**."
 
 #: ../../basic_email_management/toc.rst:92
-#, fuzzy
 msgid "A dialog box will appear. Edit the name."
-msgstr "Verrà visualizzata una finestra di dialogo. Modifica il nome."
+msgstr "Apparirà una finestra di dialogo. Modifica il nome."
 
 #: ../../basic_email_management/toc.rst:93
-#, fuzzy
 msgid "Click on the **EDIT** button."
-msgstr "Fai clic sul pulsante **MODIFICA**."
+msgstr "Fai clic sul tasto **MODIFICA**."
 
 #: ../../basic_email_management/toc.rst:96
-#, fuzzy
 msgid "Deleting a Tag"
-msgstr "Cancellazione di un tag"
+msgstr "Eliminare un'Etichetta"
 
 #: ../../basic_email_management/toc.rst:98
-#, fuzzy
 msgid "Right-click on the tag you need to delete from the **Tags** section."
 msgstr ""
-"Fai clic con il pulsante destro sul tag che desideri eliminare dalla sezione "
+"Fai clic destro sull'etichetta che desideri eliminare dalla sezione "
 "**Etichette**."
 
 #: ../../basic_email_management/toc.rst:99
-#, fuzzy
 msgid "From the dropdown menu, select **Delete Tag**."
-msgstr "Dalla menu a tendina, seleziona **Elimina Tag**."
+msgstr "Dal menu a tendina, seleziona **Elimina Etichetta**."
 
 #: ../../basic_email_management/toc.rst:102
-#, fuzzy
 msgid "Marking an Email with a Flag"
-msgstr "Contrassegnare un messaggio di posta elettronica con un segnalibro"
+msgstr "Contrassegnare un'Email con un Flag"
 
 #: ../../basic_email_management/toc.rst:104
-#, fuzzy
 msgid ""
 "A flag acts like a special tag for important emails, showing up with a "
 "red flag icon next to the subject line."
 msgstr ""
-"Un flag agisce come un tag speciale per le email importanti, apparendo con "
-"un'icona della bandiera rossa accanto alla riga dell'oggetto."
+"Un flag agisce come un'etichetta speciale per le email importanti, ed è "
+"visualizzato con un'icona a bandiera rossa accanto all'oggetto dell'email."
 
 #: ../../basic_email_management/toc.rst:106
-#, fuzzy
 msgid ""
 "Flagging emails is handy for various reasons. For instance, it helps you "
 "quickly find important emails you will need to refer to later. It is also"
 " useful for highlighting specific emails in shared folders so your "
 "colleagues can easily find them."
 msgstr ""
-"Contrassegnare le email è utile per vari motivi. Ad esempio, consente di "
-"trovare rapidamente le email importanti a cui si dovrà fare riferimento in "
-"seguito. È anche utile per evidenziare email specifiche in cartelle "
-"condivise, in modo che i colleghi possano trovarle facilmente."
+"Contrassegnare le email con il flag è utile per vari motivi. Ad esempio, "
+"consente di trovare rapidamente le email importanti a cui si dovrà fare "
+"riferimento in seguito. È anche utile per evidenziare email specifiche in "
+"cartelle condivise, in modo che i colleghi possano trovarle facilmente."
 
 #: ../../basic_email_management/toc.rst:108
-#, fuzzy
 msgid "To mark an email with a flag, simply:"
-msgstr "Per contrassegnare un'e-mail con una bandiera, basta:"
+msgstr "Per contrassegnare un'email con un flag:"
 
 #: ../../basic_email_management/toc.rst:111
-#, fuzzy
 msgid "From the dropdown menu select **Add Flag**."
-msgstr "Dal menu a discesa selezionare **Aggiungi bandiera**."
+msgstr "Dal menu a tendina seleziona **Contrassegno**."
 
 #: ../../basic_email_management/toc.rst:112
-#, fuzzy
 msgid ""
 "Your email will have a red flag displayed on the right side of the "
 "subject line."
 msgstr ""
-"La tua e-mail avrà un flag rosso visualizzato sul lato destro della riga "
+"La tua email avrà un flag rosso visualizzato a destro della riga "
 "dell'oggetto."
 
 #: ../../basic_email_management/toc.rst:119
-#, fuzzy
 msgid "Removing Flag from an Email"
-msgstr "Rimozione della segnalazione da un messaggio di posta elettronica"
+msgstr "Rimuovere un Contrassegno da un'Email"
 
 #: ../../basic_email_management/toc.rst:121
-#, fuzzy
 msgid "To remove the flag from an email, simply:"
-msgstr ""
-"Per rimuovere il flag da un messaggio di posta elettronica, procedere come "
-"segue:"
+msgstr "Per rimuovere un flag da un'email:"
 
 #: ../../basic_email_management/toc.rst:124
-#, fuzzy
 msgid "From the dropdown menu select **Remove Flag**."
-msgstr "Dal menu a discesa seleziona **Rimuovi contrassegno**."
+msgstr "Dal menu a tendina seleziona **Rimuovi contrassegno**."
 
 #: ../../basic_email_management/toc.rst:128
-#, fuzzy
 msgid "Using Folders"
-msgstr "Utilizzo delle Cartelle"
+msgstr "Usare le Cartelle"
 
 #: ../../basic_email_management/toc.rst:130
-#, fuzzy
 msgid ""
 "Folders serve to arrange both incoming and outgoing email correspondence."
 " You have the option to create your folders or utilize predefined system "
 "folders:"
 msgstr ""
-"Le cartelle servono per organizzare sia la corrispondenza di posta "
-"elettronica in arrivo che quella in partenza. È possibile creare le proprie "
-"cartelle o utilizzare le cartelle di sistema predefinite:"
+"Le cartelle servono per organizzare sia le email in arrivo che quella in "
+"uscita. Puoi creare le tue cartelle o utilizzare le cartelle di sistema "
+"predefinite:"
 
 #: ../../basic_email_management/toc.rst:132
 #, fuzzy
@@ -2897,31 +2788,26 @@ msgstr ""
 "cartella di primo livello nella tua casella di posta."
 
 #: ../../basic_email_management/toc.rst:148
-#, fuzzy
 msgid "Creating New Folder"
-msgstr "Creazione di una nuova cartella"
+msgstr "Creare una Nuova Cartella"
 
 #: ../../basic_email_management/toc.rst:150
-#, fuzzy
 msgid ""
 "You can create either a standalone user-defined folder or a subfolder "
 "within another folder, including system folders."
 msgstr ""
-"Puoi creare sia una cartella definita dall'utente autonoma, sia una "
-"sottocartella all'interno di un'altra cartella, inclusi le cartelle di "
-"sistema."
+"Puoi creare sia una cartella personale, sia una sottocartella all'interno di "
+"un'altra cartella, incluse le cartelle di sistema."
 
 #: ../../basic_email_management/toc.rst:152
-#, fuzzy
 msgid ""
 "It is not possible to create two folders with identical names within the "
 "same parent folder."
 msgstr ""
 "Non è possibile creare due cartelle con nomi identici all'interno della "
-"stessa cartella padre."
+"stessa cartella madre."
 
 #: ../../basic_email_management/toc.rst:154
-#, fuzzy
 msgid "To create a new folder:"
 msgstr "Per creare una nuova cartella:"
 
@@ -2931,9 +2817,8 @@ msgstr "Per creare una nuova cartella:"
 #: ../../basic_email_management/toc.rst:193
 #: ../../basic_email_management/toc.rst:203
 #: ../../basic_email_management/toc.rst:214
-#, fuzzy
 msgid "Navigate to the **Mail** section from the left sidebar."
-msgstr "Passa alla sezione **Posta** dal menu laterale sinistro."
+msgstr "Passa alla sezione **Email** dal menu laterale sinistro."
 
 #: ../../basic_email_management/toc.rst:157
 #: ../../basic_email_management/toc.rst:173
@@ -2941,216 +2826,178 @@ msgstr "Passa alla sezione **Posta** dal menu laterale sinistro."
 #: ../../basic_email_management/toc.rst:194
 #: ../../basic_email_management/toc.rst:204
 #: ../../basic_email_management/toc.rst:215
-#, fuzzy
 msgid "Right-click on a folder."
-msgstr "Fare clic destro su una cartella."
+msgstr "Fai clic destro su una cartella."
 
 #: ../../basic_email_management/toc.rst:158
-#, fuzzy
 msgid "Select **New Folder** from the dropdown menu."
-msgstr "Seleziona **Nuova Cartella** dal menu a discesa."
+msgstr "Seleziona **Nuova Cartella** dal menu a tendina."
 
 #: ../../basic_email_management/toc.rst:159
-#, fuzzy
 msgid "Provide a name for the new folder."
-msgstr "Immettere il nome della nuova cartella."
+msgstr "Immetti il nome della nuova cartella."
 
 #: ../../basic_email_management/toc.rst:160
-#, fuzzy
 msgid "Finally, click **CREATE** to confirm your folder creation."
-msgstr ""
-"Infine, fare clic su **CREA** per confermare la creazione della cartella."
+msgstr "Infine, clicca su **CREA** per confermare la creazione della cartella."
 
 #: ../../basic_email_management/toc.rst:168
-#, fuzzy
 msgid "Assigning a Color to a Folder"
 msgstr "Assegnare un Colore a una Cartella"
 
 #: ../../basic_email_management/toc.rst:170
-#, fuzzy
 msgid ""
 "You can customize folders with different colors. To assign a color to a "
 "folder:"
 msgstr ""
-"È possibile personalizzare le cartelle con diversi colori. Per assegnare un "
-"colore a una cartella:"
+"Puoi personalizzare le cartelle con diversi colori. Per assegnare un colore "
+"a una cartella:"
 
 #: ../../basic_email_management/toc.rst:174
 #: ../../basic_email_management/toc.rst:205
-#, fuzzy
 msgid "Click on **Edit**."
 msgstr "Fai clic su **Modifica**."
 
 #: ../../basic_email_management/toc.rst:175
-#, fuzzy
 msgid ""
 "A new dialogue box will appear. Click on the **Select Color** field and "
 "select a color from the dropdown menu."
 msgstr ""
-"Apparirà una nuova finestra di dialogo. Fare clic sul campo **Seleziona "
-"colore** e selezionare un colore dal menu a discesa."
+"Apparirà una nuova finestra di dialogo. Fai clic sul campo **Seleziona "
+"colore** e seleziona un colore dal menu a tendina."
 
 #: ../../basic_email_management/toc.rst:176
 #: ../../basic_email_management/toc.rst:207
-#, fuzzy
 msgid "Click **EDIT** to confirm the change."
 msgstr "Fai clic su **MODIFICA** per confermare la modifica."
 
 #: ../../basic_email_management/toc.rst:179
-#, fuzzy
 msgid "Wiping Folder"
-msgstr "Pulisci Cartella"
+msgstr "Pulire una Cartella"
 
 #: ../../basic_email_management/toc.rst:181
-#, fuzzy
 msgid "Wiping a folder permanently removes all emails. To wipe a folder:"
 msgstr ""
-"Cancellazione di una cartella rimuove definitivamente tutte le e-mail. Per "
-"cancellare una cartella:"
+"Pulire una cartella significa cancellare definitivamente tutte le email in "
+"essa contenute. Per pulire una cartella:"
 
 #: ../../basic_email_management/toc.rst:185
-#, fuzzy
 msgid "Select **Wipe Folder** from the dropdown menu."
-msgstr "Seleziona **Pulisci cartella** dal menu a discesa."
+msgstr "Seleziona **Pulisci cartella** dal menu a tendina."
 
 #: ../../basic_email_management/toc.rst:186
-#, fuzzy
 msgid "Finally, click **WIPE** to confirm."
-msgstr "Infine, fare clic su **WIPE** per confermare."
+msgstr "Infine, fai clic su **PULISCI** per confermare."
 
 #: ../../basic_email_management/toc.rst:189
-#, fuzzy
 msgid "Deleting Folder"
-msgstr "Eliminazione cartella"
+msgstr "Eliminare una Cartella"
 
 #: ../../basic_email_management/toc.rst:191
-#, fuzzy
 msgid "Deleting a folder moves it to the **Trash** folder. To delete a folder:"
 msgstr ""
-"L'eliminazione di una directory sposta i suoi contenuti nel raccoglitore "
-"**Cestino**. Per eliminare una directory:"
+"L'eliminazione di una cartella sposta il suo contenuto in **Cestino**. Per "
+"eliminare una cartella:"
 
 #: ../../basic_email_management/toc.rst:195
-#, fuzzy
 msgid "Select **Delete** from the dropdown menu."
-msgstr "Selezionare **Elimina** dal menu a discesa."
+msgstr "Seleziona **Elimina** dal menu a tendina."
 
 #: ../../basic_email_management/toc.rst:196
-#, fuzzy
 msgid "Finally, click **OK** to confirm."
-msgstr "Infine, fare clic su **OK** per confermare."
+msgstr "Infine, clicca su **OK** per confermare."
 
 #: ../../basic_email_management/toc.rst:199
-#, fuzzy
 msgid "Editing a Folder"
-msgstr "Modifica una cartella"
+msgstr "Modificare una Cartella"
 
 #: ../../basic_email_management/toc.rst:201
-#, fuzzy
 msgid ""
 "You can edit the folder’s name, color, and retention policy. To edit a "
 "folder:"
 msgstr ""
-"È possibile modificare il nome della cartella, il colore e la politica di "
+"Puoi modificare il nome della cartella, il colore e le sue regole di "
 "conservazione. Per modificare una cartella:"
 
 #: ../../basic_email_management/toc.rst:206
-#, fuzzy
 msgid "A new dialogue box will appear. Perform changes."
-msgstr "Apparirà una nuova finestra di dialogo. Apportare le modifiche."
+msgstr "Apparirà una nuova finestra di dialogo. Apporta le modifiche."
 
 #: ../../basic_email_management/toc.rst:210
-#, fuzzy
 msgid "Sharing a Folder"
-msgstr "Condivisione di una cartella"
+msgstr "Condividere una cartella"
 
 #: ../../basic_email_management/toc.rst:212
-#, fuzzy
 msgid ""
 "You can also choose the option to share an entire folder. To share a "
 "folder:"
-msgstr ""
-"Puoi scegliere l'opzione per condividere un'intera cartella. Per condividere "
-"una cartella:"
+msgstr "Per condividere un'intera cartella:"
 
 #: ../../basic_email_management/toc.rst:216
-#, fuzzy
 msgid "Click on **ADD SHARE**."
-msgstr "Fai clic su **AGGIUNGI CONDIVISIONE**."
+msgstr "Scegli Modifica, poi clic su **AGGIUNGI CONDIVISIONE**."
 
 #: ../../basic_email_management/toc.rst:217
-#, fuzzy
 msgid ""
 "Insert email addresses you want to share the selected folder with, and "
 "assign them the role."
 msgstr ""
-"Inserisci gli indirizzi e-mail con cui desideri condividere la cartella "
+"Inserisci uno o più indirizzi email con cui desideri condividere la cartella "
 "selezionata e assegna un ruolo."
 
 #: ../../basic_email_management/toc.rst:218 ../../contacts/toc.rst:143
-#, fuzzy
 msgid ""
 "Tick the *Send notification about this share* checkbox and add a note for"
 " the message."
 msgstr ""
-"Scegliere la casella di controllo *Invia notifica per questa condivisione* e "
-"aggiungere un appunto al messaggio."
+"Spunta la casella *Invia una notifica per questa condivisione*, e se lo "
+"desideri aggiungi un messaggio."
 
 #: ../../basic_email_management/toc.rst:219
 #: ../../basic_email_management/toc.rst:275
 #: ../../basic_email_management/toc.rst:291
 #: ../../basic_email_management/toc.rst:309 ../../contacts/toc.rst:144
 #: ../../contacts/toc.rst:206 ../../contacts/toc.rst:227
-#, fuzzy
 msgid "Click the **SHARE FOLDER** button."
-msgstr "Fare clic sul pulsante **CONDIVIDI CARTELLA**."
+msgstr "Fare clic su **CONDIVIDI CARTELLA** per confermare."
 
 #: ../../basic_email_management/toc.rst:223
-#, fuzzy
 msgid "Moving Emails Between Folders"
 msgstr "Spostare Email tra Cartelle"
 
 #: ../../basic_email_management/toc.rst:225
-#, fuzzy
 msgid "To move emails between folders:"
-msgstr "Per spostare le e-mail tra le cartelle:"
+msgstr "Per spostare le email tra le cartelle:"
 
 #: ../../basic_email_management/toc.rst:227
-#, fuzzy
 msgid "Right-click on an email."
 msgstr "Fai clic destro su un messaggio di posta elettronica."
 
 #: ../../basic_email_management/toc.rst:228
-#, fuzzy
 msgid ""
 "A new dialogue box will appear. Choose the folder where you wish to "
 "relocate the email."
 msgstr ""
-"Emerge una nuova finestra di dialogo. Scegli la cartella nelle aree desidera "
-"spostare l'e-mail."
+"Apparirà una nuova finestra di dialogo. Scegli la cartella in cui vuoi "
+"spostare l'email."
 
 #: ../../basic_email_management/toc.rst:229
-#, fuzzy
 msgid "Click MOVE to confirm."
 msgstr "Clicca SPOSTA per confermare."
 
 #: ../../basic_email_management/toc.rst:231
-#, fuzzy
 msgid ""
 "Alternatively, you can click, hold, and drag an email directly onto a "
 "folder for quick relocation."
 msgstr ""
-"In alternativa, è possibile fare clic, tenere premuto e trascinare un "
-"messaggio di posta elettronica direttamente su una cartella per una rapida "
-"rilocazione."
+"In alternativa puoi fare clic sull'email e, tenendo premuto, trascinarla "
+"direttamente in una cartella per una rapida rilocazione."
 
 #: ../../basic_email_management/toc.rst:235
-#, fuzzy
 msgid "Working with Email Folder Sharing"
-msgstr "Utilizzo della condivisione delle cartelle e-mail"
+msgstr "Lavorare con la Condivisione di Cartelle Email"
 
 #: ../../basic_email_management/toc.rst:237
-#, fuzzy
 msgid ""
 "Sharing allows you to give your colleagues access to email folders in "
 "your account. You decide which items you want to share and what level of "
@@ -3161,111 +3008,95 @@ msgstr ""
 "La condivisione ti consente di dare ai colleghi l'accesso alle tue cartelle "
 "email. Stabilisci tu quali elementi condividere e quale livello di accesso "
 "sarà consentito a queste persone. Puoi inviare un invito a qualcuno per "
-"condividere una cartella email e loro possono accettarlo o rifiutarlo."
+"condividere una cartella email, e loro possono accettarlo o rifiutarlo."
 
 #: ../../basic_email_management/toc.rst:239
-#, fuzzy
 msgid ""
 "You have the option to share your email folders with colleagues or make "
 "them public for external people who have the link to your folder."
 msgstr ""
-"Hai la possibilità di condividere le tue cartelle e-mail con i colleghi o "
-"renderle pubbliche per le persone esterne che hanno il link alla tua "
-"cartella."
+"Puoi condividere le tue cartelle email con i colleghi, o renderle pubbliche "
+"per le persone esterne che hanno il link alla tua cartella."
 
 #: ../../basic_email_management/toc.rst:241
-#, fuzzy
 msgid ""
 "Public users are limited to viewing content; they cannot make any "
 "changes. For colleagues, you have control over the type of access "
 "privileges granted."
 msgstr ""
 "Gli utenti pubblici sono limitati alla visualizzazione dei contenuti e non "
-"possono apportare alcuna modifica. Per i colleghi, avete il controllo sul "
-"tipo di privilegi di accesso concessi."
+"possono apportare alcuna modifica. Per i colleghi, hai il controllo sul tipo "
+"di diritti di accesso concessi."
 
 #: ../../basic_email_management/toc.rst:243
-#, fuzzy
 msgid ""
 "You retain the ability to modify access rights and revoke permissions "
 "whenever necessary."
 msgstr ""
-"Mantieni la possibilità di modificare i diritti di accesso e revocare i "
-"permessi ogni qualvolta sia necessario."
+"Hai sempre la possibilità di modificare i diritti di accesso e revocare i "
+"permessi, quando necessario."
 
 #: ../../basic_email_management/toc.rst:252
-#, fuzzy
 msgid "Shared Email Folder Roles"
-msgstr "Ruoli della cartella Email condivisa"
+msgstr "Ruoli della cartella Email Condivisa"
 
 #: ../../basic_email_management/toc.rst:254
-#, fuzzy
 msgid ""
 "You can assign privileges to individuals or groups of colleagues using "
 "roles."
 msgstr ""
-"È possibile assegnare privilegi a singoli individui o gruppi di colleghi "
-"utilizzando i ruoli."
+"Puoi assegnare privilegi a singole persone o gruppi di colleghi utilizzando "
+"i ruoli."
 
 #: ../../basic_email_management/toc.rst:256
-#, fuzzy
 msgid ""
 "**Viewer**: Can read the contents of the shared email folder but cannot "
 "make changes to the content."
 msgstr ""
 "**Visualizzatore**: può leggere il contenuto della cartella email condivisa, "
-"ma non può apportare modifiche al contenuto."
+"ma non può apportare modifiche."
 
 #: ../../basic_email_management/toc.rst:257
-#, fuzzy
 msgid ""
 "**Manager**: Can view and edit the content of the shared folder, create "
 "new subfolders, and edit and delete files within the shared folder."
 msgstr ""
-"**Gestore**: può visualizzare e modificare il contenuto della cartella "
-"condivisa, creare nuove sottocartelle e modificare ed eliminare file "
+"**Manager**: può visualizzare e modificare il contenuto della cartella "
+"condivisa, creare nuove sottocartelle, modificare ed eliminare file "
 "all'interno della cartella condivisa."
 
 #: ../../basic_email_management/toc.rst:258 ../../contacts/toc.rst:212
-#, fuzzy
 msgid ""
 "**Admin**: Has full control, including viewing, editing, adding, "
 "removing, accepting, declining, and administering content."
 msgstr ""
-"**Amministratore**: Ha il controllo completo, compreso la visualizzazione, "
+"**Amministratore**: Ha il controllo completo, compresi la visualizzazione, "
 "la modifica, l'aggiunta, la rimozione, l'accettazione, il rifiuto e "
 "l'amministrazione dei contenuti."
 
 #: ../../basic_email_management/toc.rst:265
-#, fuzzy
 msgid "Sharing an Email Folder with a Colleague"
-msgstr "Condivisione di una cartella di posta elettronica con un collega"
+msgstr "Condividere una Cartella Email con un Collega"
 
 #: ../../basic_email_management/toc.rst:267
-#, fuzzy
 msgid "To share an email folder with a colleague:"
 msgstr "Per condividere una cartella email con un collega:"
 
 #: ../../basic_email_management/toc.rst:269
 #: ../../basic_email_management/toc.rst:286
 #: ../../basic_email_management/toc.rst:343
-#, fuzzy
 msgid "Navigate to the **Mails** section from the left sidebar."
-msgstr "Vai alla sezione **Messaggi** nella barra laterale sinistra."
+msgstr "Vai alla sezione **Email** nella barra laterale sinistra."
 
 #: ../../basic_email_management/toc.rst:270
 #: ../../basic_email_management/toc.rst:287
-#, fuzzy
 msgid "Right-click on the email folder you wish to share."
-msgstr ""
-"Fate clic destro sulla cartella di posta elettronica che desiderate "
-"condividere."
+msgstr "Fai clic destro sulla cartella che desideri condividere."
 
 #: ../../basic_email_management/toc.rst:271
 #: ../../basic_email_management/toc.rst:288
-#, fuzzy
 msgid "From the drop-down menu select **Share folder**."
-msgstr "Selezionare **Condividi cartella** nel menu a discesa."
+msgstr "Seleziona Modifica nel menu a tendina e poi **Aggiungi condivisione**."
 
 #: ../../basic_email_management/toc.rst:272
 #, fuzzy
@@ -3279,8 +3110,8 @@ msgid ""
 "Enter the email addresses of your colleagues with whom you wish to share "
 "the folder into the **Recipients’ e-mail addresses** field."
 msgstr ""
-"Immettere gli indirizzi e-mail dei colleghi con cui si desidera condividere "
-"la cartella nel campo **Indirizzi e-mail dei destinatari**."
+"Immettere gli indirizzi email dei colleghi con cui si desidera condividere "
+"la cartella nel campo **Indirizzi email dei destinatari**."
 
 #: ../../basic_email_management/toc.rst:274
 #, fuzzy
@@ -3288,19 +3119,17 @@ msgid "Select the *role* from the **Role** field."
 msgstr "Seleziona il *ruolo* dal campo **Ruolo**."
 
 #: ../../basic_email_management/toc.rst:282
-#, fuzzy
 msgid "Sharing an Email Folder with External Users"
-msgstr "Condivisione di una cartella Email con utenti esterni"
+msgstr "Condividere una Cartella Email con Utenti Esterni"
 
 #: ../../basic_email_management/toc.rst:284
-#, fuzzy
 msgid ""
 "If you share folders with external users, whoever has the link to your "
 "folder can access it. To share an email folder with external users:"
 msgstr ""
-"Se si condivide una cartella con utenti esterni, chiunque abbia il "
-"collegamento alla cartella può accedervi. Per condividere una cartella e-"
-"mail con utenti esterni:"
+"Se condividi una cartella email con utenti esterni, chiunque abbia il "
+"collegamento alla cartella può accedervi. Per condividere una cartella email "
+"con utenti esterni:"
 
 #: ../../basic_email_management/toc.rst:289 ../../contacts/toc.rst:224
 #, fuzzy
@@ -3312,111 +3141,93 @@ msgstr ""
 "campo Condividi con."
 
 #: ../../basic_email_management/toc.rst:290
-#, fuzzy
 msgid ""
 "Enter the email addresses of recipients into the **Recipients’ e-mail "
 "addresses field**."
 msgstr ""
-"Immettere gli indirizzi email dei destinatari nel campo **Indentiti email "
-"dei destinatari**."
+"Immetti gli indirizzi email dei destinatari nel campo **Indirizzi email dei "
+"destinatari**."
 
 #: ../../basic_email_management/toc.rst:299
-#, fuzzy
 msgid "Adding Colleagues to a Shared Email Folder"
-msgstr "Aggiungere colleghi a una cartella email condivisa"
+msgstr "Aggiungere Colleghi a una Cartella Email Condivisa"
 
 #: ../../basic_email_management/toc.rst:301
-#, fuzzy
 msgid "To add colleagues to a shared email folder:"
-msgstr "Per aggiungere colleghi a una cartella di posta elettronica condivisa:"
+msgstr "Per aggiungere colleghi a una cartella email condivisa:"
 
 #: ../../basic_email_management/toc.rst:304
-#, fuzzy
 msgid "Right-click on the email folder you wish to add colleagues."
 msgstr ""
-"Fate clic con il pulsante destro del mouse sulla cartella email a cui "
-"desiderate aggiungere i colleghi."
+"Fai clic con il tasto destro sulla cartella email a cui desideri aggiungere "
+"i colleghi."
 
 #: ../../basic_email_management/toc.rst:305
 #: ../../basic_email_management/toc.rst:318
 #: ../../basic_email_management/toc.rst:332
-#, fuzzy
 msgid "From the drop-down menu select **Edit**."
-msgstr "Dal menu a discesa selezionare **Modifica**."
+msgstr "Dal menu a tendina seleziona **Modifica**."
 
 #: ../../basic_email_management/toc.rst:306
-#, fuzzy
 msgid "Click the ADD SHARE button."
-msgstr "Fai clic sul pulsante AGGIUNGI CONDIVISIONE."
+msgstr "Fai clic su AGGIUNGI CONDIVISIONE."
 
 #: ../../basic_email_management/toc.rst:308
 #: ../../basic_email_management/toc.rst:334
-#, fuzzy
 msgid "Select the **role** from the **Role** field."
 msgstr "Seleziona il **ruolo** dal campo **Ruolo**."
 
 #: ../../basic_email_management/toc.rst:313
-#, fuzzy
 msgid "Revoking Email Folder Sharing"
-msgstr "Revoca della Condivisione di Cartelle Email"
+msgstr "Revocare la Condivisione di Cartelle Email"
 
 #: ../../basic_email_management/toc.rst:315
-#, fuzzy
 msgid "To revoke sharing an email folder:"
-msgstr "Per revocare la condivisione di una cartella e-mail:"
+msgstr "Per revocare la condivisione di una cartella email:"
 
 #: ../../basic_email_management/toc.rst:317
-#, fuzzy
 msgid "Right-click on the email folder you wish to revoke share."
 msgstr ""
-"Fai clic sul pulsante destro del mouse sulla cartella delle email per la "
-"quale desideri revocare la condivisione."
+"Fai clic destro sulla cartella email per la quale desideri revocare la "
+"condivisione."
 
 #: ../../basic_email_management/toc.rst:319
-#, fuzzy
 msgid "Under the Sharing of this folder section, click **REVOKE**."
 msgstr ""
-"Nella sezione Condivisione di questa cartella, fare clic su **REVOCARE**."
+"Nella sezione *Condivisione di questa cartella*, fai clic su **REVOCA "
+"ACCESSO**."
 
 #: ../../basic_email_management/toc.rst:320 ../../files/toc.rst:482
-#, fuzzy
 msgid "Click the **REVOKE** button to confirm."
-msgstr "Fai clic sul pulsante **REVOCARE** per confermare."
+msgstr "Fai clic sul pulsante **REVOCA** per confermare."
 
 #: ../../basic_email_management/toc.rst:327
-#, fuzzy
 msgid "Editing the Roles for a Shared Email Folder"
-msgstr "Modifica dei ruoli per una cartella di posta elettronica condivisa"
+msgstr "Modificare i Ruoli per una Cartella Email Condivisa"
 
 #: ../../basic_email_management/toc.rst:329
-#, fuzzy
 msgid "To edit the role for a shared email folder:"
-msgstr "Per modificare il ruolo per una cartella email condivisa:"
+msgstr "Per modificare i ruoli per una cartella email condivisa:"
 
 #: ../../basic_email_management/toc.rst:331
-#, fuzzy
 msgid "Right-click on the email folder you wish to edit."
-msgstr ""
-"Fai clic destro sulla cartella di posta elettronica che desideri modificare."
+msgstr "Fai clic destro sulla cartella che desideri modificare."
 
 #: ../../basic_email_management/toc.rst:333
-#, fuzzy
 msgid "Under the Sharing of this folder section, click EDIT."
-msgstr "Nella sezione Condivisione di questa cartella, fare clic su MODIFICA."
+msgstr ""
+"Nella sezione *Condivisione di questa cartella*, fai clic su MODIFICA "
+"ACCESSO."
 
 #: ../../basic_email_management/toc.rst:335
-#, fuzzy
 msgid "Click the **EDIT SHARE** button."
-msgstr "Fare clic sul pulsante **MODIFICA CONDIVISI**."
+msgstr "Fai clic sul pulsante **MODIFICA CONDIVISIONE**per confermare."
 
 #: ../../basic_email_management/toc.rst:338
-#, fuzzy
 msgid "Accepting Email Folder Sharing from Colleagues"
-msgstr ""
-"Accettazione della condivisione della cartella email da parte dei colleghi"
+msgstr "Accettare la Condivisione di una Cartella Email da Parte di Colleghi"
 
 #: ../../basic_email_management/toc.rst:340
-#, fuzzy
 msgid ""
 "When a colleague shares an email folder with you and opts to send a "
 "notification, you will receive an automatic email. Simply click the "
@@ -3424,7 +3235,7 @@ msgid ""
 " your inbox. If your colleague did not select the notification option, "
 "you can manually add the share by following these steps:"
 msgstr ""
-"Quando un collega condivide con te una cartella email e sceglie di inviare "
+"Quando un collega condivide con te una cartella email e sceglie di inviarti "
 "una notifica, riceverai un'email automatica. Basta fare clic sul pulsante "
 "**ACCETTA** alla fine dell'email per aggiungere la cartella alla tua casella "
 "di posta in arrivo. Se il tuo collega non ha selezionato l'opzione di "
@@ -3432,92 +3243,78 @@ msgstr ""
 "passaggi:"
 
 #: ../../basic_email_management/toc.rst:344
-#, fuzzy
 msgid "Click on the **FIND SHARES** button."
-msgstr "Clicca sul pulsante **TROVA TITOLI**."
+msgstr "Clicca sul tasto **TROVA CONDIVISIONI**."
 
 #: ../../basic_email_management/toc.rst:345
-#, fuzzy
 msgid ""
 "Check the shared folder you want to add from the available shared items "
 "list."
 msgstr ""
-"Controlla la cartella condivisa che desideri aggiungere dall'elenco degli "
-"elementi condivisi disponibili."
+"Seleziona la cartella condivisa che desideri aggiungere dall'elenco delle "
+"condivisioni disponibili."
 
 #: ../../basic_email_management/toc.rst:346 ../../calendars/toc.rst:217
 #: ../../contacts/toc.rst:240
-#, fuzzy
 msgid "Click the **ADD** button."
-msgstr "Premi il pulsante **AGGIUNGI**."
+msgstr "Premi il tasto **AGGIUNGI**."
 
 #: ../../browsing_emails/toc.rst:7
-#, fuzzy
 msgid "Browsing Emails"
-msgstr "Gestione delle email"
+msgstr "Gestire le Email"
 
 #: ../../browsing_emails/toc.rst:11
-#, fuzzy
 msgid "Reading Emails"
-msgstr "Lettura delle e-mail"
+msgstr "Leggere le Email"
 
 #: ../../browsing_emails/toc.rst:13
-#, fuzzy
 msgid "To read an email simply:"
-msgstr "Per leggere un'e-mail semplicemente:"
+msgstr "Per leggere un'email:"
 
 #: ../../browsing_emails/toc.rst:15
-#, fuzzy
 msgid "Select **Mails**  with the email icon from the left sidebar."
 msgstr ""
-"Seleziona **Mails** con l'icona della posta elettronica dalla barra laterale "
-"sinistra."
+"Seleziona **Mail** con l'icona della busta dalla barra laterale sinistra."
 
 #: ../../browsing_emails/toc.rst:16
-#, fuzzy
 msgid "Click on a folder on the navigation panel."
-msgstr "Fare clic su una cartella nel pannello di navigazione."
+msgstr "Fai clic su una cartella nel pannello di navigazione."
 
 #: ../../browsing_emails/toc.rst:17
-#, fuzzy
 msgid "Select the email from the main panel."
 msgstr "Seleziona l'email dal pannello principale."
 
 #: ../../browsing_emails/toc.rst:24
-#, fuzzy
 msgid ""
 "Within the |product| web client, there are two distinct methods for "
 "displaying emails:"
 msgstr ""
-"All'interno del client web di Carbonio, esistono due metodi distinti per "
-"visualizzare le email:"
+"All'interno del client web di Carbonio, hai a disposizione due metodi "
+"distinti per visualizzare l'elenco delle email:"
 
 #: ../../browsing_emails/toc.rst:26
-#, fuzzy
 msgid ""
 "**Message View**: In this mode, emails are displayed individually in your"
 " main panel. Each email is listed separately, allowing you to view them "
 "one by one."
 msgstr ""
-"**Visualizzazione dei messaggi**: In questa modalità, gli e-mail vengono "
-"visualizzati singolarmente nel pannello principale. Ogni e-mail viene "
-"elencata separatamente, consentendoti di visualizzarle una alla volta."
+"**Per messaggio**: In questa modalità, le email vengono visualizzate "
+"singolarmente nel pannello principale. Ogni email viene elencata "
+"separatamente, consentendoti di visualizzarle una alla volta."
 
 #: ../../browsing_emails/toc.rst:27
-#, fuzzy
 msgid ""
 "**Conversation View**: When utilizing this option, emails are grouped "
 "based on threads. If multiple emails are part of a conversation or have "
 "been replied to together, they will appear grouped as a single thread in "
 "your main panel."
 msgstr ""
-"**Vista delle conversazioni**: utilizzando questa opzione, le e-mail vengono "
-"raggruppate in base ai thread. Se più e-mail fanno parte di una "
-"conversazione o sono state risposte insieme, appariranno raggruppate come un "
-"singolo thread nel pannello principale."
+"**Per conversazione**: utilizzando questa opzione, le email vengono "
+"raggruppate in base alla discussione. Se più email fanno parte di una "
+"conversazione o hanno avuto risposta insieme, appariranno raggruppate come "
+"un singolo elemento nel pannello principale."
 
 #: ../../browsing_emails/toc.rst:29
-#, fuzzy
 msgid ""
 "Note that in case of small screens, you have the chance to to **resize "
 "the columns** that separate the email list from the one with the email "
@@ -3526,13 +3323,13 @@ msgid ""
 "**sorting icon**."
 msgstr ""
 "Nota che nel caso di schermi piccoli, hai la possibilità di **modificare le "
-"dimensioni delle colonne** che separano l'elenco delle email da quello con "
-"l'anteprima dell'email. Inoltre puoi cambiare facilmente la disposizione da "
-"verticale a orizzontale, facendo clic sull'icona **scheda**, immediatamente "
-"accanto all'icona di **ordinamento**."
+"dimensioni delle colonne** che separano l'elenco delle email dall'anteprima "
+"dell'email, cliccando sulla barra verticale che le divide e trascinandola a "
+"destra o a sinistra. Inoltre puoi cambiare la disposizione da verticale a "
+"orizzontale, facendo clic sull'icona **scheda**, immediatamente accanto "
+"all'icona di **ordinamento** in alto a destra."
 
 #: ../../browsing_emails/toc.rst:32
-#, fuzzy
 msgid ""
 "These options allow you to have more space to preview the email and to "
 "choose the best layout for your email readability."
@@ -3542,7 +3339,6 @@ msgstr ""
 "della tua email."
 
 #: ../../browsing_emails/toc.rst:34
-#, fuzzy
 msgid ""
 "You can also choose to resize the columns separating the emails list from"
 " the preview. Moreover you can switch between vertical and horizontal "
@@ -3551,33 +3347,30 @@ msgid ""
 "to easily switch between the views. If you choose **no split** option, "
 "you can easily hide emails list."
 msgstr ""
-"È possibile anche ridimensionare le colonne che separano l'elenco delle "
-"email dall'anteprima. Inoltre è possibile passare da una visualizzazione "
-"verticale a una orizzontale: l'icona \"cambia visualizzazione\", sul lato "
-"destro della barra di intestazione delle email, aggiorna il layout in base "
-"alla scelta selezionata, consentendo di passare facilmente tra le due "
-"modalità. Se si sceglie l'opzione **nessuna suddivisione**, è possibile "
-"nascondere facilmente l'elenco delle email."
+"Puoi ridimensionare le colonne che separano l'elenco delle email "
+"dall'anteprima. Inoltre puoi passare da una visualizzazione verticale a una "
+"orizzontale: l'icona \"Cambia visualizzazione\", sul lato destro della barra "
+"di intestazione delle email, aggiorna il layout in base alla scelta "
+"selezionata, consentendo di passare facilmente tra le modalità. Se scegli "
+"l'opzione **nessuna suddivisione**, puoi anche nascondere l'elenco delle "
+"email."
 
 #: ../../browsing_emails/toc.rst:37
-#, fuzzy
 msgid ""
 "In this way you can avoid sidebar distractions, focusing just on the "
 "email at hand, with the chance to browse between emails simply clicking "
 "the navigation arrows in the header bar."
 msgstr ""
 "In questo modo puoi evitare le distrazioni della barra laterale, "
-"concentrandoti solo sull'email in questione, con la possibilità di sfogliare "
-"tra le email semplicemente facendo clic sui pulsanti di navigazione nella "
-"barra di intestazione."
+"concentrandoti solo sull'email che ti interessa, con la possibilità di "
+"sfogliare tra le email semplicemente facendo clic sui pulsanti di "
+"navigazione nella barra di intestazione."
 
 #: ../../browsing_emails/toc.rst:41
-#, fuzzy
 msgid "Using Message View"
-msgstr "Utilizzo della visualizzazione dei messaggi"
+msgstr "Cambiare Opzione di Visualizzazione"
 
 #: ../../browsing_emails/toc.rst:43
-#, fuzzy
 msgid ""
 "Message view provides a straightforward approach to managing emails. "
 "Users can easily locate a desired email in their inbox and read it "
@@ -3585,15 +3378,14 @@ msgid ""
 "users must manually search for each reply separately from their email "
 "list, which can be cumbersome and time-consuming."
 msgstr ""
-"La vista messaggio fornisce un approccio semplice per gestire le email. Gli "
-"utenti possono facilmente trovare un'email desiderata nella casella in "
-"entrata e leggerla direttamente nel pannello principale. Tuttavia, quando si "
-"tratta di risposte alle email, gli utenti devono cercare manualmente ogni "
-"risposta separatamente dall'elenco delle email, il che potrebbe essere "
-"farraginoso e dispendioso in termini di tempo."
+"La visualizzazione Per messaggio fornisce un approccio semplice per gestire "
+"le email. Puoi trovare un'email desiderata nella casella in arrivo e "
+"leggerla direttamente nel pannello principale. Tuttavia, quando ti serve "
+"ritrovare una risposta specifica all'email, dovrai cercare manualmente ogni "
+"risposta nell'elenco delle email, il che potrebbe essere dispendioso in "
+"termini di tempo."
 
 #: ../../browsing_emails/toc.rst:45
-#, fuzzy
 msgid ""
 "Message view can be useful for users who prefer to deal with emails on a "
 "one-by-one basis. It provides a clear and focused way to address each "
@@ -3603,25 +3395,23 @@ msgid ""
 " and want to maintain a linear workflow without getting overwhelmed by "
 "grouped conversations."
 msgstr ""
-"La visualizzazione dei messaggi può essere utile per gli utenti che "
-"preferiscono occuparsi delle email in base a una per volta. Fornisce un modo "
-"chiaro e concentrato per gestire ogni email in modo individuale, rendendolo "
-"più facile gestire e rispondere ai messaggi senza la distrazione di altre "
-"email nella stessa conversazione. Questa modalità è particolarmente utile "
-"per gli utenti che ricevono un volume moderato di email e desiderano "
-"mantenere un flusso di lavoro lineare senza essere sopraffatti dalle "
+"La visualizzazione Per messaggi è adatta a te se preferisci occuparti delle "
+"email una per volta. Fornisce un modo chiaro e privo di distrazioni per "
+"gestire ogni email in modo individuale, rendendolo più facile gestire i "
+"singoli messaggi di una conversazione. Questa modalità è particolarmente "
+"utile per gli utenti che ricevono un numero moderato di email e desiderano "
+"mantenere un flusso di lavoro lineare, senza essere sopraffatti dalle "
 "conversazioni raggruppate."
 
 #: ../../browsing_emails/toc.rst:47
-#, fuzzy
 msgid ""
 "When you are reading an email, there is a button labeled **SHOW QUOTED "
 "TEXT** If you click it, you can see the earlier emails that this one is "
 "replying to. But remember, you can only see those earlier messages if the"
 " person who replied did not delete them when they wrote their reply."
 msgstr ""
-"Quando leggi un'email, c'è un pulsante denominato **Mostra testo citato**. "
-"Se lo clicchi, puoi vedere le email precedenti a cui questa risponde. "
+"Quando leggi un'email, c'è un tasto denominato **Mostra testo citato**. Se "
+"lo clicchi, puoi vedere le email precedenti a quella a cui stai rispondendo. "
 "Tuttavia, ricorda che puoi vedere quei messaggi precedenti solo se la "
 "persona che ha risposto non li ha cancellati quando ha scritto la sua "
 "risposta."

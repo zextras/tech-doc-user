@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-14 18:54+0000\n"
+"PO-Revision-Date: 2025-02-17 20:54+0000\n"
 "Last-Translator: Flaminia Spinelli <flaminia.spinelli@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -2723,7 +2723,6 @@ msgstr ""
 "predefinite:"
 
 #: ../../basic_email_management/toc.rst:132
-#, fuzzy
 msgid ""
 "**System folders** - These folders are immutable; they cannot be "
 "relocated, renamed, or erased. The system includes the following folders:"
@@ -2733,48 +2732,41 @@ msgstr ""
 "cartelle:"
 
 #: ../../basic_email_management/toc.rst:134
-#, fuzzy
 msgid "**Inbox**: The primary destination for new incoming email messages."
 msgstr ""
-"**Posta in arrivo**: La destinazione principale per i nuovi messaggi di "
-"posta elettronica in arrivo."
+"**In arrivo**: La destinazione principale per i nuovi messaggi di posta "
+"elettronica in entrata."
 
 #: ../../basic_email_management/toc.rst:135
-#, fuzzy
 msgid "**Sent**: Contains a copy of all outgoing emails."
-msgstr "**Inviato**: Contiene una copia di tutte le email in uscita."
+msgstr "**Inviati**: Contiene una copia di tutte le email in uscita."
 
 #: ../../basic_email_management/toc.rst:136
-#, fuzzy
 msgid "**Drafts**: Emails you have composed but not yet sent."
-msgstr "**Bozze**: Email che hai composto ma non ancora inviate."
+msgstr "**Bozze**: Email che hai iniziato a comporre ma non ancora inviate."
 
 #: ../../basic_email_management/toc.rst:137
-#, fuzzy
 msgid ""
 "**Junk**: Incoming emails suspected to be spam or junk, although not "
 "definitively, are directed here. You can sift through these messages, "
 "moving or deleting them as necessary. If left untouched, they are "
 "automatically purged according to the administrator's settings."
 msgstr ""
-"**Spazzatura**: Le email in arrivo sospette per spam o spazzatura, sebbene "
-"non definitivamente, vengono indirizzate qui. È possibile setacciare questi "
-"messaggi, spostandoli o cancellandoli come necessario. Se lasciati "
-"invariati, vengono automaticamente eliminati in base alle impostazioni "
-"dell'amministratore."
+"**Spam*: Le email in arrivo sospette per spam, sebbene non definitivamente, "
+"vengono indirizzate qui. Puoi consultare questi messaggi, spostandoli o "
+"cancellandoli manualmente. Se lasciati dove sono, vengono automaticamente "
+"eliminati in base alle impostazioni dell'amministratore."
 
 #: ../../basic_email_management/toc.rst:138
-#, fuzzy
 msgid ""
 "**Trash**: Deleted items are relocated here and remain until you manually"
 " empty the trash or until automated purging occurs."
 msgstr ""
-"**Cestino**: gli elementi eliminati vengono spostati qui e rimangono fino a "
-"quando non li svuoti manualmente o fino a quando non si verifica una "
-"cancellazione automatica."
+"**Cestino**: gli elementi eliminati vengono spostati qui e vi rimangono fino "
+"a quando non svuoti manualmente la cartella, o fino a quando non si verifica "
+"una cancellazione automatica."
 
 #: ../../basic_email_management/toc.rst:140
-#, fuzzy
 msgid ""
 "**User-defined folders**: These folders, which you create to structure "
 "your email, appear in the Folder list within the Overview pane. It is "
@@ -2782,10 +2774,10 @@ msgid ""
 "match any other top-level folder within your inbox."
 msgstr ""
 "**Cartelle definite dall'utente**: queste cartelle, che crei per strutturare "
-"la tua posta elettronica, vengono visualizzate nell'elenco Cartelle nella "
-"parte panoramica. È importante notare che i nomi delle cartelle di primo "
-"livello devono essere univoci e non possono corrispondere a nessun'altra "
-"cartella di primo livello nella tua casella di posta."
+"la tua posta elettronica, vengono visualizzate nell'elenco Cartelle. Ricorda "
+"che i nomi delle cartelle di primo livello devono essere univoci, cioè non "
+"possono avere lo stesso nome di nessun'altra cartella di primo livello nella "
+"tua casella."
 
 #: ../../basic_email_management/toc.rst:148
 msgid "Creating New Folder"
@@ -3099,22 +3091,19 @@ msgid "From the drop-down menu select **Share folder**."
 msgstr "Seleziona Modifica nel menu a tendina e poi **Aggiungi condivisione**."
 
 #: ../../basic_email_management/toc.rst:272
-#, fuzzy
 msgid "From the **Share with** field, select Internal Users or Groups."
-msgstr "Seleziona Utenti interni o Gruppi dal campo Condividi con."
+msgstr "Seleziona Utenti interni o Gruppi dal campo **Condividi con**."
 
 #: ../../basic_email_management/toc.rst:273
 #: ../../basic_email_management/toc.rst:307
-#, fuzzy
 msgid ""
 "Enter the email addresses of your colleagues with whom you wish to share "
 "the folder into the **Recipients’ e-mail addresses** field."
 msgstr ""
-"Immettere gli indirizzi email dei colleghi con cui si desidera condividere "
-"la cartella nel campo **Indirizzi email dei destinatari**."
+"Immetti gli indirizzi email dei colleghi con cui desideri condividere la "
+"cartella nel campo **Indirizzi email dei destinatari**."
 
 #: ../../basic_email_management/toc.rst:274
-#, fuzzy
 msgid "Select the *role* from the **Role** field."
 msgstr "Seleziona il *ruolo* dal campo **Ruolo**."
 
@@ -3132,7 +3121,6 @@ msgstr ""
 "con utenti esterni:"
 
 #: ../../basic_email_management/toc.rst:289 ../../contacts/toc.rst:224
-#, fuzzy
 msgid ""
 "From the Share with field, select Public (view only, no password "
 "required)."
@@ -3417,12 +3405,10 @@ msgstr ""
 "risposta."
 
 #: ../../browsing_emails/toc.rst:56
-#, fuzzy
 msgid "Using Conversation View"
-msgstr "Utilizzo della Vista Conversazione"
+msgstr "Usare la Visualizzazione Per Conversazione"
 
 #: ../../browsing_emails/toc.rst:58
-#, fuzzy
 msgid ""
 "Conversation view offers a comprehensive way to track email exchanges "
 "within a thread. Users can conveniently access an email and its related "
@@ -3432,18 +3418,16 @@ msgid ""
 "This action reveals all the replies nested underneath, allowing users to "
 "review the entire conversation in a single, organized view."
 msgstr ""
-"La visualizzazione della conversazione offre un modo completo per tenere "
-"traccia delle comunicazioni via email all'interno di una discussione. Gli "
-"utenti possono accedere in modo conveniente a un'email e alle relative "
-"risposte selezionando il thread corrispondente dall'elenco visualizzato nel "
-"pannello principale. Per individuare una risposta specifica, gli utenti "
-"devono solo espandere il thread facendo clic sulla freccia verso il basso "
-"accanto all'email originale. Questa azione mostra tutte le risposte annidate "
-"al di sotto, consentendo agli utenti di esaminare l'intera conversazione in "
-"una singola vista organizzata."
+"La visualizzazione per conversazione ti offre un modo completo per tenere "
+"traccia delle comunicazioni email all'interno di una discussione. Potrai "
+"accedere rapidamente a un'email e a tutte le relative risposte selezionando "
+"la conversazione dall'elenco email nel pannello principale. Per individuare "
+"una risposta specifica, dovrai espandere la conversazione facendo clic sulla "
+"freccia verso il basso accanto all'email originale. Questa azione mostra "
+"tutte le risposte annidate al di sotto, consentendoti di esaminare l'intera "
+"conversazione in una singola vista organizzata."
 
 #: ../../browsing_emails/toc.rst:60
-#, fuzzy
 msgid ""
 "Conversations can extend across multiple folders. For instance, one "
 "conversation might be in your Inbox, another in your Sent folder, and "
@@ -3453,26 +3437,24 @@ msgid ""
 "Sent and Trash folders remain unaffected by this action and are not "
 "moved."
 msgstr ""
-"Le conversazioni possono estendersi attraverso più cartelle. Ad esempio, una "
-"conversazione potrebbe essere nella tua casella di posta in arrivo, un'altra "
+"Le conversazioni possono estendersi attraverso più cartelle. Ad esempio, "
+"un'email potrebbe essere nella tua casella di posta in arrivo, un'altra "
 "nella cartella dei messaggi inviati e altre in una cartella diversa. Quando "
 "si sposta una conversazione da una cartella all'altra, tutti i messaggi "
 "all'interno di quella conversazione vengono spostati nella nuova cartella. "
-"Tuttavia, i messaggi nelle cartelle dei messaggi inviati e Cestino rimangono "
-"non influenzati da questa azione e non vengono spostati."
+"Tuttavia, i messaggi nelle cartelle dei messaggi Inviati e Cestino non sono "
+"influenzati da questa azione e non vengono spostati."
 
 #: ../../browsing_emails/toc.rst:62
-#, fuzzy
 msgid ""
 "To initiate a new conversation thread, you need to compose a new email "
 "rather than replying to or forwarding an existing email."
 msgstr ""
-"Per avviare un nuovo thread di conversazione, è necessario comporre un nuovo "
+"Per avviare una nuova conversazione, è necessario comporre un nuovo "
 "messaggio di posta elettronica anziché rispondere o inoltrare un messaggio "
 "esistente."
 
 #: ../../browsing_emails/toc.rst:64
-#, fuzzy
 msgid ""
 "The conversation view is advantageous for users who frequently engage in "
 "email exchanges with multiple participants. Grouping related emails into "
@@ -3485,106 +3467,91 @@ msgid ""
 "users save time by reducing the need to search for related emails "
 "scattered throughout their inbox."
 msgstr ""
-"La visualizzazione della conversazione è vantaggiosa per gli utenti che "
-"intraprendono frequentemente scambi email con più partecipanti. Il "
-"raggruppamento delle email correlate in thread consente agli utenti di "
-"seguire il flusso della conversazione più facilmente, rendendo più semplice "
-"tenere traccia del contesto e dell'andamento delle discussioni nel tempo. "
-"Questa modalità è particolarmente utile per gli utenti che collaborano a "
-"progetti, partecipano a discussioni di gruppo o comunicano con più "
-"stakeholder, in quanto facilita una miglior organizzazione e comprensione "
-"delle interazioni email complesse. Inoltre, la visualizzazione della "
-"conversazione può aiutare gli utenti a risparmiare tempo riducendo la "
-"necessità di cercare email correlate sparse nella casella di posta in arrivo."
+"La visualizzazione per conversazione è vantaggiosa per gli utenti che hanno "
+"spesso scambi di email con più partecipanti. Il raggruppamento delle email "
+"correlate consente di seguire il flusso della conversazione più facilmente, "
+"rendendo più semplice tenere traccia del contesto e dell'andamento della "
+"discussioni nel tempo. Questa modalità è particolarmente utile per gli "
+"utenti che collaborano a progetti, partecipano a discussioni di gruppo o "
+"comunicano con più stakeholder, in quanto facilita una miglior "
+"organizzazione e comprensione delle interazioni email complesse. Inoltre, la "
+"visualizzazione per conversazione può aiutarti a risparmiare tempo, "
+"riducendo la necessità di cercare ogni singola email nella casella di posta "
+"in arrivo."
 
 #: ../../browsing_emails/toc.rst:72
-#, fuzzy
 msgid "Reading Email Header Security Information"
-msgstr "Lettura delle informazioni di sicurezza intestazione email"
+msgstr "Leggere le Informazioni di Sicurezza nell'Intestazione Email"
 
 #: ../../browsing_emails/toc.rst:74
-#, fuzzy
 msgid ""
 "You will now receive visual notifications within the email body and the "
 "header will display specific security and informational criteria. This "
 "includes notifications for:"
 msgstr ""
-"Riceverai ora notifiche visive all'interno del corpo dell'email e "
-"l'intestazione visualizzerà criteri di sicurezza e informazioni specifiche. "
-"Ciò include notifiche per:"
+"Riceverai delle notifiche visive all'interno del corpo dell'email, e "
+"l'intestazione mostrerà i criteri di sicurezza e informazioni specifiche. Si "
+"tratta di notifiche per:"
 
 #: ../../browsing_emails/toc.rst:76
-#, fuzzy
 msgid "External domain origins"
-msgstr "Origin dei domini esterni"
+msgstr "Origine dei domini esterni"
 
 #: ../../browsing_emails/toc.rst:77
-#, fuzzy
 msgid "Signatures, such as DMARC and DKIM"
 msgstr "Le firme, come DMARC e DKIM"
 
 #: ../../browsing_emails/toc.rst:78
-#, fuzzy
 msgid "Confidentiality markers"
 msgstr "Indicatori di riservatezza"
 
 #: ../../browsing_emails/toc.rst:79
-#, fuzzy
 msgid "Distribution-list origins"
-msgstr "Origini dell'elenco di distribuzione"
+msgstr "Origine delle liste di distribuzione"
 
 #: ../../browsing_emails/toc.rst:81
-#, fuzzy
 msgid ""
 "These enhancements are designed to increase your awareness of potential "
 "security risks and improve content integrity."
 msgstr ""
-"Questi miglioramenti sono progettati per aumentare la consapevolezza dei "
+"Queste funzioni sono progettate per aumentare la consapevolezza dei "
 "possibili rischi per la sicurezza e migliorare l'integrità dei contenuti."
 
 #: ../../browsing_emails/toc.rst:85
-#, fuzzy
 msgid "Changing Email Visualization Method"
-msgstr "Cambiare Metodo di Visualizzazione dell'E-mail"
+msgstr "Cambiare Metodo di Visualizzazione delle Email"
 
 #: ../../browsing_emails/toc.rst:87
-#, fuzzy
 msgid ""
 "To adjust |product|'s email visualization, whether opting for threaded "
 "conversations or individual messages:"
 msgstr ""
-"Per regolare la visualizzazione delle email di Carbonio, scegliendo se "
-"preferire conversazioni raggruppate o messaggi individuali:"
+"Per cambiare la visualizzazione delle email di Carbonio, scegliendo tra la "
+"visualizzazione per conversazione o per messaggi singoli:"
 
 #: ../../browsing_emails/toc.rst:89
-#, fuzzy
 msgid "Navigate to the **Settings** (Gear icon) from the left sidebar."
 msgstr ""
 "Accedi alle **Impostazioni** (icona dell'ingranaggio) dal menu laterale "
 "sinistro."
 
 #: ../../browsing_emails/toc.rst:90
-#, fuzzy
 msgid "Access the **Mails** section."
-msgstr "Accedi alla sezione **Messaggi**."
+msgstr "Vai alla sezione **Mail**."
 
 #: ../../browsing_emails/toc.rst:91
-#, fuzzy
 msgid ""
 "Under the **Visualization Options** select your preferred viewing mode, "
 "either *By Conversation* or *By Message*."
 msgstr ""
-"Sotto **Opzioni di visualizzazione** selezionare la modalità di "
-"visualizzazione preferita, ovvero *Raggruppare per conversazione* o *"
-"Raggruppare per messaggio*."
+"Sotto **Opzioni di visualizzazione** seleziona la modalità di "
+"visualizzazione che preferisci, ovvero *Per conversazione* o *Per messaggio*."
 
 #: ../../browsing_emails/toc.rst:99
-#, fuzzy
 msgid "Email Attachment Files"
-msgstr "Allegati ai Messaggi Email"
+msgstr "Aggiungere Allegati alle Email"
 
 #: ../../browsing_emails/toc.rst:101
-#, fuzzy
 msgid ""
 "Emails can contain various types of attached files, such as word "
 "processing documents, spreadsheets, text files, ZIP archives, images, "
@@ -3592,36 +3559,33 @@ msgid ""
 "sender’s network. Messages with attachments are indicated by a paper clip"
 " icon next to the subject line."
 msgstr ""
-"Le e-mail possono contenere vari tipi di file allegati, come documenti di "
-"elaborazione testi, fogli di calcolo, file di testo, archivi ZIP, immagini, "
-"applicazioni eseguibili o qualsiasi altro file del computer memorizzato "
-"nella rete del mittente. I messaggi con allegati sono indicati da un'icona "
-"di graffetta accanto alla riga dell'oggetto."
+"Le email possono contenere vari tipi di file allegati, come documenti "
+"testuali, fogli di calcolo, archivi ZIP, immagini, applicazioni eseguibili o "
+"qualsiasi altro file del computer memorizzato nella rete del mittente. I "
+"messaggi con allegati si distinguono grazie a un'icona di graffetta accanto "
+"alla riga dell'oggetto."
 
 #: ../../browsing_emails/toc.rst:103
-#, fuzzy
 msgid ""
 "You can directly access any attached file from your account, provided you"
 " have the appropriate application, and the file extension is not blocked "
 "by your system administrator."
 msgstr ""
-"È possibile accedere direttamente a qualsiasi file allegato dal proprio "
-"account, purché si disponga dell'applicazione appropriata e l'estensione del "
-"file non sia bloccata dall'amministratore del sistema."
+"Puoi accedere direttamente a qualsiasi file allegato, purché tu disponga "
+"dell'applicazione appropriata e l'estensione del file non sia bloccata "
+"dall'amministratore del sistema."
 
 #: ../../browsing_emails/toc.rst:105
-#, fuzzy
 msgid ""
 "If your computer has compatible software installed, simply downloading, "
 "and double-clicking on the file will open it in the correct application "
 "for viewing."
 msgstr ""
-"Se il computer dispone di software compatibile installato, è sufficiente "
-"scaricare il file e fare doppio clic su di esso per aprirlo "
-"nell'applicazione appropriata per la visualizzazione."
+"Se il computer dispone di un programma compatibile installato, ti basterà "
+"scaricare il file e fare doppio clic su di esso per visualizzarlo "
+"nell'applicazione appropriata."
 
 #: ../../browsing_emails/toc.rst:107
-#, fuzzy
 msgid ""
 "File attachments are a common vector for spreading computer viruses. To "
 "mitigate this risk, system administrators often block incoming emails "
@@ -3629,27 +3593,25 @@ msgid ""
 "extensions. If you need to receive such attachments, you can ask your "
 "system administrators to allow such files."
 msgstr ""
-"Gli allegati ai file sono un vettore comune per la diffusione di virus "
+"I file allegati sono un vettore comune per la diffusione di virus "
 "informatici. Per mitigare questo rischio, gli amministratori di sistema "
-"spesso bloccano le e-mail in ingresso che contengono determinati tipi di "
+"spesso bloccano le email in ingresso che contengono determinati tipi di "
 "allegati, come ad esempio quelli con estensioni .EXE o .ZIP. Se è necessario "
-"ricevere tali allegati, è possibile chiedere agli amministratori di sistema "
-"di consentire tali file."
+"ricevere tali allegati, puoi chiedere all'amministratori di sistema di "
+"consentire l'arrivo di tali file."
 
 #: ../../browsing_emails/toc.rst:109
-#, fuzzy
 msgid ""
 "Virus filtering for incoming emails and regular virus scans for personal "
 "computers are standard practices among system administrators. However, "
 "there is always a possibility of a virus slipping through these defenses."
 msgstr ""
-"La filtrovirologico per le e-mail in entrata e le scansioni regolari dei "
-"virus per i computer personali sono pratiche standard tra gli amministratori "
+"Il filtro anti-virus per le email in entrata e le scansioni regolari dei "
+"virus nei computer personali sono pratiche standard tra gli amministratori "
 "di sistema. Tuttavia, esiste sempre la possibilità che un virus sfugga a "
 "queste difese."
 
 #: ../../browsing_emails/toc.rst:111
-#, fuzzy
 msgid ""
 "Email viruses are typically activated when the infected attachment is "
 "opened or viewed. Many of these viruses propagate themselves by "
@@ -3659,38 +3621,32 @@ msgid ""
 msgstr ""
 "I virus via email vengono generalmente attivati quando l'allegato infetto "
 "viene aperto o visualizzato. Molti di questi virus si propagano sfruttando "
-"le voci presenti negli elenchi di indirizzi degli utenti. Pertanto, è "
+"gli indirizzi presenti nelle rubriche degli utenti. Pertanto, è "
 "consigliabile esercitare cautela quando si aprono gli allegati, anche da "
 "mittenti apparentemente familiari."
 
 #: ../../browsing_emails/toc.rst:115
-#, fuzzy
 msgid "Previewing Attachments"
-msgstr "Anteprima Allegati"
+msgstr "Visualizzare gli Allegati in Anteprima"
 
 #: ../../browsing_emails/toc.rst:117
-#, fuzzy
 msgid "To access an attachment, follow these steps:"
-msgstr "Per accedere ad un allegato, seguire questi passaggi:"
+msgstr "Per accedere ad un allegato, segui questi passaggi:"
 
 #: ../../browsing_emails/toc.rst:119
-#, fuzzy
 msgid "Open the message containing the attachment."
 msgstr "Apri il messaggio che contiene l'allegato."
 
 #: ../../browsing_emails/toc.rst:120
-#, fuzzy
 msgid ""
 "Click on the attachment's name to open it, provided it is one of the "
 "following file formats: PDF, ODT, ODS, ODP, DOC, XLS, PPT, DOCX, XLSX, "
 "PPTX."
 msgstr ""
 "Fai clic sul nome dell'allegato per aprirlo, se si tratta di uno dei "
-"seguenti formati di file: PDF, ODT, ODS, ODP, DOC, XLS, PPT, DOCX, XLSX, "
-"PPTX."
+"seguenti formati file: PDF, ODT, ODS, ODP, DOC, XLS, PPT, DOCX, XLSX, PPTX."
 
 #: ../../browsing_emails/toc.rst:122
-#, fuzzy
 msgid ""
 "Alternatively, if the attachment has a different file format, **hover** "
 "your mouse cursor over the attachment's name to reveal the **Download "
@@ -3699,20 +3655,18 @@ msgid ""
 " the attachment remains associated with the email until you choose to "
 "remove it."
 msgstr ""
-"In alternativa, se l'allegato ha un formato di file diverso, **posiziona il "
-"mouse** sulla CANE del cursore sul nome dell'allegato per rivelare l'icona "
-"di **Download**. Fare clic su di essa per avviare il processo di download. "
-"Ciò aprirà una finestra di dialogo, consentendoti di specificare la cartella "
-"di destinazione. Ricorda che l'allegato resta associato alla e-mail fino a "
-"quando non scegli di rimuoverlo."
+"In alternativa, se l'allegato ha un formato diverso, **posiziona il cursore**"
+" sul nome dell'allegato per rivelare l'icona di **Download**. Fai clic su di "
+"essa per avviare il processo di download. Ciò aprirà una finestra di "
+"dialogo, consentendoti di specificare la cartella di destinazione. Ricorda "
+"che l'allegato resta associato all'email fino a quando non scegli di "
+"rimuoverlo."
 
 #: ../../browsing_emails/toc.rst:131 ../../composing_emails/toc.rst:119
-#, fuzzy
 msgid "Removing Attachments"
-msgstr "Rimozione allegati"
+msgstr "Rimuovere gli Allegati"
 
 #: ../../browsing_emails/toc.rst:133
-#, fuzzy
 msgid ""
 "Attachments included in your email contribute to your storage quota. "
 "Consider removing larger attachments to free up space. Deleting the "
@@ -3720,139 +3674,120 @@ msgid ""
 "if you have already downloaded the file, you will still have a copy saved"
 " on your device."
 msgstr ""
-"Gli allegati inclusi nella tua e-mail contribuiscono al tuo limite di spazio "
-"di archiviazione. Considera di rimuovere gli allegati più grandi per "
-"liberare spazio. cancellando l'allegato dal messaggio, rimuoverà il file "
-"dalla tua casella di posta. Tuttavia, se hai già scaricato il file, avrai "
-"ancora una copia salvata sul tuo dispositivo."
+"Gli allegati inclusi nelle tue email (in entrata e in uscita) contribuiscono "
+"a occupare il tuo spazio di archiviazione. Considera di rimuovere gli "
+"allegati più grandi per liberare spazio. Cancellando l'allegato dal "
+"messaggio, rimuoverai il file dalla tua casella di posta. Tuttavia, se hai "
+"già scaricato il file, avrai ancora una copia salvata sul tuo dispositivo."
 
 #: ../../browsing_emails/toc.rst:135
-#, fuzzy
 msgid "To remove an attachment:"
 msgstr "Per rimuovere un allegato:"
 
 #: ../../browsing_emails/toc.rst:137
-#, fuzzy
 msgid "Open the email that includes the attachment."
 msgstr "Apri l'email che include l'allegato."
 
 #: ../../browsing_emails/toc.rst:138
-#, fuzzy
 msgid ""
 "Hover your mouse cursor on the attachment to reveal the **Delete icon**. "
 "Click on it to remove the attachment."
 msgstr ""
-"Posiziona il cursore del mouse sull'allegato per visualizzare l'**icona "
-"Elimina**. Fai clic su di essa per rimuovere l'allegato."
+"Posiziona il cursore sull'allegato per visualizzare l'icona **Elimina** "
+"(cestino). Fai clic su di essa per rimuovere l'allegato."
 
 #: ../../browsing_emails/toc.rst:145
-#, fuzzy
 msgid "Downloading / Saving Attachments on Your Computer"
-msgstr "Scaricare / Salvare Allegati sul Tuo Computer"
+msgstr "Scaricare / Salvare Allegati"
 
 #: ../../browsing_emails/toc.rst:147
-#, fuzzy
 msgid "To download an attachment to your computer:"
-msgstr "Per scaricare un allegato sul tuo computer:"
+msgstr "Per scaricare un allegato nel tuo computer:"
 
 #: ../../browsing_emails/toc.rst:149 ../../browsing_emails/toc.rst:163
-#, fuzzy
 msgid "Open the email containing the attachment."
 msgstr "Apri l'email che contiene l'allegato."
 
 #: ../../browsing_emails/toc.rst:150
-#, fuzzy
 msgid ""
 "Under the attachment, click **Download** to initiate the download "
 "process. This will open a window, enabling you to specify the destination"
 " folder."
 msgstr ""
-"Sotto l'allegato, fare clic su **Download** per avviare il processo di "
-"download. Ciò aprirà una finestra che consente di specificare la cartella di "
+"Sotto l'allegato, fai clic su **Download** per avviare il processo di "
+"download. Si aprirà una finestra che consente di specificare la cartella di "
 "destinazione."
 
 #: ../../browsing_emails/toc.rst:159
-#, fuzzy
 msgid "Saving Attachments in Your |product| Files"
-msgstr "Salvataggio degli allegati nella Cartella di Carbonio"
+msgstr "Salvare Allegati nella Cartella Files di Carbonio"
 
 #: ../../browsing_emails/toc.rst:161
-#, fuzzy
 msgid "To save an attachment in your |product| Files:"
 msgstr "Per salvare un allegato in Carbonio Files:"
 
 #: ../../browsing_emails/toc.rst:164
-#, fuzzy
 msgid ""
 "Under the attachment, click **Save to Files**. This will open a window, "
 "enabling you to specify the destination folder on your Files."
 msgstr ""
-"Sotto all'allegato, clicca su **Salva su File**. Ciò aprirà una finestra che "
-"consente di specificare la cartella di destinazione su File."
+"Sotto all'allegato, clicca sull'icona **Salva su Files**. Si aprirà una "
+"finestra che consente di specificare la cartella di destinazione su Files."
 
 #: ../../browsing_emails/toc.rst:171
-#, fuzzy
 msgid "Deleting an Email"
-msgstr "Eliminazione di un messaggio di posta elettronica"
+msgstr "Eliminare un'Email"
 
 #: ../../browsing_emails/toc.rst:173
-#, fuzzy
 msgid ""
 "You have the option to remove an individual email or entire conversation "
 "thread. For that:"
 msgstr ""
-"Hai la possibilità di rimuovere un singolo messaggio di posta elettronica o "
-"l'intera conversazione. Per farlo:"
+"Puoi rimuovere un singolo messaggio di posta elettronica o l'intera "
+"conversazione. Per farlo:"
 
 #: ../../browsing_emails/toc.rst:175
-#, fuzzy
 msgid "Right-click on the email or conversation you want to remove."
 msgstr ""
-"Fai clic con il pulsante destro del mouse sull'email o sulla conversazione "
-"che desideri rimuovere."
+"Fai clic con il tasto destro sull'email o sulla conversazione che desideri "
+"rimuovere."
 
 #: ../../browsing_emails/toc.rst:176
-#, fuzzy
 msgid "Choose the **Delete** option from the menu."
 msgstr "Scegli l'opzione **Elimina** dal menu."
 
 #: ../../browsing_emails/toc.rst:177
-#, fuzzy
 msgid "The deleted emails will then be moved to your **Trash folder**."
 msgstr "Le email eliminate verranno spostate nel cartella **Cestino**."
 
 #: ../../browsing_emails/toc.rst:179
-#, fuzzy
 msgid ""
 "Deleted emails will then be moved to your Trash folder. You can retrieve "
 "items from the Trash within a 30-day window after deletion (unless your "
 "system administrator sets it otherwise). Beyond this period, the items "
 "will be permanently removed."
 msgstr ""
-"Le e-mail eliminate verranno spostate nella cartella Posta indesiderata. È "
-"possibile recuperare elementi dalla Cartella Posta indesiderata entro una "
-"finestra di 30 giorni dalla cancellazione (a meno che l'amministratore di "
-"sistema non la configuri in modo diverso). Oltre questo periodo, gli "
-"elementi verranno rimossi definitivamente."
+"Le email eliminate verranno spostate nella cartella Cestino. Puoi recuperare "
+"elementi dalla cartella Cestino entro una finestra di 30 giorni dalla "
+"cancellazione (a meno che l'amministratore di sistema non la configuri in "
+"modo diverso). Oltre questo periodo, gli elementi verranno rimossi "
+"definitivamente."
 
 #: ../../browsing_emails/toc.rst:181
-#, fuzzy
 msgid ""
 "Additionally, you can manually access your Trash folder and permanently "
 "erase the email by right-clicking on it and selecting **Delete "
 "Permanently**."
 msgstr ""
-"Inoltre, è possibile accedere manualmente alla cartella Cestino ed eliminare "
-"definitivamente l'e-mail facendo clic con il pulsante destro del mouse su di "
-"essa e selezionando **Elimina definitivamente**."
+"Inoltre, puoi sempre accedere manualmente alla cartella Cestino ed eliminare "
+"definitivamente l'email facendo clic destro su di essa e selezionando **"
+"Elimina definitivamente**."
 
 #: ../../browsing_emails/toc.rst:189
-#, fuzzy
 msgid "Recovering Messages"
-msgstr "Recupero dei messaggi"
+msgstr "Recuperare un'Email"
 
 #: ../../browsing_emails/toc.rst:191
-#, fuzzy
 msgid ""
 "There is the chance, if enabled by your system administrator, to recover "
 "even permanently deleted emails. To do so, you will need to follow these "
@@ -3863,27 +3798,23 @@ msgstr ""
 "seguire questi passaggi:"
 
 #: ../../browsing_emails/toc.rst:193
-#, fuzzy
 msgid "Click on the **gear icon** in the left panel."
-msgstr "Fare clic sull'icona **ingranaggio** nel pannello di sinistra."
+msgstr "Fai clic sull'icona **Ingranaggio** nel pannello di sinistra."
 
 #: ../../browsing_emails/toc.rst:194
-#, fuzzy
 msgid ""
 "Click on the **‘Mails’** option and scroll down to the **‘Recover "
 "Messages’** section."
 msgstr ""
-"Clicca sull'opzione **'Mails'** e scorri verso il basso fino alla sezione **"
-"'Recupera Messaggi'**."
+"Clicca su **'Mail** e scorri verso il basso fino alla sezione **'Recupera "
+"Messaggi'**."
 
 #: ../../browsing_emails/toc.rst:195
-#, fuzzy
 msgid "Enter a keyword and/or the date of the email you wish to recover."
 msgstr ""
 "Inserisci una parola chiave e/o la data dell'email che desideri recuperare."
 
 #: ../../browsing_emails/toc.rst:196
-#, fuzzy
 msgid ""
 "Click on ‘Search E-mails’ and then on **‘Start Search’** in the pop-up "
 "window that will appear."
@@ -3892,256 +3823,218 @@ msgstr ""
 "che verrà visualizzata."
 
 #: ../../browsing_emails/toc.rst:197
-#, fuzzy
 msgid ""
 "Select the email you intend to recover by ticking the flag and click the "
 "**‘Recover Selected E-mails’** button in the top-right corner."
 msgstr ""
-"Seleziona l'e-mail che desideri ripristinare spuntando la casella e clicca "
-"sul pulsante **'Ripristina e-mail selezionate'** nell'angolo in alto a "
-"destra."
+"Seleziona l'email che desideri ripristinare spuntando la casella, poi clicca "
+"sul tasto **'Ripristina email selezionate'** nell'angolo in alto a destra."
 
 #: ../../browsing_emails/toc.rst:198
-#, fuzzy
 msgid "Click on **‘Start Recovery’** in the pop-up window that appears."
-msgstr "Fai clic su **'Avvia recovery'** nella finestra popup che appare."
+msgstr "Fai clic su **'Avvia recupero'** nella finestra popup che appare."
 
 #: ../../browsing_emails/toc.rst:199
-#, fuzzy
 msgid ""
 "You will find the recovered email inside a folder in your inbox, renamed "
 "with the date and time details of the recovery."
 msgstr ""
-"Troverai l'email recuperata all'interno di una cartella nella tua casella di "
-"posta in arrivo, rinominata con le informazioni di data e ora del recupero."
+"Troverai l'email recuperata all'interno di una nuova cartella nella tua "
+"casella di posta in arrivo, rinominata con le informazioni di data e ora del "
+"recupero."
 
 #: ../../browsing_emails/toc.rst:200
-#, fuzzy
 msgid ""
 "You will also receive a notification in your inbox with the details of "
 "the recovery process outcome."
 msgstr ""
-"Riceverai anche una notifica nella tua casella di posta con i dettagli "
-"dell'esito del processo di recupero."
+"Riceverai anche una notifica email con i dettagli dell'esito del processo di "
+"recupero."
 
 #: ../../browsing_emails/toc.rst:202
-#, fuzzy
 msgid ""
 "Please note that the ability to perform this operation strictly depends "
 "on the backup settings configured by your system administrator."
 msgstr ""
-"Si prega di notare che la possibilità di eseguire questa operazione dipende "
-"strettamente dalle impostazioni di backup configurate dal tuo amministratore "
-"di sistema."
+"Nota che la possibilità di eseguire questa operazione dipende strettamente "
+"dalle impostazioni di backup configurate dal tuo amministratore di sistema."
 
 #: ../../browsing_emails/toc.rst:205
-#, fuzzy
 msgid "Marking an Email as Unread"
-msgstr "Contrassegnare un'Email come non letta"
+msgstr "Contrassegnare un'Email Come Non Letta"
 
 #: ../../browsing_emails/toc.rst:207
-#, fuzzy
 msgid ""
 "Marking emails as unread can be particularly helpful when you need to "
 "revisit an email for future reference or further reading, especially if "
 "you have already opened it but have not had the chance to fully engage "
 "with its content."
 msgstr ""
-"Contrassegnare gli e-mail come non letti può essere particolarmente utile "
-"quando è necessario rivedere un'e-mail per futura consultazione o lettura "
-"approfondita, in special modo se è già stata aperta ma non si è avuta ancora "
-"l'occasione di interagire appieno con il suo contenuto."
+"Contrassegnare le email come non lette può essere utile quando vuoi "
+"ricordare di tornare a un'email per futura consultazione o una lettura "
+"approfondita, dopo che l'hai aperta ma non hai avuto ancora modo di "
+"interagire con il suo contenuto."
 
 #: ../../browsing_emails/toc.rst:209
-#, fuzzy
 msgid ""
 "The key distinction between a read and unread email lies in their "
 "appearance within your inbox: read emails typically display with regular "
 "text, while unread emails stand out with bold subject lines, making them "
 "easier to spot."
 msgstr ""
-"La differenza fondamentale tra un'email letta e una non letta risiede nel "
-"loro aspetto all'interno della tua casella di posta in arrivo: le email "
-"lette vengono solitamente visualizzate con un testo normale, mentre le email "
-"non lette risaltano con linee oggetto in grassetto, rendendole più facili da "
+"La differenza fondamentale tra un'email letta e una non letta sta nel loro "
+"aspetto all'interno della tua casella di posta in arrivo: le email lette "
+"vengono solitamente visualizzate con un testo normale, mentre le email non "
+"lette risaltano con l'oggetto in grassetto, rendendole più facili da "
 "individuare."
 
 #: ../../browsing_emails/toc.rst:211
-#, fuzzy
 msgid "To mark an email as unread, follow these steps:"
-msgstr "Per contrassegnare un'e-mail come non letta, segui questi passaggi:"
+msgstr "Per contrassegnare un'email come non letta, segui questi passaggi:"
 
 #: ../../browsing_emails/toc.rst:213
-#, fuzzy
 msgid "Right-click on the email you wish to mark as unread."
 msgstr ""
-"Fai clic con il pulsante destro del mouse sull'email che desideri "
-"contrassegnare come non letta."
+"Fai clic con il tasto destro sull'email che desideri contrassegnare come non "
+"letta."
 
 #: ../../browsing_emails/toc.rst:214
-#, fuzzy
 msgid "From the menu that appears, select **Mark as unread**."
 msgstr "Dal menu che appare, seleziona **Segna come non letto**."
 
 #: ../../browsing_emails/toc.rst:215
-#, fuzzy
 msgid "Notice how the email's subject line now appears in bold font."
 msgstr "Nota come l'oggetto dell'email adesso appare in grassetto."
 
 #: ../../browsing_emails/toc.rst:217
-#, fuzzy
 msgid ""
 "It is important to be cautious after marking an email as unread, as "
 "inadvertently clicking on it again will remove the bold formatting from "
 "the subject line which undo your action."
 msgstr ""
-"È importante fare attenzione dopo aver contrassegnato un'e-mail come non "
-"letta, poiché cliccare incidentalmente nuovamente su di essa rimuoverà il "
-"formato in grassetto dalla riga dell'oggetto, annullando l'azione."
+"Fai attenzione dopo aver contrassegnato un'email come non letta, poiché "
+"cliccare accidentalmente su di essa rimuoverà il grassetto dalla riga "
+"dell'oggetto, annullando l'azione."
 
 #: ../../browsing_emails/toc.rst:226
-#, fuzzy
 msgid "Printing an Email"
-msgstr "Stampa di un'e-mail"
+msgstr "Stampare un'Email"
 
 #: ../../browsing_emails/toc.rst:229
-#, fuzzy
 msgid "To print an email:"
-msgstr "Stampare un email:"
+msgstr "Per stampare un'email:"
 
 #: ../../browsing_emails/toc.rst:231
-#, fuzzy
 msgid "Right-click on the email or conversation you wish to print."
-msgstr ""
-"Fai clic destro sull'e-mail o sulla conversazione che desideri stampare."
+msgstr "Fai clic destro sull'email o sulla conversazione che desideri stampare."
 
 #: ../../browsing_emails/toc.rst:232
-#, fuzzy
 msgid "Select the **Print** option from the menu."
 msgstr "Seleziona l'opzione **Stampa** dal menu."
 
 #: ../../browsing_emails/toc.rst:233
-#, fuzzy
 msgid ""
 "A new tab will open in your browser displaying the email, along with a "
 "window for adjusting printer settings. Make any necessary adjustments."
 msgstr ""
-"Si aprirà una nuova scheda nel tuo browser che visualizzerà l'e-mail, "
-"insieme a una finestra per regolare le impostazioni di stampa. Apporta "
-"eventuali regolazioni necessarie."
+"Si aprirà una nuova scheda nel tuo browser che mostrerà à l'email, insieme "
+"alle impostazioni di stampa regolabili. Apporta eventuali regolazioni "
+"necessarie."
 
 #: ../../browsing_emails/toc.rst:234
-#, fuzzy
 msgid "Click the Print button to proceed with printing."
-msgstr "Clicca sul pulsante Stampa per procedere con la stampa."
+msgstr "Clicca sul tasto Stampa per procedere con la stampa."
 
 #: ../../browsing_emails/toc.rst:242
-#, fuzzy
 msgid "Actions on Multiple Emails at Once"
-msgstr "Azioni su più email contemporaneamente"
+msgstr "Eseguire Azioni su più Email Contemporaneamente"
 
 #: ../../browsing_emails/toc.rst:244
-#, fuzzy
 msgid "To perform an action on multiple emails:"
-msgstr "Per eseguire un'azione su più e-mail:"
+msgstr "Per eseguire un'azione su più email:"
 
 #: ../../browsing_emails/toc.rst:246
-#, fuzzy
 msgid ""
 "Click on the check mark icon at the top left corner of your main panel to"
 " enter selection mode."
 msgstr ""
-"Fai clic sull'icona di spunta nell'angolo in alto a sinistra del tuo "
-"pannello principale per entrare in modalità di selezione."
+"Fai clic sulla casella di spunta nell'angolo in alto a sinistra del tuo "
+"pannello principale per entrare in modalità selezione."
 
 #: ../../browsing_emails/toc.rst:247
-#, fuzzy
 msgid "Select the empty circles beside each email you wish to choose."
-msgstr "Seleziona i cerchi vuoti accanto a ogni email che desideri scegliere."
+msgstr "Seleziona i cerchi vuoti accanto a ogni email che desideri selezionare."
 
 #: ../../browsing_emails/toc.rst:248
-#, fuzzy
 msgid ""
 "Click on the three vertical dots icon at the top right corner of the "
 "email list."
 msgstr ""
 "Fai clic sull'icona dei tre puntini verticali nell'angolo in alto a destra "
-"dell'elenco delle e-mail."
+"della lista delle email."
 
 #: ../../browsing_emails/toc.rst:249
-#, fuzzy
 msgid "Choose the action you want to perform."
 msgstr "Scegli l'azione che desideri eseguire."
 
 #: ../../browsing_emails/toc.rst:251
-#, fuzzy
 msgid ""
 "The available actions for multiple emails include marking as unread, "
 "adding a flag, moving, and tagging."
 msgstr ""
-"Le azioni disponibili per più email includono segnare come non letta, "
-"aggiungere un flag, spostare ed etichettare."
+"Le azioni disponibili per più email includono Segna come non letto, "
+"Contrassegna con un flag, Sposta ed Etichetta."
 
 #: ../../browsing_emails/toc.rst:253
-#, fuzzy
 msgid "To delete multiple emails at once:"
 msgstr "Per eliminare più email contemporaneamente:"
 
 #: ../../browsing_emails/toc.rst:255
-#, fuzzy
 msgid "Select multiple emails as described above."
 msgstr "Seleziona più email come descritto sopra."
 
 #: ../../browsing_emails/toc.rst:256
-#, fuzzy
 msgid "Click on the trash icon at the top right corner of your email list."
 msgstr ""
 "Clicca sull'icona del cestino in alto a destra dell'elenco delle tue email."
 
 #: ../../browsing_emails/toc.rst:264
-#, fuzzy
 msgid "Sorting Emails"
-msgstr "Smistamento delle e-mail"
+msgstr "Ordinare le Email"
 
 #: ../../browsing_emails/toc.rst:266
-#, fuzzy
 msgid ""
 "Sorting emails can offer significant utility across various scenarios. "
 "You have the flexibility to categorize emails based on criteria such as "
 "unread status, importance, flagged status, presence of attachments, "
 "sender, date, and subject."
 msgstr ""
-"L'ordinamento delle e-mail può offrire una notevole utilità in vari scenari. "
-"Ha la flessibilità di categorizzare le e-mail in base a criteri come stato "
-"di lettura, importanza, stato di segnalazione, presenza di allegati, "
-"mittente, data e oggetto."
+"L'ordinamento delle email può offrire una notevole utilità in vari scenari. "
+"Puoi ordinare le email in base a criteri come stato di lettura, importanza, "
+"contrassegni, presenza di allegati, mittente, data e oggetto."
 
 #: ../../browsing_emails/toc.rst:268
-#, fuzzy
 msgid ""
 "To initiate sorting, click on the **sorting icon** located in the top "
 "right corner of your email list."
 msgstr ""
-"Per avviare l'ordinamento, fai clic sull'icona di **ordinamento** situata "
-"nell'angolo superiore destro dell'elenco delle email."
+"Per cambiare l'ordine di visualizzazione, fai clic sull'icona di "
+"**ordinamento** situata nell'angolo in alto a destra dell'elenco delle email."
 
 #: ../../browsing_emails/toc.rst:269
-#, fuzzy
 msgid "Choose your preferred sorting criterion from the options provided."
 msgstr ""
-"Seleziona il tuo criterio di ordinamento preferito tra le opzioni proposte."
+"Seleziona il criterio di ordinamento che preferisci tra le opzioni proposte."
 
 #: ../../browsing_emails/toc.rst:270
-#, fuzzy
 msgid ""
 "Once selected, click on the sorting icon again to toggle between "
 "ascending and descending order as per your preference."
 msgstr ""
-"Una volta selezionato, fare clic sull'icona di ordinamento nuovamente per "
-"passare tra l'ordinamento crescente e decrescente secondo le tue preferenze."
+"Una volta selezionato, fai nuovamente clic sull'icona di ordinamento per "
+"passare dall'ordinamento crescente a decrescente secondo le tue preferenze."
 
 #: ../../browsing_emails/toc.rst:272
-#, fuzzy
 msgid ""
 "The default sorting mode automatically arranges emails based on their "
 "dates."
@@ -4150,209 +4043,172 @@ msgstr ""
 "base alla loro data."
 
 #: ../../browsing_emails/toc.rst:281
-#, fuzzy
 msgid "Emails date format"
-msgstr "GG/MM/AAAA"
+msgstr "Formati Data delle Email"
 
 #: ../../browsing_emails/toc.rst:283
-#, fuzzy
 msgid ""
 "To ensure clarity, the date format for emails that are not from the "
 "current day, it will always be displayed with the full date and time, "
 "with the complete timestamp."
 msgstr ""
-"Per garantire la chiarezza, il formato di data per le e-mail che non sono "
-"del giorno corrente verrà sempre visualizzato con la data e l'orario "
-"completi, con il timestamp completo."
+"Per garantire la chiarezza, il formato data per le email che non sono del "
+"giorno corrente viene sempre visualizzato con la data e l'orario completi."
 
 #: ../../browsing_emails/toc.rst:285
-#, fuzzy
 msgid ""
 "The timestamp will be shown according to the browser language rules, as "
 "explained in the following table:"
 msgstr ""
-"Il timestamp verrà visualizzato secondo le regole del linguaggio del "
-"browser, come spiegato nella seguente tabella:"
+"Il marcatore temporale verrà visualizzato secondo le regole del linguaggio "
+"del tuo browser, come spiegato nella seguente tabella:"
 
 #: ../../browsing_emails/toc.rst:287
-#, fuzzy
 msgid "Date Format"
 msgstr "Formato Data"
 
 #: ../../browsing_emails/toc.rst:1
-#, fuzzy
 msgid "Language"
 msgstr "Lingua"
 
 #: ../../browsing_emails/toc.rst:1
-#, fuzzy
 msgid "Format"
 msgstr "Formato"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇬🇧 English*"
 msgstr "*🇬🇧 Inglese*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "07/25/2024 5:08 PM"
-msgstr "25/07/2024 17:08"
+msgstr "07/25/2024 5:08 PM"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇮🇹 Italian*"
 msgstr "*🇮🇹 Italiano*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "25/07/2024 17:08"
 msgstr "25/07/2024 17:08"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇨🇳 Chinese*"
 msgstr "*🇨🇳 Cinese*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "2024/07/25 17:08"
 msgstr "2024/07/25 17:08"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇳🇱 Dutch*"
 msgstr "*🇳🇱 Olandese*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "25-07-2024 17:08"
 msgstr "25-07-2024 17:08"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇩🇪 German*"
 msgstr "*🇩🇪 Tedesco*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "25.07.2024 17:08"
 msgstr "25-07-2024 17:08"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇮🇳 Hindi*"
 msgstr "*🇮🇳 Hindi*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "२५/०७/२०२४ शाम ५:१३ बजे"
-msgstr "25/07/2024, ore 17:13"
+msgstr "२५/०७/२०२४ शाम ५:१३ बजे"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇯🇵 Japanese*"
 msgstr "*🇯🇵 Giapponese*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇵🇹 Portuguese*"
 msgstr "*🇵🇹 Portoghese*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇵🇱 Polish*"
 msgstr "*🇵🇱 Polacco*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇧🇷 Portuguese (Brasil)*"
 msgstr "*🇧🇷 Portoghese (Brasile)*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇷🇴 Romanian*"
-msgstr "* Romeno *"
+msgstr "*🇷🇴 Romeno *"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇷🇺 Russian*"
 msgstr "*🇷🇺 Russo*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇪🇸 Spanish*"
 msgstr "*🇪🇸 Spagnolo*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇹🇭 Thai*"
 msgstr "*🇹🇭 Tailandese*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇹🇷 Turkish*"
 msgstr "*🇹🇷 Turco*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇫🇷 French*"
 msgstr "*🇫🇷 Francese*"
 
 #: ../../browsing_emails/dateformat.csv:1
-#, fuzzy
 msgid "*🇻🇳 Vietnamese*"
 msgstr "*🇻🇳 Vietnamita*"
 
 #: ../../calendars/toc.rst:7
-#, fuzzy
 msgid "Working with Calendars"
-msgstr "Lavorare con Calendari"
+msgstr "Lavorare con i Calendari"
 
 #: ../../calendars/toc.rst:13
-#, fuzzy
 msgid ""
 "You can utilize the |product| Calendar feature to effectively manage your"
 " appointments, meetings, and events. Additionally, |product| enables you "
 "to share your calendars with colleagues or friends."
 msgstr ""
-"Puoi utilizzare la funzione Calendario di Carbonio per gestire al meglio "
-"i tuoi appuntamenti, incontri ed eventi. Inoltre, Carbonio ti consente di"
-" condividere i tuoi calendari con colleghi o amici."
+"Puoi usare la funzione Calendario di Carbonio per gestire al meglio i tuoi "
+"appuntamenti, incontri ed eventi. Inoltre, Carbonio ti consente di "
+"condividere i tuoi calendari con colleghi o amici."
 
 #: ../../calendars/toc.rst:15
-#, fuzzy
 msgid ""
 "To access the Calendar function, simply click on the Calendars section "
 "from the left sidebar."
 msgstr ""
-"Per accedere alla funzione Calendario, fare clic sulla sezione Calendari nel "
+"Per accedere alla funzione Calendario, fai clic sulla sezione Calendari nel "
 "menu laterale sinistro."
 
 #: ../../calendars/toc.rst:18
-#, fuzzy
 msgid "Setting Default Calendar View"
-msgstr "Impostazione Vista Calendario Predefinita"
+msgstr "Impostare la Vista Calendario Predefinita"
 
 #: ../../calendars/toc.rst:20
-#, fuzzy
 msgid ""
 "In |product|, the default view when opening your calendar is the Work "
 "Week View. However, you have the option to customize this and choose a "
 "different view to display upon opening."
 msgstr ""
-"In Carbonio, la vista predefinita quando si apre il calendario è la vista"
-" della settimana lavorativa. Tuttavia, è possibile personalizzarla e "
-"scegliere una vista diversa da visualizzare al momento dell'apertura."
+"In Carbonio, la visualizzazione predefinita quando si apre il calendario è "
+"la settimana lavorativa. Tuttavia, è possibile personalizzarla e scegliendo "
+"una modalità diversa."
 
 #: ../../calendars/toc.rst:22
-#, fuzzy
 msgid "To change the default calendar view:"
 msgstr "Per modificare la visualizzazione del calendario predefinita:"
 
 #: ../../calendars/toc.rst:25 ../../calendars/toc.rst:157
 #: ../../calendars/toc.rst:167
-#, fuzzy
 msgid "Select Calendars."
 msgstr "Seleziona Calendari."
 
@@ -4937,127 +4793,106 @@ msgstr ""
 "scorciatoia da tastiera CTRL+V su Windows o Comando+V su macOS."
 
 #: ../../calendars/toc.rst:209
-#, fuzzy
 msgid "Find Colleagues' Shared Calendars"
-msgstr "Trova i Calendari Condivisi dei Colleghi"
+msgstr "Trovare i Calendari Condivisi dei Colleghi"
 
 #: ../../calendars/toc.rst:211
-#, fuzzy
 msgid "To find and add your colleagues’ shared calendars:"
 msgstr "Per trovare e aggiungere i calendari condivisi dei tuoi colleghi:"
 
 #: ../../calendars/toc.rst:214
-#, fuzzy
 msgid ""
 "From the Navigation Panel, click the **FIND SHARES** button. A new window"
 " appears."
 msgstr ""
-"Dal Pannello di Navigazione, fare clic sul pulsante **CERCA AZIONI**. Verrà "
-"visualizzata una nuova finestra."
+"Dal pannello di navigazione, fai clic sul tasto **TROVA CONDIVISIONI**. "
+"Verrà visualizzata una nuova finestra."
 
 #: ../../calendars/toc.rst:215
-#, fuzzy
 msgid ""
 "Begin typing your colleague’s email address and select it from the "
 "suggestions that appear."
 msgstr ""
-"Inizia a scrivere l'indirizzo e-mail del tuo collega e selezionalo dalle "
+"Inizia a scrivere l'indirizzo email del tuo collega e selezionalo dai "
 "suggerimenti che appaiono."
 
 #: ../../calendars/toc.rst:216
-#, fuzzy
 msgid "Select the calendar shared with you from the list."
-msgstr "Seleziona il calendario condiviso con te dall'elenco."
+msgstr "Seleziona il calendario condiviso dall'elenco."
 
 #: ../../calendars/toc.rst:219
-#, fuzzy
 msgid "The shared calendar will appear in your calendars list."
 msgstr "Il calendario condiviso apparirà nell'elenco dei tuoi calendari."
 
 #: ../../calendars/toc.rst:222
-#, fuzzy
 msgid "Creating Calendar Groups"
-msgstr "Creazione di Gruppi di Calendario"
+msgstr "Creare Gruppi nel Calendario"
 
 #: ../../calendars/toc.rst:224
-#, fuzzy
 msgid ""
 "You also have the option to create calendar groups, making it easier to "
 "search for certain shared calendars. To do this, simply:"
 msgstr ""
 "Puoi anche creare gruppi di calendari, facilitando la ricerca di calendari "
-"condivisi. Per fare ciò, basta semplicemente:"
+"condivisi. Per fare ciò:"
 
 #: ../../calendars/toc.rst:227
-#, fuzzy
 msgid "Click on **Create New Group** button."
-msgstr "Fai clic sul pulsante **Crea nuovo gruppo**."
+msgstr "Fai clic sul tasto **Crea nuovo gruppo**."
 
 #: ../../calendars/toc.rst:228
-#, fuzzy
 msgid ""
 "Enter the name of the group in the proper field of the new modal that "
 "appears."
 msgstr ""
-"Inserisci il nome del gruppo nel campo appropriato della nuova modale che "
+"Inserisci il nome del gruppo nel campo appropriato della nuova finestra che "
 "appare."
 
 #: ../../calendars/toc.rst:229
-#, fuzzy
 msgid ""
 "Select the calendars you wish to add to the group from the list, by "
 "simply searching for them."
 msgstr ""
-"Seleziona i calendari che desideri aggiungere al gruppo dalla lista, "
+"Seleziona dalla lista i calendari che desideri aggiungere al gruppo, "
 "semplicemente cercandoli."
 
 #: ../../calendars/toc.rst:230
-#, fuzzy
 msgid "Click the **+** button, to add them all."
-msgstr "Fare clic sul pulsante **+** per aggiungerli tutti."
+msgstr "Fai clic sul pulsante **+** per aggiungerli tutti."
 
 #: ../../calendars/toc.rst:231
-#, fuzzy
 msgid "Click the **REMOVE** button, if you have to remove some of them."
-msgstr "Fai clic sul pulsante **RIMUOVI**, se devi rimuovere alcuni di essi."
+msgstr "Fai clic sul tasto **RIMUOVI**, se devi rimuovere alcuni di essi."
 
 #: ../../calendars/toc.rst:232
-#, fuzzy
 msgid "Click the **CREATE GROUP** button."
-msgstr "Fare clic sul pulsante **CREA GRUPPO**."
+msgstr "Fai clic sul tasto **CREA GRUPPO**."
 
 #: ../../calendars/toc.rst:234
-#, fuzzy
 msgid ""
 "Now you can switch on and off the group everytime you need to see all the"
 " calendars of the users in that group."
 msgstr ""
-"Ora puoi attivare e disattivare il gruppo ogni volta che hai bisogno di "
+"Ora puoi attivare o disattivare il gruppo ogni volta che hai bisogno di "
 "visualizzare tutti i calendari degli utenti in quel gruppo."
 
 #: ../../calendars/toc.rst:237
-#, fuzzy
 msgid "Editing Calendar Groups"
-msgstr "Modifica dei Gruppi di Calendario"
+msgstr "Modificare i Gruppi nel Calendario"
 
 #: ../../calendars/toc.rst:239
-#, fuzzy
 msgid "To edit a calendar group, follow these steps:"
-msgstr "Per modificare un gruppo di calendario, seguire questi passaggi:"
+msgstr "Per modificare un gruppo nel calendario, segui questi passaggi:"
 
 #: ../../calendars/toc.rst:241
-#, fuzzy
 msgid "Right-click on the group you want to edit."
-msgstr ""
-"Fai clic con il pulsante destro del mouse sul gruppo che desideri modificare."
+msgstr "Fai clic con il tasto destro sul gruppo che desideri modificare."
 
 #: ../../calendars/toc.rst:242
-#, fuzzy
 msgid "Select **Edit Group** option."
 msgstr "Seleziona l'opzione **Modifica gruppo**."
 
 #: ../../calendars/toc.rst:243
-#, fuzzy
 msgid ""
 "Make the necessary changes to the group name or the calendars included in"
 " the group."
@@ -5066,98 +4901,81 @@ msgstr ""
 "nel gruppo."
 
 #: ../../calendars/toc.rst:244
-#, fuzzy
 msgid "Click the **SAVE CHANGES** button."
 msgstr "Fai clic sul pulsante **SALVA MODIFICHE**."
 
 #: ../../calendars/toc.rst:247
-#, fuzzy
 msgid "Deeleting Calendar Groups"
-msgstr "Cancellazione dei Gruppi di Calendario"
+msgstr "Cancellare dei Gruppi nel Calendario"
 
 #: ../../calendars/toc.rst:249
-#, fuzzy
 msgid "To delete a calendar group, simply:"
-msgstr "Per eliminare un gruppo di calendario, semplicemente:"
+msgstr "Per eliminare un gruppo nel calendario:"
 
 #: ../../calendars/toc.rst:251
-#, fuzzy
 msgid "Right-click on the group you want to delete."
-msgstr ""
-"Fate clic con il pulsante destro del mouse sul gruppo che si desidera "
-"eliminare."
+msgstr "Fai clic con il destro sul gruppo che desideri eliminare."
 
 #: ../../calendars/toc.rst:252
-#, fuzzy
 msgid "Select **Delete permanently** option."
 msgstr "Seleziona l'opzione **Elimina definitivamente**."
 
 #: ../../calendars/toc.rst:253
-#, fuzzy
 msgid ""
 "Confirm that you want to delete the group, by clicking on the red button "
 "**DELETE PERMANENTLY**"
 msgstr ""
-"Conferma di voler eliminare il gruppo facendo clic sul pulsante rosso **"
-"ELIMINA DEFINITIVAMENTE**"
+"Conferma di voler eliminare il gruppo facendo clic sul tasto rosso **ELIMINA "
+"DEFINITIVAMENTE**"
 
 #: ../../calendars/toc.rst:254
-#, fuzzy
 msgid "The group will be permanently deleted."
 msgstr "Il gruppo verrà cancellato definitivamente."
 
 #: ../../calendars/toc.rst:258
-#, fuzzy
 msgid "Remove a Colleague's Shared Calendars from Your List"
-msgstr "Rimuovi i calendari condivisi di un collega dalla tua lista"
+msgstr "Rimuovere i Calendari Condivisi di un Collega dalla tua Lista"
 
 #: ../../calendars/toc.rst:260
-#, fuzzy
 msgid "To remove a colleague’s shared calendar from your calendars list:"
 msgstr ""
 "Per rimuovere il calendario condiviso di un collega dall'elenco dei tuoi "
 "calendari:"
 
 #: ../../calendars/toc.rst:263
-#, fuzzy
 msgid "From the Navigation Panel, right-click on the calendar you wish to remove."
 msgstr ""
-"Dal Pannello di Navigazione, fare clic destro sul calendario che si desidera "
+"Dal pannello di navigazione, fai clic destro sul calendario che desideri "
 "rimuovere."
 
 #: ../../calendars/toc.rst:264
-#, fuzzy
 msgid "From the drop-down menu select **Remove shared calendar**."
-msgstr "Nel menu a discesa selezionare **Rimuovi calendario condiviso**."
+msgstr "Nel menu a discesa seleziona **Rimuovi calendario condiviso**."
 
 #: ../../calendars/toc.rst:269
-#, fuzzy
 msgid "Import an ICS File as New Calendar"
-msgstr "Importa un file ICS come nuovo calendario"
+msgstr "Importare un File ICS Come Nuovo Calendario"
 
 #: ../../calendars/toc.rst:271
-#, fuzzy
 msgid ""
 "You can import a calendar in .ics format directly to your |product| web "
 "client calendar. To do so:"
 msgstr ""
-"È possibile importare un calendario in formato .ics direttamente nel "
-"calendario del client web di Carbonio. Per farlo:"
+"Puoi importare un calendario in formato .ics direttamente nel calendario del "
+"client web di Carbonio. Per farlo:"
 
 #: ../../calendars/toc.rst:274
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click on \"Calendar\" and select the voice"
 " \"New Calendar\": this step is not mandatory, but recommended to avoid "
 "mixing existing calendars with the imported one."
 msgstr ""
-"Nel pannello di navigazione, fare clic destro su \"Calendario\" e "
-"selezionare la voce \"Nuovo calendario\": questo passaggio non è "
-"obbligatorio, ma è consigliato per evitare di mescolare i calendari "
-"esistenti con quello importato."
+"Nel pannello di navigazione, fai clic destro su \"Calendario\" e seleziona "
+"la voce \"Nuovo calendario\": questo passaggio non è obbligatorio, ma è "
+"consigliato per evitare di mescolare i calendari esistenti con quello "
+"importato."
 
 #: ../../calendars/toc.rst:275
-#, fuzzy
 msgid ""
 "Choose the name and settings of the new calendar that will contain the "
 "imported data and save it."
@@ -5166,72 +4984,60 @@ msgstr ""
 "importati e salvalo."
 
 #: ../../calendars/toc.rst:276
-#, fuzzy
 msgid "Right-click on the new calendar and select the \"Import ICS file\" option."
 msgstr ""
-"Fare clic con il pulsante destro del mouse sul nuovo calendario e "
-"selezionare l'opzione \"Importa file ICS\"."
+"Fai clic destro sul nuovo calendario e seleziona l'opzione \"Importa file "
+"ICS\"."
 
 #: ../../calendars/toc.rst:277
-#, fuzzy
 msgid "Select the .ics file containing the calendar, stored on your computer."
 msgstr ""
-"Seleziona il file .ics contenente il calendario, memorizzato sul tuo "
+"Seleziona il file .ics contenente il calendario, memorizzato nel tuo "
 "computer."
 
 #: ../../calendars/toc.rst:278
-#, fuzzy
 msgid "Click **Open** and **Import**."
-msgstr "Fare clic su **Apri** e **Importa**."
+msgstr "Fai clic su **Apri** e **Importa**."
 
 #: ../../calendars/toc.rst:279
-#, fuzzy
 msgid "Refresh the page to get the updated calendar view."
-msgstr ""
-"Aggiorna la pagina per ottenere la visualizzazione del calendario aggiornata."
+msgstr "Aggiorna la pagina per visualizzare il calendario aggiornato."
 
 #: ../../calendars/toc.rst:282
-#, fuzzy
 msgid "Export an ICS File as New Calendar"
-msgstr "Esporta un file ICS come nuovo calendario"
+msgstr "Esportare un File ICS Come Nuovo Calendario"
 
 #: ../../calendars/toc.rst:284
-#, fuzzy
 msgid ""
 "You can also export a calendar in .ics format directly from your "
 "|product| web client calendar. To do so:"
 msgstr ""
-"È inoltre possibile esportare un calendario in formato .ics direttamente "
-"dal client web di Carbonio. Per farlo:"
+"È inoltre possibile esportare un calendario in formato .ics direttamente dal "
+"client web di Carbonio. Per farlo:"
 
 #: ../../calendars/toc.rst:287
-#, fuzzy
 msgid "In the Navigation Panel, right-click on \"Calendar\" you want to export."
 msgstr ""
-"Nel pannello di navigazione, fare clic destro sul calendario che si desidera "
+"Nel pannello di navigazione, fai clic destro sul calendario che desideri "
 "esportare."
 
 #: ../../calendars/toc.rst:288
-#, fuzzy
 msgid "Select the \"Export ICS file\" option."
 msgstr "Seleziona l'opzione \"Esporta file ICS\"."
 
 #: ../../calendars/toc.rst:289
-#, fuzzy
 msgid ""
 "The download will start in a while, find you .ics file in your download "
 "folder."
 msgstr ""
-"Il download inizierà a breve, trovare il file .ics nella cartella dei "
+"Il download inizierà a breve, troverai il file .ics nella cartella dei "
 "download."
 
 #: ../../chats(wsc)/toc.rst:7
-#, fuzzy
 msgid "Working with Chats (WSC) :bdg-primary:`NEW`"
 msgstr "Lavorare con Chats (WSC) :bdg-primary:'NUOVO'"
 
 #: ../../chats(wsc)/toc.rst:14
-#, fuzzy
 msgid ""
 "In the |product| web client, Chats (WSC - Workstream Collaboration) serve"
 " as a key communication feature, supporting both individual and group "
@@ -5243,81 +5049,69 @@ msgid ""
 "working remotely or in the office."
 msgstr ""
 "Nel client web di Carbonio, le Chat (WSC - Workstream Collaboration) "
-"costituiscono una funzionalità di comunicazione chiave, supportando sia "
-"le interazioni individuali che di gruppo. Gli utenti beneficiano di "
-"messaggistica centralizzata, promuovendo conversazioni in tempo reale e "
-"favorendo la collaborazione. Che si tratti di condividere informazioni, "
-"fare brainstorming o organizzare attività, le Chat offrono una "
-"piattaforma senza soluzione di continuità per un lavoro di squadra "
-"efficiente. Le notifiche assicurano che gli utenti rimangano aggiornati e"
-" coinvolti, mantenendo la produttività sia quando lavorano da remoto che "
-"quando lavorano in ufficio."
+"costituiscono una funzionalità di comunicazione chiave, supportando sia le "
+"interazioni individuali che di gruppo. Gli utenti beneficiano di "
+"messaggistica centralizzata, promuovendo le conversazioni in tempo reale e "
+"favorendo la collaborazione. Che si tratti di condividere informazioni, fare "
+"brainstorming o organizzare attività, le Chat offrono una piattaforma senza "
+"soluzione di continuità per un lavoro di squadra efficiente. Le notifiche "
+"assicurano che gli utenti rimangano aggiornati e coinvolti, mantenendo la "
+"produttività sia quando lavorano da remoto che quando lavorano in ufficio."
 
 #: ../../chats(wsc)/toc.rst:17 ../../chats/toc.rst:19
-#, fuzzy
 msgid "Creating New Chat"
-msgstr "Creazione di una Nuova Chat"
+msgstr "Creare una Nuova Chat"
 
 #: ../../chats(wsc)/toc.rst:19 ../../chats/toc.rst:21
-#, fuzzy
 msgid ""
 "To initiate communication with a colleague, you need to create a new "
 "chat. To do so:"
-msgstr ""
-"Per iniziare una comunicazione con un collega, è necessario creare una nuova "
-"chat. A tale scopo:"
+msgstr "Per iniziare una comunicare con un collega, devi creare una nuova chat:"
 
 #: ../../chats(wsc)/toc.rst:21 ../../chats(wsc)/toc.rst:111
 #: ../../chats(wsc)/toc.rst:122 ../../chats(wsc)/toc.rst:132
 #: ../../chats(wsc)/toc.rst:150 ../../chats/toc.rst:23 ../../chats/toc.rst:113
 #: ../../chats/toc.rst:124
-#, fuzzy
 msgid "Select the **Chats** feature from your left sidebar."
 msgstr "Seleziona la funzione di **Chat** dalla barra laterale sinistra."
 
 #: ../../chats(wsc)/toc.rst:22 ../../chats(wsc)/toc.rst:133
 #: ../../chats/toc.rst:24
-#, fuzzy
 msgid "On the top bar, click the **NEW** button. A new window appears."
 msgstr ""
-"Nella barra superiore, clicca sul pulsante **NUOVO**. Viene visualizzata una "
+"Nella barra superiore, clicca sul tasto **NUOVO**. Viene visualizzata una "
 "nuova finestra."
 
 #: ../../chats(wsc)/toc.rst:23 ../../chats(wsc)/toc.rst:134
 #: ../../chats/toc.rst:25
-#, fuzzy
 msgid "Begin typing the email address of the colleague you wish to chat with."
 msgstr ""
-"Inizia a digitare l'indirizzo e-mail del collega con cui desideri chattare."
+"Inizia a digitare l'indirizzo email del collega con cui desideri chattare."
 
 #: ../../chats(wsc)/toc.rst:24 ../../chats/toc.rst:26
-#, fuzzy
 msgid "Click on the name of the colleague that appears in the list."
 msgstr "Clicca sul nome del collega che compare nell'elenco."
 
 #: ../../chats(wsc)/toc.rst:27 ../../chats/toc.rst:29
-#, fuzzy
 msgid ""
 "Now, this chat is added under the Chats tab, containing a list of all "
 "available chats."
 msgstr ""
-"Ora, questa chat viene aggiunta alla scheda Chats, che contiene un elenco di "
+"Questa chat verrà aggiunta alla scheda Chats, che contiene un elenco di "
 "tutte le chat disponibili."
 
 #: ../../chats(wsc)/toc.rst:29
-#, fuzzy
 msgid ""
 "Initially, you will not see any chats in your chat system, but once you "
 "create them, you can find them on the list. Please note that you will be "
 "able to will be able to create new conversation only with users that have"
 " Chats(WSC) enabled."
 msgstr ""
-"Inizialmente, non vedrai alcun_chat nel tuo sistema di chat, ma una volta "
-"crearle, potrai trovarle nell'elenco. Si prega di notare che potrai creare "
-"nuove conversazioni solo con utenti che hanno Chats (WSC) abilitato."
+"Inizialmente non vedrai alcuna chat, ma una volta create, potrai trovarle "
+"nell'elenco. Nota che potrai creare nuove conversazioni solo con utenti che "
+"hanno Chats (WSC) abilitato."
 
 #: ../../chats(wsc)/toc.rst:31 ../../chats/toc.rst:33
-#, fuzzy
 msgid ""
 "Once you have created and selected a chat, you can start typing your "
 "message in the bottom text box. You can also add emojis and attach files "
@@ -5330,26 +5124,22 @@ msgstr ""
 "inviare il messaggio."
 
 #: ../../chats(wsc)/toc.rst:34 ../../chats/toc.rst:36
-#, fuzzy
 msgid "Adding Emojis to Your Message"
-msgstr "Aggiunta di emoticon al tuo messaggio"
+msgstr "Aggiungere Emoticon ai Messaggi"
 
 #: ../../chats(wsc)/toc.rst:36 ../../chats/toc.rst:38
-#, fuzzy
 msgid ""
 "Once you have created and selected a chat, you can start typing your "
 "message in the bottom text box. You can also add emojis in the text by "
 "clicking on the emoji icon located in the text box."
 msgstr ""
 "Una volta che hai creato e selezionato una chat, puoi iniziare a digitare il "
-"messaggio nella casella di testo in fondo. È anche possibile aggiungere "
-"emoji al testo facendo clic sull'icona dell'emoji situata nella casella di "
-"testo."
+"messaggio nella casella di testo in fondo. Puoi anche aggiungere emoji al "
+"testo facendo clic sull'icona dell'emoji nella casella di testo."
 
 #: ../../chats(wsc)/toc.rst:39 ../../chats/toc.rst:41
-#, fuzzy
 msgid "Sending Files from Your Computer in Chats"
-msgstr "Invio di file dal tuo computer nelle chat"
+msgstr "Inviare File dal tuo Computer nelle Chat"
 
 #: ../../chats(wsc)/toc.rst:41 ../../chats/toc.rst:43
 #, fuzzy
@@ -5438,12 +5228,10 @@ msgstr ""
 "file e lo invierà nella chat."
 
 #: ../../chats(wsc)/toc.rst:66 ../../chats/toc.rst:68
-#, fuzzy
 msgid "Edit A Message"
-msgstr "Modifica un messaggio"
+msgstr "Modificare un Messaggio"
 
 #: ../../chats(wsc)/toc.rst:68 ../../chats/toc.rst:70
-#, fuzzy
 msgid "To edit a message:"
 msgstr "Per modificare un messaggio:"
 
@@ -6080,101 +5868,83 @@ msgstr ""
 "account, ecc."
 
 #: ../../composing_emails/toc.rst:12
-#, fuzzy
 msgid "Composing a New Email"
-msgstr "Composizione di una Nuova E-mail"
+msgstr "Comporre una Nuova Email"
 
 #: ../../composing_emails/toc.rst:14
-#, fuzzy
 msgid "Below is a concise summary of the steps to write and send an email:"
-msgstr ""
-"Di seguito è riportato un riassunto conciso dei passaggi per scrivere e "
-"inviare un'e-mail:"
+msgstr "Ecco i passaggi per scrivere e inviare un'email:"
 
 #: ../../composing_emails/toc.rst:16
-#, fuzzy
 msgid "Select the **Mails** feature from your left sidebar."
-msgstr "Seleziona la funzione **Messaggi** nel menu laterale sinistro."
+msgstr "Seleziona la funzione **Mail** nel menu laterale sinistro."
 
 #: ../../composing_emails/toc.rst:17
-#, fuzzy
 msgid ""
 "Click on the **NEW** button located on the top bar. A new compose board "
 "will appear."
 msgstr ""
-"Clicca sul pulsante **NUOVO** nella barra superiore. Comparirà una nuova "
-"tavolozza di composizione."
+"Clicca sul tasto **NUOVO** nella barra superiore. Comparirà una nuova "
+"finestra di composizione."
 
 #: ../../composing_emails/toc.rst:18
-#, fuzzy
 msgid "Enter recipient email addresses in the *To* field."
-msgstr "Inserisci indirizzi email dei destinatari nel campo *A*."
+msgstr "Inserisci gli indirizzi email dei destinatari nel campo *A*."
 
 #: ../../composing_emails/toc.rst:19
-#, fuzzy
 msgid "Optionally, add recipients to the *Cc* or *Bcc* fields."
-msgstr "Facoltativamente, aggiungere i destinatari nei campi *Cc* o *Ccn*."
+msgstr "Facoltativamente, aggiungere dei destinatari nei campi *Cc* o *Ccn*."
 
 #: ../../composing_emails/toc.rst:20
-#, fuzzy
 msgid ""
 "Choose your email **identity/persona** (if you have more than one) from "
 "the top left corner of the composing board."
 msgstr ""
-"Scegli la tua identità/posta elettronica (se ne hai più di una) dall'angolo "
-"in alto a sinistra della scheda di composizione."
+"Scegli la tua identità/personalità (se ne hai più di una) dall'angolo in "
+"alto a sinistra della scheda di composizione."
 
 #: ../../composing_emails/toc.rst:21
-#, fuzzy
 msgid "Write a brief subject in the *Subject* field."
-msgstr "Scrivi un breve argomento nel campo *Oggetto*."
+msgstr "Scrivi un breve titolo nel campo *Oggetto*."
 
 #: ../../composing_emails/toc.rst:22
-#, fuzzy
 msgid "Compose your message in the body."
-msgstr "Componi il tuo messaggio nel corpo."
+msgstr "Componi il corpo del tuo messaggio."
 
 #: ../../composing_emails/toc.rst:23
-#, fuzzy
 msgid "Click the **SEND** button to send the email."
-msgstr "Fare clic sul pulsante **INVIO** per inviare la email."
+msgstr "Fai clic sul tasto **INVIO** per inviare la email."
 
 #: ../../composing_emails/toc.rst:25
-#, fuzzy
 msgid "A copy of the sent email is stored in your Sent folder."
 msgstr ""
-"Una copia dell'email inviata viene archiviata nella cartella \"Inviate\"."
+"Una copia dell'email inviata viene archiviata nella cartella \"Inviati\"."
 
 #: ../../composing_emails/toc.rst:32
-#, fuzzy
 msgid "Disabling / Enabling Rich Text Editor"
-msgstr "Disabilitazione / Abilitazione dell'Editor di testo avanzato"
+msgstr "Disabilitare/ Abilitare l'Editor di Testo Avanzato"
 
 #: ../../composing_emails/toc.rst:34
-#, fuzzy
 msgid ""
 "To toggle the rich text editor on or off while using the compose board, "
 "simply:"
 msgstr ""
-"Per attivare o disattivare l'editor di testo avanzato mentre si utilizza la "
-"tastiera di scrittura, basta:"
+"Per attivare o disattivare l'editor di testo avanzato mentre si compone "
+"un'email:"
 
 #: ../../composing_emails/toc.rst:36
-#, fuzzy
 msgid "Click on the three vertical dots."
 msgstr "Fai clic sui tre punti verticali."
 
 #: ../../composing_emails/toc.rst:37
-#, fuzzy
 msgid ""
 "Choose either **Disable rich text editor** or **Enable rich text editor**"
 " from the menu."
 msgstr ""
-"Scegli **Disabilita editor di testo formattato** oppure **Abilita editor di "
-"testo formattato** nel menu."
+"Scegli **Disabilita editor avanzato** oppure **Abilita editor avanzato** nel "
+"menu."
 
 #: ../../composing_emails/toc.rst:39
-#, fuzzy
 msgid ""
 "On the other hand, enabling the rich text editor can be beneficial when "
 "you want to create visually appealing emails with formatting options like"
@@ -6189,94 +5959,82 @@ msgid ""
 "straightforward messages without any distractions or potential "
 "compatibility issues across different email clients."
 msgstr ""
-"D'altra parte, abilitare il editor di testo formattato può essere utile "
-"quando si desidera creare email piacevoli alla vista con opzioni di "
-"formattazione come grassetto, corsivo, sottolineato, colori di carattere e "
-"dimensioni di carattere. Consente di personalizzare l'aspetto delle email "
-"per renderle più coinvolgenti e professionnelmente appariscenti. Inoltre, "
-"l'editor di testo formattato fornisce spesso strumenti per inserire "
-"immagini, creare elenchi e regolare l'allineamento del testo, il che può "
-"migliorare la presentazione complessiva della posta elettronica e migliorare "
-"la leggibilità. Disabilitare l'editor di testo formattato può essere utile "
-"quando si desidera comporre email con solo testo semplice, senza alcuna "
-"formattazione come grassetto, corsivo o modifiche ai colori. Ciò consente di "
-"inviare messaggi semplici e diretti, senza distrazioni o potenziali problemi "
-"di compatibilità tra diversi client di posta elettronica."
+"D'altra parte, abilitare l'editor di testo avanzato può essere utile quando "
+"si desidera creare email piacevoli alla vista con opzioni di formattazione "
+"come grassetto, corsivo, sottolineato, colori di carattere e dimensioni di "
+"carattere. Consente di personalizzare l'aspetto delle email per renderle più "
+"coinvolgenti e professionali. Inoltre, l'editor di testo avanzato fornisce "
+"strumenti per inserire immagini, creare elenchi e regolare l'allineamento "
+"del testo, il che può migliorare la presentazione complessiva e la "
+"leggibilità. Disabilitare l'editor di testo può essere utile quando si "
+"desidera comporre email con solo testo semplice, senza alcuna formattazione "
+"come grassetto, corsivo o modifiche ai colori. Ciò consente di inviare "
+"messaggi semplici e diretti, senza distrazioni o potenziali problemi di "
+"compatibilità tra diversi client di posta elettronica."
 
 #: ../../composing_emails/toc.rst:44
-#, fuzzy
 msgid "Addressing Emails"
-msgstr "Indirizzamento E-mail"
+msgstr "Indirizzare le Email"
 
 #: ../../composing_emails/toc.rst:46
-#, fuzzy
 msgid ""
 "The autocomplete function assists you while typing in the To, Cc, and Bcc"
 " fields of a new message by suggesting names from your contacts. It "
 "generates a list of potential addresses where either the first name, last"
 " name, or email address matches the text you have typed."
 msgstr ""
-"La funzione di completamento automatico ti aiuta durante la digitazione nei "
-"campi A, Cc e Ccn di un nuovo messaggio suggerendo nomi dai tuoi contatti. "
-"Genera un elenco di indirizzi potenziali dove corrisponde il nome, il "
-"cognome o l'indirizzo e-mail al testo che hai digitato."
+"Il completamento automatico ti aiuta durante la digitazione dei campi A, Cc "
+"e Ccn di un nuovo messaggio, suggerendoti indirizzi potenziali tra i tuoi "
+"contatti in base al nome, il cognome o l'indirizzo email che hai digitato."
 
 #: ../../composing_emails/toc.rst:48
-#, fuzzy
 msgid ""
 "As you continue typing, the list of suggested addresses narrows down, "
 "reflecting fewer matches available. If there are no matches in your "
 "contact list or your company’s employee address list, the list "
 "disappears."
 msgstr ""
-"Mentre continui a digitare, l'elenco degli indirizzi suggeriti si restringe, "
+"Man mano che digiti, l'elenco degli indirizzi suggeriti si restringe, "
 "riflettendo un numero minore di corrispondenze disponibili. Se non ci sono "
 "corrispondenze nella tua rubrica contatti o nell'elenco degli indirizzi dei "
 "dipendenti della tua azienda, l'elenco scompare."
 
 #: ../../composing_emails/toc.rst:50
-#, fuzzy
 msgid ""
 "For instance, if you are composing an email to Sarah Johnson, whose email"
 " is sarah.johnson@example.com, and you start typing \"S\" the "
 "autocomplete might display:"
 msgstr ""
-"Ad esempio, se si sta componendo un'e-mail per Sarah Johnson, il cui "
-"indirizzo e-mail è sarah.johnson@example.com, e si inizia a digitare \"S\" "
+"Ad esempio, se stai componendo un'email per Sarah Johnson, il cui indirizzo "
+"email è sarah.johnson@example.com, e inizi a digitare \"S\" "
 "l'autocompletamento potrebbe visualizzare:"
 
 #: ../../composing_emails/toc.rst:52 ../../composing_emails/toc.rst:58
 #: ../../composing_emails/toc.rst:63
-#, fuzzy
 msgid "Samuel Adams sam.adams@example.com"
 msgstr "Samuele Adams sam.adams@esempio.it"
 
 #: ../../composing_emails/toc.rst:53 ../../composing_emails/toc.rst:59
-#, fuzzy
 msgid "Sarah Johnson sarah.johnson@example.com"
 msgstr "Sarah Johnson sarah.johnson@esempio.com"
 
 #: ../../composing_emails/toc.rst:54
-#, fuzzy
 msgid "Susan Lee susanlee@email.com"
 msgstr "Susan Lee susanlee@email.com"
 
 #: ../../composing_emails/toc.rst:56
-#, fuzzy
 msgid "If you then type \"a\" (Sa), the list will update to:"
 msgstr "Se digiti poi \"a\" (Sa), l'elenco verrà aggiornato come segue:"
 
 #: ../../composing_emails/toc.rst:61
-#, fuzzy
 msgid ""
 "Continuing with our example, if you proceed to type \"m\" (Sam), the "
 "autocomplete list would further narrow down to:"
 msgstr ""
-"Continuando con il nostro esempio, se si procede a digitare \"m\" (Sam), "
+"Continuando con il nostro esempio, se procedi a digitare \"m\" (Sam), "
 "l'elenco di completamento automatico verrà ulteriormente ridotto a:"
 
 #: ../../composing_emails/toc.rst:65
-#, fuzzy
 msgid ""
 "This real-time refinement allows for a quick and efficient selection of "
 "recipients based on the characters you input, ensuring accuracy and ease "
@@ -6288,31 +6046,28 @@ msgstr ""
 "elettronica."
 
 #: ../../composing_emails/toc.rst:67
-#, fuzzy
 msgid ""
 "To include additional recipients in either the *copy* or *blind copy* "
 "sections of your email, just click on the **CC** or **BCC** buttons to "
 "reveal their respective fields."
 msgstr ""
 "Per includere altri destinatari nelle sezioni *copia* o *copia nascosta* "
-"della tua email, fai semplicemente clic sui pulsanti **CC** o **BCC** per "
-"visualizzare i relativi campi."
+"della tua email, clicca sui pulsanti **CC** o **BCC** per visualizzare i "
+"relativi campi."
 
 #: ../../composing_emails/toc.rst:69
-#, fuzzy
 msgid ""
 "Additionally, you can utilize the **drag-and-drop** feature to "
 "effortlessly move email addresses from the To field to the Cc or Bcc "
 "fields while composing your message. To do so, simply click and hold on "
 "an address bubble and drag it to the desired field."
 msgstr ""
-"Inoltre, è possibile utilizzare la funzione di **trascinamento e rilascio** "
-"per spostare agevolmente gli indirizzi email dal campo A a quelli Ccn o Cc "
-"quando si compone un messaggio. Per far ciò, basta cliccare e tenere premuto "
-"un indirizzo per poi trascinarlo nel campo desiderato."
+"Inoltre, puoi utilizzare la funzione di **trascinamento e rilascio** per "
+"spostare agevolmente gli indirizzi email dal campo A a quelli Ccn o Cc "
+"quando componi un messaggio. Per far ciò, basta cliccare e tenere premuto un "
+"indirizzo per poi trascinarlo nel campo desiderato."
 
 #: ../../composing_emails/toc.rst:71
-#, fuzzy
 msgid ""
 "You can also copy-paste email addresses directly into the To, CC, and BCC"
 " fields, while composing an email: furthermore, a small contextual menu "
@@ -6321,18 +6076,16 @@ msgid ""
 " in the related fields."
 msgstr ""
 "Puoi anche copiare e incollare direttamente gli indirizzi email nei campi A, "
-"CC e CCN, mentre si compone un'e-mail: inoltre, compare un piccolo menu "
+"CC e CCN, quando componi un'email: inoltre, compare un piccolo menu "
 "contestuale quando si fa clic con il pulsante destro del mouse nei campi A, "
 "CC o CCN, in modo da poter fare clic direttamente su \" Incolla\" per "
-"inserire gli indirizzi e-mail precedentemente copiati nei campi relativi."
+"inserire gli indirizzi email precedentemente copiati."
 
 #: ../../composing_emails/toc.rst:78
-#, fuzzy
 msgid "Attachments"
-msgstr "Allegati"
+msgstr "Usare gli Allegati"
 
 #: ../../composing_emails/toc.rst:80
-#, fuzzy
 msgid ""
 "Attachments play a crucial role in enhancing the effectiveness of email "
 "communication by allowing users to include supplementary files such as "
@@ -6340,51 +6093,43 @@ msgid ""
 "Below, you will discover various actions you can take with attachments "
 "while composing an email."
 msgstr ""
-"Gli allegati svolgono un ruolo cruciale nel migliorare l'efficacia della "
-"comunicazione via e-mail, consentendo agli utenti di includere file "
-"supplementari come documenti, immagini, video o fogli di calcolo insieme ai "
-"loro messaggi. Di seguito, scoprirai le diverse azioni che puoi eseguire con "
-"gli allegati mentre si compone un'e-mail."
+"Gli allegati svolgono un ruolo cruciale nella comunicazione via email, "
+"consentendo agli utenti di includere file supplementari come documenti, "
+"immagini, video o fogli di calcolo insieme ai loro messaggi. Di seguito, "
+"scoprirai le diverse azioni che puoi eseguire con gli allegati mentre "
+"componi un'email."
 
 #: ../../composing_emails/toc.rst:83
-#, fuzzy
 msgid "Adding Attachments"
-msgstr "Aggiunta di Allegati"
+msgstr "Aggiungere Allegati"
 
 #: ../../composing_emails/toc.rst:85
-#, fuzzy
 msgid ""
 "You can attach any file from your computer or |product| Files by using "
 "the **paperclip** icon inside the composing board."
 msgstr ""
-"È possibile allegare qualsiasi file dal proprio computer o da Carbonio "
-"Files utilizzando l'icona del **fermapunti** all'interno del pannello di "
-"composizione."
+"Puoi allegare qualsiasi file dal tuo computer o da Carbonio Files "
+"utilizzando l'icona a **graffetta** all'interno del pannello di composizione."
 
 #: ../../composing_emails/toc.rst:87
-#, fuzzy
 msgid "Adding attachment from your computer:"
-msgstr "Aggiungere allegato dal computer:"
+msgstr "Per aggiungere un allegato dal computer:"
 
 #: ../../composing_emails/toc.rst:89 ../../composing_emails/toc.rst:97
-#, fuzzy
 msgid "Click on the paperclip icon."
-msgstr "Clicca sull'icona del graffetta."
+msgstr "Clicca sull'icona a graffetta."
 
 #: ../../composing_emails/toc.rst:90
-#, fuzzy
 msgid "Select Add from local."
 msgstr "Seleziona Aggiungi da locale."
 
 #: ../../composing_emails/toc.rst:91
-#, fuzzy
 msgid "A new window appears, and you can select desired files from your computer."
 msgstr ""
 "Verrà visualizzata una nuova finestra, e potrai selezionare i file "
 "desiderati dal tuo computer."
 
 #: ../../composing_emails/toc.rst:93
-#, fuzzy
 msgid ""
 "Alternatively, you can simply drag a file from your computer to the "
 "composing board to add it as an attachment to your email."
@@ -6393,17 +6138,14 @@ msgstr ""
 "scheda di composizione per aggiungerlo come allegato alla tua email."
 
 #: ../../composing_emails/toc.rst:95
-#, fuzzy
 msgid "Adding attachment from your |product| Files:"
-msgstr "Aggiungere allegato da Carbonio Files:"
+msgstr "Per aggiungere un allegato da Carbonio Files:"
 
 #: ../../composing_emails/toc.rst:98
-#, fuzzy
 msgid "Select Add from Files."
-msgstr "Seleziona Aggiungi da file."
+msgstr "Seleziona Aggiungi da Files."
 
 #: ../../composing_emails/toc.rst:99
-#, fuzzy
 msgid ""
 "A new window appears, and you can select desired files from your "
 "|product| Files."

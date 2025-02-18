@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-17 20:54+0000\n"
+"PO-Revision-Date: 2025-02-19 15:54+0000\n"
 "Last-Translator: Flaminia Spinelli <flaminia.spinelli@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -6970,71 +6970,58 @@ msgid "Sharing an Address Book"
 msgstr "Condivisione di un Rubrica"
 
 #: ../../contacts/toc.rst:136
-#, fuzzy
 msgid "To share an address book:"
-msgstr "Condividere un'agenda"
+msgstr "Per condividere una rubrica:"
 
 #: ../../contacts/toc.rst:141
-#, fuzzy
 msgid "Click on **ADD SHARE** button."
-msgstr "Fare clic sul pulsante **AGGIUNGI CONDIVISIONE**."
+msgstr "Fai clic sul tasto **AGGIUNGI CONDIVISIONE**."
 
 #: ../../contacts/toc.rst:142
-#, fuzzy
 msgid ""
 "Insert email addresses you want to share the address book with, and "
 "assign them the role."
 msgstr ""
-"Inserisci gli indirizzi e-mail con cui desideri condividere il rubrica e "
-"assegna loro il ruolo."
+"Inserisci gli indirizzi email dei colleghi con cui desideri condividere la "
+"rubrica e assegna loro il ruolo."
 
 #: ../../contacts/toc.rst:148
-#, fuzzy
 msgid "Assigning a Color to an Address Book"
-msgstr "Assegnare un colore a un rubrica"
+msgstr "Assegnare un Colore a una Rubrica"
 
 #: ../../contacts/toc.rst:150
-#, fuzzy
 msgid "To assign a color to an address book:"
-msgstr "Assegnare un colore a un libro degli indirizzi:"
+msgstr "Per assegnare un colore a una rubrica:"
 
 #: ../../contacts/toc.rst:155
-#, fuzzy
 msgid "Select the desired color from the **Select Color field**."
-msgstr ""
-"Selezionare il proprio colore desiderato dal campo **Seleziona Colore**."
+msgstr "Seleziona il colore che vuoi dal campo **Seleziona Colore**."
 
 #: ../../contacts/toc.rst:159
-#, fuzzy
 msgid "Deleting an Address Book"
-msgstr "Eliminazione di un rubrica"
+msgstr "Eliminare una Rubrica"
 
 #: ../../contacts/toc.rst:161
-#, fuzzy
 msgid "To delete an address book:"
-msgstr "Per eliminare un rubrica degli indirizzi:"
+msgstr "Per eliminare un rubrica di indirizzi:"
 
 #: ../../contacts/toc.rst:164
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "delete."
 msgstr ""
-"Nel Pannello di Navigazione, fare clic con il tasto destro del mouse sul "
-"rubrica degli indirizzi che si desidera eliminare."
+"Nel pannello di navigazione, fai clic destro sulla rubrica che desideri "
+"eliminare."
 
 #: ../../contacts/toc.rst:165
-#, fuzzy
 msgid "Select **Delete address book** from the drop-down menu."
-msgstr "Seleziona **Elimina rubrica** dal menu a discesa."
+msgstr "Seleziona **Elimina rubrica** dal menu a tendina."
 
 #: ../../contacts/toc.rst:169
-#, fuzzy
 msgid "Creating a Contact Group"
-msgstr "Creazione di un gruppo di contatti"
+msgstr "Creare un Gruppo di Contatti"
 
 #: ../../contacts/toc.rst:171
-#, fuzzy
 msgid ""
 "Contact groups consist of a collection of email addresses sourced from "
 "your contacts. They serve as a practical solution, particularly when "
@@ -7043,110 +7030,94 @@ msgid ""
 "entire group at once rather than adding each address individually when "
 "composing emails."
 msgstr ""
-"I gruppi di contatti sono costituiti da una raccolta di indirizzi email "
-"ricavati dai tuoi contatti. Rappresentano una soluzione pratica, in "
-"particolare quando si inviano regolarmente email a più destinatari. Creando "
-"un gruppo per tali individui, si semplifica il processo, consentendo di "
-"inserire l'intero gruppo in una sola volta invece di aggiungere ogni "
-"indirizzo individualmente quando si compongono email."
+"I gruppi di contatti sono una raccolta di indirizzi email ricavati dai tuoi "
+"contatti. Sono una soluzione pratica in particolare quando si inviano "
+"regolarmente email a più destinatari insieme. Creando un gruppo per tali "
+"contatti semplifichi il processo, in modo da poter inserire l'intero gruppo "
+"in una sola volta invece di aggiungere ogni indirizzo manualmente, quando "
+"componi una mail."
 
 #: ../../contacts/toc.rst:174
-#, fuzzy
 msgid "To create a contact group:"
 msgstr "Per creare un gruppo di contatti:"
 
 #: ../../contacts/toc.rst:178
-#, fuzzy
 msgid ""
 "Select the **New Contact group** from the drop-down menu. A new board "
 "will appear."
 msgstr ""
-"Seleziona il nuovo gruppo di **nuovo contatto** dal menu a discesa. Apparirà "
-"una nuova bacheca."
+"Seleziona**Nuovo gruppo di contatti** dal menu a tendina. Apparirà una nuova "
+"finestra."
 
 #: ../../contacts/toc.rst:179
-#, fuzzy
 msgid "Insert a name for the contact group in the **Group name** field."
-msgstr "Inserire un nome per il gruppo di contatti nel campo **Nome gruppo**."
+msgstr "Inserisci un nome per il gruppo di contatti nel campo **Nome gruppo**."
 
 #: ../../contacts/toc.rst:180
-#, fuzzy
 msgid ""
 "Insert addresses you wish to add to this group by writing them under the "
 "**Address list** section."
 msgstr ""
-"Inserisci gli indirizzi che desideri aggiungere a questo gruppo scrivendoli "
-"nella sezione **Elenco degli indirizzi**."
+"Inserisci gli indirizzi che desideri aggiungere nella sezione **Elenco degli "
+"indirizzi**."
 
 #: ../../contacts/toc.rst:181
-#, fuzzy
 msgid "Press the + button to add the address to the group."
-msgstr "Premi il pulsante + per aggiungere l'indirizzo al gruppo."
+msgstr "Premi il tasto + per aggiungere l'indirizzo al gruppo."
 
 #: ../../contacts/toc.rst:182 ../../files/toc.rst:74
-#, fuzzy
 msgid "Click the **SAVE** button."
-msgstr "Fai clic sul pulsante **SALVA**."
+msgstr "Fai clic sul tasto **SALVA**."
 
 #: ../../contacts/toc.rst:185
-#, fuzzy
 msgid "Using a Contact Group"
-msgstr "Utilizzo di un Gruppo di Contatto"
+msgstr "Usare un Gruppo di Contatti"
 
 #: ../../contacts/toc.rst:187
-#, fuzzy
 msgid "To use your contact group:"
 msgstr "Per utilizzare il tuo gruppo di contatti:"
 
 #: ../../contacts/toc.rst:189
-#, fuzzy
 msgid ""
 "Begin typing its name in the **To** field while composing a new email. As"
 " you type, the contact group name will appear as a suggestion."
 msgstr ""
-"Inizia a digitare il suo nome nel campo **A** mentre si compone un nuovo "
-"messaggio di posta elettronica. Mentre digiti, il nome del gruppo di "
-"contatti apparirà come suggerimento."
+"Inizia a digitare il suo nome nel campo **A** mentre componi un'email. "
+"Mentre digiti, il nome del gruppo di contatti apparirà come suggerimento."
 
 #: ../../contacts/toc.rst:190
-#, fuzzy
 msgid ""
 "Click on the contact group, and it will automatically populate the **To**"
 " field with all the addresses included in the contact group."
 msgstr ""
-"Clica sul gruppo di contatti e il campo **A** verrà automaticamente popolato "
-"con tutti gli indirizzi inclusi nel gruppo di contatti."
+"Clicca sul gruppo di contatti e il campo **A** verrà automaticamente "
+"popolato con tutti gli indirizzi inclusi nel gruppo di contatti."
 
 #: ../../contacts/toc.rst:197
-#, fuzzy
 msgid "Share a Contact List with Your Colleagues"
-msgstr "Condividi un Elenco dei Contatti con i Tuoi Colleghi"
+msgstr "Condividere una Lista di Contatti con i Colleghi"
 
 #: ../../contacts/toc.rst:199 ../../contacts/toc.rst:234
-#, fuzzy
 msgid "To find and add your colleagues’ contact list:"
-msgstr "Per cercare e aggiungere l'elenco dei contatti dei tuoi colleghi:"
+msgstr "Per cercare e aggiungere una lista contatti dei tuoi colleghi:"
 
 #: ../../contacts/toc.rst:202 ../../contacts/toc.rst:223
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "share. A new window appears."
 msgstr ""
-"Nel Pannello di Navigazione, fare clic destro sul rubrica che si desidera "
+"Nel pannello di navigazione, fai clic destro sulla rubrica che desideri "
 "condividere. Si apre una nuova finestra."
 
 #: ../../contacts/toc.rst:204
-#, fuzzy
 msgid ""
 "Enter the email addresses of your colleagues with whom you wish to share "
 "the address book into the **Recipients’ e-mail addresses** field."
 msgstr ""
-"Immettere gli indirizzi e-mail dei colleghi con cui si desidera condividere "
-"il rubrica nel campo **Indirizzi e-mail dei destinatari**."
+"Immetti gli indirizzi email dei colleghi con cui desideri condividere la "
+"rubrica nel campo **Indirizzi email dei destinatari**."
 
 #: ../../contacts/toc.rst:205 ../../contacts/toc.rst:226
-#, fuzzy
 msgid ""
 "Select the role from the **Role** field (read below to know which role to"
 " choose)."
@@ -7155,208 +7126,176 @@ msgstr ""
 "scegliere)."
 
 #: ../../contacts/toc.rst:208
-#, fuzzy
 msgid "There are three different roles you can choose in step 5:"
 msgstr "Ci sono tre diversi ruoli che puoi scegliere al passaggio 5:"
 
 #: ../../contacts/toc.rst:210
-#, fuzzy
 msgid ""
 "**Viewer**: Can read the contents of the address book but cannot make "
 "changes to the content."
 msgstr ""
-"**Visualizzatore**: Può leggere il contenuto dell'elenco degli indirizzi, ma "
-"non può apportare modifiche al contenuto."
+"**Visualizzatore**: Può leggere il contenuto della rubrica, ma non può "
+"apportare modifiche."
 
 #: ../../contacts/toc.rst:211
-#, fuzzy
 msgid "**Manager**: Can view and edit the content of the address book."
-msgstr ""
-"**Responsabile**: può visualizzare e modificare il contenuto dell'agenda."
+msgstr "**Manager**: può visualizzare e modificare il contenuto della rubrica."
 
 #: ../../contacts/toc.rst:214
-#, fuzzy
 msgid ""
 "Your shared address book will be accessible in the **Shared Address "
 "Books** section."
 msgstr ""
-"Il tuo indirizzario condiviso sarà accessibile nella sezione **Rubrica "
-"Indirizzi condivisi**."
+"La tua rubrica condivisa sarà accessibile nella sezione **Trova "
+"Condivisioni**."
 
 #: ../../contacts/toc.rst:217
-#, fuzzy
 msgid "Share a Contact List with External Users"
-msgstr "Condividi un elenco contatti con utenti esterni"
+msgstr "Condividere una Rubrica con Utenti Esterni"
 
 #: ../../contacts/toc.rst:219
-#, fuzzy
 msgid ""
 "If you share an address book with external users, whoever has the link to"
 " your address book can access it. To share an address book with external "
 "users:"
 msgstr ""
 "Se condividi un rubrica con utenti esterni, chiunque abbia il link alla tua "
-"rubrica può accedervi. Per condividere un indirizzario con utenti esterni:"
+"rubrica potrà accedervi. Per condividere una rubrica con utenti esterni:"
 
 #: ../../contacts/toc.rst:225
-#, fuzzy
 msgid ""
 "Enter the email addresses with whom you wish to share the address book "
 "into the **Recipients’ e-mail addresses** field."
 msgstr ""
-"Immettere gli indirizzi e-mail delle persone con cui si desidera condividere "
-"il rubrica nel campo **Indirizzi e-mail dei destinatari**."
+"Immetti gli indirizzi email delle persone con cui desideri condividere la "
+"rubrica nel campo **Indirizzi email dei destinatari**."
 
 #: ../../contacts/toc.rst:229
-#, fuzzy
 msgid ""
 "This action will send an email to external users granting them access to "
 "your address book."
 msgstr ""
-"Questa azione invierà una e-mail agli utenti esterni concedendo loro "
-"l'accesso al tuo libro degli indirizzi."
+"Questa azione invierà una email agli utenti esterni concedendo loro "
+"l'accesso alla tua rubrica."
 
 #: ../../contacts/toc.rst:232
-#, fuzzy
 msgid "Add Colleagues' Shared Contact Lists"
-msgstr "Aggiungi elenchi dei contatti condivisi dei colleghi"
+msgstr "Aggiungere una Rubrica Condivisa da Colleghi"
 
 #: ../../contacts/toc.rst:237
-#, fuzzy
 msgid ""
 "In the Navigation Panel, click the downward arrow next to the **Shared "
 "Address Books** section."
 msgstr ""
-"Nel pannello di navigazione, fare clic sulla freccia verso il basso accanto "
-"alla sezione **rubriche condivise**."
+"Nel pannello di navigazione, fai clic sulla freccia verso il basso accanto "
+"alla sezione **Rubriche condivise**."
 
 #: ../../contacts/toc.rst:238
-#, fuzzy
 msgid ""
 "Under the **Shared Address Books** section, click the **FIND SHARES** "
 "button. A new window appears."
 msgstr ""
-"Nella sezione **rubrica condivisa**, fare clic sul pulsante **trova "
-"condivisioni**. Appare una nuova finestra."
+"Nella sezione **Rubriche condivise**, fai clic sul tasto **TROVA "
+"CONDIVISIONI**. Apparirà una nuova finestra."
 
 #: ../../contacts/toc.rst:239
-#, fuzzy
 msgid "Select the contact list shared with you from the list."
-msgstr "Seleziona l'elenco dei contatti condivisi con te dall'elenco."
+msgstr "Seleziona una rubrica condivisa tra quelle disponibili in elenco."
 
 #: ../../contacts/toc.rst:242
-#, fuzzy
 msgid ""
 "Their shared contact list will appear in your **Shared Address Books** "
 "section."
 msgstr ""
-"L'elenco contatti condiviso sarà visibile nella sezione **Rubrica "
-"condivisa**."
+"La rubrica condivisa sarà visibile nella tua sezione **Rubriche condivise**."
 
 #: ../../contacts/toc.rst:245
-#, fuzzy
 msgid "Export an Address Book as a CSV File"
-msgstr "Esporta un'Rubrica come file CSV"
+msgstr "Esportare una Rubrica come File CSV"
 
 #: ../../contacts/toc.rst:247
-#, fuzzy
 msgid ""
 "You can export and store your address book on your computer in CSV "
 "(comma-separated values) format. To do so:"
 msgstr ""
-"È possibile esportare e memorizzare il proprio rubrica sull'elenco dei "
-"contatti del computer nel formato CSV (valori separati da virgole). Per "
+"Puoi esportare e salvare la tua rubrica nel computer nel formato CSV. Per "
 "farlo:"
 
 #: ../../contacts/toc.rst:250
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "export."
 msgstr ""
-"Nel Pannello di Navigazione, fare clic destro sul rubrica desidera esportare."
+"Nel pannello di navigazione, fai clic destro sulla rubrica che vuoi "
+"esportare."
 
 #: ../../contacts/toc.rst:251
-#, fuzzy
 msgid "Select **Export csv file** from the drop-down menu. A new window appears."
 msgstr ""
-"Seleziona **Esporta file csv** dal menu a discesa. Si apre una nuova "
+"Seleziona **Esporta file csv** dal menu a tendina. Si aprirà una nuova "
 "finestra."
 
 #: ../../contacts/toc.rst:252
-#, fuzzy
 msgid "Select the destination folder to save the CSV file on your computer."
 msgstr ""
 "Seleziona la cartella di destinazione per salvare il file CSV sul tuo "
 "computer."
 
 #: ../../contacts/toc.rst:253
-#, fuzzy
 msgid "Click **Save**."
 msgstr "Clicca su **Salva**."
 
 #: ../../contacts/toc.rst:258
-#, fuzzy
 msgid "Import a CSV File as an Address Book"
-msgstr "Importa un file CSV come Rubrica"
+msgstr "Importare un File CSV come Rubrica"
 
 #: ../../contacts/toc.rst:260
-#, fuzzy
 msgid ""
 "You can import the stored address book on your computer in CSV (comma-"
 "separated values) format to your |product| web client. To do so:"
 msgstr ""
-"È possibile importare l'elenco degli indirizzi salvato sul computer in "
-"formato CSV (valori separati da virgola) nel client web di Carbonio. Per "
-"farlo:"
+"Puoi importare un elenco di indirizzi salvato nel computer in formato CSV "
+"nel client web di Carbonio. Per farlo:"
 
 #: ../../contacts/toc.rst:263
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "import data in."
 msgstr ""
-"Nel Pannello di Navigazione, fare clic destro sull'address book in cui si "
-"desidera importare i dati."
+"Nel pannello di navigazione, fai clic destro sulla rubrica in cui desideri "
+"importare i dati."
 
 #: ../../contacts/toc.rst:264
-#, fuzzy
 msgid "Select **Import csv file** from the drop-down menu. A new window appears."
 msgstr ""
-"Seleziona **Importa file csv** dal menu a discesa. Verrà visualizzata una "
-"nuova finestra."
+"Seleziona **Importa file csv** dal menu a tendina. Apparirà una nuova "
+"finestra."
 
 #: ../../contacts/toc.rst:265
-#, fuzzy
 msgid ""
 "Select the csv file containing the address book information stored on "
 "your computer."
 msgstr ""
-"Seleziona il file csv contenente le informazioni dell'indirizzario "
-"memorizzate sul tuo computer."
+"Seleziona il file CSV contenente le informazioni della rubrica memorizzata "
+"nel tuo computer."
 
 #: ../../contacts/toc.rst:266 ../../files/toc.rst:60 ../../files/toc.rst:273
-#, fuzzy
 msgid "Click **Open**."
-msgstr "Fare clic su **Apri**."
+msgstr "Fai clic su **Apri**."
 
 #: ../../contacts/toc.rst:268
-#, fuzzy
 msgid "The files to be imported must have the following format."
 msgstr "I file da importare devono avere il seguente formato."
 
 #: ../../contacts/toc.rst
-#, fuzzy
 msgid "Example CSV file"
-msgstr "Esempio di file CSV"
+msgstr "Esempio di File CSV"
 
 #: ../../files/toc.rst:7
-#, fuzzy
 msgid "Working with Files"
-msgstr "Files"
+msgstr "Lavorare su Files"
 
 #: ../../files/toc.rst:13
-#, fuzzy
 msgid ""
 "Files is designed to simplify your file management needs. The Files "
 "offers a user-friendly platform for uploading, creating, and organizing "
@@ -7371,21 +7310,19 @@ msgid ""
 "see all the files and folders as thumbnails, instead of the vertical "
 "list."
 msgstr ""
-"Files è progettato per semplificare le tue esigenze di gestione dei file. "
-"Files offre una piattaforma user-friendly per l'upload, la creazione e "
-"l'organizzazione dei documenti digitali. Sia che tu stia collaborando con "
-"colleghi o semplicemente tenendo in ordine i tuoi file, Files ti consente di "
-"condividere e gestire facilmente i documenti e le immagini. Con la sua "
-"interfaccia intuitiva, puoi facilmente creare più cartelle, uploadare file "
-"dal computer, salvare gli allegati email e persino generare nuovi documenti. "
-"Quando si fa clic sull'icona di Files, si accederà alla vista del modulo "
-"Files: è possibile scegliere il pulsante di layout a griglia in alto a "
-"destra dell'intestazione della lista per passare dalla modalità elenco alla "
-"modalità a griglia. Scegliendo questa modalità si visualizzeranno tutti i "
-"file e le cartelle come anteprime, anziché l'elenco verticale."
+"Files è progettato per semplificare la tua gestione dei file. Ti offre una "
+"piattaforma semplice per il caricamento, la creazione e l'organizzazione dei "
+"documenti digitali. Sia che tu stia collaborando con colleghi o "
+"semplicemente tenendo in ordine i tuoi file, Files ti consente di "
+"condividere e gestire facilmente documenti e immagini. Con la sua "
+"interfaccia intuitiva puoi creare cartelle, caricare file dal computer, "
+"salvare gli allegati email e persino generare nuovi documenti. Quando "
+"clicchi sull'icona di Files accederai al modulo: puoi decidere se "
+"visualizzare i file in un layout a elenco o a griglia dal tasto layout in "
+"alto a destra. Scegliendo la modalità a griglia, potrai visualizzare tutti i "
+"file e le cartelle come anteprime, anziché come elenco verticale."
 
 #: ../../files/toc.rst:17
-#, fuzzy
 msgid ""
 "Using multiple |product| windows : when using two or more open browser's "
 "tabs or windows to access **Files**, some of the operations you carry out"
@@ -7395,25 +7332,22 @@ msgid ""
 "the menu, then click *Update view*. In this way, you force the browser to"
 " reload and update its cache to include the latest changes on **Files**."
 msgstr ""
-"L'utilizzo di più finestre di |product|: quando si utilizzano due o più "
-"schede o finestre del browser aperte per accedere a **Files**, alcune delle "
-"operazioni che si eseguono in una delle finestre non vengono immediatamente "
-"riflesse nell'altra. Per assicurarsi che tutte le finestre siano "
-"sincronizzate, è necessario fare clic sull'icona dell'account (icona più a "
-"destra nell'angolo superiore destro dell'interfaccia utente) per aprire il "
-"menu, quindi fare clic su *Aggiorna visualizzazione*. In questo modo, si "
-"forza il browser a ricaricare e aggiornare la cache per includere le "
-"modifiche più recenti su **Files**."
+"Se utilizzi due o più schede o finestre del browser per accedere a **Files**"
+", alcune delle operazioni che esegui in una delle finestre non saranno "
+"immediatamente riflesse nell'altra. Per assicurarti che tutte le finestre "
+"siano sincronizzate, fai clic sull'icona dell'account (l'icona più a destra "
+"nell'angolo superiore dell'interfaccia utente) per aprire il menu, quindi "
+"fai clic su *Aggiorna vista*. In questo modo, forzerai il browser a "
+"ricaricare e aggiornare la cache per includere le modifiche più recenti su "
+"**Files**."
 
 #: ../../files/toc.rst:27
-#, fuzzy
 msgid "Creating a Folder"
-msgstr "Creazione di una cartella"
+msgstr "Creare una Cartella"
 
 #: ../../files/toc.rst:29
-#, fuzzy
 msgid "To create a folder in Files:"
-msgstr "Per creare una cartella in File:"
+msgstr "Per creare una cartella in Files:"
 
 #: ../../files/toc.rst:31 ../../files/toc.rst:97 ../../files/toc.rst:117
 #: ../../files/toc.rst:130 ../../files/toc.rst:142 ../../files/toc.rst:160
@@ -7422,321 +7356,264 @@ msgstr "Per creare una cartella in File:"
 #: ../../files/toc.rst:280 ../../files/toc.rst:296 ../../files/toc.rst:308
 #: ../../files/toc.rst:323 ../../files/toc.rst:337 ../../files/toc.rst:353
 #: ../../files/toc.rst:364 ../../files/toc.rst:466 ../../files/toc.rst:478
-#, fuzzy
 msgid "Select the **Files feature** from your left sidebar."
-msgstr "Selezionare la funzionalità **File** dal menu laterale sinistro."
+msgstr "Seleziona l'icona di**Files** dal menu laterale sinistro."
 
 #: ../../files/toc.rst:33 ../../files/toc.rst:43
-#, fuzzy
 msgid "Select **New Folder** from the drop-down menu. A new board will appear."
 msgstr ""
-"Seleziona **Nuova cartella** dal menu a discesa. Comparirà una nuova bacheca."
+"Seleziona **Nuova cartella** dal menu a tendina. Comparirà una nuova scheda."
 
 #: ../../files/toc.rst:34 ../../files/toc.rst:44
-#, fuzzy
 msgid "Insert a name for the folder."
 msgstr "Inserisci un nome per la cartella."
 
 #: ../../files/toc.rst:37
-#, fuzzy
 msgid ""
 "The new folder is displayed in the main panel among the list of files and"
 " folders."
 msgstr ""
-"La nuova cartella è visualizzata nel pannello principale tra l'elenco di "
-"file e cartelle."
+"La nuova cartella sarà visualizzata nel pannello principale, nel tuo elenco "
+"di file e cartelle."
 
 #: ../../files/toc.rst:39
-#, fuzzy
 msgid "If you wish to create a new folder within another folder, simply:"
-msgstr ""
-"Se desideri creare una nuova cartella all'interno di un'altra cartella, "
-"semplicemente:"
+msgstr "Se desideri creare una nuova cartella all'interno di un'altra cartella:"
 
 #: ../../files/toc.rst:41
-#, fuzzy
 msgid "Navigate to the folder where you intend to create a new folder."
 msgstr "Passa alla cartella in cui intendi creare una nuova cartella."
 
 #: ../../files/toc.rst:52
-#, fuzzy
 msgid "Adding a File from Your Computer"
 msgstr "Aggiungere un File dal Tuo Computer"
 
 #: ../../files/toc.rst:54
-#, fuzzy
 msgid "To upload document files from your computer:"
-msgstr "Per caricare file di documenti dal tuo computer:"
+msgstr "Per caricare file e documenti dal tuo computer:"
 
 #: ../../files/toc.rst:56 ../../files/toc.rst:211 ../../files/toc.rst:386
 #: ../../files/toc.rst:408 ../../files/toc.rst:424 ../../files/toc.rst:435
 #: ../../files/toc.rst:448
-#, fuzzy
 msgid "Select the **Files** feature from your left sidebar."
-msgstr "Selezionare la funzionalità **File** dal menu laterale sinistro."
+msgstr "Seleziona l'icona di **Files** dal menu laterale sinistro."
 
 #: ../../files/toc.rst:57
-#, fuzzy
 msgid "Navigate to the folder where you intend to upload the file."
 msgstr "Passa alla cartella in cui desideri caricare il file."
 
 #: ../../files/toc.rst:58
-#, fuzzy
 msgid "From the top bar, click the **NEW** button. A new window appears."
 msgstr ""
-"Dalla barra superiore, fare clic sul pulsante **NUOVO**. Verrà visualizzata "
-"una nuova finestra."
+"Dalla barra superiore, fai clic sul tasto **NUOVO**. Si aprirà una nuova "
+"finestra."
 
 #: ../../files/toc.rst:59
-#, fuzzy
 msgid "Select a file from the window."
 msgstr "Seleziona un file dalla finestra."
 
 #: ../../files/toc.rst:62
-#, fuzzy
 msgid ""
 "You can monitor the progress of the uploading process through the "
 "**Uploads section**, which is visible in the Navigation Panel."
 msgstr ""
-"È possibile monitorare lo stato dell'upload dal riquadro di navigazione, "
-"all'interno della sezione **Caricamenti**."
+"Puoi monitorare lo stato del caricamento dal pannello di navigazione, nella "
+"sezione **Caricamenti**."
 
 #: ../../files/toc.rst:65
-#, fuzzy
 msgid "Adding a File from Your Email Attachments"
-msgstr "Aggiunta di un file dagli allegati email"
+msgstr "Aggiungere un File dagli Allegati Email"
 
 #: ../../files/toc.rst:67
-#, fuzzy
 msgid ""
 "You have the option to save attachment files from your emails directly to"
 " your Files. To do so:"
 msgstr ""
-"È possibile salvare i file allegati dalle email direttamente nei File. Per "
-"farlo:"
+"Puoi salvare i file allegati delle email direttamente in Files. Per farlo:"
 
 #: ../../files/toc.rst:69
-#, fuzzy
 msgid "Select **Mails** from the left sidebar."
-msgstr "Seleziona **Mails** nel riquadro di sinistra."
+msgstr "Seleziona **Mail** nel menu di sinistra."
 
 #: ../../files/toc.rst:70
-#, fuzzy
 msgid "Select the email that contains the attachment you want to save."
-msgstr "Seleziona l'e-mail che contiene l'allegato che desideri salvare."
+msgstr "Seleziona l'email che contiene l'allegato che desideri salvare."
 
 #: ../../files/toc.rst:71
-#, fuzzy
 msgid ""
 "On the right, you will see the email text and attachments. Hover your "
 "mouse cursor over the attachment you want to save without clicking."
 msgstr ""
 "Sulla destra, vedrai il testo dell'email e gli allegati. Posiziona il "
-"cursore del mouse sull'allegato che desideri salvare senza cliccarci."
+"cursore del mouse sull'allegato che desideri salvare, senza cliccarci."
 
 #: ../../files/toc.rst:72
-#, fuzzy
 msgid ""
 "Three buttons appear on the right side of the attachment. Click the left "
 "button with the Files icon. A new window appears."
 msgstr ""
-"Tre pulsanti vengono visualizzati sul lato destro dell'allegato. Fare clic "
-"sul pulsante sinistro con l'icona dei file. Compare una nuova finestra."
+"Appariranno tre icone sul lato destro dell'allegato. Fai clic sull'icona di "
+"Files. Comparirà una nuova finestra."
 
 #: ../../files/toc.rst:73
-#, fuzzy
 msgid "Select the folder where you want to save the attachment."
 msgstr "Seleziona la cartella in cui desideri salvare l'allegato."
 
 #: ../../files/toc.rst:81
-#, fuzzy
 msgid "Downloading a File on Your Computer"
-msgstr "Scaricare un file sul tuo computer"
+msgstr "Scaricare un File nel tuo Computer"
 
 #: ../../files/toc.rst:83
-#, fuzzy
 msgid "To download a file on your computer:"
-msgstr "Per scaricare un file sul tuo computer:"
+msgstr "Per scaricare un file nel tuo computer:"
 
 #: ../../files/toc.rst:85
-#, fuzzy
 msgid "Select the Files feature from your left sidebar."
-msgstr "Selezionare la funzionalità **File** dal menu laterale sinistro."
+msgstr "Seleziona l'icona di **Files** dal menu laterale sinistro."
 
 #: ../../files/toc.rst:86
-#, fuzzy
 msgid "Navigate to the folder that contains the file you want to download."
 msgstr "Passa alla cartella che contiene il file che desideri scaricare."
 
 #: ../../files/toc.rst:87 ../../files/toc.rst:144 ../../files/toc.rst:213
 #: ../../files/toc.rst:227 ../../files/toc.rst:239 ../../files/toc.rst:339
-#, fuzzy
 msgid "Right-click on the file."
-msgstr "Fai clic con il pulsante destro del mouse sul file."
+msgstr "Fai clic destro sul file."
 
 #: ../../files/toc.rst:88
-#, fuzzy
 msgid "Select Download from the drop-down menu. A new window appears."
-msgstr "Seleziona Download dal menu a discesa. Appare una nuova finestra."
+msgstr "Seleziona Scarica dal menu a tendina. Apparirà una nuova finestra."
 
 #: ../../files/toc.rst:89
-#, fuzzy
 msgid "Select the folder on your computer where you want to download the file."
-msgstr "Seleziona la cartella sul tuo computer dove desideri scaricare il file."
+msgstr ""
+"Seleziona la cartella del tuo computer in cui desideri scaricare il file."
 
 #: ../../files/toc.rst:90
-#, fuzzy
 msgid "Click the Save button."
-msgstr "Cliccare sul pulsante Salva."
+msgstr "Clicca sul tasto Salva."
 
 #: ../../files/toc.rst:93
-#, fuzzy
 msgid "Deleting a File or a Folder"
-msgstr "Eliminazione di un File o una Cartella"
+msgstr "Eliminare un File o una Cartella"
 
 #: ../../files/toc.rst:95
-#, fuzzy
 msgid "To delete a file or folder from your Files:"
-msgstr "Per eliminare un file o una cartella dai tuoi File:"
+msgstr "Per eliminare un file o una cartella da Files:"
 
 #: ../../files/toc.rst:98
-#, fuzzy
 msgid ""
 "Navigate to the folder or folder that contains the item you want to "
 "delete."
 msgstr ""
-"Passa alla cartella o al percorso che contiene l'elemento che si desidera "
+"Passa alla cartella o al percorso che contiene l'elemento che desideri "
 "eliminare."
 
 #: ../../files/toc.rst:99 ../../files/toc.rst:132
-#, fuzzy
 msgid "Right-click on the item."
 msgstr "Fai clic destro sull'elemento."
 
 #: ../../files/toc.rst:102
-#, fuzzy
 msgid ""
 "Your file or folder will be automatically moved to your Trash folder. You"
 " can locate the Trash folder from the Navigation Panel."
 msgstr ""
 "Il tuo file o cartella sarà spostato automaticamente nella cartella Cestino. "
-"Puoi trovare la cartella Cestino dal Pannello di navigazione."
+"Puoi individuare la cartella Cestino dal Pannello di navigazione."
 
 #: ../../files/toc.rst:104
-#, fuzzy
 msgid "If you want to remove the file permanently:"
 msgstr "Se desideri rimuovere definitivamente il file:"
 
 #: ../../files/toc.rst:106 ../../files/toc.rst:118
-#, fuzzy
 msgid "Click on the downward arrow next to the **Trash folder**."
 msgstr "Clicca sulla freccia verso il basso accanto alla cartella **Cestino**."
 
 #: ../../files/toc.rst:107 ../../files/toc.rst:119
-#, fuzzy
 msgid "Select **My items**."
 msgstr "Seleziona **I miei elementi**."
 
 #: ../../files/toc.rst:108
-#, fuzzy
 msgid "On the Main Panel, right-click on the item you want to remove permanently."
 msgstr ""
-"Nel Pannello principale, fare clic con il pulsante destro del mouse "
-"sull'elemento che si desidera rimuovere definitivamente."
+"Nel pannello principale, fai clic destro sull'elemento che desideri "
+"rimuovere definitivamente."
 
 #: ../../files/toc.rst:109
-#, fuzzy
 msgid "Select **Delete permanently** from the drop-down menu."
-msgstr "Seleziona **Elimina definitivamente** dal menu a discesa."
+msgstr "Seleziona **Elimina definitivamente** dal menu a tendina."
 
 #: ../../files/toc.rst:110
-#, fuzzy
 msgid "Click **DELETE PERMANENTLY** to confirm."
 msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
 
 #: ../../files/toc.rst:113
-#, fuzzy
 msgid "Restoring a Trashed File or a Folder"
-msgstr "Ripristino di un file o una cartella cestinata"
+msgstr "Ripristinare un File o una Cartella Cestinata"
 
 #: ../../files/toc.rst:115
-#, fuzzy
 msgid ""
 "Deleting files and folders moves them into your Trash folder. You can "
 "access them there and restore them if needed."
 msgstr ""
-"L'eliminazione di file e cartelle li sposta nel Cestino. Puoi accedere ad "
-"essi e ripristinarli se necessario."
+"Eliminare file e cartelle li sposta nel Cestino. Puoi accedere ad essi e "
+"ripristinarli se necessario."
 
 #: ../../files/toc.rst:120
-#, fuzzy
 msgid "On the Main Panel, right-click on the item you want to restore."
 msgstr ""
-"Nel Pannello principale, fare clic con il pulsante destro del mouse "
-"sull'elemento che si desidera ripristinare."
+"Nel Pannello principale, fai clic destro sull'elemento che desideri "
+"ripristinare."
 
 #: ../../files/toc.rst:121
-#, fuzzy
 msgid "Select **Restore** from the drop-down menu."
-msgstr "Seleziona **Ripristina** dal menu a discesa."
+msgstr "Seleziona **Ripristina** dal menu a tendina."
 
 #: ../../files/toc.rst:123
-#, fuzzy
 msgid ""
 "The restored item is automatically moved back to its original location "
 "before deletion."
 msgstr ""
 "L'elemento ripristinato viene spostato automaticamente nella sua posizione "
-"originale prima della cancellazione."
+"originale, prima della cancellazione."
 
 #: ../../files/toc.rst:126
-#, fuzzy
 msgid "Renaming a File or a Folder"
-msgstr "Rinominare un file o una cartella"
+msgstr "Rinominare un File o una Cartella"
 
 #: ../../files/toc.rst:128
-#, fuzzy
 msgid "To rename a file or folder:"
 msgstr "Per rinominare un file o una cartella:"
 
 #: ../../files/toc.rst:131
-#, fuzzy
 msgid "Navigate to the folder that contains the item you want to rename."
 msgstr "Passa alla cartella che contiene l'elemento che desideri rinominare."
 
 #: ../../files/toc.rst:133
-#, fuzzy
 msgid "Select **Rename** from the drop-down menu. A new window appears."
-msgstr "Seleziona **Rinomina** dal menu a discesa. Appare una nuova finestra."
+msgstr "Seleziona **Rinomina** dal menu a tendina. Apparirà una nuova finestra."
 
 #: ../../files/toc.rst:135
-#, fuzzy
 msgid "Click the **RENAME** button."
 msgstr "Fare clic sul pulsante **RINOMINA**."
 
 #: ../../files/toc.rst:138
-#, fuzzy
 msgid "Viewing a File"
-msgstr "Visualizzazione di un File"
+msgstr "Visualizzare un File"
 
 #: ../../files/toc.rst:140
-#, fuzzy
 msgid "To view a file stored in your Files:"
-msgstr "Per visualizzare un file archiviato nella sezione File:"
+msgstr "Per visualizzare un file salvato in Files:"
 
 #: ../../files/toc.rst:143
-#, fuzzy
 msgid "Navigate to the folder that contains the file you want to view."
-msgstr ""
-"Passare alla cartella che contiene il file che si desidera visualizzare."
+msgstr "Passa alla cartella che contiene il file che desideri visualizzare."
 
 #: ../../files/toc.rst:145
-#, fuzzy
 msgid "Select **Preview** from the drop-down menu."
-msgstr "Seleziona **Anteprima** dal menu a discesa."
+msgstr "Seleziona **Anteprima** dal menu a tendina."
 
 #: ../../files/toc.rst:147
-#, fuzzy
 msgid ""
 "Double-clicking on the file will also open them for previewing purposes, "
 "but for editable formats including DOCX, XLSX, PPTX, ODT, ODS, and ODP, "
@@ -7744,14 +7621,13 @@ msgid ""
 "ensure that you refrain from editing the file, as it is in an editable "
 "mode and accidental deletions or additions may occur."
 msgstr ""
-"Fare doppio clic sul file li aprirà anche a scopo di anteprima, ma per "
-"formati modificabili, inclusi DOCX, XLSX, PPTX, ODT, ODS ed ODP, essi "
-"verranno aperti in un'altra scheda nel browser. In questo scenario, "
-"assicurati di astenerti dal modificare il file, poiché è in modalità "
-"modificabile e possono verificarsi cancellazioni o aggiunte accidentali."
+"Fare doppio clic sul file li aprirà come anteprima, ma i formati "
+"modificabili, come DOCX, XLSX, PPTX, ODT, ODS ed ODP, verranno aperti in "
+"un'altra scheda nel browser. In questo caso, se volevi solamente "
+"visualizzare il file, assicurati di non modificarlo, poiché in modalità "
+"modifica possono verificarsi cancellazioni o aggiunte accidentali."
 
 #: ../../files/toc.rst:149
-#, fuzzy
 msgid ""
 "You can only preview most of the frequent file formats such as PDF, DOCX,"
 " XLSX, PPTX, ODT, ODS, and ODP, as well as image files like PNG, JPG, "
@@ -7761,109 +7637,95 @@ msgid ""
 "can download them to your computer and open them with specific "
 "applications."
 msgstr ""
-"Puoi solo visualizzare in anteprima la maggior parte dei formati di file "
-"frequenti come PDF, DOCX, XLSX, PPTX, ODT, ODS e ODP, nonché file immagine "
-"come PNG, JPG, ecc. Puoi anche visualizzare in anteprima un video facendo "
-"doppio clic su un file video o aprendolo con l'azione anteprima: se il "
-"browser supporta quel tipo di mime, il video viene riprodotto direttamente "
-"nel browser. Per i file non supportati, puoi scaricarli sul computer e "
-"aprirli con applicazioni specifiche."
+"Potrai solo visualizzare in anteprima la maggior parte dei formati di file, "
+"come PDF, DOCX, XLSX, PPTX, ODT, ODS e ODP, nonché file immagine come PNG, "
+"JPG, ecc. Puoi anche visualizzare in anteprima un video, facendo doppio clic "
+"su un file video o aprendolo con l'azione anteprima: se il browser lo "
+"supporta, il video viene riprodotto direttamente nel browser. Se il file non "
+"è supportato, puoi scaricarlo sul computer e aprirlo con applicazioni "
+"specifiche."
 
 #: ../../files/toc.rst:154
-#, fuzzy
 msgid "Creating a File"
-msgstr "Creazione di un File"
+msgstr "Creare un File"
 
 #: ../../files/toc.rst:156
-#, fuzzy
 msgid ""
 "You can use Files to create specific files including text documents, "
 "spreadsheets, and presentation files."
 msgstr ""
-"È possibile utilizzare File per creare file specifici, compresi documenti di "
-"testo, fogli di calcolo e file di presentazione."
+"È possibile utilizzare Files per creare file specifici, come documenti di "
+"testo, fogli di calcolo e presentazioni."
 
 #: ../../files/toc.rst:158
-#, fuzzy
 msgid "To create a text document:"
 msgstr "Per creare un documento di testo:"
 
 #: ../../files/toc.rst:161 ../../files/toc.rst:172
-#, fuzzy
 msgid "Navigate to the folder where you want to create the file."
-msgstr "Passare alla cartella in cui si desidera creare il file."
+msgstr "Naviga fino alla cartella in cui desideri creare il file."
 
 #: ../../files/toc.rst:163
-#, fuzzy
 msgid "Select **New document** from the drop-down menu."
-msgstr "Seleziona **Nuovo documento** dal menu a discesa."
+msgstr "Seleziona **Nuovo documento** dal menu a tendina."
 
 #: ../../files/toc.rst:164
-#, fuzzy
 msgid ""
 "Select the file format choosing either OpenDocument (.odt) or Microsoft "
 "(.docx) from the menu. A new window appears."
 msgstr ""
 "Seleziona il formato del file scegliendo tra OpenDocument (.odt) o Microsoft "
-"(.docx) dal menu. Appare una nuova finestra."
+"(.docx) dal menu. Apparirà una nuova finestra."
 
 #: ../../files/toc.rst:165 ../../files/toc.rst:176
-#, fuzzy
 msgid "Insert a name for the file."
 msgstr "Inserisci un nome per il file."
 
 #: ../../files/toc.rst:167 ../../files/toc.rst:178
-#, fuzzy
 msgid ""
 "You will find the created file in the Main Panel among the list of files "
 "and folders."
 msgstr ""
-"Troverai il file creato nel pannello principale tra l'elenco di file e "
+"Troverai il file creato nel pannello principale, nel tuo elenco di file e "
 "cartelle."
 
 #: ../../files/toc.rst:169
-#, fuzzy
 msgid "To create a spreadsheet:"
-msgstr "Per creare una spreadsheet:"
+msgstr "Per creare un foglio di calcolo:"
 
 #: ../../files/toc.rst:174
-#, fuzzy
 msgid "Select **New spreadsheet** from the drop-down menu."
-msgstr "Seleziona **Nuovo foglio di calcolo** dal menu a discesa."
+msgstr "Seleziona **Nuovo foglio di calcolo** dal menu a tendina."
 
 #: ../../files/toc.rst:175
-#, fuzzy
 msgid ""
 "Select the file format choosing either OpenDocument (.ods) or Microsoft "
 "(.xlsx) from the menu. A new window appears."
 msgstr ""
 "Seleziona il formato del file scegliendo tra OpenDocument (.ods) o Microsoft "
-"(.xlsx) dal menu. Appare una nuova finestra."
+"(.xlsx) dal menu. Apparirà una nuova finestra."
 
 #: ../../files/toc.rst:180
-#, fuzzy
 msgid ""
 "You can double-click on it to open the editor in another browser tab and "
 "begin editing the file online."
 msgstr ""
-"È possibile fare doppio clic su di esso per aprire l'editor in un'altra "
-"scheda del browser ed iniziare a modificare il file online."
+"Puoi fare doppio clic sul file per aprire l'editor in un'altra scheda del "
+"browser, ed iniziare a modificare il file online."
 
 #: ../../files/toc.rst:182
-#, fuzzy
 msgid ""
 "The main difference between OpenDocument and Microsoft files lies in "
 "their file formats and the software used to create and edit them. "
 "OpenDocument files (.odt, .ods, .odp) adhere to an open standard and are "
 "compatible with open-source office suites like LibreOffice."
 msgstr ""
-"La principale differenza tra OpenDocument e file Microsoft risiede nei loro "
-"formati file e nel software utilizzato per crearli e modificarli. I file "
+"La principale differenza tra file OpenDocument e file Microsoft risiede nei "
+"loro formati e nel software utilizzato per crearli e modificarli. I file "
 "OpenDocument (.odt, .ods, .odp) seguono uno standard aperto e sono "
-"compatibili con suite di office open source come LibreOffice."
+"compatibili con suite open source come LibreOffice."
 
 #: ../../files/toc.rst:184
-#, fuzzy
 msgid ""
 "In contrast, Microsoft files (.docx, .xlsx, .pptx) are created with "
 "Microsoft Office software. From a user perspective, OpenDocument files "
@@ -7873,52 +7735,45 @@ msgid ""
 msgstr ""
 "A differenza dei file Microsoft (.docx, .xlsx, .pptx), creati con il "
 "software Microsoft Office, i file OpenDocument offrono una maggiore "
-"compatibilità tra diverse piattaforme e suite software. Tuttavia, i file "
-"Microsoft sono più utilizzati in ambito professionale grazie all'utilizzo "
-"diffuso di Microsoft Office."
+"compatibilità tra diverse piattaforme. Tuttavia, i file Microsoft sono più "
+"utilizzati in ambito professionale grazie all'utilizzo diffuso di Microsoft "
+"Office."
 
 #: ../../files/toc.rst:186
-#, fuzzy
 msgid ""
 "Users typically choose between them based on software preference and "
 "collaboration requirements."
 msgstr ""
-"Gli utenti scelgono normalmente tra loro in base alle preferenze sul "
+"Normalmente, gli utenti scelgono tra i due in base alle preferenze sul "
 "software e ai requisiti di collaborazione."
 
 #: ../../files/toc.rst:189
-#, fuzzy
 msgid "Editing a File Online"
-msgstr "Modifica di un file online"
+msgstr "Modificare un File Online"
 
 #: ../../files/toc.rst:191
-#, fuzzy
 msgid ""
 "In Files, you can edit certain documents online, including formats like "
 "DOCX, XLSX, PPTX, ODT, ODS, and ODP. When you double-click them, they "
 "will open in another tab in your browser for editing."
 msgstr ""
-"In File, è possibile modificare determinati documenti online, tra cui "
+"In Files è possibile modificare determinati documenti online, tra cui "
 "formati come DOCX, XLSX, PPTX, ODT, ODS e ODP. Quando si fa doppio clic su "
 "di essi, si apriranno in un'altra scheda del browser per la modifica."
 
 #: ../../files/toc.rst:195 ../../files/toc.rst:212
-#, fuzzy
 msgid "Navigate to the folder that contains the file you want to edit."
 msgstr "Passa alla cartella che contiene il file che desideri modificare."
 
 #: ../../files/toc.rst:196
-#, fuzzy
 msgid "Double-click on the file."
-msgstr "Fare doppio clic sul file."
+msgstr "Fai doppio clic sul file."
 
 #: ../../files/toc.rst:198
-#, fuzzy
 msgid "A new tab will open in your browser for editing."
 msgstr "Verrà aperta una nuova scheda nel tuo browser per la modifica."
 
 #: ../../files/toc.rst:200
-#, fuzzy
 msgid ""
 "For text documents, you have various options for editing, including text "
 "formatting such as font styles, sizes, and colors. Additionally, you can "
@@ -7930,7 +7785,6 @@ msgstr ""
 "contenuto del documento."
 
 #: ../../files/toc.rst:202
-#, fuzzy
 msgid ""
 "In spreadsheets, you can edit cell contents, apply formatting to cells, "
 "rows, and columns, and perform calculations using built-in functions. You"
@@ -7939,11 +7793,10 @@ msgid ""
 msgstr ""
 "In fogli di calcolo, è possibile modificare il contenuto delle celle, "
 "applicare formattazioni a celle, righe e colonne ed eseguire calcoli "
-"utilizzando funzioni predefinite. È inoltre possibile inserire grafici, "
-"diagrammi e altri elementi visivi per presentare i dati in modo efficace."
+"utilizzando funzioni predefinite. Puoi anche inserire grafici, diagrammi e "
+"altri elementi visivi per presentare i dati in modo efficace."
 
 #: ../../files/toc.rst:204
-#, fuzzy
 msgid ""
 "In presentation files, you can edit slide content, including text, "
 "images, and shapes. You have options to apply formatting to text, adjust "
@@ -7951,145 +7804,123 @@ msgid ""
 "clips. Additionally, you can add animations and transitions to enhance "
 "the visual appeal of your presentation."
 msgstr ""
-"Nei file di presentazione è possibile modificare il contenuto delle "
-"diapositive, inclusi testo, immagini e forme. Sono disponibili opzioni per "
-"applicare la formattazione al testo, regolare i layout delle diapositive e "
-"incorporare elementi multimediali come video e clip audio. Inoltre, puoi "
-"aggiungere animazioni e transizioni per migliorare l'aspetto visivo della "
-"tua presentazione."
+"Nelle presentazioni puoi modificare il contenuto delle diapositive, inclusi "
+"testo, immagini e forme. Sono disponibili opzioni per applicare la "
+"formattazione al testo, regolare i layout delle diapositive e incorporare "
+"elementi multimediali come video e clip audio. Inoltre, puoi aggiungere "
+"animazioni e transizioni per migliorare l'aspetto visivo della tua "
+"presentazione."
 
 #: ../../files/toc.rst:207
-#, fuzzy
 msgid "Moving a File between Folders"
-msgstr "Spostamento di un File tra Cartelle"
+msgstr "Spostare un File tra Cartelle"
 
 #: ../../files/toc.rst:209
-#, fuzzy
 msgid "To move a file to another folder:"
 msgstr "Per spostare un file in un'altra cartella:"
 
 #: ../../files/toc.rst:215
-#, fuzzy
 msgid "Select the folder where you want to move the file."
 msgstr "Seleziona la cartella dove desideri spostare il file."
 
 #: ../../files/toc.rst:218
-#, fuzzy
 msgid ""
 "Alternatively, you can drag and drop files into different folders, or the"
 " parent folder displayed on the folder path at the top of the Main Panel,"
 " above the list of files and folders."
 msgstr ""
-"In alternativa, è possibile trascinare e rilasciare i file in cartelle "
-"diverse o nella cartella padre visualizzata nel percorso della cartella in "
-"alto nel Pannello principale, sopra l'elenco di file e cartelle."
+"In alternativa, puoi trascinare e rilasciare i file in cartelle diverse, o "
+"nella cartella madre visualizzata nel percorso della cartella in alto nel "
+"Pannello principale, sopra l'elenco di file e cartelle."
 
 #: ../../files/toc.rst:221
-#, fuzzy
 msgid "Copying a File"
-msgstr "Copia di un File"
+msgstr "Copiare un File"
 
 #: ../../files/toc.rst:223
-#, fuzzy
 msgid "To copy a file and create a duplicate in another folder:"
-msgstr "Copiare un file e crearne una copia in un'altra directory:"
+msgstr "Per copiare un file e crearne una copia in un'altra cartella:"
 
 #: ../../files/toc.rst:226
-#, fuzzy
 msgid "Navigate to the folder that contains the file you want to copy."
-msgstr "Passa alla cartella che contiene il file che desideri copiare."
+msgstr "Vai alla cartella che contiene il file che desideri copiare."
 
 #: ../../files/toc.rst:228
-#, fuzzy
 msgid "Select **Copy** from the drop-down menu. A new window appears."
-msgstr "Seleziona **Copia**dal menu a tendina. Appare una nuova finestra."
+msgstr "Seleziona **Copia**dal menu a tendina. Apparirà una nuova finestra."
 
 #: ../../files/toc.rst:229
-#, fuzzy
 msgid "Choose the destination folder where you want to copy the file."
 msgstr "Scegli la cartella di destinazione in cui vuoi copiare il file."
 
 #: ../../files/toc.rst:230
-#, fuzzy
 msgid "Click the **COPY** button."
-msgstr "Fai clic sul pulsante **COPIA**."
+msgstr "Fai clic sul tasto **COPIA**."
 
 #: ../../files/toc.rst:233
-#, fuzzy
 msgid "Flagging a File"
-msgstr "Segnalazione di un file"
+msgstr "Contrassegnare un File"
 
 #: ../../files/toc.rst:235
-#, fuzzy
 msgid "To flag a file for future reference and make it stand out, you can:"
-msgstr "Per segnalare un file per riferimenti futuri e farlo risaltare, puoi:"
+msgstr ""
+"Per contrassegnare un file per riferimento futuro e farlo risaltare, puoi:"
 
 #: ../../files/toc.rst:238
-#, fuzzy
 msgid "Navigate to the folder that contains the file you want to flag."
-msgstr ""
-"Passa alla directory che contiene il file che si desidera contrassegnare."
+msgstr "Vai alla cartella che contiene il file che desideri contrassegnare."
 
 #: ../../files/toc.rst:240
-#, fuzzy
 msgid "Select **Flag** from the drop-down menu."
-msgstr "Seleziona **Segnala** dal menu a tendina."
+msgstr "Seleziona **Contrassegna** dal menu a tendina."
 
 #: ../../files/toc.rst:242
-#, fuzzy
 msgid ""
 "To remove the flag from the file, you can follow the same process and "
 "select **Unflag**."
 msgstr ""
 "Per rimuovere il flag dal file, puoi seguire lo stesso processo e "
-"selezionare **Rimuovi flag**."
+"selezionare **Rimuovi contrassegno**."
 
 #: ../../files/toc.rst:245
-#, fuzzy
 msgid "Managing File Versioning"
-msgstr "Gestione delle versioni dei file"
+msgstr "Gestire Versioni dei File"
 
 #: ../../files/toc.rst:251
-#, fuzzy
 msgid ""
 "File versioning enables you to manage changes to your documents in Files."
 " Each time you modify and save a file, the version number automatically "
 "updates. The most recent version number is visible in the file document "
 "list."
 msgstr ""
-"La gestione delle versioni dei file consente di gestire le modifiche ai "
-"documenti in Files. Ogni volta che si modifica e salva un file, il numero di "
-"versione viene aggiornato automaticamente. L'ultimo numero di versione è "
-"visibile nell'elenco dei documenti del file."
+"La gestione delle versioni consente di gestire le modifiche ai documenti in "
+"Files. Ogni volta che si modifica e salva un file, il numero di versione "
+"viene aggiornato automaticamente. L'ultimo numero di versione è visibile "
+"nell'elenco dei documenti."
 
 #: ../../files/toc.rst:253
-#, fuzzy
 msgid "To view the history of the file, you can follow these steps:"
 msgstr "Per visualizzare la cronologia del file, puoi seguire questi passaggi:"
 
 #: ../../files/toc.rst:256
-#, fuzzy
 msgid "Navigate to the folder that contains the file you want to check."
-msgstr "Passa alla cartella che contiene il file che desideri controllare."
+msgstr "Vai alla cartella che contiene il file che desideri controllare."
 
 #: ../../files/toc.rst:257 ../../files/toc.rst:269 ../../files/toc.rst:282
 #: ../../files/toc.rst:298 ../../files/toc.rst:310 ../../files/toc.rst:325
 #: ../../files/toc.rst:355 ../../files/toc.rst:366
-#, fuzzy
 msgid "Select the file."
 msgstr "Seleziona il file."
 
 #: ../../files/toc.rst:258
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, you will find three tabs. Click "
 "**Versioning**."
 msgstr ""
 "Sul lato destro del Pannello principale, troverai tre schede. Clicca su "
-"**Versioning**."
+"**Versione**."
 
 #: ../../files/toc.rst:260
-#, fuzzy
 msgid ""
 "Under the **Current version**, you will find the last modified status of "
 "the file, and under **Older versions** you will find all previous "
@@ -8100,131 +7931,110 @@ msgstr ""
 "se esistono."
 
 #: ../../files/toc.rst:263
-#, fuzzy
 msgid "Updating a File with a New Version"
-msgstr "Aggiornamento di un file con una nuova versione"
+msgstr "Aggiornare un File ad una Nuova Versione"
 
 #: ../../files/toc.rst:265
-#, fuzzy
 msgid "To update a file with a new version, follow these steps:"
-msgstr "Per aggiornare un file con una nuova versione, seguire questi passaggi:"
+msgstr "Per aggiornare un file con una nuova versione, segui questi passaggi:"
 
 #: ../../files/toc.rst:268 ../../files/toc.rst:281 ../../files/toc.rst:297
 #: ../../files/toc.rst:309 ../../files/toc.rst:324 ../../files/toc.rst:338
 #: ../../files/toc.rst:354 ../../files/toc.rst:365 ../../files/toc.rst:436
-#, fuzzy
 msgid "Navigate to the folder that contains the file."
 msgstr "Accedi alla cartella che contiene il file."
 
 #: ../../files/toc.rst:270 ../../files/toc.rst:283 ../../files/toc.rst:299
 #: ../../files/toc.rst:311 ../../files/toc.rst:326
-#, fuzzy
 msgid "On the right side of the Main Panel, click **Versioning**."
-msgstr "Nel lato destro del Pannello Principale, cliccare su **Versioning**."
+msgstr "Nel lato destro del Pannello Principale, clicca su **Versione**."
 
 #: ../../files/toc.rst:271
-#, fuzzy
 msgid "Click the **UPLOAD VERSION** button. A new window appears."
-msgstr "Fai clic sul pulsante **CARICA VERSIONE**. Appare una nuova finestra."
+msgstr "Fai clic sul tasto **CARICA VERSIONE**. Apparirà una nuova finestra."
 
 #: ../../files/toc.rst:272
-#, fuzzy
 msgid "Choose the new version of the file from the opened window."
-msgstr "Seleziona la nuova versione del file dalla finestra aperta."
+msgstr "Seleziona il nuovo file dalla finestra."
 
 #: ../../files/toc.rst:276
-#, fuzzy
 msgid "Restore a File to a Previous Version"
-msgstr "Ripristina un file ad una versione precedente"
+msgstr "Ripristinare un File ad una Versione Precedente"
 
 #: ../../files/toc.rst:278
-#, fuzzy
 msgid "To restore a file to a previous version:"
-msgstr "Ripristina un file ad una versione precedente:"
+msgstr "Per ripristina un file ad una versione precedente:"
 
 #: ../../files/toc.rst:284
-#, fuzzy
 msgid ""
 "Under the **Old versions** section, click on the **three vertical dots** "
 "next to the version you want to restore."
 msgstr ""
-"Nella sezione **Vecchie versioni**, fare clic sui **tre punti verticali** "
-"accanto alla versione che si desidera ripristinare."
+"Nella sezione **Versioni più vecchie**, fai clic sui **tre punti verticali** "
+"accanto alla versione che desideri ripristinare."
 
 #: ../../files/toc.rst:285
-#, fuzzy
 msgid "Select **Clone as current** from the drop-down menu."
-msgstr ""
-"Selezionare **Crea una copia come configurazione attuale** dal menu a "
-"discesa."
+msgstr "Seleziona **Clona come versione corrente** dal menu a tendina."
 
 #: ../../files/toc.rst:287
-#, fuzzy
 msgid ""
 "This will update the current version based on the cloned version, and the"
 " previous version will be added to the list of older versions."
 msgstr ""
-"Ciò aggiornerà la versione corrente in base alla versione clonata e la "
-"versione precedente verrà aggiunta all'elenco delle versioni precedenti."
+"Ciò aggiornerà la versione corrente come la versione clonata, e la versione "
+"precedente verrà aggiunta all'elenco delle versioni più vecchie."
 
 #: ../../files/toc.rst:290
-#, fuzzy
 msgid "Keep a Version of a File Forever"
-msgstr "Mantenere per sempre una Versione di un File"
+msgstr "Mantenere per Sempre una Versione di un File"
 
 #: ../../files/toc.rst:292
-#, fuzzy
 msgid ""
 "Setting a version as **Keep this version forever**, will prevent that "
 "specific version from being deleted, even if a purge of all versions is "
 "performed."
 msgstr ""
-"Impostare una versione come **Conserva per sempre questa versione**, "
+"Impostare una versione come **Conserva questa versione per sempre**, "
 "impedirà l'eliminazione di quella versione specifica, anche se viene "
 "eseguita una pulizia di tutte le versioni."
 
 #: ../../files/toc.rst:294
-#, fuzzy
 msgid "To set a version as Keep this version forever:"
-msgstr "Per impostare una versione come Mantieni questa versione per sempre:"
+msgstr ""
+"Per impostare una versione come \"Mantieni questa versione per sempre\":"
 
 #: ../../files/toc.rst:300
-#, fuzzy
 msgid ""
 "Under the **Old versions** section, click on the **three vertical dots** "
 "next to the version you want to keep forever."
 msgstr ""
-"Nella sezione **Vecchie versioni**, fai clic sui **tre punti verticali** "
+"Nella sezione **Versioni più vecchie**, fai clic sui **tre punti verticali** "
 "accanto alla versione che desideri conservare per sempre."
 
 #: ../../files/toc.rst:301
-#, fuzzy
 msgid "Select **Keep this version forever** from the drop-down menu."
-msgstr "Seleziona **Conserva questa versione per sempre** dal menu a discesa."
+msgstr "Seleziona **Conserva questa versione per sempre** dal menu a tendina."
 
 #: ../../files/toc.rst:304
-#, fuzzy
 msgid "Delete Version History of a File"
-msgstr "Elimina Cronologia delle Versioni di un File"
+msgstr "Eliminare la Cronologia delle Versioni di un File"
 
 #: ../../files/toc.rst:306
-#, fuzzy
 msgid "To delete the version history of a file:"
 msgstr "Per cancellare la cronologia delle versioni di un file:"
 
 #: ../../files/toc.rst:312
-#, fuzzy
 msgid "Click the **PURGE ALL VERSIONS** button."
-msgstr "Fare clic sul pulsante **ELIMINA TUTTE LE VERSIONI**."
+msgstr "Fai clic sul tasto **ELIMINA TUTTE LE VERSIONI**."
 
 #: ../../files/toc.rst:314
-#, fuzzy
 msgid "This will delete all versions of the file, keeping the current version."
 msgstr ""
-"Ciò eliminerà tutte le versioni del file, mantenendo la versione attuale."
+"Ciò eliminerà tutte le versioni precedenti del file, mantenendo la versione "
+"attuale."
 
 #: ../../files/toc.rst:316
-#, fuzzy
 msgid ""
 "In case a version is set to **Keep forever**, purging all versions will "
 "not affect that particular version. To remove these versions as well you "
@@ -8233,17 +8043,15 @@ msgid ""
 msgstr ""
 "Se una versione è impostata su **Conserva per sempre**, l'eliminazione di "
 "tutte le versioni non avrà alcun effetto su quella versione specifica. Per "
-"eliminare anche queste versioni, è necessario cliccare prima sui **tre punti "
+"eliminare anche queste versioni, dovrai cliccare prima sui **tre punti "
 "verticali** accanto alla versione e selezionare **Rimuovi conserva per "
 "sempre**."
 
 #: ../../files/toc.rst:319
-#, fuzzy
 msgid "Delete a Specific Version of a File"
-msgstr "Elimina una versione specifica di un file"
+msgstr "Eliminare una Versione Specifica di un File"
 
 #: ../../files/toc.rst:321
-#, fuzzy
 msgid "To delete a specific version of a file:"
 msgstr "Per eliminare una versione specifica di un file:"
 
@@ -9668,38 +9476,30 @@ msgstr ""
 "Fuso orario** e scegliere il proprio fuso orario."
 
 #: ../../get_started/toc.rst:269 ../../get_started/toc.rst:284
-#, fuzzy
 msgid "Click **SAVE** in the top right corner."
 msgstr "Fai clic su **SALVA** nell'angolo in alto a destra."
 
 #: ../../get_started/toc.rst:277
-#, fuzzy
 msgid "Changing |product| Language"
-msgstr "Cambia lingua di Carbonio"
+msgstr "Cambiare la Lingua di Carbonio"
 
 #: ../../get_started/toc.rst:279
-#, fuzzy
 msgid "To change your |product| web client language, follow these steps:"
 msgstr ""
-"Per cambiare la lingua del client web di Carbonio, seguire questi "
-"passaggi:"
+"Per cambiare la lingua del client web di Carbonio, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:283
-#, fuzzy
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Language** and choose your language."
 msgstr ""
-"Nella sezione **Fuso orario e lingua** selezionare il menu a discesa per **"
-"Fuso orario** e scegliere il proprio fuso orario."
+"Nella sezione **Lingua** clicca il menu a tendina e scegli la tua lingua."
 
 #: ../../get_started/toc.rst:287
-#, fuzzy
 msgid "Accessing Multiple Accounts"
-msgstr "Accesso a più account"
+msgstr "Accedere a più Account"
 
 #: ../../get_started/toc.rst:289
-#, fuzzy
 msgid ""
 "On the |product| web client, you have access to multiple accounts. Let's "
 "say you have your personal account, as well as two additional accounts "
@@ -9709,16 +9509,14 @@ msgid ""
 "can add these accounts and grant you access** to manage them via your "
 "main account."
 msgstr ""
-"Sul client web di Carbonio, hai accesso a più account. Ad esempio, puoi "
-"avere un account personale e due account aggiuntivi creati per le "
-"attività di risorse umane e la comunicazione con i colleghi con il nome "
-"\"hr@example.com\" e un altro denominato \"info@example.com\" per le "
-"comunicazioni esterne dell'azienda. **Solo l'amministratore di sistema "
-"può aggiungere questi account e concederti l'accesso per gestirli tramite"
-" il tuo account principale**."
+"Nel client web di Carbonio puoi avere accesso a più account. Ad esempio, "
+"potresti avere un account personale e due account aggiuntivi creati per le "
+"attività di Risorse Umane e la Comunicazione esterna, chiamati \"hr@example."
+"com\" e \"info@example.com\". **Solo l'amministratore di sistema può "
+"aggiungere questi account e concederti l'accesso per gestirli dal tuo "
+"account principale**."
 
 #: ../../get_started/toc.rst:295
-#, fuzzy
 msgid ""
 "So, when you sign into your main account, you will see these two "
 "additional accounts listed under your main account. To access these "
@@ -9726,350 +9524,305 @@ msgid ""
 "a dropdown menu. From there, you can access the inbox and other folders "
 "within each account."
 msgstr ""
-"Quando accedi al tuo account principale, vedrai questi due account "
-"aggiuntivi elencati sotto il tuo account principale. Per accedere a questi "
-"account, basta fare clic sulla freccia verso il basso accanto ai loro nomi "
-"per aprire un menu a discesa. Da lì, puoi accedere alla casella di posta e "
-"ad altre cartelle all'interno di ciascun account."
+"Quando accedi al tuo account principale, vedrai i due account aggiuntivi "
+"elencati sotto il tuo indirizzo principale, a sinistra. Per accedere a "
+"questi account, fai clic sulla freccia verso il basso accanto ai loro nomi "
+"per espandere un menu a tendina. Da lì, puoi accedere alla casella di posta "
+"e ad altre cartelle all'interno di ciascun account."
 
 #: ../../index.rst:12
-#, fuzzy
 msgid "Welcome to |product| User Documentation!"
-msgstr "Benvenuti nella Documentazione Utente di |carbonio|!"
+msgstr "Benvenuti nella Documentazione Utente di |Carbonio|!"
 
 #: ../../index.rst:14
-#, fuzzy
 msgid ""
 "This is the documentation of ||product||, the fully private digital "
 "workplace."
 msgstr ""
-"Questa è la documentazione di |carbonio|, lo spazio di lavoro digitale "
-"completamente privato."
+"Questa è la documentazione di |Carbonio|, il digital workplace completamente "
+"privato."
 
 #: ../../index.rst:17
-#, fuzzy
 msgid "The content is organised in multiple parts:"
 msgstr "Il contenuto è organizzato in più parti:"
 
 #: ../../index.rst:20
-#, fuzzy
 msgid "Introduction"
 msgstr "Introduzione"
 
 #: ../../index.rst:20
-#, fuzzy
 msgid "Useful and generic information about |product|."
-msgstr "Informazioni di base su |product|."
+msgstr "Informazioni di base su |Carbonio|."
 
 #: ../../search/toc.rst:7
-#, fuzzy
 msgid "Working with Search"
-msgstr "Search"
+msgstr "Usare la Ricerca"
 
 #: ../../search/toc.rst:9
-#, fuzzy
 msgid ""
 "Searching in the |product| web client allows you to find emails, "
 "contacts, appointments, and files using specific criteria such as words, "
 "dates, time, URL, size, tags, read status, and file attachments. There "
 "are two types of searches available:"
 msgstr ""
-"La ricerca nel client web di Carbonio consente di trovare email, "
-"contatti, appuntamenti e file utilizzando criteri specifici come parole, "
-"date, orario, URL, dimensione, tag, stato di lettura e allegati di file. "
-"Sono disponibili due tipi di ricerche:"
+"La ricerca consente di trovare email, contatti, appuntamenti e file "
+"utilizzando criteri specifici come parole, date, orario, URL, dimensione, "
+"tag, stato di lettura e allegati. Sono disponibili due tipi di ricerca:"
 
 #: ../../search/toc.rst:11
-#, fuzzy
 msgid ""
 "Quick Search: This is performed using the search box located on the top "
 "bar. You can search through various items, including emails, contacts, "
 "appointments, and files, based on the active feature selected from the "
 "left sidebar."
 msgstr ""
-"Ricerca rapida: questa operazione viene eseguita utilizzando la casella di "
-"ricerca posizionata sulla barra superiore. È possibile cercare vari "
-"elementi, inclusi email, contatti, appuntamenti e file, in base alla "
-"funzionalità attiva selezionata dal menu a sinistra."
+"Ricerca rapida: puoi eseguirla utilizzando la casella di ricerca nella barra "
+"superiore. Verranno cercati vari elementi, inclusi email, contatti, "
+"appuntamenti e file, in base al modulo attivo in quel momento, selezionabile "
+"dal menu a sinistra."
 
 #: ../../search/toc.rst:12
-#, fuzzy
 msgid ""
 "Advanced Search: This is performed using the search feature you can "
 "select from the left sidebar. This enables more complex searches using "
 "different filters such as date, time, subject, etc."
 msgstr ""
-"Ricerca Avanzata: Questa viene eseguita utilizzando la funzione di ricerca "
-"che puoi selezionare dalla barra dei menu a sinistra. Ciò consente ricerche "
-"più complesse utilizzando diversi filtri come data, ora, oggetto, ecc."
+"Ricerca avanzata: puoi eseguirla accedendo alla funzione di ricerca, che "
+"puoi selezionare dalla barra del menu a sinistra (icona della lente di "
+"ingrandimento). Consente ricerche più complesse, utilizzando diversi filtri "
+"come data, ora, oggetto, ecc."
 
 #: ../../search/toc.rst:14
-#, fuzzy
 msgid ""
 "These search capabilities provide efficient ways to locate and manage "
 "your data within the |product| web client."
 msgstr ""
-"Queste funzionalità di ricerca forniscono modi efficienti per localizzare"
-" e gestire i dati all'interno del client web di Carbonio."
+"Queste funzionalità di ricerca aiutano a localizzare e gestire i dati "
+"efficacemente nel client web di Carbonio."
 
 #: ../../search/toc.rst:18
-#, fuzzy
 msgid "Using Quick Search for Different Items"
-msgstr "Utilizzo della Ricerca Rapida per Elementi Diversi"
+msgstr "Usare la Ricerca Rapida"
 
 #: ../../search/toc.rst:20
-#, fuzzy
 msgid ""
 "You can perform a quick search using the search box located on the top "
 "bar. You can search through various items, including emails, contacts, "
 "appointments, and files, based on the active feature selected from the "
 "left sidebar."
 msgstr ""
-"È possibile eseguire una ricerca rapida utilizzando la casella di ricerca "
-"situata nella barra superiore. È possibile cercare tra vari elementi, tra "
-"cui email, contatti, appuntamenti e file, in base alla funzionalità attiva "
-"selezionata dal menu laterale sinistro."
+"Puoi eseguire una ricerca rapida usando la casella di ricerca situata nella "
+"barra superiore. È possibile cercare vari elementi, come email, contatti, "
+"appuntamenti e file, in base alla funzionalità attiva in quel momento e "
+"selezionata nel menu laterale sinistro."
 
 #: ../../search/toc.rst:26 ../../search/toc.rst:42
-#, fuzzy
 msgid "To do so:"
 msgstr "Per farlo:"
 
 #: ../../search/toc.rst:28
-#, fuzzy
 msgid ""
 "Select either Mails, Calendars, Contacts, or Files from the left sidebar,"
 " depending on which item you want to search for. The text of the search "
 "box changes based on which feature is active. For example, in Mails, the "
 "term is Search in Mails."
 msgstr ""
-"Seleziona Mails, Calendari, Contatti o File dalla barra laterale sinistra, a "
-"seconda dell'elemento che desideri cercare. Il testo della casella di "
-"ricerca cambia in base alla funzione attiva. Ad esempio, in Mails, il "
-"termine è Cerca in Mails."
+"Seleziona Mail, Calendario, Contatti o Files dalla barra laterale sinistra, "
+"a seconda dell'elemento che desideri cercare. Il testo della casella di "
+"ricerca cambierà in base alla funzione attiva. Ad esempio, in Mail il "
+"termine è \"Cerca in Mail\"."
 
 #: ../../search/toc.rst:29
-#, fuzzy
 msgid ""
 "Enter a keyword in the search box, such as a term used in an email "
 "subject or body that you are searching for."
 msgstr ""
 "Inserisci una parola chiave nella casella di ricerca, ad esempio un termine "
-"utilizzato nel soggetto o nel corpo di un'e-mail che stai cercando."
+"utilizzato nel soggetto o nel corpo di un'email che stai cercando."
 
 #: ../../search/toc.rst:30
-#, fuzzy
 msgid "Click the button next to the search box with the magnifying glass icon."
 msgstr ""
-"Fai clic sul pulsante accanto alla casella di ricerca con l'icona della "
-"lente di ingrandimento."
+"Fai clic sul tasto accanto alla casella di ricerca, con l'icona della lente "
+"di ingrandimento."
 
 #: ../../search/toc.rst:31
-#, fuzzy
 msgid ""
 "Your search results will appear on the left side of a list, beside the "
 "total number of items loaded."
 msgstr ""
-"I risultati della tua ricerca appariranno sul lato sinistro di un elenco, "
-"accanto al numero totale di elementi caricati."
+"I risultati della tua ricerca appariranno sul lato sinistro in forma di "
+"elenco, in alto al quale visualizzerai il numero totale di elementi trovati."
 
 #: ../../search/toc.rst:34
-#, fuzzy
 msgid "Using Advanced Search to Filter Your Search"
-msgstr "Utilizzare la Ricerca Avanzata per Filtrare la Ricerca"
+msgstr "Usare la Ricerca Avanzata per Raffinare la Ricerca"
 
 #: ../../search/toc.rst:36
-#, fuzzy
 msgid ""
 "This is performed using the search feature you can select from the left "
 "sidebar."
 msgstr ""
-"Ciò viene eseguito utilizzando la funzione di ricerca che puoi selezionare "
-"dal pannello di sinistra."
+"Puoi effettuare una ricerca avanzata accedendo alla funzione di ricerca dal "
+"pannello di sinistra."
 
 #: ../../search/toc.rst:44
-#, fuzzy
 msgid "Select the **Search feature** from your left sidebar."
-msgstr "Seleziona la **funzionalità di Ricerca** dalla barra laterale sinistra."
+msgstr "Seleziona la **Funzionalità di Ricerca** dalla barra laterale sinistra."
 
 #: ../../search/toc.rst:45
-#, fuzzy
 msgid ""
 "Select the search category (i.e., Mails, Calendars, Contacts, Files) from"
 " the drop-down menu next to the **NEW** button."
 msgstr ""
-"Selezionare la categoria di ricerca (ad esempio, Poste, Calendari, Contatti, "
-"File) dal menu a discesa accanto al pulsante **NUOVO**."
+"Seleziona la categoria di ricerca (ad esempio, Mail, Calendario, Contatti, "
+"Files) dal menu a tendina che vedi accanto al tasto **NUOVO**."
 
 #: ../../search/toc.rst:46
-#, fuzzy
 msgid "Click on **ADVANCED FILTERS** on the left side. A new window appears."
 msgstr ""
-"Clicca su ** FILTRI AVANZATI** sul lato sinistro. Appare una nuova finestra."
+"Clicca su ** FILTRI AVANZATI** sul lato sinistro. Apparirà una nuova "
+"finestra."
 
 #: ../../search/toc.rst:47
-#, fuzzy
 msgid "Select different filters to refine your search results."
 msgstr "Seleziona filtri diversi per raffinare i risultati di ricerca."
 
 #: ../../search/toc.rst:48
-#, fuzzy
 msgid "Click the **SEARCH** button."
-msgstr "Fai clic sul pulsante **RICERCA**."
+msgstr "Fai clic sul tasto **CERCA**."
 
 #: ../../search/toc.rst:50
-#, fuzzy
 msgid ""
 "Filters for refining search results vary depending on the category you "
 "select in step 2. For instance, in the Mails category, the filters "
 "include:"
 msgstr ""
 "I filtri per raffinare i risultati di ricerca variano a seconda della "
-"categoria selezionata al passaggio 2. Ad esempio, nella categoria Posta, i "
+"funzionalità selezionata al passaggio 2. Ad esempio, nella categoria Mail, i "
 "filtri includono:"
 
 #: ../../search/toc.rst:52
-#, fuzzy
 msgid "**Attachment**: Search in emails that have an attachment."
 msgstr "**Allegato**: Cerca nelle email che hanno un allegato."
 
 #: ../../search/toc.rst:53
-#, fuzzy
 msgid "**Flagged**: Search in flagged emails."
-msgstr "**Segnalati**: Cerca nelle email segnalate."
+msgstr "**Contrassegnati**: Cerca tra le email contrassegnate."
 
 #: ../../search/toc.rst:54
-#, fuzzy
 msgid "**Unread**: Search in unread email items."
 msgstr "**Non letti**: Cerca tra gli elementi email non letti."
 
 #: ../../search/toc.rst:55
-#, fuzzy
 msgid "**Include shared folders**: Include shared items in the search."
 msgstr ""
 "**Includi cartelle condivise**: Includi gli elementi condivisi nella ricerca."
 
 #: ../../search/toc.rst:56
-#, fuzzy
 msgid "**Keyword**: Search for specific terms used in the email body."
 msgstr ""
-"**Parola chiave**: Cerca termini specifici utilizzati nel corpo dell'email."
+"**Parole chiave**: Cerca termini specifici utilizzati nel corpo dell'email."
 
 #: ../../search/toc.rst:57
-#, fuzzy
 msgid "**Subject**: Search in email subjects."
 msgstr "**Oggetto**: Ricerca negli oggetti delle email."
 
 #: ../../search/toc.rst:58
-#, fuzzy
 msgid "**From**: Search for emails received from a specific email address."
-msgstr "Cerca email ricevute da un indirizzo email specifico."
+msgstr "**Da**: Cerca tra le email ricevute da un indirizzo email specifico."
 
 #: ../../search/toc.rst:59
-#, fuzzy
 msgid "**To**: Search for emails sent to a specific email address."
-msgstr "**Cerca**: Cerca email inviate a un indirizzo email specifico."
+msgstr "**A**: Cerca tra le email inviate a un indirizzo email specifico."
 
 #: ../../search/toc.rst:60
-#, fuzzy
 msgid ""
 "**Attachment type**: Search for specific attachment formats such as PDF, "
 "text document, images, etc."
 msgstr ""
 "**Tipo di allegato**: cerca formati di allegato specifici come PDF, "
-"documenti di testo, immagini, ecc."
+"documenti di testo, immagini ecc."
 
 #: ../../search/toc.rst:61
-#, fuzzy
 msgid ""
 "**Status of e-mail item**: Search for emails with specific status such as"
 " read, unread, flagged, etc."
 msgstr ""
-"**Stato del messaggio di posta elettronica**: Cerca email con uno stato "
-"specifico come letto, non letto, contrassegnato, ecc."
+"**Stato email**: Cerca email con uno stato specifico come letto, non letto, "
+"contrassegnato, ecc."
 
 #: ../../search/toc.rst:62
-#, fuzzy
 msgid ""
 "**Size smaller than (MB)**: Search for emails with a size smaller than a "
 "specified number in MB."
 msgstr ""
-"**Dimensione inferiore a (MB)**: Cerca email con una dimensione inferiore a "
-"un numero specificato in MB."
+"**Dimensione minore di (MB)**: Cerca email con una dimensione inferiore a un "
+"certo numero di MB."
 
 #: ../../search/toc.rst:63
-#, fuzzy
 msgid ""
 "**Size larger than (MB)**: Search for emails with a size larger than a "
 "specified number in MB."
 msgstr ""
-"**Dimensione maggiore di (MB)**: Cerca email con una dimensione maggiore di "
-"un numero specificato in MB."
+"**Dimensione più grande di (MB)**: Cerca email con una dimensione maggiore "
+"di un numero specificato in MB."
 
 #: ../../search/toc.rst:64
-#, fuzzy
 msgid "**Sent before**: Search for emails sent before the specified date."
-msgstr "**Cercare prima**: Cerca email inviate prima della data specificata."
+msgstr "**Inviato prima**: Cerca email inviate prima della data specificata."
 
 #: ../../search/toc.rst:65
-#, fuzzy
 msgid "**Sent after**: Search for emails sent after the specified date."
-msgstr "**Inviati dopo**: Cerca email inviate dopo la data specificata."
+msgstr "**Inviato dopo**: Cerca email inviate dopo la data specificata."
 
 #: ../../search/toc.rst:66
-#, fuzzy
 msgid "**Sent on**: Search for emails sent exactly on the specified date."
 msgstr "**Inviato il**: Cerca email inviate esattamente nella data specificata."
 
 #: ../../search/toc.rst:67
-#, fuzzy
 msgid "**Tag**: Search for emails or contacts that have a specific tag."
-msgstr "**Tag**: Cerca email o contatti che abbiano un tag specifico."
+msgstr "**Tag**: Cerca email o contatti che abbiano un'etichetta specifica."
 
 #: ../../search/toc.rst:68
-#, fuzzy
 msgid "**Is contained in**: Limit the search to selected folders."
 msgstr "**È contenuto in**: Limita la ricerca alle cartelle selezionate."
 
 #: ../../search/toc.rst:71
-#, fuzzy
 msgid "Advanced Search Syntax"
 msgstr "Sintassi di Ricerca Avanzata"
 
 #: ../../search/toc.rst:73
-#, fuzzy
 msgid ""
 "**Syntax**: You can search for various items such as words, names, phone "
 "numbers, or domain names. However, when conducting content searches, it "
 "is essential to follow certain rules."
 msgstr ""
-"**Sintassi**: È possibile cercare vari elementi come parole, nomi, numeri di "
-"telefono o nomi di dominio. Tuttavia, quando si eseguono ricerche di "
-"contenuto, è essenziale seguire alcune regole."
+"**Sintassi**: Puoi cercare vari elementi come parole, nomi, numeri di "
+"telefono o nomi di dominio. Tuttavia, quando si eseguono ricerche è "
+"essenziale seguire alcune regole."
 
 #: ../../search/toc.rst:75
-#, fuzzy
 msgid ""
 "**Exact Text Match**: When searching for phrases, each word within the "
 "phrase must be an exact match. No spelling variants are allowed. For "
 "instance, a search for \"apple\" will not match with \"apples\"."
 msgstr ""
-"**Corrispondenza Esatta del Testo**: Quando si ricerca una frase, ogni "
-"parola all'interno della frase deve essere una corrispondenza esatta. Non "
-"sono ammesse varianti di ortografia. Ad esempio, una ricerca di \"apple\" "
-"non corrisponderà con \"apples\"."
+"**Corrispondenza Esatta del Testo**: Quando cerchi una frase, ogni parola "
+"all'interno della frase deve essere una corrispondenza esatta. Non sono "
+"ammesse varianti di ortografia. Ad esempio, una ricerca di \"mela\" non "
+"corrisponderà con \"mele\"."
 
 #: ../../search/toc.rst:77
-#, fuzzy
 msgid ""
 "**Case Sensitivity**: Searches are not case-sensitive. \"Cat\", \"cat\", "
 "and \"CAT\" are all treated as the same."
 msgstr ""
-"**Sensibilità ai caratteri**: Le ricerche non sono sensibili alle maiuscole/"
-"minuscole. \"Cat\", \"cat\" e \"CAT\" sono trattati tutti come uguali."
+"**Sensibilità ai caratteri**: Le ricerche non fanno distinzioni tra "
+"maiuscole e minuscole. \"Gatto\", \"gatto\" e \"GATTO\" sono trattati tutti "
+"come uguali."
 
 #: ../../search/toc.rst:79
-#, fuzzy
 msgid ""
 "**Special Characters**: Certain special characters cannot be used in "
 "search text."
@@ -10078,52 +9831,46 @@ msgstr ""
 "utilizzati nel testo di ricerca."
 
 #: ../../search/toc.rst:81
-#, fuzzy
 msgid ""
 "**Wildcards**: The asterisk (*) can be used as a wildcard after a prefix "
 "to broaden search results. For example, searching for \"choc\" retrieves "
 "items with words like \"chocolate\", \"chocoholic\", etc."
 msgstr ""
 "**Jolly**: L'asterisco (\\*) può essere utilizzato come jolly dopo un "
-"prefisso per ampliare i risultati di ricerca. Ad esempio, cercando \"choc\" "
-"vengono recuperati elementi con parole come \"cioccolato\", \"cioccolatomane"
-"\", ecc."
+"prefisso per ampliare i risultati di ricerca. Ad esempio, cercando \"cioc\" "
+"verranno restituiti risultati con parole come \"cioccolato\", "
+"\"cioccolatomane\", ecc."
 
 #: ../../search/toc.rst:83
-#, fuzzy
 msgid ""
 "**Attachments**: System-readable file attachments are also included in "
 "searches. These are files that can be converted to HTML, such as PDF "
 "documents and text files."
 msgstr ""
 "**Allegati**: gli allegati di file leggibili dal sistema sono inclusi anche "
-"nelle ricerche. Si tratta di file che possono essere convertiti in HTML, "
+"nelle ricerche. Si intende quei file che possono essere convertiti in HTML, "
 "come ad esempio documenti PDF e file di testo."
 
 #: ../../search/toc.rst:85
-#, fuzzy
 msgid ""
 "**Contacts in Address Books**: When searching for contacts, the entire "
 "word or number string must be entered. For instance, to search contacts "
 "by email address, the full address as it appears in the contact entry "
 "must be used. It is not possible to search solely by domain."
 msgstr ""
-"**Contatti negli elenchi degli indirizzi**: Quando si cercano contatti, deve "
-"essere inserita l'intera parola o la stringa di numeri. Ad esempio, per "
-"cercare contatti per indirizzo e-mail, deve essere utilizzato l'indirizzo "
-"completo così come appare nella voce del contatto. Non è possibile cercare "
-"solo per dominio."
+"**Contatti nella Rubrica**: Quando si cercano contatti, deve essere inserita "
+"l'intera parola o stringa di numeri. Ad esempio, per cercare contatti per "
+"indirizzo email, deve essere utilizzato l'indirizzo completo così come "
+"appare nella voce del contatto. Non è possibile cercare solo per dominio."
 
 #: ../../search/toc.rst:87
-#, fuzzy
 msgid ""
 "**Search Language Structure**: Conducting content searches slightly "
 "differs from text-match searches or typical word-processing features such"
 " as Find."
 msgstr ""
-"**Struttura di Ricerca Linguistica**: Eseguire ricerche di contenuto "
-"differisce leggermente dalle ricerche di corrispondenza di testo o dalle "
-"funzionalità tipiche di elaborazione di testo come Trova."
+"**Ricerca per Struttura Linguistica**: Eseguire ricerche di contenuto "
+"differisce leggermente dalle ricerche per corrispondenza di testo come Cerca."
 
 #: ../../search/toc.rst:89
 #, fuzzy

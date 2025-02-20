@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-19 15:54+0000\n"
+"PO-Revision-Date: 2025-02-20 16:54+0000\n"
 "Last-Translator: Flaminia Spinelli <flaminia.spinelli@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -4213,47 +4213,39 @@ msgid "Select Calendars."
 msgstr "Seleziona Calendari."
 
 #: ../../calendars/toc.rst:26
-#, fuzzy
 msgid "Under **General**, click on the **Default view** field."
-msgstr "In **Generale**, fare clic sul campo **Visualizzazione predefinita**."
+msgstr "In **Generale**, fai clic sul campo **Visualizzazione predefinita**."
 
 #: ../../calendars/toc.rst:27
-#, fuzzy
 msgid "Select the desired view from the drop-down menu."
-msgstr "Seleziona la vista desiderata dal menu a discesa."
+msgstr "Seleziona la vista desiderata dal menu a tendina."
 
 #: ../../calendars/toc.rst:28 ../../calendars/toc.rst:144
 #: ../../calendars/toc.rst:159 ../../calendars/toc.rst:169
-#, fuzzy
 msgid "Click **SAVE** from the top right corner."
 msgstr "Fai clic su **SALVA** nell'angolo in alto a destra."
 
 #: ../../calendars/toc.rst:30 ../../calendars/toc.rst:45
-#, fuzzy
 msgid "You have these options to choose from:"
 msgstr "Hai queste opzioni tra cui scegliere:"
 
 #: ../../calendars/toc.rst:32
-#, fuzzy
 msgid "Month View: See the entire month's schedule at a glance."
 msgstr ""
-"Vista Mese: Visualizza l'intero programma del mese in un colpo d'occhio."
+"Vista Mese: Visualizza l'intera programmazione del mese in un colpo d'occhio."
 
 #: ../../calendars/toc.rst:33
-#, fuzzy
 msgid "Week View: Focus on a single week's schedule."
 msgstr ""
-"Vista Settimanale: Concentrarsi su programmazione di una singola settimana."
+"Vista Settimanale: per concentrarti sugli impegni di una singola settimana."
 
 #: ../../calendars/toc.rst:34
-#, fuzzy
 msgid "Day View: Detailed view of events for a single day."
 msgstr ""
 "Visualizzazione Giornaliera: Visualizzazione dettagliata degli eventi per un "
 "singolo giorno."
 
 #: ../../calendars/toc.rst:35
-#, fuzzy
 msgid ""
 "Work Week View: Shows only workdays (Monday to Friday – can be changed "
 "from the settings), ideal for work-focused scheduling."
@@ -4263,39 +4255,31 @@ msgstr ""
 "la pianificazione orientata al lavoro."
 
 #: ../../calendars/toc.rst:38
-#, fuzzy
 msgid "Changing Calendar View"
-msgstr "Modifica Vista Calendario"
+msgstr "Modificare la Visualizzazione del Calendario"
 
 #: ../../calendars/toc.rst:40
-#, fuzzy
 msgid "To change the calendar view:"
 msgstr "Per modificare la visualizzazione del calendario:"
 
 #: ../../calendars/toc.rst:43
-#, fuzzy
 msgid "From the top right corner select your desired view."
 msgstr "Dall'angolo superiore destro, seleziona la tua vista desiderata."
 
 #: ../../calendars/toc.rst:47
-#, fuzzy
 msgid "MONTH: See the entire month's schedule at a glance."
 msgstr "MESE: Visualizza l'intero calendario mensile in un colpo d'occhio."
 
 #: ../../calendars/toc.rst:48
-#, fuzzy
 msgid "WEEK: Focus on a single week's schedule."
-msgstr "SETTIMANA: Concentrati sulla pianificazione di una singola settimana."
+msgstr ""
+"SETTIMANA: per concentrarti sulla pianificazione di una singola settimana."
 
 #: ../../calendars/toc.rst:49
-#, fuzzy
 msgid "DAY: Detailed view of events for a single day."
-msgstr ""
-"Visualizzazione Giornaliera: Visualizzazione dettagliata degli eventi per un "
-"singolo giorno."
+msgstr "GIORNO: Visualizzazione dettagliata degli eventi per un singolo giorno."
 
 #: ../../calendars/toc.rst:50
-#, fuzzy
 msgid ""
 "WORK WEEK: Shows only workdays (Monday to Friday – can be changed from "
 "the settings), ideal for work-focused scheduling."
@@ -4305,21 +4289,18 @@ msgstr ""
 "lavoro."
 
 #: ../../calendars/toc.rst:52
-#, fuzzy
 msgid ""
 "This view will revert to the default settings upon reloading the web "
 "client."
 msgstr ""
-"Questa vista tornerà alle impostazioni predefinite al momento del riavvio "
-"del client web."
+"Questa visualizzazione tornerà alle impostazioni predefinite al momento del "
+"riavvio del client web."
 
 #: ../../calendars/toc.rst:55
-#, fuzzy
 msgid "Creating a Calendar"
-msgstr "Creazione di un Calendario"
+msgstr "Creare un Calendario"
 
 #: ../../calendars/toc.rst:57
-#, fuzzy
 msgid ""
 "In |product|, a default calendar is created for you. However, you can "
 "create additional calendars to organize different types of appointments. "
@@ -4327,38 +4308,33 @@ msgid ""
 "events, personal appointments, and company activities, enabling you to "
 "manage each aspect of your schedule efficiently."
 msgstr ""
-"In Carbonio, viene creata automaticamente una carta calendario "
-"predefinita. Tuttavia, puoi creare calendari aggiuntivi per organizzare "
-"tipi diversi di appuntamenti. Ad esempio, puoi creare calendari separati "
-"per eventi relativi al lavoro, appuntamenti personali e attività "
-"aziendali, consentendoti di gestire ogni aspetto della tua pianificazione"
-" in modo efficiente."
+"In Carbonio, un calendario predefinito verrà generato per te. Tuttavia, puoi "
+"sempre creare dei calendari aggiuntivi per organizzare tipi diversi di "
+"appuntamenti. Ad esempio, puoi creare calendari separati per eventi relativi "
+"al lavoro, appuntamenti personali e attività aziendali, consentendoti di "
+"gestire ogni aspetto della tua pianificazione in modo efficiente."
 
 #: ../../calendars/toc.rst:59
-#, fuzzy
 msgid "To create a calendar:"
 msgstr "Per creare un calendario:"
 
 #: ../../calendars/toc.rst:62
-#, fuzzy
 msgid "In the Navigation Panel, right-click on the Calendar."
-msgstr "Nel Pannello di Navigazione, fate clic destro sul Calendario."
+msgstr "Nel Pannello di Navigazione, fai clic destro sul Calendario."
 
 #: ../../calendars/toc.rst:63
-#, fuzzy
 msgid "Select **New calendar** from the drop-down menu. A new window appears."
 msgstr ""
-"Seleziona **Nuovo calendario** dal menu a tendina. Appare una nuova finestra."
+"Seleziona **Nuovo calendario** dal menu a tendina. Apparirà una nuova "
+"finestra."
 
 #: ../../calendars/toc.rst:64
-#, fuzzy
 msgid "Insert a calendar name for your new calendar."
-msgstr "Inserisci il nome del calendario per il tuo nuovo calendario."
+msgstr "Inserisci un nome per il tuo nuovo calendario."
 
 #: ../../calendars/toc.rst:65
-#, fuzzy
 msgid "Set the color of the calendar."
-msgstr "Imposta il colore del calendario."
+msgstr "Impostare il Colore di un Calendario"
 
 #: ../../calendars/toc.rst:66 ../../contacts/toc.rst:93
 #, fuzzy
@@ -4519,170 +4495,146 @@ msgid "Click **Restore calendar** from the drop-down menu."
 msgstr "Fai clic su **Ripristina calendario** nel menu a discesa."
 
 #: ../../calendars/toc.rst:120
-#, fuzzy
 msgid "This calendar will be moved into your calendar list."
 msgstr "Questo calendario sarà spostato nella tua lista dei calendari."
 
 #: ../../calendars/toc.rst:123
-#, fuzzy
 msgid "Viewing Multiple Calendars"
-msgstr "Visualizzazione di Più Calendari"
+msgstr "Visualizzare Più Calendari"
 
 #: ../../calendars/toc.rst:125
-#, fuzzy
 msgid "To view multiple calendars in your timetable:"
-msgstr "Per visualizzare più calendari nella tua tabella oraria:"
+msgstr "Per visualizzare più calendari contemporaneamente:"
 
 #: ../../calendars/toc.rst:128
-#, fuzzy
 msgid ""
 "In the Navigation Panel, click on the calendars you wish to display on "
 "your timetable to toggle their visibility on or off."
 msgstr ""
-"Nel pannello di navigazione, fare clic sui calendari che si desidera "
-"visualizzare nell'orario per attivare o disattivare la loro visibilità."
+"Nel pannello di navigazione, fai clic sui calendari che desideri "
+"visualizzare, per attivarli o disattivarli."
 
 #: ../../calendars/toc.rst:135
-#, fuzzy
 msgid "Setting Start of the Week"
-msgstr "Impostazione Inizio della Settimana"
+msgstr "Impostare l'Inizio della Settimana"
 
 #: ../../calendars/toc.rst:137
-#, fuzzy
 msgid ""
 "The default start of the week is Sunday. However, if you reside in a "
 "region where the week commences with a different day, you can adjust it "
 "from the settings. To modify the start of the week:"
 msgstr ""
 "La data di inizio della settimana predefinito è la domenica. Tuttavia, se "
-"risiedi in una regione in cui la settimana inizia con un giorno diverso, "
-"puoi modificarla nelle impostazioni. Per modificare l'inizio della settimana:"
+"risiedi in un paese in cui la settimana inizia con un giorno diverso, puoi "
+"modificarlo dalle impostazioni. Per modificare l'inizio della settimana:"
 
 #: ../../calendars/toc.rst:141
-#, fuzzy
 msgid "Select **Calendars**."
 msgstr "Seleziona **Calendari**."
 
 #: ../../calendars/toc.rst:142
-#, fuzzy
 msgid "Under **General**, click on the **Start week** on field."
 msgstr ""
-"Nella sezione **Generale**, fare clic sul campo **Inizia la settimana**."
+"Nella sezione **Generale**, fai clic sul campo **La settimana inizia il**."
 
 #: ../../calendars/toc.rst:143
-#, fuzzy
 msgid "Select the desired day from the drop-down menu."
-msgstr "Seleziona il giorno desiderato dal menu a discesa."
+msgstr "Seleziona il giorno desiderato dal menu a tendina."
 
 #: ../../calendars/toc.rst:146
-#, fuzzy
 msgid ""
 "Now, you will observe that the start of the week has been updated "
 "accordingly in your calendar timetable."
 msgstr ""
-"Ora osserverai che l'inizio della settimana è stato aggiornato di "
-"conseguenza nel tuo calendario orario."
+"Ora osserverai che l'inizio della settimana è stato aggiornato nel tuo "
+"calendario."
 
 #: ../../calendars/toc.rst:149
-#, fuzzy
 msgid "Allowing Users to See Your Free/Busy Status"
-msgstr ""
-"Consentire agli utenti di visualizzare il proprio stato di disponibilità"
+msgstr "Mostrare il Proprio Stato Disponibile/Occupato"
 
 #: ../../calendars/toc.rst:151
-#, fuzzy
 msgid ""
 "The free/busy feature enables others to view the scheduled meeting times "
 "on your calendars. By default, this feature is turned on, allowing others"
 " to see your availability. However, you have the option to disable it or "
 "restrict who can access this information."
 msgstr ""
-"La funzione libero/occupato consente ad altri di visualizzare gli orari "
-"delle riunioni pianificate nei calendari. Per impostazione predefinita, "
-"questa funzionalità è attivata, permettendo ad altri di visualizzare la tua "
+"La funzione disponibile/occupato consente ad altri di visualizzare in quali "
+"orari sei impegnato dal calendario. Per impostazione predefinita questa "
+"funzionalità è attivata, cioè permette ad altri di visualizzare la tua "
 "disponibilità. Tuttavia, hai la possibilità di disattivarla o di limitare "
 "chi può accedere a queste informazioni."
 
 #: ../../calendars/toc.rst:154
-#, fuzzy
 msgid "To modify the free/busy visibility settings:"
-msgstr "Per modificare le impostazioni di visibilità libero/occupato:"
+msgstr "Per modificare le impostazioni di visibilità disponibile/occupato:"
 
 #: ../../calendars/toc.rst:158
-#, fuzzy
 msgid ""
 "Under **Permissions**, select the desired option from the Free/Busy list "
 "section."
 msgstr ""
-"Nella sezione **Autorizzazioni**, selezionare l'opzione desiderata dalla "
-"sezione Elenco disponibilità."
+"Nella sezione **Permessi**, seleziona l'opzione desiderata dalla sezione "
+"Libero/Occupato."
 
 #: ../../calendars/toc.rst:162
-#, fuzzy
 msgid "Adding Received Appointments to Your Calendar Automatically"
-msgstr ""
-"Aggiungere gli appuntamenti ricevuti al tuo calendario in modo automatico"
+msgstr "Aggiungere gli Appuntamenti Ricevuti al tuo Calendario in Automatico"
 
 #: ../../calendars/toc.rst:164
-#, fuzzy
 msgid "To automatically add received appointments to your calendar:"
-msgstr "Per aggiungere automaticamente le riunioni ricevute al tuo calendario:"
+msgstr ""
+"Per aggiungere automaticamente le riunioni al tuo calendario le riunione a "
+"cui sei stato invitato:"
 
 #: ../../calendars/toc.rst:168
-#, fuzzy
 msgid ""
 "Under the **General** section, select the checkbox Automatically add "
 "received appointments to the calendar."
 msgstr ""
-"Nella sezione **Generale**, selezionare la casella di controllo Aggiungi "
-"automaticamente gli appuntamenti ricevuti al calendario."
+"Nella sezione **Generale**, selezionare la casella *Aggiungi automaticamente "
+"al calendario gli appuntamenti ricevuti*."
 
 #: ../../calendars/toc.rst:171
-#, fuzzy
 msgid ""
 "Now, if a colleague sends you an invitation for a meeting or appointment,"
 " it will be automatically added to your calendar."
 msgstr ""
 "Ora, se un collega ti invia un invito per una riunione o un appuntamento, "
-"verrà aggiunto automaticamente al tuo calendario."
+"esso verrà aggiunto automaticamente al tuo calendario."
 
 #: ../../calendars/toc.rst:174
-#, fuzzy
 msgid "Working with Shared Calendars"
-msgstr "Utilizzo dei Calendari Condivisi"
+msgstr "Usare i Calendari Condivisi"
 
 #: ../../calendars/toc.rst:176
-#, fuzzy
 msgid ""
 "You can assign privileges to individuals or groups of colleagues using "
 "roles to see to manage your shared calendars."
 msgstr ""
-"Puoi assegnare privilegi a singoli individui o a gruppi di colleghi "
-"utilizzando i ruoli per gestire i calendari condivisi."
+"Puoi assegnare privilegi a singoli utenti o a gruppi di colleghi utilizzando "
+"i ruoli per gestire i calendari condivisi."
 
 #: ../../calendars/toc.rst:178
-#, fuzzy
 msgid "Viewer (can view)"
-msgstr "Visualizzatore (visualizza)"
+msgstr "Visualizzatore (può visualizzare)"
 
 #: ../../calendars/toc.rst:179
-#, fuzzy
 msgid ""
 "Editor (can view, edit, add, and delete but cannot accept or reshare "
 "appointments)"
 msgstr ""
-"Editor (visualizza, modifica, aggiungi, rimuovi e gestisci ma non può "
-"accettare o condividere gli appuntamenti)"
+"Editor (può visualizzare, modificare, aggiungere, rimuovere e gestire ma non "
+"può accettare o condividere gli appuntamenti)"
 
 #: ../../calendars/toc.rst:180
-#, fuzzy
 msgid "Manager (can view, edit, add, delete, accept and reshare appointments)"
 msgstr ""
-"Manager (visualizza, modifica, aggiungi, rimuovi, accetta e condividi "
-"appuntamenti)"
+"Manager (può visualizzare, modificare, aggiungere, rimuovere, accettare e "
+"condividere gli appuntamenti)"
 
 #: ../../calendars/toc.rst:182
-#, fuzzy
 msgid ""
 "Sharing your calendar with colleagues allows them to view or manage your "
 "calendar, which can be incredibly useful, especially for a team. Having a"
@@ -4690,107 +4642,95 @@ msgid ""
 "team members."
 msgstr ""
 "La condivisione del calendario con i colleghi consente loro di visualizzare "
-"o gestire il tuo calendario, il che può essere incredibilmente utile, "
-"soprattutto per un team. Avere un calendario condiviso consente una "
-"coordinazione e collaborazione efficienti tra i membri del team."
+"o gestire il tuo calendario, il che può essere incredibilmente utile "
+"soprattutto in un team. Avere un calendario condiviso tra più persone "
+"consente una coordinazione e collaborazione efficienti."
 
 #: ../../calendars/toc.rst:184
-#, fuzzy
 msgid ""
 "If you set the viewing mode to ‘daily’ by clicking on the appropriate "
 "icon at the top right, you will also have the opportunity to view each "
 "appointment separately, divided into separate columns, for clearer "
 "visibility of each team member’s calendars."
 msgstr ""
-"Se imposti la modalità di visualizzazione su 'giornaliero' facendo clic "
-"sull'icona appropriata in alto a destra, avrai anche la possibilità di "
-"visualizzare ogni appuntamento separatamente, suddiviso in colonne separate, "
-"per una visibilità più chiara dei calendari di ogni membro del team."
+"Se imposti la modalità di visualizzazione 'GIORNO' facendo clic sull'icona "
+"in alto a destra nel calendario, avrai anche la possibilità di visualizzare "
+"ogni appuntamento separatamente, in colonne separate, per una visibilità più "
+"chiara dei calendari di ogni membro del team."
 
 #: ../../calendars/toc.rst:187
-#, fuzzy
 msgid "Sharing Calendars with Your Colleagues"
-msgstr "Condivisione di Calendari con i tuoi Colleghi"
+msgstr "Condividere Calendari con i Colleghi"
 
 #: ../../calendars/toc.rst:189
-#, fuzzy
 msgid "To share your calendar with your colleagues:"
 msgstr "Per condividere il tuo calendario con i tuoi colleghi:"
 
 #: ../../calendars/toc.rst:191 ../../calendars/toc.rst:201
-#, fuzzy
 msgid "Navigate to the **Calendars** section from the left sidebar."
 msgstr "Accedi alla sezione **Calendari** dal menu laterale sinistro."
 
 #: ../../calendars/toc.rst:192 ../../calendars/toc.rst:202
-#, fuzzy
 msgid "Right-click on the calendar you wish to share."
 msgstr ""
-"Clicca con il pulsante destro del mouse sul calendario che desideri "
-"condividere."
+"Clicca con il destro sul calendario che desideri condividere (elenco a "
+"sinistra)."
 
 #: ../../calendars/toc.rst:193
-#, fuzzy
 msgid "From the drop-down menu select **Share Calendar**."
-msgstr "Selezionare **Condividi calendario** dal menu a tendina."
+msgstr ""
+"Seleziona **Modifica le proprietà del calendario** dal menu a tendina, poi "
+"AGGIUNGI CONDIVISIONE."
 
 #: ../../calendars/toc.rst:194 ../../contacts/toc.rst:203
-#, fuzzy
 msgid "From the Share with field, select Internal Users or Groups."
 msgstr "Seleziona Utenti interni o Gruppi dal campo Condividi con."
 
 #: ../../calendars/toc.rst:195
-#, fuzzy
 msgid ""
 "Enter the email addresses of your colleagues with whom you wish to share "
 "the calendar into the **Recipients’ e-mail addresses** field."
 msgstr ""
-"Immettere gli indirizzi e-mail dei colleghi con cui si desidera condividere "
-"il calendario nel campo **Indirizzi e-mail dei destinatari**."
+"Immetti gli indirizzi email dei colleghi con cui vuoi condividere il "
+"calendario nel campo **Indirizzi email dei destinatari**."
 
 #: ../../calendars/toc.rst:196
-#, fuzzy
 msgid "Select the role from the **Role** field."
 msgstr "Seleziona il *ruolo* dal campo **Ruolo**."
 
 #: ../../calendars/toc.rst:197
-#, fuzzy
 msgid "Click the **SHARE CALENDAR** button."
-msgstr "Fai clic sul pulsante **CONDIVIDI CALENDARIO**."
+msgstr "Fai clic sul tasto **CONDIVIDI CALENDARIO**."
 
 #: ../../calendars/toc.rst:199
-#, fuzzy
 msgid ""
 "Alternatively, you can share you are a URL to be able to share your "
 "calendar with your collaborators:"
 msgstr ""
-"In alternativa, puoi condividere un URL per condividere il tuo calendario "
-"con i tuoi collaboratori:"
+"In alternativa, puoi condividere un URL per condividere il calendario con i "
+"tuoi collaboratori:"
 
 #: ../../calendars/toc.rst:203
-#, fuzzy
 msgid ""
 "From the drop-down menu select **Calendar’s access share**. A new window "
 "appears."
 msgstr ""
-"Selezionare **Condivisione di accesso calendario** dal menu a discesa. "
-"Apparirà una nuova finestra."
+"Seleziona **Condivisione accesso calendario** dal menu a tendina. Apparirà "
+"una nuova finestra."
 
 #: ../../calendars/toc.rst:204
-#, fuzzy
 msgid "Select either the **ICS URL** or the **OUTLOOK URL**."
-msgstr "Seleziona **URL ICS** o **URL OUTLOOK**."
+msgstr "Seleziona **URL ICS** oppure **URL OUTLOOK**."
 
 #: ../../calendars/toc.rst:206
-#, fuzzy
 msgid ""
 "The link is copied to your clipboard. You can then send it to your "
 "collaborators via email or message by pasting it, or by using the "
 "keyboard shortcut CTRL+V on Windows or Command+V on macOS."
 msgstr ""
-"Il collegamento viene copiato negli appunti. Puoi quindi inviarlo ai tuoi "
-"collaboratori via e-mail o messaggio incollandolo o utilizzando la "
-"scorciatoia da tastiera CTRL+V su Windows o Comando+V su macOS."
+"Il collegamento viene copiato negli appunti. Potrai quindi inviarlo ai tuoi "
+"collaboratori via email o messaggio incollandolo, o utilizzando la "
+"scorciatoia da tastiera CTRL+V su Windows o Command+V su Mac."
 
 #: ../../calendars/toc.rst:209
 msgid "Find Colleagues' Shared Calendars"
@@ -5142,76 +5082,63 @@ msgid "Sending Files from Your Computer in Chats"
 msgstr "Inviare File dal tuo Computer nelle Chat"
 
 #: ../../chats(wsc)/toc.rst:41 ../../chats/toc.rst:43
-#, fuzzy
 msgid "To send a file saved on your computer using Chats, follow these steps:"
 msgstr ""
-"Per inviare un file salvato sul tuo computer utilizzando Chat, segui questi "
-"passaggi:"
+"Per inviare un file salvato nel tuo computer via Chat, segui questi passaggi:"
 
 #: ../../chats(wsc)/toc.rst:43 ../../chats(wsc)/toc.rst:56
 #: ../../chats(wsc)/toc.rst:173
-#, fuzzy
 msgid "Select the **Chats**  feature from your left sidebar."
-msgstr "Seleziona la funzione di **Chat** dalla barra laterale sinistra."
+msgstr "Seleziona l'icona **Chat** dalla barra laterale sinistra."
 
 #: ../../chats(wsc)/toc.rst:44 ../../chats(wsc)/toc.rst:57
 #: ../../chats/toc.rst:46 ../../chats/toc.rst:59
-#, fuzzy
 msgid "Select the chat in which you want to send the file."
 msgstr "Seleziona la chat in cui desideri inviare il file."
 
 #: ../../chats(wsc)/toc.rst:45 ../../chats(wsc)/toc.rst:58
 #: ../../chats/toc.rst:47 ../../chats/toc.rst:60
-#, fuzzy
 msgid ""
 "Click on the paperclip icon located in the chat box at the bottom of the "
 "page."
 msgstr ""
-"Fai clic sull'icona del fermaglio situata nella casella di chat nella parte "
-"inferiore della pagina."
+"Fai clic sull'icona della graffetta situata nel campo di testo chat nella "
+"parte inferiore della pagina."
 
 #: ../../chats(wsc)/toc.rst:46 ../../chats/toc.rst:48
-#, fuzzy
 msgid "Select **Add from local**. A new window appears."
-msgstr "Seleziona **Aggiungi da locale**. Si apre una nuova finestra."
+msgstr "Seleziona **Aggiungi da locale**. Si aprirà una nuova finestra."
 
 #: ../../chats(wsc)/toc.rst:47 ../../chats/toc.rst:49
-#, fuzzy
 msgid ""
 "Choose the file from your computer by navigating through the opened "
 "window."
-msgstr ""
-"Scegli il file dal tuo computer navigando attraverso la finestra aperta."
+msgstr "Scegli il file dal tuo computer navigando le tue cartelle."
 
 #: ../../chats(wsc)/toc.rst:48 ../../chats/toc.rst:50
-#, fuzzy
 msgid "Click **Open** to attach the file to your message."
-msgstr "Cliccare su **Apri** per allegare il file al messaggio."
+msgstr "Clicca su **Apri** per allegare il file al messaggio."
 
 #: ../../chats(wsc)/toc.rst:51 ../../chats/toc.rst:53
-#, fuzzy
 msgid "Sending Files from |product| Files in Chats"
-msgstr "Inviare file da Carbonio Files nelle chat"
+msgstr "Inviare file da Carbonio Files nelle Chat"
 
 #: ../../chats(wsc)/toc.rst:53 ../../chats/toc.rst:55
-#, fuzzy
 msgid ""
 "You can use Chats to send a file directly from |product| Files to a chat."
 " Here is how:"
 msgstr ""
-"Puoi utilizzare Chats per inviare un file direttamente da Carbonio Files "
-"a un chat. Ecco come:"
+"Puoi utilizzare Chats per inviare un file direttamente da Carbonio Files. "
+"Ecco come:"
 
 #: ../../chats(wsc)/toc.rst:59 ../../chats/toc.rst:61
-#, fuzzy
 msgid "Select **Attach public link from Files**. A new window appears."
 msgstr ""
-"Seleziona **Allega link pubblico da Files**. Si apre una nuova finestra."
+"Seleziona **Allega link pubblico da Files**. Si aprirà una nuova finestra."
 
 #: ../../chats(wsc)/toc.rst:60 ../../chats/toc.rst:62
-#, fuzzy
 msgid "Choose the file by navigating through the opened window."
-msgstr "Scegli il file navigando attraverso la finestra aperta."
+msgstr "Scegli il file navigando tra le tue cartelle Files."
 
 #: ../../chats(wsc)/toc.rst:61
 #, fuzzy
@@ -6207,38 +6134,32 @@ msgstr ""
 "all'interno di File, dove si trova il file che desideri inviare."
 
 #: ../../composing_emails/toc.rst:121
-#, fuzzy
 msgid ""
 "To remove an attachment from the email you are composing, simply click on"
 " the **Remove** button located beneath the attachment."
 msgstr ""
-"Per rimuovere un allegato dalla email che si sta componendo, basta fare clic "
-"sul pulsante **Rimuovi** posizionato sotto l'allegato."
+"Per rimuovere un allegato dall'email che stai componendo, clicca sul tasto "
+"**Rimuovi** posizionato sotto l'allegato."
 
 #: ../../composing_emails/toc.rst:124
-#, fuzzy
 msgid "Send an Email from a Different Account or Persona"
-msgstr "Inviare un'email da un account o persona diverso"
+msgstr "Inviare un'Email da un altro Account o Personalità"
 
 #: ../../composing_emails/toc.rst:126
-#, fuzzy
 msgid ""
 "You can send emails from different personas or email identities while "
 "composing a message."
-msgstr ""
-"È possibile inviare email da diverse persone o identità email mentre si "
-"compone un messaggio."
+msgstr "Puoi inviare email da diverse personalità o identità."
 
 #: ../../composing_emails/toc.rst:128
-#, fuzzy
 msgid ""
 "This feature is available if you have multiple identities or personas set"
 " up."
 msgstr ""
-"Questa funzione è disponibile se si hanno più identità o persone configurate."
+"Questa funzione è disponibile se si hanno più identità o personalità "
+"configurate."
 
 #: ../../composing_emails/toc.rst:130
-#, fuzzy
 msgid ""
 "An email identity refers to having access to multiple accounts on the "
 "|product| web client, allowing you to choose which one to send the email "
@@ -6247,49 +6168,42 @@ msgid ""
 "will see the email address or username aligned with the selected identity"
 " or persona as the sender of the emails."
 msgstr ""
-"Un'identità e-mail si riferisce alla possibilità di accedere a più "
-"account sul client web di Carbonio, consentendo di scegliere da quale "
-"account inviare l'e-mail. In alternativa, se si è configurato un altro "
-"personaggio nelle proprie impostazioni, è possibile inviare messaggi da "
-"esso. In entrambi i casi, il destinatario vedrà l'indirizzo e-mail o lo "
-"username allineati con l'identità o il personaggio selezionato come "
-"mittente delle email."
+"Un'identità email si riferisce alla possibilità di accedere a più account "
+"sul client web di Carbonio, consentendo di scegliere da quale account "
+"inviare l'email. In alternativa, se hai configurato un'altra personalità "
+"nelle tue impostazioni, puoi inviare messaggi da essa. In entrambi i casi, "
+"il destinatario vedrà l'indirizzo email o lo username dell'identità o della "
+"personalità selezionata come mittente delle email."
 
 #: ../../composing_emails/toc.rst:132
-#, fuzzy
 msgid "To switch identities or personas, follow these steps:"
-msgstr "Per commutare identità o personaggi, seguire questi passaggi:"
+msgstr "Per cambiare identità o personalità, segui questi passaggi:"
 
 #: ../../composing_emails/toc.rst:134
-#, fuzzy
 msgid ""
 "Click on your email address located at the **top left corner** of the "
 "composing board."
 msgstr ""
-"Clicca sul tuo indirizzo e-mail posizionato nell'**angolo in alto a "
-"sinistra** della tavolozza di scrittura."
+"Clicca sul tuo indirizzo email nell'**angolo in alto a sinistra** nella "
+"scheda di composizione dell'email."
 
 #: ../../composing_emails/toc.rst:135
-#, fuzzy
 msgid "Choose your preferred identity or persona from the menu."
-msgstr "Scegli la tua identità o persona preferita dal menu."
+msgstr "Scegli l'identità o personalità che preferisci dal menu a tendina."
 
 #: ../../composing_emails/toc.rst:143
-#, fuzzy
 msgid "Request a Read Receipt"
-msgstr "Richiedi ricevuta di lettura"
+msgstr "Richiedere la Conferma di Lettura"
 
 #: ../../composing_emails/toc.rst:145
-#, fuzzy
 msgid ""
 "You can configure your email to automatically request a read receipt when"
 " your colleague opens your sent email."
 msgstr ""
-"È possibile configurare la tua email per richiedere automaticamente una "
-"ricevuta di lettura quando un collega apre la tua email inviata."
+"Puoi configurare la tua email per richiedere automaticamente una conferma di "
+"lettura quando un collega apre la tua email."
 
 #: ../../composing_emails/toc.rst:147
-#, fuzzy
 msgid ""
 "Read receipts are useful to use when you need confirmation that your "
 "email has been received and opened, especially in time-sensitive or "
@@ -6298,34 +6212,29 @@ msgid ""
 "endeavors."
 msgstr ""
 "Le ricevute di lettura sono utili da usare quando si ha bisogno di conferma "
-"che la propria email sia stata ricevuta e aperta, soprattutto nelle "
-"comunicazioni urgenti o importanti, per finalità di responsabilità o in "
-"situazioni in cui monitorare l'engagement è cruciale, come ad esempio nelle "
-"attività di vendita o marketing."
+"che la propria email sia stata aperta e letta, soprattutto nelle "
+"comunicazioni urgenti o importanti, a fini di responsabilità o in situazioni "
+"in cui monitorare l'engagement è cruciale, come ad esempio nelle attività di "
+"vendita o marketing."
 
 #: ../../composing_emails/toc.rst:149
-#, fuzzy
 msgid "To request a read receipt while composing an email:"
 msgstr ""
-"Per richiedere una ricevuta di lettura durante la creazione di un messaggio "
-"di posta elettronica:"
+"Per richiedere una ricevuta di lettura durante la creazione di un'email:"
 
 #: ../../composing_emails/toc.rst:151 ../../composing_emails/toc.rst:167
-#, fuzzy
 msgid ""
 "Click on the **three vertical dots** located within the composing board "
 "at the top right corner."
 msgstr ""
-"Fare clic sui **tre punti verticali** posizionati all'interno della palette "
-"di composizione in alto a destra."
+"Fai clic sui **tre punti verticali** posizionati in alto a destra nella "
+"scheda di composizione."
 
 #: ../../composing_emails/toc.rst:152
-#, fuzzy
 msgid "Select *Request read receipt*."
-msgstr "Seleziona *Richiedi ricevuta di lettura*."
+msgstr "Seleziona *Richiedi conferma di lettura*."
 
 #: ../../composing_emails/toc.rst:159
-#, fuzzy
 msgid ""
 "Please note that, in case you receive an email with a read receipt you "
 "can choose between **Do not notify** or **Notify** options, so that the "
@@ -6333,57 +6242,49 @@ msgid ""
 "clicking *x*, the pop up banner will reappear the next time you open the "
 "same email."
 msgstr ""
-"Si prega di notare che, in caso di ricezione di un'e-mail con un "
-"riconoscimento di lettura, si possono scegliere le opzioni **Non notificare**"
-" o **Notificare**, in modo che la scheda non riapparirà in futuro. Se si "
-"chiude semplicemente la scheda facendo clic su *x*, il banner pop-up "
-"riapparirà la prossima volta che si apre la stessa e-mail."
+"Tieni presente che, in caso di ricezione di un'email che richiede una "
+"conferma di lettura, si possono sempre scegliere le opzioni **Non "
+"notificare** o **Notificare**, che fanno in modo che la scheda non riappaia "
+"più in futuro. Se chiudi semplicemente la scheda facendo clic su *x*, il "
+"banner pop-up riapparirà la prossima volta che si apri la stessa email."
 
 #: ../../composing_emails/toc.rst:163
-#, fuzzy
 msgid "Mark an Email as Important"
-msgstr "Contrassegna un messaggio di posta elettronica come importante,"
+msgstr "Contrassegna un'Email come Importante"
 
 #: ../../composing_emails/toc.rst:165
-#, fuzzy
 msgid ""
 "To mark the email, you are composing for your colleague as important, "
 "follow these steps:"
 msgstr ""
-"Per segnalare come importante l'email che stai scrivendo per il tuo collega, "
-"segui questi passaggi:"
+"Per segnalare come importante l'email che stai scrivendo, segui questi "
+"passaggi:"
 
 #: ../../composing_emails/toc.rst:168
-#, fuzzy
 msgid "Choose Mark as important."
-msgstr "Segna Mark come importante."
+msgstr "Seleziona Contrassegna come importante."
 
 #: ../../composing_emails/toc.rst:170
-#, fuzzy
 msgid ""
 "Important emails will be indicated by a red upward arrow in front of the "
 "subject line within your colleagues' web client."
 msgstr ""
-"Le email importanti saranno indicate da una freccia rossa verso l'alto "
-"davanti alla linea dell'oggetto all'interno del client web dei tuoi colleghi."
+"Le email importanti saranno indicate da una freccia rossa verso l'alto nella "
+"riga dell'oggetto, quando il destinatario riceve l'email."
 
 #: ../../composing_emails/toc.rst:173
-#, fuzzy
 msgid "Save an Email as a Draft"
-msgstr "Salva email come Bozza"
+msgstr "Salvare un'Email come Bozza"
 
 #: ../../composing_emails/toc.rst:175
-#, fuzzy
 msgid ""
 "While composing an email, if you need to send it later or finish it in "
 "the future, you can save it as a draft by following these steps:"
 msgstr ""
-"Durante la stesura di un messaggio e-mail, se si desidera inviarlo in "
-"seguito o completarlo in futuro, è possibile salvarlo come bozza seguendo "
-"questi passaggi:"
+"Durante la stesura di un'email, se desideri inviarla in seguito o "
+"completarla in futuro puoi salvarlo come bozza seguendo questi passaggi:"
 
 #: ../../composing_emails/toc.rst:177
-#, fuzzy
 msgid ""
 "Click on the \"**x**\" button located at the top right corner of the "
 "composing board."
@@ -6392,72 +6293,62 @@ msgstr ""
 "scheda di composizione."
 
 #: ../../composing_emails/toc.rst:178
-#, fuzzy
 msgid "A new window will open, then click on the **SAVE DRAFT** button."
-msgstr "Si aprirà una nuova finestra, fare clic sul pulsante **SALVA BOZZA**."
+msgstr "Si aprirà una nuova finestra popup, fai clic sul tasto **SALVA BOZZA**."
 
 #: ../../composing_emails/toc.rst:179
-#, fuzzy
 msgid ""
 "Your email will be saved in the **Draft** folder accessible from your "
 "navigation panel."
 msgstr ""
-"La tua email sarà salvata nella cartella **Bozza**, accessibile dal tuo "
+"La tua email sarà salvata nella cartella **Bozze**, accessibile dal tuo "
 "pannello di navigazione."
 
 #: ../../composing_emails/toc.rst:183
-#, fuzzy
 msgid "Send a Drafted Email"
-msgstr "Invia bozza di email"
+msgstr "Inviare un'Email in Bozza"
 
 #: ../../composing_emails/toc.rst:185
-#, fuzzy
 msgid ""
 "Drafted emails are accessible from the Draft folder. Here is how you can "
 "access and send them:"
 msgstr ""
-"Le e-mail bozzate sono accessibili dalla cartella Bozze. Ecco come puoi "
+"Le email iniziate sono accessibili dalla cartella Bozze. Ecco come puoi "
 "accedere e inviarle:"
 
 #: ../../composing_emails/toc.rst:187
-#, fuzzy
 msgid "Click on the Draft folder in the navigation panel."
 msgstr "Clicca sulla cartella Bozze nel pannello di navigazione."
 
 #: ../../composing_emails/toc.rst:188
-#, fuzzy
 msgid "Locate your desired email in the main panel."
-msgstr "Localizza la tua email desiderata nel pannello principale."
+msgstr "Localizza la tua email dall'elenco."
 
 #: ../../composing_emails/toc.rst:189
-#, fuzzy
 msgid ""
 "To edit the email before sending it, double-click on it. Alternatively, "
 "you can click on it once to review it from the right side of the main "
 "panel."
 msgstr ""
-"Per modificare l'e-mail prima di inviarla, fare doppio clic su di essa. In "
-"alternativa, è possibile fare clic su di essa una volta per esaminarla dal "
-"lato destro del pannello principale."
+"Per modificare l'email prima di inviarla, fai doppio clic su di essa. In "
+"alternativa, puoi fare clic su di essa una volta per esaminarla in anteprima "
+"nel lato destro del pannello principale."
 
 #: ../../composing_emails/toc.rst:190
-#, fuzzy
 msgid ""
 "To send the email, simply click on the send button located at the top "
 "right corner of the main panel."
 msgstr ""
-"Per inviare l'email, fare clic sul pulsante Invia situato nell'angolo "
-"superiore destro del pannello principale."
+"Per inviare l'email, fai clic sul tasto **Invia** nell'angolo superiore "
+"destro del pannello principale."
 
 #: ../../composing_emails/toc.rst:197
-#, fuzzy
 msgid "Replying to an Email"
-msgstr "Rispondendo a un E-mail"
+msgstr "Rispondere a un'Email"
 
 #: ../../composing_emails/toc.rst:199
-#, fuzzy
 msgid "To reply to an email, follow these steps:"
-msgstr "Per rispondere a un'e-mail, segui questi passaggi:"
+msgstr "Per rispondere a un'email, segui questi passaggi:"
 
 #: ../../composing_emails/toc.rst:201 ../../composing_emails/toc.rst:221
 #: ../../composing_emails/toc.rst:232
@@ -8116,39 +8007,33 @@ msgid "Complete composing your email and click **SEND**."
 msgstr "Completa la composizione della tua email e clicca su **INVIA**."
 
 #: ../../files/toc.rst:345
-#, fuzzy
 msgid "Sending an Email with a Link to a File"
-msgstr "Inviare un'e-mail con un collegamento a un file"
+msgstr "Inviare un'Email con un Link a Files"
 
 #: ../../files/toc.rst:347
-#, fuzzy
 msgid ""
 "Instead of sending the file as an attachment, you can opt to send an "
 "email with a link to a file stored in your Files. This can be "
 "particularly useful, especially for large files."
 msgstr ""
-"In alternativa all'invio del file come allegato, puoi scegliere di inviare "
-"un'email con un collegamento a un file archiviato nella tua cartella File. "
-"Ciò può essere particolarmente utile, specialmente per i file di grandi "
-"dimensioni."
+"In alternativa all'invio dei file come allegati, puoi scegliere di inviare "
+"un'email con un collegamento a un file archiviato nella tua cartella Files. "
+"Ciò può essere particolarmente utile per i file di grandi dimensioni."
 
 #: ../../files/toc.rst:349
-#, fuzzy
 msgid ""
 "However, the procedure differs for colleagues who have accounts on the "
 "same system as you and for external users with no account on the system."
 msgstr ""
-"Tuttavia, la procedura differisce per i colleghi che hanno account nello "
-"stesso sistema di tua pertinenza e per gli utenti esterni che non hanno "
-"account sul sistema."
+"Tuttavia, la procedura sarà diversa per i colleghi che hanno un account nel "
+"tuo stesso sistema per gli utenti esterni, che non hanno un account su "
+"Carbonio."
 
 #: ../../files/toc.rst:351
-#, fuzzy
 msgid "To send the link to your colleagues:"
-msgstr "Per inviare il collegamento ai tuoi colleghi:"
+msgstr "Per inviare il collegamento Files ai tuoi colleghi:"
 
 #: ../../files/toc.rst:356 ../../files/toc.rst:367
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, you will find three tabs. Click "
 "**Sharing**."
@@ -8157,18 +8042,16 @@ msgstr ""
 "**Condivisione**."
 
 #: ../../files/toc.rst:357 ../../files/toc.rst:439
-#, fuzzy
 msgid ""
 "Under the **Collaboration links** section, click on the **GENERATE LINK**"
 " button next to either **Read and Share** or **Write and Share** "
 "depending on the privileges you want to grant to the recipient."
 msgstr ""
-"Nella sezione **Collegamenti di collaborazione**, fare clic sul pulsante **"
-"GENERATE LINK** accanto a **Leggi e condividi** o **Scrivi e condividi** a "
-"seconda dei privilegi che si desidera concedere al destinatario."
+"Nella sezione **Link per la collaborazione**, fai clic sul pulsante **GENERA "
+"LINK** accanto a **Lettura e condivisione** o **Scrittura e condivisione** a "
+"seconda dei privilegi che vuoi concedere al destinatario."
 
 #: ../../files/toc.rst:358 ../../files/toc.rst:371 ../../files/toc.rst:455
-#, fuzzy
 msgid ""
 "Copy the generated link by clicking on it. The link will be saved to your"
 " clipboard and can be pasted anywhere by right-clicking and selecting "
@@ -8177,50 +8060,42 @@ msgid ""
 msgstr ""
 "Copia il collegamento generato facendo clic su di esso. Il collegamento "
 "verrà salvato negli appunti e potrà essere incollato in qualsiasi posizione "
-"facendo clic con il pulsante destro del mouse e selezionando Incolla o "
-"utilizzando la scorciatoia da tastiera CTRL+V in Windows o Command+V in "
-"macOS."
+"facendo clic con il pulsante destro del mouse e selezionando Incolla, o "
+"utilizzando la scorciatoia da tastiera CTRL+V in Windows o Command+V in Mac."
 
 #: ../../files/toc.rst:360 ../../files/toc.rst:373
-#, fuzzy
 msgid ""
 "You can send this link while composing a new email and include it inside "
 "the message."
-msgstr ""
-"Puoi inviare questo link mentre compili una nuova email e includerlo "
-"all'interno del messaggio."
+msgstr "Puoi incollare questo link in una nuova email."
 
 #: ../../files/toc.rst:362
-#, fuzzy
 msgid "To send the link to external collaborators:"
-msgstr "Per inviare il collegamento ai collaboratori esterni:"
+msgstr "Per inviare il collegamento a collaboratori esterni:"
 
 #: ../../files/toc.rst:368 ../../files/toc.rst:451
-#, fuzzy
 msgid ""
 "Under the **Public download links** section, click on the **ADD LINK** "
 "button."
 msgstr ""
-"Nella sezione **Collegamenti di download pubblico**, clicca sul pulsante **"
-"AGGIUNGI COLLEGAMENTO**."
+"Nella sezione **Link pubblico per il download**, clicca sul tasto **AGGIUNGI "
+"LINK**."
 
 #: ../../files/toc.rst:369 ../../files/toc.rst:452
-#, fuzzy
 msgid "Insert a description for the link and an expiration date."
-msgstr "Inserisci una descrizione per il collegamento e una data di scadenza."
+msgstr ""
+"Se lo desideri, inserisci una descrizione per il collegamento e una data di "
+"scadenza."
 
 #: ../../files/toc.rst:370 ../../files/toc.rst:453
-#, fuzzy
 msgid "Click the **GENERATE LINK** button on the right."
-msgstr "Fai clic sul pulsante **GENERA LINK** a destra."
+msgstr "Fai clic sul tasto **GENERA LINK** a destra."
 
 #: ../../files/toc.rst:376
-#, fuzzy
 msgid "Sharing Files and Folders"
-msgstr "Condivisione di file e cartelle"
+msgstr "Condividere File e Cartelle"
 
 #: ../../files/toc.rst:378
-#, fuzzy
 msgid ""
 "One of the most important and useful features of Files is its sharing "
 "capabilities. Sharing allows you to grant others access to files and "
@@ -8229,18 +8104,16 @@ msgid ""
 "or decline the invitation."
 msgstr ""
 "Una delle funzionalità più importanti e utili di Files è la sua capacità di "
-"condivisione. La condivisione ti consente di concedere ad altri l'accesso a "
-"file e cartelle. Puoi specificare quali elementi condividere e il livello di "
-"accesso concessa. Quando inviti un utente a condividere, quest'ultimo ha la "
-"possibilità di accettare o rifiutare l'invito."
+"condivisione. La condivisione ti consente di dare ad altri l'accesso a file "
+"e cartelle. Puoi specificare quali elementi condividere e il livello di "
+"accesso concesso. Quando inviti una condivisione a un utente, quest'ultimo "
+"ha la possibilità di accettare o rifiutare l'invito."
 
 #: ../../files/toc.rst:384
-#, fuzzy
 msgid "To manage sharing properties of a file or folder:"
 msgstr "Per gestire le proprietà di condivisione di un file o una cartella:"
 
 #: ../../files/toc.rst:387
-#, fuzzy
 msgid "Click on the folder or file you want to share."
 msgstr "Clicca sulla cartella o sul file che desideri condividere."
 
@@ -8377,114 +8250,94 @@ msgid "Removing Collaborators from a File / Folder"
 msgstr "Rimozione di Collaboratori da un File / Cartella"
 
 #: ../../files/toc.rst:427
-#, fuzzy
 msgid ""
 "In the Collaborators section, hover your mouse cursor over the name of "
 "the colleague. Small buttons will appear next to their name."
 msgstr ""
-"Nella sezione Collaboratori, posiziona il cursore del mouse sul nome del "
-"collega. Compariranno piccoli pulsanti accanto al loro nome."
+"Nella sezione Collaboratori, vedrai i nomi dei colleghi con piccoli pulsanti "
+"accanto."
 
 #: ../../files/toc.rst:428
-#, fuzzy
 msgid "Click on the **x** button to remove them from the list."
-msgstr "Fai clic sul pulsante **x** per rimuoverli dall'elenco."
+msgstr "Fai clic sul pulsante **x** per rimuovere una persona dall'elenco."
 
 #: ../../files/toc.rst:431
-#, fuzzy
 msgid "Generating Collaboration Links for Colleagues"
-msgstr "Generazione di Collegamenti di Collaborazione per Colleghi"
+msgstr "Generare Link per la Collaborazione per i Colleghi"
 
 #: ../../files/toc.rst:433
-#, fuzzy
 msgid "To generate a collaboration link for your colleagues:"
-msgstr "Per generare un collegamento di collaborazione per i tuoi colleghi:"
+msgstr "Per generare un link per la collaborazione per i tuoi colleghi:"
 
 #: ../../files/toc.rst:437 ../../files/toc.rst:449 ../../files/toc.rst:467
 #: ../../files/toc.rst:479
-#, fuzzy
 msgid "Navigate to the file or folder and click on it."
-msgstr "Spostati sul file o sulla cartella e fai clic su di esso."
+msgstr ""
+"Spostati sul file o sulla cartella da condividere e fai clic su di esso."
 
 #: ../../files/toc.rst:441
-#, fuzzy
 msgid ""
 "You can copy the generated link by clicking on it. The link will be saved"
 " to your clipboard and can be pasted anywhere by right-clicking and "
 "selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows "
 "or Command+V on macOS."
 msgstr ""
-"Copia il collegamento generato facendo clic su di esso. Il collegamento "
-"verrà salvato negli appunti e potrà essere incollato in qualsiasi posizione "
-"facendo clic con il pulsante destro del mouse e selezionando Incolla o "
-"utilizzando la scorciatoia da tastiera CTRL+V in Windows o Command+V in "
-"macOS."
+"Copia il link generato facendo clic su di esso. Il collegamento verrà "
+"salvato negli appunti e potrà essere incollato facendo clic con il tasto "
+"destro del mouse e selezionando Incolla, o utilizzando la scorciatoia da "
+"tastiera CTRL+V in Windows o Command+V in Mac."
 
 #: ../../files/toc.rst:444
-#, fuzzy
 msgid "Generating Public Download Links for External Users"
-msgstr "Generazione di Collegamenti di Download Pubblici per Utenti Esterni"
+msgstr "Generare Link Pubblici per il Download per Utenti Esterni"
 
 #: ../../files/toc.rst:446
-#, fuzzy
 msgid "To generate a sharing link external user:"
-msgstr "Per generare un collegamento di condivisione esterno:"
+msgstr "Per generare un link di condivisione esterno:"
 
 #: ../../files/toc.rst:462
-#, fuzzy
 msgid "Extending the Expiration Date of a Public Access Link"
-msgstr ""
-"Estensione della Data di Scadenza di un Collegamento di Accesso Pubblico"
+msgstr "Estendere la Data di Scadenza di un Link Pubblico"
 
 #: ../../files/toc.rst:464
-#, fuzzy
 msgid "To extend the expiration date for a public access link:"
-msgstr ""
-"Per estendere la data di scadenza per un collegamento di accesso pubblico:"
+msgstr "Per estendere la data di scadenza per un link di download pubblico:"
 
 #: ../../files/toc.rst:469
-#, fuzzy
 msgid "Under the **Public download links** section, click on the **EDIT** button."
 msgstr ""
-"Nella sezione **Collegamenti di download pubblici**, fare clic sul pulsante "
+"Nella sezione **Link pubblico per il download**, fai clic sul tasto "
 "**MODIFICA**."
 
 #: ../../files/toc.rst:470
-#, fuzzy
 msgid "Edit the expiration date."
 msgstr "Modifica la data di scadenza."
 
 #: ../../files/toc.rst:471
-#, fuzzy
 msgid "Click the **EDIT LINK** button on the right."
-msgstr "Clicca sul pulsante **MODIFICA COLLEGAMENTO** sulla destra."
+msgstr "Clicca sul pulsante **MODIFICA** sulla destra."
 
 #: ../../files/toc.rst:474
-#, fuzzy
 msgid "Revoking Public Access Links"
-msgstr "Revoca dei Collegamenti di Accesso Pubblico"
+msgstr "Revocare Link Pubblici per il Download"
 
 #: ../../files/toc.rst:476
-#, fuzzy
 msgid "To revoke a public access link:"
-msgstr "Per revocare un collegamento di accesso pubblico:"
+msgstr "Per revocare un link di download pubblico:"
 
 #: ../../files/toc.rst:481
-#, fuzzy
 msgid ""
 "Under the **Public download links** section, click on the **REVOKE** "
 "button."
 msgstr ""
-"Nella sezione **Collegamenti di download pubblici**, fare clic sul pulsante "
-"**REVOCARE**."
+"Nella sezione **Link pubblici per il download**, fai clic sul tasto "
+"**REVOCA**."
 
 #: ../../files/toc.rst:485
-#, fuzzy
 msgid "Exceeding Files quota limit"
-msgstr "Superamento del limite quote dei file"
+msgstr "Superare la Quota Limite di Files"
 
 #: ../../files/toc.rst:487
-#, fuzzy
 msgid ""
 "If you overcome the quota limit for **Files**, documents will be opened "
 "in *read-only mode*: this will also be enforced by a label that appears "
@@ -8498,25 +8351,22 @@ msgstr ""
 "in modalità *sola lettura*: ciò verrà anche evidenziato da un'etichetta che "
 "appare nella parte inferiore del documento aperto. Questo comportamento si "
 "applica anche ai documenti condivisi: se il documento è aperto da un altro "
-"utente che ha accesso in scrittura sul tuo documento, l'utente secondario "
-"visualizzerà anche l'etichetta *Sola lettura* nella parte inferiore del "
-"documento e non sarà in grado di salvare le modifiche apportate al documento."
+"utente che ha accesso in scrittura, anche l'utente secondario visualizzerà "
+"l'etichetta *Sola lettura* nella parte inferiore del documento e non sarà in "
+"grado di salvare le modifiche apportate al documento."
 
 #: ../../files/toc.rst:495
-#, fuzzy
 msgid ""
 "For the **Files** quota limitation, you should contact your system "
 "administrator."
 msgstr ""
-"Per il limite di quota dei file, contattare l'amministratore di sistema."
+"Per il limite di quota di Files, contatta il tuo amministratore di sistema."
 
 #: ../../get_started/toc.rst:7
-#, fuzzy
 msgid "Getting Started"
-msgstr "Inizia ad usare Carbonio"
+msgstr "Iniziare ad Usare Carbonio"
 
 #: ../../get_started/toc.rst:9
-#, fuzzy
 msgid ""
 "In this section, we are going to explore the essential steps for signing "
 "in to your |product| web client. Properly signing in is the first step "
@@ -8527,31 +8377,27 @@ msgid ""
 "securely, recover forgotten passwords, change your login credentials, and"
 " other configurations."
 msgstr ""
-"In questa sezione, esploreremo i passaggi essenziali per accedere al "
-"client web di Carbonio. L'accesso corretto è il primo passo verso "
-"l'accesso alla tua casella di posta elettronica e l'utilizzo delle varie "
-"funzionalità offerte dalla piattaforma. Copriremo tutto, dall'accesso "
-"all'indirizzo webmail alla navigazione dell'autenticazione a due fattori "
-"(2FA) e all'utilizzo della funzionalità SAML. Inoltre, discuteremo come "
-"effettuare la disconnessione in modo sicuro, recuperare le password "
-"dimenticate, modificare le credenziali di accesso e altre configurazioni."
+"In questa sezione, vedrai i passaggi essenziali per accedere al client web "
+"di Carbonio. L'accesso corretto è il primo passo per l'utilizzo della tua "
+"casella di posta e delle varie funzionalità offerte dalla piattaforma. "
+"Copriremo tutto, dall'accesso all'autenticazione a due fattori (2FA) e "
+"l'utilizzo della funzionalità SAML. Inoltre scoprirai come effettuare la "
+"disconnessione in modo sicuro, come recuperare le password dimenticate, "
+"modificare le credenziali di accesso e altre configurazioni."
 
 #: ../../get_started/toc.rst:12
-#, fuzzy
 msgid "Signing In"
-msgstr "Accedi"
+msgstr "Accedere"
 
 #: ../../get_started/toc.rst:14
-#, fuzzy
 msgid ""
 "To access your |product| web client, the initial step is to sign in. This"
 " can be easily accomplished by navigating to your company's webmail "
 "address via your browser. To do so, you can simply follow these steps:"
 msgstr ""
 "Per accedere al client web di Carbonio, il primo passo è effettuare "
-"l'accesso. Ciò può essere facilmente fatto accedendo all'indirizzo "
-"webmail della propria azienda tramite il browser. Per far ciò, è "
-"sufficiente seguire questi passaggi:"
+"l'accesso. Per fare ciò, accedi all'indirizzo webmail della tua azienda "
+"tramite il browser. Segui questi passaggi:"
 
 #: ../../get_started/toc.rst:16
 #, fuzzy
@@ -8722,116 +8568,95 @@ msgid "> Click **LOGIN**."
 msgstr "Fai clic su **ENTRA**."
 
 #: ../../get_started/toc.rst:60
-#, fuzzy
 msgid "Setting Up Two-factor Auth (2FA)"
-msgstr "Configurazione dell'autenticazione a due fattori (2FA)"
+msgstr "Configurare l'Autenticazione a Due Fattori (2FA)"
 
 #: ../../get_started/toc.rst:63
-#, fuzzy
 msgid ""
 "If you are not forced to use 2FA on your login prompts, you can manually "
 "set it up via your web client settings, if your system administrator gave"
 " you the proper permission. By following these steps, you will enhance "
 "the security of your |product| webmail account."
 msgstr ""
-"Se non è necessario utilizzare 2FA sui prompt di accesso, è possibile "
-"configurarlo manualmente tramite le impostazioni del client web, se "
-"l'amministratore di sistema ha concesso i permessi appropriati. Seguendo "
-"questi passaggi, sarà possibile增are la sicurezza dell'account di posta "
-"elettronica web di Carbonio."
+"Se il 2FA non si avvia automaticamente nella pagina di login, puoi "
+"configurarlo manualmente tramite le impostazioni del client web, purché "
+"l'amministratore di sistema abbia concesso i permessi necessari. Seguendo "
+"questi passaggi potrai aumentare la sicurezza del tuo account di posta "
+"elettronica."
 
 #: ../../get_started/toc.rst:65
-#, fuzzy
 msgid "Accessing Settings:"
-msgstr "Accedere alle Impostazioni:"
+msgstr "Per accedere alle impostazioni:"
 
 #: ../../get_started/toc.rst:67
-#, fuzzy
 msgid ""
 "Click on the **gear icon** located in the left sidebar of your webmail "
 "interface."
-msgstr ""
-"Cliccare sull'icona dell'ingranaggio posizionata nella barra laterale "
-"sinistra dell'interfaccia Webmail."
+msgstr "Clicca sull'icona dell'ingranaggio nella barra laterale sinistra."
 
 #: ../../get_started/toc.rst:68
-#, fuzzy
 msgid "Navigate to the **Auth** section."
-msgstr "Vai alla sezione **Autenticazione**."
+msgstr "Vai alla sezione **Auth** (Autenticazione)."
 
 #: ../../get_started/toc.rst:70
-#, fuzzy
 msgid "Creating an OTP Label:"
-msgstr "Creazione dell'etichetta OTP:"
+msgstr "Per creare un'autenticazione OTP:"
 
 #: ../../get_started/toc.rst:72
-#, fuzzy
 msgid "In the Auth section, click on **OTP Authentication**."
-msgstr "Nella sezione Auth, fare clic su **Autenticazione OTP**."
+msgstr "Nella sezione Auth, fai clic su **Autenticazione OTP**."
 
 #: ../../get_started/toc.rst:73
-#, fuzzy
 msgid "Click the **NEW OTP** + button."
-msgstr "Fare clic sul pulsante **NUOVO OTP** +."
+msgstr "Fai clic sul tasto **NUOVO OTP** +."
 
 #: ../../get_started/toc.rst:74
-#, fuzzy
 msgid "Insert a **label** to help you remember this OTP (e.g., “mySamsungPhone”)."
 msgstr ""
-"Inserisci un **etichetta** per aiutarti a ricordare questo OTP (ad esempio, "
-"“ilMioTelefonoSamsung”)."
+"Inserisci un **Etichetta OTP** per aiutarti a ricordare a cosa è associato "
+"questo OTP (ad esempio, “ilMioTelefonoSamsung”)."
 
 #: ../../get_started/toc.rst:75
-#, fuzzy
 msgid "Hit the CREATE PASSWORD button."
 msgstr "Premi il pulsante CREA PASSWORD."
 
 #: ../../get_started/toc.rst:77
-#, fuzzy
 msgid "Install Google Authenticator:"
-msgstr "Installa Google Authenticator:"
+msgstr "Per installare Google Authenticator:"
 
 #: ../../get_started/toc.rst:79
-#, fuzzy
 msgid ""
 "Install the **Google Authenticator app** on your mobile device (available"
 " on both Android and iOS)."
 msgstr ""
 "Installa l'**app Google Authenticator** sul tuo dispositivo mobile ("
-"disponibile su entrambi Android e iOS)."
+"disponibile sia per Android che per iOS)."
 
 #: ../../get_started/toc.rst:80
-#, fuzzy
 msgid "Open the app and press the “+” button in the bottom right corner."
 msgstr "Apri l'app e premi il pulsante \"+\" nell'angolo in basso a destra."
 
 #: ../../get_started/toc.rst:84
-#, fuzzy
 msgid "Use the app to **scan the QR code** displayed during the setup process."
 msgstr ""
 "Utilizza l'app per **scansionare il codice QR** visualizzato durante la "
 "procedura di setup."
 
 #: ../../get_started/toc.rst:85
-#, fuzzy
 msgid ""
 "This creates an instance in the app that generates a **temporary code** "
 "that updates every 30 seconds."
 msgstr ""
-"Ciò crea un'istanza nell'app che genera un codice temporaneo che si aggiorna "
-"ogni 30 secondi."
+"Ciò crea un'istanza nell'app che genera un codice temporaneo, che si "
+"aggiorna ogni 30 secondi."
 
 #: ../../get_started/toc.rst:89
-#, fuzzy
 msgid "The next time you log in to your |product| webmail, follow these steps:"
-msgstr ""
-"La prossima volta che si accede a Carbonio webmail, seguire questi "
-"passaggi:"
+msgstr "La prossima volta che accedi a Carbonio webmail, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:97
-#, fuzzy
 msgid "> Click **LOGIN**.."
-msgstr "> Fai clic su **ENTRA**.."
+msgstr "Fai clic su **LOGIN**."
 
 #: ../../get_started/toc.rst:101
 #, fuzzy
@@ -9873,7 +9698,6 @@ msgstr ""
 "differisce leggermente dalle ricerche per corrispondenza di testo come Cerca."
 
 #: ../../search/toc.rst:89
-#, fuzzy
 msgid ""
 "**Keywords**: If you know where to search for your item, you can enter "
 "keywords followed by a colon and the search item in the search text box. "
@@ -9881,15 +9705,13 @@ msgid ""
 msgstr ""
 "**Parole chiave**: Se sai dove cercare l'elemento, puoi inserire le parole "
 "chiave seguite da due punti e l'elemento di ricerca nella casella di testo "
-"di ricerca. Ad esempio, \"in:posta in arrivo\"."
+"di ricerca. Ad esempio \"in:In arrivo\"."
 
 #: ../../search/toc.rst:91
-#, fuzzy
 msgid "**Options:**"
 msgstr "**Opzioni:**"
 
 #: ../../search/toc.rst:93
-#, fuzzy
 msgid ""
 "**Content**: Specifies text that must be present in the message. Example:"
 " content:important."
@@ -9898,48 +9720,42 @@ msgstr ""
 "Esempio: contenuto:importante."
 
 #: ../../search/toc.rst:94
-#, fuzzy
 msgid ""
 "**From**: Specifies a sender's name or email address. Example: "
 "from:\"john.doe\"."
 msgstr ""
 "**Da**: Specifica il nome o l'indirizzo email del mittente. Esempio: da:"
-"\"john.doe\"."
+"\"mario.rossi\"."
 
 #: ../../search/toc.rst:95
-#, fuzzy
 msgid ""
 "**To**: Similar to \"From:\", but for recipients in the To: header. "
 "Example: to:\"jane.smith\"."
 msgstr ""
 "**A**: Simile a \"Da:\", ma per i destinatari nell'intestazione A:. Esempio: "
-"a:\"jane.smith\"."
+"a:\"mario.rossi\"."
 
 #: ../../search/toc.rst:96
-#, fuzzy
 msgid ""
 "**CC**: Similar to \"From:\", but for recipients in the Cc: header. "
 "Example: cc:\"Manager\"."
 msgstr ""
 "**CC**: Simile a \"Da:\", ma per i destinatari nell'intestazione Cc:. "
-"Esempio: cc:\"Responsabile\"."
+"Esempio: cc:\"Manager\"."
 
 #: ../../search/toc.rst:97
-#, fuzzy
 msgid ""
 "**Subject**: Specifies text that must appear in the subject header. "
 "Example: subject:meeting."
 msgstr ""
-"**Oggetto**: Specifica il testo che deve comparire nell'intestazione "
-"dell'oggetto. Esempio: oggetto:riunione."
+"**Oggetto**: Specifica il testo che deve comparire nell'oggetto dell'email. "
+"Esempio: oggetto:riunione."
 
 #: ../../search/toc.rst:98
-#, fuzzy
 msgid "**In**: Specifies a folder. Example: in:sent."
 msgstr "**In**: Specifica una cartella. Esempio: in:inviati."
 
 #: ../../search/toc.rst:99
-#, fuzzy
 msgid ""
 "**Has**: Specifies an attribute that the message must have. Example: "
 "has:attachment."
@@ -9948,44 +9764,38 @@ msgstr ""
 "ha:allegato."
 
 #: ../../search/toc.rst:100
-#, fuzzy
 msgid ""
 "**Filename**: Specifies an attachment file name. Example: "
 "filename:report.pdf."
 msgstr ""
-"**Nome file**: Specifica il nome di un file allegato. Esempio: nome file: "
-"report.pdf."
+"**Nome file**: Specifica il nome intero di un file allegato. Esempio: nome "
+"file: report.pdf."
 
 #: ../../search/toc.rst:101
-#, fuzzy
 msgid ""
 "**Type**: Specifies a search within attachments of a specified type. "
 "Example: type:excel."
 msgstr ""
-"**Tipo**: Specifica una ricerca all'interno degli allegati di un tipo "
-"specifico. Esempio: tipo:excel."
+"**Tipo**: Specifica una ricerca tra gli allegati di un tipo specifico. "
+"Esempio: tipo:excel."
 
 #: ../../search/toc.rst:102
-#, fuzzy
 msgid ""
 "**Attachment**: Specifies any item with a certain type of attachment. "
 "Example: attachment:word."
 msgstr ""
 "**Allegato**: Specifica qualsiasi elemento con un determinato tipo di "
-"allegato. Esempio: allegato:parola."
+"allegato. Esempio: allegato:word."
 
 #: ../../search/toc.rst:103
-#, fuzzy
 msgid "**Is**: Searches for messages with a specific status. Example: is:unread."
 msgstr "**È**: Cerca messaggi con uno stato specifico. Ad esempio: è:non_letto."
 
 #: ../../search/toc.rst:104
-#, fuzzy
 msgid "**Date**: Specifies a date. Example: date:02/20/2024."
 msgstr "**Data**: Specifica una data. Esempio: data:20/02/2024."
 
 #: ../../search/toc.rst:105
-#, fuzzy
 msgid ""
 "**After**: Specifies mail sent after a certain date. Example: "
 "after:01/01/2024."
@@ -9994,7 +9804,6 @@ msgstr ""
 "01/01/2024."
 
 #: ../../search/toc.rst:106
-#, fuzzy
 msgid ""
 "**Before**: Specifies mail sent before a certain date. Example: "
 "before:03/01/2024."
@@ -10003,7 +9812,6 @@ msgstr ""
 "Esempio: prima di:03/01/2024."
 
 #: ../../search/toc.rst:107
-#, fuzzy
 msgid ""
 "**Size**: Specifies emails based on their total size, including "
 "attachments. Example: size: 1MB."
@@ -10012,34 +9820,30 @@ msgstr ""
 "inclusi gli allegati. Esempio: dimensione: 1MB."
 
 #: ../../search/toc.rst:108
-#, fuzzy
 msgid ""
 "**Smaller**: Specifies emails based on their total size, including "
 "attachments. Example: smaller:1MB."
 msgstr ""
-"**Più piccolo**: Specifica le email in base alle loro dimensioni totali, "
-"incluse le allegati. Esempio: più piccolo:1MB."
+"**Minore di**: Specifica le email in base alle loro dimensioni totali, "
+"incluse le allegati. Esempio: minore_di:1MB."
 
 #: ../../search/toc.rst:109
-#, fuzzy
 msgid ""
 "**Larger**: Specifies emails based on their total size, including "
 "attachments. Example: smaller:1MB."
 msgstr ""
-"**Più grande**: Specifica le email in base alla loro dimensione totale, "
-"inclusi gli allegati. Esempio: minore di:1MB."
+"**Più grande di**: Specifica le email in base alla loro dimensione totale, "
+"inclusi gli allegati. Esempio: maggiore_di:1MB."
 
 #: ../../search/toc.rst:110
-#, fuzzy
 msgid ""
 "**Tag**: Finds messages tagged with a specified tag. Example: "
 "tag:important."
 msgstr ""
-"**Tag**: Trova messaggi contrassegnati con un tag specifico. Esempio: "
+"**Tag**: Trova messaggi contrassegnati con un'etichetta specifica. Esempio: "
 "tag:importante."
 
 #: ../../search/toc.rst:112
-#, fuzzy
 msgid ""
 "**Wildcards**: The asterisk (*) after a prefix serves as a wildcard to "
 "find content with words having similar spellings. For instance, \"dog\" "
@@ -10047,167 +9851,139 @@ msgid ""
 "Double-byte asterisk signs in search queries are ignored during the "
 "search."
 msgstr ""
-"**Cartelle**: L'asterisco (*) dopo un prefisso funge da jolly per trovare "
+"**Jolly**: L'asterisco (*) dopo un prefisso funge da jolly per trovare "
 "contenuti con parole di ortografia simile. Ad esempio, \"cane\" recupera "
-"elementi con parole come \"cagnolino\", \"casa del cane\" e così via. Nota: "
-"I segni di asterisco a byte doppio nelle query di ricerca vengono ignorati "
-"durante la ricerca."
+"elementi con parole come \"cagnolino\", \"canile\" e così via. Nota: il "
+"doppi asterischi vengono ignorati durante la ricerca."
 
 #: ../../tasks/toc.rst:7
-#, fuzzy
 msgid "Working with Tasks"
-msgstr "Impegni"
+msgstr "Usare gli Impegni (Attività)"
 
 #: ../../tasks/toc.rst:9
-#, fuzzy
 msgid ""
 "Tasks are an integral part of any organized workflow, whether it is "
 "managing personal to-dos or coordinating team assignments. |product| "
 "Tasks will help you organize your work and manage it easily."
 msgstr ""
-"I compiti sono una parte integrante di qualsiasi flusso di lavoro "
-"organizzato, sia che si tratti di gestire attività personali o di "
-"coordinare assegnazioni di team. Carbonio Tasks ti aiuterà a organizzare "
-"il tuo lavoro e a gestirlo facilmente."
+"Gli impegni sono una parte integrante di qualsiasi flusso di lavoro "
+"organizzato, sia che si tratti di gestire attività personali o di coordinare "
+"compiti di team. Carbonio Tasks ti aiuterà a organizzare il tuo lavoro e a "
+"gestirlo facilmente."
 
 #: ../../tasks/toc.rst:16
-#, fuzzy
 msgid "Creating a Task"
-msgstr "Creazione di un'Attività"
+msgstr "Creare un'Attività"
 
 #: ../../tasks/toc.rst:18
-#, fuzzy
 msgid "To create a new task:"
-msgstr "Per creare un nuovo compito:"
+msgstr "Per creare una nuova attività:"
 
 #: ../../tasks/toc.rst:20 ../../tasks/toc.rst:37 ../../tasks/toc.rst:48
 #: ../../tasks/toc.rst:58
-#, fuzzy
 msgid "Select the **Tasks** feature from your left sidebar."
-msgstr "Seleziona la funzionalità **Attività** dalsidebar di sinistra."
+msgstr ""
+"Seleziona la funzionalità **Attività** da menù di sinistra (icona con il "
+"cerchio spuntato)."
 
 #: ../../tasks/toc.rst:22
-#, fuzzy
 msgid ""
 "In the designated **Title field** on the task board, insert a concise and"
 " descriptive title for your new task."
 msgstr ""
-"Nel campo **Titolo** designato sulla bacheca dei compiti, inserisci un "
-"titolo conciso e descrittivo per il tuo nuovo compito."
+"Nel campo **Titolo** inserisci un titolo conciso e descrittivo per il tuo "
+"nuovo compito."
 
 #: ../../tasks/toc.rst:23
-#, fuzzy
 msgid ""
 "Utilize the **Priority field** to specify the importance or urgency level"
 " of the task."
 msgstr ""
-"Utilizza il **campo Priorità** per specificare il livello di importanza o "
-"urgenza del compito."
+"Utilizza il campo **Priorità** per specificare il livello di urgenza o "
+"importanza dell'attività."
 
 #: ../../tasks/toc.rst:24
-#, fuzzy
 msgid ""
 "If you require |product| to remind you about this task at a specific "
 "time, toggle the **Enable reminder** option and select your preferred "
 "reminder time."
 msgstr ""
-"Se è necessario che Carbonio ti ricordi questo tarea in un momento "
-"specifico, attiva l'opzione **Abilita promemoria** e seleziona l'orario "
-"di promemoria desiderato."
+"Se vuoi che Carbonio ti ricordi quest'attività in un momento specifico, "
+"attiva l'opzione **Abilita promemoria** e seleziona l'orario desiderato per "
+"il promemoria."
 
 #: ../../tasks/toc.rst:25
-#, fuzzy
 msgid ""
 "Input relevant details or instructions for the task in the provided "
 "description area."
 msgstr ""
-"Inserisci i dettagli o le istruzioni rilevanti per il compito nell'area di "
-"descrizione fornita."
+"Inserisci i dettagli o le istruzioni rilevanti per l'attività nell'area "
+"della descrizione."
 
 #: ../../tasks/toc.rst:28
-#, fuzzy
 msgid "Your new task will then be added to your task list, ready for action."
 msgstr ""
-"Il tuo nuovo compito verrà quindi aggiunto alla tua lista dei compiti, "
-"pronto per l'azione."
+"La tua nuova attività verrà aggiunta alla tua lista, pronta per l'azione."
 
 #: ../../tasks/toc.rst:30
-#, fuzzy
 msgid ""
 "You can easily access the details of your tasks by simply clicking on "
 "them within the task list located in the main panel."
 msgstr ""
-"Puoi accedere facilmente ai dettagli dei tuoi compiti semplicemente "
-"cliccando su di essi all'interno dell'elenco dei compiti situato nel "
-"pannello principale."
+"Puoi accedere ai dettagli delle tue attività in ogni momento, cliccando su "
+"di esse dall'elenco situato nel pannello principale."
 
 #: ../../tasks/toc.rst:33
-#, fuzzy
 msgid "Editing a Task"
-msgstr "Modifica di un'attività"
+msgstr "Modificare un'Attività"
 
 #: ../../tasks/toc.rst:35
-#, fuzzy
 msgid "To edit an existing task:"
 msgstr "Per modificare un'attività esistente:"
 
 #: ../../tasks/toc.rst:38
-#, fuzzy
 msgid "Right-click on the task you want to edit from the list of tasks."
-msgstr ""
-"Fare clic con il pulsante destro del mouse sul task che si desidera "
-"modificare dall'elenco dei task."
+msgstr "Fai clic destro sull'attività che desideri modificare dall'elenco."
 
 #: ../../tasks/toc.rst:44
-#, fuzzy
 msgid "Deleting a Task"
-msgstr "Eliminazione di un'attività"
+msgstr "Eliminare un'Attività"
 
 #: ../../tasks/toc.rst:46
-#, fuzzy
 msgid "To delete an existing task:"
 msgstr "Per eliminare un'attività esistente:"
 
 #: ../../tasks/toc.rst:49
-#, fuzzy
 msgid "Right-click on the task you want to delete from the list of tasks."
-msgstr ""
-"Fai clic con il pulsante destro del mouse sul task che desideri eliminare "
-"dall'elenco dei task."
+msgstr "Fai clic destro sull'attività che desideri eliminare dall'elenco."
 
 #: ../../tasks/toc.rst:51
-#, fuzzy
 msgid "Click DELETE PERMANENTLY to confirm."
 msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
 
 #: ../../tasks/toc.rst:54
-#, fuzzy
 msgid "Marking a Task as Complete"
-msgstr "Segnare un compito come completato"
+msgstr "Segnare un'Attività come Completata"
 
 #: ../../tasks/toc.rst:56
-#, fuzzy
 msgid "To mark a task as complete:"
 msgstr "Per contrassegnare un'attività come completata:"
 
 #: ../../tasks/toc.rst:59
-#, fuzzy
 msgid ""
 "Right-click on the task you want to mark as complete from the list of "
 "tasks."
 msgstr ""
-"Fai clic destro sul task che desideri contrassegnare come completato "
-"dall'elenco dei task."
+"Fai clic destro sull'attività che desideri contrassegnare come completata "
+"dall'elenco."
 
 #: ../../tasks/toc.rst:60
-#, fuzzy
 msgid "Select **Complete** from the drop-down menu."
-msgstr "Seleziona **Completa** dal menu a discesa."
+msgstr "Seleziona **Completa** dal menu a tendina."
 
 #: ../../videomeetings(wsc)/toc.rst:7
-#, fuzzy
 msgid "Working with Video Meetings(WSC) :bdg-info:`NEW`"
-msgstr "Lavorare con Video Meeting (WSC) :bdg-info:'NUOVO'"
+msgstr "Usare i Video Meeting (WSC) :bdg-info:'NUOVO'"
 
 #: ../../videomeetings(wsc)/toc.rst:13
 #, fuzzy
@@ -10228,9 +10004,8 @@ msgstr ""
 "registrare le sessioni, garantendo una collaborazione efficace e fluida."
 
 #: ../../videomeetings(wsc)/toc.rst:16
-#, fuzzy
 msgid "Creating New Virtual Room"
-msgstr "Creazione di una Nuova Stanza Virtuale"
+msgstr "Creare una Nuova Stanza Virtuale"
 
 #: ../../videomeetings(wsc)/toc.rst:18
 #, fuzzy
@@ -10724,12 +10499,10 @@ msgid "Click the crown icon next to the participant’s name."
 msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #: ../../videomeetings/toc.rst:7
-#, fuzzy
 msgid "Working with Video Meetings"
-msgstr "Utilizzo delle Riunioni Video"
+msgstr "Usare i Video Meeting"
 
 #: ../../videomeetings/toc.rst:13
-#, fuzzy
 msgid ""
 "In |product|, video meetings serve as a fundamental tool for facilitating"
 " seamless virtual collaboration. Whether conducting one-on-one "
@@ -10737,29 +10510,25 @@ msgid ""
 "for face-to-face interaction, fostering real-time communication and "
 "enhancing teamwork."
 msgstr ""
-"In Carbonio, le riunioni in video svolgono un ruolo fondamentale per "
-"facilitare una collaborazione virtuale senza soluzione di continuità. Sia"
-" che si tratti di condurre discussioni one-to-one o di ospitare riunioni "
-"di gruppo, le riunioni in video offrono una piattaforma per l'interazione"
-" faccia a faccia, favoriscono la comunicazione in tempo reale e "
-"migliorano il lavoro di squadra."
+"In Carbonio, le video-riunioni svolgono un ruolo fondamentale per facilitare "
+"la collaborazione digitale. Sia che si tratti di condurre discussioni 1 a 1 "
+"o di ospitare riunioni di gruppo, le video-riunioni offrono una piattaforma "
+"per l'interazione faccia a faccia, favoriscono la comunicazione in tempo "
+"reale e migliorano il lavoro di squadra."
 
 #: ../../videomeetings/toc.rst:15
-#, fuzzy
 msgid ""
 "Users can easily initiate or join meetings, share screens, and record "
 "meetings ensuring efficient collaboration."
 msgstr ""
-"Gli utenti possono facilmente avviare o unirsi a riunioni, condividere "
-"schermi e registrare riunioni, garantendo una collaborazione efficiente."
+"Puoi facilmente avviare o unirti a riunioni, condividere il tuo schermo, "
+"registrare meeting, garantendo una collaborazione efficiente."
 
 #: ../../videomeetings/toc.rst:18
-#, fuzzy
 msgid "Entering Your Personal Room"
-msgstr "Accedi alla tua Stanza Personale"
+msgstr "Accedere alla tua Stanza Personale"
 
 #: ../../videomeetings/toc.rst:20
-#, fuzzy
 msgid ""
 "Every person with an account on |product| has a personal room. You can "
 "use your room to invite others to meetings, whether they are colleagues "
@@ -10767,36 +10536,31 @@ msgid ""
 "your personal room, follow these steps:"
 msgstr ""
 "Ogni persona con un account su Carbonio ha una stanza personale. Puoi "
-"utilizzare la tua stanza per invitare altri a riunioni, siano essi "
-"colleghi con account sullo stesso sistema o utenti esterni. Per accedere "
-"ed entrare nella tua stanza personale, segui questi passaggi:"
+"utilizzare la tua stanza per invitare altri a riunioni, siano essi colleghi "
+"con account sullo stesso sistema o utenti esterni. Per accedere alla tua "
+"stanza personale, segui questi passaggi:"
 
 #: ../../videomeetings/toc.rst:24
-#, fuzzy
 msgid ""
 "Click PERSONAL ROOM located at the bottom left corner beneath the list of"
 " chats."
 msgstr ""
-"Clicca sulla stanza PERSONALE situata nell'angolo in basso a sinistra sotto "
+"Clicca su STANZA PERSONALE situata nell'angolo in basso a sinistra sotto "
 "l'elenco delle chat."
 
 #: ../../videomeetings/toc.rst:26
-#, fuzzy
 msgid "This action will open your room in another browser tab."
 msgstr "Questa azione aprirà la tua stanza in un'altra scheda del browser."
 
 #: ../../videomeetings/toc.rst:29
-#, fuzzy
 msgid "Inviting Members to Personal Room"
-msgstr "Invitare membri a una stanza personale"
+msgstr "Invitare Membri in una Stanza Personale"
 
 #: ../../videomeetings/toc.rst:31
-#, fuzzy
 msgid "To invite other members to your personal room:"
-msgstr "Per invitare altri membri nella tua stanza personale:"
+msgstr "Per invitare altre persone nella tua stanza personale:"
 
 #: ../../videomeetings/toc.rst:34 ../../videomeetings/toc.rst:105
-#, fuzzy
 msgid ""
 "Click the **COPY LINK** located at the bottom left corner beneath the "
 "list of chats."
@@ -10805,7 +10569,6 @@ msgstr ""
 "delle chat."
 
 #: ../../videomeetings/toc.rst:36
-#, fuzzy
 msgid ""
 "This will copy the link to access your room to your clipboard. You can "
 "paste it anywhere (such as in a chat) by right-clicking and selecting "
@@ -10814,69 +10577,61 @@ msgid ""
 "URL of the page from the address bar of your browser, then send it to "
 "your colleagues."
 msgstr ""
-"Ciò copierà il link di accesso alla stanza sulla tua clipboard. Puoi "
-"incollarlo ovunque (ad esempio in una chat) facendo clic con il pulsante "
-"destro e selezionando Incolla, o utilizzando il taglio scorciatoia CTRL+V su "
-"Windows o command+V su macOS. In alternativa, puoi entrare nella tua stanza "
-"e copiare l'URL della pagina dalla barra degli indirizzi del browser, quindi "
-"inviarlo ai tuoi colleghi."
+"Ciò copierà il link di accesso alla stanza. Puoi incollarlo ovunque (ad "
+"esempio in una chat) facendo clic con il pulsante destro e selezionando "
+"Incolla, o utilizzando la scorciatoia da tastiera CTRL+V su Windows o "
+"command+V su Mac. In alternativa, puoi entrare nella tua stanza e copiare "
+"l'URL della pagina dalla barra degli indirizzi del browser, quindi inviarlo "
+"ai tuoi colleghi."
 
 #: ../../videomeetings/toc.rst:40
-#, fuzzy
 msgid "Creating New Room"
-msgstr "Creare una nuova stanza"
+msgstr "Creare una Nuova Stanza"
 
 #: ../../videomeetings/toc.rst:42
-#, fuzzy
 msgid ""
 "Rooms are shared spaces where you can hold video meetings and engage in "
 "conversations via chat. You can create them based on different topics you"
 " want to discuss so that the attendees are informed about the meeting "
 "agenda."
 msgstr ""
-"Le stanze sono spazi condivisi in cui è possibile tenere riunioni in "
-"videoconferenza e intraprendere conversazioni via chat. È possibile crearle "
-"in base a diversi argomenti che si desidera discutere in modo che i "
-"partecipanti siano informati sull'ordine del giorno della riunione."
+"Le stanze sono spazi condivisi in cui è possibile tenere riunioni e anche "
+"chattare. Puoi crearle in base ai diversi argomenti da trattare, in modo che "
+"i partecipanti siano informati sull'ordine del giorno della riunione."
 
 #: ../../videomeetings/toc.rst:48
-#, fuzzy
 msgid ""
 "Click **CREATE ROOM** located at the bottom left corner beneath the list "
 "of chats. A new window appears."
 msgstr ""
 "Fai clic su **CREA STANZA** posizionato nell'angolo in basso a sinistra "
-"sotto l'elenco delle chat. Appare una nuova finestra."
+"sotto l'elenco delle chat. Apparirà una nuova finestra."
 
 #: ../../videomeetings/toc.rst:49
-#, fuzzy
 msgid "Insert a name for the room in the first field."
 msgstr "Inserisci un nome per la stanza nel primo campo."
 
 #: ../../videomeetings/toc.rst:50
-#, fuzzy
 msgid ""
 "If you want to have other moderators who can assist in managing the room "
 "alongside you, the main moderator, you can insert your colleagues' emails"
 " in the second field and select them from the suggested list. This step "
 "is optional."
 msgstr ""
-"Se desideri avere altri moderatori che possano assistere nella gestione "
-"della stanza insieme a te, moderatore principale, puoi inserire gli "
-"indirizzi email dei tuoi colleghi nel secondo campo e selezionarli "
-"dall'elenco suggerito. Questo passaggio è opzionale."
+"Se desideri avere altri moderatori che possano aiutarti nella gestione della "
+"stanza oltre a te, moderatore principale, puoi inserire gli indirizzi email "
+"dei tuoi colleghi nel secondo campo e selezionarli dall'elenco dei "
+"suggeriti. Questo passaggio è opzionale."
 
 #: ../../videomeetings/toc.rst:53
-#, fuzzy
 msgid ""
 "Your room has been successfully created and will be accessible through "
 "the **Rooms tab**."
 msgstr ""
 "La tua stanza è stata creata con successo e sarà accessibile tramite la "
-"scheda **Stanze**."
+"scheda **Stanze Virtuali**."
 
 #: ../../videomeetings/toc.rst:55
-#, fuzzy
 msgid ""
 "You can use the **ROOM'S LINK** button to copy the room's link. Upon "
 "clicking the button, the link will be copied to your clipboard. You can "
@@ -10884,14 +10639,13 @@ msgid ""
 "**Paste**, or by using the keyboard shortcut CTRL+V on Windows or "
 "command+V on macOS."
 msgstr ""
-"Puoi utilizzare il pulsante **COLLEGA LINK DELLA STANZA** per copiare il "
-"link della stanza. Al click sul pulsante, il link verrà copiato negli "
-"appunti. Puoi incollarlo ovunque (ad esempio in una chat) facendo clic "
-"destro e selezionando **Incolla**, o utilizzando il shortcut da tastiera "
-"CTRL+V su Windows o command+V su macOS."
+"Puoi utilizzare il tasto **LINK DELLA STANZA** per copiare il link alla "
+"stanza. Al click sul pulsante, il link verrà copiato negli appunti. Puoi "
+"incollarlo ovunque (ad esempio in una chat) facendo clic destro e "
+"selezionando **Incolla**, o utilizzando la scorciatoia da tastiera CTRL+V su "
+"Windows o command+V su Mac."
 
 #: ../../videomeetings/toc.rst:57
-#, fuzzy
 msgid ""
 "If you want to change the link to access the room, click on **RESET "
 "LINK**. This action will generate another URL for the room. It is useful "
@@ -10899,57 +10653,49 @@ msgid ""
 "update the link for security reasons."
 msgstr ""
 "Se desideri modificare il collegamento per accedere alla stanza, fai clic su "
-"**REIMPOSTA COLLEGAMENTO**. Questa azione genererà un altro URL per la "
-"stanza. È utile nel caso in cui tu abbia condiviso il collegamento della "
-"stanza con la persona sbagliata o desideri aggiornare il collegamento per "
-"motivi di sicurezza."
+"**REIMPOSTA LINK**. Questa azione genererà un altro URL per la stanza. È "
+"utile nel caso in cui tu abbia condiviso il collegamento della stanza con la "
+"persona sbagliata o desideri aggiornare il collegamento per motivi di "
+"sicurezza."
 
 #: ../../videomeetings/toc.rst:59
-#, fuzzy
 msgid "ou can use the **JOIN ROOM** button to enter the room."
 msgstr ""
-"Puoi utilizzare il pulsante **ENTRA NELLA STANZA** per accedere alla stanza."
+"Puoi utilizzare il tasto **ENTRA NELLA STANZA** per accedere alla stanza."
 
 #: ../../videomeetings/toc.rst:62
-#, fuzzy
 msgid "Entering a Room"
 msgstr "Entrare in una Stanza"
 
 #: ../../videomeetings/toc.rst:67 ../../videomeetings/toc.rst:79
 #: ../../videomeetings/toc.rst:202
-#, fuzzy
 msgid "Select the **Rooms tab**."
-msgstr "Seleziona la **scheda Stanze**."
+msgstr "Seleziona la scheda **Stanze**."
 
 #: ../../videomeetings/toc.rst:68 ../../videomeetings/toc.rst:80
 #: ../../videomeetings/toc.rst:203 ../../videomeetings/toc.rst:214
-#, fuzzy
 msgid "Click on the desired room from the list to select it."
 msgstr "Fai clic sulla stanza desiderata dall'elenco per selezionarla."
 
 #: ../../videomeetings/toc.rst:69 ../../videomeetings/toc.rst:81
-#, fuzzy
 msgid "Click ROOM’S LINK."
-msgstr "Clicca sul collegamento della STANZA."
+msgstr "Clicca su LINK DELLA STANZA."
 
 #: ../../videomeetings/toc.rst:71
-#, fuzzy
 msgid ""
 "This action will copy the link to access the room to your clipboard. You "
 "can paste it into the address bar of a new browser tab and press Enter. "
 "This will direct you to the room."
 msgstr ""
-"Quest'azione copierà il collegamento per accedere alla stanza nel tuo "
-"portachiavi. Puoi incollarlo nella barra degli indirizzi di una nuova scheda "
-"del browser e premere Invio. Ciò ti indirizzerà alla stanza."
+"Quest'azione copierà il collegamento per accedere alla stanza. Puoi "
+"incollarlo nella barra degli indirizzi di una nuova scheda del browser e "
+"premere Invio. Ciò ti indirizzerà alla stanza."
 
 #: ../../videomeetings/toc.rst:74
-#, fuzzy
 msgid "Inviting Members to A Room"
-msgstr "Invita Membri a una Stanza"
+msgstr "Invitare Membri in una Stanza"
 
 #: ../../videomeetings/toc.rst:76
-#, fuzzy
 msgid "To invite other members to a room:"
 msgstr "Per invitare altri membri in una stanza:"
 

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-27 16:37+0100\n"
-"PO-Revision-Date: 2025-02-20 16:54+0000\n"
+"PO-Revision-Date: 2025-02-21 16:44+0000\n"
 "Last-Translator: Flaminia Spinelli <flaminia.spinelli@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -8417,7 +8417,7 @@ msgstr "Fai clic su **LOGIN**."
 
 #: ../../get_started/toc.rst:101
 msgid "Using SAML to Sign In"
-msgstr "Utilizzare SAML per l'accesso"
+msgstr "Utilizzare SAML per Accedere"
 
 #: ../../get_started/toc.rst:103
 msgid ""
@@ -8428,8 +8428,8 @@ msgid ""
 msgstr ""
 "**SAML** è l'acronimo di **Security Assertion Markup Language**. È come una "
 "stretta di mano segreta tra diversi siti web e app per assicurarsi che tu "
-"sia chi dici di essere. Immagina come un pass speciale che ti consente di "
-"accedere a più luoghi senza dover utilizzare una chiave separata per ogni "
+"sia chi dici di essere. Immagina di avere un pass speciale che ti consente "
+"di accedere a più luoghi senza dover utilizzare una chiave separata per ogni "
 "porta."
 
 #: ../../get_started/toc.rst:105
@@ -8437,16 +8437,17 @@ msgid ""
 "You have generally two ways to use SAML functionality to sign in to your "
 "|product| account:"
 msgstr ""
-"Hai generalmente due modi per utilizzare la funzionalità SAML per "
-"accedere al tuo account Carbonio:"
+"Hai due modi per utilizzare la funzionalità SAML per accedere al tuo account "
+"Carbonio:"
 
 #: ../../get_started/toc.rst:107
 msgid "First Flow:"
-msgstr "Primo flusso:"
+msgstr "Primo modo:"
 
 #: ../../get_started/toc.rst:109
 msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
-msgstr "Durante l'accesso a Carbonio webmail, cercare il pulsante **LOGIN SAML**."
+msgstr ""
+"Nella pagina di login a Carbonio webmail, cerca il tasto **LOGIN SAML**."
 
 #: ../../get_started/toc.rst:110
 msgid "Click it, and it will automatically sign you into your webmail."
@@ -8459,8 +8460,8 @@ msgid ""
 "service** (like Okta or other services provided by your system "
 "administrator)."
 msgstr ""
-"Importante: è necessario essere già connessi al servizio di **provider di "
-"identità** (come Okta o altri servizi forniti dall'amministratore di "
+"Importante: è necessario essere già connessi ai servizi di un **provider di "
+"identità** (come Okta, o altri servizi forniti dall'amministratore di "
 "sistema)."
 
 #: ../../get_started/toc.rst:112
@@ -8468,32 +8469,32 @@ msgid ""
 "If you are not sure how to log into your identity provider, reach out to "
 "your **system administrator** for assistance."
 msgstr ""
-"Se non sei sicuro di come accedere al tuo fornitore di identità, contatta "
-"l'**amministratore di sistema** per assistenza."
+"Se non sei sicuro di come accedere al tuo identity provider, contatta l'**"
+"amministratore di sistema** per assistenza."
 
 #: ../../get_started/toc.rst:114
 msgid "Second Flow:"
-msgstr "Secondo Flusso:"
+msgstr "Secondo modo:"
 
 #: ../../get_started/toc.rst:116
 msgid ""
 "First, log in to your **identity provider service** (e.g., Okta or other "
 "services provided by your system administrator)."
 msgstr ""
-"Innanzitutto, accedi al tuo **servizio di provider di identità** (ad esempio "
-"Okta o altri servizi forniti dal tuo amministratore di sistema)."
+"Innanzitutto, accedi al tuo **identity provider** (ad esempio Okta o altri "
+"servizi forniti dal tuo amministratore di sistema)."
 
 #: ../../get_started/toc.rst:117
 msgid "Once you are logged in there, simply click on the **|product| mail app**."
-msgstr "Una volta effettuato l'accesso, fare clic sull'app **Carbonio mail**."
+msgstr "Una volta effettuato l'accesso, fai clic sull'app **Carbonio Mail**."
 
 #: ../../get_started/toc.rst:118
 msgid ""
 "SAML will seamlessly take you to your webmail without requiring you to "
 "insert your credentials."
 msgstr ""
-"SAML ti porterà senza soluzione di continuità alla tua casella di posta "
-"elettronica web senza richiederti di inserire le tue credenziali."
+"SAML ti porterà direttamente alla tua casella di posta elettronica, senza "
+"richiederti di inserire le tue credenziali."
 
 #: ../../get_started/toc.rst:122
 msgid "Signing Out"
@@ -8505,25 +8506,24 @@ msgid ""
 "sign out when you are away from your computer. Here are two "
 "straightforward methods to log out:"
 msgstr ""
-"Per garantire la sicurezza del tuo client web Carbonio, è essenziale "
-"disconnettersi quando ci si allontana dal computer. Ecco due metodi "
-"semplici per uscire:"
+"Per garantire la sicurezza del tuo account, è essenziale disconnettersi "
+"quando ti allontani dal computer. Ecco due metodi semplici per uscire:"
 
 #: ../../get_started/toc.rst:126
 msgid "Using the Account Icon:"
-msgstr "Utilizzando l'Icona dell'Account:"
+msgstr "Utilizzando l'icona dell'account:"
 
 #: ../../get_started/toc.rst:128
 msgid ""
 "Click on the account icon located in the top-right corner of the webmail "
 "interface."
 msgstr ""
-"Fare clic sull'icona dell'account situata nell'angolo in alto a destra "
-"dell'interfaccia webmail."
+"Fai clic sull'icona dell'account situata nell'angolo in alto a destra "
+"dell'interfaccia."
 
 #: ../../get_started/toc.rst:129
 msgid "Select the **Logout** button."
-msgstr "Seleziona il pulsante **Disconnetti**."
+msgstr "Seleziona il tasto **Disconnetti**."
 
 #: ../../get_started/toc.rst:130
 msgid "You will be securely signed out."
@@ -8531,24 +8531,24 @@ msgstr "Sarai disconnesso in modo sicuro."
 
 #: ../../get_started/toc.rst:132
 msgid "Via General Settings:"
-msgstr "Attraverso le Impostazioni Generali:"
+msgstr "Attraverso le impostazioni generali:"
 
 #: ../../get_started/toc.rst:134
 msgid "Click the **gear icon** on the left sidebar panel to access settings."
 msgstr ""
-"Fai clic sull'icona dell'**ingranaggio** nel pannello del menu a sinistra "
-"per accedere alle impostazioni."
+"Fai clic sull'icona dell'**ingranaggio** nel menu a sinistra per accedere "
+"alle impostazioni."
 
 #: ../../get_started/toc.rst:135
 msgid "Navigate to General Settings."
-msgstr "Passa alle Impostazioni generali."
+msgstr "Passa alle impostazioni Generali."
 
 #: ../../get_started/toc.rst:136
 msgid ""
 "In the **Account** section, click the **LOGOUT** button, and you will be "
 "successfully logged out."
 msgstr ""
-"Nella sezione **Account**, fare clic sul pulsante **DISCONNETTI** e verrai "
+"Nella sezione **Account**, fai clic sul tasto **DISCONNETTI** e verrai "
 "disconnesso con successo."
 
 #: ../../get_started/toc.rst:138
@@ -8569,14 +8569,13 @@ msgid ""
 msgstr ""
 "Quando la tua sessione sta per scadere, sarai notificato in anticipo tramite "
 "la barra in basso a sinistra, che visualizzerà il tempo rimanente: 10 "
-"minuti, 3 minuti e 60 secondi prima della fine della sessione. Nella "
-"snackbar, troverai l'opzione per tornare alla pagina di accesso. Puoi "
-"semplicemente eseguire nuovamente l'accesso come di consueto per continuare "
-"a lavorare."
+"minuti, 3 minuti e 60 secondi prima della fine della sessione. Il promemoria "
+"ti offrirà anche l'opzione di tornare alla pagina di login. Puoi eseguire "
+"nuovamente l'accesso come di consueto per continuare a lavorare."
 
 #: ../../get_started/toc.rst:144
 msgid "In Case of Forgetting Your Password"
-msgstr "In caso di dimenticanza della password"
+msgstr "In caso di Dimenticanza della Password"
 
 #: ../../get_started/toc.rst:146
 msgid ""
@@ -8585,10 +8584,10 @@ msgid ""
 "Alternatively, you can ask the administrator to set up a recovery e-mail "
 "for your account."
 msgstr ""
-"Per avviare la procedura di recupero della password, è necessario inserire "
-"l'indirizzo di recupero nel pannello **Autenticazione**, nella sezione "
-"**Impostazioni**. In alternativa, è possibile chiedere all'amministratore di "
-"configurare un indirizzo e-mail di recupero per il proprio account."
+"Per avviare la procedura di recupero della password è necessario inserire un "
+"indirizzo di recupero nel pannello **Autenticazione**, nella sezione "
+"**Impostazioni**. In alternativa, puoi chiedere all'amministratore di "
+"sistema di configurare un indirizzo email di recupero per il tuo account."
 
 #: ../../get_started/toc.rst:148
 msgid ""
@@ -8596,10 +8595,9 @@ msgid ""
 " a recovery address, it means that the administrator has not enabled your"
 " account for the recovery process."
 msgstr ""
-"Se nel pannello di autenticazione - sezione Impostazioni - non visualizzi il "
-"campo per impostare un indirizzo di ripristino, significa che "
-"l'amministratore non ha abilitato il tuo account per il processo di "
-"ripristino."
+"Se nel pannello Auth - sezione Impostazioni - non visualizzi il campo per "
+"impostare un indirizzo di ripristino, significa che l'amministratore non ha "
+"abilitato il tuo account per il processo di ripristino in autonomia."
 
 #: ../../get_started/toc.rst:150
 msgid "If you forgot your password, follow these steps:"
@@ -8607,8 +8605,7 @@ msgstr "Se hai dimenticato la tua password, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:157
 msgid "Click on the **Forget Password?** Button, from the login page."
-msgstr ""
-"Cliccare sul pulsante **Dimenticata la password?** dalla pagina di accesso."
+msgstr "Clicca sul tasto **Dimenticato la password?** dalla pagina di accesso."
 
 #: ../../get_started/toc.rst:158
 msgid "Enter your username."
@@ -8616,7 +8613,7 @@ msgstr "Inserisci il tuo nome utente."
 
 #: ../../get_started/toc.rst:159
 msgid "You will receive an email at your recovery email address."
-msgstr "Riceverai un'e-mail al tuo indirizzo e-mail di recupero."
+msgstr "Riceverai un'email al tuo indirizzo di recupero."
 
 #: ../../get_started/toc.rst:160
 msgid ""
@@ -8624,12 +8621,12 @@ msgid ""
 "be sent to the recovery e-mail address."
 msgstr ""
 "Un codice di **convalida temporaneo**, che scade entro ventiquattro ore, "
-"verrà inviato all'indirizzo e-mail di recupero."
+"verrà inviato all'indirizzo email di recupero."
 
 #: ../../get_started/toc.rst:161
 msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
 msgstr ""
-"Copia e incolla, quindi clicca sul pulsante :bdg-primary:`CONVALIDA CODICE`."
+"Copia e incolla, quindi clicca sul tasto :bdg-primary:`CONVALIDA CODICE`."
 
 #: ../../get_started/toc.rst:162
 msgid ""
@@ -8650,10 +8647,9 @@ msgid ""
 "email, you will encounter an error message."
 msgstr ""
 "Se l'amministratore di sistema non ha configurato un indirizzo email di "
-"recupero per il tuo account, o non hai inserito il tuo proprio indirizzo "
-"email di recupero, quando cercherai di inserire il tuo nome utente per "
-"ricevere l'email di recupero della password, incontrerai un messaggio di "
-"errore."
+"recupero per il tuo account, o non hai inserito tu stesso un indirizzo email "
+"di recupero, quando cercherai di inserire il tuo nome utente per ricevere "
+"l'email per il recupero della password incontrerai un messaggio di errore."
 
 #: ../../get_started/toc.rst:166
 msgid ""
@@ -8667,7 +8663,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:170
 msgid "Changing Your Password"
-msgstr "Cambia la tua password"
+msgstr "Cambiare la Password"
 
 #: ../../get_started/toc.rst:172
 msgid ""
@@ -8676,10 +8672,9 @@ msgid ""
 "To change your password, you must be logged into your account. Here are "
 "the steps to change your password:"
 msgstr ""
-"Reimpostare una password diventa necessario quando si desidera aggiornare la "
-"password esistente per motivi di sicurezza o altri fattori rilevanti. Per "
-"cambiare la password, è necessario accedere al proprio account. Ecco i "
-"passaggi per cambiare la password:"
+"Reimpostare una password regolarmente è necessario per motivi di sicurezza. "
+"Per cambiare la password devi prima accedere al tuo account. Ecco i passaggi "
+"per cambiare la password:"
 
 #: ../../get_started/toc.rst:174
 msgid "Log into your account."
@@ -8688,16 +8683,16 @@ msgstr "Accedi al tuo account."
 #: ../../get_started/toc.rst:175
 msgid "Click on the **settings** (gear icon) located in the left sidebar."
 msgstr ""
-"Fai clic sull'icona **impostazioni** (ingranaggio) posizionata nella barra "
-"laterale sinistra."
+"Fai clic sull'icona **impostazioni** (ingranaggio) nella barra laterale "
+"sinistra."
 
 #: ../../get_started/toc.rst:176
 msgid "Select **Auth**."
-msgstr "Seleziona **Autenticazione**."
+msgstr "Seleziona **Auth**."
 
 #: ../../get_started/toc.rst:177
 msgid "Click on Change Password."
-msgstr "Fai clic su Modifica Password."
+msgstr "Fai clic su Cambia Password."
 
 #: ../../get_started/toc.rst:178
 msgid "Enter your **old password** along with your new password."
@@ -8705,19 +8700,19 @@ msgstr "Inserisci la tua **vecchia password** insieme alla nuova password."
 
 #: ../../get_started/toc.rst:179
 msgid "Click the **CHANGE PASSWORD** button."
-msgstr "Fai clic sul pulsante **CAMBIA PASSWORD**."
+msgstr "Fai clic sul tasto **CAMBIA PASSWORD**."
 
 #: ../../get_started/toc.rst:187
 msgid "Introduction of |product| Web Client"
-msgstr "Introduzione di Carbonio Web Client"
+msgstr "Introduzione a Carbonio Web Client"
 
 #: ../../get_started/toc.rst:189
 msgid ""
 "When you log in to check your emails, the **|product| web client "
 "interface** greets you with the following components:"
 msgstr ""
-"Quando esegui l'accesso per controllare le tue email, l'**interfaccia "
-"client web di Carbonio** ti saluta con i seguenti componenti:"
+"Quando esegui l'accesso per controllare le tue email, l'**interfaccia client "
+"web di Carbonio** ti accoglie con i seguenti componenti:"
 
 #: ../../get_started/toc.rst:196
 msgid ""
@@ -8725,7 +8720,7 @@ msgid ""
 "access to various features such as Mails, Calendars, Contacts, etc."
 msgstr ""
 "**Barra laterale sinistra**: Questa sezione fornisce opzioni di navigazione "
-"e accesso rapido a varie funzionalità come Posta, Calendari, Contatti, ecc."
+"e accesso rapido alle varie funzionalità come Mail, Calendari, Contatti, ecc."
 
 #: ../../get_started/toc.rst:197
 msgid ""
@@ -8736,8 +8731,8 @@ msgid ""
 msgstr ""
 "**Pannello di navigazione**: Qui troverai ulteriore contesto relativo alla "
 "funzionalità attiva che hai selezionato dal pannello laterale sinistro. Ad "
-"esempio, se selezioni \"Mail\" dal pannello laterale sinistro, troverai "
-"l'accesso alle tue caselle di posta e alle cartelle di posta elettronica qui."
+"esempio, se selezioni \"Mail\" dal pannello laterale sinistro, qui troverai "
+"l'alberatura delle tue caselle di posta."
 
 #: ../../get_started/toc.rst:198
 msgid ""
@@ -8748,14 +8743,14 @@ msgid ""
 "events."
 msgstr ""
 "**Pannello principale**: L'area centrale visualizza il contenuto effettivo "
-"relativo alla funzione attiva che hai selezionato dal pannello laterale "
-"sinistro. Ad esempio, se selezioni \"Messaggi\" dal pannello laterale "
-"sinistro, visualizzerai le tue email in questa area; analogamente, la scelta "
-"di \"Calendari\" visualizzerà gli eventi del tuo calendario."
+"relativo alla funzione attiva che hai selezionato dal menu laterale "
+"sinistro. Ad esempio, se selezioni \"Mail\" dal pannello laterale sinistro, "
+"visualizzerai le tue email in questa area; analogamente, la scelta di "
+"\"Calendari\" visualizzerà gli eventi del tuo calendario."
 
 #: ../../get_started/toc.rst:201
 msgid "Using Browser Buttons to Navigate |product|"
-msgstr "Utilizzo dei pulsanti del browser per la navigazione in Carbonio"
+msgstr "Usare i Comandi del Browser per Navigare Carbonio"
 
 #: ../../get_started/toc.rst:203
 msgid ""
@@ -8764,27 +8759,26 @@ msgid ""
 "or a message. These buttons can inadvertently disrupt your work and cause"
 " you to lose what you are doing. So, proceed with caution."
 msgstr ""
-"È consigliabile evitare di utilizzare i pulsanti di navigazione del browser "
-"troppo frequentemente, soprattutto quando si è in mezzo alla stesura di un'e-"
-"mail o di un messaggio. Questi pulsanti possono interrompere "
-"involontariamente il lavoro e far perdere ciò che si sta facendo. Pertanto, "
-"procedere con cautela."
+"È consigliabile evitare di utilizzare i comandi di navigazione del browser "
+"troppo spesso, soprattutto quando si è nel mezzo della stesura di un'email o "
+"di un messaggio. Questi pulsanti possono interrompere involontariamente il "
+"tuo lavoro e farti perdere ciò che stavi facendo. Pertanto, procedi con "
+"cautela."
 
 #: ../../get_started/toc.rst:205
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on |product|."
 msgstr ""
-"**Pulsante Indietro**: puoi utilizzare il pulsante indietro del tuo "
-"browser per tornare alla pagina precedente che stavi visualizzando su "
-"Carbonio."
+"**Tasto Indietro**: puoi utilizzare il tasto indietro del tuo browser per "
+"tornare alla pagina precedente che stavi visualizzando su Carbonio."
 
 #: ../../get_started/toc.rst:206
 msgid ""
 "**Forward Button**: If you have gone back and want to revisit a page you "
 "just left, click the forward button."
 msgstr ""
-"**Pulsante \"Avanti\"**: Se sei tornato indietro e desideri tornare a una "
+"**Tasto \"Avanti\"**: Se sei tornato indietro e desideri tornare a una "
 "pagina che hai appena lasciato, clicca sul pulsante \"Avanti\"."
 
 #: ../../get_started/toc.rst:207
@@ -8796,12 +8790,12 @@ msgid ""
 msgstr ""
 "**Evita Ricarica/Aggiorna**: Fai attenzione al pulsante di ricarica o "
 "aggiorna. Cliccarlo riavvia la tua sessione, il che può essere "
-"particolarmente pericoloso quando si compone un nuovo messaggio di posta "
-"elettronica o un messaggio di testo lungo. Potresti perdere il tuo lavoro."
+"particolarmente pericoloso quando stai componendo un nuovo messaggio di "
+"posta elettronica o un testo lungo. Potresti perdere il tuo lavoro."
 
 #: ../../get_started/toc.rst:210
 msgid "Account Personalization"
-msgstr "Personalizzazione Account"
+msgstr "Personalizzazione dell'Account"
 
 #: ../../get_started/toc.rst:212
 msgid ""
@@ -8813,16 +8807,14 @@ msgid ""
 "select **General Settings**."
 msgstr ""
 "Prima di iniziare ad utilizzare il client web di Carbonio, prenditi un "
-"momento per personalizzare il tuo account. Puoi personalizzare aspetti "
-"visivi come il tema, oltre ad altre impostazioni dell'account come il "
-"fuso orario. La maggior parte di queste opzioni è facilmente accessibile "
-"nel menu **Impostazioni**. Per accedere, basta fare clic sull'icona "
-"dell'ingranaggio nella barra dei menu a sinistra, quindi selezionare "
-"**Impostazioni generali**."
+"momento per personalizzare il tuo account. Ad esempio puoi personalizzare "
+"aspetti visivi come il tema. La maggior parte di queste opzioni è facilmente "
+"accessibile nel menu **Impostazioni**. Fai clic sull'icona dell'ingranaggio "
+"nella barra dei menu a sinistra, quindi seleziona **Impostazioni generali**."
 
 #: ../../get_started/toc.rst:216
 msgid "Changing Theme"
-msgstr "Cambio tema"
+msgstr "Cambiare il Tema"
 
 #: ../../get_started/toc.rst:218
 msgid ""
@@ -8830,9 +8822,9 @@ msgid ""
 " appearance. Currently, there are **two themes** available: **Dark mode**"
 " and **Light mode**. Here is how you can manage them:"
 msgstr ""
-"Un tema nel client web di Carbonio definisce lo schema dei colori "
-"utilizzato per il suo aspetto. Attualmente, sono disponibili **due "
-"temi**: **Modalità scura** e **Modalità luce**. Ecco come puoi gestirli:"
+"Un tema nel client web di Carbonio definisce lo schema dei colori utilizzato "
+"per il suo aspetto. Attualmente sono disponibili **due temi**: **Tema scuro**"
+" e **Tema chiaro**. Ecco come puoi gestirli:"
 
 #: ../../get_started/toc.rst:220
 msgid "To **activate Dark mode**, follow these steps:"
@@ -8841,24 +8833,23 @@ msgstr "Per **attivare la modalità scura**, segui questi passaggi:"
 #: ../../get_started/toc.rst:222
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
-"Vai a **Impostazioni** (icona dell'ingranaggio) dalla barra dei menu a "
-"sinistra."
+"Vai a **Impostazioni** (icona dell'ingranaggio) dalla barra menu a sinistra."
 
 #: ../../get_started/toc.rst:224
 msgid "Under **Theme Options**, open the dropdown menu."
-msgstr "Sotto **Opzioni del tema**, aprire il menu a discesa."
+msgstr "Sotto **Opzioni tema**, apri il menu a tendina."
 
 #: ../../get_started/toc.rst:225
 msgid "Click on **Enabled**."
-msgstr "Fare clic su **Abilitato**."
+msgstr "Fai clic su **Abilitato**."
 
 #: ../../get_started/toc.rst:226
 msgid ""
 "Click on the **SAVE** button located in the **top right corner** of the "
 "screen."
 msgstr ""
-"Fai clic sul pulsante **SALVA** posizionato nell'**angolo in alto a destra** "
-"dello schermo."
+"Fai clic su **SALVA** posizionato nell'**angolo in alto a destra** dello "
+"schermo."
 
 #: ../../get_started/toc.rst:228
 msgid "To **disable Dark mode**, follow these steps:"
@@ -8867,7 +8858,7 @@ msgstr "Per **disabilitare la modalità scura**, segui questi passaggi:"
 #: ../../get_started/toc.rst:230
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr ""
-"Fai clic su **Disabilitato** nel medesimo menu a discesa e fai clic su "
+"Fai clic su **Disabilitato** nel medesimo menu a tendina e fai clic su "
 "**SALVA**."
 
 #: ../../get_started/toc.rst:232
@@ -8892,16 +8883,15 @@ msgstr ""
 
 #: ../../get_started/toc.rst:243
 msgid "Changing Font Size"
-msgstr "Modifica dimensione del carattere"
+msgstr "Modificare le Dimensioni dei Caratteri"
 
 #: ../../get_started/toc.rst:245
 msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
 msgstr ""
-"È possibile modificare la dimensione del carattere in tutti i client web "
-"di Carbonio in base alle proprie preferenze. Per modificare la dimensione"
-" del carattere, seguire semplicemente questi passaggi:"
+"Puoi modificare la dimensione del carattere di Carbonio in base alle tue "
+"preferenze. Per modificare la dimensione del carattere segui questi passaggi:"
 
 #: ../../get_started/toc.rst:247 ../../get_started/toc.rst:266
 #: ../../get_started/toc.rst:281
@@ -8915,31 +8905,30 @@ msgid ""
 "Under the **Appearance** section, find the slider for adjusting the font "
 "size."
 msgstr ""
-"Nella sezione **Aspetto**, trovare il cursore per regolare la dimensione del "
-"font."
+"Nella sezione **Aspetto**, trascina il cursore per regolare la dimensione "
+"del font."
 
 #: ../../get_started/toc.rst:250
 msgid ""
 "If you want to manually control the font size, uncheck the option that "
 "says *Automatically resize the text size depending on the device*."
 msgstr ""
-"Se si desidera controllare manualmente le dimensioni del carattere, "
-"deselezionare l'opzione che dice *Ridimensiona automaticamente le dimensioni "
-"del testo in base al dispositivo*."
+"Se vuoi controllare manualmente le dimensioni del carattere, deseleziona "
+"l'opzione che dice *Ridimensiona automaticamente le dimensioni del testo a "
+"seconda del dispositivo*."
 
 #: ../../get_started/toc.rst:251
 msgid ""
 "Use the slider to set the font size to your preference. As you move the "
 "slider, you will see the results in the bottom box with some dummy text."
 msgstr ""
-"Usa il cursore per impostare la dimensione del carattere in base alle tue "
-"preferenze. Mentre sposti il cursore, vedrai i risultati nella casella "
-"inferiore con un testo di esempio."
+"Mentre sposti il cursore sulla barra, vedrai i risultati nella casella "
+"inferiore, che mostrerà un testo di esempio."
 
 #: ../../get_started/toc.rst:252
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr ""
-"Una volta soddisfatto, fare clic su **SALVA** nell'angolo in alto a destra."
+"Una volta soddisfatto, fai clic su **SALVA** nell'angolo in alto a destra."
 
 #: ../../get_started/toc.rst:254
 msgid ""
@@ -8947,13 +8936,14 @@ msgid ""
 "leave the checkbox checked. Otherwise, adjust the font size manually "
 "using the slider."
 msgstr ""
-"Ricorda, se si preferisce una dimensione automatica in base al dispositivo, "
-"è possibile lasciare la casella di controllo selezionata. In caso contrario, "
-"regolare manualmente la dimensione del carattere utilizzando il cursore."
+"Ricorda, se preferisci una dimensione automatica che si adatta in base al "
+"dispositivo, lascia la casella corrispondente selezionata. In caso "
+"contrario, regolare manualmente la dimensione del carattere usando il "
+"cursore."
 
 #: ../../get_started/toc.rst:262
 msgid "Changing Your Time Zone"
-msgstr "Cambiare il proprio fuso orario"
+msgstr "Cambiare il Fuso Orario"
 
 #: ../../get_started/toc.rst:264
 msgid ""
@@ -8963,12 +8953,11 @@ msgid ""
 " collaborating with colleagues across different countries and time zones."
 " To change your time zone, follow these steps:"
 msgstr ""
-"Come spazio di lavoro digitale, Carbonio si affidare alle impostazioni "
-"precise del fuso orario per garantire prestazioni ottimali per i "
-"calendari e altre funzionalità come le email, garantendo timestamp "
-"accurate. Ciò diventa particolarmente cruciale quando si collabora con "
-"colleghi in diversi paesi e fusi orari. Per cambiare il proprio fuso "
-"orario, seguire questi passaggi:"
+"Carbonio si affida alle impostazioni precise del fuso orario per garantire "
+"prestazioni ottimali per i calendari e altre funzionalità come le email, "
+"garantendo un tracciamento dei tempi accurato. Ciò diventa particolarmente "
+"importante quando si collabora con colleghi in diversi paesi e fusi orari. "
+"Per cambiare il tuo fuso orario, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:268
 msgid ""

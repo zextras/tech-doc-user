@@ -10,7 +10,7 @@
 # to wipe out the old build and write a fresh one, use
 # make -C source/$i clean gettext html
 
-locales=('en' 'it' 'fr')
+locales=('en' 'it')
 
 for locale in "${locales[@]}"; do
   echo "Building $locale for"

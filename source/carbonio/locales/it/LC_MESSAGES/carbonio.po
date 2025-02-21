@@ -839,7 +839,7 @@ msgstr "**Social**: Specifica se si tratta di email relative ai social media."
 
 #: ../../advanced_email_management/toc.rst:239
 msgid "**Header Named**: Specifies a custom email header name."
-msgstr "**Nome intestazione **: Specifica caratteristiche dell'intestazione."
+msgstr "**Nome intestazione**: Specifica caratteristiche dell'intestazione."
 
 #: ../../advanced_email_management/toc.rst:241
 msgid ""
@@ -992,7 +992,7 @@ msgstr "Fai clic su **Sfoglia**, apparirà una nuova finestra."
 
 #: ../../advanced_email_management/toc.rst:273
 msgid "Select your Trash folder and click **CHOOSE**."
-msgstr "Seleziona la tua cartella Cestino e clicca su **SCEGLI*."
+msgstr "Seleziona la tua cartella Cestino e clicca su **SCEGLI**."
 
 #: ../../advanced_email_management/toc.rst:275
 msgid "Click CREATE."
@@ -2140,7 +2140,7 @@ msgstr "Seleziona **Elimina** dal menu a tendina."
 
 #: ../../appointments/toc.rst:81
 msgid "Click the **SEND CANCELATION** or **DELETE** button to confirm."
-msgstr "Clicca sul tasto**INVIA CANCELLAZIONE** o **ELIMINA** per confermare."
+msgstr "Clicca sul tasto **INVIA CANCELLAZIONE** o **ELIMINA** per confermare."
 
 #: ../../appointments/toc.rst:83
 msgid ""
@@ -2752,7 +2752,7 @@ msgid ""
 "moving or deleting them as necessary. If left untouched, they are "
 "automatically purged according to the administrator's settings."
 msgstr ""
-"**Spam*: Le email in arrivo sospette per spam, sebbene non definitivamente, "
+"**Spam**: Le email in arrivo sospette per spam, sebbene non definitivamente, "
 "vengono indirizzate qui. Puoi consultare questi messaggi, spostandoli o "
 "cancellandoli manualmente. Se lasciati dove sono, vengono automaticamente "
 "eliminati in base alle impostazioni dell'amministratore."
@@ -3209,7 +3209,7 @@ msgstr ""
 
 #: ../../basic_email_management/toc.rst:335
 msgid "Click the **EDIT SHARE** button."
-msgstr "Fai clic sul pulsante **MODIFICA CONDIVISIONE**per confermare."
+msgstr "Fai clic sul pulsante **MODIFICA CONDIVISIONE** per confermare."
 
 #: ../../basic_email_management/toc.rst:338
 msgid "Accepting Email Folder Sharing from Colleagues"
@@ -4337,12 +4337,10 @@ msgid "Set the color of the calendar."
 msgstr "Impostare il Colore di un Calendario"
 
 #: ../../calendars/toc.rst:66 ../../contacts/toc.rst:93
-#, fuzzy
 msgid "Click the **CREATE** button."
 msgstr "Fare clic sul pulsante **CREA**."
 
 #: ../../calendars/toc.rst:68
-#, fuzzy
 msgid ""
 "You can utilize the checkbox labeled **Exclude this calendar when "
 "reporting the free/busy times** when creating the calendar if you prefer "
@@ -4362,12 +4360,10 @@ msgstr ""
 "questo calendario."
 
 #: ../../calendars/toc.rst:75
-#, fuzzy
 msgid "Setting a Color for a Calendar"
 msgstr "Impostazione di un Colore per un Calendario"
 
 #: ../../calendars/toc.rst:77
-#, fuzzy
 msgid ""
 "To optimize your experience with |product|'s multiple calendar feature, "
 "it is advisable to assign distinct colors to each calendar. This ensures "
@@ -4379,17 +4375,14 @@ msgstr ""
 "stesso calendario."
 
 #: ../../calendars/toc.rst:79
-#, fuzzy
 msgid "To set a color for a calendar:"
 msgstr "Per impostare un colore per un calendario:"
 
 #: ../../calendars/toc.rst:81
-#, fuzzy
 msgid "Select the Calendars from your left sidebar."
-msgstr "Seleziona **Calendario** nel menu laterale a sinistra **."
+msgstr "Seleziona **Calendario** nel menu laterale a sinistra."
 
 #: ../../calendars/toc.rst:82
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click on the calendar for which you want "
 "to assign a color."
@@ -4398,49 +4391,40 @@ msgstr ""
 "desidera assegnare un colore."
 
 #: ../../calendars/toc.rst:83 ../../calendars/toc.rst:94
-#, fuzzy
 msgid "Select **Edit calendar properties** from the drop-down menu."
 msgstr "Seleziona **Modifica proprietà calendario** dal menu a discesa."
 
 #: ../../calendars/toc.rst:84
-#, fuzzy
 msgid "Choose a color from the **Calendar color** field."
 msgstr "Scegli un colore dal campo **Colore calendario**."
 
 #: ../../calendars/toc.rst:85 ../../calendars/toc.rst:96
-#, fuzzy
 msgid "Click the **OK** button."
 msgstr "Fare clic sul pulsante **OK**."
 
 #: ../../calendars/toc.rst:88
-#, fuzzy
 msgid "Editing a Calendar"
 msgstr "Modifica di un Calendario"
 
 #: ../../calendars/toc.rst:90 ../../calendars/toc.rst:101
-#, fuzzy
 msgid "To delete a calendar:"
 msgstr "Per eliminare un calendario:"
 
 #: ../../calendars/toc.rst:93 ../../calendars/toc.rst:104
-#, fuzzy
 msgid "In the Navigation Panel, right-click on the calendar you wish to edit."
 msgstr ""
 "Nel pannello di navigazione, fare clic con il pulsante destro del mouse sul "
 "calendario che si desidera modificare."
 
 #: ../../calendars/toc.rst:95 ../../tasks/toc.rst:40
-#, fuzzy
 msgid "Make your changes."
 msgstr "Esegui le modifiche."
 
 #: ../../calendars/toc.rst:99
-#, fuzzy
 msgid "Deleting a Calendar"
 msgstr "Eliminazione di un Calendario"
 
 #: ../../calendars/toc.rst:105
-#, fuzzy
 msgid ""
 "Select **Delete calendar** from the drop-down menu (this option is "
 "unavailable for your main calendar)."
@@ -4449,12 +4433,10 @@ msgstr ""
 "disponibile per il tuo calendario principale)."
 
 #: ../../calendars/toc.rst:106 ../../contacts/toc.rst:166
-#, fuzzy
 msgid "Click the **DELETE** button to confirm."
 msgstr "Fare clic sul pulsante **ELIMINA** per confermare."
 
 #: ../../calendars/toc.rst:108
-#, fuzzy
 msgid ""
 "This calendar will be moved to the **Trash** folder and can be deleted "
 "permanently from this folder."
@@ -4463,17 +4445,14 @@ msgstr ""
 "eliminato definitivamente da questa cartella."
 
 #: ../../calendars/toc.rst:111
-#, fuzzy
 msgid "Restoring a Trashed Calendar"
 msgstr "Ripristino di un Calendario Cestinato"
 
 #: ../../calendars/toc.rst:113
-#, fuzzy
 msgid "To restore a trashed calendar:"
 msgstr "Per ripristinare un calendario cestinato:"
 
 #: ../../calendars/toc.rst:116
-#, fuzzy
 msgid ""
 "In the Navigation Panel, click on the downward arrow next to the Trash "
 "folder. (if there is no downward arrow, your trash folder is empty)"
@@ -4483,14 +4462,12 @@ msgstr ""
 "tuo cestino è vuoto)"
 
 #: ../../calendars/toc.rst:117
-#, fuzzy
 msgid "Right-click on the calendar you wish to restore."
 msgstr ""
 "Fate clic con il pulsante destro del mouse sul calendario che si desidera "
 "ripristinare."
 
 #: ../../calendars/toc.rst:118
-#, fuzzy
 msgid "Click **Restore calendar** from the drop-down menu."
 msgstr "Fai clic su **Ripristina calendario** nel menu a discesa."
 
@@ -4975,7 +4952,7 @@ msgstr ""
 
 #: ../../chats(wsc)/toc.rst:7
 msgid "Working with Chats (WSC) :bdg-primary:`NEW`"
-msgstr "Lavorare con Chats (WSC) :bdg-primary:'NUOVO'"
+msgstr "Lavorare con Chats (WSC) :bdg-primary:`NEW`"
 
 #: ../../chats(wsc)/toc.rst:14
 msgid ""
@@ -5141,12 +5118,10 @@ msgid "Choose the file by navigating through the opened window."
 msgstr "Scegli il file navigando tra le tue cartelle Files."
 
 #: ../../chats(wsc)/toc.rst:61
-#, fuzzy
 msgid "Click **SHARE PUBLIC LINK**."
 msgstr "Clicca su **CONDIVIDI LINK PUBBLICO**."
 
 #: ../../chats(wsc)/toc.rst:63 ../../chats/toc.rst:65
-#, fuzzy
 msgid ""
 "This process will automatically generate a public link for your file and "
 "send it into the chat."
@@ -5166,19 +5141,16 @@ msgstr "Per modificare un messaggio:"
 #: ../../chats(wsc)/toc.rst:90 ../../chats(wsc)/toc.rst:101
 #: ../../chats/toc.rst:72 ../../chats/toc.rst:83 ../../chats/toc.rst:92
 #: ../../chats/toc.rst:102
-#, fuzzy
 msgid "Click on the downward arrow located next to the message bubble."
 msgstr ""
 "Fai clic sulla freccia verso il basso situata accanto alla bolla dei "
 "messaggi."
 
 #: ../../chats(wsc)/toc.rst:72 ../../chats/toc.rst:74
-#, fuzzy
 msgid "Edit the message and hit enter."
 msgstr "Modifica il messaggio e premi invio."
 
 #: ../../chats(wsc)/toc.rst:74 ../../chats/toc.rst:76
-#, fuzzy
 msgid ""
 "You have only a five-minute window to edit a message. After that, you "
 "will not be able to do so, and the edit option will disappear."
@@ -5188,68 +5160,55 @@ msgstr ""
 "più disponibile."
 
 #: ../../chats(wsc)/toc.rst:77 ../../chats/toc.rst:79
-#, fuzzy
 msgid "Reply A Message"
 msgstr "Rispondi a un Messaggio"
 
 #: ../../chats(wsc)/toc.rst:79 ../../chats/toc.rst:81
-#, fuzzy
 msgid "To reply to a message:"
 msgstr "Per rispondere a un messaggio:"
 
 #: ../../chats(wsc)/toc.rst:82 ../../chats/toc.rst:84
-#, fuzzy
 msgid "Select **Reply** from the drop-down menu."
 msgstr "Seleziona **Rispondi** dal menu a discesa."
 
 #: ../../chats(wsc)/toc.rst:83 ../../chats/toc.rst:85
-#, fuzzy
 msgid "Write the reply and hit enter."
 msgstr "Scrivi la risposta e premi invio."
 
 #: ../../chats(wsc)/toc.rst:86 ../../chats/toc.rst:88
-#, fuzzy
 msgid "Forward A Message"
 msgstr "Inoltra un messaggio"
 
 #: ../../chats(wsc)/toc.rst:88 ../../chats/toc.rst:90
-#, fuzzy
 msgid "To forward a message:"
 msgstr "Per inoltrare un messaggio:"
 
 #: ../../chats(wsc)/toc.rst:92
-#, fuzzy
 msgid "Click **FORWARD** at the bottom right corner of the chat box"
 msgstr ""
 "Clicca su **AVANTI** nell'angolo in basso a destra della finestra di chat"
 
 #: ../../chats(wsc)/toc.rst:93 ../../chats/toc.rst:94
-#, fuzzy
 msgid "Select the chat to which you want to forward the message."
 msgstr "Seleziona la chat a cui vuoi inoltrare il messaggio."
 
 #: ../../chats(wsc)/toc.rst:94 ../../chats/toc.rst:95
-#, fuzzy
 msgid "Click **FORWARD**."
 msgstr "Clicca su **AVANTI**."
 
 #: ../../chats(wsc)/toc.rst:97 ../../chats/toc.rst:98
-#, fuzzy
 msgid "Delete A Message"
 msgstr "Elimina un Messaggio"
 
 #: ../../chats(wsc)/toc.rst:99 ../../chats/toc.rst:100
-#, fuzzy
 msgid "To delete a message:"
 msgstr "Per eliminare un messaggio:"
 
 #: ../../chats(wsc)/toc.rst:102
-#, fuzzy
 msgid "Select **Delete for all** from the drop-down menu."
 msgstr "Seleziona **Elimina per tutti** dal menu a discesa."
 
 #: ../../chats(wsc)/toc.rst:104 ../../chats/toc.rst:106
-#, fuzzy
 msgid ""
 "You have only a five-minute window to delete a message. After that, you "
 "will not be able to do so, and the delete option will disappear."
@@ -5258,12 +5217,10 @@ msgstr ""
 "che, non sarà più possibile farlo e l'opzione Elimina scomparirà."
 
 #: ../../chats(wsc)/toc.rst:107 ../../chats/toc.rst:109
-#, fuzzy
 msgid "Mute Notifications of a Chat"
 msgstr "Silenzia notifiche di una chat"
 
 #: ../../chats(wsc)/toc.rst:109 ../../chats/toc.rst:111
-#, fuzzy
 msgid ""
 "When you receive a new message in an individual chat or group chat, you "
 "will see a notification on your screen to inform you. If you want to "
@@ -5274,19 +5231,16 @@ msgstr ""
 "notifiche per una chat o un gruppo specifico, segui questi passaggi:"
 
 #: ../../chats(wsc)/toc.rst:112 ../../chats/toc.rst:114
-#, fuzzy
 msgid "Select the chat or group for which you want to mute notifications."
 msgstr ""
 "Seleziona la chat o il gruppo per cui desideri disattivare le notifiche."
 
 #: ../../chats(wsc)/toc.rst:113 ../../chats/toc.rst:115
-#, fuzzy
 msgid "On the right side of the Main Panel, click **Mute notifications**."
 msgstr ""
 "Nel lato destro del Pannello Principale, cliccare su **Disattiva notifiche**."
 
 #: ../../chats(wsc)/toc.rst:115 ../../chats/toc.rst:117
-#, fuzzy
 msgid ""
 "To unmute, follow the same procedure and choose **Activate "
 "notifications**."
@@ -5294,39 +5248,32 @@ msgstr ""
 "Per attivare, segui la stessa procedura e scegli **Attiva le notifiche**."
 
 #: ../../chats(wsc)/toc.rst:118 ../../chats/toc.rst:120
-#, fuzzy
 msgid "Clear History of a Chat"
 msgstr "Cancella la cronologia di una Chat"
 
 #: ../../chats(wsc)/toc.rst:120 ../../chats/toc.rst:122
-#, fuzzy
 msgid "To clear the history of a specific chat or group:"
 msgstr "Per cancellare la cronologia di una chat o un gruppo specifico:"
 
 #: ../../chats(wsc)/toc.rst:123 ../../chats/toc.rst:125
-#, fuzzy
 msgid "Select the chat or group you want to clear the history for."
 msgstr ""
 "Seleziona la chat o il gruppo per cui desideri cancellare la cronologia."
 
 #: ../../chats(wsc)/toc.rst:124 ../../chats/toc.rst:126
-#, fuzzy
 msgid "On the right side of the Main Panel, click **Clear History**."
 msgstr ""
 "Sul lato destro del Pannello Principale, clicca su **Cancella Cronologia**."
 
 #: ../../chats(wsc)/toc.rst:125 ../../chats/toc.rst:127
-#, fuzzy
 msgid "Click **CLEAR HISTORY** to confirm."
 msgstr "Clicca su **CANCELLA CRONOLOGIA** per confermare."
 
 #: ../../chats(wsc)/toc.rst:128 ../../chats/toc.rst:130
-#, fuzzy
 msgid "Creating New Group"
 msgstr "Creazione Nuovo Gruppo"
 
 #: ../../chats(wsc)/toc.rst:130 ../../chats/toc.rst:132
-#, fuzzy
 msgid ""
 "Groups allow for group conversations with at least three attendees. You "
 "can create a group chat by following these steps:"
@@ -5335,17 +5282,14 @@ msgstr ""
 "partecipanti. È possibile creare un gruppo di chat seguendo questi passaggi:"
 
 #: ../../chats(wsc)/toc.rst:135
-#, fuzzy
 msgid "Click on the name of the colleagues that appears in the list."
 msgstr "Fare clic sul nome dei colleghi che appare nell'elenco."
 
 #: ../../chats(wsc)/toc.rst:136
-#, fuzzy
 msgid "Insert a title for the group."
 msgstr "Inserisci un titolo per il gruppo."
 
 #: ../../chats(wsc)/toc.rst:137
-#, fuzzy
 msgid ""
 "(Optional) Insert a topic for the group. While this step is not "
 "mandatory, providing a topic can help clarify the group's purpose."
@@ -5355,17 +5299,14 @@ msgstr ""
 "scopo del gruppo."
 
 #: ../../chats(wsc)/toc.rst:138
-#, fuzzy
 msgid "Click **NEW GROUP**."
 msgstr "Fai clic su **NUOVO GRUPPO**."
 
 #: ../../chats(wsc)/toc.rst:141 ../../chats/toc.rst:141
-#, fuzzy
 msgid "Now this group is added to your list under the Chats tab."
 msgstr "Ora questo gruppo viene aggiunto alla tua lista sotto la scheda Chat."
 
 #: ../../chats(wsc)/toc.rst:143 ../../chats/toc.rst:143
-#, fuzzy
 msgid ""
 "Once you have created and selected a group, you can start typing your "
 "message in the bottom text box. You can also add emojis and attach files "
@@ -5378,24 +5319,20 @@ msgstr ""
 "macOS per inviare il messaggio."
 
 #: ../../chats(wsc)/toc.rst:146 ../../chats/toc.rst:146
-#, fuzzy
 msgid "Add Participants to a Group"
 msgstr "Aggiungi partecipanti a un gruppo"
 
 #: ../../chats(wsc)/toc.rst:148 ../../chats/toc.rst:148
-#, fuzzy
 msgid "You can add new members to a group if you are a moderator. Here is how:"
 msgstr ""
 "È possibile aggiungere nuovi membri a un gruppo se si è un moderatore. Ecco "
 "come:"
 
 #: ../../chats(wsc)/toc.rst:151 ../../chats/toc.rst:151 ../../chats/toc.rst:164
-#, fuzzy
 msgid "Select the group to which you want to add members."
 msgstr "Seleziona il gruppo a cui desideri aggiungere membri."
 
 #: ../../chats(wsc)/toc.rst:152 ../../chats/toc.rst:152
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, click **Add new members**. A new "
 "window appears."
@@ -5404,18 +5341,15 @@ msgstr ""
 "membri**. Si apre una nuova finestra."
 
 #: ../../chats(wsc)/toc.rst:153 ../../chats/toc.rst:153
-#, fuzzy
 msgid "Begin typing the email address of the colleague you wish to add."
 msgstr ""
 "Inizia a digitare l'indirizzo e-mail del collega che desideri aggiungere."
 
 #: ../../chats(wsc)/toc.rst:154
-#, fuzzy
 msgid "Click **ADD NEW MEMBERS** to confirm."
 msgstr "Clicca su **AGGIUNGI NUOVI MEMBRI** per confermare."
 
 #: ../../chats(wsc)/toc.rst:156 ../../chats/toc.rst:156
-#, fuzzy
 msgid ""
 "You can enable the checkbox labeled **Show previous conversation "
 "history** to allow members to view previous messages. Otherwise, they "
@@ -5426,12 +5360,10 @@ msgstr ""
 "messaggi precedenti. In caso contrario, non sarà possibile visualizzarli."
 
 #: ../../chats(wsc)/toc.rst:159 ../../chats/toc.rst:159
-#, fuzzy
 msgid "Remove Participants from a Group"
 msgstr "Rimuovi Utenti da un Gruppo"
 
 #: ../../chats(wsc)/toc.rst:161 ../../chats/toc.rst:161
-#, fuzzy
 msgid "You can remove members from a group if you are a moderator. Here is how:"
 msgstr ""
 "Si possono rimuovere membri da un gruppo se si è un moderatore. Ecco come:"
@@ -5445,17 +5377,14 @@ msgstr ""
 #: ../../videomeetings/toc.rst:66 ../../videomeetings/toc.rst:78
 #: ../../videomeetings/toc.rst:90 ../../videomeetings/toc.rst:104
 #: ../../videomeetings/toc.rst:201
-#, fuzzy
 msgid "Select the **Chats feature** from your left sidebar."
 msgstr "Seleziona la funzione di **Chat** dalla barra laterale sinistra."
 
 #: ../../chats(wsc)/toc.rst:164
-#, fuzzy
 msgid "Select the group to which you want to remove members."
 msgstr "Seleziona il gruppo da cui desideri rimuovere membri."
 
 #: ../../chats(wsc)/toc.rst:165
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, under the Members section, click on "
 "the trash icon next to the user you want to remove."
@@ -5464,27 +5393,22 @@ msgstr ""
 "sull'icona del cestino accanto all'utente che desideri rimuovere."
 
 #: ../../chats(wsc)/toc.rst:166 ../../chats/toc.rst:166
-#, fuzzy
 msgid "Click **REMOVE** to confirm."
 msgstr "Fai clic su **RIMUOVI** per confermare."
 
 #: ../../chats(wsc)/toc.rst:169 ../../chats/toc.rst:169
-#, fuzzy
 msgid "Leave Group"
 msgstr "Abbandona conversazione"
 
 #: ../../chats(wsc)/toc.rst:171 ../../chats/toc.rst:171
-#, fuzzy
 msgid "To leave a group:"
 msgstr "Per uscire da un gruppo:"
 
 #: ../../chats(wsc)/toc.rst:174 ../../chats/toc.rst:174
-#, fuzzy
 msgid "Select the group you want to leave."
 msgstr "Seleziona il gruppo dal quale desideri uscire."
 
 #: ../../chats(wsc)/toc.rst:175
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, under the Actions section, click "
 "**Leave Group**."
@@ -5493,17 +5417,14 @@ msgstr ""
 "**Lascia Gruppo**."
 
 #: ../../chats(wsc)/toc.rst:176 ../../chats/toc.rst:176
-#, fuzzy
 msgid "Click **LEAVE** to confirm."
 msgstr "Cliccare su **Esci** per confermare."
 
 #: ../../chats(wsc)/toc.rst:179 ../../chats/toc.rst:179
-#, fuzzy
 msgid "Assigning Moderators for A Group"
 msgstr "Assegnare i Moderator per un Gruppo"
 
 #: ../../chats(wsc)/toc.rst:181 ../../chats/toc.rst:181
-#, fuzzy
 msgid ""
 "If you are already a moderator, you can assign other moderators to a "
 "group. Here is how:"
@@ -5512,12 +5433,10 @@ msgstr ""
 "come:"
 
 #: ../../chats(wsc)/toc.rst:184 ../../chats/toc.rst:184
-#, fuzzy
 msgid "Select the group to which you want to add a moderator."
 msgstr "Seleziona il gruppo al quale desideri aggiungere un moderatore."
 
 #: ../../chats(wsc)/toc.rst:185
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, under the Members section, click on "
 "the crown icon next to the user you want to appoint as a moderator."
@@ -5527,22 +5446,18 @@ msgstr ""
 "moderatore."
 
 #: ../../chats(wsc)/toc.rst:188
-#, fuzzy
 msgid "Edit a Group's Name or Topic"
 msgstr "Modifica nome di un gruppo o argomento"
 
 #: ../../chats(wsc)/toc.rst:190 ../../chats/toc.rst:190
-#, fuzzy
 msgid "To edit a group’s name:"
 msgstr "Per modificare il nome di un gruppo:"
 
 #: ../../chats(wsc)/toc.rst:193 ../../chats/toc.rst:193
-#, fuzzy
 msgid "Select the group for which you want to change the name."
 msgstr "Seleziona il gruppo per cui desideri modificare il nome."
 
 #: ../../chats(wsc)/toc.rst:194
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, under the Actions section, click on "
 "the Edit details."
@@ -5551,65 +5466,53 @@ msgstr ""
 "Modifica dettagli."
 
 #: ../../chats(wsc)/toc.rst:195
-#, fuzzy
 msgid "Edit the name or topic."
 msgstr "Modifica il nome o l'argomento."
 
 #: ../../chats(wsc)/toc.rst:196 ../../chats/toc.rst:196
-#, fuzzy
 msgid "Press the save icon on the right."
 msgstr "Premi l'icona di salveataggio sulla destra."
 
 #: ../../chats(wsc)/toc.rst:200 ../../chats/toc.rst:204
-#, fuzzy
 msgid "Search for A Member in Your Chats List"
 msgstr "Cerca un membro nella tua lista dei contatti"
 
 #: ../../chats(wsc)/toc.rst:202 ../../chats/toc.rst:206
-#, fuzzy
 msgid "To search for a colleague in your chat list:"
 msgstr "Per cercare un collega nella tua lista chat:"
 
 #: ../../chats(wsc)/toc.rst:205
-#, fuzzy
 msgid "In the Type to filter list field, insert your colleague's name."
 msgstr "Nel campo Filtra l'elenco digitando, inserisci il nome del tuo collega."
 
 #: ../../chats(wsc)/toc.rst:208
-#, fuzzy
 msgid "Exporting a Chat"
 msgstr "Esportazione di una Chat"
 
 #: ../../chats(wsc)/toc.rst:210
-#, fuzzy
 msgid "If needed, you have the chance to export all the chats from your account."
 msgstr ""
 "Se necessario, hai la possibilità di esportare tutte le chat dal tuo account."
 
 #: ../../chats(wsc)/toc.rst:212
-#, fuzzy
 msgid "To export a chat simply:"
 msgstr "Per esportare una chat semplicemente:"
 
 #: ../../chats(wsc)/toc.rst:214
-#, fuzzy
 msgid "Open Chats settings, clicking on gear icon in the left bar"
 msgstr ""
 "Apri le Impostazioni delle Chat, facendo clic sull'icona dell'ingranaggio "
 "nella barra laterale sinistra"
 
 #: ../../chats(wsc)/toc.rst:215
-#, fuzzy
 msgid "Go to \"Export Chat\" section"
 msgstr "Vai alla sezione \"Esporta chat\""
 
 #: ../../chats(wsc)/toc.rst:216
-#, fuzzy
 msgid "Select the chat you want to export"
 msgstr "Seleziona la chat da esportare"
 
 #: ../../chats(wsc)/toc.rst:217
-#, fuzzy
 msgid ""
 "After a while (depending on how many messages it contains) it will start "
 "the download process of the chat, in a .txt file format"
@@ -5618,12 +5521,10 @@ msgstr ""
 "processo di download della chat, in formato file .txt"
 
 #: ../../chats/toc.rst:7
-#, fuzzy
 msgid "Working with Chats"
 msgstr "Chat"
 
 #: ../../chats/toc.rst:14
-#, fuzzy
 msgid ""
 "Within the |product| web client, Chats are a pivotal communication tool, "
 "accommodating both one-on-one and group conversations. Users can engage "
@@ -5637,7 +5538,6 @@ msgstr ""
 "migliorando gli sforzi collaborativi."
 
 #: ../../chats/toc.rst:16
-#, fuzzy
 msgid ""
 "Whether it is sharing updates, exchanging ideas, or coordinating tasks, "
 "the Chats provide a streamlined platform for efficient teamwork. "
@@ -5652,7 +5552,6 @@ msgstr ""
 "loro posizione, sia che lavorino in remoto o in ufficio."
 
 #: ../../chats/toc.rst:31
-#, fuzzy
 msgid ""
 "Initially, you will not see any chats in your chat system, but once you "
 "create them, you can find them on the list."
@@ -5661,36 +5560,30 @@ msgstr ""
 "creati è possibile trovarli nell'elenco."
 
 #: ../../chats/toc.rst:63
-#, fuzzy
 msgid "Click **SHARE PUBLICK LINK**."
 msgstr "Fai clic su **CONDIVIDI LINK PUBBLICO**."
 
 #: ../../chats/toc.rst:104 ../../videomeetings/toc.rst:205
-#, fuzzy
 msgid "Click **DELETE** to confirm."
 msgstr "Fai clic su **ELIMINA** per confermare."
 
 #: ../../chats/toc.rst:135 ../../contacts/toc.rst:177 ../../files/toc.rst:32
 #: ../../files/toc.rst:42 ../../files/toc.rst:162 ../../files/toc.rst:173
-#, fuzzy
 msgid "From the top bar, click the **downward arrow** next to the **NEW** button."
 msgstr ""
 "Dalla barra superiore, clicca sulla **freccia discendente** accanto al "
 "pulsante **NUOVO**."
 
 #: ../../chats/toc.rst:136
-#, fuzzy
 msgid "Select **Create Group** from the drop-down menu. A new window appears."
 msgstr ""
 "Seleziona **Crea gruppo** dal menu a discesa. Appare una nuova finestra."
 
 #: ../../chats/toc.rst:137
-#, fuzzy
 msgid "Insert a name for the group."
 msgstr "Inserisci un nome per il gruppo."
 
 #: ../../chats/toc.rst:138
-#, fuzzy
 msgid ""
 "In the next field, begin typing the email address of the colleagues you "
 "wish to add to the group."
@@ -5699,12 +5592,10 @@ msgstr ""
 "desideri aggiungere al gruppo."
 
 #: ../../chats/toc.rst:154
-#, fuzzy
 msgid "Click **SAVE**."
 msgstr "Fai clic su **SALVA**."
 
 #: ../../chats/toc.rst:165
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, under the **Participants section**, "
 "click on the trash icon next to the user you want to remove."
@@ -5714,13 +5605,11 @@ msgstr ""
 "rimuovere."
 
 #: ../../chats/toc.rst:175
-#, fuzzy
 msgid "On the right side of the Main Panel, click **Leave Group**."
 msgstr ""
 "Nella parte destra del Pannello principale, fai clic su **Esci dal gruppo**."
 
 #: ../../chats/toc.rst:185
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, under the **Participants section**, "
 "click on the crown icon next to the user you want to appoint as a "
@@ -5731,12 +5620,10 @@ msgstr ""
 "moderatore."
 
 #: ../../chats/toc.rst:188
-#, fuzzy
 msgid "Edit a Group's Name"
 msgstr "Modifica nome gruppo"
 
 #: ../../chats/toc.rst:194
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, click on the pen icon next to the "
 "group’s name."
@@ -5745,17 +5632,14 @@ msgstr ""
 "accanto al nome del gruppo."
 
 #: ../../chats/toc.rst:195 ../../files/toc.rst:134
-#, fuzzy
 msgid "Edit the name."
 msgstr "Modifica nome."
 
 #: ../../chats/toc.rst:199
-#, fuzzy
 msgid "Exporting a Group to the New Chat (WSC):"
 msgstr "Esportazione di un Gruppo al Nuovo Chat (WSC):"
 
 #: ../../chats/toc.rst:201
-#, fuzzy
 msgid ""
 "To export an existing group to the new chat, simply enter the group, "
 "click the button on the right, below the group’s name, **COPY GROUP**. A "
@@ -5772,18 +5656,15 @@ msgstr ""
 "duplicato, reindirizzandoti al gruppo esportato nella nuova chat."
 
 #: ../../chats/toc.rst:209
-#, fuzzy
 msgid "Under the **Filter chats list** field, insert your colleague's name."
 msgstr ""
 "Sotto il campo **Filtra elenco chat**, inserisci il nome del tuo collega."
 
 #: ../../composing_emails/toc.rst:7
-#, fuzzy
 msgid "Composing Emails"
 msgstr "Scrivere un'email"
 
 #: ../../composing_emails/toc.rst:9
-#, fuzzy
 msgid ""
 "In this section, you will discover how to navigate |product| email "
 "composer and how to use its various features including working with "
@@ -6081,7 +5962,6 @@ msgstr ""
 "Carbonio Files."
 
 #: ../../composing_emails/toc.rst:101
-#, fuzzy
 msgid ""
 "It is important to note that computer viruses are commonly transmitted "
 "through file attachments. As a precaution, system administrators may "
@@ -6102,12 +5982,10 @@ msgstr ""
 "destinatario se ha ricevuto l'allegato o meno."
 
 #: ../../composing_emails/toc.rst:108
-#, fuzzy
 msgid "Managing Large Attachments"
 msgstr "Gestione di allegati di grandi dimensioni"
 
 #: ../../composing_emails/toc.rst:110
-#, fuzzy
 msgid ""
 "When you want to attach large attachments to an email, you may encounter "
 "some limitations. When you reach the size limit set by your admin for the"
@@ -6125,7 +6003,6 @@ msgstr ""
 "da File\"."
 
 #: ../../composing_emails/toc.rst:116
-#, fuzzy
 msgid ""
 "Afterwards, simply follow the path and select the folder inside Files, "
 "where is located the file you want to send."
@@ -6352,29 +6229,24 @@ msgstr "Per rispondere a un'email, segui questi passaggi:"
 
 #: ../../composing_emails/toc.rst:201 ../../composing_emails/toc.rst:221
 #: ../../composing_emails/toc.rst:232
-#, fuzzy
 msgid "Locate the email in the email list."
 msgstr "Localizza l'email nell'elenco email."
 
 #: ../../composing_emails/toc.rst:203
-#, fuzzy
 msgid "From the menu that appears, select **Reply** or **Reply all**."
 msgstr "Dal menu visualizzato, seleziona **Rispondi** o **Rispondi a tutti**."
 
 #: ../../composing_emails/toc.rst:204
-#, fuzzy
 msgid "A new composing board will appear, allowing you to compose your reply."
 msgstr ""
 "Un nuovo pannello di composizione compare, consentendoti di comporre la tua "
 "risposta."
 
 #: ../../composing_emails/toc.rst:207
-#, fuzzy
 msgid "Reply and Reply All"
 msgstr "Rispondi e Rispondi a tutti"
 
 #: ../../composing_emails/toc.rst:209
-#, fuzzy
 msgid ""
 "The difference between reply and reply all lies in the recipients of your"
 " response. When you choose Reply, your response is directed only to the "
@@ -6387,7 +6259,6 @@ msgstr ""
 "mittente senza coinvolgere altri destinatari."
 
 #: ../../composing_emails/toc.rst:211
-#, fuzzy
 msgid ""
 "In the case of reply all, the recipients other than the original sender "
 "are automatically included in the Cc (carbon copy) field of your "
@@ -6400,7 +6271,6 @@ msgstr ""
 "riceverà anche la tua risposta."
 
 #: ../../composing_emails/toc.rst:213
-#, fuzzy
 msgid ""
 "This option is ideal for situations where your response is relevant to "
 "everyone included in the initial communication, facilitating group "
@@ -6412,49 +6282,40 @@ msgstr ""
 "contemporaneamente."
 
 #: ../../composing_emails/toc.rst:217
-#, fuzzy
 msgid "Forwarding an Email"
 msgstr "Inoltro di un'E-mail"
 
 #: ../../composing_emails/toc.rst:219
-#, fuzzy
 msgid "To forward an email, follow these steps:"
 msgstr "Per inoltrare un'e-mail, seguire questi passaggi:"
 
 #: ../../composing_emails/toc.rst:223
-#, fuzzy
 msgid "From the menu that appears, select Forward."
 msgstr "Dal menu che appare, scegli Inoltra."
 
 #: ../../composing_emails/toc.rst:224 ../../composing_emails/toc.rst:235
-#, fuzzy
 msgid "A new composing board will appear, allowing you to address new recipients."
 msgstr ""
 "Un nuovo pannello di composizione apparirà, consentendoti di inserire nuovi "
 "destinatari."
 
 #: ../../composing_emails/toc.rst:228
-#, fuzzy
 msgid "Redirecting an Email"
 msgstr "Reindirizzamento di un Messaggio Elettronico"
 
 #: ../../composing_emails/toc.rst:230
-#, fuzzy
 msgid "To redirect an email, follow these steps:"
 msgstr "Per reindirizzare un'email, segui questi passaggi:"
 
 #: ../../composing_emails/toc.rst:234
-#, fuzzy
 msgid "From the menu that appears, select **Redirect**."
 msgstr "Dal menu che compare, seleziona **Reindirizzamento**."
 
 #: ../../composing_emails/toc.rst:239
-#, fuzzy
 msgid "Forward vs. Redirect"
 msgstr "Inoltro vs. Reindirizzamento"
 
 #: ../../composing_emails/toc.rst:241
-#, fuzzy
 msgid ""
 "The distinction between forwarding and redirecting emails lies in their "
 "intended purpose and outcome. When you forward an email, you are "
@@ -6482,7 +6343,6 @@ msgstr ""
 "comunicazioni importanti raggiungano direttamente il destinatario giusto."
 
 #: ../../composing_emails/toc.rst:243
-#, fuzzy
 msgid ""
 "Therefore, opting to redirect a message instead of forwarding it "
 "simplifies the process for the recipient to reply directly to the "
@@ -6493,12 +6353,10 @@ msgstr ""
 "mittente originale."
 
 #: ../../contacts/toc.rst:7
-#, fuzzy
 msgid "Working with Contacts"
 msgstr "Contatti"
 
 #: ../../contacts/toc.rst:13
-#, fuzzy
 msgid ""
 "Managing your contacts is essential for staying connected and organized. "
 "In this section, we will guide you through the features and "
@@ -6515,17 +6373,14 @@ msgstr ""
 "organizzare e accedere ai tuoi contatti senza sforzo."
 
 #: ../../contacts/toc.rst:16
-#, fuzzy
 msgid "Accessing Your Contact Book"
 msgstr "Accedi al tuo Libro degli Indirizzi"
 
 #: ../../contacts/toc.rst:18
-#, fuzzy
 msgid "In your contacts section, you will find two primary address books:"
 msgstr "Nella tua sezione Contatti, troverai due rubriche principali:"
 
 #: ../../contacts/toc.rst:20
-#, fuzzy
 msgid ""
 "**Contacts**: This address book contains individuals you have added "
 "manually, representing your existing connections."
@@ -6534,7 +6389,6 @@ msgstr ""
 "manualmente, che rappresentano le tue connessioni esistenti."
 
 #: ../../contacts/toc.rst:21
-#, fuzzy
 msgid ""
 "**Emailed Contacts**: This address book contains individuals with whom "
 "you have correspondence via email."
@@ -6543,24 +6397,20 @@ msgstr ""
 "quali hai avuto una corrispondenza via email."
 
 #: ../../contacts/toc.rst:23
-#, fuzzy
 msgid "To access your existing **Contacts list**:"
 msgstr "Per accedere all'elenco dei **Contatti esistenti**:"
 
 #: ../../contacts/toc.rst:25 ../../contacts/toc.rst:32
-#, fuzzy
 msgid "From the left sidebar click on the **Contacts** section."
 msgstr "Dal menu laterale sinistro, fare clic sulla sezione **Contatti**."
 
 #: ../../contacts/toc.rst:26
-#, fuzzy
 msgid "In the Navigation Panel, click on the **Contacts** address book."
 msgstr ""
 "Nel pannello di navigazione, fare clic sul libro degli indirizzi "
 "**Contatti**."
 
 #: ../../contacts/toc.rst:28
-#, fuzzy
 msgid ""
 "Once selected, you will be presented with a list of all your contacts. "
 "Initially, this section might appear empty if you have not added any "
@@ -6573,19 +6423,16 @@ msgstr ""
 "qualsiasi momento in futuro per popolare l'elenco."
 
 #: ../../contacts/toc.rst:30
-#, fuzzy
 msgid "To access emailed contacts:"
 msgstr "Per accedere ai contatti inviati via e-mail:"
 
 #: ../../contacts/toc.rst:33
-#, fuzzy
 msgid "In the Navigation Panel, click on the **Emailed Contacts** address book."
 msgstr ""
 "Nel Pannello di navigazione, fare clic sulla rubrica **Contatti inviati via "
 "e-mail**."
 
 #: ../../contacts/toc.rst:35
-#, fuzzy
 msgid ""
 "Once selected, you will be presented with a list of all addresses with "
 "whom you have corresponded via email. Initially, this section might "
@@ -6596,12 +6443,10 @@ msgstr ""
 "apparire vuota se non hai ancora avuto alcuna corrispondenza."
 
 #: ../../contacts/toc.rst:38
-#, fuzzy
 msgid "Adding a New Contact"
 msgstr "Aggiunta di un Nuovo Contatto"
 
 #: ../../contacts/toc.rst:40
-#, fuzzy
 msgid "To add a new contact to your contact list:"
 msgstr "Per aggiungere un nuovo contatto alla tua lista dei contatti:"
 
@@ -6614,17 +6459,14 @@ msgstr "Per aggiungere un nuovo contatto alla tua lista dei contatti:"
 #: ../../contacts/toc.rst:201 ../../contacts/toc.rst:222
 #: ../../contacts/toc.rst:236 ../../contacts/toc.rst:249
 #: ../../contacts/toc.rst:262
-#, fuzzy
 msgid "Select the **Contacts** from your left sidebar."
 msgstr "Seleziona i **Contatti** dal menu laterale sinistro."
 
 #: ../../contacts/toc.rst:44 ../../contacts/toc.rst:60
-#, fuzzy
 msgid "Enter the contact’s information."
 msgstr "Inserisci le informazioni di contatto."
 
 #: ../../contacts/toc.rst:45
-#, fuzzy
 msgid ""
 "Under the **Destination address book section**, choose the address book "
 "where you want the contact to be saved."
@@ -6633,24 +6475,20 @@ msgstr ""
 "in cui vuoi salvare il contatto."
 
 #: ../../contacts/toc.rst:46
-#, fuzzy
 msgid "Click the **SAVE** button in the top right corner of the board."
 msgstr ""
 "Fare clic sul pulsante **SALVA** nell'angolo superiore destro della lavagna."
 
 #: ../../contacts/toc.rst:53
-#, fuzzy
 msgid "Editing a Contact"
 msgstr "Modifica di un Contatto"
 
 #: ../../contacts/toc.rst:55
-#, fuzzy
 msgid "To edit an existing contact:"
 msgstr "Per modificare un contatto esistente:"
 
 #: ../../contacts/toc.rst:58 ../../contacts/toc.rst:70
 #: ../../contacts/toc.rst:80
-#, fuzzy
 msgid ""
 "In the Navigation Panel, select the address book that contains the "
 "contact you wish to edit."
@@ -6659,36 +6497,30 @@ msgstr ""
 "contiene il contatto che si desidera modificare."
 
 #: ../../contacts/toc.rst:59
-#, fuzzy
 msgid "Locate and click on the contact you wish to edit from the main panel."
 msgstr ""
 "Individua e clicca sul contatto che desideri modificare dal pannello "
 "principale."
 
 #: ../../contacts/toc.rst:61
-#, fuzzy
 msgid "Click the **EDIT** button in the top right corner of the main panel."
 msgstr ""
 "Fai clic sul pulsante **MODIFICA** nell'angolo in alto a destra del pannello "
 "principale."
 
 #: ../../contacts/toc.rst:62
-#, fuzzy
 msgid "Edit the information and click the **SAVE** button."
 msgstr "Modifica le informazioni e clicca sul pulsante **SALVA**."
 
 #: ../../contacts/toc.rst:65
-#, fuzzy
 msgid "Assigning a Tag to a Contact"
 msgstr "Assegnazione di un Tag a un Contatto"
 
 #: ../../contacts/toc.rst:67
-#, fuzzy
 msgid "To assign a tag to an existing contact:"
 msgstr "Per assegnare un tag a un contatto esistente:"
 
 #: ../../contacts/toc.rst:71
-#, fuzzy
 msgid ""
 "Locate and right-click on the contact you wish to edit from the main "
 "panel."
@@ -6697,22 +6529,18 @@ msgstr ""
 "principale."
 
 #: ../../contacts/toc.rst:72
-#, fuzzy
 msgid "Choose the tag you wish to assign to the contact from the drop-down menu."
 msgstr "Scegli il tag che desideri assegnare al contatto dal menu a discesa."
 
 #: ../../contacts/toc.rst:75
-#, fuzzy
 msgid "Deleting a Contact"
 msgstr "Eliminazione di un Contatto"
 
 #: ../../contacts/toc.rst:77
-#, fuzzy
 msgid "To delete an existing contact:"
 msgstr "Per eliminare un contatto esistente:"
 
 #: ../../contacts/toc.rst:81
-#, fuzzy
 msgid ""
 "Locate and right-click on the contact you wish to delete from the main "
 "panel."
@@ -6721,22 +6549,18 @@ msgstr ""
 "eliminare dal pannello principale."
 
 #: ../../contacts/toc.rst:82
-#, fuzzy
 msgid "Click on the **Delete** button."
 msgstr "Fai clic sul pulsante **Elimina**."
 
 #: ../../contacts/toc.rst:85
-#, fuzzy
 msgid "Adding an Address Book"
 msgstr "Aggiungere un Libro degli Indirizzi"
 
 #: ../../contacts/toc.rst:87
-#, fuzzy
 msgid "To add an address book:"
 msgstr "Per aggiungere un'agenda degli indirizzi:"
 
 #: ../../contacts/toc.rst:90
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click on the address book where you want "
 "to add the address book."
@@ -6745,27 +6569,22 @@ msgstr ""
 "sull'elenco di recapiti dove si desidera aggiungere l'elenco di recapiti."
 
 #: ../../contacts/toc.rst:91
-#, fuzzy
 msgid "Select **New address Book**. A new board will appear."
 msgstr "Seleziona **New address Book**. Apparirà una nuova scheda."
 
 #: ../../contacts/toc.rst:92
-#, fuzzy
 msgid "Add a name for the address book."
 msgstr "Aggiungi un nome al rubrica."
 
 #: ../../contacts/toc.rst:100
-#, fuzzy
 msgid "Moving a Contact Between Address Books"
 msgstr "Spostamento di un contatto tra rubriche"
 
 #: ../../contacts/toc.rst:102
-#, fuzzy
 msgid "To move a contact between address books:"
 msgstr "Per spostare un contatto tra rubriche:"
 
 #: ../../contacts/toc.rst:105
-#, fuzzy
 msgid ""
 "In the Navigation Panel, click on the address book that contains the "
 "contact you wish to move."
@@ -6774,62 +6593,51 @@ msgstr ""
 "contiene il contatto che si desidera spostare."
 
 #: ../../contacts/toc.rst:106
-#, fuzzy
 msgid "Right-click on the contact you wish to move."
 msgstr "Fare clic con il pulsante destro del mouse sul contatto da spostare."
 
 #: ../../contacts/toc.rst:107 ../../contacts/toc.rst:118
 #: ../../files/toc.rst:214
-#, fuzzy
 msgid "Select **Move** from the drop-down menu. A new window appears."
 msgstr "Seleziona **Sposta** dal menu a tendina. Appare una nuova finestra."
 
 #: ../../contacts/toc.rst:108
-#, fuzzy
 msgid "Select the destination address book."
 msgstr "Seleziona il libro indirizzi di destinazione."
 
 #: ../../contacts/toc.rst:109 ../../contacts/toc.rst:120
 #: ../../files/toc.rst:216
-#, fuzzy
 msgid "Click the **MOVE** button."
 msgstr "Fai clic sul pulsante SPOSTA."
 
 #: ../../contacts/toc.rst:112
-#, fuzzy
 msgid "Moving an Address Book"
 msgstr "Spostamento di un Libretto degli Indirizzi"
 
 #: ../../contacts/toc.rst:114
-#, fuzzy
 msgid "To move an address book:"
 msgstr "Per spostare un'agenda:"
 
 #: ../../contacts/toc.rst:117
-#, fuzzy
 msgid "In the Navigation Panel, right-click on the address book you wish to move."
 msgstr ""
 "Nel pannello di navigazione, fare clic con il pulsante destro del mouse sul "
 "rubrica degli indirizzi che si desidera spostare."
 
 #: ../../contacts/toc.rst:119
-#, fuzzy
 msgid "Select the destination."
 msgstr "Seleziona la destinazione."
 
 #: ../../contacts/toc.rst:123
-#, fuzzy
 msgid "Editing an Address Book"
 msgstr "Modifica Rubrica Indirizzi"
 
 #: ../../contacts/toc.rst:125
-#, fuzzy
 msgid "To edit an address book:"
 msgstr "Per modificare una rubrica:"
 
 #: ../../contacts/toc.rst:128 ../../contacts/toc.rst:139
 #: ../../contacts/toc.rst:153
-#, fuzzy
 msgid "In the Navigation Panel, right-click on the address book you wish to edit."
 msgstr ""
 "Nel Pannello di navigazione, fare clic con il pulsante destro del mouse sul "
@@ -6837,7 +6645,6 @@ msgstr ""
 
 #: ../../contacts/toc.rst:129 ../../contacts/toc.rst:140
 #: ../../contacts/toc.rst:154
-#, fuzzy
 msgid ""
 "Select **Edit address book** from the drop-down menu. A new window "
 "appears."
@@ -6846,17 +6653,14 @@ msgstr ""
 "finestra."
 
 #: ../../contacts/toc.rst:130
-#, fuzzy
 msgid "Make the desired changes."
 msgstr "Apporta le modifiche desiderate."
 
 #: ../../contacts/toc.rst:131 ../../contacts/toc.rst:156
-#, fuzzy
 msgid "Click the **EDIT** button."
 msgstr "Clicca sul pulsante **MODIFICA**."
 
 #: ../../contacts/toc.rst:134
-#, fuzzy
 msgid "Sharing an Address Book"
 msgstr "Condivisione di un Rubrica"
 
@@ -7738,7 +7542,7 @@ msgstr "Vai alla cartella che contiene il file che desideri copiare."
 
 #: ../../files/toc.rst:228
 msgid "Select **Copy** from the drop-down menu. A new window appears."
-msgstr "Seleziona **Copia**dal menu a tendina. Apparirà una nuova finestra."
+msgstr "Seleziona **Copia** dal menu a tendina. Apparirà una nuova finestra."
 
 #: ../../files/toc.rst:229
 msgid "Choose the destination folder where you want to copy the file."
@@ -7947,7 +7751,6 @@ msgid "To delete a specific version of a file:"
 msgstr "Per eliminare una versione specifica di un file:"
 
 #: ../../files/toc.rst:327
-#, fuzzy
 msgid ""
 "Under the **Old versions** section, click on the **three vertical dots** "
 "next to the version you want to delete."
@@ -7956,12 +7759,10 @@ msgstr ""
 "accanto alla versione che si desidera eliminare."
 
 #: ../../files/toc.rst:328
-#, fuzzy
 msgid "Click **Delete version** from the drop-down menu."
 msgstr "Clicca su **Elimina versione** nel menu a discesa."
 
 #: ../../files/toc.rst:330
-#, fuzzy
 msgid ""
 "If a version is set to **Keep forever**, the delete button will be "
 "disabled. You need to remove this version from **Keep forever** before "
@@ -7976,12 +7777,10 @@ msgstr ""
 "selezionare **Rimuovi mantieni per sempre**."
 
 #: ../../files/toc.rst:333
-#, fuzzy
 msgid "Sending a File as an Email Attachment"
 msgstr "Invio di un File come Allegato di Posta Elettronica"
 
 #: ../../files/toc.rst:335
-#, fuzzy
 msgid ""
 "You can send files stored in your Files as attachments via email to your "
 "colleagues. To do so:"
@@ -7990,19 +7789,16 @@ msgstr ""
 "colleghi. Per farlo:"
 
 #: ../../files/toc.rst:340
-#, fuzzy
 msgid "Select **Send via e-mail** from the drop-down menu."
 msgstr "Seleziona **Invia via e-mail** dal menu a discesa."
 
 #: ../../files/toc.rst:341
-#, fuzzy
 msgid "A new compose board will appear which includes the file as an attachment."
 msgstr ""
 "Un nuovo pannello di creazione messaggio apparirà che include il file come "
 "allegato."
 
 #: ../../files/toc.rst:342
-#, fuzzy
 msgid "Complete composing your email and click **SEND**."
 msgstr "Completa la composizione della tua email e clicca su **INVIA**."
 
@@ -8120,7 +7916,6 @@ msgstr "Clicca sulla cartella o sul file che desideri condividere."
 #: ../../files/toc.rst:388 ../../files/toc.rst:410 ../../files/toc.rst:426
 #: ../../files/toc.rst:438 ../../files/toc.rst:450 ../../files/toc.rst:468
 #: ../../files/toc.rst:480
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, you will find different tabs. Click "
 "**Sharing**."
@@ -8129,7 +7924,6 @@ msgstr ""
 "**Condivisione**."
 
 #: ../../files/toc.rst:389
-#, fuzzy
 msgid ""
 "Under the **Collaborators**, **Collaboration links**, and **Public "
 "download links** sections, you can manage various sharing properties."
@@ -8139,12 +7933,10 @@ msgstr ""
 "download pubblici**."
 
 #: ../../files/toc.rst:391
-#, fuzzy
 msgid "**Collaboration:**"
 msgstr "**Collaborazione:**"
 
 #: ../../files/toc.rst:393
-#, fuzzy
 msgid ""
 "This section enables you to include multiple colleagues for collaboration"
 " on a file or folder, granting them different privileges such as the "
@@ -8155,12 +7947,10 @@ msgstr ""
 "visualizzare, scaricare, condividere e modificare il file."
 
 #: ../../files/toc.rst:395
-#, fuzzy
 msgid "**Collaboration links:**"
 msgstr "Link per la collaborazione"
 
 #: ../../files/toc.rst:397
-#, fuzzy
 msgid ""
 "This section allows you to generate different links for a file or folder,"
 " enabling you to send these links to colleagues. Those with accounts on "
@@ -8175,12 +7965,10 @@ msgstr ""
 "concedi loro generando i rispettivi link."
 
 #: ../../files/toc.rst:399
-#, fuzzy
 msgid "**Public download links:**"
 msgstr "**Collegamenti pubblici per il download:**"
 
 #: ../../files/toc.rst:401
-#, fuzzy
 msgid ""
 "This section allows you to generate different links for a file or folder,"
 " enabling you to send these links to external users. The generated link "
@@ -8193,24 +7981,20 @@ msgstr ""
 "contenuto del file o della cartella."
 
 #: ../../files/toc.rst:404
-#, fuzzy
 msgid "Adding Collaborators to a File / Folder"
 msgstr "Aggiungere Collaboratori a un File / Cartella"
 
 #: ../../files/toc.rst:406
-#, fuzzy
 msgid "To add collaborators to a file or folder in Files:"
 msgstr "Per aggiungere collaboratori ad un file o ad una cartella in Files:"
 
 #: ../../files/toc.rst:409 ../../files/toc.rst:425
-#, fuzzy
 msgid "Click on the folder or folder to which you want to grant access."
 msgstr ""
 "Fai clic sulla cartella o sulle cartelle a cui si desidera concedere "
 "l'accesso."
 
 #: ../../files/toc.rst:411
-#, fuzzy
 msgid ""
 "In the Collaborators section, begin entering the email addresses of the "
 "colleagues you wish to share the item with and select them from the "
@@ -8220,7 +8004,6 @@ msgstr ""
 "cui si desidera condividere l'elemento e selezionarli tra quelli suggeriti."
 
 #: ../../files/toc.rst:412
-#, fuzzy
 msgid ""
 "Click on the eye icon next to the name of the colleague you have just "
 "inserted."
@@ -8228,7 +8011,6 @@ msgstr ""
 "Fare clic sull'icona dell'occhio accanto al nome del collega appena inserito."
 
 #: ../../files/toc.rst:413
-#, fuzzy
 msgid ""
 "Choose the access level you want to give, like **Viewer** or **Editor**, "
 "from the menu. You can also decide whether this user can share the item "
@@ -8240,12 +8022,10 @@ msgstr ""
 "Condivisione consentita**."
 
 #: ../../files/toc.rst:414
-#, fuzzy
 msgid "Click the **SHARE** button."
 msgstr "Fai clic sul pulsante **CONDIVIDI**."
 
 #: ../../files/toc.rst:422
-#, fuzzy
 msgid "Removing Collaborators from a File / Folder"
 msgstr "Rimozione di Collaboratori da un File / Cartella"
 
@@ -8400,7 +8180,6 @@ msgstr ""
 "tramite il browser. Segui questi passaggi:"
 
 #: ../../get_started/toc.rst:16
-#, fuzzy
 msgid ""
 "**Open Your Browser**: Start by opening your web browser (like Chrome, "
 "Firefox, or Safari)."
@@ -8409,7 +8188,6 @@ msgstr ""
 "Firefox o Safari)."
 
 #: ../../get_started/toc.rst:17
-#, fuzzy
 msgid ""
 "**Enter the Webmail Address**: In the address bar at the top of your "
 "browser, type in your company’s webmail address. If you are not sure what"
@@ -8420,7 +8198,6 @@ msgstr ""
 "quale sia, chiedere aiuto all'amministratore di sistema dell'azienda."
 
 #: ../../get_started/toc.rst:18
-#, fuzzy
 msgid ""
 "**Sign In**: Once you have reached the webmail page, you will see a login"
 " screen. Enter your username (usually in the format of "
@@ -8431,7 +8208,6 @@ msgstr ""
 "nome.cognome@nomeazienda.com) e la tua password."
 
 #: ../../get_started/toc.rst:19
-#, fuzzy
 msgid ""
 "**Click LOGIN**: After entering your credentials, click the LOGIN button."
 " This will verify your identity."
@@ -8440,7 +8216,6 @@ msgstr ""
 "pulsante ACCEDI. Ciò servirà a verificare la tua identità."
 
 #: ../../get_started/toc.rst:20
-#, fuzzy
 msgid ""
 "**Access Your Webmail**: You will now be redirected to your webmail "
 "interface. From here, you can easily read and send emails."
@@ -8449,7 +8224,6 @@ msgstr ""
 "della tua webmail. Da qui potrai leggere e inviare email con facilità."
 
 #: ../../get_started/toc.rst:21
-#, fuzzy
 msgid ""
 "**Watch Out for 2FA**: Sometimes, you might encounter a second-factor "
 "authentication (2FA) prompt after your initial login. If that happens, "
@@ -8460,12 +8234,10 @@ msgstr ""
 "i passaggi aggiuntivi sotto per completare il processo di accesso."
 
 #: ../../get_started/toc.rst:29
-#, fuzzy
 msgid "Using Two-factor Auth (2FA)"
 msgstr "Utilizzo dell'autenticazione a due fattori (2FA)"
 
 #: ../../get_started/toc.rst:31
-#, fuzzy
 msgid ""
 "Two-factor Authentication (2FA) is a security feature activated by your "
 "system administrator. In this case, accessing your webmail requires a "
@@ -8477,7 +8249,6 @@ msgstr ""
 "sicurezza migliorata."
 
 #: ../../get_started/toc.rst:33
-#, fuzzy
 msgid ""
 "When accessing your account for the first time, you will be prompted to "
 "create a **one-time password (OTP)**."
@@ -8486,44 +8257,36 @@ msgstr ""
 "creare una **password monouso (OTP)**."
 
 #: ../../get_started/toc.rst:35
-#, fuzzy
 msgid "First-Time Setup:"
 msgstr "Configurazione iniziale:"
 
 #: ../../get_started/toc.rst:37
-#, fuzzy
 msgid "After creating the OTP, a QR code will appear on your screen"
 msgstr "Dopo aver creato l'OTP, sul tuo schermo apparirà un codice QR"
 
 #: ../../get_started/toc.rst:38
-#, fuzzy
 msgid "Install the Google Authenticator app on your mobile device"
 msgstr "Installa l'app Google Authenticator sul tuo dispositivo mobile"
 
 #: ../../get_started/toc.rst:40 ../../get_started/toc.rst:82
-#, fuzzy
 msgid "Scanning the QR Code:"
 msgstr "Scandire il codice QR:"
 
 #: ../../get_started/toc.rst:42
-#, fuzzy
 msgid "Open the Google Authenticator app"
 msgstr "Apri l'app Google Authenticator"
 
 #: ../../get_started/toc.rst:43
-#, fuzzy
 msgid "Tap the + button in the bottom right corner"
 msgstr "Premi il pulsante + nell'angolo in basso a destra"
 
 #: ../../get_started/toc.rst:44
-#, fuzzy
 msgid "Use the app to scan the QR code displayed on your computer screen"
 msgstr ""
 "Utilizza l'app per scansionare il codice QR visualizzato sullo schermo del "
 "computer"
 
 #: ../../get_started/toc.rst:45
-#, fuzzy
 msgid ""
 "This creates an instance in the app that generates a temporary code that "
 "updates every 30 seconds"
@@ -8532,24 +8295,20 @@ msgstr ""
 "ogni 30 secondi"
 
 #: ../../get_started/toc.rst:47 ../../get_started/toc.rst:87
-#, fuzzy
 msgid "Logging In with 2FA:"
 msgstr "Accesso con 2FA:"
 
 #: ../../get_started/toc.rst:49
-#, fuzzy
 msgid "Next time you log in to your |product| webmail, follow these steps:"
 msgstr ""
 "La prossima volta che si accede a Carbonio webmail, seguire questi "
 "passaggi:"
 
 #: ../../get_started/toc.rst:51 ../../get_started/toc.rst:91
-#, fuzzy
 msgid "> Enter your **username** and **password**;"
 msgstr "> Inserisci il tuo **nome utente** e la tua **password**;"
 
 #: ../../get_started/toc.rst:53 ../../get_started/toc.rst:93
-#, fuzzy
 msgid ""
 "> If prompted for the second-factor authentication, open the Google "
 "Authenticator app;"
@@ -8558,12 +8317,10 @@ msgstr ""
 "Authenticator;"
 
 #: ../../get_started/toc.rst:55 ../../get_started/toc.rst:95
-#, fuzzy
 msgid "> Insert the **code** from the app on your login page;"
 msgstr "> Inserisci il **codice** dell'app sulla tua pagina di accesso;"
 
 #: ../../get_started/toc.rst:57
-#, fuzzy
 msgid "> Click **LOGIN**."
 msgstr "Fai clic su **ENTRA**."
 
@@ -8659,12 +8416,10 @@ msgid "> Click **LOGIN**.."
 msgstr "Fai clic su **LOGIN**."
 
 #: ../../get_started/toc.rst:101
-#, fuzzy
 msgid "Using SAML to Sign In"
 msgstr "Utilizzare SAML per l'accesso"
 
 #: ../../get_started/toc.rst:103
-#, fuzzy
 msgid ""
 "**SAML** stands for **Security Assertion Markup Language**. It is like a "
 "secret handshake between different websites and apps to make sure you are"
@@ -8678,7 +8433,6 @@ msgstr ""
 "porta."
 
 #: ../../get_started/toc.rst:105
-#, fuzzy
 msgid ""
 "You have generally two ways to use SAML functionality to sign in to your "
 "|product| account:"
@@ -8687,23 +8441,19 @@ msgstr ""
 "accedere al tuo account Carbonio:"
 
 #: ../../get_started/toc.rst:107
-#, fuzzy
 msgid "First Flow:"
 msgstr "Primo flusso:"
 
 #: ../../get_started/toc.rst:109
-#, fuzzy
 msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
 msgstr "Durante l'accesso a Carbonio webmail, cercare il pulsante **LOGIN SAML**."
 
 #: ../../get_started/toc.rst:110
-#, fuzzy
 msgid "Click it, and it will automatically sign you into your webmail."
 msgstr ""
 "Cliccalo e ti connetterà automaticamente alla tua posta elettronica web."
 
 #: ../../get_started/toc.rst:111
-#, fuzzy
 msgid ""
 "Important: You must already be logged into your **identity provider "
 "service** (like Okta or other services provided by your system "
@@ -8714,7 +8464,6 @@ msgstr ""
 "sistema)."
 
 #: ../../get_started/toc.rst:112
-#, fuzzy
 msgid ""
 "If you are not sure how to log into your identity provider, reach out to "
 "your **system administrator** for assistance."
@@ -8723,12 +8472,10 @@ msgstr ""
 "l'**amministratore di sistema** per assistenza."
 
 #: ../../get_started/toc.rst:114
-#, fuzzy
 msgid "Second Flow:"
 msgstr "Secondo Flusso:"
 
 #: ../../get_started/toc.rst:116
-#, fuzzy
 msgid ""
 "First, log in to your **identity provider service** (e.g., Okta or other "
 "services provided by your system administrator)."
@@ -8737,12 +8484,10 @@ msgstr ""
 "Okta o altri servizi forniti dal tuo amministratore di sistema)."
 
 #: ../../get_started/toc.rst:117
-#, fuzzy
 msgid "Once you are logged in there, simply click on the **|product| mail app**."
 msgstr "Una volta effettuato l'accesso, fare clic sull'app **Carbonio mail**."
 
 #: ../../get_started/toc.rst:118
-#, fuzzy
 msgid ""
 "SAML will seamlessly take you to your webmail without requiring you to "
 "insert your credentials."
@@ -8751,12 +8496,10 @@ msgstr ""
 "elettronica web senza richiederti di inserire le tue credenziali."
 
 #: ../../get_started/toc.rst:122
-#, fuzzy
 msgid "Signing Out"
 msgstr "Disconnettersi"
 
 #: ../../get_started/toc.rst:124
-#, fuzzy
 msgid ""
 "To ensure the security of your |product| web client, it is essential to "
 "sign out when you are away from your computer. Here are two "
@@ -8767,12 +8510,10 @@ msgstr ""
 "semplici per uscire:"
 
 #: ../../get_started/toc.rst:126
-#, fuzzy
 msgid "Using the Account Icon:"
 msgstr "Utilizzando l'Icona dell'Account:"
 
 #: ../../get_started/toc.rst:128
-#, fuzzy
 msgid ""
 "Click on the account icon located in the top-right corner of the webmail "
 "interface."
@@ -8781,34 +8522,28 @@ msgstr ""
 "dell'interfaccia webmail."
 
 #: ../../get_started/toc.rst:129
-#, fuzzy
 msgid "Select the **Logout** button."
 msgstr "Seleziona il pulsante **Disconnetti**."
 
 #: ../../get_started/toc.rst:130
-#, fuzzy
 msgid "You will be securely signed out."
 msgstr "Sarai disconnesso in modo sicuro."
 
 #: ../../get_started/toc.rst:132
-#, fuzzy
 msgid "Via General Settings:"
 msgstr "Attraverso le Impostazioni Generali:"
 
 #: ../../get_started/toc.rst:134
-#, fuzzy
 msgid "Click the **gear icon** on the left sidebar panel to access settings."
 msgstr ""
 "Fai clic sull'icona dell'**ingranaggio** nel pannello del menu a sinistra "
 "per accedere alle impostazioni."
 
 #: ../../get_started/toc.rst:135
-#, fuzzy
 msgid "Navigate to General Settings."
 msgstr "Passa alle Impostazioni generali."
 
 #: ../../get_started/toc.rst:136
-#, fuzzy
 msgid ""
 "In the **Account** section, click the **LOGOUT** button, and you will be "
 "successfully logged out."
@@ -8817,7 +8552,6 @@ msgstr ""
 "disconnesso con successo."
 
 #: ../../get_started/toc.rst:138
-#, fuzzy
 msgid ""
 "For security purposes, your system administrator might set a maximum "
 "duration for your login session."
@@ -8826,7 +8560,6 @@ msgstr ""
 "durata massima per la tua sessione di accesso."
 
 #: ../../get_started/toc.rst:140
-#, fuzzy
 msgid ""
 "When your session is about to expire, you will be notified in advance "
 "through the bottom left bar, which will display the remaining time: 10 "
@@ -8842,12 +8575,10 @@ msgstr ""
 "a lavorare."
 
 #: ../../get_started/toc.rst:144
-#, fuzzy
 msgid "In Case of Forgetting Your Password"
 msgstr "In caso di dimenticanza della password"
 
 #: ../../get_started/toc.rst:146
-#, fuzzy
 msgid ""
 "To start the password recovery procedure, you need to enter the recovery "
 "address in the **Auth** panel, in the **Settings** section. "
@@ -8860,7 +8591,6 @@ msgstr ""
 "configurare un indirizzo e-mail di recupero per il proprio account."
 
 #: ../../get_started/toc.rst:148
-#, fuzzy
 msgid ""
 "If in the Auth panel - Settings section - you do not see the field to set"
 " a recovery address, it means that the administrator has not enabled your"
@@ -8872,28 +8602,23 @@ msgstr ""
 "ripristino."
 
 #: ../../get_started/toc.rst:150
-#, fuzzy
 msgid "If you forgot your password, follow these steps:"
 msgstr "Se hai dimenticato la tua password, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:157
-#, fuzzy
 msgid "Click on the **Forget Password?** Button, from the login page."
 msgstr ""
 "Cliccare sul pulsante **Dimenticata la password?** dalla pagina di accesso."
 
 #: ../../get_started/toc.rst:158
-#, fuzzy
 msgid "Enter your username."
 msgstr "Inserisci il tuo nome utente."
 
 #: ../../get_started/toc.rst:159
-#, fuzzy
 msgid "You will receive an email at your recovery email address."
 msgstr "Riceverai un'e-mail al tuo indirizzo e-mail di recupero."
 
 #: ../../get_started/toc.rst:160
-#, fuzzy
 msgid ""
 "A temporary **validation code**, that expires in twenty-four hours, will "
 "be sent to the recovery e-mail address."
@@ -8902,13 +8627,11 @@ msgstr ""
 "verrà inviato all'indirizzo e-mail di recupero."
 
 #: ../../get_started/toc.rst:161
-#, fuzzy
 msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
 msgstr ""
 "Copia e incolla, quindi clicca sul pulsante :bdg-primary:`CONVALIDA CODICE`."
 
 #: ../../get_started/toc.rst:162
-#, fuzzy
 msgid ""
 "If the code is validated, you can :bdg-primary-line:`CONTINUE WITH YOUR "
 "SESSION`, access your mailbox and then add a new password in the "
@@ -8920,7 +8643,6 @@ msgstr ""
 "recupero."
 
 #: ../../get_started/toc.rst:164
-#, fuzzy
 msgid ""
 "If your system administrator has not configured a recovery email for your"
 " account, or you have not inserted your own recovery email address, when "
@@ -8934,7 +8656,6 @@ msgstr ""
 "errore."
 
 #: ../../get_started/toc.rst:166
-#, fuzzy
 msgid ""
 "The error will prompt you to **contact your system administrator**. In "
 "this scenario, **the only way to log into your account** is by seeking "
@@ -8945,12 +8666,10 @@ msgstr ""
 "richiedere assistenza all'amministratore di sistema."
 
 #: ../../get_started/toc.rst:170
-#, fuzzy
 msgid "Changing Your Password"
 msgstr "Cambia la tua password"
 
 #: ../../get_started/toc.rst:172
-#, fuzzy
 msgid ""
 "Resetting a password becomes necessary when you want to update your "
 "existing password due to security reasons or any other relevant factors. "
@@ -8963,44 +8682,36 @@ msgstr ""
 "passaggi per cambiare la password:"
 
 #: ../../get_started/toc.rst:174
-#, fuzzy
 msgid "Log into your account."
 msgstr "Accedi al tuo account."
 
 #: ../../get_started/toc.rst:175
-#, fuzzy
 msgid "Click on the **settings** (gear icon) located in the left sidebar."
 msgstr ""
 "Fai clic sull'icona **impostazioni** (ingranaggio) posizionata nella barra "
 "laterale sinistra."
 
 #: ../../get_started/toc.rst:176
-#, fuzzy
 msgid "Select **Auth**."
 msgstr "Seleziona **Autenticazione**."
 
 #: ../../get_started/toc.rst:177
-#, fuzzy
 msgid "Click on Change Password."
 msgstr "Fai clic su Modifica Password."
 
 #: ../../get_started/toc.rst:178
-#, fuzzy
 msgid "Enter your **old password** along with your new password."
 msgstr "Inserisci la tua **vecchia password** insieme alla nuova password."
 
 #: ../../get_started/toc.rst:179
-#, fuzzy
 msgid "Click the **CHANGE PASSWORD** button."
 msgstr "Fai clic sul pulsante **CAMBIA PASSWORD**."
 
 #: ../../get_started/toc.rst:187
-#, fuzzy
 msgid "Introduction of |product| Web Client"
 msgstr "Introduzione di Carbonio Web Client"
 
 #: ../../get_started/toc.rst:189
-#, fuzzy
 msgid ""
 "When you log in to check your emails, the **|product| web client "
 "interface** greets you with the following components:"
@@ -9009,7 +8720,6 @@ msgstr ""
 "client web di Carbonio** ti saluta con i seguenti componenti:"
 
 #: ../../get_started/toc.rst:196
-#, fuzzy
 msgid ""
 "**Left Sidebar**: This section provides navigation options and quick "
 "access to various features such as Mails, Calendars, Contacts, etc."
@@ -9018,7 +8728,6 @@ msgstr ""
 "e accesso rapido a varie funzionalità come Posta, Calendari, Contatti, ecc."
 
 #: ../../get_started/toc.rst:197
-#, fuzzy
 msgid ""
 "**Navigation Panel**: Here, you will find additional context related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -9031,7 +8740,6 @@ msgstr ""
 "l'accesso alle tue caselle di posta e alle cartelle di posta elettronica qui."
 
 #: ../../get_started/toc.rst:198
-#, fuzzy
 msgid ""
 "**Main Panel**: The central area displays your actual content related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -9046,12 +8754,10 @@ msgstr ""
 "di \"Calendari\" visualizzerà gli eventi del tuo calendario."
 
 #: ../../get_started/toc.rst:201
-#, fuzzy
 msgid "Using Browser Buttons to Navigate |product|"
 msgstr "Utilizzo dei pulsanti del browser per la navigazione in Carbonio"
 
 #: ../../get_started/toc.rst:203
-#, fuzzy
 msgid ""
 "It is recommended to avoid using your browser’s navigation buttons too "
 "frequently, especially when you are in the middle of composing an email "
@@ -9065,7 +8771,6 @@ msgstr ""
 "procedere con cautela."
 
 #: ../../get_started/toc.rst:205
-#, fuzzy
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on |product|."
@@ -9075,7 +8780,6 @@ msgstr ""
 "Carbonio."
 
 #: ../../get_started/toc.rst:206
-#, fuzzy
 msgid ""
 "**Forward Button**: If you have gone back and want to revisit a page you "
 "just left, click the forward button."
@@ -9084,7 +8788,6 @@ msgstr ""
 "pagina che hai appena lasciato, clicca sul pulsante \"Avanti\"."
 
 #: ../../get_started/toc.rst:207
-#, fuzzy
 msgid ""
 "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
 "Clicking it restarts your session, which can be especially dangerous when"
@@ -9097,12 +8800,10 @@ msgstr ""
 "elettronica o un messaggio di testo lungo. Potresti perdere il tuo lavoro."
 
 #: ../../get_started/toc.rst:210
-#, fuzzy
 msgid "Account Personalization"
 msgstr "Personalizzazione Account"
 
 #: ../../get_started/toc.rst:212
-#, fuzzy
 msgid ""
 "Before you start using the |product| web client, take a moment to "
 "personalize your account. You can customize visual aspects such as the "
@@ -9120,12 +8821,10 @@ msgstr ""
 "**Impostazioni generali**."
 
 #: ../../get_started/toc.rst:216
-#, fuzzy
 msgid "Changing Theme"
 msgstr "Cambio tema"
 
 #: ../../get_started/toc.rst:218
-#, fuzzy
 msgid ""
 "A theme in the |product| web client defines the color scheme used for its"
 " appearance. Currently, there are **two themes** available: **Dark mode**"
@@ -9136,29 +8835,24 @@ msgstr ""
 "temi**: **Modalità scura** e **Modalità luce**. Ecco come puoi gestirli:"
 
 #: ../../get_started/toc.rst:220
-#, fuzzy
 msgid "To **activate Dark mode**, follow these steps:"
 msgstr "Per **attivare la modalità scura**, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:222
-#, fuzzy
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
 "Vai a **Impostazioni** (icona dell'ingranaggio) dalla barra dei menu a "
 "sinistra."
 
 #: ../../get_started/toc.rst:224
-#, fuzzy
 msgid "Under **Theme Options**, open the dropdown menu."
 msgstr "Sotto **Opzioni del tema**, aprire il menu a discesa."
 
 #: ../../get_started/toc.rst:225
-#, fuzzy
 msgid "Click on **Enabled**."
 msgstr "Fare clic su **Abilitato**."
 
 #: ../../get_started/toc.rst:226
-#, fuzzy
 msgid ""
 "Click on the **SAVE** button located in the **top right corner** of the "
 "screen."
@@ -9167,19 +8861,16 @@ msgstr ""
 "dello schermo."
 
 #: ../../get_started/toc.rst:228
-#, fuzzy
 msgid "To **disable Dark mode**, follow these steps:"
 msgstr "Per **disabilitare la modalità scura**, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:230
-#, fuzzy
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr ""
 "Fai clic su **Disabilitato** nel medesimo menu a discesa e fai clic su "
 "**SALVA**."
 
 #: ../../get_started/toc.rst:232
-#, fuzzy
 msgid ""
 "If you choose **Auto**, |product| will adapt to your **operating system’s"
 " default theme**. For example:"
@@ -9188,26 +8879,22 @@ msgstr ""
 "sistema operativo**. Ad esempio:"
 
 #: ../../get_started/toc.rst:234
-#, fuzzy
 msgid "If your OS theme is dark, |product| will also be in dark mode."
 msgstr ""
 "Se il tema del tuo sistema operativo è scuro, anche Carbonio sarà in "
 "modalità scura."
 
 #: ../../get_started/toc.rst:235
-#, fuzzy
 msgid "If your OS theme is light, |product| will match that as well."
 msgstr ""
 "Se il tema del tuo sistema operativo è chiaro, Carbonio si adatterà di "
 "conseguenza."
 
 #: ../../get_started/toc.rst:243
-#, fuzzy
 msgid "Changing Font Size"
 msgstr "Modifica dimensione del carattere"
 
 #: ../../get_started/toc.rst:245
-#, fuzzy
 msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
@@ -9218,14 +8905,12 @@ msgstr ""
 
 #: ../../get_started/toc.rst:247 ../../get_started/toc.rst:266
 #: ../../get_started/toc.rst:281
-#, fuzzy
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr ""
 "Apri le **Impostazioni** (icona dell'ingranaggio) dalla barra dei menu a "
 "sinistra."
 
 #: ../../get_started/toc.rst:249
-#, fuzzy
 msgid ""
 "Under the **Appearance** section, find the slider for adjusting the font "
 "size."
@@ -9234,7 +8919,6 @@ msgstr ""
 "font."
 
 #: ../../get_started/toc.rst:250
-#, fuzzy
 msgid ""
 "If you want to manually control the font size, uncheck the option that "
 "says *Automatically resize the text size depending on the device*."
@@ -9244,7 +8928,6 @@ msgstr ""
 "del testo in base al dispositivo*."
 
 #: ../../get_started/toc.rst:251
-#, fuzzy
 msgid ""
 "Use the slider to set the font size to your preference. As you move the "
 "slider, you will see the results in the bottom box with some dummy text."
@@ -9254,13 +8937,11 @@ msgstr ""
 "inferiore con un testo di esempio."
 
 #: ../../get_started/toc.rst:252
-#, fuzzy
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr ""
 "Una volta soddisfatto, fare clic su **SALVA** nell'angolo in alto a destra."
 
 #: ../../get_started/toc.rst:254
-#, fuzzy
 msgid ""
 "Remember, if you prefer automatic resizing based on the device, you can "
 "leave the checkbox checked. Otherwise, adjust the font size manually "
@@ -9271,12 +8952,10 @@ msgstr ""
 "regolare manualmente la dimensione del carattere utilizzando il cursore."
 
 #: ../../get_started/toc.rst:262
-#, fuzzy
 msgid "Changing Your Time Zone"
 msgstr "Cambiare il proprio fuso orario"
 
 #: ../../get_started/toc.rst:264
-#, fuzzy
 msgid ""
 "As a digital workspace, |product| relies on precise time zone settings to"
 " ensure optimal performance for calendars and other features like emails,"
@@ -9292,7 +8971,6 @@ msgstr ""
 "orario, seguire questi passaggi:"
 
 #: ../../get_started/toc.rst:268
-#, fuzzy
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Time Zone** and choose your time zone."
@@ -9661,7 +9339,7 @@ msgid ""
 "to broaden search results. For example, searching for \"choc\" retrieves "
 "items with words like \"chocolate\", \"chocoholic\", etc."
 msgstr ""
-"**Jolly**: L'asterisco (\\*) può essere utilizzato come jolly dopo un "
+"**Jolly**: L'asterisco (*) può essere utilizzato come jolly dopo un "
 "prefisso per ampliare i risultati di ricerca. Ad esempio, cercando \"cioc\" "
 "verranno restituiti risultati con parole come \"cioccolato\", "
 "\"cioccolatomane\", ecc."
@@ -9983,10 +9661,9 @@ msgstr "Seleziona **Completa** dal menu a tendina."
 
 #: ../../videomeetings(wsc)/toc.rst:7
 msgid "Working with Video Meetings(WSC) :bdg-info:`NEW`"
-msgstr "Usare i Video Meeting (WSC) :bdg-info:'NUOVO'"
+msgstr "Usare i Video Meeting (WSC) :bdg-info:`NEW`"
 
 #: ../../videomeetings(wsc)/toc.rst:13
-#, fuzzy
 msgid ""
 "In |product|, video meetings are an essential tool for enabling smooth "
 "virtual collaboration. Whether for individual conversations or group "
@@ -10008,7 +9685,6 @@ msgid "Creating New Virtual Room"
 msgstr "Creare una Nuova Stanza Virtuale"
 
 #: ../../videomeetings(wsc)/toc.rst:18
-#, fuzzy
 msgid ""
 "Every person with an account on |product| can create virtual rooms. "
 "Virtual rooms are shared spaces where you can hold video meetings and "
@@ -10023,7 +9699,6 @@ msgstr ""
 "partecipanti siano informati sull'ordine del giorno della riunione."
 
 #: ../../videomeetings(wsc)/toc.rst:20 ../../videomeetings/toc.rst:45
-#, fuzzy
 msgid "To create a new room:"
 msgstr "Per creare una nuova stanza:"
 
@@ -10032,12 +9707,10 @@ msgstr "Per creare una nuova stanza:"
 #: ../../videomeetings(wsc)/toc.rst:75 ../../videomeetings(wsc)/toc.rst:84
 #: ../../videomeetings(wsc)/toc.rst:161 ../../videomeetings/toc.rst:23
 #: ../../videomeetings/toc.rst:212
-#, fuzzy
 msgid "Select the Chats feature from your left sidebar."
 msgstr "Seleziona la funzione di **Chat** dalla barra laterale sinistra."
 
 #: ../../videomeetings(wsc)/toc.rst:23
-#, fuzzy
 msgid ""
 "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the "
 "list of chats. A new window appears."
@@ -10046,19 +9719,16 @@ msgstr ""
 "l'elenco delle chat. Appare una nuova finestra."
 
 #: ../../videomeetings(wsc)/toc.rst:24
-#, fuzzy
 msgid "Click on New Virtual Room's name*."
 msgstr "Fai clic sul nome della nuova stanza virtuale*."
 
 #: ../../videomeetings(wsc)/toc.rst:25
-#, fuzzy
 msgid "Insert a name for the room in the field and click on the checkmark icon."
 msgstr ""
 "Inserisci un nome per la stanza nel campo e clicca sull'icona del segno di "
 "spunta."
 
 #: ../../videomeetings(wsc)/toc.rst:27
-#, fuzzy
 msgid ""
 "Your room has been successfully created and will be accessible through "
 "the same YOUR VIRTUAL ROOMS button."
@@ -10067,7 +9737,6 @@ msgstr ""
 "stesso pulsante TUE STANZE VIRTUALI."
 
 #: ../../videomeetings(wsc)/toc.rst:29
-#, fuzzy
 msgid ""
 "You can use the link icon beside your room’s name to copy the room's "
 "link. Upon clicking the button, the link will be copied to your "
@@ -10084,12 +9753,10 @@ msgstr ""
 "accanto al nome della stanza per entrare nella stanza."
 
 #: ../../videomeetings(wsc)/toc.rst:34
-#, fuzzy
 msgid "Managing Virtual Rooms"
 msgstr "Gestione delle Stanze Virtuali"
 
 #: ../../videomeetings(wsc)/toc.rst:36
-#, fuzzy
 msgid ""
 "Every person with an account on |product| can create virtual rooms. You "
 "can use your room to invite others to meetings, whether they are "
@@ -10106,7 +9773,6 @@ msgstr ""
 "come \"Ospite\"."
 
 #: ../../videomeetings(wsc)/toc.rst:39
-#, fuzzy
 msgid "To access and enter your virtual room, follow these steps:"
 msgstr ""
 "Per accedere ed entrare nella tua stanza virtuale, segui questi passaggi:"
@@ -10114,7 +9780,6 @@ msgstr ""
 #: ../../videomeetings(wsc)/toc.rst:42 ../../videomeetings(wsc)/toc.rst:52
 #: ../../videomeetings(wsc)/toc.rst:64 ../../videomeetings(wsc)/toc.rst:85
 #: ../../videomeetings(wsc)/toc.rst:162
-#, fuzzy
 msgid ""
 "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the "
 "list of chats to open your list of rooms."
@@ -10123,19 +9788,16 @@ msgstr ""
 "sotto l'elenco delle chat per aprire l'elenco delle stanze."
 
 #: ../../videomeetings(wsc)/toc.rst:43 ../../videomeetings(wsc)/toc.rst:53
-#, fuzzy
 msgid "You can use the Arrow icon beside the room’s name to enter it."
 msgstr ""
 "È possibile utilizzare l'icona della freccia accanto al nome della stanza "
 "per entrarvi."
 
 #: ../../videomeetings(wsc)/toc.rst:47
-#, fuzzy
 msgid "Entering A Virtual Room"
 msgstr "Ingresso in una Stanza Virtuale"
 
 #: ../../videomeetings(wsc)/toc.rst:49 ../../videomeetings/toc.rst:64
-#, fuzzy
 msgid ""
 "To enter a specific room, you need to have its link. To obtain the URL of"
 " a room, you can:"
@@ -10144,7 +9806,6 @@ msgstr ""
 "Per ottenere l'URL di una stanza, è possibile:"
 
 #: ../../videomeetings(wsc)/toc.rst:55
-#, fuzzy
 msgid ""
 "Alternatively, you can copy the link to access the room to your clipboard"
 " using the link icon beside the room’s name in the list. You can paste it"
@@ -10157,12 +9818,10 @@ msgstr ""
 "e premere Invio. Ciò ti porterà alla stanza."
 
 #: ../../videomeetings(wsc)/toc.rst:59
-#, fuzzy
 msgid "Inviting Members to A Virtual Room"
 msgstr "Invito membri a una stanza virtuale"
 
 #: ../../videomeetings(wsc)/toc.rst:61
-#, fuzzy
 msgid ""
 "To invite other members to a room, you need to have its link. To obtain "
 "the URL of a room, you can:"
@@ -10171,14 +9830,12 @@ msgstr ""
 "ottenere l'URL di una stanza, è possibile:"
 
 #: ../../videomeetings(wsc)/toc.rst:65 ../../videomeetings(wsc)/toc.rst:86
-#, fuzzy
 msgid "Click the link icon beside your room’s name to copy the room's link."
 msgstr ""
 "Fai clic sull'icona del collegamento accanto al nome della tua stanza per "
 "copiare il collegamento della stanza."
 
 #: ../../videomeetings(wsc)/toc.rst:67 ../../videomeetings(wsc)/toc.rst:88
-#, fuzzy
 msgid ""
 "This will copy the link to access the room to your clipboard. You can "
 "paste it anywhere (such as in a chat) by right-clicking and selecting "
@@ -10195,17 +9852,14 @@ msgstr ""
 "inviarlo ai tuoi colleghi."
 
 #: ../../videomeetings(wsc)/toc.rst:71 ../../videomeetings/toc.rst:86
-#, fuzzy
 msgid "Holding A Video Call with A Member"
 msgstr "Eseguire una chiamata video con un membro"
 
 #: ../../videomeetings(wsc)/toc.rst:73 ../../videomeetings/toc.rst:88
-#, fuzzy
 msgid "To invite a colleague to a video call:"
 msgstr "Per invitare un collega a una videochiamata:"
 
 #: ../../videomeetings(wsc)/toc.rst:76 ../../videomeetings/toc.rst:91
-#, fuzzy
 msgid ""
 "From the list of chats, choose the colleague with whom you want to have "
 "the video call."
@@ -10214,17 +9868,14 @@ msgstr ""
 "videochiamata."
 
 #: ../../videomeetings(wsc)/toc.rst:77
-#, fuzzy
 msgid "Click on the START MEETING button on top of the chat area."
 msgstr "Fai clic sul pulsante AVVIA RIUNIONE in alto nella zona della chat."
 
 #: ../../videomeetings(wsc)/toc.rst:80 ../../videomeetings/toc.rst:99
-#, fuzzy
 msgid "Holding A Video Meeting with Multiple Members"
 msgstr "Tieni una riunione in videoconferenza con più membri"
 
 #: ../../videomeetings(wsc)/toc.rst:82 ../../videomeetings/toc.rst:101
-#, fuzzy
 msgid ""
 "You can use your personal room to invite others for a video meeting. To "
 "do so, you need to send them the link to your personal room. To obtain "
@@ -10235,12 +9886,10 @@ msgstr ""
 "ottenere il link della tua sala:"
 
 #: ../../videomeetings(wsc)/toc.rst:92
-#, fuzzy
 msgid "Select Webcam and Microphone"
 msgstr "Seleziona Webcam e Microfono"
 
 #: ../../videomeetings(wsc)/toc.rst:94
-#, fuzzy
 msgid ""
 "Before entering a video meeting, you will be prompted to select a webcam "
 "and microphone from the available options on your computer. You can also "
@@ -10254,12 +9903,10 @@ msgstr ""
 "unirti alla riunione."
 
 #: ../../videomeetings(wsc)/toc.rst:98 ../../videomeetings/toc.rst:110
-#, fuzzy
 msgid "Enable Webcam and Microphone"
 msgstr "Abilita Webcam e Microfono"
 
 #: ../../videomeetings(wsc)/toc.rst:100
-#, fuzzy
 msgid ""
 "When you are in a video meeting, you can also turn your webcam or "
 "microphone on or off. Here is how: Toggle the microphone or camera icon "
@@ -10275,7 +9922,6 @@ msgstr ""
 "apparirà."
 
 #: ../../videomeetings(wsc)/toc.rst:102
-#, fuzzy
 msgid ""
 "During a video meeting, you have the chance to blur your background. "
 "Simply click on the arrow icon in the camera button, and then choose the "
@@ -10286,25 +9932,21 @@ msgstr ""
 "scegliere l'opzione Applica effetto sfocatura."
 
 #: ../../videomeetings(wsc)/toc.rst:106 ../../videomeetings/toc.rst:115
-#, fuzzy
 msgid "Recording a Video Meeting"
 msgstr "Registrazione di una riunione video"
 
 #: ../../videomeetings(wsc)/toc.rst:108 ../../videomeetings/toc.rst:117
-#, fuzzy
 msgid "When you are in a video meeting and want to record it:"
 msgstr "Quando sei in una riunione video e desideri registrarla:"
 
 #: ../../videomeetings(wsc)/toc.rst:110 ../../videomeetings(wsc)/toc.rst:151
 #: ../../videomeetings(wsc)/toc.rst:171
-#, fuzzy
 msgid "Click the arrow button on the left side to open the chat box."
 msgstr ""
 "Clicca sul pulsante con la freccia sul lato sinistro per aprire la finestra "
 "di chat."
 
 #: ../../videomeetings(wsc)/toc.rst:111
-#, fuzzy
 msgid ""
 "Click the downward arrow next to the Recording section located at the top"
 " of the chat box."
@@ -10313,12 +9955,10 @@ msgstr ""
 "Registrazione posizionata in alto nella casella di chat."
 
 #: ../../videomeetings(wsc)/toc.rst:112
-#, fuzzy
 msgid "Click START RECORDING."
 msgstr "Fai clic su REGISTRA."
 
 #: ../../videomeetings(wsc)/toc.rst:114
-#, fuzzy
 msgid ""
 "To stop the video meeting, simply click the STOP RECORDING button. This "
 "action will automatically save your recording file into your Files after "
@@ -10330,12 +9970,10 @@ msgstr ""
 "file di registrazione."
 
 #: ../../videomeetings(wsc)/toc.rst:117 ../../videomeetings/toc.rst:126
-#, fuzzy
 msgid "Adding New Members to a Video Meeting"
 msgstr "Aggiunta di nuovi membri a una riunione video"
 
 #: ../../videomeetings(wsc)/toc.rst:119
-#, fuzzy
 msgid ""
 "To add new members to an ongoing video meeting, you need to send them the"
 " link to access the room. Here is how:"
@@ -10344,17 +9982,14 @@ msgstr ""
 "inviar loro il link per accedere alla stanza. Ecco come:"
 
 #: ../../videomeetings(wsc)/toc.rst:121
-#, fuzzy
 msgid "Make sure you are in the meeting."
 msgstr "Assicurati di essere in riunione."
 
 #: ../../videomeetings(wsc)/toc.rst:122
-#, fuzzy
 msgid "Copy the URL of the page from the address bar of your browser."
 msgstr "Copia l'URL della pagina dalla barra degli indirizzi del browser."
 
 #: ../../videomeetings(wsc)/toc.rst:124
-#, fuzzy
 msgid ""
 "This will copy the link to access your room to your clipboard. You can "
 "paste it anywhere (such as in a chat) by right-clicking and selecting "
@@ -10367,12 +10002,10 @@ msgstr ""
 "Windows o command+V su macOS."
 
 #: ../../videomeetings(wsc)/toc.rst:127 ../../videomeetings/toc.rst:138
-#, fuzzy
 msgid "Accessing Chat History During a Video Meeting"
 msgstr "Accesso alla Cronologia Chat Durante un Incontro Video"
 
 #: ../../videomeetings(wsc)/toc.rst:129
-#, fuzzy
 msgid ""
 "To access the chat box of the room where you are having the video "
 "meeting, simply click the arrow button on the left side to open the chat "
@@ -10383,12 +10016,10 @@ msgstr ""
 "chat."
 
 #: ../../videomeetings(wsc)/toc.rst:132 ../../videomeetings/toc.rst:143
-#, fuzzy
 msgid "Sharing Screen During a Video Meeting"
 msgstr "Condivisione dello schermo durante un incontro in video"
 
 #: ../../videomeetings(wsc)/toc.rst:134
-#, fuzzy
 msgid ""
 "When you are in a video meeting, you can share your screen with "
 "attendees. Here is how: Click the screen icon on the bottom bar inside "
@@ -10407,12 +10038,10 @@ msgstr ""
 "quindi fai clic su Condividi."
 
 #: ../../videomeetings(wsc)/toc.rst:142 ../../videomeetings/toc.rst:174
-#, fuzzy
 msgid "Maximizing Video Meeting Screen"
 msgstr "Ottimizzazione dello schermo di riunione video"
 
 #: ../../videomeetings(wsc)/toc.rst:144 ../../videomeetings/toc.rst:176
-#, fuzzy
 msgid ""
 "To maximize the video meeting screen, click on the icon with arrows "
 "inside located on the bottom bar. If you do not see the bottom bar inside"
@@ -10425,12 +10054,10 @@ msgstr ""
 "cursore del mouse verso il basso dello schermo ed essa apparirà."
 
 #: ../../videomeetings(wsc)/toc.rst:147 ../../videomeetings/toc.rst:179
-#, fuzzy
 msgid "Muting Participants During a Video Meeting"
 msgstr "Silenzia dei partecipanti durante una riunione video"
 
 #: ../../videomeetings(wsc)/toc.rst:149
-#, fuzzy
 msgid ""
 "As the moderator of a meeting room, you can mute an attendee's microphone"
 " individually. To do so, simply hover your cursor over the video feed of "
@@ -10443,7 +10070,6 @@ msgstr ""
 "microfono situata nell'angolo del feed video del partecipante."
 
 #: ../../videomeetings(wsc)/toc.rst:152 ../../videomeetings(wsc)/toc.rst:172
-#, fuzzy
 msgid ""
 "Click the downward arrow next to the Participants section located at the "
 "top of the chat box."
@@ -10452,49 +10078,40 @@ msgstr ""
 "posizionata in alto nella chat box."
 
 #: ../../videomeetings(wsc)/toc.rst:153
-#, fuzzy
 msgid "Click the microphone icon next to the participant’s name."
 msgstr "Cliccare sull'icona del microfono accanto al nome del partecipante."
 
 #: ../../videomeetings(wsc)/toc.rst:154
-#, fuzzy
 msgid "Click MUTE FOR ALL to confirm."
 msgstr "Fai clic su DISATTIVA TUTTO per confermare."
 
 #: ../../videomeetings(wsc)/toc.rst:157 ../../videomeetings/toc.rst:197
-#, fuzzy
 msgid "Deleting a Meeting Room"
 msgstr "Eliminazione di una sala riunioni"
 
 #: ../../videomeetings(wsc)/toc.rst:159 ../../videomeetings/toc.rst:199
-#, fuzzy
 msgid "To delete a meeting room:"
 msgstr "Per eliminare una sala riunioni:"
 
 #: ../../videomeetings(wsc)/toc.rst:163
-#, fuzzy
 msgid "Click the trash icon beside the name of the room you want to delete."
 msgstr ""
 "Fai clic sull'icona del cestino accanto al nome della stanza che desideri "
 "eliminare."
 
 #: ../../videomeetings(wsc)/toc.rst:164
-#, fuzzy
 msgid "Click DELETE to confirm."
 msgstr "Fai clic su **ELIMINA** per confermare."
 
 #: ../../videomeetings(wsc)/toc.rst:167 ../../videomeetings/toc.rst:208
-#, fuzzy
 msgid "Adding Moderators to a Room"
 msgstr "AggiungereModeratori a una Stanza"
 
 #: ../../videomeetings(wsc)/toc.rst:169
-#, fuzzy
 msgid "To add a moderator to a meeting room:"
 msgstr "Per aggiungere un moderatore a una sala riunione:"
 
 #: ../../videomeetings(wsc)/toc.rst:173
-#, fuzzy
 msgid "Click the crown icon next to the participant’s name."
 msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
@@ -10700,7 +10317,6 @@ msgid "To invite other members to a room:"
 msgstr "Per invitare altri membri in una stanza:"
 
 #: ../../videomeetings/toc.rst:83
-#, fuzzy
 msgid ""
 "This will copy the link to access the room to your clipboard. You can "
 "paste it anywhere (such as in a chat) by right-clicking and selecting "
@@ -10713,7 +10329,6 @@ msgstr ""
 "Windows o command+V su macOS."
 
 #: ../../videomeetings/toc.rst:92
-#, fuzzy
 msgid ""
 "Click on the **INVITE TO YOUR PERSONAL ROOM** button on top of the chat "
 "area."
@@ -10722,7 +10337,6 @@ msgstr ""
 "di chat."
 
 #: ../../videomeetings/toc.rst:107 ../../videomeetings/toc.rst:135
-#, fuzzy
 msgid ""
 "This will copy the link to access your room to your clipboard. You can "
 "paste it anywhere (such as in a chat) by right-clicking and selecting "
@@ -10735,7 +10349,6 @@ msgstr ""
 "Windows o command+V su macOS."
 
 #: ../../videomeetings/toc.rst:112
-#, fuzzy
 msgid ""
 "When you are in a video meeting, you can turn your webcam or microphone "
 "on or off. Here is how: Toggle the microphone or camera icon on the "
@@ -10751,26 +10364,22 @@ msgstr ""
 "apparirà."
 
 #: ../../videomeetings/toc.rst:119
-#, fuzzy
 msgid "Click the blue button in the bottom left corner to open the chat box."
 msgstr ""
 "Cliccare il pulsante blu nell'angolo in basso a sinistra per aprire la "
 "finestra di chat."
 
 #: ../../videomeetings/toc.rst:120
-#, fuzzy
 msgid "Click the \"i\" icon located at the top right corner of the chat box."
 msgstr ""
 "Fai clic sull'icona \"i\" posizionata nell'angolo in alto a destra della "
 "finestra di chat."
 
 #: ../../videomeetings/toc.rst:121
-#, fuzzy
 msgid "Under the **Recording** section, click **START**."
 msgstr "Nella sezione **Registrazione**, fare clic su **AVVIA**."
 
 #: ../../videomeetings/toc.rst:123
-#, fuzzy
 msgid ""
 "To stop the video meeting, simply click the **STOP** button. This action "
 "will automatically save your recording file into your Files."
@@ -10780,7 +10389,6 @@ msgstr ""
 "registrazione nel tuo Files."
 
 #: ../../videomeetings/toc.rst:128
-#, fuzzy
 msgid ""
 "To add new members to an ongoing video meeting, you need to send them the"
 " link to access the room."
@@ -10789,7 +10397,6 @@ msgstr ""
 "inviare loro il link per accedere alla stanza."
 
 #: ../../videomeetings/toc.rst:130
-#, fuzzy
 msgid ""
 "Here is how: #.      Click the blue button in the bottom left corner to "
 "open the chat box. #.      Click the \"i\" icon located at the top right "
@@ -10802,7 +10409,6 @@ msgstr ""
 "#.      Fare clic su COPIA LINK DELLA STANZA."
 
 #: ../../videomeetings/toc.rst:140
-#, fuzzy
 msgid ""
 "To access the chat box of the room where you are having the video "
 "meeting, simply click the blue button in the bottom left corner."
@@ -10812,14 +10418,12 @@ msgstr ""
 "basso a sinistra."
 
 #: ../../videomeetings/toc.rst:145
-#, fuzzy
 msgid "When you are in a video meeting, you can share your screen with attendees."
 msgstr ""
 "Quando si è in una riunione video, è possibile condividere lo schermo con i "
 "partecipanti."
 
 #: ../../videomeetings/toc.rst:147
-#, fuzzy
 msgid ""
 "Here is how: Click the screen icon on the bottom bar inside the meeting "
 "room. If you do not see the bottom bar, simply move your mouse cursor to "
@@ -10830,7 +10434,6 @@ msgstr ""
 "cursore del mouse verso il fondo dello schermo e apparirà."
 
 #: ../../videomeetings/toc.rst:149
-#, fuzzy
 msgid ""
 "You have three options to choose from: •       Your browser tab. •       "
 "A specific window. •       Entire screen."
@@ -10839,19 +10442,16 @@ msgstr ""
 "Una finestra specifica. •       L'intero schermo."
 
 #: ../../videomeetings/toc.rst:154
-#, fuzzy
 msgid "Select the desired option and then click **Share**."
 msgstr "Seleziona l'opzione desiderata e quindi clicca su **Condividi**."
 
 #: ../../videomeetings/toc.rst:157
-#, fuzzy
 msgid "Toggling Grid View and Cinema View During a Video Meeting"
 msgstr ""
 "Passaggio tra Visualizzazione a Griglia e Visualizzazione Cinema Durante una "
 "Riunione in Video"
 
 #: ../../videomeetings/toc.rst:159
-#, fuzzy
 msgid ""
 "When you are in a video meeting, you can change the viewing option to "
 "different available modes:"
@@ -10860,17 +10460,14 @@ msgstr ""
 "nei diversi modi disponibili:"
 
 #: ../../videomeetings/toc.rst:161
-#, fuzzy
 msgid "Cinema mode."
 msgstr "Modalità cinema."
 
 #: ../../videomeetings/toc.rst:162
-#, fuzzy
 msgid "Grid mode."
 msgstr "Modalità a griglia."
 
 #: ../../videomeetings/toc.rst:164
-#, fuzzy
 msgid ""
 "In cinema mode, the speaker appears in the biggest box, while others are "
 "displayed in smaller boxes in the right corner. In grid mode, all "
@@ -10889,12 +10486,10 @@ msgstr ""
 "spostare il cursore del mouse verso il fondo dello schermo ed essa apparirà."
 
 #: ../../videomeetings/toc.rst:168
-#, fuzzy
 msgid "Adding Virtual Background to Your Video During a Video Meeting"
 msgstr "Aggiunta di uno sfondo virtuale al tuo video durante una riunione video"
 
 #: ../../videomeetings/toc.rst:170
-#, fuzzy
 msgid ""
 "When you are in a video meeting, you have the option to change the "
 "background of your video feed, allowing other attendees to see a "
@@ -10911,7 +10506,6 @@ msgstr ""
 "cursore del mouse verso il fondo dello schermo e comparirà."
 
 #: ../../videomeetings/toc.rst:181
-#, fuzzy
 msgid ""
 "As the moderator of a meeting room, you can mute an attendee's microphone"
 " individually. To do so, simply hover your cursor over the video feed of "
@@ -10924,12 +10518,10 @@ msgstr ""
 "sull'icona del microfono posizionata in alto a destra del flusso video."
 
 #: ../../videomeetings/toc.rst:184
-#, fuzzy
 msgid "Resetting the Meeting Room's Link"
 msgstr "Reimpostazione del Collegamento della Sala Riunione"
 
 #: ../../videomeetings/toc.rst:186
-#, fuzzy
 msgid ""
 "It is useful in case you have shared the room's link with the wrong "
 "person or want to update the link for security reasons."
@@ -10938,7 +10530,6 @@ msgstr ""
 "sbagliata o si desideri aggiornare il link per motivi di sicurezza."
 
 #: ../../videomeetings/toc.rst:188
-#, fuzzy
 msgid ""
 "If you want to change the link to access the room: #.      Select the "
 "**Chats feature** from your left sidebar. #.      Select the **Rooms "
@@ -10952,32 +10543,26 @@ msgstr ""
 "#. Fare clic su **REIMPOSTA LINK**."
 
 #: ../../videomeetings/toc.rst:194
-#, fuzzy
 msgid "This action will generate another URL for the room"
 msgstr "Quest'azione genererà un'altra URL per la stanza"
 
 #: ../../videomeetings/toc.rst:204
-#, fuzzy
 msgid "Click on DELETE ROOM."
 msgstr "Fai clic su ELIMINA STANZA."
 
 #: ../../videomeetings/toc.rst:210
-#, fuzzy
 msgid "To Add a moderator in a meeting room:"
 msgstr "Per aggiungere un moderatore in una sala meeting:"
 
 #: ../../videomeetings/toc.rst:213
-#, fuzzy
 msgid "Select the Rooms tab."
 msgstr "Seleziona la scheda Stanze Virtuali."
 
 #: ../../videomeetings/toc.rst:215
-#, fuzzy
 msgid "Click on ADD MODERATOR. A new window appears."
 msgstr "Fai clic su AGGIUNGI MODERATORE. Apparirà una nuova finestra."
 
 #: ../../videomeetings/toc.rst:216
-#, fuzzy
 msgid ""
 "Begin typing the email address of the new moderator and select it from "
 "the suggested list."
@@ -10986,7 +10571,6 @@ msgstr ""
 "dall'elenco suggerito."
 
 #: ../../videomeetings/toc.rst:217
-#, fuzzy
 msgid "Click ADD."
 msgstr "Clicca AGGIUNGI."
 

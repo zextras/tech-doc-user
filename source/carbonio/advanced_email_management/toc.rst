@@ -97,9 +97,9 @@ The transportation history of emails serves various purposes, including verifyin
 
 To trace the email’s origin, follow these steps:
 
-•	Right-click on the email.
-•	Select Show original.
-•	A new window will open, displaying the relevant information.
+-	Right-click on the email.
+-	Select Show original.
+-	A new window will open, displaying the relevant information.
 
 Setting Up Trusted Addresses
 ============================
@@ -176,15 +176,15 @@ A filter consists of specific conditions paired with corresponding actions.
 
 When an email satisfies the specified conditions, the designated actions are triggered.
 
-•	Conditions can encompass various criteria, such as the subject, sender, or date of the email.
-•	Actions may include moving, tagging, or redirecting the emails.
+-	Conditions can encompass various criteria, such as the subject, sender, or date of the email.
+-	Actions may include moving, tagging, or redirecting the emails.
 
 Some examples are:
 
-•	Automatically moving incoming emails into designated folders. For instance, emails from your supervisor can be automatically routed to your "Management Directives" folder upon arrival.
-•	Tag specific emails for easy identification. For example, emails from the corporate events mailing list can be labeled with an "Events" tag.
-•	Redirect or delete emails based on predefined criteria. For instance, all emails from a specific sender can be forwarded or moved to the Trash folder.
-•	Assign importance flags to specific emails.
+-	Automatically moving incoming emails into designated folders. For instance, emails from your supervisor can be automatically routed to your "Management Directives" folder upon arrival.
+-	Tag specific emails for easy identification. For example, emails from the corporate events mailing list can be labeled with an "Events" tag.
+-	Redirect or delete emails based on predefined criteria. For instance, all emails from a specific sender can be forwarded or moved to the Trash folder.
+-	Assign importance flags to specific emails.
 
 Filters are applied sequentially, following the order in which they are listed in your settings. You retain the flexibility to modify the order of filters as needed.
 
@@ -222,21 +222,21 @@ Under the **Conditions** section, you can configure various fields. These fields
 
 **First field**: This field contains multiple values. i.e.
 
-•	**From**: Specifies the sender's email address.
-•	**To**: Specifies the recipient's email address.
-•	**Cc**: Specifies the email addresses listed in the "Cc" field.
-•	**To** or **Cc**: Specifies email addresses in either the "To" or "Cc" fields.
-•	**Subject**: Specifies keywords or phrases found in the email subject.
-•	**Message**: Specifies email properties, such as those involved in conversations I've participated in.
-•	**Size**: Specifies the size of the email in kilobytes.
-•	**Date**: Specifies the date the email was sent or received.
-•	**Body**: Specifies specific content within the email body.
-•	**Attachment**: Specifies the presence or absence of attachments.
-•	**Read Receipt**: Specifies whether a read receipt has been requested or received.
-•	**Address In**: Specifies specific addresses (e.g., sender, or recipient) that exist in the contacts or frequent emails.
-•	**Calendar**: Specifies events or calendar-related information within the email, such as whether the invitation has been replied to.
-•	**Social**: Specifies social media-related content within the email.
-•	**Header Named**: Specifies a custom email header name.
+-	**From**: Specifies the sender's email address.
+-	**To**: Specifies the recipient's email address.
+-	**Cc**: Specifies the email addresses listed in the "Cc" field.
+-	**To** or **Cc**: Specifies email addresses in either the "To" or "Cc" fields.
+-	**Subject**: Specifies keywords or phrases found in the email subject.
+-	**Message**: Specifies email properties, such as those involved in conversations I've participated in.
+-	**Size**: Specifies the size of the email in kilobytes.
+-	**Date**: Specifies the date the email was sent or received.
+-	**Body**: Specifies specific content within the email body.
+-	**Attachment**: Specifies the presence or absence of attachments.
+-	**Read Receipt**: Specifies whether a read receipt has been requested or received.
+-	**Address In**: Specifies specific addresses (e.g., sender, or recipient) that exist in the contacts or frequent emails.
+-	**Calendar**: Specifies events or calendar-related information within the email, such as whether the invitation has been replied to.
+-	**Social**: Specifies social media-related content within the email.
+-	**Header Named**: Specifies a custom email header name.
 
 You can choose anything among these values and your next field values will appear accordingly.
 
@@ -248,11 +248,11 @@ How to create actions:
 
 Under the Action section, you can configure various fields. These fields determine the actions to be taken if the specified conditions are met. Actions have a few paths to set such as:
 
-•	**Discard**: Moves the email into the Junk folder.
-•	**Move Into Folder**: Transfers the email to a specified folder.
-•	**Mark As**: Marks the email as read or flagged.
-•	**Tag With**: Assigns a tag to the email.
-•	**Redirect To Address**: Redirects the email to the specified email address.
+-	**Discard**: Moves the email into the Junk folder.
+-	**Move Into Folder**: Transfers the email to a specified folder.
+-	**Mark As**: Marks the email as read or flagged.
+-	**Tag With**: Assigns a tag to the email.
+-	**Redirect To Address**: Redirects the email to the specified email address.
 
 Example:
 
@@ -285,8 +285,8 @@ When creating a filter, you have the option to mark the **Active filter** checkb
 
 Active Filters are operational and will be applied to emails automatically. Conversely, filters kept in the Available Filters section are inactive but can be retained for future use. You have the flexibility to move them into the Active Filters section whenever needed.
 
-•	To move a filter from the Active Filters to the Available Filters, simply select the filter you want to deactivate and click on the **REMOVE** button. This action will transfer the filter to the Available Filters section, where it will remain inactive until reactivated.
-•	To move a filter from the Available Filters to the Active Filters, simply select the filter you want to activate and click on the **ADD** button. This action will transfer the filter to the Available Filters section, where it will remain active until deactivated.
+-	To move a filter from the Active Filters to the Available Filters, simply select the filter you want to deactivate and click on the **REMOVE** button. This action will transfer the filter to the Available Filters section, where it will remain inactive until reactivated.
+-	To move a filter from the Available Filters to the Active Filters, simply select the filter you want to activate and click on the **ADD** button. This action will transfer the filter to the Available Filters section, where it will remain active until deactivated.
 
 Applying a Filter to Existing Emails
 ====================================

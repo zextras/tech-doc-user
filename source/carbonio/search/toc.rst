@@ -106,7 +106,7 @@ Advanced Search Syntax
 •	**Before**: Specifies mail sent before a certain date. Example: before:03/01/2024.
 •	**Size**: Specifies emails based on their total size, including attachments. Example: size: 1MB.
 •	**Smaller**: Specifies emails based on their total size, including attachments. Example: smaller:1MB.
-•	**Larger**: Specifies emails based on their total size, including attachments. Example: smaller:1MB.
+•	**Larger**: Specifies emails based on their total size, including attachments. Example: larger:1MB.
 •	**Tag**: Finds messages tagged with a specified tag. Example: tag:important.
 
 **Wildcards**: The asterisk (*) after a prefix serves as a wildcard to find content with words having similar spellings. For instance, "dog" retrieves items with words like "doggy", "doghouse", etc. Note: Double-byte asterisk signs in search queries are ignored during the search.

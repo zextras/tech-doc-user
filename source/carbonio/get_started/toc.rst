@@ -209,7 +209,7 @@ It is recommended to avoid using your browser’s navigation buttons too frequen
 Account Personalization
 =======================
 
-Before you start using the |product| web client, take a moment to personalize your account. You can customize visual aspects such as the theme, as well as other account settings like your time zone. Most of these options are conveniently accessible in the **Settings** menu. To access it, simply click the gear icon on the left sidebar, and then select **General Settings**.
+Before you start using the |product| web client, take a moment to personalize your account. You can customize visual aspects such as the theme, as well as other account settings. Most of these options are conveniently accessible in the **Settings** menu. To access it, simply click the gear icon on the left sidebar, and then select **General Settings**.
 
 
 Changing Theme
@@ -258,21 +258,6 @@ Remember, if you prefer automatic resizing based on the device, you can leave th
             :width: 100%
 
 
-Changing Your Time Zone
-=======================
-
-As a digital workspace, |product| relies on precise time zone settings to ensure optimal performance for calendars and other features like emails, guaranteeing accurate timestamps. This becomes particularly crucial when collaborating with colleagues across different countries and time zones. To change your time zone, follow these steps:
-
-1.	Open the **Settings** (gear icon) from the left sidebar.
-2.	Select General Settings.
-3.	Under the **Time Zone and Language** section select the dropdown menu for **Time Zone** and choose your time zone.
-4.	Click **SAVE** in the top right corner.
-
-    .. image:: /img/time-zone.png
-            :align: center
-            :width: 100%
-
-
 Changing |product| Language
 ===========================
 
@@ -280,7 +265,7 @@ To change your |product| web client language, follow these steps:
 
 1.	Open the **Settings** (gear icon) from the left sidebar.
 2.	Select General Settings.
-3.	Under the **Time Zone and Language** section select the dropdown menu for **Language** and choose your language.
+3.	Under the **Language** section select the dropdown menu for **Language** and choose your language.
 4.	Click **SAVE** in the top right corner.
 
 Accessing Multiple Accounts

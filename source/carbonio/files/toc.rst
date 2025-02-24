@@ -85,9 +85,8 @@ To download a file on your computer:
 #.	Select the Files feature from your left sidebar.
 #.	Navigate to the folder that contains the file you want to download.
 #.	Right-click on the file.
-#.	Select Download from the drop-down menu. A new window appears.
-#.	Select the folder on your computer where you want to download the file.
-#.	Click the Save button.
+#.	Select Download from the drop-down menu.
+#.	The file will be downloaded directly to your Downloads folder.
 
 Deleting a File or a Folder
 ===========================

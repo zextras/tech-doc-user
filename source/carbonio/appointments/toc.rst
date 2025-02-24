@@ -175,9 +175,9 @@ Responding to an Appointment Invitation
 When a colleague sends you an invitation for an appointment, you will receive an automatic email indicating that you are invited. 
 Inside the email, you have four options to choose from:
 
-•	**YES**: Confirm your attendance for the appointment.
-•	**MAYBE**: Indicate that you are unsure about attending the appointment.
-•	**NO**: Decline the invitation and indicate that you will not attend the appointment.
+•	**ACCEPT**: Confirm your attendance for the appointment.
+•	**TENTATIVE**: Indicate that you are unsure about attending the appointment.
+•	**DECLINE**: Decline the invitation and indicate that you will not attend the appointment.
 •	**PROPOSE NEW TIME**: Suggest an alternative time for the appointment if the proposed time is not suitable for you.
 
 Before selecting **YES**, you can also choose the calendar in which you want to save the appointment from the Calendar field.

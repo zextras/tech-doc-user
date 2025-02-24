@@ -188,13 +188,14 @@ Sharing Calendars with Your Colleagues
 
 To share your calendar with your colleagues:
 
-1.	Navigate to the **Calendars** section from the left sidebar.
-2.	Right-click on the calendar you wish to share.
-3.	From the drop-down menu select **Share Calendar**.
-4.	From the Share with field, select Internal Users or Groups.
-5.	Enter the email addresses of your colleagues with whom you wish to share the calendar into the **Recipients’ e-mail addresses** field.
-6.	Select the role from the **Role** field.
-7.	Click the **SHARE CALENDAR** button.
+#.	Navigate to the **Calendars** section from the left sidebar.
+#.	Right-click on the calendar you wish to share.
+#.	From the drop-down menu select **Edit calendar properties**.
+#.	Click on the **Add Share** button.
+#.	From the Share with field, select Internal Users or Groups.
+#.	Enter the email addresses of your colleagues with whom you wish to share the calendar into the **Recipients’ e-mail addresses** field.
+#.	Select the role from the **Role** field.
+#.	Click the **SHARE CALENDAR** button.
 
 Alternatively, you can share you are a URL to be able to share your calendar with your collaborators:
 

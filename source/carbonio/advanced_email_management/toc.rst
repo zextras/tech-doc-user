@@ -286,7 +286,7 @@ When creating a filter, you have the option to mark the **Active filter** checkb
 Active Filters are operational and will be applied to emails automatically. Conversely, filters kept in the Available Filters section are inactive but can be retained for future use. You have the flexibility to move them into the Active Filters section whenever needed.
 
 -	To move a filter from the Active Filters to the Available Filters, simply select the filter you want to deactivate and click on the **REMOVE** button. This action will transfer the filter to the Available Filters section, where it will remain inactive until reactivated.
--	To move a filter from the Available Filters to the Active Filters, simply select the filter you want to activate and click on the **ADD** button. This action will transfer the filter to the Available Filters section, where it will remain active until deactivated.
+-	To move a filter from the Available Filters to the Active Filters, simply select the filter you want to activate and click on the **ADD** button. This action will transfer the filter to the Active Filters section, where it will remain active until deactivated.
 
 Applying a Filter to Existing Emails
 ====================================

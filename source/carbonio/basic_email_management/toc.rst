@@ -213,7 +213,8 @@ You can also choose the option to share an entire folder. To share a folder:
 
 #.	Navigate to the **Mail** section from the left sidebar.
 #.	Right-click on a folder.
-#.	Click on **ADD SHARE**.
+#.	Click on **EDIT**.
+#.	Click on the **Add Share** button in the pop up modal.
 #.  Insert email addresses you want to share the selected folder with, and assign them the role.
 #.  Tick the *Send notification about this share* checkbox and add a note for the message.
 #.	Click the **SHARE FOLDER** button.
@@ -268,15 +269,13 @@ To share an email folder with a colleague:
 
 #.	Navigate to the **Mails** section from the left sidebar.
 #.	Right-click on the email folder you wish to share.
-#.	From the drop-down menu select **Share folder**.
+#.	From the drop-down menu select **Edit**.
+#.	Click on the **Add Share** button, in the pop up modal.
 #.	From the **Share with** field, select Internal Users or Groups.
 #.	Enter the email addresses of your colleagues with whom you wish to share the folder into the **Recipients’ e-mail addresses** field.
 #.	Select the *role* from the **Role** field.
 #.	Click the **SHARE FOLDER** button.
 
-  .. image:: /img/share-folder-colleague.png
-          :align: center
-          :width: 100%
 
 Sharing an Email Folder with External Users
 ===========================================

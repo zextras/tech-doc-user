@@ -359,21 +359,6 @@ Follow these steps to toggle the rich text editor on:
 
 When a signature is set, it will be visible at the end of the email you are composing. Additionally, you can effortlessly switch between identities /personas by selecting them from the top-left corner of the composing board, automatically applying the respective signatures assigned to each identity/persona.
 
-Sending S/MIME signed emails
-============================
-
-S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for email encryption and signing, providing authentication, integrity, and non-repudiation for emails. 
-Here’s how you can send S/MIME-signed emails:
-
-
-#.	Click on the **three vertical dots** located in the top-right corner of the compose board.
-#.	Select **Use Certificate to sign (S/MIME)** from the menu that appears.
-#.  Attach the certificate in the proper space (or just browse you documents to insert it).
-#.	Insert the **password** for the uploaded certificate.
-#.	Click **Upload** to insert the S/MIME signature.
-
-You can now send your S/MIME-signed email.
-
 
 Creating Signatures
 ===================
@@ -564,3 +549,134 @@ To enable and set a **disposal policy** for a folder:
 #.	Click **EDIT**.
 
 After clicking EDIT, the disposal policy will be applied to the specified folder, triggering automated cleanup and deletion for emails surpassing the disposal threshold.
+
+
+S/MIME signed emails
+=====================
+
+If you don't see these options, it means that your administrator has not enabled them. Please contact your administrator for more information.
+
+S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for public key encryption and signing of MIME data. It is used to secure email communications and is supported by most email clients. S/MIME provides a way to encrypt email messages and digitally sign them. When you digitally sign an email, you are adding a digital signature to the message. This signature is unique to you and is used to verify that the email has not been tampered with and that it was sent by you.
+
+Difference between Signing and Encryption
+=========================================
+
+**Signing**: When you sign an email, you are adding a digital signature to the message. This signature is unique to you and is used to verify that the email has not been tampered with and that it was sent by you.
+**Encryption**: When you encrypt an email, you are scrambling the contents of the message so that only the intended recipient can read it. This ensures that the email is secure and cannot be read by anyone else.
+
+Requirements for S/MIME 
+--------------------------------
+
+To use S/MIME, you need:
+
+1. A valid S/MIME certificate (X.509 format) issued by a trusted Certificate Authority (CA).
+2. Carbonio webmail (S/MIME is not available in Carbonio Community Edition, it only allows to show that the email is digitally signed).
+3. A compatible email client (Another user with Carbonio webmail, Outlook,  Thunderbird --to check--,  others?).
+
+Obtaining an S/MIME Certificate
+--------------------------------
+
+You need an S/MIME certificate issued by a trusted Certificate Authority (CA).Popular CAs include: Sectigo (Comodo); DigiCert; GlobalSign; Actalis; Entrust; GoDaddy; Thawte; VeriSign; and others.
+
+To obtain an S/MIME certificate:
+1. Go to the website of a trusted CA.
+2. Request an S/MIME certificate from a CA.
+3. Download the certificate in PKCS#12 format (.p12 or .pfx).
+4. Note the password used to export the private key.
+
+How S/MIME Signing Works in Carbonio
+=====================================
+
+Importing an S/MIME Certificate
+--------------------------------
+
+# Upload your personal certificate (containing a public and a private key) into Carbonio webmail via Settings → S/MIME Certificates (the system will ask to enter a password to protect the certificate. If one has already been set it will ask for the password).
+# Click Upload Certificate under Personal certificates for signing, encryption and decryption.
+
+
+Signing an Email
+-----------------
+
+# When composing an email, select "Use certificate to sign (S/MIME)".
+# Carbonio uses the user’s private key to generate a digital signature.
+# The signature is attached to the email as a cryptographic hash.
+# The recipient can verify the signature using the sender’s public key.
+
+
+Verifying a Signed Email
+-------------------------
+
+# When you receive a signed email, the signature is displayed in the email header.
+# Click on the signature to view the certificate details.
+# The certificate details include the certificate issuer, the certificate validity period, and the certificate fingerprint.
+# The recipient can verify the signature using the sender’s public key.
+
+ If the signature is valid:
+
+    * The recipient sees a signed email notification.
+    * It confirms the email hasn’t been modified and is truly from the claimed sender.
+
+  If the signature is invalid or missing, the email might be tampered with or sent from an untrusted source.
+  The recipient should be cautious when interacting with such emails.
+
+
+How S/MIME Encryption Works in Carbonio
+========================================
+
+Key Components
+--------------
+
+# Public Key: Used to encrypt the email. Stored in the recipient’s S/MIME certificate.
+# Private Key: Used to decrypt the email. Stored securely by the recipient.
+# Certificate Authority (CA): Issues S/MIME certificates to users.
+
+The Encryption Process
+----------------------
+
+1. Sender Retrieves Recipient’s Public Key
+    * The sender must have the recipient’s public key.
+2. Email Encryption
+  * The sender composes an email and selects  "Encrypt with S/MIME" 
+  * Sender email content is encrypted using the recipient’s public key.
+  * The email is sent in an encrypted format.
+  * Recipient Decrypts the Email
+      * When the recipient opens the email, its private key is used to decrypt the message.
+      * If the private key matches the encrypted data, the email is decrypted and displayed normally.
+
+The recipient can only decrypt the email if they have the corresponding private key. This ensures that only the intended recipient can read the email.
+
+Requirements for S/MIME Encryption
+-----------------------------------
+
+# Both sender and recipient must have S/MIME certificates installed.
+# The recipient’s public key must be available to the sender.
+
+Uploading a Certificate in Carbonio Webmail
+-------------------------------------------
+
+1. Go to Settings → S/MIME Certificates.
+2. Click "Upload Certificate" under Personal certificates for signing, encryption and decryption.
+3. Select your PKCS#12 certificate file (.pfx or .p12).
+4. Enter the certificate secret.
+5. Click Save.
+
+Uploading Recipient Certificate
+-------------------------------
+
+1. Click "Upload Certificate" under Recipients certificates for encryption
+2. Click Save.
+
+Sending an Encrypted Email
+----------------------------
+
+1. Compose a new email in Carbonio webmail.
+2. Select "Use certificate to encrypt (S/MIME)" before sending.
+3. The email will be encrypted using the recipient’s public key.
+
+Receiving and Decrypting an Email
+-----------------------------------
+
+# If your private key is installed, Carbonio will automatically decrypt the message.
+# If not, you’ll see an "Unable to decrypt" error.
+# You can upload your private key to decrypt the message.
+

@@ -10,14 +10,14 @@
                 :align: center
                 :width: 100%
 
-In Carbonio, video meetings serve as a fundamental tool for facilitating seamless virtual collaboration. Whether conducting one-on-one discussions or hosting group meetings, video meetings provide a platform for face-to-face interaction, fostering real-time communication and enhancing teamwork. 
+In |product|, video meetings serve as a fundamental tool for facilitating seamless virtual collaboration. Whether conducting one-on-one discussions or hosting group meetings, video meetings provide a platform for face-to-face interaction, fostering real-time communication and enhancing teamwork. 
 
 Users can easily initiate or join meetings, share screens, and record meetings ensuring efficient collaboration.
 
 Entering Your Personal Room
 ===========================
 
-Every person with an account on Carbonio has a personal room. You can use your room to invite others to meetings, whether they are colleagues with accounts on the same system or external users. 
+Every person with an account on |product| has a personal room. You can use your room to invite others to meetings, whether they are colleagues with accounts on the same system or external users. 
 To access and enter your personal room, follow these steps:
 
 #.	Select the Chats feature from your left sidebar.

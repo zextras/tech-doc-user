@@ -1,7 +1,7 @@
 pipeline {
   agent {
     node {
-      label 'python3-agent-v1'
+      label 'python-v1'
     }
   }
   options {
@@ -28,21 +28,15 @@ pipeline {
 
   stages {
     stage('Build doc static') {
-      when {
-        anyOf {
-          branch 'master'
-          branch 'pre_release'
-          branch 'devel'
-        }
-      }
       steps {
-        sh '''
+        container('python-312') {
+          sh '''
 python3 -m venv .
-source bin/activate
+. bin/activate
 pip3 install -r requirements.txt
 ./build.sh
 '''
-
+        }
         stash name: 'build_done', includes: 'build/**'
       }
     }

@@ -6,12 +6,12 @@
  Working with Search
 =====================
 
-Searching in the Carbonio web client allows you to find emails, contacts, appointments, and files using specific criteria such as words, dates, time, URL, size, tags, read status, and file attachments. There are two types of searches available:
+Searching in the |product| web client allows you to find emails, contacts, appointments, and files using specific criteria such as words, dates, time, URL, size, tags, read status, and file attachments. There are two types of searches available:
 
 •	Quick Search: This is performed using the search box located on the top bar. You can search through various items, including emails, contacts, appointments, and files, based on the active feature selected from the left sidebar.
 •	Advanced Search: This is performed using the search feature you can select from the left sidebar. This enables more complex searches using different filters such as date, time, subject, etc.
 
-These search capabilities provide efficient ways to locate and manage your data within the Carbonio web client.
+These search capabilities provide efficient ways to locate and manage your data within the |product| web client.
 
 
 Using Quick Search for Different Items

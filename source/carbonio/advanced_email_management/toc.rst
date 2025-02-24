@@ -6,7 +6,7 @@
  Advanced Email Management
 ==========================
 
-This section delves into more advanced email management techniques that offer significant long-term benefits. For Carbonio enthusiasts, we strongly advise taking note of these strategies. Techniques include effectively handling spam emails, utilizing email filters, and email signatures, etc.
+This section delves into more advanced email management techniques that offer significant long-term benefits. For |product| enthusiasts, we strongly advise taking note of these strategies. Techniques include effectively handling spam emails, utilizing email filters, and email signatures, etc.
 
 Email Check Frequency
 =====================
@@ -44,14 +44,14 @@ You can customize whether you are notified when you receive new emails. To enabl
 Receiving Notifications via Another Email Address
 =================================================
 
-You can customize your email preferences to receive notifications at another email address when you receive an email in your Carbonio inbox. This option can be particularly beneficial if you do not receive a high volume of emails to this account, but those you do receive require prompt attention. Unlike the email notifications mentioned in the previous section, for this feature, you do not need to keep your Carbonio webmail open.
+You can customize your email preferences to receive notifications at another email address when you receive an email in your |product| inbox. This option can be particularly beneficial if you do not receive a high volume of emails to this account, but those you do receive require prompt attention. Unlike the email notifications mentioned in the previous section, for this feature, you do not need to keep your |product| webmail open.
 
 #.	Click on the Settings (gear icon) in the left sidebar.
 #.	Select Mails.
 #.	Under Message Arrival, insert another email address (e.g., your Gmail address).
 #.	Click the SAVE button in the top right corner.
 
-Going forward, you will receive an email notification on your Gmail account whenever a new email arrives in your Carbonio inbox.
+Going forward, you will receive an email notification on your Gmail account whenever a new email arrives in your |product| inbox.
 
   .. image:: /img/notification-via-another-email.png
             :align: center
@@ -63,7 +63,7 @@ Marking an Email as Spam
 Most unsolicited automated emails, commonly referred to as spam or junk mail, are filtered by a spam filter before they reach your Inbox.
 Emails that are potentially junk but not definitively identified as such are directed to your Junk folder. You have the option to review these messages and either move them out of the Junk folder or delete them. If left untouched, these messages are automatically removed after a certain number of days, as determined by your system administrator.
 If you find yourself inundated with a significant volume of unwanted emails, it is advisable to reach out to your system administrator.
-Marking such emails as spam automatically helps Carbonio in refining the spam filtering process.
+Marking such emails as spam automatically helps |product| in refining the spam filtering process.
 
 #.	Right-click on the email you wish to mark as spam.
 #.	From the menu that appears, select Mark as spam.
@@ -97,9 +97,9 @@ The transportation history of emails serves various purposes, including verifyin
 
 To trace the email’s origin, follow these steps:
 
-•	Right-click on the email.
-•	Select Show original.
-•	A new window will open, displaying the relevant information.
+-	Right-click on the email.
+-	Select Show original.
+-	A new window will open, displaying the relevant information.
 
 Setting Up Trusted Addresses
 ============================
@@ -151,7 +151,7 @@ HTML messages can have text formatting, numbering, bullets, colored backgrounds,
 Configuring Read Receipts Behavior
 ==================================
 
-When sending messages to other Carbonio users, you can choose to request a return receipt, which notifies you when the recipient opens your email. However, for this feature to function, the recipient must have the read receipt feature enabled or manually accept it as soon as they open the email.
+When sending messages to other |product| users, you can choose to request a return receipt, which notifies you when the recipient opens your email. However, for this feature to function, the recipient must have the read receipt feature enabled or manually accept it as soon as they open the email.
 
 To enable the read receipt feature:
 
@@ -176,15 +176,15 @@ A filter consists of specific conditions paired with corresponding actions.
 
 When an email satisfies the specified conditions, the designated actions are triggered.
 
-•	Conditions can encompass various criteria, such as the subject, sender, or date of the email.
-•	Actions may include moving, tagging, or redirecting the emails.
+-	Conditions can encompass various criteria, such as the subject, sender, or date of the email.
+-	Actions may include moving, tagging, or redirecting the emails.
 
 Some examples are:
 
-•	Automatically moving incoming emails into designated folders. For instance, emails from your supervisor can be automatically routed to your "Management Directives" folder upon arrival.
-•	Tag specific emails for easy identification. For example, emails from the corporate events mailing list can be labeled with an "Events" tag.
-•	Redirect or delete emails based on predefined criteria. For instance, all emails from a specific sender can be forwarded or moved to the Trash folder.
-•	Assign importance flags to specific emails.
+-	Automatically moving incoming emails into designated folders. For instance, emails from your supervisor can be automatically routed to your "Management Directives" folder upon arrival.
+-	Tag specific emails for easy identification. For example, emails from the corporate events mailing list can be labeled with an "Events" tag.
+-	Redirect or delete emails based on predefined criteria. For instance, all emails from a specific sender can be forwarded or moved to the Trash folder.
+-	Assign importance flags to specific emails.
 
 Filters are applied sequentially, following the order in which they are listed in your settings. You retain the flexibility to modify the order of filters as needed.
 
@@ -222,21 +222,21 @@ Under the **Conditions** section, you can configure various fields. These fields
 
 **First field**: This field contains multiple values. i.e.
 
-•	**From**: Specifies the sender's email address.
-•	**To**: Specifies the recipient's email address.
-•	**Cc**: Specifies the email addresses listed in the "Cc" field.
-•	**To** or **Cc**: Specifies email addresses in either the "To" or "Cc" fields.
-•	**Subject**: Specifies keywords or phrases found in the email subject.
-•	**Message**: Specifies email properties, such as those involved in conversations I've participated in.
-•	**Size**: Specifies the size of the email in kilobytes.
-•	**Date**: Specifies the date the email was sent or received.
-•	**Body**: Specifies specific content within the email body.
-•	**Attachment**: Specifies the presence or absence of attachments.
-•	**Read Receipt**: Specifies whether a read receipt has been requested or received.
-•	**Address In**: Specifies specific addresses (e.g., sender, or recipient) that exist in the contacts or frequent emails.
-•	**Calendar**: Specifies events or calendar-related information within the email, such as whether the invitation has been replied to.
-•	**Social**: Specifies social media-related content within the email.
-•	**Header Named**: Specifies a custom email header name.
+-	**From**: Specifies the sender's email address.
+-	**To**: Specifies the recipient's email address.
+-	**Cc**: Specifies the email addresses listed in the "Cc" field.
+-	**To** or **Cc**: Specifies email addresses in either the "To" or "Cc" fields.
+-	**Subject**: Specifies keywords or phrases found in the email subject.
+-	**Message**: Specifies email properties, such as those involved in conversations I've participated in.
+-	**Size**: Specifies the size of the email in kilobytes.
+-	**Date**: Specifies the date the email was sent or received.
+-	**Body**: Specifies specific content within the email body.
+-	**Attachment**: Specifies the presence or absence of attachments.
+-	**Read Receipt**: Specifies whether a read receipt has been requested or received.
+-	**Address In**: Specifies specific addresses (e.g., sender, or recipient) that exist in the contacts or frequent emails.
+-	**Calendar**: Specifies events or calendar-related information within the email, such as whether the invitation has been replied to.
+-	**Social**: Specifies social media-related content within the email.
+-	**Header Named**: Specifies a custom email header name.
 
 You can choose anything among these values and your next field values will appear accordingly.
 
@@ -248,11 +248,11 @@ How to create actions:
 
 Under the Action section, you can configure various fields. These fields determine the actions to be taken if the specified conditions are met. Actions have a few paths to set such as:
 
-•	**Discard**: Moves the email into the Junk folder.
-•	**Move Into Folder**: Transfers the email to a specified folder.
-•	**Mark As**: Marks the email as read or flagged.
-•	**Tag With**: Assigns a tag to the email.
-•	**Redirect To Address**: Redirects the email to the specified email address.
+-	**Discard**: Moves the email into the Junk folder.
+-	**Move Into Folder**: Transfers the email to a specified folder.
+-	**Mark As**: Marks the email as read or flagged.
+-	**Tag With**: Assigns a tag to the email.
+-	**Redirect To Address**: Redirects the email to the specified email address.
 
 Example:
 
@@ -285,8 +285,8 @@ When creating a filter, you have the option to mark the **Active filter** checkb
 
 Active Filters are operational and will be applied to emails automatically. Conversely, filters kept in the Available Filters section are inactive but can be retained for future use. You have the flexibility to move them into the Active Filters section whenever needed.
 
-•	To move a filter from the Active Filters to the Available Filters, simply select the filter you want to deactivate and click on the **REMOVE** button. This action will transfer the filter to the Available Filters section, where it will remain inactive until reactivated.
-•	To move a filter from the Available Filters to the Active Filters, simply select the filter you want to activate and click on the **ADD** button. This action will transfer the filter to the Available Filters section, where it will remain active until deactivated.
+-	To move a filter from the Active Filters to the Available Filters, simply select the filter you want to deactivate and click on the **REMOVE** button. This action will transfer the filter to the Available Filters section, where it will remain inactive until reactivated.
+-	To move a filter from the Available Filters to the Active Filters, simply select the filter you want to activate and click on the **ADD** button. This action will transfer the filter to the Available Filters section, where it will remain active until deactivated.
 
 Applying a Filter to Existing Emails
 ====================================

@@ -6,7 +6,7 @@
  Composing Emails
 =================
 
-In this section, you will discover how to navigate Carbonio email composer and how to use its various features including working with attachments, addressing emails, using account personas, etc.
+In this section, you will discover how to navigate |product| email composer and how to use its various features including working with attachments, addressing emails, using account personas, etc.
 
 Composing a New Email
 =====================
@@ -82,7 +82,7 @@ Attachments play a crucial role in enhancing the effectiveness of email communic
 Adding Attachments
 ==================
 
-You can attach any file from your computer or Carbonio Files by using the **paperclip** icon inside the composing board.
+You can attach any file from your computer or |product| Files by using the **paperclip** icon inside the composing board.
 
 Adding attachment from your computer:
 
@@ -92,11 +92,11 @@ Adding attachment from your computer:
 
 Alternatively, you can simply drag a file from your computer to the composing board to add it as an attachment to your email.
 
-Adding attachment from your Carbonio Files:
+Adding attachment from your |product| Files:
 
 1.	Click on the paperclip icon.
 2.	Select Add from Files.
-3.	A new window appears, and you can select desired files from your Carbonio Files.
+3.	A new window appears, and you can select desired files from your |product| Files.
 
 It is important to note that computer viruses are commonly transmitted through file attachments. As a precaution, system administrators may block incomin cdg emails containing certain types of attachments, particularly those with extensions such as .EXE or .ZIP as part of their filename. If you send an email to someone whose email system blocks these attachments, you may not receive any notification about the blocking. Therefore, it is advisable to confirm with your recipient whether they have received the attachment or not.
 
@@ -127,7 +127,7 @@ You can send emails from different personas or email identities while composing 
 
 This feature is available if you have multiple identities or personas set up.
 
-An email identity refers to having access to multiple accounts on the Carbonio web client, allowing you to choose which one to send the email from. Alternatively, if you have configured another persona in your settings, you can send messages from it. In either case, the recipient will see the email address or username aligned with the selected identity or persona as the sender of the emails.
+An email identity refers to having access to multiple accounts on the |product| web client, allowing you to choose which one to send the email from. Alternatively, if you have configured another persona in your settings, you can send messages from it. In either case, the recipient will see the email address or username aligned with the selected identity or persona as the sender of the emails.
 
 To switch identities or personas, follow these steps:
 

@@ -10,12 +10,12 @@
                 :align: center
                 :width: 100%
 
-In Carbonio, video meetings are an essential tool for enabling smooth virtual collaboration. Whether for individual conversations or group sessions, they offer a space for face-to-face interactions, promoting real-time communication and strengthening teamwork. Users can effortlessly start or join meetings, share screens, and record sessions, ensuring effective and streamlined collaboration.
+In |product|, video meetings are an essential tool for enabling smooth virtual collaboration. Whether for individual conversations or group sessions, they offer a space for face-to-face interactions, promoting real-time communication and strengthening teamwork. Users can effortlessly start or join meetings, share screens, and record sessions, ensuring effective and streamlined collaboration.
 
 Creating New Virtual Room
 =========================
 
-Every person with an account on Carbonio can create virtual rooms. Virtual rooms are shared spaces where you can hold video meetings and engage in conversations via chat. You can create them based on different topics you want to discuss so that the attendees are informed about the meeting agenda.
+Every person with an account on |product| can create virtual rooms. Virtual rooms are shared spaces where you can hold video meetings and engage in conversations via chat. You can create them based on different topics you want to discuss so that the attendees are informed about the meeting agenda.
 
 To create a new room:
 
@@ -33,7 +33,7 @@ You can use the Arrow icon beside your room’s name to enter the room.
 Managing Virtual Rooms
 ========================
 
-Every person with an account on Carbonio can create virtual rooms. You can use your room to invite others to meetings, whether they are colleagues with accounts on the same system or external users.
+Every person with an account on |product| can create virtual rooms. You can use your room to invite others to meetings, whether they are colleagues with accounts on the same system or external users.
 In the list of participants in the video meeting, you will be able to distinguish which of them are internal and which are external, marked as “Guest”.
 
 To access and enter your virtual room, follow these steps:

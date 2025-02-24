@@ -366,7 +366,7 @@ Creating Signatures
 To create a signature:
 
 #.	Click on the **Settings** (gear icon) in the left sidebar.
-#.	Select **Mails**.
+#.  Select **Mails**.
 #.	Under the **Signatures** section, click **ADD SIGNATURE**.
 #.	Provide a name for the signature in the designated field.
 #.	Utilize the rich text editor on the right side to compose your signature.

@@ -21,7 +21,7 @@ To read an email simply:
         :width: 100%
 
 
-Within the Carbonio web client, there are two distinct methods for displaying emails:
+Within the |product| web client, there are two distinct methods for displaying emails:
 
 •	**Message View**: In this mode, emails are displayed individually in your main panel. Each email is listed separately, allowing you to view them one by one.
 •	**Conversation View**: When utilizing this option, emails are grouped based on threads. If multiple emails are part of a conversation or have been replied to together, they will appear grouped as a single thread in your main panel.
@@ -84,7 +84,7 @@ These enhancements are designed to increase your awareness of potential security
 Changing Email Visualization Method
 ===================================
 
-To adjust Carbonio's email visualization, whether opting for threaded conversations or individual messages:
+To adjust |product|'s email visualization, whether opting for threaded conversations or individual messages:
 
 1.	Navigate to the **Settings** (Gear icon) from the left sidebar.
 2.	Access the **Mails** section.
@@ -155,10 +155,10 @@ To download an attachment to your computer:
         :width: 100%
 
 
-Saving Attachments in Your Carbonio Files
-=========================================
+Saving Attachments in Your |product| Files
+==========================================
 
-To save an attachment in your Carbonio Files:
+To save an attachment in your |product| Files:
 
 1.	Open the email containing the attachment.
 2.	Under the attachment, click **Save to Files**. This will open a window, enabling you to specify the destination folder on your Files.

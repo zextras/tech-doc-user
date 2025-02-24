@@ -6,12 +6,12 @@
  Basic Email Management
 =======================
 
-In this section, we will delve into the versatile functionalities of Carbonio, focusing on its efficient organizational tools such as folders, tags, and sharing capabilities.
+In this section, we will delve into the versatile functionalities of |product|, focusing on its efficient organizational tools such as folders, tags, and sharing capabilities.
 
 Using Tags
 ==========
 
-Tags in Carbonio offer a versatile solution for classifying and organizing emails. For instance, you might designate tags like "Medium Priority" to swiftly categorize items according to their urgency or importance.
+Tags in |product| offer a versatile solution for classifying and organizing emails. For instance, you might designate tags like "Medium Priority" to swiftly categorize items according to their urgency or importance.
 
 Tags enable seamless organization, allowing users to easily locate items associated with specific tags through efficient search functionality.
 

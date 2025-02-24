@@ -6,12 +6,12 @@
  Getting Started 
 ================
 
-In this section, we are going to explore the essential steps for signing in to your Carbonio web client. Properly signing in is the first step towards accessing your emails and utilizing the various features offered by the platform. We will cover everything from accessing the webmail address to navigating through two-factor authentication (2FA) and using SAML functionality. Additionally, we will discuss how to sign out securely, recover forgotten passwords, change your login credentials, and other configurations. 
+In this section, we are going to explore the essential steps for signing in to your |product| web client. Properly signing in is the first step towards accessing your emails and utilizing the various features offered by the platform. We will cover everything from accessing the webmail address to navigating through two-factor authentication (2FA) and using SAML functionality. Additionally, we will discuss how to sign out securely, recover forgotten passwords, change your login credentials, and other configurations. 
 
 Signing In
 ==========
 
-To access your Carbonio web client, the initial step is to sign in. This can be easily accomplished by navigating to your company's webmail address via your browser. To do so, you can simply follow these steps:
+To access your |product| web client, the initial step is to sign in. This can be easily accomplished by navigating to your company's webmail address via your browser. To do so, you can simply follow these steps:
 
 1.	**Open Your Browser**: Start by opening your web browser (like Chrome, Firefox, or Safari).
 2.	**Enter the Webmail Address**: In the address bar at the top of your browser, type in your company’s webmail address. If you are not sure what it is, ask your company’s system administrator for help.
@@ -46,7 +46,7 @@ When accessing your account for the first time, you will be prompted to create a
 
 3.	Logging In with 2FA:
 
-* Next time you log in to your Carbonio webmail, follow these steps:
+* Next time you log in to your |product| webmail, follow these steps:
 
     > Enter your **username** and **password**;
     
@@ -60,7 +60,7 @@ Setting Up Two-factor Auth (2FA)
 ================================
 
 
-If you are not forced to use 2FA on your login prompts, you can manually set it up via your web client settings, if your system administrator gave you the proper permission. By following these steps, you will enhance the security of your Carbonio webmail account.
+If you are not forced to use 2FA on your login prompts, you can manually set it up via your web client settings, if your system administrator gave you the proper permission. By following these steps, you will enhance the security of your |product| webmail account.
 
 1.	Accessing Settings:
 
@@ -86,7 +86,7 @@ If you are not forced to use 2FA on your login prompts, you can manually set it 
 
 5.	Logging In with 2FA:
 
-*	The next time you log in to your Carbonio webmail, follow these steps:
+*	The next time you log in to your |product| webmail, follow these steps:
 
         > Enter your **username** and **password**;
     
@@ -102,11 +102,11 @@ Using SAML to Sign In
 
 **SAML** stands for **Security Assertion Markup Language**. It is like a secret handshake between different websites and apps to make sure you are who you say you are. Imagine it as a special pass that lets you into multiple places without needing a separate key for each door. 
 
-You have generally two ways to use SAML functionality to sign in to your Carbonio account:
+You have generally two ways to use SAML functionality to sign in to your |product| account:
 
 1. First Flow:
 
-*	When logging in to Carbonio webmail, look for the **LOGIN SAML** button.
+*	When logging in to |product| webmail, look for the **LOGIN SAML** button.
 *	Click it, and it will automatically sign you into your webmail.
 *	Important: You must already be logged into your **identity provider service** (like Okta or other services provided by your system administrator).
 *	If you are not sure how to log into your identity provider, reach out to your **system administrator** for assistance.
@@ -114,14 +114,14 @@ You have generally two ways to use SAML functionality to sign in to your Carboni
 2. Second Flow:
 
 *	First, log in to your **identity provider service** (e.g., Okta or other services provided by your system administrator).
-*	Once you are logged in there, simply click on the **Carbonio mail app**.
+*	Once you are logged in there, simply click on the **|product| mail app**.
 *	SAML will seamlessly take you to your webmail without requiring you to insert your credentials.
 
 
 Signing Out
 ===========
 
-To ensure the security of your Carbonio web client, it is essential to sign out when you are away from your computer. Here are two straightforward methods to log out:
+To ensure the security of your |product| web client, it is essential to sign out when you are away from your computer. Here are two straightforward methods to log out:
 
 1. Using the Account Icon:
 
@@ -183,10 +183,10 @@ Resetting a password becomes necessary when you want to update your existing pas
         :width: 100%
 
 
-Introduction of Carbonio Web Client
-===================================
+Introduction of |product| Web Client
+====================================
 
-When you log in to check your emails, the **Carbonio web client interface** greets you with the following components:
+When you log in to check your emails, the **|product| web client interface** greets you with the following components:
 
     .. image:: /img/interface.png
         :align: center
@@ -197,25 +197,25 @@ When you log in to check your emails, the **Carbonio web client interface** gree
 2.	**Navigation Panel**: Here, you will find additional context related to the active feature you have selected from the left sidebar. For example, if you select “Mails” from the left sidebar, you will find access to your inboxes and email folders here.
 3.	**Main Panel**: The central area displays your actual content related to the active feature you have selected from the left sidebar. For example, if you select “Mails” from the left sidebar, you will see your emails in this area; similarly, choosing “Calendars” will display your calendar events.
 
-Using Browser Buttons to Navigate Carbonio
-==========================================
+Using Browser Buttons to Navigate |product|
+===========================================
 
 It is recommended to avoid using your browser’s navigation buttons too frequently, especially when you are in the middle of composing an email or a message. These buttons can inadvertently disrupt your work and cause you to lose what you are doing. So, proceed with caution.
 
-1.	**Back Button**: You can use your browser’s back button to return to the previous page you were viewing on Carbonio.
+1.	**Back Button**: You can use your browser’s back button to return to the previous page you were viewing on |product|.
 2.	**Forward Button**: If you have gone back and want to revisit a page you just left, click the forward button.
 3.	**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. Clicking it restarts your session, which can be especially dangerous when composing a new email or a lengthy text message. You might lose your work.
 
 Account Personalization
 =======================
 
-Before you start using the Carbonio web client, take a moment to personalize your account. You can customize visual aspects such as the theme, as well as other account settings like your time zone. Most of these options are conveniently accessible in the **Settings** menu. To access it, simply click the gear icon on the left sidebar, and then select **General Settings**.
+Before you start using the |product| web client, take a moment to personalize your account. You can customize visual aspects such as the theme, as well as other account settings like your time zone. Most of these options are conveniently accessible in the **Settings** menu. To access it, simply click the gear icon on the left sidebar, and then select **General Settings**.
 
 
 Changing Theme
 ==============
 
-A theme in the Carbonio web client defines the color scheme used for its appearance. Currently, there are **two themes** available: **Dark mode** and **Light mode**. Here is how you can manage them:
+A theme in the |product| web client defines the color scheme used for its appearance. Currently, there are **two themes** available: **Dark mode** and **Light mode**. Here is how you can manage them:
 
 1.	To **activate Dark mode**, follow these steps:
 
@@ -229,10 +229,10 @@ A theme in the Carbonio web client defines the color scheme used for its appeara
 
 *	Click on **Disabled** in the same dropdown menu and click **SAVE**.
 
-3.	If you choose **Auto**, Carbonio will adapt to your **operating system’s default theme**. For example:
+3.	If you choose **Auto**, |product| will adapt to your **operating system’s default theme**. For example:
 
-*	If your OS theme is dark, Carbonio will also be in dark mode.
-*	If your OS theme is light, Carbonio will match that as well.
+*	If your OS theme is dark, |product| will also be in dark mode.
+*	If your OS theme is light, |product| will match that as well.
 
     .. image:: /img/dark-mode.png
         :align: center
@@ -242,7 +242,7 @@ A theme in the Carbonio web client defines the color scheme used for its appeara
 Changing Font Size
 ==================
 
-You can change the font size across all Carbonio web clients according to your preferences. To change the font size simply follow these steps:
+You can change the font size across all |product| web clients according to your preferences. To change the font size simply follow these steps:
 
 1.	Open the **Settings** (gear icon) from the left sidebar.
 2.	Select General Settings.
@@ -261,7 +261,7 @@ Remember, if you prefer automatic resizing based on the device, you can leave th
 Changing Your Time Zone
 =======================
 
-As a digital workspace, Carbonio relies on precise time zone settings to ensure optimal performance for calendars and other features like emails, guaranteeing accurate timestamps. This becomes particularly crucial when collaborating with colleagues across different countries and time zones. To change your time zone, follow these steps:
+As a digital workspace, |product| relies on precise time zone settings to ensure optimal performance for calendars and other features like emails, guaranteeing accurate timestamps. This becomes particularly crucial when collaborating with colleagues across different countries and time zones. To change your time zone, follow these steps:
 
 1.	Open the **Settings** (gear icon) from the left sidebar.
 2.	Select General Settings.
@@ -273,10 +273,10 @@ As a digital workspace, Carbonio relies on precise time zone settings to ensure 
             :width: 100%
 
 
-Changing Carbonio Language
-==========================
+Changing |product| Language
+===========================
 
-To change your Carbonio web client language, follow these steps:
+To change your |product| web client language, follow these steps:
 
 1.	Open the **Settings** (gear icon) from the left sidebar.
 2.	Select General Settings.
@@ -286,7 +286,7 @@ To change your Carbonio web client language, follow these steps:
 Accessing Multiple Accounts
 ===========================
 
-On the Carbonio web client, you have access to multiple accounts. Let's say you have your personal account, as well as two additional accounts created for HR tasks and communications with your colleagues under the name “hr@example.com”, and another one named “info@example.com” for external communications of the company. **Only your system administrator can add these accounts and grant you access** to manage them via your main account.
+On the |product| web client, you have access to multiple accounts. Let's say you have your personal account, as well as two additional accounts created for HR tasks and communications with your colleagues under the name “hr@example.com”, and another one named “info@example.com” for external communications of the company. **Only your system administrator can add these accounts and grant you access** to manage them via your main account.
 
     .. image:: /img/inbox-multiple-accounts.png
             :align: center

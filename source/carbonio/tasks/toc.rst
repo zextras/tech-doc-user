@@ -6,7 +6,7 @@
  Working with Tasks
 ====================
 
-Tasks are an integral part of any organized workflow, whether it is managing personal to-dos or coordinating team assignments. Carbonio Tasks will help you organize your work and manage it easily.
+Tasks are an integral part of any organized workflow, whether it is managing personal to-dos or coordinating team assignments. |product| Tasks will help you organize your work and manage it easily.
 
   .. image:: /img/tasks.png
                 :align: center
@@ -21,7 +21,7 @@ To create a new task:
 2.	Click on the **NEW** button located on the top bar. A new board will appear.
 3.	In the designated **Title field** on the task board, insert a concise and descriptive title for your new task.
 4.	Utilize the **Priority field** to specify the importance or urgency level of the task.
-5.	If you require Carbonio to remind you about this task at a specific time, toggle the **Enable reminder** option and select your preferred reminder time.
+5.	If you require |product| to remind you about this task at a specific time, toggle the **Enable reminder** option and select your preferred reminder time.
 6.	Input relevant details or instructions for the task in the provided description area. 
 7.	Click **CREATE**.
 

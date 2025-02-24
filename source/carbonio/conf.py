@@ -110,7 +110,7 @@ html_sidebars = {"**": ['navbar-logo.html', 'search-button-field.html', 'sbt-sid
 languages = ['en', 'it', 'fr']
 
 html_context = {
-    'languages': ['en', 'it', 'fr'],
+    'languages': ['en', 'it'],
     'localpath': 'docs',
     'hubhome': '%s' % hubhome,
 }

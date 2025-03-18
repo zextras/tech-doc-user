@@ -439,6 +439,8 @@ To generate a collaboration link for your colleagues:
 #.	Under the **Collaboration links** section, click on the **GENERATE LINK** button next to either **Read and Share** or **Write and Share** depending on the privileges you want to grant to the recipient.
 
 You can copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS.
+In the current release, you can generate up to a maximum of 50 public links for each file you want to share. If you have any doubts, please contact your system administrator.
+The public link has been extended to enhance security.
 
 Generating Public Download Links for External Users
 ===================================================
@@ -453,6 +455,8 @@ To generate a sharing link external user:
 #.	Click the **GENERATE LINK** button on the right.
 
 Copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS.
+
+
 
   .. image:: /img/public-link.png
                 :align: center
@@ -491,5 +495,7 @@ also for shared documents: if the document is open by another user who
 has write access on your document, the second user will also see the
 *Read-only* label on the bottom of the document so he will not be able
 to save changes made to the document.
+
+While editing a shared document, if the file quota limit is reached or changed, a warning message will appear on saving. You can still proceed by downloading the document and saving your changes locally.
 
 .. note:: For the **Files** quota limitation, you should contact your system administrator.

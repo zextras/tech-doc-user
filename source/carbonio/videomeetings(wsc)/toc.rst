@@ -23,6 +23,7 @@ To create a new room:
 2.	Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the list of chats. A new window appears.
 3.	Click on New Virtual Room's name*.
 4.	Insert a name for the room in the field and click on the checkmark icon.
+5.	Choose the room's moderators, who will have the ability to manage the room.
 
 Your room has been successfully created and will be accessible through the same YOUR VIRTUAL ROOMS button.
 
@@ -41,6 +42,18 @@ To access and enter your virtual room, follow these steps:
 1.	Select the Chats feature from your left sidebar.
 2.	Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the list of chats to open your list of rooms.
 3.	You can use the Arrow icon beside the room’s name to enter it.
+
+Editing Room Details
+=====================
+
+To edit the details of a room:
+
+1.	Select the Chats feature from your left sidebar.
+2.	Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the list of chats to open your list of rooms.
+3.	Click the three dots icon beside the room’s name.
+4.	Choose EDIT.
+5.	Edit the room’s name and moderators.
+6.	Click the button EDIT to save the changes.
 
 
 Entering A Virtual Room
@@ -100,6 +113,8 @@ Enable Webcam and Microphone
 When you are in a video meeting, you can also turn your webcam or microphone on or off. Here is how: Toggle the microphone or camera icon on the bottom bar inside the meeting room. If you do not see the bottom bar, simply move your mouse cursor to the bottom of the screen, and it will appear.
 
 During a video meeting, you have the chance to blur your background. Simply click on the arrow icon in the camera button, and then choose the option Apply Blur Effect.
+
+You also have the chance to choose a specific background image. Click on the arrow icon in the camera button, and then choose the option Apply Background Image. You can upload your own image or choose one from the available options.
 
 
 Recording a Video Meeting

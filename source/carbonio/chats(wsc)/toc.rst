@@ -82,6 +82,15 @@ To reply to a message:
 #.	Select **Reply** from the drop-down menu.
 #.	Write the reply and hit enter.
 
+Reply A Message with a Reaction 
+===============================
+
+To reply to a message:
+
+#.	Click on the emoji icon located next to the downward arrow.
+#.	Select the emoji you want to send between the ones in the menu.
+#.	Write the reply and hit enter.
+
 Forward A Message
 =================
 

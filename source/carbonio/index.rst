@@ -11,7 +11,7 @@
  Welcome to |product| User Documentation!
 ********************************************
 
-This is the documentation of ||product||, the fully private digital
+This is the documentation of |product|, the fully private digital
 workplace.
 
 The content is organised in multiple parts:

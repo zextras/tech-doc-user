@@ -8,17 +8,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-27 16:37+0100\n"
+"POT-Creation-Date: 2025-04-02 15:52+0200\n"
 "PO-Revision-Date: 2025-02-12 15:54+0000\n"
 "Last-Translator: Emmanuelle Hérillard <emmanuelle.herillard@zextras.fr>\n"
-"Language-Team: French <https://translate.zextras.tools/projects/"
-"documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
+"Language-Team: French "
+"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
+"guide/fr/>\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9.1\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -33,12 +33,12 @@ msgid ""
 "effectively handling spam emails, utilizing email filters, and email "
 "signatures, etc."
 msgstr ""
-"Cette section aborde des techniques plus avancées de gestion des courriels "
-"qui offrent des avantages significatifs à long terme. Nous conseillons "
-"vivement aux passionnés de |produit| de prendre connaissance de ces "
-"stratégies. Les techniques comprennent le traitement efficace des courriels "
-"indésirables, l'utilisation des filtres de messagerie, les signatures de "
-"courriels, etc."
+"Cette section aborde des techniques plus avancées de gestion des "
+"courriels qui offrent des avantages significatifs à long terme. Nous "
+"conseillons vivement aux passionnés de |produit| de prendre connaissance "
+"de ces stratégies. Les techniques comprennent le traitement efficace des "
+"courriels indésirables, l'utilisation des filtres de messagerie, les "
+"signatures de courriels, etc."
 
 #: ../../advanced_email_management/toc.rst:12
 msgid "Email Check Frequency"
@@ -49,8 +49,8 @@ msgid ""
 "You can customize how frequently you receive emails by adjusting your "
 "settings. Here is how:"
 msgstr ""
-"Vous pouvez personnaliser la fréquence à laquelle vous recevez des courriels "
-"en modifiant vos paramètres. Voici comment procéder :"
+"Vous pouvez personnaliser la fréquence à laquelle vous recevez des "
+"courriels en modifiant vos paramètres. Voici comment procéder :"
 
 #: ../../advanced_email_management/toc.rst:16
 #: ../../advanced_email_management/toc.rst:49
@@ -58,7 +58,8 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:125
 msgid "Click on the Settings (gear icon) in the left sidebar."
 msgstr ""
-"Cliquez sur les paramètres (icône d'engrenage) dans la barre latérale gauche."
+"Cliquez sur les paramètres (icône d'engrenage) dans la barre latérale "
+"gauche."
 
 #: ../../advanced_email_management/toc.rst:17
 #: ../../advanced_email_management/toc.rst:50
@@ -75,8 +76,8 @@ msgid ""
 "From the drop-down menu, choose how often you would like to check for new"
 " mail."
 msgstr ""
-"Dans le menu déroulant, choisissez la fréquence à laquelle vous souhaitez "
-"vérifier la présence de nouveaux courriers."
+"Dans le menu déroulant, choisissez la fréquence à laquelle vous souhaitez"
+" vérifier la présence de nouveaux courriers."
 
 #: ../../advanced_email_management/toc.rst:20
 #: ../../advanced_email_management/toc.rst:52
@@ -93,8 +94,8 @@ msgid ""
 msgstr ""
 "Si vous sélectionnez Manuellement, vous devrez cliquer sur l'icône de "
 "rechargement pour récupérer les nouveaux courriels. Si vous choisissez À "
-"l'arrivée d'un nouveau courriel, votre boîte de réception sera actualisée "
-"automatiquement à la réception d'un nouveau courriel."
+"l'arrivée d'un nouveau courriel, votre boîte de réception sera actualisée"
+" automatiquement à la réception d'un nouveau courriel."
 
 #: ../../advanced_email_management/toc.rst:29
 msgid "Email Notification"
@@ -106,10 +107,10 @@ msgid ""
 "To enable desktop alerts for new email notifications, ensure that your "
 "web client is open on your browser."
 msgstr ""
-"Vous pouvez personnaliser l'envoi d'une notification lorsque vous recevez de "
-"nouveaux emails. Afin d'activer les alertes de bureau pour les notifications "
-"de nouveaux courriels, assurez-vous que votre client web est ouvert sur "
-"votre navigateur."
+"Vous pouvez personnaliser l'envoi d'une notification lorsque vous recevez"
+" de nouveaux emails. Afin d'activer les alertes de bureau pour les "
+"notifications de nouveaux courriels, assurez-vous que votre client web "
+"est ouvert sur votre navigateur."
 
 #: ../../advanced_email_management/toc.rst:33
 #: ../../advanced_email_management/toc.rst:145
@@ -120,18 +121,19 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:314
 #: ../../advanced_email_management/toc.rst:327
 #: ../../advanced_email_management/toc.rst:338
-#: ../../advanced_email_management/toc.rst:383
-#: ../../advanced_email_management/toc.rst:405
-#: ../../advanced_email_management/toc.rst:416
-#: ../../advanced_email_management/toc.rst:429
-#: ../../advanced_email_management/toc.rst:465
-#: ../../advanced_email_management/toc.rst:518
-#: ../../advanced_email_management/toc.rst:533 ../../calendars/toc.rst:24
+#: ../../advanced_email_management/toc.rst:368
+#: ../../advanced_email_management/toc.rst:390
+#: ../../advanced_email_management/toc.rst:401
+#: ../../advanced_email_management/toc.rst:414
+#: ../../advanced_email_management/toc.rst:450
+#: ../../advanced_email_management/toc.rst:503
+#: ../../advanced_email_management/toc.rst:518 ../../calendars/toc.rst:24
 #: ../../calendars/toc.rst:140 ../../calendars/toc.rst:156
 #: ../../calendars/toc.rst:166
 msgid "Click on the **Settings** (gear icon) in the left sidebar."
 msgstr ""
-"Cliquez sur **Réglages** (icône d'engrenage) dans la barre latérale gauche."
+"Cliquez sur **Réglages** (icône d'engrenage) dans la barre latérale "
+"gauche."
 
 #: ../../advanced_email_management/toc.rst:34
 #: ../../advanced_email_management/toc.rst:146
@@ -142,10 +144,10 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:315
 #: ../../advanced_email_management/toc.rst:328
 #: ../../advanced_email_management/toc.rst:339
-#: ../../advanced_email_management/toc.rst:384
-#: ../../advanced_email_management/toc.rst:406
-#: ../../advanced_email_management/toc.rst:417
-#: ../../advanced_email_management/toc.rst:430
+#: ../../advanced_email_management/toc.rst:369
+#: ../../advanced_email_management/toc.rst:391
+#: ../../advanced_email_management/toc.rst:402
+#: ../../advanced_email_management/toc.rst:415
 msgid "Select **Mails**."
 msgstr "Sélectionnez **Emails**."
 
@@ -162,8 +164,8 @@ msgid ""
 "Check the box for **Show a popup notification** if you prefer a window "
 "pop-up when receiving a new email."
 msgstr ""
-"Cochez la case **Afficher une notification popup** si vous préférez qu'une "
-"fenêtre popup s'affiche lors de la réception d'un nouvel email."
+"Cochez la case **Afficher une notification popup** si vous préférez "
+"qu'une fenêtre popup s'affiche lors de la réception d'un nouvel email."
 
 #: ../../advanced_email_management/toc.rst:37
 msgid ""
@@ -194,14 +196,14 @@ msgid ""
 "section, for this feature, you do not need to keep your |product| webmail"
 " open."
 msgstr ""
-"Vous pouvez personnaliser vos préférences afin de recevoir des notifications "
-"à une autre adresse électronique lorsque vous recevez un courrier "
-"électronique dans votre boîte de réception |produit|. Cette option peut "
-"s'avérer particulièrement utile si vous ne recevez pas un grand nombre "
-"d'emails sur ce compte, mais que ceux que vous recevez requièrent une "
-"attention immédiate. Contrairement aux notifications mentionnées dans la "
-"section précédente, cette fonctionnalité ne nécessite pas que vous gardiez "
-"votre webmail |produit| ouvert."
+"Vous pouvez personnaliser vos préférences afin de recevoir des "
+"notifications à une autre adresse électronique lorsque vous recevez un "
+"courrier électronique dans votre boîte de réception |produit|. Cette "
+"option peut s'avérer particulièrement utile si vous ne recevez pas un "
+"grand nombre d'emails sur ce compte, mais que ceux que vous recevez "
+"requièrent une attention immédiate. Contrairement aux notifications "
+"mentionnées dans la section précédente, cette fonctionnalité ne nécessite"
+" pas que vous gardiez votre webmail |produit| ouvert."
 
 #: ../../advanced_email_management/toc.rst:51
 msgid ""
@@ -238,18 +240,19 @@ msgid ""
 "as spam automatically helps |product| in refining the spam filtering "
 "process."
 msgstr ""
-"La plupart des courriels automatisés non sollicités, communément appelés « "
-"spam » ou « courrier indésirable », sont filtrés par un filtre anti-spam "
-"avant d'arriver dans votre boîte de réception. Les messages potentiellement "
-"indésirables, mais qui ne sont pas définitivement identifiés comme tels, "
-"sont dirigés vers votre dossier « Courrier indésirable ». Vous avez la "
-"possibilité de consulter ces messages et de les déplacer hors du dossier "
-"Courrier indésirable ou de les supprimer. S'ils ne sont pas supprimés, ces "
-"messages sont automatiquement supprimés après un certain nombre de jours, "
-"déterminé par votre administrateur système. Si vous êtes inondé d'un volume "
-"important de courriels indésirables, il est conseillé de contacter votre "
-"administrateur système. Le fait de marquer ces courriels comme étant du spam "
-"aide automatiquement à affiner le processus de filtrage du spam."
+"La plupart des courriels automatisés non sollicités, communément appelés "
+"« spam » ou « courrier indésirable », sont filtrés par un filtre anti-"
+"spam avant d'arriver dans votre boîte de réception. Les messages "
+"potentiellement indésirables, mais qui ne sont pas définitivement "
+"identifiés comme tels, sont dirigés vers votre dossier « Courrier "
+"indésirable ». Vous avez la possibilité de consulter ces messages et de "
+"les déplacer hors du dossier Courrier indésirable ou de les supprimer. "
+"S'ils ne sont pas supprimés, ces messages sont automatiquement supprimés "
+"après un certain nombre de jours, déterminé par votre administrateur "
+"système. Si vous êtes inondé d'un volume important de courriels "
+"indésirables, il est conseillé de contacter votre administrateur système."
+" Le fait de marquer ces courriels comme étant du spam aide "
+"automatiquement à affiner le processus de filtrage du spam."
 
 #: ../../advanced_email_management/toc.rst:68
 msgid "Right-click on the email you wish to mark as spam."
@@ -275,9 +278,10 @@ msgid ""
 "automatically purged after a certain period, as determined by your system"
 " administrator. To remove your spam emails:"
 msgstr ""
-"Si vous ne prenez pas de mesures pour supprimer vos courriels indésirables, "
-"ils seront automatiquement purgés après une certaine période, déterminée par "
-"votre administrateur système. Pour supprimer vos spams :"
+"Si vous ne prenez pas de mesures pour supprimer vos courriels "
+"indésirables, ils seront automatiquement purgés après une certaine "
+"période, déterminée par votre administrateur système. Pour supprimer vos "
+"spams :"
 
 #: ../../advanced_email_management/toc.rst:77
 msgid "Click on the **Mails** in the left sidebar."
@@ -296,9 +300,9 @@ msgid ""
 "If you need to remove a specific spam email, you can easily right-click "
 "on the email and select **Delete**."
 msgstr ""
-"Si vous avez besoin de supprimer un courriel indésirable spécifique, vous "
-"pouvez facilement cliquer avec le bouton droit de la souris sur le courriel "
-"et sélectionner **Supprimer**."
+"Si vous avez besoin de supprimer un courriel indésirable spécifique, vous"
+" pouvez facilement cliquer avec le bouton droit de la souris sur le "
+"courriel et sélectionner **Supprimer**."
 
 #: ../../advanced_email_management/toc.rst:84
 msgid "Marking Email as Not Spam"
@@ -310,8 +314,8 @@ msgid ""
 "such cases, you can manually move these emails to the appropriate folder."
 msgstr ""
 "Il peut arriver que des courriers électroniques qui ne sont pas des "
-"courriers indésirables se retrouvent dans le dossier « Spam ». Dans ce cas, "
-"vous pouvez les déplacer manuellement vers le dossier approprié."
+"courriers indésirables se retrouvent dans le dossier « Spam ». Dans ce "
+"cas, vous pouvez les déplacer manuellement vers le dossier approprié."
 
 #: ../../advanced_email_management/toc.rst:88
 msgid "Go to your **Junk** folder."
@@ -348,21 +352,20 @@ msgid ""
 " details about the email's journey, such as sender and recipient IP "
 "addresses, timestamps, and any spam detection information."
 msgstr ""
-"L'historique du transport des courriels sert à diverses fins, notamment à "
-"vérifier l'authenticité, à enquêter sur les problèmes de livraison, à "
+"L'historique du transport des courriels sert à diverses fins, notamment à"
+" vérifier l'authenticité, à enquêter sur les problèmes de livraison, à "
 "détecter les tentatives d'hameçonnage, à déboguer les configurations des "
-"serveurs de messagerie, à assurer la conformité et à répondre aux exigences "
-"légales. Ces informations sont généralement affichées sur une page de texte, "
-"comprenant l'en-tête de l'email (également appelé information sur "
-"l'enveloppe) et le corps de l'email. L'en-tête de l'email contient des "
-"informations essentielles sur le parcours de l'email, telles que les "
-"adresses IP de l'expéditeur et du destinataire, l'horodatage et toute "
-"information relative à la détection du spam."
+"serveurs de messagerie, à assurer la conformité et à répondre aux "
+"exigences légales. Ces informations sont généralement affichées sur une "
+"page de texte, comprenant l'en-tête de l'email (également appelé "
+"information sur l'enveloppe) et le corps de l'email. L'en-tête de l'email"
+" contient des informations essentielles sur le parcours de l'email, "
+"telles que les adresses IP de l'expéditeur et du destinataire, "
+"l'horodatage et toute information relative à la détection du spam."
 
 #: ../../advanced_email_management/toc.rst:98
 msgid "To trace the email’s origin, follow these steps:"
-msgstr ""
-"Pour retrouver l'origine du courrier électronique, procédez comme suit :"
+msgstr "Pour retrouver l'origine du courrier électronique, procédez comme suit :"
 
 #: ../../advanced_email_management/toc.rst:100
 #: ../../basic_email_management/toc.rst:110
@@ -391,12 +394,13 @@ msgid ""
 "embedded images in emails received from addresses with this domain will "
 "automatically display upon opening the email. Here is how to do it:"
 msgstr ""
-"Vous avez la possibilité de désigner des adresses électroniques provenant de "
-"domaines spécifiques comme adresses de confiance (le domaine fait partie de "
-"l'adresse après le @, comme votreEntreprise dans prénom.nom@votreEntreprise."
-"com). En procédant ainsi, vous vous assurez que toutes les images intégrées "
-"dans les courriels reçus à partir d'adresses ayant ce domaine s'afficheront "
-"automatiquement à l'ouverture du courriel. Voici comment procéder :"
+"Vous avez la possibilité de désigner des adresses électroniques provenant"
+" de domaines spécifiques comme adresses de confiance (le domaine fait "
+"partie de l'adresse après le @, comme votreEntreprise dans "
+"prénom.nom@votreEntreprise.com). En procédant ainsi, vous vous assurez "
+"que toutes les images intégrées dans les courriels reçus à partir "
+"d'adresses ayant ce domaine s'afficheront automatiquement à l'ouverture "
+"du courriel. Voici comment procéder :"
 
 #: ../../advanced_email_management/toc.rst:112
 msgid ""
@@ -404,10 +408,10 @@ msgid ""
 "provided text box. If you want to trust all addresses from a specific "
 "domain, use the entire domain name."
 msgstr ""
-"Sous Adresses de confiance, indiquez l'adresse email ou le nom de domaine "
-"dans la zone de texte prévue à cet effet. Si vous voulez faire confiance à "
-"toutes les adresses d'un domaine spécifique, utilisez le nom de domaine "
-"entier."
+"Sous Adresses de confiance, indiquez l'adresse email ou le nom de domaine"
+" dans la zone de texte prévue à cet effet. Si vous voulez faire confiance"
+" à toutes les adresses d'un domaine spécifique, utilisez le nom de "
+"domaine entier."
 
 #: ../../advanced_email_management/toc.rst:113
 msgid "Click the Add button to add the address or domain to the trusted list."
@@ -428,9 +432,9 @@ msgstr ""
 "automatique permet de tenir vos collègues et vos clients informés. Voici "
 "comment procéder :"
 
-#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:223
-#: ../../get_started/toc.rst:248 ../../get_started/toc.rst:267
-#: ../../get_started/toc.rst:282
+#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:230
+#: ../../get_started/toc.rst:255 ../../get_started/toc.rst:274
+#: ../../get_started/toc.rst:289
 msgid "Select General Settings."
 msgstr "Sélectionnez Paramètres généraux."
 
@@ -447,8 +451,8 @@ msgid ""
 "In the Auto-Reply Message field, type the message you would like to be "
 "sent out while you are away."
 msgstr ""
-"Dans le champ Message de réponse automatique, saisissez le message que vous "
-"souhaitez envoyer pendant votre absence."
+"Dans le champ Message de réponse automatique, saisissez le message que "
+"vous souhaitez envoyer pendant votre absence."
 
 #: ../../advanced_email_management/toc.rst:129
 msgid "Select the recipient from the External Senders field."
@@ -468,10 +472,10 @@ msgid ""
 "of the day, you can customize the interval by selecting All Day and then "
 "specifying the desired time frame by choosing the start and end hours."
 msgstr ""
-"Si vous préférez n'envoyer le courriel hors du bureau qu'à certaines heures "
-"de la journée, vous pouvez personnaliser l'intervalle en sélectionnant Toute "
-"la journée, puis en spécifiant la plage horaire souhaitée en choisissant les "
-"heures de début et de fin."
+"Si vous préférez n'envoyer le courriel hors du bureau qu'à certaines "
+"heures de la journée, vous pouvez personnaliser l'intervalle en "
+"sélectionnant Toute la journée, puis en spécifiant la plage horaire "
+"souhaitée en choisissant les heures de début et de fin."
 
 #: ../../advanced_email_management/toc.rst:140
 msgid "Showing Emails in HTML or Plain Text Format"
@@ -487,14 +491,15 @@ msgid ""
 " message in plain-text mode even if it contains HTML. The HTML tags are "
 "displayed in the body of the message in the plain text view."
 msgstr ""
-"Les messages électroniques peuvent être affichés dans deux formats : HTML ou "
-"texte brut. Les messages HTML peuvent contenir du texte formaté, des "
-"numéros, des puces, des arrière-plans colorés et des liens, ce qui facilite "
-"la lecture des messages. Les messages en texte brut peuvent toujours être "
-"lus par d'autres clients de messagerie. Le texte brut ne prend pas en charge "
-"la mise en forme du texte, les styles, les liens ou les images. Vous pouvez "
-"afficher un message en mode texte brut même s'il contient du HTML. Les "
-"balises HTML sont affichées dans le corps du message en mode texte brut."
+"Les messages électroniques peuvent être affichés dans deux formats : HTML"
+" ou texte brut. Les messages HTML peuvent contenir du texte formaté, des "
+"numéros, des puces, des arrière-plans colorés et des liens, ce qui "
+"facilite la lecture des messages. Les messages en texte brut peuvent "
+"toujours être lus par d'autres clients de messagerie. Le texte brut ne "
+"prend pas en charge la mise en forme du texte, les styles, les liens ou "
+"les images. Vous pouvez afficher un message en mode texte brut même s'il "
+"contient du HTML. Les balises HTML sont affichées dans le corps du "
+"message en mode texte brut."
 
 #: ../../advanced_email_management/toc.rst:147
 msgid "Under Displaying Messages, click on the Display mail field."
@@ -516,11 +521,12 @@ msgid ""
 " read receipt feature enabled or manually accept it as soon as they open "
 "the email."
 msgstr ""
-"Lorsque vous envoyez des messages à d'autres utilisateurs de |product|, vous "
-"pouvez choisir de demander un accusé de lecture, qui vous informe lorsque le "
-"destinataire ouvre votre courrier électronique. Cependant, pour que cette "
-"fonction fonctionne, le destinataire doit avoir activé la fonction d'accusé "
-"de lecture ou l'accepter manuellement dès qu'il ouvre l'email."
+"Lorsque vous envoyez des messages à d'autres utilisateurs de |product|, "
+"vous pouvez choisir de demander un accusé de lecture, qui vous informe "
+"lorsque le destinataire ouvre votre courrier électronique. Cependant, "
+"pour que cette fonction fonctionne, le destinataire doit avoir activé la "
+"fonction d'accusé de lecture ou l'accepter manuellement dès qu'il ouvre "
+"l'email."
 
 #: ../../advanced_email_management/toc.rst:156
 msgid "To enable the read receipt feature:"
@@ -529,7 +535,8 @@ msgstr "Pour activer la fonction d'accusé de lecture :"
 #: ../../advanced_email_management/toc.rst:160
 msgid "Under **Receiving Messages**, click on the **Read Receipt** field."
 msgstr ""
-"Sous **Réception des messages**, cliquez sur le champ **Accusé de lecture**."
+"Sous **Réception des messages**, cliquez sur le champ **Accusé de "
+"lecture**."
 
 #: ../../advanced_email_management/toc.rst:161
 msgid "Select **Always send a read receipt**."
@@ -543,10 +550,10 @@ msgid ""
 "giving you the choice to send it or not."
 msgstr ""
 "Vous pouvez également choisir l'option **Ne jamais envoyer un accusé de "
-"réception** pour vous assurer qu'il n'est jamais envoyé automatiquement ou "
-"sélectionner **Me demander** pour que vous soyez invité à chaque fois que "
-"vous ouvrez un courriel avec une demande d'accusé de lecture, vous donnant "
-"le choix de l'envoyer ou non."
+"réception** pour vous assurer qu'il n'est jamais envoyé automatiquement "
+"ou sélectionner **Me demander** pour que vous soyez invité à chaque fois "
+"que vous ouvrez un courriel avec une demande d'accusé de lecture, vous "
+"donnant le choix de l'envoyer ou non."
 
 #: ../../advanced_email_management/toc.rst:171
 msgid "Setting Up Email Filters"
@@ -559,9 +566,9 @@ msgid ""
 "outgoing emails into specific folders."
 msgstr ""
 "Vous pouvez gérer efficacement votre boîte de réception en utilisant des "
-"filtres de messagerie. Ces filtres vous permettent de mettre en place des "
-"actions, telles que l'organisation des courriels entrants et sortants dans "
-"des dossiers spécifiques."
+"filtres de messagerie. Ces filtres vous permettent de mettre en place des"
+" actions, telles que l'organisation des courriels entrants et sortants "
+"dans des dossiers spécifiques."
 
 #: ../../advanced_email_management/toc.rst:175
 msgid ""
@@ -576,8 +583,8 @@ msgid ""
 "When an email satisfies the specified conditions, the designated actions "
 "are triggered."
 msgstr ""
-"Lorsqu'un courriel remplit les conditions spécifiées, les actions désignées "
-"sont déclenchées."
+"Lorsqu'un courriel remplit les conditions spécifiées, les actions "
+"désignées sont déclenchées."
 
 #: ../../advanced_email_management/toc.rst:179
 msgid ""
@@ -603,18 +610,20 @@ msgid ""
 "instance, emails from your supervisor can be automatically routed to your"
 " \"Management Directives\" folder upon arrival."
 msgstr ""
-"Déplacer automatiquement les courriels entrants dans les dossiers désignés. "
-"Par exemple, les courriels de votre supérieur peuvent être automatiquement "
-"acheminés vers votre dossier « Directives de la direction » dès leur arrivée."
+"Déplacer automatiquement les courriels entrants dans les dossiers "
+"désignés. Par exemple, les courriels de votre supérieur peuvent être "
+"automatiquement acheminés vers votre dossier « Directives de la direction"
+" » dès leur arrivée."
 
 #: ../../advanced_email_management/toc.rst:185
 msgid ""
 "Tag specific emails for easy identification. For example, emails from the"
 " corporate events mailing list can be labeled with an \"Events\" tag."
 msgstr ""
-"Étiqueter des courriels spécifiques pour en faciliter l'identification. Par "
-"exemple, les courriels provenant de la liste de diffusion des événements "
-"d'entreprise peuvent être étiquetés avec une étiquette « Événements »."
+"Étiqueter des courriels spécifiques pour en faciliter l'identification. "
+"Par exemple, les courriels provenant de la liste de diffusion des "
+"événements d'entreprise peuvent être étiquetés avec une étiquette « "
+"Événements »."
 
 #: ../../advanced_email_management/toc.rst:186
 msgid ""
@@ -622,9 +631,9 @@ msgid ""
 " emails from a specific sender can be forwarded or moved to the Trash "
 "folder."
 msgstr ""
-"Rediriger ou supprimer des courriels en fonction de critères prédéfinis. Par "
-"exemple, tous les courriels provenant d'un expéditeur spécifique peuvent "
-"être transférés ou déplacés dans le dossier Corbeille."
+"Rediriger ou supprimer des courriels en fonction de critères prédéfinis. "
+"Par exemple, tous les courriels provenant d'un expéditeur spécifique "
+"peuvent être transférés ou déplacés dans le dossier Corbeille."
 
 #: ../../advanced_email_management/toc.rst:187
 msgid "Assign importance flags to specific emails."
@@ -636,9 +645,9 @@ msgid ""
 "listed in your settings. You retain the flexibility to modify the order "
 "of filters as needed."
 msgstr ""
-"Les filtres sont appliqués de manière séquentielle, en suivant l'ordre dans "
-"lequel ils sont répertoriés dans vos paramètres. Vous pouvez modifier "
-"l'ordre des filtres si nécessaire."
+"Les filtres sont appliqués de manière séquentielle, en suivant l'ordre "
+"dans lequel ils sont répertoriés dans vos paramètres. Vous pouvez "
+"modifier l'ordre des filtres si nécessaire."
 
 #: ../../advanced_email_management/toc.rst:192
 msgid "Creating a Filter"
@@ -660,10 +669,10 @@ msgid ""
 "**Outgoing Message Filters** depending on whether you intend to create a "
 "filter for emails you receive or emails you send, respectively."
 msgstr ""
-"Sous **Filtres**, choisissez **Filtres de messages entrants** ou **Filtres "
-"de messages sortants** selon que vous avez l'intention de créer un filtre "
-"pour les courriels que vous recevez ou pour les courriels que vous envoyez, "
-"respectivement."
+"Sous **Filtres**, choisissez **Filtres de messages entrants** ou "
+"**Filtres de messages sortants** selon que vous avez l'intention de créer"
+" un filtre pour les courriels que vous recevez ou pour les courriels que "
+"vous envoyez, respectivement."
 
 #: ../../advanced_email_management/toc.rst:205
 #: ../../advanced_email_management/toc.rst:264
@@ -694,11 +703,11 @@ msgid ""
 "(please refer to the section below titled **How to create conditions** "
 "for guidance on setting up the necessary criteria)."
 msgstr ""
-"Dans la section **Conditions**, sélectionnez les options appropriées à la "
-"logique de votre filtre. Appuyez sur le bouton + si vous avez besoin "
-"d'ajouter d'autres conditions (veuillez vous référer à la section ci-dessous "
-"intitulée **Comment créer des conditions** pour obtenir des conseils sur la "
-"mise en place des critères nécessaires)."
+"Dans la section **Conditions**, sélectionnez les options appropriées à la"
+" logique de votre filtre. Appuyez sur le bouton + si vous avez besoin "
+"d'ajouter d'autres conditions (veuillez vous référer à la section ci-"
+"dessous intitulée **Comment créer des conditions** pour obtenir des "
+"conseils sur la mise en place des critères nécessaires)."
 
 #: ../../advanced_email_management/toc.rst:209
 msgid ""
@@ -707,11 +716,12 @@ msgid ""
 "add more actions (please refer to the section below titled **How to "
 "create actions** for guidance on setting up the necessary criteria)."
 msgstr ""
-"Dans la section **Actions**, choisissez l'action appropriée à entreprendre "
-"si les conditions du filtre sont remplies. Appuyez sur le bouton **+** si "
-"vous avez besoin d'ajouter d'autres actions (veuillez vous référer à la "
-"section ci-dessous intitulée **Comment créer des actions** pour obtenir des "
-"conseils sur la définition des critères nécessaires)."
+"Dans la section **Actions**, choisissez l'action appropriée à "
+"entreprendre si les conditions du filtre sont remplies. Appuyez sur le "
+"bouton **+** si vous avez besoin d'ajouter d'autres actions (veuillez "
+"vous référer à la section ci-dessous intitulée **Comment créer des "
+"actions** pour obtenir des conseils sur la définition des critères "
+"nécessaires)."
 
 #: ../../advanced_email_management/toc.rst:210
 #: ../../advanced_email_management/toc.rst:274
@@ -723,10 +733,10 @@ msgid ""
 "evaluate any other filters."
 msgstr ""
 "Cochez ou décochez la case **Ne pas traiter d'autres filtres** pour "
-"déterminer si cette règle de filtrage, lorsque ses conditions sont remplies, "
-"empêchera l'exécution d'autres règles. L'activation de cette option signifie "
-"qu'une fois que les conditions de ce filtre sont remplies, le système "
-"n'évaluera pas d'autres filtres."
+"déterminer si cette règle de filtrage, lorsque ses conditions sont "
+"remplies, empêchera l'exécution d'autres règles. L'activation de cette "
+"option signifie qu'une fois que les conditions de ce filtre sont "
+"remplies, le système n'évaluera pas d'autres filtres."
 
 #: ../../advanced_email_management/toc.rst:211 ../../chats(wsc)/toc.rst:25
 #: ../../chats/toc.rst:27 ../../chats/toc.rst:139 ../../files/toc.rst:35
@@ -739,8 +749,9 @@ msgid ""
 "You can locate your filter under **Active Filters**, indicating that it "
 "is already operational and will be applied to incoming emails."
 msgstr ""
-"Vous pouvez localiser votre filtre sous **Filtres actifs**, ce qui indique "
-"qu'il est déjà opérationnel et qu'il sera appliqué aux courriels entrants."
+"Vous pouvez localiser votre filtre sous **Filtres actifs**, ce qui "
+"indique qu'il est déjà opérationnel et qu'il sera appliqué aux courriels "
+"entrants."
 
 #: ../../advanced_email_management/toc.rst:215
 msgid ""
@@ -762,18 +773,18 @@ msgid ""
 " fields determine the conditions that must be met for your email filter "
 "to execute the specified action."
 msgstr ""
-"Dans la section **Conditions**, vous pouvez configurer différents champs. "
-"Ces champs déterminent les conditions qui doivent être remplies pour que "
-"votre filtre exécute l'action spécifiée."
+"Dans la section **Conditions**, vous pouvez configurer différents champs."
+" Ces champs déterminent les conditions qui doivent être remplies pour que"
+" votre filtre exécute l'action spécifiée."
 
 #: ../../advanced_email_management/toc.rst:221
 msgid ""
 "**If field**: In this field, you can specify whether **Any** or **All** "
 "conditions need to be matched for the filter rule to be executed."
 msgstr ""
-"**Champ Si** : Dans ce champ, vous pouvez spécifier si les conditions **Au "
-"Moins Une Condition** ou **Toutes Les Conditions** doivent être remplies "
-"pour que la règle de filtrage soit exécutée."
+"**Champ Si** : Dans ce champ, vous pouvez spécifier si les conditions "
+"**Au Moins Une Condition** ou **Toutes Les Conditions** doivent être "
+"remplies pour que la règle de filtrage soit exécutée."
 
 #: ../../advanced_email_management/toc.rst:223
 msgid "**First field**: This field contains multiple values. i.e."
@@ -790,29 +801,30 @@ msgstr "**À** : Spécifie l'adresse électronique du destinataire."
 #: ../../advanced_email_management/toc.rst:227
 msgid "**Cc**: Specifies the email addresses listed in the \"Cc\" field."
 msgstr ""
-"**Cc** : Spécifie les adresses électroniques figurant dans le champ « Cc »."
+"**Cc** : Spécifie les adresses électroniques figurant dans le champ « Cc "
+"»."
 
 #: ../../advanced_email_management/toc.rst:228
 msgid ""
 "**To** or **Cc**: Specifies email addresses in either the \"To\" or "
 "\"Cc\" fields."
 msgstr ""
-"**À** ou **Cc** : Spécifie les adresses électroniques dans les champs « À » "
-"ou « Cc »."
+"**À** ou **Cc** : Spécifie les adresses électroniques dans les champs « À"
+" » ou « Cc »."
 
 #: ../../advanced_email_management/toc.rst:229
 msgid "**Subject**: Specifies keywords or phrases found in the email subject."
 msgstr ""
-"**Objet** : Spécifie les mots-clés ou les phrases trouvés dans l'objet de "
-"l'email."
+"**Objet** : Spécifie les mots-clés ou les phrases trouvés dans l'objet de"
+" l'email."
 
 #: ../../advanced_email_management/toc.rst:230
 msgid ""
 "**Message**: Specifies email properties, such as those involved in "
 "conversations I've participated in."
 msgstr ""
-"**Message** : Spécifie les propriétés du courrier électronique, telles que "
-"celles des conversations auxquelles j'ai participé."
+"**Message** : Spécifie les propriétés du courrier électronique, telles "
+"que celles des conversations auxquelles j'ai participé."
 
 #: ../../advanced_email_management/toc.rst:231
 msgid "**Size**: Specifies the size of the email in kilobytes."
@@ -853,8 +865,8 @@ msgid ""
 " email, such as whether the invitation has been replied to."
 msgstr ""
 "**Calendrier** : Spécifie les événements ou les informations liées au "
-"calendrier dans l'email, par exemple si l'invitation a fait l'objet d'une "
-"réponse."
+"calendrier dans l'email, par exemple si l'invitation a fait l'objet d'une"
+" réponse."
 
 #: ../../advanced_email_management/toc.rst:238
 msgid "**Social**: Specifies social media-related content within the email."
@@ -884,24 +896,25 @@ msgid ""
 "selectable values in this field. Similarly, for all other values of the "
 "first field, you will get a different set of values for this field."
 msgstr ""
-"**Deuxième champ** : En fonction de la valeur du premier champ, vous pourrez "
-"choisir des valeurs pour ce champ. Voici un exemple. Si vous choisissez De "
-"comme valeur dans le premier champ, vous pourrez choisir les valeurs "
-"suivantes dans ce champ. (c.-à-d. correspond exactement, ne correspond pas "
-"exactement, contient, ne contient pas, correspond à la condition du joker, "
-"ne correspond pas à la condition du joker). Mais si vous choisissez Taille "
-"comme valeur dans le premier champ, vous obtiendrez Inférieur, Non "
-"inférieur, Supérieur et Non supérieur comme valeurs sélectionnables dans ce "
-"champ. De même, pour toutes les autres valeurs du premier champ, vous "
-"obtiendrez un ensemble différent de valeurs pour ce champ."
+"**Deuxième champ** : En fonction de la valeur du premier champ, vous "
+"pourrez choisir des valeurs pour ce champ. Voici un exemple. Si vous "
+"choisissez De comme valeur dans le premier champ, vous pourrez choisir "
+"les valeurs suivantes dans ce champ. (c.-à-d. correspond exactement, ne "
+"correspond pas exactement, contient, ne contient pas, correspond à la "
+"condition du joker, ne correspond pas à la condition du joker). Mais si "
+"vous choisissez Taille comme valeur dans le premier champ, vous "
+"obtiendrez Inférieur, Non inférieur, Supérieur et Non supérieur comme "
+"valeurs sélectionnables dans ce champ. De même, pour toutes les autres "
+"valeurs du premier champ, vous obtiendrez un ensemble différent de "
+"valeurs pour ce champ."
 
 #: ../../advanced_email_management/toc.rst:245
 msgid ""
 "Depending on the First field and second field, you may get additional "
 "fields with different values."
 msgstr ""
-"En fonction du premier et du deuxième champ, vous pouvez obtenir des champs "
-"supplémentaires avec des valeurs différentes."
+"En fonction du premier et du deuxième champ, vous pouvez obtenir des "
+"champs supplémentaires avec des valeurs différentes."
 
 #: ../../advanced_email_management/toc.rst:247
 msgid "How to create actions:"
@@ -913,9 +926,10 @@ msgid ""
 "determine the actions to be taken if the specified conditions are met. "
 "Actions have a few paths to set such as:"
 msgstr ""
-"Dans la section Action, vous pouvez configurer différents champs. Ces champs "
-"déterminent les actions à entreprendre si les conditions spécifiées sont "
-"remplies. Les actions ont quelques chemins à définir, tels que :"
+"Dans la section Action, vous pouvez configurer différents champs. Ces "
+"champs déterminent les actions à entreprendre si les conditions "
+"spécifiées sont remplies. Les actions ont quelques chemins à définir, "
+"tels que :"
 
 #: ../../advanced_email_management/toc.rst:251
 msgid "**Discard**: Moves the email into the Junk folder."
@@ -923,8 +937,7 @@ msgstr "**Rejeter** : Déplace l'email dans le dossier Spam."
 
 #: ../../advanced_email_management/toc.rst:252
 msgid "**Move Into Folder**: Transfers the email to a specified folder."
-msgstr ""
-"**Déplacer dans le dossier** : Transfère l'email dans un dossier spécifié."
+msgstr "**Déplacer dans le dossier** : Transfère l'email dans un dossier spécifié."
 
 #: ../../advanced_email_management/toc.rst:253
 msgid "**Mark As**: Marks the email as read or flagged."
@@ -952,8 +965,8 @@ msgid ""
 " the keywords 'Drug' and 'Violence' into the Trash folder."
 msgstr ""
 "Mettons en place un filtre pour déplacer automatiquement les courriels "
-"entrants contenant les mots-clés « Drogue » et « Violence » dans le dossier "
-"Corbeille."
+"entrants contenant les mots-clés « Drogue » et « Violence » dans le "
+"dossier Corbeille."
 
 #: ../../advanced_email_management/toc.rst:263
 msgid "Under Filters, choose **Incoming Message Filters**."
@@ -973,10 +986,10 @@ msgid ""
 "condition, meaning if either 'Drug' or 'Violence' is found in the email, "
 "it will be moved to the junk folder."
 msgstr ""
-"Dans la section **Conditions**, sélectionnez **Toutes**. Nous l'avons réglé "
-"pour qu'il corresponde à n'importe quelle condition, ce qui signifie que si "
-"l'email contient les mots « drogue » ou « violence », il sera déplacé dans "
-"le dossier « courrier indésirable »."
+"Dans la section **Conditions**, sélectionnez **Toutes**. Nous l'avons "
+"réglé pour qu'il corresponde à n'importe quelle condition, ce qui "
+"signifie que si l'email contient les mots « drogue » ou « violence », il "
+"sera déplacé dans le dossier « courrier indésirable »."
 
 #: ../../advanced_email_management/toc.rst:268
 msgid ""
@@ -987,8 +1000,8 @@ msgid ""
 msgstr ""
 "Dans le premier champ, sélectionnez **Corps**, dans le deuxième champ, "
 "sélectionnez **Contient**, et enfin dans le troisième champ, écrivez "
-"*Violence* pour spécifier que tout email contenant le mot « Violence » dans "
-"son corps doit déclencher le filtre."
+"*Violence* pour spécifier que tout email contenant le mot « Violence » "
+"dans son corps doit déclencher le filtre."
 
 #: ../../advanced_email_management/toc.rst:269
 msgid "Click on the **+** button to add another condition."
@@ -1002,9 +1015,9 @@ msgid ""
 "filter."
 msgstr ""
 "Dans le premier champ, sélectionnez **Corps**, dans le deuxième champ, "
-"sélectionnez **Contient**, et enfin dans le troisième champ, écrivez *Drogue*"
-" pour spécifier que tout courriel contenant le mot « Drogue » dans son corps "
-"doit déclencher le filtre."
+"sélectionnez **Contient**, et enfin dans le troisième champ, écrivez "
+"*Drogue* pour spécifier que tout courriel contenant le mot « Drogue » "
+"dans son corps doit déclencher le filtre."
 
 #: ../../advanced_email_management/toc.rst:271
 msgid "Under the **Actions** section, choose **Move Into Folder**."
@@ -1032,10 +1045,10 @@ msgid ""
 " checkbox. If selected, your filter will be placed in the Active Filters "
 "section; otherwise, it will be listed under **Available Filters**."
 msgstr ""
-"Lorsque vous créez un filtre, vous avez la possibilité de cocher la case **"
-"Filtre actif**. Si cette case est cochée, votre filtre sera placé dans la "
-"section Filtres actifs ; sinon, il sera répertorié dans la section **Filtres "
-"disponibles**."
+"Lorsque vous créez un filtre, vous avez la possibilité de cocher la case "
+"**Filtre actif**. Si cette case est cochée, votre filtre sera placé dans "
+"la section Filtres actifs ; sinon, il sera répertorié dans la section "
+"**Filtres disponibles**."
 
 #: ../../advanced_email_management/toc.rst:286
 msgid ""
@@ -1044,11 +1057,11 @@ msgid ""
 "are inactive but can be retained for future use. You have the flexibility"
 " to move them into the Active Filters section whenever needed."
 msgstr ""
-"Les filtres actifs sont opérationnels et seront appliqués automatiquement "
-"aux courriels. À l'inverse, les filtres conservés dans la section Filtres "
-"disponibles sont inactifs mais peuvent être conservés pour une utilisation "
-"ultérieure. Vous avez la possibilité de les déplacer dans la section Filtres "
-"actifs à tout moment."
+"Les filtres actifs sont opérationnels et seront appliqués automatiquement"
+" aux courriels. À l'inverse, les filtres conservés dans la section "
+"Filtres disponibles sont inactifs mais peuvent être conservés pour une "
+"utilisation ultérieure. Vous avez la possibilité de les déplacer dans la "
+"section Filtres actifs à tout moment."
 
 #: ../../advanced_email_management/toc.rst:288
 msgid ""
@@ -1057,11 +1070,11 @@ msgid ""
 "button. This action will transfer the filter to the Available Filters "
 "section, where it will remain inactive until reactivated."
 msgstr ""
-"Pour déplacer un filtre de la section Filtres actifs vers la section Filtres "
-"disponibles, il suffit de sélectionner le filtre que vous souhaitez "
-"désactiver et de cliquer sur le bouton **SUPPRIMER**. Cette action "
-"transférera le filtre dans la section Filtres disponibles, où il restera "
-"inactif jusqu'à ce qu'il soit réactivé."
+"Pour déplacer un filtre de la section Filtres actifs vers la section "
+"Filtres disponibles, il suffit de sélectionner le filtre que vous "
+"souhaitez désactiver et de cliquer sur le bouton **SUPPRIMER**. Cette "
+"action transférera le filtre dans la section Filtres disponibles, où il "
+"restera inactif jusqu'à ce qu'il soit réactivé."
 
 #: ../../advanced_email_management/toc.rst:289
 msgid ""
@@ -1070,11 +1083,11 @@ msgid ""
 "This action will transfer the filter to the Available Filters section, "
 "where it will remain active until deactivated."
 msgstr ""
-"Pour déplacer un filtre de la section Filtres disponibles vers la section "
-"Filtres actifs, il suffit de sélectionner le filtre que vous souhaitez "
-"activer et de cliquer sur le bouton **AJOUTER**. Cette action transférera le "
-"filtre dans la section Filtres disponibles, où il restera actif jusqu'à ce "
-"qu'il soit désactivé."
+"Pour déplacer un filtre de la section Filtres disponibles vers la section"
+" Filtres actifs, il suffit de sélectionner le filtre que vous souhaitez "
+"activer et de cliquer sur le bouton **AJOUTER**. Cette action transférera"
+" le filtre dans la section Filtres disponibles, où il restera actif "
+"jusqu'à ce qu'il soit désactivé."
 
 #: ../../advanced_email_management/toc.rst:292
 msgid "Applying a Filter to Existing Emails"
@@ -1087,25 +1100,24 @@ msgid ""
 "instance, you can create a filter to move all emails containing the word "
 "'Violence' into the junk folder to tidy up your inbox."
 msgstr ""
-"Les filtres actifs sont automatiquement appliqués aux nouveaux courriels, "
-"tandis que pour la gestion des courriels existants, vous devrez peut-être "
-"appliquer un filtre manuellement. Par exemple, vous pouvez créer un filtre "
-"pour déplacer tous les courriels contenant le mot « Violence » dans le "
-"dossier des indésirables afin de mettre de l'ordre dans votre boîte de "
-"réception."
+"Les filtres actifs sont automatiquement appliqués aux nouveaux courriels,"
+" tandis que pour la gestion des courriels existants, vous devrez peut-"
+"être appliquer un filtre manuellement. Par exemple, vous pouvez créer un "
+"filtre pour déplacer tous les courriels contenant le mot « Violence » "
+"dans le dossier des indésirables afin de mettre de l'ordre dans votre "
+"boîte de réception."
 
 #: ../../advanced_email_management/toc.rst:296
 msgid ""
 "This manual application allows you to organize existing emails according "
 "to your preferences."
 msgstr ""
-"Cette application manuelle vous permet d'organiser les courriels existants "
-"selon vos préférences."
+"Cette application manuelle vous permet d'organiser les courriels "
+"existants selon vos préférences."
 
 #: ../../advanced_email_management/toc.rst:298
 msgid "To apply a filter to existing emails, follow these steps:"
-msgstr ""
-"Pour appliquer un filtre à des courriels existants, procédez comme suit :"
+msgstr "Pour appliquer un filtre à des courriels existants, procédez comme suit :"
 
 #: ../../advanced_email_management/toc.rst:302
 #: ../../advanced_email_management/toc.rst:340
@@ -1113,8 +1125,8 @@ msgid ""
 "Under Filters, choose **Incoming Message Filters** or **Outgoing Message "
 "Filters**, depending on where your filter is located."
 msgstr ""
-"Sous Filtres, choisissez **Filtres de messages entrants** ou **Filtres de "
-"messages sortants**, en fonction de l'emplacement de votre filtre."
+"Sous Filtres, choisissez **Filtres de messages entrants** ou **Filtres de"
+" messages sortants**, en fonction de l'emplacement de votre filtre."
 
 #: ../../advanced_email_management/toc.rst:303
 msgid "Select the filter you want to apply from the list."
@@ -1152,8 +1164,8 @@ msgid ""
 "Under Filters, choose Incoming **Message Filters** or **Outgoing Message "
 "Filters**, depending on where your filter is located."
 msgstr ""
-"Sous Filtres, choisissez **Filtres de messages entrants** ou **sortants**, "
-"en fonction de l'emplacement de votre filtre."
+"Sous Filtres, choisissez **Filtres de messages entrants** ou "
+"**sortants**, en fonction de l'emplacement de votre filtre."
 
 #: ../../advanced_email_management/toc.rst:317
 msgid "Select the filter you want to edit from the list."
@@ -1168,13 +1180,12 @@ msgid ""
 "Perform your edits, ensuring the filter is set up according to your "
 "preferences."
 msgstr ""
-"Effectuez vos modifications, en veillant à ce que le filtre soit configuré "
-"selon vos préférences."
+"Effectuez vos modifications, en veillant à ce que le filtre soit "
+"configuré selon vos préférences."
 
 #: ../../advanced_email_management/toc.rst:320
 msgid "Click **SAVE** to confirm and apply the changes."
-msgstr ""
-"Cliquez sur **SAUVEGARDER** pour confirmer et appliquer les modifications."
+msgstr "Cliquez sur **SAUVEGARDER** pour confirmer et appliquer les modifications."
 
 #: ../../advanced_email_management/toc.rst:323
 msgid "Deleting a Filter"
@@ -1194,7 +1205,8 @@ msgid ""
 "confirm and remove the selected filter."
 msgstr ""
 "Cliquez sur **SUPPRIMER**. Une nouvelle fenêtre s'affiche ; cliquez à "
-"nouveau sur **SUPPRIMER** pour confirmer et supprimer le filtre sélectionné."
+"nouveau sur **SUPPRIMER** pour confirmer et supprimer le filtre "
+"sélectionné."
 
 #: ../../advanced_email_management/toc.rst:334
 msgid "Change Filter Order"
@@ -1206,9 +1218,9 @@ msgid ""
 "to adjust the order of filters at any point to influence their priority "
 "in processing emails. To change the order:"
 msgstr ""
-"L'ordre des filtres détermine leur application. Vous avez la possibilité de "
-"modifier l'ordre des filtres à tout moment afin d'influencer leur priorité "
-"dans le traitement des courriels. Pour modifier l'ordre :"
+"L'ordre des filtres détermine leur application. Vous avez la possibilité "
+"de modifier l'ordre des filtres à tout moment afin d'influencer leur "
+"priorité dans le traitement des courriels. Pour modifier l'ordre :"
 
 #: ../../advanced_email_management/toc.rst:341
 msgid "Select a filter whose order you want to modify."
@@ -1219,8 +1231,8 @@ msgid ""
 "Click the downward or upward arrow to adjust the position of the selected"
 " filter, thereby changing its order in the list."
 msgstr ""
-"Cliquez sur la flèche vers le bas ou vers le haut pour ajuster la position "
-"du filtre sélectionné, modifiant ainsi son ordre dans la liste."
+"Cliquez sur la flèche vers le bas ou vers le haut pour ajuster la "
+"position du filtre sélectionné, modifiant ainsi son ordre dans la liste."
 
 #: ../../advanced_email_management/toc.rst:345
 msgid "Account Signatures"
@@ -1241,15 +1253,16 @@ msgid ""
 msgstr ""
 "Incorporer une signature automatique à la fin de vos courriels est une "
 "pratique courante. Une signature comprend généralement votre nom et tout "
-"texte supplémentaire. Si vous utilisez un **éditeur de texte riche**, vous "
-"avez la possibilité de formater votre signature, d'insérer des URL pour les "
-"liens et d'inclure des graphiques. Il est également possible de créer "
-"plusieurs signatures pour répondre à différents contextes. Par exemple, vous "
-"pouvez opter pour une signature formelle adaptée à la correspondance avec "
-"les clients, tout en réservant une signature informelle à la communication "
-"avec les amis. En outre, si vous gérez plusieurs identités de courrier "
-"électronique, souvent appelées « personas », vous pouvez concevoir des "
-"signatures distinctes et les attribuer à des adresses spécifiques."
+"texte supplémentaire. Si vous utilisez un **éditeur de texte riche**, "
+"vous avez la possibilité de formater votre signature, d'insérer des URL "
+"pour les liens et d'inclure des graphiques. Il est également possible de "
+"créer plusieurs signatures pour répondre à différents contextes. Par "
+"exemple, vous pouvez opter pour une signature formelle adaptée à la "
+"correspondance avec les clients, tout en réservant une signature "
+"informelle à la communication avec les amis. En outre, si vous gérez "
+"plusieurs identités de courrier électronique, souvent appelées « personas"
+" », vous pouvez concevoir des signatures distinctes et les attribuer à "
+"des adresses spécifiques."
 
 #: ../../advanced_email_management/toc.rst:351
 msgid "Using Signatures"
@@ -1260,15 +1273,14 @@ msgid ""
 "To ensure that signatures appear in your email, you must switch to the "
 "**rich text editor** while composing."
 msgstr ""
-"Pour que les signatures apparaissent dans votre courrier électronique, vous "
-"devez passer à l'**éditeur de texte riche** pendant leur rédaction."
+"Pour que les signatures apparaissent dans votre courrier électronique, "
+"vous devez passer à l'**éditeur de texte riche** pendant leur rédaction."
 
 #: ../../advanced_email_management/toc.rst:355
 msgid "Follow these steps to toggle the rich text editor on:"
 msgstr "Procédez comme suit pour activer l'éditeur de texte enrichi :"
 
 #: ../../advanced_email_management/toc.rst:357
-#: ../../advanced_email_management/toc.rst:369
 msgid ""
 "Click on the **three vertical dots** located in the top-right corner of "
 "the compose board."
@@ -1279,7 +1291,8 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:358
 msgid "Select **Enable rich text editor** from the menu that appears."
 msgstr ""
-"Sélectionnez **Activer l'éditeur de texte riche** dans le menu qui s'affiche."
+"Sélectionnez **Activer l'éditeur de texte riche** dans le menu qui "
+"s'affiche."
 
 #: ../../advanced_email_management/toc.rst:360
 msgid ""
@@ -1289,190 +1302,148 @@ msgid ""
 "composing board, automatically applying the respective signatures "
 "assigned to each identity/persona."
 msgstr ""
-"Lorsqu'une signature est définie, elle est visible à la fin de l'email que "
-"vous êtes en train de rédiger. En outre, vous pouvez passer sans effort "
-"d'une identité ou d'une personnalité à l'autre en les sélectionnant dans le "
-"coin supérieur gauche du tableau de composition, ce qui permet d'appliquer "
-"automatiquement les signatures respectives attribuées à chaque "
-"identité/personne."
+"Lorsqu'une signature est définie, elle est visible à la fin de l'email "
+"que vous êtes en train de rédiger. En outre, vous pouvez passer sans "
+"effort d'une identité ou d'une personnalité à l'autre en les "
+"sélectionnant dans le coin supérieur gauche du tableau de composition, ce"
+" qui permet d'appliquer automatiquement les signatures respectives "
+"attribuées à chaque identité/personne."
 
-#: ../../advanced_email_management/toc.rst:363
-msgid "Sending S/MIME signed emails"
-msgstr "Envoi de courriels signés S/MIME"
-
-#: ../../advanced_email_management/toc.rst:365
-msgid ""
-"S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for "
-"email encryption and signing, providing authentication, integrity, and "
-"non-repudiation for emails. Here’s how you can send S/MIME-signed emails:"
-msgstr ""
-"S/MIME (Secure/Multipurpose Internet Mail Extensions) est une norme de "
-"cryptage et de signature des courriers électroniques, qui assure "
-"l'authentification, l'intégrité et la non-répudiation des courriers "
-"électroniques. Voici comment envoyer des courriels signés S/MIME :"
-
-#: ../../advanced_email_management/toc.rst:370
-msgid "Select **Use Certificate to sign (S/MIME)** from the menu that appears."
-msgstr ""
-"Sélectionnez **Utiliser un certificat pour signer (S/MIME)** dans le menu "
-"qui s'affiche."
-
-#: ../../advanced_email_management/toc.rst:371
-msgid ""
-"Attach the certificate in the proper space (or just browse you documents "
-"to insert it)."
-msgstr ""
-"Joignez le certificat dans l'espace prévu à cet effet (ou parcourez "
-"simplement vos documents pour l'insérer)."
-
-#: ../../advanced_email_management/toc.rst:372
-msgid "Insert the **password** for the uploaded certificate."
-msgstr "Insérez le **mot de passe** pour le certificat téléchargé."
-
-#: ../../advanced_email_management/toc.rst:373
-msgid "Click **Upload** to insert the S/MIME signature."
-msgstr "Cliquez sur **Téléverser** pour insérer la signature S/MIME."
-
-#: ../../advanced_email_management/toc.rst:375
-msgid "You can now send your S/MIME-signed email."
-msgstr "Vous pouvez maintenant envoyer vos courriels signés S/MIME."
-
-#: ../../advanced_email_management/toc.rst:379
+#: ../../advanced_email_management/toc.rst:364
 msgid "Creating Signatures"
 msgstr "Création de signatures"
 
-#: ../../advanced_email_management/toc.rst:381
+#: ../../advanced_email_management/toc.rst:366
 msgid "To create a signature:"
 msgstr "Pour créer une signature :"
 
-#: ../../advanced_email_management/toc.rst:385
+#: ../../advanced_email_management/toc.rst:370
 msgid "Under the **Signatures** section, click **ADD SIGNATURE**."
 msgstr "Dans la section **Signatures**, cliquez sur **AJOUTER UNE SIGNATURE**."
 
-#: ../../advanced_email_management/toc.rst:386
+#: ../../advanced_email_management/toc.rst:371
 msgid "Provide a name for the signature in the designated field."
 msgstr "Indiquez le nom de la signature dans le champ prévu à cet effet."
 
-#: ../../advanced_email_management/toc.rst:387
+#: ../../advanced_email_management/toc.rst:372
 msgid "Utilize the rich text editor on the right side to compose your signature."
 msgstr ""
 "Utilisez l'éditeur de texte riche sur le côté droit pour rédiger votre "
 "signature."
 
-#: ../../advanced_email_management/toc.rst:388
-#: ../../advanced_email_management/toc.rst:409
-#: ../../advanced_email_management/toc.rst:420
-#: ../../advanced_email_management/toc.rst:432
-#: ../../advanced_email_management/toc.rst:471
-#: ../../advanced_email_management/toc.rst:522
+#: ../../advanced_email_management/toc.rst:373
+#: ../../advanced_email_management/toc.rst:394
+#: ../../advanced_email_management/toc.rst:405
+#: ../../advanced_email_management/toc.rst:417
+#: ../../advanced_email_management/toc.rst:456
+#: ../../advanced_email_management/toc.rst:507
 msgid "Click **SAVE** from the top-right corner."
 msgstr "Cliquez sur **ENREGISTRER** dans le coin supérieur droit."
 
-#: ../../advanced_email_management/toc.rst:390
+#: ../../advanced_email_management/toc.rst:375
 msgid ""
 "Anything composed in this section will automatically append to the end of"
 " your email as shown in the following example::"
 msgstr ""
-"Tout ce qui est composé dans cette section sera automatiquement ajouté à la "
-"fin de votre courriel, comme le montre l'exemple suivant :"
+"Tout ce qui est composé dans cette section sera automatiquement ajouté à "
+"la fin de votre courriel, comme le montre l'exemple suivant :"
 
-#: ../../advanced_email_management/toc.rst:401
+#: ../../advanced_email_management/toc.rst:386
 msgid "Editing Signatures"
 msgstr "Modification des signatures"
 
-#: ../../advanced_email_management/toc.rst:403
+#: ../../advanced_email_management/toc.rst:388
 msgid "To edit a signature:"
 msgstr "Pour modifier une signature :"
 
-#: ../../advanced_email_management/toc.rst:407
+#: ../../advanced_email_management/toc.rst:392
 msgid "Under the **Signatures** section, click on the signature you want to edit."
 msgstr ""
-"Dans la section **Signatures**, cliquez sur la signature que vous souhaitez "
-"modifier."
+"Dans la section **Signatures**, cliquez sur la signature que vous "
+"souhaitez modifier."
 
-#: ../../advanced_email_management/toc.rst:408
+#: ../../advanced_email_management/toc.rst:393
 msgid "Utilize the rich text editor on the right side to edit your signature."
 msgstr ""
 "Utilisez l'éditeur de texte riche sur le côté droit pour modifier votre "
 "signature."
 
-#: ../../advanced_email_management/toc.rst:412
+#: ../../advanced_email_management/toc.rst:397
 msgid "Removing Signatures"
 msgstr "Suppression des signatures"
 
-#: ../../advanced_email_management/toc.rst:414
+#: ../../advanced_email_management/toc.rst:399
 msgid "To remove a signature:"
 msgstr "Suppression de signature :"
 
-#: ../../advanced_email_management/toc.rst:418
+#: ../../advanced_email_management/toc.rst:403
 msgid ""
 "Under the **Signatures section**, click on the signature you want to "
 "remove."
 msgstr ""
-"Dans la section **Signatures**, cliquez sur la signature que vous souhaitez "
-"supprimer."
+"Dans la section **Signatures**, cliquez sur la signature que vous "
+"souhaitez supprimer."
 
-#: ../../advanced_email_management/toc.rst:419
+#: ../../advanced_email_management/toc.rst:404
 msgid ""
 "Hover your mouse cursor over the signature name. A red button labeled "
 "**DELETE** will appear. Click on it, and the signature will be removed."
 msgstr ""
 "Placez le curseur de votre souris sur le nom de la signature. Un bouton "
-"rouge intitulé **SUPPRIMER** apparaît. Cliquez dessus et la signature sera "
-"supprimée."
+"rouge intitulé **SUPPRIMER** apparaît. Cliquez dessus et la signature "
+"sera supprimée."
 
-#: ../../advanced_email_management/toc.rst:423
+#: ../../advanced_email_management/toc.rst:408
 msgid "Assign Different Signatures to Different Identities / Personas"
-msgstr ""
-"Attribuer des signatures différentes à des identités/personnes différentes"
+msgstr "Attribuer des signatures différentes à des identités/personnes différentes"
 
-#: ../../advanced_email_management/toc.rst:425
+#: ../../advanced_email_management/toc.rst:410
 msgid ""
 "You can personalize each account persona or identity with a unique "
 "signature. This ensures that when selecting an identity/persona while "
 "composing an email, the appropriate signature is automatically applied."
 msgstr ""
 "Vous pouvez personnaliser chaque compte ou identité avec une signature "
-"unique. Ainsi, lorsque vous sélectionnez une identité/personne lors de la "
-"rédaction d'un courriel, la signature appropriée est automatiquement "
+"unique. Ainsi, lorsque vous sélectionnez une identité/personne lors de la"
+" rédaction d'un courriel, la signature appropriée est automatiquement "
 "appliquée."
 
-#: ../../advanced_email_management/toc.rst:427
+#: ../../advanced_email_management/toc.rst:412
 msgid "To assign each identity/persona a signature:"
 msgstr "Attribuer une signature à chaque identité/personne :"
 
-#: ../../advanced_email_management/toc.rst:431
+#: ../../advanced_email_management/toc.rst:416
 msgid ""
 "In the Signatures Usage section, choose a signature for each "
 "persona/identity from the dropdown menu provided."
 msgstr ""
-"Dans la section Utilisation des signatures, choisissez une signature pour "
-"chaque personne/identité dans le menu déroulant proposé."
+"Dans la section Utilisation des signatures, choisissez une signature pour"
+" chaque personne/identité dans le menu déroulant proposé."
 
-#: ../../advanced_email_management/toc.rst:434
+#: ../../advanced_email_management/toc.rst:419
 msgid ""
 "You can effortlessly switch between identities/personas by selecting them"
 " from the top-left corner of the composing board, automatically applying "
 "the respective signatures assigned to each identity/persona."
 msgstr ""
-"Vous pouvez facilement passer d'une identité ou d'une personne à l'autre en "
-"les sélectionnant dans le coin supérieur gauche du tableau de composition, "
-"en appliquant automatiquement les signatures respectives attribuées à chaque "
-"identité ou personne."
+"Vous pouvez facilement passer d'une identité ou d'une personne à l'autre "
+"en les sélectionnant dans le coin supérieur gauche du tableau de "
+"composition, en appliquant automatiquement les signatures respectives "
+"attribuées à chaque identité ou personne."
 
-#: ../../advanced_email_management/toc.rst:437
+#: ../../advanced_email_management/toc.rst:422
 msgid "Changing Signature While Composing An Email"
 msgstr "Modification de la signature lors de la rédaction d'un email"
 
-#: ../../advanced_email_management/toc.rst:439
+#: ../../advanced_email_management/toc.rst:424
 msgid ""
 "If you have set two or more signatures, you can easily switch between "
 "them, while you are writing an email."
 msgstr ""
-"Si vous avez défini deux signatures ou plus, vous pouvez facilement passer "
-"de l'une à l'autre pendant la rédaction d'un courriel."
+"Si vous avez défini deux signatures ou plus, vous pouvez facilement "
+"passer de l'une à l'autre pendant la rédaction d'un courriel."
 
-#: ../../advanced_email_management/toc.rst:441
+#: ../../advanced_email_management/toc.rst:426
 msgid ""
 "Just click on the **feather pen icon** on top of the composing tab and "
 "choose the one you want to use, between the different options in the "
@@ -1480,17 +1451,18 @@ msgid ""
 " signature* option, if you want to completely remove the signature from "
 "the current email."
 msgstr ""
-"Il vous suffit de cliquer sur l'icône du **stylo plume** en haut de l'onglet "
-"de composition et de choisir celle que vous souhaitez utiliser parmi les "
-"différentes options de la liste, en fonction des signatures existantes. Vous "
-"pouvez également choisir l'option *Ne pas utiliser de signature*, si vous "
-"souhaitez supprimer complètement la signature de l'email en cours."
+"Il vous suffit de cliquer sur l'icône du **stylo plume** en haut de "
+"l'onglet de composition et de choisir celle que vous souhaitez utiliser "
+"parmi les différentes options de la liste, en fonction des signatures "
+"existantes. Vous pouvez également choisir l'option *Ne pas utiliser de "
+"signature*, si vous souhaitez supprimer complètement la signature de "
+"l'email en cours."
 
-#: ../../advanced_email_management/toc.rst:449
+#: ../../advanced_email_management/toc.rst:434
 msgid "Email Delegations"
 msgstr "Délégations d'emails"
 
-#: ../../advanced_email_management/toc.rst:451
+#: ../../advanced_email_management/toc.rst:436
 msgid ""
 "You can permit others to send emails on your behalf. When someone sends "
 "an email on your behalf, the recipient sees both your name and the "
@@ -1499,15 +1471,15 @@ msgid ""
 "when sending emails on your behalf, with your name selected from the From"
 " field drop-down menu as the sender."
 msgstr ""
-"Vous pouvez autoriser d'autres personnes à envoyer des courriels en votre "
-"nom. Lorsque quelqu'un envoie un courriel en votre nom, le destinataire voit "
-"à la fois votre nom et celui de l'expéditeur. Il est important de noter que "
-"cela n'équivaut pas à partager l'intégralité de votre boîte de réception. "
-"L'expéditeur opère à partir de son compte de messagerie lorsqu'il envoie des "
-"courriels en votre nom, avec votre nom sélectionné dans le menu déroulant du "
-"champ De en tant qu'expéditeur."
+"Vous pouvez autoriser d'autres personnes à envoyer des courriels en votre"
+" nom. Lorsque quelqu'un envoie un courriel en votre nom, le destinataire "
+"voit à la fois votre nom et celui de l'expéditeur. Il est important de "
+"noter que cela n'équivaut pas à partager l'intégralité de votre boîte de "
+"réception. L'expéditeur opère à partir de son compte de messagerie "
+"lorsqu'il envoie des courriels en votre nom, avec votre nom sélectionné "
+"dans le menu déroulant du champ De en tant qu'expéditeur."
 
-#: ../../advanced_email_management/toc.rst:453
+#: ../../advanced_email_management/toc.rst:438
 msgid ""
 "Similarly, if you have been delegated permission to send emails on behalf"
 " of someone else, you can do so with their email address as the sender. "
@@ -1516,15 +1488,15 @@ msgid ""
 "to send an email to that person, their email address appears in the menu,"
 " without including your address in the email."
 msgstr ""
-"De même, si vous avez reçu l'autorisation d'envoyer des courriels au nom de "
-"quelqu'un d'autre, vous pouvez le faire en indiquant l'adresse électronique "
-"de cette personne comme expéditeur. Dans ce cas, l'adresse « De » affichera "
-"à la fois votre adresse électronique et celle de la personne que vous "
-"représentez. Lorsque vous avez reçu l'autorisation d'envoyer un courriel à "
-"cette personne, son adresse électronique apparaît dans le menu, sans que "
-"votre adresse soit incluse dans le courriel."
+"De même, si vous avez reçu l'autorisation d'envoyer des courriels au nom "
+"de quelqu'un d'autre, vous pouvez le faire en indiquant l'adresse "
+"électronique de cette personne comme expéditeur. Dans ce cas, l'adresse «"
+" De » affichera à la fois votre adresse électronique et celle de la "
+"personne que vous représentez. Lorsque vous avez reçu l'autorisation "
+"d'envoyer un courriel à cette personne, son adresse électronique apparaît"
+" dans le menu, sans que votre adresse soit incluse dans le courriel."
 
-#: ../../advanced_email_management/toc.rst:455
+#: ../../advanced_email_management/toc.rst:440
 msgid ""
 "Email delegation can be particularly useful in scenarios where you need "
 "someone else to handle your email correspondence on your behalf, such as "
@@ -1535,23 +1507,24 @@ msgid ""
 "to act on behalf of others while maintaining clarity about the sender's "
 "identity."
 msgstr ""
-"La délégation de courrier électronique peut s'avérer particulièrement utile "
-"lorsque vous avez besoin que quelqu'un d'autre s'occupe de votre "
-"correspondance électronique en votre nom, par exemple lorsque vous n'êtes "
-"pas au bureau ou que vous gérez des responsabilités multiples. Elle permet "
-"de gérer efficacement les courriels sans avoir besoin d'accéder directement "
-"à votre boîte de réception, ce qui rationalise les processus de "
-"communication. Cette fonction est particulièrement pratique pour les cadres, "
-"les assistants ou les membres d'une équipe qui doivent agir au nom d'autres "
-"personnes tout en conservant une certaine clarté quant à l'identité de "
-"l'expéditeur."
+"La délégation de courrier électronique peut s'avérer particulièrement "
+"utile lorsque vous avez besoin que quelqu'un d'autre s'occupe de votre "
+"correspondance électronique en votre nom, par exemple lorsque vous n'êtes"
+" pas au bureau ou que vous gérez des responsabilités multiples. Elle "
+"permet de gérer efficacement les courriels sans avoir besoin d'accéder "
+"directement à votre boîte de réception, ce qui rationalise les processus "
+"de communication. Cette fonction est particulièrement pratique pour les "
+"cadres, les assistants ou les membres d'une équipe qui doivent agir au "
+"nom d'autres personnes tout en conservant une certaine clarté quant à "
+"l'identité de l'expéditeur."
 
-#: ../../advanced_email_management/toc.rst:459
+#: ../../advanced_email_management/toc.rst:444
 msgid "Delegating Others to Send Emails on Your Behalf"
 msgstr ""
-"Déléguer à d'autres personnes l'envoi de courriers électroniques en votre nom"
+"Déléguer à d'autres personnes l'envoi de courriers électroniques en votre"
+" nom"
 
-#: ../../advanced_email_management/toc.rst:461
+#: ../../advanced_email_management/toc.rst:446
 msgid ""
 "You can authorize others to send messages on your behalf. When they do "
 "so, your name and email address appear as the sender, even though the "
@@ -1559,50 +1532,50 @@ msgid ""
 msgstr ""
 "Vous pouvez autoriser d'autres personnes à envoyer des messages en votre "
 "nom. Lorsqu'elles le font, votre nom et votre adresse électronique "
-"apparaissent en tant qu'expéditeur, même si le message est envoyé depuis la "
-"boîte de réception du délégué."
+"apparaissent en tant qu'expéditeur, même si le message est envoyé depuis "
+"la boîte de réception du délégué."
 
-#: ../../advanced_email_management/toc.rst:463
+#: ../../advanced_email_management/toc.rst:448
 msgid "To set this up:"
 msgstr "Pour mettre cela en place :"
 
-#: ../../advanced_email_management/toc.rst:466
+#: ../../advanced_email_management/toc.rst:451
+#: ../../advanced_email_management/toc.rst:504
 #: ../../advanced_email_management/toc.rst:519
-#: ../../advanced_email_management/toc.rst:534
 msgid "Select **Accounts**."
 msgstr "Sélectionnez **Comptes**."
 
-#: ../../advanced_email_management/toc.rst:467
+#: ../../advanced_email_management/toc.rst:452
 msgid "In the Delegates section, click **ADD DELEGATE**."
 msgstr "Dans la section Délégués, cliquez sur **AJOUTER UN DELEGUÉ**."
 
-#: ../../advanced_email_management/toc.rst:468
+#: ../../advanced_email_management/toc.rst:453
 msgid ""
 "Enter the email address of the person you are authorizing; this should be"
 " an internal user's address like one of your colleagues."
 msgstr ""
-"Saisissez l'adresse électronique de la personne que vous autorisez ; il doit "
-"s'agir de l'adresse d'un utilisateur interne, par exemple l'un de vos "
-"collègues."
+"Saisissez l'adresse électronique de la personne que vous autorisez ; il "
+"doit s'agir de l'adresse d'un utilisateur interne, par exemple l'un de "
+"vos collègues."
 
-#: ../../advanced_email_management/toc.rst:469
+#: ../../advanced_email_management/toc.rst:454
 msgid "Choose the permissions you wish to grant, and then click **OK**."
 msgstr ""
-"Choisissez les autorisations que vous souhaitez accorder, puis cliquez sur "
-"**OK**."
+"Choisissez les autorisations que vous souhaitez accorder, puis cliquez "
+"sur **OK**."
 
-#: ../../advanced_email_management/toc.rst:470
+#: ../../advanced_email_management/toc.rst:455
 msgid ""
 "Choose Save a copy of sent messages to my Sent folder from the list, if "
 "you want to get a copy of the email sent by the delegate. Otherwise, you "
 "can choose different options based on your preferences."
 msgstr ""
 "Choisissez Enregistrer une copie des messages envoyés dans mon dossier "
-"Envoyés dans la liste, si vous souhaitez obtenir une copie de l'email envoyé "
-"par le délégué. Sinon, vous pouvez choisir différentes options en fonction "
-"de vos préférences."
+"Envoyés dans la liste, si vous souhaitez obtenir une copie de l'email "
+"envoyé par le délégué. Sinon, vous pouvez choisir différentes options en "
+"fonction de vos préférences."
 
-#: ../../advanced_email_management/toc.rst:473
+#: ../../advanced_email_management/toc.rst:458
 msgid ""
 "An email notification will be sent to the designated person, informing "
 "them of their newly acquired delegate permissions."
@@ -1610,11 +1583,11 @@ msgstr ""
 "Une notification par courrier électronique sera envoyée à la personne "
 "désignée, l'informant de ses nouvelles autorisations de délégué."
 
-#: ../../advanced_email_management/toc.rst:480
+#: ../../advanced_email_management/toc.rst:465
 msgid "Sending Email on Behalf of Someone Else"
 msgstr "Envoi d'un courriel au nom de quelqu'un d'autre"
 
-#: ../../advanced_email_management/toc.rst:482
+#: ../../advanced_email_management/toc.rst:467
 msgid ""
 "If you have been granted delegate permissions for another person, you can"
 " send emails on their behalf. While composing an email, click on the top-"
@@ -1625,20 +1598,21 @@ msgid ""
 "be available in the menu. When selected, your address will be omitted "
 "from the email."
 msgstr ""
-"Si vous avez reçu des autorisations de délégué pour une autre personne, vous "
-"pouvez envoyer des courriels en son nom. Lors de la rédaction d'un courriel, "
-"cliquez sur le coin supérieur gauche où s'affiche le nom de votre compte. À "
-"partir de là, vous pouvez sélectionner votre adresse électronique, ainsi que "
-"toute autre identité ou personas que vous pourriez avoir, et la personne que "
-"vous représentez. Si vous avez été autorisé à envoyer des messages en tant "
-"que cette personne, son adresse électronique sera disponible dans le menu. "
-"Si vous la sélectionnez, votre adresse sera omise du message."
+"Si vous avez reçu des autorisations de délégué pour une autre personne, "
+"vous pouvez envoyer des courriels en son nom. Lors de la rédaction d'un "
+"courriel, cliquez sur le coin supérieur gauche où s'affiche le nom de "
+"votre compte. À partir de là, vous pouvez sélectionner votre adresse "
+"électronique, ainsi que toute autre identité ou personas que vous "
+"pourriez avoir, et la personne que vous représentez. Si vous avez été "
+"autorisé à envoyer des messages en tant que cette personne, son adresse "
+"électronique sera disponible dans le menu. Si vous la sélectionnez, votre"
+" adresse sera omise du message."
 
-#: ../../advanced_email_management/toc.rst:491
+#: ../../advanced_email_management/toc.rst:476
 msgid "Account Personas"
 msgstr "Identités de comptes"
 
-#: ../../advanced_email_management/toc.rst:493
+#: ../../advanced_email_management/toc.rst:478
 msgid ""
 "When sending emails, each email is associated with an email account. By "
 "default, your primary identity is tied to your account name when setting "
@@ -1647,12 +1621,13 @@ msgid ""
 " types of emails."
 msgstr ""
 "Lors de l'envoi de courriels, chaque courriel est associé à un compte de "
-"messagerie. Par défaut, votre identité principale est liée à votre nom de "
-"compte lors de la configuration de votre compte de messagerie. Cependant, "
-"vous avez la possibilité de créer des identités supplémentaires, appelées "
-"Identités, qui peuvent être utilisées pour gérer différents types d'emails."
+"messagerie. Par défaut, votre identité principale est liée à votre nom de"
+" compte lors de la configuration de votre compte de messagerie. "
+"Cependant, vous avez la possibilité de créer des identités "
+"supplémentaires, appelées Identités, qui peuvent être utilisées pour "
+"gérer différents types d'emails."
 
-#: ../../advanced_email_management/toc.rst:495
+#: ../../advanced_email_management/toc.rst:480
 msgid ""
 "For instance, you might establish one persona for your sales "
 "correspondence and another for personal emails."
@@ -1660,27 +1635,27 @@ msgstr ""
 "Par exemple, vous pouvez créer une Identité pour votre correspondance "
 "commerciale et une autre pour vos courriels personnels."
 
-#: ../../advanced_email_management/toc.rst:497
-#: ../../advanced_email_management/toc.rst:502
+#: ../../advanced_email_management/toc.rst:482
+#: ../../advanced_email_management/toc.rst:487
 msgid ""
 "If you have multiple personas or external accounts linked, you can choose"
 " the specific persona you wish to utilize when sending an email."
 msgstr ""
-"Si plusieurs Identités ou comptes externes sont liés, vous pouvez choisir "
-"l'Identité spécifique que vous souhaitez utiliser lors de l'envoi d'un "
+"Si plusieurs Identités ou comptes externes sont liés, vous pouvez choisir"
+" l'Identité spécifique que vous souhaitez utiliser lors de l'envoi d'un "
 "courrier électronique."
 
-#: ../../advanced_email_management/toc.rst:500
+#: ../../advanced_email_management/toc.rst:485
 msgid "Using Personas"
 msgstr "Utilisation des Identités"
 
-#: ../../advanced_email_management/toc.rst:504
+#: ../../advanced_email_management/toc.rst:489
 msgid "You can send emails from different personas while composing a message."
 msgstr ""
-"Vous pouvez envoyer des courriels à partir de différentes Identités lors de "
-"la rédaction d'un message."
+"Vous pouvez envoyer des courriels à partir de différentes Identités lors "
+"de la rédaction d'un message."
 
-#: ../../advanced_email_management/toc.rst:506
+#: ../../advanced_email_management/toc.rst:491
 msgid ""
 "The recipient will see the username aligned with the selected persona as "
 "the sender of the emails."
@@ -1688,71 +1663,71 @@ msgstr ""
 "Le destinataire verra le nom d'utilisateur aligné sur l'Identité "
 "sélectionnée comme expéditeur des courriels."
 
-#: ../../advanced_email_management/toc.rst:508
+#: ../../advanced_email_management/toc.rst:493
 msgid "To switch personas, follow these steps:"
 msgstr "Pour changer d'Identité, suivez les étapes suivantes :"
 
-#: ../../advanced_email_management/toc.rst:510
+#: ../../advanced_email_management/toc.rst:495
 msgid ""
 "Click on your email address located at the **top left corner** of the "
 "composing board when composing your email."
 msgstr ""
-"Cliquez sur votre adresse email située dans le **coin supérieur gauche** du "
-"tableau de composition lorsque vous rédigez votre email."
+"Cliquez sur votre adresse email située dans le **coin supérieur gauche** "
+"du tableau de composition lorsque vous rédigez votre email."
 
-#: ../../advanced_email_management/toc.rst:511
+#: ../../advanced_email_management/toc.rst:496
 msgid "Choose your preferred persona from the menu."
 msgstr "Choisissez votre Identité préférée dans le menu."
 
-#: ../../advanced_email_management/toc.rst:514
+#: ../../advanced_email_management/toc.rst:499
 msgid "Creating Personas"
 msgstr "Création d'Identités"
 
-#: ../../advanced_email_management/toc.rst:516
+#: ../../advanced_email_management/toc.rst:501
 msgid "To create a new persona alongside your default one:"
 msgstr "Pour créer une nouvelle Identité à côté de votre Identité par défaut :"
 
-#: ../../advanced_email_management/toc.rst:520
+#: ../../advanced_email_management/toc.rst:505
 msgid "Under the Accounts list section, click **ADD PERSONA**."
 msgstr ""
 "Dans la section de la liste des comptes, cliquez sur **AJOUTER UNE "
 "IDENTITÉ**."
 
-#: ../../advanced_email_management/toc.rst:521
+#: ../../advanced_email_management/toc.rst:506
 msgid ""
 "Under the **Persona Settings** section, choose a name for the added "
 "persona."
 msgstr ""
-"Dans la section **Paramètres Identité**, choisissez un nom pour l'Identité "
-"ajoutée."
+"Dans la section **Paramètres Identité**, choisissez un nom pour "
+"l'Identité ajoutée."
 
-#: ../../advanced_email_management/toc.rst:529
+#: ../../advanced_email_management/toc.rst:514
 msgid "Removing Personas"
 msgstr "Suppression des Identités"
 
-#: ../../advanced_email_management/toc.rst:531
+#: ../../advanced_email_management/toc.rst:516
 msgid "To remove a persona:"
 msgstr "Supprimer une Identité :"
 
-#: ../../advanced_email_management/toc.rst:535
+#: ../../advanced_email_management/toc.rst:520
 msgid "Under the Accounts list section, select the persona you wish to remove."
 msgstr ""
 "Dans la section Liste des comptes, sélectionnez l'Identité que vous "
 "souhaitez supprimer."
 
-#: ../../advanced_email_management/toc.rst:536
+#: ../../advanced_email_management/toc.rst:521
 msgid "Click **DELETE**, and then **DELETE PERMANENTLY** to confirm."
 msgstr ""
 "Cliquez sur **SUPPRIMER**, puis sur **SUPPRIMER DÉFINITIVEMENT** pour "
 "confirmer."
 
-#: ../../advanced_email_management/toc.rst:539
+#: ../../advanced_email_management/toc.rst:524
 msgid "Set Email Retention and Disposal Policies for a Folder"
 msgstr ""
-"Définir les règles de conservation et d'élimination des courriels pour un "
-"dossier"
+"Définir les règles de conservation et d'élimination des courriels pour un"
+" dossier"
 
-#: ../../advanced_email_management/toc.rst:541
+#: ../../advanced_email_management/toc.rst:526
 msgid ""
 "The email **retention policy** establishes that emails stored within a "
 "designated folder and falling within the retention period will "
@@ -1762,113 +1737,395 @@ msgid ""
 "deletion without requiring manual intervention."
 msgstr ""
 "La **politique de conservation** des courriels établit que les courriels "
-"stockés dans un dossier désigné et entrant dans la période de conservation "
-"nécessiteront une confirmation explicite avant d'être supprimés. "
-"Inversement, la **politique d'élimination** des courriels prévoit que les "
-"courriels résidant dans un dossier spécifié et dépassant le seuil "
-"d'élimination feront l'objet d'un nettoyage et d'une suppression automatisés "
-"sans intervention manuelle."
+"stockés dans un dossier désigné et entrant dans la période de "
+"conservation nécessiteront une confirmation explicite avant d'être "
+"supprimés. Inversement, la **politique d'élimination** des courriels "
+"prévoit que les courriels résidant dans un dossier spécifié et dépassant "
+"le seuil d'élimination feront l'objet d'un nettoyage et d'une suppression"
+" automatisés sans intervention manuelle."
 
-#: ../../advanced_email_management/toc.rst:544
+#: ../../advanced_email_management/toc.rst:529
 msgid "To enable and set a **retention policy** for a folder:"
-msgstr ""
-"Pour activer et définir une **politique de rétention** pour un dossier :"
+msgstr "Pour activer et définir une **politique de rétention** pour un dossier :"
 
-#: ../../advanced_email_management/toc.rst:546
-#: ../../advanced_email_management/toc.rst:558
+#: ../../advanced_email_management/toc.rst:531
+#: ../../advanced_email_management/toc.rst:543
 #: ../../basic_email_management/toc.rst:22
 #: ../../basic_email_management/toc.rst:34
 #: ../../basic_email_management/toc.rst:64
 msgid "From the left sidebar click on the **Mails** section."
 msgstr "Dans la barre latérale gauche, cliquez sur la section **Mails**."
 
-#: ../../advanced_email_management/toc.rst:547
+#: ../../advanced_email_management/toc.rst:532
 msgid ""
 "In the Navigation Panel, right-click on the folder for which you wish to "
 "set its retention policy."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit de la souris sur "
-"le dossier dont vous souhaitez définir la politique de conservation."
+"Dans le panneau de navigation, cliquez avec le bouton droit de la souris "
+"sur le dossier dont vous souhaitez définir la politique de conservation."
 
-#: ../../advanced_email_management/toc.rst:548
-#: ../../advanced_email_management/toc.rst:560
+#: ../../advanced_email_management/toc.rst:533
+#: ../../advanced_email_management/toc.rst:545
 msgid "From the dropdown menu, select **Edit**. A new window appears."
 msgstr ""
 "Dans le menu déroulant, sélectionnez **Éditer**. Une nouvelle fenêtre "
 "apparaît."
 
-#: ../../advanced_email_management/toc.rst:549
-#: ../../advanced_email_management/toc.rst:561
+#: ../../advanced_email_management/toc.rst:534
+#: ../../advanced_email_management/toc.rst:546
 msgid "Click the downward arrow next to the **Retention policy** section."
 msgstr ""
 "Cliquez sur la flèche vers le bas à côté de la section **Politique de "
 "rétention**."
 
-#: ../../advanced_email_management/toc.rst:550
+#: ../../advanced_email_management/toc.rst:535
 msgid "Tick the box labeled Enable Message Retention."
 msgstr "Cochez la case Activer la conservation des messages."
 
-#: ../../advanced_email_management/toc.rst:551
+#: ../../advanced_email_management/toc.rst:536
 msgid ""
 "Enter a numerical value in the **Retention Range** field and choose the "
 "appropriate unit of time (such as days, weeks, etc.) from the adjacent "
 "dropdown menu."
 msgstr ""
 "Saisissez une valeur numérique dans le champ **Plage de rétention** et "
-"choisissez l'unité de temps appropriée (jours, semaines, etc.) dans le menu "
-"déroulant adjacent."
+"choisissez l'unité de temps appropriée (jours, semaines, etc.) dans le "
+"menu déroulant adjacent."
 
-#: ../../advanced_email_management/toc.rst:552
-#: ../../advanced_email_management/toc.rst:564 ../../tasks/toc.rst:41
+#: ../../advanced_email_management/toc.rst:537
+#: ../../advanced_email_management/toc.rst:549 ../../tasks/toc.rst:41
 msgid "Click **EDIT**."
 msgstr "Cliquez sur **MODIFIER**."
 
-#: ../../advanced_email_management/toc.rst:554
+#: ../../advanced_email_management/toc.rst:539
 msgid ""
 "After clicking EDIT, the retention policy will be activated for the "
 "specified folder, requiring explicit confirmation before the deletion of "
 "emails within the retention period."
 msgstr ""
-"Après avoir cliqué sur MODIFIER, la politique de conservation sera activée "
-"pour le dossier spécifié, nécessitant une confirmation explicite avant la "
-"suppression des courriels pendant la période de conservation."
+"Après avoir cliqué sur MODIFIER, la politique de conservation sera "
+"activée pour le dossier spécifié, nécessitant une confirmation explicite "
+"avant la suppression des courriels pendant la période de conservation."
 
-#: ../../advanced_email_management/toc.rst:556
+#: ../../advanced_email_management/toc.rst:541
 msgid "To enable and set a **disposal policy** for a folder:"
-msgstr ""
-"Pour activer et définir une **politique d'élimination** pour un dossier :"
+msgstr "Pour activer et définir une **politique d'élimination** pour un dossier :"
 
-#: ../../advanced_email_management/toc.rst:559
+#: ../../advanced_email_management/toc.rst:544
 msgid ""
 "In the Navigation Panel, right-click on the folder for which you wish to "
 "set its disposal policy."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit de la souris sur "
-"le dossier dont vous souhaitez définir la politique d'élimination."
+"Dans le panneau de navigation, cliquez avec le bouton droit de la souris "
+"sur le dossier dont vous souhaitez définir la politique d'élimination."
 
-#: ../../advanced_email_management/toc.rst:562
+#: ../../advanced_email_management/toc.rst:547
 msgid "Tick the box labeled Enable Message Disposal."
 msgstr "Cochez la case intitulée Activer la suppression des messages."
 
-#: ../../advanced_email_management/toc.rst:563
+#: ../../advanced_email_management/toc.rst:548
 msgid ""
 "Enter a numerical value in the **Disposal Threshold** field and choose "
 "the appropriate unit of time (such as days, weeks, etc.) from the "
 "adjacent dropdown menu."
 msgstr ""
 "Saisissez une valeur numérique dans le champ **Seuil de suppression** et "
-"choisissez l'unité de temps appropriée (jours, semaines, etc.) dans le menu "
-"déroulant adjacent."
+"choisissez l'unité de temps appropriée (jours, semaines, etc.) dans le "
+"menu déroulant adjacent."
 
-#: ../../advanced_email_management/toc.rst:566
+#: ../../advanced_email_management/toc.rst:551
 msgid ""
 "After clicking EDIT, the disposal policy will be applied to the specified"
 " folder, triggering automated cleanup and deletion for emails surpassing "
 "the disposal threshold."
 msgstr ""
-"Après avoir cliqué sur MODIFIER, la politique de suppression sera appliquée "
-"au dossier spécifié, déclenchant le nettoyage et la suppression automatiques "
-"des courriels dépassant le seuil de suppression."
+"Après avoir cliqué sur MODIFIER, la politique de suppression sera "
+"appliquée au dossier spécifié, déclenchant le nettoyage et la suppression"
+" automatiques des courriels dépassant le seuil de suppression."
+
+#: ../../advanced_email_management/toc.rst:555
+#, fuzzy
+msgid "S/MIME signed emails"
+msgstr "Envoi de courriels signés S/MIME"
+
+#: ../../advanced_email_management/toc.rst:557
+msgid ""
+"If you don't see these options, it means that your administrator has not "
+"enabled them. Please contact your administrator for more information."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:559
+msgid ""
+"S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for "
+"public key encryption and signing of MIME data. It is used to secure "
+"email communications and is supported by most email clients. S/MIME "
+"provides a way to encrypt email messages and digitally sign them. When "
+"you digitally sign an email, you are adding a digital signature to the "
+"message. This signature is unique to you and is used to verify that the "
+"email has not been tampered with and that it was sent by you."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:562
+msgid "Difference between Signing and Encryption"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:564
+msgid ""
+"**Signing**: When you sign an email, you are adding a digital signature "
+"to the message. This signature is unique to you and is used to verify "
+"that the email has not been tampered with and that it was sent by you. "
+"**Encryption**: When you encrypt an email, you are scrambling the "
+"contents of the message so that only the intended recipient can read it. "
+"This ensures that the email is secure and cannot be read by anyone else."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:568
+msgid "Requirements for S/MIME"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:570
+msgid "To use S/MIME, you need:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:572
+msgid ""
+"A valid S/MIME certificate (X.509 format) issued by a trusted Certificate"
+" Authority (CA)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:573
+msgid ""
+"Carbonio webmail (S/MIME is not available in Carbonio Community Edition, "
+"it only allows to show that the email is digitally signed)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:574
+msgid ""
+"A compatible email client (Another user with Carbonio webmail, Outlook,  "
+"Thunderbird --to check--,  others?)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:577
+msgid "Obtaining an S/MIME Certificate"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:579
+msgid ""
+"You need an S/MIME certificate issued by a trusted Certificate Authority "
+"(CA).Popular CAs include: Sectigo (Comodo); DigiCert; GlobalSign; "
+"Actalis; Entrust; GoDaddy; Thawte; VeriSign; and others."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:581
+msgid ""
+"To obtain an S/MIME certificate: 1. Go to the website of a trusted CA. 2."
+" Request an S/MIME certificate from a CA. 3. Download the certificate in "
+"PKCS#12 format (.p12 or .pfx). 4. Note the password used to export the "
+"private key."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:588
+msgid "How S/MIME Signing Works in Carbonio"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:591
+msgid "Importing an S/MIME Certificate"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:593
+msgid ""
+"# Upload your personal certificate (containing a public and a private "
+"key) into Carbonio webmail via Settings → S/MIME Certificates (the system"
+" will ask to enter a password to protect the certificate. If one has "
+"already been set it will ask for the password). # Click Upload "
+"Certificate under Personal certificates for signing, encryption and "
+"decryption."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:598
+#, fuzzy
+msgid "Signing an Email"
+msgstr "Impression d'un e-mail"
+
+#: ../../advanced_email_management/toc.rst:600
+msgid ""
+"# When composing an email, select \"Use certificate to sign (S/MIME)\". #"
+" Carbonio uses the user’s private key to generate a digital signature. # "
+"The signature is attached to the email as a cryptographic hash. # The "
+"recipient can verify the signature using the sender’s public key."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:607
+#, fuzzy
+msgid "Verifying a Signed Email"
+msgstr "Envoi de courriels signés S/MIME"
+
+#: ../../advanced_email_management/toc.rst:609
+msgid ""
+"# When you receive a signed email, the signature is displayed in the "
+"email header. # Click on the signature to view the certificate details. #"
+" The certificate details include the certificate issuer, the certificate "
+"validity period, and the certificate fingerprint. # The recipient can "
+"verify the signature using the sender’s public key."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:614
+msgid "If the signature is valid:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:616
+msgid "The recipient sees a signed email notification."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:617
+msgid ""
+"It confirms the email hasn’t been modified and is truly from the claimed "
+"sender."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:619
+msgid ""
+"If the signature is invalid or missing, the email might be tampered with "
+"or sent from an untrusted source. The recipient should be cautious when "
+"interacting with such emails."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:624
+msgid "How S/MIME Encryption Works in Carbonio"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:627
+msgid "Key Components"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:629
+msgid ""
+"# Public Key: Used to encrypt the email. Stored in the recipient’s S/MIME"
+" certificate. # Private Key: Used to decrypt the email. Stored securely "
+"by the recipient. # Certificate Authority (CA): Issues S/MIME "
+"certificates to users."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:634
+msgid "The Encryption Process"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:636
+msgid "Sender Retrieves Recipient’s Public Key"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:637
+msgid "The sender must have the recipient’s public key."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:644
+#, fuzzy
+msgid "Email Encryption"
+msgstr "Notification de réception d'emails"
+
+#: ../../advanced_email_management/toc.rst:639
+msgid "The sender composes an email and selects  \"Encrypt with S/MIME\""
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:640
+msgid "Sender email content is encrypted using the recipient’s public key."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:641
+msgid "The email is sent in an encrypted format."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:642
+msgid ""
+"Recipient Decrypts the Email * When the recipient opens the email, its "
+"private key is used to decrypt the message. * If the private key matches "
+"the encrypted data, the email is decrypted and displayed normally."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:646
+msgid ""
+"The recipient can only decrypt the email if they have the corresponding "
+"private key. This ensures that only the intended recipient can read the "
+"email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:649
+msgid "Requirements for S/MIME Encryption"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:651
+msgid ""
+"# Both sender and recipient must have S/MIME certificates installed. # "
+"The recipient’s public key must be available to the sender."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:655
+msgid "Uploading a Certificate in Carbonio Webmail"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:657
+msgid "Go to Settings → S/MIME Certificates."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:658
+msgid ""
+"Click \"Upload Certificate\" under Personal certificates for signing, "
+"encryption and decryption."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:659
+msgid "Select your PKCS#12 certificate file (.pfx or .p12)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:660
+msgid "Enter the certificate secret."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:661
+#: ../../advanced_email_management/toc.rst:667
+#, fuzzy
+msgid "Click Save."
+msgstr "Cliquez sur **ENREGISTRER**."
+
+#: ../../advanced_email_management/toc.rst:664
+msgid "Uploading Recipient Certificate"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:666
+msgid "Click \"Upload Certificate\" under Recipients certificates for encryption"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:670
+#, fuzzy
+msgid "Sending an Encrypted Email"
+msgstr "Envoi de courriels signés S/MIME"
+
+#: ../../advanced_email_management/toc.rst:672
+msgid "Compose a new email in Carbonio webmail."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:673
+#, fuzzy
+msgid "Select \"Use certificate to encrypt (S/MIME)\" before sending."
+msgstr ""
+"Sélectionnez **Utiliser un certificat pour signer (S/MIME)** dans le menu"
+" qui s'affiche."
+
+#: ../../advanced_email_management/toc.rst:674
+msgid "The email will be encrypted using the recipient’s public key."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:677
+#, fuzzy
+msgid "Receiving and Decrypting an Email"
+msgstr "Supprimer une étiquette d'un e-mail"
+
+#: ../../advanced_email_management/toc.rst:679
+msgid ""
+"# If your private key is installed, Carbonio will automatically decrypt "
+"the message. # If not, you’ll see an \"Unable to decrypt\" error. # You "
+"can upload your private key to decrypt the message."
+msgstr ""
 
 #: ../../appointments/toc.rst:7
 msgid "Working with Appointments"
@@ -1880,9 +2137,9 @@ msgid ""
 "the creation of both one-time and recurring events, meetings, and "
 "engagements."
 msgstr ""
-"Les rendez-vous sont des outils essentiels pour l'organisation des emplois "
-"du temps, permettant la création d'événements, de réunions et d'engagements "
-"ponctuels ou récurrents."
+"Les rendez-vous sont des outils essentiels pour l'organisation des "
+"emplois du temps, permettant la création d'événements, de réunions et "
+"d'engagements ponctuels ou récurrents."
 
 #: ../../appointments/toc.rst:11
 msgid ""
@@ -1891,10 +2148,11 @@ msgid ""
 "necessary resources such as meeting rooms and equipment, and append "
 "personalized messages to invitations."
 msgstr ""
-"Cette fonction facilite la planification en permettant aux utilisateurs de "
-"vérifier la disponibilité des participants avant d'envoyer des invitations, "
-"de réserver les ressources nécessaires telles que les salles de réunion et "
-"l'équipement, et d'ajouter des messages personnalisés aux invitations."
+"Cette fonction facilite la planification en permettant aux utilisateurs "
+"de vérifier la disponibilité des participants avant d'envoyer des "
+"invitations, de réserver les ressources nécessaires telles que les salles"
+" de réunion et l'équipement, et d'ajouter des messages personnalisés aux "
+"invitations."
 
 #: ../../appointments/toc.rst:13
 msgid ""
@@ -1969,13 +2227,13 @@ msgid ""
 " such as cameras, displays, etc. in your office are included."
 msgstr ""
 
-#: ../../appointments/toc.rst:32 ../../appointments/toc.rst:136
+#: ../../appointments/toc.rst:32
 msgid ""
 "If you prefer to host a virtual meeting using |product| Chats' video "
 "meeting feature in one of your virtual rooms, you can select the desired "
 "virtual room from the **Virtual Room field**. If you have not set up any "
-"virtual rooms yet, you can easily create them through the Chats section "
-"on the |product| web client."
+"virtual rooms yet, you can easily create them by clicking the button "
+"**\"CREATE NEW VIRTUAL ROOM\"**."
 msgstr ""
 
 #: ../../appointments/toc.rst:33 ../../appointments/toc.rst:137
@@ -2085,7 +2343,7 @@ msgstr ""
 
 #: ../../appointments/toc.rst:58 ../../appointments/toc.rst:94
 #: ../../appointments/toc.rst:105 ../../appointments/toc.rst:116
-#: ../../chats(wsc)/toc.rst:71 ../../chats/toc.rst:73 ../../tasks/toc.rst:39
+#: ../../chats(wsc)/toc.rst:80 ../../chats/toc.rst:73 ../../tasks/toc.rst:39
 msgid "Select **Edit** from the drop-down menu."
 msgstr ""
 
@@ -2109,8 +2367,8 @@ msgstr ""
 msgid "To forward an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:69 ../../chats(wsc)/toc.rst:91
-#: ../../chats/toc.rst:93
+#: ../../appointments/toc.rst:69 ../../chats(wsc)/toc.rst:109
+#: ../../chats(wsc)/toc.rst:117 ../../chats/toc.rst:93
 msgid "Select **Forward** from the drop-down menu."
 msgstr ""
 
@@ -2245,6 +2503,15 @@ msgid ""
 " your office are included."
 msgstr ""
 
+#: ../../appointments/toc.rst:136
+msgid ""
+"If you prefer to host a virtual meeting using |product| Chats' video "
+"meeting feature in one of your virtual rooms, you can select the desired "
+"virtual room from the **Virtual Room field**. If you have not set up any "
+"virtual rooms yet, you can easily create them through the Chats section "
+"on the |product| web client."
+msgstr ""
+
 #: ../../appointments/toc.rst:141
 msgid ""
 "Choose the time slot for the appointment by specifying the start date and"
@@ -2363,6 +2630,18 @@ msgstr ""
 msgid ""
 "After selecting one of the four buttons, the invitation email will "
 "automatically be moved to your Trash folder."
+msgstr ""
+
+#: ../../appointments/toc.rst:191
+msgid ""
+"If you don't choose any of the four options, the appointment will be "
+"automatically saved in your calendar as a tentative appointment with an "
+"icon indicating that you are not yet confirmed for the appointment. You "
+"can later choose one of the four options by double-clicking on the "
+"appointment in your calendar and selecting **Accept**, **Tentative**, "
+"**Decline** or **Propose new time** from the drop-down menu. You can also"
+" choose to **Delete** the appointment from your calendar without "
+"responding to the invitation."
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:7
@@ -3038,7 +3317,7 @@ msgstr ""
 msgid "Under the Sharing of this folder section, click **REVOKE**."
 msgstr ""
 
-#: ../../basic_email_management/toc.rst:320 ../../files/toc.rst:482
+#: ../../basic_email_management/toc.rst:320 ../../files/toc.rst:486
 msgid "Click the **REVOKE** button to confirm."
 msgstr ""
 
@@ -3668,9 +3947,10 @@ msgid ""
 "sender, date, and subject."
 msgstr ""
 "Le tri des e-mails peut offrir une utilité significative dans divers "
-"scénarios. Vous avez la flexibilité de catégoriser les e-mails en fonction "
-"de critères tels que le statut de non-lecture, l'importance, le statut de "
-"marquage, la présence de pièces jointes, l'expéditeur, la date et l'objet."
+"scénarios. Vous avez la flexibilité de catégoriser les e-mails en "
+"fonction de critères tels que le statut de non-lecture, l'importance, le "
+"statut de marquage, la présence de pièces jointes, l'expéditeur, la date "
+"et l'objet."
 
 #: ../../browsing_emails/toc.rst:268
 msgid ""
@@ -3708,17 +3988,17 @@ msgid ""
 "current day, it will always be displayed with the full date and time, "
 "with the complete timestamp."
 msgstr ""
-"Pour assurer la clarté, le format de date pour les e-mails qui ne sont pas "
-"de la journée en cours, il sera toujours affiché avec la date et l'heure "
-"complètes, avec l'horodatage complet."
+"Pour assurer la clarté, le format de date pour les e-mails qui ne sont "
+"pas de la journée en cours, il sera toujours affiché avec la date et "
+"l'heure complètes, avec l'horodatage complet."
 
 #: ../../browsing_emails/toc.rst:285
 msgid ""
 "The timestamp will be shown according to the browser language rules, as "
 "explained in the following table:"
 msgstr ""
-"L'horodatage sera affiché selon les règles de langue du navigateur, comme "
-"expliqué dans le tableau suivant :"
+"L'horodatage sera affiché selon les règles de langue du navigateur, comme"
+" expliqué dans le tableau suivant :"
 
 #: ../../browsing_emails/toc.rst:287
 msgid "Date Format"
@@ -4370,16 +4650,16 @@ msgid ""
 "Enter the name of the group in the proper field of the new modal that "
 "appears."
 msgstr ""
-"Entrez le nom du groupe dans le champ approprié de la nouvelle modale qui "
-"apparaît."
+"Entrez le nom du groupe dans le champ approprié de la nouvelle modale qui"
+" apparaît."
 
 #: ../../calendars/toc.rst:229
 msgid ""
 "Select the calendars you wish to add to the group from the list, by "
 "simply searching for them."
 msgstr ""
-"Sélectionnez les calendriers que vous souhaitez ajouter au groupe dans la "
-"liste, en les recherchant simplement."
+"Sélectionnez les calendriers que vous souhaitez ajouter au groupe dans la"
+" liste, en les recherchant simplement."
 
 #: ../../calendars/toc.rst:230
 msgid "Click the **+** button, to add them all."
@@ -4387,8 +4667,7 @@ msgstr "Cliquez sur le bouton **+**, pour les ajouter tous."
 
 #: ../../calendars/toc.rst:231
 msgid "Click the **REMOVE** button, if you have to remove some of them."
-msgstr ""
-"Cliquez sur le bouton **SUPPRIMER**, si vous devez en supprimer certains."
+msgstr "Cliquez sur le bouton **SUPPRIMER**, si vous devez en supprimer certains."
 
 #: ../../calendars/toc.rst:232
 msgid "Click the **CREATE GROUP** button."
@@ -4399,8 +4678,9 @@ msgid ""
 "Now you can switch on and off the group everytime you need to see all the"
 " calendars of the users in that group."
 msgstr ""
-"Vous pouvez maintenant activer ou désactiver le groupe chaque fois que vous "
-"avez besoin de voir tous les calendriers des utilisateurs de ce groupe."
+"Vous pouvez maintenant activer ou désactiver le groupe chaque fois que "
+"vous avez besoin de voir tous les calendriers des utilisateurs de ce "
+"groupe."
 
 #: ../../calendars/toc.rst:237
 msgid "Editing Calendar Groups"
@@ -4423,8 +4703,8 @@ msgid ""
 "Make the necessary changes to the group name or the calendars included in"
 " the group."
 msgstr ""
-"Apportez les modifications nécessaires au nom du groupe ou aux calendriers "
-"inclus dans le groupe."
+"Apportez les modifications nécessaires au nom du groupe ou aux "
+"calendriers inclus dans le groupe."
 
 #: ../../calendars/toc.rst:244
 msgid "Click the **SAVE CHANGES** button."
@@ -4436,13 +4716,11 @@ msgstr "Suppression des groupes de calendriers"
 
 #: ../../calendars/toc.rst:249
 msgid "To delete a calendar group, simply:"
-msgstr ""
-"Pour supprimer un groupe de calendriers, procédez simplement comme suit :"
+msgstr "Pour supprimer un groupe de calendriers, procédez simplement comme suit :"
 
 #: ../../calendars/toc.rst:251
 msgid "Right-click on the group you want to delete."
-msgstr ""
-"Cliquez avec le bouton droit sur le groupe que vous souhaitez supprimer."
+msgstr "Cliquez avec le bouton droit sur le groupe que vous souhaitez supprimer."
 
 #: ../../calendars/toc.rst:252
 msgid "Select **Delete permanently** option."
@@ -4453,8 +4731,8 @@ msgid ""
 "Confirm that you want to delete the group, by clicking on the red button "
 "**DELETE PERMANENTLY**"
 msgstr ""
-"Confirmez que vous souhaitez supprimer le groupe en cliquant sur le bouton "
-"rouge **SUPPRIMER DÉFINITIVEMENT**."
+"Confirmez que vous souhaitez supprimer le groupe en cliquant sur le "
+"bouton rouge **SUPPRIMER DÉFINITIVEMENT**."
 
 #: ../../calendars/toc.rst:254
 msgid "The group will be permanently deleted."
@@ -4548,8 +4826,9 @@ msgid ""
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:7
-msgid "Working with Chats (WSC) :bdg-primary:`NEW`"
-msgstr ""
+#, fuzzy
+msgid "Working with Chats (WSC)"
+msgstr "Travailler avec les discussions"
 
 #: ../../chats(wsc)/toc.rst:14
 msgid ""
@@ -4573,30 +4852,31 @@ msgid ""
 "chat. To do so:"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:21 ../../chats(wsc)/toc.rst:111
-#: ../../chats(wsc)/toc.rst:122 ../../chats(wsc)/toc.rst:132
-#: ../../chats(wsc)/toc.rst:150 ../../chats/toc.rst:23 ../../chats/toc.rst:113
-#: ../../chats/toc.rst:124
+#: ../../chats(wsc)/toc.rst:21 ../../chats(wsc)/toc.rst:35
+#: ../../chats(wsc)/toc.rst:140 ../../chats(wsc)/toc.rst:151
+#: ../../chats(wsc)/toc.rst:161 ../../chats(wsc)/toc.rst:187
+#: ../../chats/toc.rst:23 ../../chats/toc.rst:113 ../../chats/toc.rst:124
 msgid "Select the **Chats** feature from your left sidebar."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:22 ../../chats(wsc)/toc.rst:133
+#: ../../chats(wsc)/toc.rst:22 ../../chats(wsc)/toc.rst:162
 #: ../../chats/toc.rst:24
 msgid "On the top bar, click the **NEW** button. A new window appears."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:23 ../../chats(wsc)/toc.rst:134
+#: ../../chats(wsc)/toc.rst:23 ../../chats(wsc)/toc.rst:163
 #: ../../chats/toc.rst:25
 msgid "Begin typing the email address of the colleague you wish to chat with."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:24 ../../chats/toc.rst:26
+#: ../../chats(wsc)/toc.rst:24 ../../chats(wsc)/toc.rst:37
+#: ../../chats(wsc)/toc.rst:217 ../../chats/toc.rst:26
 msgid "Click on the name of the colleague that appears in the list."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:27 ../../chats/toc.rst:29
+#: ../../chats(wsc)/toc.rst:27
 msgid ""
-"Now, this chat is added under the Chats tab, containing a list of all "
+"Now, this chat is added under the Chats module, containing a list of all "
 "available chats."
 msgstr ""
 
@@ -4616,40 +4896,61 @@ msgid ""
 "message."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:34 ../../chats/toc.rst:36
+#: ../../chats(wsc)/toc.rst:33
+msgid ""
+"You can also create a new chat by searching for a colleague in the search"
+" bar. To do so:"
+msgstr ""
+
+#: ../../chats(wsc)/toc.rst:36
+#, fuzzy
+msgid "In the \"Type to filter list\" field, insert your colleague's name."
+msgstr "Dans le champ Filtre de liste, insérez le nom de votre collègue."
+
+#: ../../chats(wsc)/toc.rst:38
+msgid "The new chat will be created automatically."
+msgstr ""
+
+#: ../../chats(wsc)/toc.rst:39
+msgid ""
+"Start typing your message in the bottom text box. You can also add emojis"
+" and attach files to your message. Press Enter on Windows or Return on "
+"macOS to send the message."
+msgstr ""
+
+#: ../../chats(wsc)/toc.rst:43 ../../chats/toc.rst:36
 msgid "Adding Emojis to Your Message"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:36 ../../chats/toc.rst:38
+#: ../../chats(wsc)/toc.rst:45 ../../chats/toc.rst:38
 msgid ""
 "Once you have created and selected a chat, you can start typing your "
 "message in the bottom text box. You can also add emojis in the text by "
 "clicking on the emoji icon located in the text box."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:39 ../../chats/toc.rst:41
+#: ../../chats(wsc)/toc.rst:48 ../../chats/toc.rst:41
 msgid "Sending Files from Your Computer in Chats"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:41 ../../chats/toc.rst:43
+#: ../../chats(wsc)/toc.rst:50 ../../chats/toc.rst:43
 msgid "To send a file saved on your computer using Chats, follow these steps:"
 msgstr ""
 "Pour envoyer un fichier enregistré sur votre ordinateur à l'aide de "
 "Chats, suivez ces étapes :"
 
-#: ../../chats(wsc)/toc.rst:43 ../../chats(wsc)/toc.rst:56
-#: ../../chats(wsc)/toc.rst:173
+#: ../../chats(wsc)/toc.rst:52 ../../chats(wsc)/toc.rst:65
 msgid "Select the **Chats**  feature from your left sidebar."
 msgstr "Sélectionnez la fonctionnalité **Chats** dans votre barre latérale gauche."
 
-#: ../../chats(wsc)/toc.rst:44 ../../chats(wsc)/toc.rst:57
+#: ../../chats(wsc)/toc.rst:53 ../../chats(wsc)/toc.rst:66
 #: ../../chats/toc.rst:46 ../../chats/toc.rst:59
 msgid "Select the chat in which you want to send the file."
 msgstr ""
 "Sélectionnez la conversation dans laquelle vous souhaitez envoyer le "
 "fichier."
 
-#: ../../chats(wsc)/toc.rst:45 ../../chats(wsc)/toc.rst:58
+#: ../../chats(wsc)/toc.rst:54 ../../chats(wsc)/toc.rst:67
 #: ../../chats/toc.rst:47 ../../chats/toc.rst:60
 msgid ""
 "Click on the paperclip icon located in the chat box at the bottom of the "
@@ -4658,11 +4959,11 @@ msgstr ""
 "Cliquez sur l'icône de trombone située dans la boîte de chat en bas de "
 "page."
 
-#: ../../chats(wsc)/toc.rst:46 ../../chats/toc.rst:48
+#: ../../chats(wsc)/toc.rst:55 ../../chats/toc.rst:48
 msgid "Select **Add from local**. A new window appears."
 msgstr "Sélectionnez **Ajouter à partir du local**. Une nouvelle fenêtre apparaît."
 
-#: ../../chats(wsc)/toc.rst:47 ../../chats/toc.rst:49
+#: ../../chats(wsc)/toc.rst:56 ../../chats/toc.rst:49
 msgid ""
 "Choose the file from your computer by navigating through the opened "
 "window."
@@ -4670,16 +4971,16 @@ msgstr ""
 "Choisissez le fichier sur votre ordinateur en naviguant dans la fenêtre "
 "ouverte."
 
-#: ../../chats(wsc)/toc.rst:48 ../../chats/toc.rst:50
+#: ../../chats(wsc)/toc.rst:57 ../../chats/toc.rst:50
 msgid "Click **Open** to attach the file to your message."
 msgstr "Cliquez sur **Ouvrir** pour joindre le fichier à votre message."
 
-#: ../../chats(wsc)/toc.rst:51 ../../chats/toc.rst:53
+#: ../../chats(wsc)/toc.rst:60 ../../chats/toc.rst:53
 #, fuzzy
 msgid "Sending Files from |product| Files in Chats"
 msgstr "Envoyer des fichiers à partir de Carbonio Files dans les conversations"
 
-#: ../../chats(wsc)/toc.rst:53 ../../chats/toc.rst:55
+#: ../../chats(wsc)/toc.rst:62 ../../chats/toc.rst:55
 #, fuzzy
 msgid ""
 "You can use Chats to send a file directly from |product| Files to a chat."
@@ -4689,21 +4990,21 @@ msgstr ""
 "directement à partir de Carbonio Files dans une conversation. Voici "
 "comment procéder :"
 
-#: ../../chats(wsc)/toc.rst:59 ../../chats/toc.rst:61
+#: ../../chats(wsc)/toc.rst:68 ../../chats/toc.rst:61
 msgid "Select **Attach public link from Files**. A new window appears."
 msgstr ""
 "Sélectionnez **Joindre le lien public depuis les fichiers**. Une nouvelle"
 " fenêtre apparaît."
 
-#: ../../chats(wsc)/toc.rst:60 ../../chats/toc.rst:62
+#: ../../chats(wsc)/toc.rst:69 ../../chats/toc.rst:62
 msgid "Choose the file by navigating through the opened window."
 msgstr "Choisissez le fichier en naviguant dans la fenêtre ouverte."
 
-#: ../../chats(wsc)/toc.rst:61
+#: ../../chats(wsc)/toc.rst:70
 msgid "Click **SHARE PUBLIC LINK**."
 msgstr "Cliquez sur **PARTAGER LE LIEN PUBLIC**."
 
-#: ../../chats(wsc)/toc.rst:63 ../../chats/toc.rst:65
+#: ../../chats(wsc)/toc.rst:72 ../../chats/toc.rst:65
 msgid ""
 "This process will automatically generate a public link for your file and "
 "send it into the chat."
@@ -4711,26 +5012,26 @@ msgstr ""
 "Ce processus générera automatiquement un lien public pour votre fichier "
 "et l'envoyez dans la conversation."
 
-#: ../../chats(wsc)/toc.rst:66 ../../chats/toc.rst:68
+#: ../../chats(wsc)/toc.rst:75 ../../chats/toc.rst:68
 msgid "Edit A Message"
 msgstr "Modifier un message"
 
-#: ../../chats(wsc)/toc.rst:68 ../../chats/toc.rst:70
+#: ../../chats(wsc)/toc.rst:77 ../../chats/toc.rst:70
 msgid "To edit a message:"
 msgstr "Pour modifier un message :"
 
-#: ../../chats(wsc)/toc.rst:70 ../../chats(wsc)/toc.rst:81
-#: ../../chats(wsc)/toc.rst:90 ../../chats(wsc)/toc.rst:101
-#: ../../chats/toc.rst:72 ../../chats/toc.rst:83 ../../chats/toc.rst:92
-#: ../../chats/toc.rst:102
+#: ../../chats(wsc)/toc.rst:79 ../../chats(wsc)/toc.rst:90
+#: ../../chats(wsc)/toc.rst:108 ../../chats(wsc)/toc.rst:116
+#: ../../chats(wsc)/toc.rst:130 ../../chats/toc.rst:72 ../../chats/toc.rst:83
+#: ../../chats/toc.rst:92 ../../chats/toc.rst:102
 msgid "Click on the downward arrow located next to the message bubble."
 msgstr "Cliquez sur la flèche descendante située à côté de la bulle de message."
 
-#: ../../chats(wsc)/toc.rst:72 ../../chats/toc.rst:74
+#: ../../chats(wsc)/toc.rst:81 ../../chats/toc.rst:74
 msgid "Edit the message and hit enter."
 msgstr "Modifiez le message et appuyez sur la touche Entrée."
 
-#: ../../chats(wsc)/toc.rst:74 ../../chats/toc.rst:76
+#: ../../chats(wsc)/toc.rst:83 ../../chats/toc.rst:76
 msgid ""
 "You have only a five-minute window to edit a message. After that, you "
 "will not be able to do so, and the edit option will disappear."
@@ -4739,65 +5040,101 @@ msgstr ""
 "cela, vous ne pourrez plus le faire et l'option de modification "
 "disparaîtra."
 
-#: ../../chats(wsc)/toc.rst:77 ../../chats/toc.rst:79
+#: ../../chats(wsc)/toc.rst:86 ../../chats/toc.rst:79
 msgid "Reply A Message"
 msgstr "Répondre à un message"
 
-#: ../../chats(wsc)/toc.rst:79 ../../chats/toc.rst:81
+#: ../../chats(wsc)/toc.rst:88 ../../chats(wsc)/toc.rst:97
+#: ../../chats/toc.rst:81
 msgid "To reply to a message:"
 msgstr "Pour répondre à un message :"
 
-#: ../../chats(wsc)/toc.rst:82 ../../chats/toc.rst:84
+#: ../../chats(wsc)/toc.rst:91 ../../chats/toc.rst:84
 msgid "Select **Reply** from the drop-down menu."
 msgstr "Sélectionnez **Répondre** dans le menu déroulant."
 
-#: ../../chats(wsc)/toc.rst:83 ../../chats/toc.rst:85
+#: ../../chats(wsc)/toc.rst:92 ../../chats(wsc)/toc.rst:101
+#: ../../chats/toc.rst:85
 msgid "Write the reply and hit enter."
 msgstr "Écrivez la réponse et appuyez sur Entrée."
 
-#: ../../chats(wsc)/toc.rst:86 ../../chats/toc.rst:88
+#: ../../chats(wsc)/toc.rst:95
+#, fuzzy
+msgid "Reply A Message with a Reaction"
+msgstr "Répondre à un message"
+
+#: ../../chats(wsc)/toc.rst:99
+#, fuzzy
+msgid "Click on the emoji icon located next to the downward arrow."
+msgstr "Cliquez sur la flèche descendante située à côté de la bulle de message."
+
+#: ../../chats(wsc)/toc.rst:100
+#, fuzzy
+msgid "Select the emoji you want to send between the ones in the menu."
+msgstr "Sélectionnez le filtre que vous souhaitez supprimer de la liste."
+
+#: ../../chats(wsc)/toc.rst:104 ../../chats/toc.rst:88
 msgid "Forward A Message"
 msgstr "Transmettre un message"
 
-#: ../../chats(wsc)/toc.rst:88 ../../chats/toc.rst:90
+#: ../../chats(wsc)/toc.rst:106 ../../chats/toc.rst:90
 msgid "To forward a message:"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:92
+#: ../../chats(wsc)/toc.rst:110 ../../chats(wsc)/toc.rst:119
 msgid "Click **FORWARD** at the bottom right corner of the chat box"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:93 ../../chats/toc.rst:94
+#: ../../chats(wsc)/toc.rst:111 ../../chats(wsc)/toc.rst:120
+#: ../../chats/toc.rst:94
 msgid "Select the chat to which you want to forward the message."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:94 ../../chats/toc.rst:95
+#: ../../chats(wsc)/toc.rst:112 ../../chats(wsc)/toc.rst:121
+#: ../../chats/toc.rst:95
 msgid "Click **FORWARD**."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:97 ../../chats/toc.rst:98
+#: ../../chats(wsc)/toc.rst:114
+msgid "You can also forward multiple messages at once. To do so:"
+msgstr ""
+
+#: ../../chats(wsc)/toc.rst:118
+msgid ""
+"Select the messages you want to forward by clicking on the checkboxes "
+"next to them."
+msgstr ""
+
+#: ../../chats(wsc)/toc.rst:123
+msgid ""
+"The messages will be forwarded to the selected chat: reporting "
+"\"Originally sent by: [Sender Name]\" and the date of the original "
+"message."
+msgstr ""
+
+#: ../../chats(wsc)/toc.rst:126 ../../chats/toc.rst:98
 msgid "Delete A Message"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:99 ../../chats/toc.rst:100
+#: ../../chats(wsc)/toc.rst:128 ../../chats/toc.rst:100
 msgid "To delete a message:"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:102
+#: ../../chats(wsc)/toc.rst:131
 msgid "Select **Delete for all** from the drop-down menu."
 msgstr "Sélectionnez **Supprimer pour tous** dans le menu déroulant."
 
-#: ../../chats(wsc)/toc.rst:104 ../../chats/toc.rst:106
+#: ../../chats(wsc)/toc.rst:133 ../../chats/toc.rst:106
 msgid ""
 "You have only a five-minute window to delete a message. After that, you "
 "will not be able to do so, and the delete option will disappear."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:107 ../../chats/toc.rst:109
+#: ../../chats(wsc)/toc.rst:136 ../../chats/toc.rst:109
 msgid "Mute Notifications of a Chat"
 msgstr "Désactiver les notifications d'un chat"
 
-#: ../../chats(wsc)/toc.rst:109 ../../chats/toc.rst:111
+#: ../../chats(wsc)/toc.rst:138 ../../chats/toc.rst:111
 msgid ""
 "When you receive a new message in an individual chat or group chat, you "
 "will see a notification on your screen to inform you. If you want to "
@@ -4808,19 +5145,21 @@ msgstr ""
 "vous souhaitez désactiver les notifications pour un chat ou un groupe "
 "spécifique, suivez ces étapes :"
 
-#: ../../chats(wsc)/toc.rst:112 ../../chats/toc.rst:114
+#: ../../chats(wsc)/toc.rst:141 ../../chats/toc.rst:114
 msgid "Select the chat or group for which you want to mute notifications."
 msgstr ""
 "Sélectionnez le chat ou le groupe pour lequel vous souhaitez désactiver "
 "les notifications."
 
-#: ../../chats(wsc)/toc.rst:113 ../../chats/toc.rst:115
+#: ../../chats(wsc)/toc.rst:142 ../../chats(wsc)/toc.rst:189
+#: ../../chats/toc.rst:115
 msgid "On the right side of the Main Panel, click **Mute notifications**."
 msgstr ""
 "Sur le côté droit du panneau principal, cliquez sur **Désactiver les "
 "notifications**."
 
-#: ../../chats(wsc)/toc.rst:115 ../../chats/toc.rst:117
+#: ../../chats(wsc)/toc.rst:144 ../../chats(wsc)/toc.rst:192
+#: ../../chats/toc.rst:117
 msgid ""
 "To unmute, follow the same procedure and choose **Activate "
 "notifications**."
@@ -4828,35 +5167,35 @@ msgstr ""
 "Pour réactiver, suivez la même procédure et choisissez **Activer les "
 "notifications**."
 
-#: ../../chats(wsc)/toc.rst:118 ../../chats/toc.rst:120
+#: ../../chats(wsc)/toc.rst:147 ../../chats/toc.rst:120
 msgid "Clear History of a Chat"
 msgstr "Effacer l'historique d'un chat"
 
-#: ../../chats(wsc)/toc.rst:120 ../../chats/toc.rst:122
+#: ../../chats(wsc)/toc.rst:149 ../../chats/toc.rst:122
 msgid "To clear the history of a specific chat or group:"
 msgstr "Pour effacer l'historique d'un chat ou groupe spécifique :"
 
-#: ../../chats(wsc)/toc.rst:123 ../../chats/toc.rst:125
+#: ../../chats(wsc)/toc.rst:152 ../../chats/toc.rst:125
 msgid "Select the chat or group you want to clear the history for."
 msgstr ""
 "Sélectionnez le chat ou le groupe pour lequel vous souhaitez effacer "
 "l'historique."
 
-#: ../../chats(wsc)/toc.rst:124 ../../chats/toc.rst:126
+#: ../../chats(wsc)/toc.rst:153 ../../chats/toc.rst:126
 msgid "On the right side of the Main Panel, click **Clear History**."
 msgstr ""
 "Sur le côté droit du panneau principal, cliquez sur **Effacer "
 "l'historique**."
 
-#: ../../chats(wsc)/toc.rst:125 ../../chats/toc.rst:127
+#: ../../chats(wsc)/toc.rst:154 ../../chats/toc.rst:127
 msgid "Click **CLEAR HISTORY** to confirm."
 msgstr "Cliquez sur **EFFACER L'HISTORIQUE** pour confirmer."
 
-#: ../../chats(wsc)/toc.rst:128 ../../chats/toc.rst:130
+#: ../../chats(wsc)/toc.rst:157 ../../chats/toc.rst:130
 msgid "Creating New Group"
 msgstr "Créer un nouveau groupe"
 
-#: ../../chats(wsc)/toc.rst:130 ../../chats/toc.rst:132
+#: ../../chats(wsc)/toc.rst:159 ../../chats/toc.rst:132
 msgid ""
 "Groups allow for group conversations with at least three attendees. You "
 "can create a group chat by following these steps:"
@@ -4864,15 +5203,15 @@ msgstr ""
 "Les groupes permettent des conversations de groupe avec au moins trois "
 "participants. Vous pouvez créer un chat de groupe en suivant ces étapes :"
 
-#: ../../chats(wsc)/toc.rst:135
+#: ../../chats(wsc)/toc.rst:164
 msgid "Click on the name of the colleagues that appears in the list."
 msgstr "Cliquez sur le nom des collègues qui apparaît dans la liste."
 
-#: ../../chats(wsc)/toc.rst:136
+#: ../../chats(wsc)/toc.rst:165
 msgid "Insert a title for the group."
 msgstr "Insérez un titre pour le groupe."
 
-#: ../../chats(wsc)/toc.rst:137
+#: ../../chats(wsc)/toc.rst:166
 msgid ""
 "(Optional) Insert a topic for the group. While this step is not "
 "mandatory, providing a topic can help clarify the group's purpose."
@@ -4881,15 +5220,16 @@ msgstr ""
 "pas obligatoire, fournir un sujet peut aider à clarifier l'objectif du "
 "groupe."
 
-#: ../../chats(wsc)/toc.rst:138
+#: ../../chats(wsc)/toc.rst:167
 msgid "Click **NEW GROUP**."
 msgstr "Cliquez sur **NOUVEAU GROUPE**."
 
-#: ../../chats(wsc)/toc.rst:141 ../../chats/toc.rst:141
-msgid "Now this group is added to your list under the Chats tab."
+#: ../../chats(wsc)/toc.rst:170
+#, fuzzy
+msgid "Now this group is added to your list."
 msgstr "Maintenant, ce groupe est ajouté à votre"
 
-#: ../../chats(wsc)/toc.rst:143 ../../chats/toc.rst:143
+#: ../../chats(wsc)/toc.rst:172 ../../chats/toc.rst:143
 msgid ""
 "Once you have created and selected a group, you can start typing your "
 "message in the bottom text box. You can also add emojis and attach files "
@@ -4897,58 +5237,79 @@ msgid ""
 "message."
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:146 ../../chats/toc.rst:146
-msgid "Add Participants to a Group"
+#: ../../chats(wsc)/toc.rst:174
+msgid "In the right panel you will find the following possible actions:"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:148 ../../chats/toc.rst:148
-msgid "You can add new members to a group if you are a moderator. Here is how:"
+#: ../../chats(wsc)/toc.rst:176
+#, fuzzy
+msgid "Mute notifications"
+msgstr "Désactiver les notifications d'un chat"
+
+#: ../../chats(wsc)/toc.rst:177
+msgid "Edit details"
 msgstr ""
 
-#: ../../chats(wsc)/toc.rst:151 ../../chats/toc.rst:151 ../../chats/toc.rst:164
-msgid "Select the group to which you want to add members."
-msgstr "Sélectionnez le groupe auquel vous souhaitez ajouter des membres."
+#: ../../chats(wsc)/toc.rst:178
+msgid "Add new members"
+msgstr ""
 
-#: ../../chats(wsc)/toc.rst:152 ../../chats/toc.rst:152
+#: ../../chats(wsc)/toc.rst:179
+#, fuzzy
+msgid "Clear history"
+msgstr "Effacer l'historique d'un chat"
+
+#: ../../chats(wsc)/toc.rst:180 ../../chats(wsc)/toc.rst:236
+#, fuzzy
+msgid "Delete Group"
+msgstr "Quitter un groupe"
+
+#: ../../chats(wsc)/toc.rst:183
+#, fuzzy
+msgid "Mute Notifications of a Group"
+msgstr "Désactiver les notifications d'un chat"
+
+#: ../../chats(wsc)/toc.rst:185
+#, fuzzy
 msgid ""
-"On the right side of the Main Panel, click **Add new members**. A new "
-"window appears."
+"When you receive a new message in a group chat, you will see a "
+"notification on your screen to inform you. If you want to disable "
+"notifications for a specific group, follow these steps:"
 msgstr ""
-"Sur le côté droit du panneau principal, cliquez sur **Ajouter de nouveaux"
-" membres**. Une nouvelle fenêtre apparaît."
+"Lorsque vous recevez un nouveau message dans un chat individuel ou de "
+"groupe, vous verrez une notification à l'écran pour vous informer. Si "
+"vous souhaitez désactiver les notifications pour un chat ou un groupe "
+"spécifique, suivez ces étapes :"
 
-#: ../../chats(wsc)/toc.rst:153 ../../chats/toc.rst:153
-msgid "Begin typing the email address of the colleague you wish to add."
+#: ../../chats(wsc)/toc.rst:188
+#, fuzzy
+msgid "Select the group for which you want to mute notifications."
 msgstr ""
-"Commencez à saisir l'adresse e-mail du collègue que vous souhaitez "
-"ajouter."
+"Sélectionnez le chat ou le groupe pour lequel vous souhaitez désactiver "
+"les notifications."
 
-#: ../../chats(wsc)/toc.rst:154
-msgid "Click **ADD NEW MEMBERS** to confirm."
-msgstr ""
+#: ../../chats(wsc)/toc.rst:190
+#, fuzzy
+msgid "Click **MUTE** to confirm."
+msgstr "Cliquez sur **SUPPRIMER** pour confirmer."
 
-#: ../../chats(wsc)/toc.rst:156 ../../chats/toc.rst:156
+#: ../../chats(wsc)/toc.rst:194
 msgid ""
-"You can enable the checkbox labeled **Show previous conversation "
-"history** to allow members to view previous messages. Otherwise, they "
-"will not be able to see them."
+"Please note that if you mute notifications for a group, you will not "
+"receive any notifications for new messages in that group. However, you "
+"will still be able to see the messages when you open the group chat."
 msgstr ""
-"Vous pouvez activer la case à cocher **Afficher l'historique des "
-"conversations précédentes** pour permettre aux membres de consulter les "
-"messages précédents. Sinon, ils ne pourront pas les voir."
 
-#: ../../chats(wsc)/toc.rst:159 ../../chats/toc.rst:159
-msgid "Remove Participants from a Group"
-msgstr "Supprimer des participants d'un groupe"
-
-#: ../../chats(wsc)/toc.rst:161 ../../chats/toc.rst:161
-msgid "You can remove members from a group if you are a moderator. Here is how:"
+#: ../../chats(wsc)/toc.rst:197
+msgid "Edit Details of a Group"
 msgstr ""
-"Vous pouvez supprimer des membres d'un groupe si vous êtes un modérateur."
-" Voici comment procéder :"
 
-#: ../../chats(wsc)/toc.rst:163 ../../chats(wsc)/toc.rst:183
-#: ../../chats(wsc)/toc.rst:192 ../../chats(wsc)/toc.rst:204
+#: ../../chats(wsc)/toc.rst:199
+#, fuzzy
+msgid "To edit a group’s name or topic:"
+msgstr "Éditer le nom ou le sujet d'un groupe"
+
+#: ../../chats(wsc)/toc.rst:201 ../../chats(wsc)/toc.rst:213
 #: ../../chats/toc.rst:45 ../../chats/toc.rst:58 ../../chats/toc.rst:134
 #: ../../chats/toc.rst:150 ../../chats/toc.rst:163 ../../chats/toc.rst:173
 #: ../../chats/toc.rst:183 ../../chats/toc.rst:192 ../../chats/toc.rst:208
@@ -4959,85 +5320,11 @@ msgstr ""
 msgid "Select the **Chats feature** from your left sidebar."
 msgstr "Sélectionnez la fonction **Discussions** dans votre barre latérale gauche."
 
-#: ../../chats(wsc)/toc.rst:164
-msgid "Select the group to which you want to remove members."
-msgstr "Sélectionnez le groupe dont vous souhaitez supprimer les membres."
-
-#: ../../chats(wsc)/toc.rst:165
-msgid ""
-"On the right side of the Main Panel, under the Members section, click on "
-"the trash icon next to the user you want to remove."
-msgstr ""
-"Sur le côté droit du panneau principal, dans la section Membres, cliquez "
-"sur l'icône de la poubelle à côté de l'utilisateur que vous souhaitez "
-"supprimer."
-
-#: ../../chats(wsc)/toc.rst:166 ../../chats/toc.rst:166
-msgid "Click **REMOVE** to confirm."
-msgstr "Cliquez sur **SUPPRIMER** pour confirmer."
-
-#: ../../chats(wsc)/toc.rst:169 ../../chats/toc.rst:169
-msgid "Leave Group"
-msgstr "Quitter un groupe"
-
-#: ../../chats(wsc)/toc.rst:171 ../../chats/toc.rst:171
-msgid "To leave a group:"
-msgstr "Pour quitter un groupe :"
-
-#: ../../chats(wsc)/toc.rst:174 ../../chats/toc.rst:174
-msgid "Select the group you want to leave."
-msgstr "Sélectionnez le groupe que vous souhaitez quitter."
-
-#: ../../chats(wsc)/toc.rst:175
-msgid ""
-"On the right side of the Main Panel, under the Actions section, click "
-"**Leave Group**."
-msgstr ""
-"Sur le côté droit du panneau principal, sous la section Actions, cliquez "
-"sur **Quitter le groupe**."
-
-#: ../../chats(wsc)/toc.rst:176 ../../chats/toc.rst:176
-msgid "Click **LEAVE** to confirm."
-msgstr "Cliquez sur **QUITTER** pour confirmer."
-
-#: ../../chats(wsc)/toc.rst:179 ../../chats/toc.rst:179
-msgid "Assigning Moderators for A Group"
-msgstr "Attribuer des modérateurs pour un groupe"
-
-#: ../../chats(wsc)/toc.rst:181 ../../chats/toc.rst:181
-msgid ""
-"If you are already a moderator, you can assign other moderators to a "
-"group. Here is how:"
-msgstr ""
-"Si vous êtes déjà modérateur, vous pouvez attribuer d'autres modérateurs "
-"à un groupe. Voici comment procéder :"
-
-#: ../../chats(wsc)/toc.rst:184 ../../chats/toc.rst:184
-msgid "Select the group to which you want to add a moderator."
-msgstr "Sélectionnez le groupe auquel vous souhaitez ajouter un modérateur."
-
-#: ../../chats(wsc)/toc.rst:185
-msgid ""
-"On the right side of the Main Panel, under the Members section, click on "
-"the crown icon next to the user you want to appoint as a moderator."
-msgstr ""
-"Sur le côté droit du panneau principal, sous la section Membres, cliquez "
-"sur l'icône de couronne à côté de l'utilisateur que vous souhaitez nommer"
-" modérateur."
-
-#: ../../chats(wsc)/toc.rst:188
-msgid "Edit a Group's Name or Topic"
-msgstr "Éditer le nom ou le sujet d'un groupe"
-
-#: ../../chats(wsc)/toc.rst:190 ../../chats/toc.rst:190
-msgid "To edit a group’s name:"
-msgstr "Pour éditer le nom d'un groupe :"
-
-#: ../../chats(wsc)/toc.rst:193 ../../chats/toc.rst:193
+#: ../../chats(wsc)/toc.rst:202 ../../chats/toc.rst:193
 msgid "Select the group for which you want to change the name."
 msgstr "Sélectionnez le groupe pour lequel vous souhaitez modifier le nom."
 
-#: ../../chats(wsc)/toc.rst:194
+#: ../../chats(wsc)/toc.rst:203
 msgid ""
 "On the right side of the Main Panel, under the Actions section, click on "
 "the Edit details."
@@ -5045,66 +5332,93 @@ msgstr ""
 "Sur le côté droit du panneau principal, sous la section Actions, cliquez "
 "sur Éditer les détails."
 
-#: ../../chats(wsc)/toc.rst:195
+#: ../../chats(wsc)/toc.rst:204
 msgid "Edit the name or topic."
 msgstr "Éditez le nom ou le sujet."
 
-#: ../../chats(wsc)/toc.rst:196 ../../chats/toc.rst:196
+#: ../../chats(wsc)/toc.rst:205 ../../chats/toc.rst:196
 msgid "Press the save icon on the right."
 msgstr "Appuyez sur l'icône d'enregistrement sur la droite."
 
-#: ../../chats(wsc)/toc.rst:200 ../../chats/toc.rst:204
-msgid "Search for A Member in Your Chats List"
-msgstr "Rechercher un membre dans votre liste de discussions"
+#: ../../chats(wsc)/toc.rst:206
+#, fuzzy
+msgid "Click **SAVE** to confirm."
+msgstr "Cliquez sur **QUITTER** pour confirmer."
 
-#: ../../chats(wsc)/toc.rst:202 ../../chats/toc.rst:206
-msgid "To search for a colleague in your chat list:"
-msgstr "Pour rechercher un collègue dans votre liste de discussions :"
-
-#: ../../chats(wsc)/toc.rst:205
-msgid "In the Type to filter list field, insert your colleague's name."
-msgstr "Dans le champ Filtre de liste, insérez le nom de votre collègue."
-
-#: ../../chats(wsc)/toc.rst:208
-msgid "Exporting a Chat"
-msgstr "Exporter une conversation"
-
-#: ../../chats(wsc)/toc.rst:210
-msgid "If needed, you have the chance to export all the chats from your account."
+#: ../../chats(wsc)/toc.rst:209
+msgid "Add New Members to a Group"
 msgstr ""
-"Si nécessaire, vous avez la possibilité d'exporter toutes les discussions"
-" de votre compte."
 
-#: ../../chats(wsc)/toc.rst:212
-msgid "To export a chat simply:"
-msgstr "Pour exporter une conversation, procédez simplement de la façon suivante :"
+#: ../../chats(wsc)/toc.rst:211
+msgid "To add new members to a group:"
+msgstr ""
 
 #: ../../chats(wsc)/toc.rst:214
-msgid "Open Chats settings, clicking on gear icon in the left bar"
-msgstr ""
-"Ouvrez les paramètres des discussions en cliquant sur l'icône d'engrenage"
-" dans la barre latérale gauche"
+#, fuzzy
+msgid "Select the group to which you want to add new members."
+msgstr "Sélectionnez le groupe auquel vous souhaitez ajouter des membres."
 
 #: ../../chats(wsc)/toc.rst:215
-msgid "Go to \"Export Chat\" section"
-msgstr "Allez à la section **Exporter la conversation**"
+#, fuzzy
+msgid ""
+"On the right side of the Main Panel, under the Actions section, click on "
+"the Add new members."
+msgstr ""
+"Sur le côté droit du panneau principal, sous la section Actions, cliquez "
+"sur Éditer les détails."
 
 #: ../../chats(wsc)/toc.rst:216
-msgid "Select the chat you want to export"
-msgstr "Sélectionnez la conversation que vous souhaitez exporter"
-
-#: ../../chats(wsc)/toc.rst:217
+#, fuzzy
 msgid ""
-"After a while (depending on how many messages it contains) it will start "
-"the download process of the chat, in a .txt file format"
+"Begin typing the email address of the colleague you wish to add - and "
+"select the crown icon if you want to promote him as a moderator."
 msgstr ""
-"Après un moment (en fonction du nombre de messages qu'elle contient), "
-"elle démarrera le processus de téléchargement de la conversation, au "
-"format de fichier .txt"
+"Dans le champ suivant, commencez à saisir l'adresse e-mail des collègues "
+"que vous souhaitez ajouter au groupe."
+
+#: ../../chats(wsc)/toc.rst:218
+msgid "Click **ADD NEW MEMBERS** to confirm."
+msgstr ""
+
+#: ../../chats(wsc)/toc.rst:219
+msgid "(Optional) Repeat the process to add more members."
+msgstr ""
+
+#: ../../chats(wsc)/toc.rst:223
+#, fuzzy
+msgid "Clear History of a Group"
+msgstr "Effacer l'historique d'un chat"
+
+#: ../../chats(wsc)/toc.rst:225
+msgid ""
+"To clear the history of a specific group: #.      Select the **Chats "
+"feature** from your left sidebar. #.      Select the group you want to "
+"clear the history for. #.      On the right side of the Main Panel, under"
+" the Actions section, click on the Clear History. #.      Click **CLEAR "
+"HISTORY** to confirm. #.  (Optional) Repeat the process to clear the "
+"history of more groups."
+msgstr ""
+
+#: ../../chats(wsc)/toc.rst:232
+msgid ""
+"Please note that clearing the history of a group will remove all messages"
+" from the chat just for you, and you will not be able to retrieve them. "
+"However, you will still be able to see the group name and members, at the"
+" bottom of the chat list."
+msgstr ""
+
+#: ../../chats(wsc)/toc.rst:238
+msgid ""
+"To delete a group: #.      Select the **Chats feature** from your left "
+"sidebar. #.      Select the group you want to delete. #.      On the "
+"right side of the Main Panel, under the Actions section, click on the "
+"Delete Group. #.      Click **DELETE** to confirm."
+msgstr ""
 
 #: ../../chats/toc.rst:7
-msgid "Working with Chats"
-msgstr "Travailler avec les discussions"
+#, fuzzy
+msgid "Working with Chats :bdg-secondary:`LEGACY`"
+msgstr "Travail avec les calendriers"
 
 #: ../../chats/toc.rst:14
 #, fuzzy
@@ -5130,6 +5444,12 @@ msgid ""
 msgstr ""
 "Que ce soit pour partager des mises à jour, échanger des idées ou "
 "coordonner des tâches, les discussions offrent une plate-forme"
+
+#: ../../chats/toc.rst:29
+msgid ""
+"Now, this chat is added under the Chats tab, containing a list of all "
+"available chats."
+msgstr ""
 
 #: ../../chats/toc.rst:31
 msgid ""
@@ -5170,9 +5490,59 @@ msgstr ""
 "Dans le champ suivant, commencez à saisir l'adresse e-mail des collègues "
 "que vous souhaitez ajouter au groupe."
 
+#: ../../chats/toc.rst:141
+msgid "Now this group is added to your list under the Chats tab."
+msgstr "Maintenant, ce groupe est ajouté à votre"
+
+#: ../../chats/toc.rst:146
+msgid "Add Participants to a Group"
+msgstr ""
+
+#: ../../chats/toc.rst:148
+msgid "You can add new members to a group if you are a moderator. Here is how:"
+msgstr ""
+
+#: ../../chats/toc.rst:151 ../../chats/toc.rst:164
+msgid "Select the group to which you want to add members."
+msgstr "Sélectionnez le groupe auquel vous souhaitez ajouter des membres."
+
+#: ../../chats/toc.rst:152
+msgid ""
+"On the right side of the Main Panel, click **Add new members**. A new "
+"window appears."
+msgstr ""
+"Sur le côté droit du panneau principal, cliquez sur **Ajouter de nouveaux"
+" membres**. Une nouvelle fenêtre apparaît."
+
+#: ../../chats/toc.rst:153
+msgid "Begin typing the email address of the colleague you wish to add."
+msgstr ""
+"Commencez à saisir l'adresse e-mail du collègue que vous souhaitez "
+"ajouter."
+
 #: ../../chats/toc.rst:154
 msgid "Click **SAVE**."
 msgstr "Cliquez sur **ENREGISTRER**."
+
+#: ../../chats/toc.rst:156
+msgid ""
+"You can enable the checkbox labeled **Show previous conversation "
+"history** to allow members to view previous messages. Otherwise, they "
+"will not be able to see them."
+msgstr ""
+"Vous pouvez activer la case à cocher **Afficher l'historique des "
+"conversations précédentes** pour permettre aux membres de consulter les "
+"messages précédents. Sinon, ils ne pourront pas les voir."
+
+#: ../../chats/toc.rst:159
+msgid "Remove Participants from a Group"
+msgstr "Supprimer des participants d'un groupe"
+
+#: ../../chats/toc.rst:161
+msgid "You can remove members from a group if you are a moderator. Here is how:"
+msgstr ""
+"Vous pouvez supprimer des membres d'un groupe si vous êtes un modérateur."
+" Voici comment procéder :"
 
 #: ../../chats/toc.rst:165
 msgid ""
@@ -5183,9 +5553,45 @@ msgstr ""
 " cliquez sur l'icône de la corbeille à côté de l'utilisateur que vous "
 "souhaitez supprimer."
 
+#: ../../chats/toc.rst:166
+msgid "Click **REMOVE** to confirm."
+msgstr "Cliquez sur **SUPPRIMER** pour confirmer."
+
+#: ../../chats/toc.rst:169
+msgid "Leave Group"
+msgstr "Quitter un groupe"
+
+#: ../../chats/toc.rst:171
+msgid "To leave a group:"
+msgstr "Pour quitter un groupe :"
+
+#: ../../chats/toc.rst:174
+msgid "Select the group you want to leave."
+msgstr "Sélectionnez le groupe que vous souhaitez quitter."
+
 #: ../../chats/toc.rst:175
 msgid "On the right side of the Main Panel, click **Leave Group**."
 msgstr "Sur le côté droit du panneau principal, cliquez sur **Quitter le groupe**."
+
+#: ../../chats/toc.rst:176
+msgid "Click **LEAVE** to confirm."
+msgstr "Cliquez sur **QUITTER** pour confirmer."
+
+#: ../../chats/toc.rst:179
+msgid "Assigning Moderators for A Group"
+msgstr "Attribuer des modérateurs pour un groupe"
+
+#: ../../chats/toc.rst:181
+msgid ""
+"If you are already a moderator, you can assign other moderators to a "
+"group. Here is how:"
+msgstr ""
+"Si vous êtes déjà modérateur, vous pouvez attribuer d'autres modérateurs "
+"à un groupe. Voici comment procéder :"
+
+#: ../../chats/toc.rst:184
+msgid "Select the group to which you want to add a moderator."
+msgstr "Sélectionnez le groupe auquel vous souhaitez ajouter un modérateur."
 
 #: ../../chats/toc.rst:185
 msgid ""
@@ -5200,6 +5606,10 @@ msgstr ""
 #: ../../chats/toc.rst:188
 msgid "Edit a Group's Name"
 msgstr "Modifier le nom d'un groupe"
+
+#: ../../chats/toc.rst:190
+msgid "To edit a group’s name:"
+msgstr "Pour éditer le nom d'un groupe :"
 
 #: ../../chats/toc.rst:194
 msgid ""
@@ -5224,6 +5634,14 @@ msgid ""
 "button, and the group will be duplicated, redirecting you to the exported"
 " group in the new chat."
 msgstr ""
+
+#: ../../chats/toc.rst:204
+msgid "Search for A Member in Your Chats List"
+msgstr "Rechercher un membre dans votre liste de discussions"
+
+#: ../../chats/toc.rst:206
+msgid "To search for a colleague in your chat list:"
+msgstr "Pour rechercher un collègue dans votre liste de discussions :"
 
 #: ../../chats/toc.rst:209
 msgid "Under the **Filter chats list** field, insert your colleague's name."
@@ -6372,7 +6790,7 @@ msgstr "Pour créer un dossier dans les fichiers :"
 #: ../../files/toc.rst:237 ../../files/toc.rst:255 ../../files/toc.rst:267
 #: ../../files/toc.rst:280 ../../files/toc.rst:296 ../../files/toc.rst:308
 #: ../../files/toc.rst:323 ../../files/toc.rst:337 ../../files/toc.rst:353
-#: ../../files/toc.rst:364 ../../files/toc.rst:466 ../../files/toc.rst:478
+#: ../../files/toc.rst:364 ../../files/toc.rst:470 ../../files/toc.rst:482
 msgid "Select the **Files feature** from your left sidebar."
 msgstr ""
 
@@ -6414,7 +6832,7 @@ msgstr "Pour télécharger des fichiers de documents depuis votre ordinateur :"
 
 #: ../../files/toc.rst:56 ../../files/toc.rst:211 ../../files/toc.rst:386
 #: ../../files/toc.rst:408 ../../files/toc.rst:424 ../../files/toc.rst:435
-#: ../../files/toc.rst:448
+#: ../../files/toc.rst:450
 msgid "Select the **Files** feature from your left sidebar."
 msgstr "Sélectionnez la fonction **Fichiers** dans votre barre latérale gauche."
 
@@ -7078,7 +7496,7 @@ msgid ""
 "depending on the privileges you want to grant to the recipient."
 msgstr ""
 
-#: ../../files/toc.rst:358 ../../files/toc.rst:371 ../../files/toc.rst:455
+#: ../../files/toc.rst:358 ../../files/toc.rst:371 ../../files/toc.rst:457
 msgid ""
 "Copy the generated link by clicking on it. The link will be saved to your"
 " clipboard and can be pasted anywhere by right-clicking and selecting "
@@ -7098,17 +7516,17 @@ msgstr ""
 msgid "To send the link to external collaborators:"
 msgstr ""
 
-#: ../../files/toc.rst:368 ../../files/toc.rst:451
+#: ../../files/toc.rst:368 ../../files/toc.rst:453
 msgid ""
 "Under the **Public download links** section, click on the **ADD LINK** "
 "button."
 msgstr ""
 
-#: ../../files/toc.rst:369 ../../files/toc.rst:452
+#: ../../files/toc.rst:369 ../../files/toc.rst:454
 msgid "Insert a description for the link and an expiration date."
 msgstr ""
 
-#: ../../files/toc.rst:370 ../../files/toc.rst:453
+#: ../../files/toc.rst:370 ../../files/toc.rst:455
 msgid "Click the **GENERATE LINK** button on the right."
 msgstr ""
 
@@ -7134,8 +7552,8 @@ msgid "Click on the folder or file you want to share."
 msgstr ""
 
 #: ../../files/toc.rst:388 ../../files/toc.rst:410 ../../files/toc.rst:426
-#: ../../files/toc.rst:438 ../../files/toc.rst:450 ../../files/toc.rst:468
-#: ../../files/toc.rst:480
+#: ../../files/toc.rst:438 ../../files/toc.rst:452 ../../files/toc.rst:472
+#: ../../files/toc.rst:484
 msgid ""
 "On the right side of the Main Panel, you will find different tabs. Click "
 "**Sharing**."
@@ -7241,8 +7659,8 @@ msgstr ""
 msgid "To generate a collaboration link for your colleagues:"
 msgstr ""
 
-#: ../../files/toc.rst:437 ../../files/toc.rst:449 ../../files/toc.rst:467
-#: ../../files/toc.rst:479
+#: ../../files/toc.rst:437 ../../files/toc.rst:451 ../../files/toc.rst:471
+#: ../../files/toc.rst:483
 msgid "Navigate to the file or folder and click on it."
 msgstr ""
 
@@ -7251,56 +7669,59 @@ msgid ""
 "You can copy the generated link by clicking on it. The link will be saved"
 " to your clipboard and can be pasted anywhere by right-clicking and "
 "selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows "
-"or Command+V on macOS."
-msgstr ""
-
-#: ../../files/toc.rst:444
-msgid "Generating Public Download Links for External Users"
+"or Command+V on macOS. In the current release, you can generate up to a "
+"maximum of 50 public links for each file you want to share. If you have "
+"any doubts, please contact your system administrator. The public link has"
+" been extended to enhance security."
 msgstr ""
 
 #: ../../files/toc.rst:446
+msgid "Generating Public Download Links for External Users"
+msgstr ""
+
+#: ../../files/toc.rst:448
 msgid "To generate a sharing link external user:"
 msgstr ""
 
-#: ../../files/toc.rst:462
+#: ../../files/toc.rst:466
 msgid "Extending the Expiration Date of a Public Access Link"
 msgstr ""
 
-#: ../../files/toc.rst:464
+#: ../../files/toc.rst:468
 msgid "To extend the expiration date for a public access link:"
 msgstr ""
 
-#: ../../files/toc.rst:469
+#: ../../files/toc.rst:473
 msgid "Under the **Public download links** section, click on the **EDIT** button."
 msgstr ""
 
-#: ../../files/toc.rst:470
+#: ../../files/toc.rst:474
 msgid "Edit the expiration date."
 msgstr ""
 
-#: ../../files/toc.rst:471
+#: ../../files/toc.rst:475
 msgid "Click the **EDIT LINK** button on the right."
 msgstr ""
 
-#: ../../files/toc.rst:474
+#: ../../files/toc.rst:478
 msgid "Revoking Public Access Links"
 msgstr ""
 
-#: ../../files/toc.rst:476
+#: ../../files/toc.rst:480
 msgid "To revoke a public access link:"
 msgstr ""
 
-#: ../../files/toc.rst:481
+#: ../../files/toc.rst:485
 msgid ""
 "Under the **Public download links** section, click on the **REVOKE** "
 "button."
 msgstr ""
 
-#: ../../files/toc.rst:485
+#: ../../files/toc.rst:489
 msgid "Exceeding Files quota limit"
 msgstr ""
 
-#: ../../files/toc.rst:487
+#: ../../files/toc.rst:491
 msgid ""
 "If you overcome the quota limit for **Files**, documents will be opened "
 "in *read-only mode*: this will also be enforced by a label that appears "
@@ -7311,7 +7732,14 @@ msgid ""
 "changes made to the document."
 msgstr ""
 
-#: ../../files/toc.rst:495
+#: ../../files/toc.rst:499
+msgid ""
+"While editing a shared document, if the file quota limit is reached or "
+"changed, a warning message will appear on saving. You can still proceed "
+"by downloading the document and saving your changes locally."
+msgstr ""
+
+#: ../../files/toc.rst:501
 msgid ""
 "For the **Files** quota limitation, you should contact your system "
 "administrator."
@@ -7412,7 +7840,7 @@ msgstr ""
 msgid "Install the Google Authenticator app on your mobile device"
 msgstr ""
 
-#: ../../get_started/toc.rst:40 ../../get_started/toc.rst:82
+#: ../../get_started/toc.rst:40 ../../get_started/toc.rst:89
 msgid "Scanning the QR Code:"
 msgstr ""
 
@@ -7434,7 +7862,7 @@ msgid ""
 "updates every 30 seconds"
 msgstr ""
 
-#: ../../get_started/toc.rst:47 ../../get_started/toc.rst:87
+#: ../../get_started/toc.rst:47 ../../get_started/toc.rst:94
 msgid "Logging In with 2FA:"
 msgstr "Connexion avec l'authentification à 2 facteurs :"
 
@@ -7445,11 +7873,11 @@ msgstr ""
 "La prochaine fois que vous vous connectez à votre webmail Carbonio, "
 "suivez ces étapes :"
 
-#: ../../get_started/toc.rst:51 ../../get_started/toc.rst:91
+#: ../../get_started/toc.rst:51 ../../get_started/toc.rst:98
 msgid "> Enter your **username** and **password**;"
 msgstr "> Entrez votre **nom d'utilisateur** et votre **mot de passe** ;"
 
-#: ../../get_started/toc.rst:53 ../../get_started/toc.rst:93
+#: ../../get_started/toc.rst:53 ../../get_started/toc.rst:100
 msgid ""
 "> If prompted for the second-factor authentication, open the Google "
 "Authenticator app;"
@@ -7457,7 +7885,7 @@ msgstr ""
 "> Si vous êtes invité à une authentification à deux facteurs, ouvrez "
 "l'application Google Authenticator ;"
 
-#: ../../get_started/toc.rst:55 ../../get_started/toc.rst:95
+#: ../../get_started/toc.rst:55 ../../get_started/toc.rst:102
 msgid "> Insert the **code** from the app on your login page;"
 msgstr "> Insérez le **code** de l'application sur votre page de connexion ;"
 
@@ -7472,10 +7900,10 @@ msgstr "Configuration de l'authentification à deux facteurs (2FA)"
 #: ../../get_started/toc.rst:63
 #, fuzzy
 msgid ""
-"If you are not forced to use 2FA on your login prompts, you can manually "
-"set it up via your web client settings, if your system administrator gave"
-" you the proper permission. By following these steps, you will enhance "
-"the security of your |product| webmail account."
+"If you are not required to use 2FA on your login prompts, you can "
+"manually set it up via your web client settings, if your system "
+"administrator gave you the proper permission. By following these steps, "
+"you will enhance the security of your |product| webmail account."
 msgstr ""
 "Si vous n'êtes pas obligé d'utiliser l'authentification à 2 facteurs lors"
 " de vos invites de connexion, vous pouvez la configurer manuellement via "
@@ -7522,10 +7950,32 @@ msgid "Hit the CREATE PASSWORD button."
 msgstr "Appuyez sur le bouton **CRÉER UN MOT DE PASSE**."
 
 #: ../../get_started/toc.rst:77
+msgid ""
+"NOTE: If you enter an incorrect OTP (One-Time Password) code more than 10"
+" times, the associated auth device is automatically removed for security "
+"reasons. This mechanism ensures security by preventing brute-force "
+"attacks on OTP authentication:"
+msgstr ""
+
+#: ../../get_started/toc.rst:80
+msgid "The auth device is removed from the list of allowed OTP authentications."
+msgstr ""
+
+#: ../../get_started/toc.rst:81
+msgid ""
+"You will no longer see the device in the Auth - OTP Authentication "
+"section."
+msgstr ""
+
+#: ../../get_started/toc.rst:82
+msgid "You must reconfigure a new device to continue using OTP authentication."
+msgstr ""
+
+#: ../../get_started/toc.rst:84
 msgid "Install Google Authenticator:"
 msgstr "Installation de Google Authenticator :"
 
-#: ../../get_started/toc.rst:79
+#: ../../get_started/toc.rst:86
 msgid ""
 "Install the **Google Authenticator app** on your mobile device (available"
 " on both Android and iOS)."
@@ -7533,36 +7983,36 @@ msgstr ""
 "Installez l'**application Google Authenticator** sur votre appareil "
 "mobile (disponible sur Android et iOS)."
 
-#: ../../get_started/toc.rst:80
+#: ../../get_started/toc.rst:87
 msgid "Open the app and press the “+” button in the bottom right corner."
 msgstr "Ouvrez l'application et appuyez sur le bouton « + » en bas à droite."
 
-#: ../../get_started/toc.rst:84
+#: ../../get_started/toc.rst:91
 msgid "Use the app to **scan the QR code** displayed during the setup process."
 msgstr ""
 
-#: ../../get_started/toc.rst:85
+#: ../../get_started/toc.rst:92
 msgid ""
 "This creates an instance in the app that generates a **temporary code** "
 "that updates every 30 seconds."
 msgstr ""
 
-#: ../../get_started/toc.rst:89
+#: ../../get_started/toc.rst:96
 #, fuzzy
 msgid "The next time you log in to your |product| webmail, follow these steps:"
 msgstr ""
 "La prochaine fois que vous vous connectez à votre webmail Carbonio, "
 "suivez ces étapes :"
 
-#: ../../get_started/toc.rst:97
+#: ../../get_started/toc.rst:104
 msgid "> Click **LOGIN**.."
 msgstr "> Cliquez sur **CONNEXION**.."
 
-#: ../../get_started/toc.rst:101
+#: ../../get_started/toc.rst:108
 msgid "Using SAML to Sign In"
 msgstr ""
 
-#: ../../get_started/toc.rst:103
+#: ../../get_started/toc.rst:110
 msgid ""
 "**SAML** stands for **Security Assertion Markup Language**. It is like a "
 "secret handshake between different websites and apps to make sure you are"
@@ -7570,111 +8020,111 @@ msgid ""
 "multiple places without needing a separate key for each door."
 msgstr ""
 
-#: ../../get_started/toc.rst:105
+#: ../../get_started/toc.rst:112
 msgid ""
 "You have generally two ways to use SAML functionality to sign in to your "
 "|product| account:"
 msgstr ""
 
-#: ../../get_started/toc.rst:107
+#: ../../get_started/toc.rst:114
 msgid "First Flow:"
 msgstr ""
 
-#: ../../get_started/toc.rst:109
+#: ../../get_started/toc.rst:116
 msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:110
+#: ../../get_started/toc.rst:117
 msgid "Click it, and it will automatically sign you into your webmail."
 msgstr ""
 
-#: ../../get_started/toc.rst:111
+#: ../../get_started/toc.rst:118
 msgid ""
 "Important: You must already be logged into your **identity provider "
 "service** (like Okta or other services provided by your system "
 "administrator)."
 msgstr ""
 
-#: ../../get_started/toc.rst:112
+#: ../../get_started/toc.rst:119
 msgid ""
 "If you are not sure how to log into your identity provider, reach out to "
 "your **system administrator** for assistance."
 msgstr ""
 
-#: ../../get_started/toc.rst:114
+#: ../../get_started/toc.rst:121
 msgid "Second Flow:"
 msgstr ""
 
-#: ../../get_started/toc.rst:116
+#: ../../get_started/toc.rst:123
 msgid ""
 "First, log in to your **identity provider service** (e.g., Okta or other "
 "services provided by your system administrator)."
 msgstr ""
 
-#: ../../get_started/toc.rst:117
+#: ../../get_started/toc.rst:124
 msgid "Once you are logged in there, simply click on the **|product| mail app**."
 msgstr ""
 
-#: ../../get_started/toc.rst:118
+#: ../../get_started/toc.rst:125
 msgid ""
 "SAML will seamlessly take you to your webmail without requiring you to "
 "insert your credentials."
 msgstr ""
 
-#: ../../get_started/toc.rst:122
+#: ../../get_started/toc.rst:129
 msgid "Signing Out"
 msgstr ""
 
-#: ../../get_started/toc.rst:124
+#: ../../get_started/toc.rst:131
 msgid ""
 "To ensure the security of your |product| web client, it is essential to "
 "sign out when you are away from your computer. Here are two "
 "straightforward methods to log out:"
 msgstr ""
 
-#: ../../get_started/toc.rst:126
+#: ../../get_started/toc.rst:133
 msgid "Using the Account Icon:"
 msgstr "En utilisant l'icône de compte :"
 
-#: ../../get_started/toc.rst:128
+#: ../../get_started/toc.rst:135
 msgid ""
 "Click on the account icon located in the top-right corner of the webmail "
 "interface."
 msgstr "Cliquez sur"
 
-#: ../../get_started/toc.rst:129
+#: ../../get_started/toc.rst:136
 msgid "Select the **Logout** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:130
+#: ../../get_started/toc.rst:137
 msgid "You will be securely signed out."
 msgstr ""
 
-#: ../../get_started/toc.rst:132
+#: ../../get_started/toc.rst:139
 msgid "Via General Settings:"
 msgstr ""
 
-#: ../../get_started/toc.rst:134
+#: ../../get_started/toc.rst:141
 msgid "Click the **gear icon** on the left sidebar panel to access settings."
 msgstr ""
 
-#: ../../get_started/toc.rst:135
+#: ../../get_started/toc.rst:142
 msgid "Navigate to General Settings."
 msgstr ""
 
-#: ../../get_started/toc.rst:136
+#: ../../get_started/toc.rst:143
 msgid ""
 "In the **Account** section, click the **LOGOUT** button, and you will be "
 "successfully logged out."
 msgstr ""
 
-#: ../../get_started/toc.rst:138
+#: ../../get_started/toc.rst:145
 msgid ""
 "For security purposes, your system administrator might set a maximum "
 "duration for your login session."
 msgstr ""
 
-#: ../../get_started/toc.rst:140
+#: ../../get_started/toc.rst:147
 msgid ""
 "When your session is about to expire, you will be notified in advance "
 "through the bottom left bar, which will display the remaining time: 10 "
@@ -7683,11 +8133,11 @@ msgid ""
 "You can simply log back in as usual to continue working."
 msgstr ""
 
-#: ../../get_started/toc.rst:144
+#: ../../get_started/toc.rst:151
 msgid "In Case of Forgetting Your Password"
 msgstr ""
 
-#: ../../get_started/toc.rst:146
+#: ../../get_started/toc.rst:153
 msgid ""
 "To start the password recovery procedure, you need to enter the recovery "
 "address in the **Auth** panel, in the **Settings** section. "
@@ -7695,47 +8145,47 @@ msgid ""
 "for your account."
 msgstr ""
 
-#: ../../get_started/toc.rst:148
+#: ../../get_started/toc.rst:155
 msgid ""
 "If in the Auth panel - Settings section - you do not see the field to set"
 " a recovery address, it means that the administrator has not enabled your"
 " account for the recovery process."
 msgstr ""
 
-#: ../../get_started/toc.rst:150
+#: ../../get_started/toc.rst:157
 msgid "If you forgot your password, follow these steps:"
 msgstr "Si vous avez oublié votre mot de passe, suivez ces étapes :"
 
-#: ../../get_started/toc.rst:157
+#: ../../get_started/toc.rst:164
 msgid "Click on the **Forget Password?** Button, from the login page."
 msgstr ""
 
-#: ../../get_started/toc.rst:158
+#: ../../get_started/toc.rst:165
 msgid "Enter your username."
 msgstr ""
 
-#: ../../get_started/toc.rst:159
+#: ../../get_started/toc.rst:166
 msgid "You will receive an email at your recovery email address."
 msgstr ""
 
-#: ../../get_started/toc.rst:160
+#: ../../get_started/toc.rst:167
 msgid ""
 "A temporary **validation code**, that expires in twenty-four hours, will "
 "be sent to the recovery e-mail address."
 msgstr ""
 
-#: ../../get_started/toc.rst:161
+#: ../../get_started/toc.rst:168
 msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
 msgstr ""
 
-#: ../../get_started/toc.rst:162
+#: ../../get_started/toc.rst:169
 msgid ""
 "If the code is validated, you can :bdg-primary-line:`CONTINUE WITH YOUR "
 "SESSION`, access your mailbox and then add a new password in the "
 "Settings's module, where you can also change the recovery address."
 msgstr ""
 
-#: ../../get_started/toc.rst:164
+#: ../../get_started/toc.rst:171
 msgid ""
 "If your system administrator has not configured a recovery email for your"
 " account, or you have not inserted your own recovery email address, when "
@@ -7743,18 +8193,18 @@ msgid ""
 "email, you will encounter an error message."
 msgstr ""
 
-#: ../../get_started/toc.rst:166
+#: ../../get_started/toc.rst:173
 msgid ""
 "The error will prompt you to **contact your system administrator**. In "
 "this scenario, **the only way to log into your account** is by seeking "
 "assistance from your system administrator."
 msgstr ""
 
-#: ../../get_started/toc.rst:170
+#: ../../get_started/toc.rst:177
 msgid "Changing Your Password"
 msgstr ""
 
-#: ../../get_started/toc.rst:172
+#: ../../get_started/toc.rst:179
 msgid ""
 "Resetting a password becomes necessary when you want to update your "
 "existing password due to security reasons or any other relevant factors. "
@@ -7762,47 +8212,47 @@ msgid ""
 "the steps to change your password:"
 msgstr ""
 
-#: ../../get_started/toc.rst:174
+#: ../../get_started/toc.rst:181
 msgid "Log into your account."
 msgstr ""
 
-#: ../../get_started/toc.rst:175
+#: ../../get_started/toc.rst:182
 msgid "Click on the **settings** (gear icon) located in the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:176
+#: ../../get_started/toc.rst:183
 msgid "Select **Auth**."
 msgstr ""
 
-#: ../../get_started/toc.rst:177
+#: ../../get_started/toc.rst:184
 msgid "Click on Change Password."
 msgstr "Cliquez sur Changer le mot de passe."
 
-#: ../../get_started/toc.rst:178
+#: ../../get_started/toc.rst:185
 msgid "Enter your **old password** along with your new password."
 msgstr ""
 
-#: ../../get_started/toc.rst:179
+#: ../../get_started/toc.rst:186
 msgid "Click the **CHANGE PASSWORD** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:187
+#: ../../get_started/toc.rst:194
 msgid "Introduction of |product| Web Client"
 msgstr ""
 
-#: ../../get_started/toc.rst:189
+#: ../../get_started/toc.rst:196
 msgid ""
 "When you log in to check your emails, the **|product| web client "
 "interface** greets you with the following components:"
 msgstr ""
 
-#: ../../get_started/toc.rst:196
+#: ../../get_started/toc.rst:203
 msgid ""
 "**Left Sidebar**: This section provides navigation options and quick "
 "access to various features such as Mails, Calendars, Contacts, etc."
 msgstr ""
 
-#: ../../get_started/toc.rst:197
+#: ../../get_started/toc.rst:204
 msgid ""
 "**Navigation Panel**: Here, you will find additional context related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -7810,7 +8260,7 @@ msgid ""
 " inboxes and email folders here."
 msgstr ""
 
-#: ../../get_started/toc.rst:198
+#: ../../get_started/toc.rst:205
 msgid ""
 "**Main Panel**: The central area displays your actual content related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -7819,11 +8269,11 @@ msgid ""
 "events."
 msgstr ""
 
-#: ../../get_started/toc.rst:201
+#: ../../get_started/toc.rst:208
 msgid "Using Browser Buttons to Navigate |product|"
 msgstr ""
 
-#: ../../get_started/toc.rst:203
+#: ../../get_started/toc.rst:210
 msgid ""
 "It is recommended to avoid using your browser’s navigation buttons too "
 "frequently, especially when you are in the middle of composing an email "
@@ -7831,19 +8281,19 @@ msgid ""
 " you to lose what you are doing. So, proceed with caution."
 msgstr ""
 
-#: ../../get_started/toc.rst:205
+#: ../../get_started/toc.rst:212
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on |product|."
 msgstr ""
 
-#: ../../get_started/toc.rst:206
+#: ../../get_started/toc.rst:213
 msgid ""
 "**Forward Button**: If you have gone back and want to revisit a page you "
 "just left, click the forward button."
 msgstr ""
 
-#: ../../get_started/toc.rst:207
+#: ../../get_started/toc.rst:214
 msgid ""
 "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
 "Clicking it restarts your session, which can be especially dangerous when"
@@ -7851,11 +8301,11 @@ msgid ""
 "work."
 msgstr ""
 
-#: ../../get_started/toc.rst:210
+#: ../../get_started/toc.rst:217
 msgid "Account Personalization"
 msgstr ""
 
-#: ../../get_started/toc.rst:212
+#: ../../get_started/toc.rst:219
 msgid ""
 "Before you start using the |product| web client, take a moment to "
 "personalize your account. You can customize visual aspects such as the "
@@ -7865,110 +8315,110 @@ msgid ""
 "select **General Settings**."
 msgstr ""
 
-#: ../../get_started/toc.rst:216
+#: ../../get_started/toc.rst:223
 msgid "Changing Theme"
 msgstr ""
 
-#: ../../get_started/toc.rst:218
+#: ../../get_started/toc.rst:225
 msgid ""
 "A theme in the |product| web client defines the color scheme used for its"
 " appearance. Currently, there are **two themes** available: **Dark mode**"
 " and **Light mode**. Here is how you can manage them:"
 msgstr ""
 
-#: ../../get_started/toc.rst:220
+#: ../../get_started/toc.rst:227
 msgid "To **activate Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:222
+#: ../../get_started/toc.rst:229
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:224
+#: ../../get_started/toc.rst:231
 msgid "Under **Theme Options**, open the dropdown menu."
 msgstr ""
 
-#: ../../get_started/toc.rst:225
+#: ../../get_started/toc.rst:232
 msgid "Click on **Enabled**."
 msgstr ""
 
-#: ../../get_started/toc.rst:226
+#: ../../get_started/toc.rst:233
 msgid ""
 "Click on the **SAVE** button located in the **top right corner** of the "
 "screen."
 msgstr ""
 
-#: ../../get_started/toc.rst:228
+#: ../../get_started/toc.rst:235
 msgid "To **disable Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:230
+#: ../../get_started/toc.rst:237
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr ""
 
-#: ../../get_started/toc.rst:232
+#: ../../get_started/toc.rst:239
 msgid ""
 "If you choose **Auto**, |product| will adapt to your **operating system’s"
 " default theme**. For example:"
 msgstr ""
 
-#: ../../get_started/toc.rst:234
+#: ../../get_started/toc.rst:241
 msgid "If your OS theme is dark, |product| will also be in dark mode."
 msgstr ""
 
-#: ../../get_started/toc.rst:235
+#: ../../get_started/toc.rst:242
 msgid "If your OS theme is light, |product| will match that as well."
 msgstr ""
 
-#: ../../get_started/toc.rst:243
+#: ../../get_started/toc.rst:250
 msgid "Changing Font Size"
 msgstr ""
 
-#: ../../get_started/toc.rst:245
+#: ../../get_started/toc.rst:252
 msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:247 ../../get_started/toc.rst:266
-#: ../../get_started/toc.rst:281
+#: ../../get_started/toc.rst:254 ../../get_started/toc.rst:273
+#: ../../get_started/toc.rst:288
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:249
+#: ../../get_started/toc.rst:256
 msgid ""
 "Under the **Appearance** section, find the slider for adjusting the font "
 "size."
 msgstr ""
 
-#: ../../get_started/toc.rst:250
+#: ../../get_started/toc.rst:257
 msgid ""
 "If you want to manually control the font size, uncheck the option that "
 "says *Automatically resize the text size depending on the device*."
 msgstr ""
 
-#: ../../get_started/toc.rst:251
+#: ../../get_started/toc.rst:258
 msgid ""
 "Use the slider to set the font size to your preference. As you move the "
 "slider, you will see the results in the bottom box with some dummy text."
 msgstr ""
 
-#: ../../get_started/toc.rst:252
+#: ../../get_started/toc.rst:259
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:254
+#: ../../get_started/toc.rst:261
 msgid ""
 "Remember, if you prefer automatic resizing based on the device, you can "
 "leave the checkbox checked. Otherwise, adjust the font size manually "
 "using the slider."
 msgstr ""
 
-#: ../../get_started/toc.rst:262
+#: ../../get_started/toc.rst:269
 msgid "Changing Your Time Zone"
 msgstr ""
 
-#: ../../get_started/toc.rst:264
+#: ../../get_started/toc.rst:271
 msgid ""
 "As a digital workspace, |product| relies on precise time zone settings to"
 " ensure optimal performance for calendars and other features like emails,"
@@ -7977,36 +8427,36 @@ msgid ""
 " To change your time zone, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:268
+#: ../../get_started/toc.rst:275
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Time Zone** and choose your time zone."
 msgstr ""
 
-#: ../../get_started/toc.rst:269 ../../get_started/toc.rst:284
+#: ../../get_started/toc.rst:276 ../../get_started/toc.rst:291
 msgid "Click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:277
+#: ../../get_started/toc.rst:284
 msgid "Changing |product| Language"
 msgstr ""
 
-#: ../../get_started/toc.rst:279
+#: ../../get_started/toc.rst:286
 #, fuzzy
 msgid "To change your |product| web client language, follow these steps:"
 msgstr "Pour accéder à votre salle virtuelle et y entrer, suivez ces étapes :"
 
-#: ../../get_started/toc.rst:283
+#: ../../get_started/toc.rst:290
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Language** and choose your language."
 msgstr ""
 
-#: ../../get_started/toc.rst:287
+#: ../../get_started/toc.rst:294
 msgid "Accessing Multiple Accounts"
 msgstr ""
 
-#: ../../get_started/toc.rst:289
+#: ../../get_started/toc.rst:296
 msgid ""
 "On the |product| web client, you have access to multiple accounts. Let's "
 "say you have your personal account, as well as two additional accounts "
@@ -8017,7 +8467,7 @@ msgid ""
 "main account."
 msgstr ""
 
-#: ../../get_started/toc.rst:295
+#: ../../get_started/toc.rst:302
 msgid ""
 "So, when you sign into your main account, you will see these two "
 "additional accounts listed under your main account. To access these "
@@ -8033,7 +8483,7 @@ msgstr "Bienvenue dans la Documentation Utilisateur de |carbonio| !"
 
 #: ../../index.rst:14
 msgid ""
-"This is the documentation of ||product||, the fully private digital "
+"This is the documentation of |product|, the fully private digital "
 "workplace."
 msgstr ""
 
@@ -8524,7 +8974,7 @@ msgid "Select **Complete** from the drop-down menu."
 msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:7
-msgid "Working with Video Meetings(WSC) :bdg-info:`NEW`"
+msgid "Working with Video Meetings(WSC)"
 msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:13
@@ -8554,11 +9004,11 @@ msgstr ""
 msgid "To create a new room:"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:22 ../../videomeetings(wsc)/toc.rst:41
-#: ../../videomeetings(wsc)/toc.rst:51 ../../videomeetings(wsc)/toc.rst:63
-#: ../../videomeetings(wsc)/toc.rst:75 ../../videomeetings(wsc)/toc.rst:84
-#: ../../videomeetings(wsc)/toc.rst:161 ../../videomeetings/toc.rst:23
-#: ../../videomeetings/toc.rst:212
+#: ../../videomeetings(wsc)/toc.rst:22 ../../videomeetings(wsc)/toc.rst:42
+#: ../../videomeetings(wsc)/toc.rst:51 ../../videomeetings(wsc)/toc.rst:64
+#: ../../videomeetings(wsc)/toc.rst:76 ../../videomeetings(wsc)/toc.rst:88
+#: ../../videomeetings(wsc)/toc.rst:97 ../../videomeetings(wsc)/toc.rst:176
+#: ../../videomeetings/toc.rst:23 ../../videomeetings/toc.rst:212
 msgid "Select the Chats feature from your left sidebar."
 msgstr ""
 
@@ -8576,7 +9026,13 @@ msgstr ""
 msgid "Insert a name for the room in the field and click on the checkmark icon."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:27
+#: ../../videomeetings(wsc)/toc.rst:26
+msgid ""
+"Choose the room's moderators, who will have the ability to manage the "
+"room."
+msgstr ""
+
+#: ../../videomeetings(wsc)/toc.rst:28
 msgid ""
 "Your room has been successfully created and will be accessible through "
 "the same YOUR VIRTUAL ROOMS button."
@@ -8584,7 +9040,7 @@ msgstr ""
 "Votre salle a été créée avec succès et sera accessible via le même bouton"
 " VOS SALLES VIRTUELLES."
 
-#: ../../videomeetings(wsc)/toc.rst:29
+#: ../../videomeetings(wsc)/toc.rst:30
 msgid ""
 "You can use the link icon beside your room’s name to copy the room's "
 "link. Upon clicking the button, the link will be copied to your "
@@ -8601,11 +9057,11 @@ msgstr ""
 "command+V sur macOS. Vous pouvez utiliser l'icône de la flèche à côté du "
 "nom de votre salle pour entrer dans la salle."
 
-#: ../../videomeetings(wsc)/toc.rst:34
+#: ../../videomeetings(wsc)/toc.rst:35
 msgid "Managing Virtual Rooms"
 msgstr "Gestion des salles virtuelles"
 
-#: ../../videomeetings(wsc)/toc.rst:36
+#: ../../videomeetings(wsc)/toc.rst:37
 msgid ""
 "Every person with an account on |product| can create virtual rooms. You "
 "can use your room to invite others to meetings, whether they are "
@@ -8615,33 +9071,60 @@ msgid ""
 "“Guest”."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:39
+#: ../../videomeetings(wsc)/toc.rst:40
 msgid "To access and enter your virtual room, follow these steps:"
 msgstr "Pour accéder à votre salle virtuelle et y entrer, suivez ces étapes :"
 
-#: ../../videomeetings(wsc)/toc.rst:42 ../../videomeetings(wsc)/toc.rst:52
-#: ../../videomeetings(wsc)/toc.rst:64 ../../videomeetings(wsc)/toc.rst:85
-#: ../../videomeetings(wsc)/toc.rst:162
+#: ../../videomeetings(wsc)/toc.rst:43 ../../videomeetings(wsc)/toc.rst:52
+#: ../../videomeetings(wsc)/toc.rst:65 ../../videomeetings(wsc)/toc.rst:77
+#: ../../videomeetings(wsc)/toc.rst:98 ../../videomeetings(wsc)/toc.rst:177
 msgid ""
 "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the "
 "list of chats to open your list of rooms."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:43 ../../videomeetings(wsc)/toc.rst:53
+#: ../../videomeetings(wsc)/toc.rst:44 ../../videomeetings(wsc)/toc.rst:66
 msgid "You can use the Arrow icon beside the room’s name to enter it."
 msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:47
+#, fuzzy
+msgid "Editing Room Details"
+msgstr "Modification d'un filtre"
+
+#: ../../videomeetings(wsc)/toc.rst:49
+msgid "To edit the details of a room:"
+msgstr ""
+
+#: ../../videomeetings(wsc)/toc.rst:53
+msgid "Click the three dots icon beside the room’s name."
+msgstr ""
+
+#: ../../videomeetings(wsc)/toc.rst:54
+msgid "Choose EDIT."
+msgstr ""
+
+#: ../../videomeetings(wsc)/toc.rst:55
+#, fuzzy
+msgid "Edit the room’s name and moderators."
+msgstr "Modifiez le message et appuyez sur la touche Entrée."
+
+#: ../../videomeetings(wsc)/toc.rst:56
+#, fuzzy
+msgid "Click the button EDIT to save the changes."
+msgstr "Cliquez sur le bouton **+**, pour les ajouter tous."
+
+#: ../../videomeetings(wsc)/toc.rst:60
 msgid "Entering A Virtual Room"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:49 ../../videomeetings/toc.rst:64
+#: ../../videomeetings(wsc)/toc.rst:62 ../../videomeetings/toc.rst:64
 msgid ""
 "To enter a specific room, you need to have its link. To obtain the URL of"
 " a room, you can:"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:55
+#: ../../videomeetings(wsc)/toc.rst:68
 msgid ""
 "Alternatively, you can copy the link to access the room to your clipboard"
 " using the link icon beside the room’s name in the list. You can paste it"
@@ -8649,21 +9132,21 @@ msgid ""
 "direct you to the room."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:59
+#: ../../videomeetings(wsc)/toc.rst:72
 msgid "Inviting Members to A Virtual Room"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:61
+#: ../../videomeetings(wsc)/toc.rst:74
 msgid ""
 "To invite other members to a room, you need to have its link. To obtain "
 "the URL of a room, you can:"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:65 ../../videomeetings(wsc)/toc.rst:86
+#: ../../videomeetings(wsc)/toc.rst:78 ../../videomeetings(wsc)/toc.rst:99
 msgid "Click the link icon beside your room’s name to copy the room's link."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:67 ../../videomeetings(wsc)/toc.rst:88
+#: ../../videomeetings(wsc)/toc.rst:80 ../../videomeetings(wsc)/toc.rst:101
 msgid ""
 "This will copy the link to access the room to your clipboard. You can "
 "paste it anywhere (such as in a chat) by right-clicking and selecting "
@@ -8673,40 +9156,40 @@ msgid ""
 "colleagues."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:71 ../../videomeetings/toc.rst:86
+#: ../../videomeetings(wsc)/toc.rst:84 ../../videomeetings/toc.rst:86
 msgid "Holding A Video Call with A Member"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:73 ../../videomeetings/toc.rst:88
+#: ../../videomeetings(wsc)/toc.rst:86 ../../videomeetings/toc.rst:88
 msgid "To invite a colleague to a video call:"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:76 ../../videomeetings/toc.rst:91
+#: ../../videomeetings(wsc)/toc.rst:89 ../../videomeetings/toc.rst:91
 msgid ""
 "From the list of chats, choose the colleague with whom you want to have "
 "the video call."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:77
+#: ../../videomeetings(wsc)/toc.rst:90
 msgid "Click on the START MEETING button on top of the chat area."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:80 ../../videomeetings/toc.rst:99
+#: ../../videomeetings(wsc)/toc.rst:93 ../../videomeetings/toc.rst:99
 msgid "Holding A Video Meeting with Multiple Members"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:82 ../../videomeetings/toc.rst:101
+#: ../../videomeetings(wsc)/toc.rst:95 ../../videomeetings/toc.rst:101
 msgid ""
 "You can use your personal room to invite others for a video meeting. To "
 "do so, you need to send them the link to your personal room. To obtain "
 "your room's link:"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:92
+#: ../../videomeetings(wsc)/toc.rst:105
 msgid "Select Webcam and Microphone"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:94
+#: ../../videomeetings(wsc)/toc.rst:107
 msgid ""
 "Before entering a video meeting, you will be prompted to select a webcam "
 "and microphone from the available options on your computer. You can also "
@@ -8714,11 +9197,11 @@ msgid ""
 "room. Once your selections are made, press ENTER to join the meeting."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:98 ../../videomeetings/toc.rst:110
+#: ../../videomeetings(wsc)/toc.rst:111 ../../videomeetings/toc.rst:110
 msgid "Enable Webcam and Microphone"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:100
+#: ../../videomeetings(wsc)/toc.rst:113
 msgid ""
 "When you are in a video meeting, you can also turn your webcam or "
 "microphone on or off. Here is how: Toggle the microphone or camera icon "
@@ -8727,62 +9210,70 @@ msgid ""
 "will appear."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:102
+#: ../../videomeetings(wsc)/toc.rst:115
 msgid ""
 "During a video meeting, you have the chance to blur your background. "
 "Simply click on the arrow icon in the camera button, and then choose the "
 "option Apply Blur Effect."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:106 ../../videomeetings/toc.rst:115
+#: ../../videomeetings(wsc)/toc.rst:117
+msgid ""
+"You also have the chance to choose a specific background image. Click on "
+"the arrow icon in the camera button, and then choose the option Apply "
+"Background Image. You can upload your own image or choose one from the "
+"available options."
+msgstr ""
+
+#: ../../videomeetings(wsc)/toc.rst:121 ../../videomeetings/toc.rst:115
 msgid "Recording a Video Meeting"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:108 ../../videomeetings/toc.rst:117
+#: ../../videomeetings(wsc)/toc.rst:123 ../../videomeetings/toc.rst:117
 msgid "When you are in a video meeting and want to record it:"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:110 ../../videomeetings(wsc)/toc.rst:151
-#: ../../videomeetings(wsc)/toc.rst:171
+#: ../../videomeetings(wsc)/toc.rst:125 ../../videomeetings(wsc)/toc.rst:166
+#: ../../videomeetings(wsc)/toc.rst:186
 msgid "Click the arrow button on the left side to open the chat box."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:111
+#: ../../videomeetings(wsc)/toc.rst:126
 msgid ""
 "Click the downward arrow next to the Recording section located at the top"
 " of the chat box."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:112
+#: ../../videomeetings(wsc)/toc.rst:127
 msgid "Click START RECORDING."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:114
+#: ../../videomeetings(wsc)/toc.rst:129
 msgid ""
 "To stop the video meeting, simply click the STOP RECORDING button. This "
 "action will automatically save your recording file into your Files after "
 "prompting you to name the recording file."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:117 ../../videomeetings/toc.rst:126
+#: ../../videomeetings(wsc)/toc.rst:132 ../../videomeetings/toc.rst:126
 msgid "Adding New Members to a Video Meeting"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:119
+#: ../../videomeetings(wsc)/toc.rst:134
 msgid ""
 "To add new members to an ongoing video meeting, you need to send them the"
 " link to access the room. Here is how:"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:121
+#: ../../videomeetings(wsc)/toc.rst:136
 msgid "Make sure you are in the meeting."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:122
+#: ../../videomeetings(wsc)/toc.rst:137
 msgid "Copy the URL of the page from the address bar of your browser."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:124
+#: ../../videomeetings(wsc)/toc.rst:139
 msgid ""
 "This will copy the link to access your room to your clipboard. You can "
 "paste it anywhere (such as in a chat) by right-clicking and selecting "
@@ -8790,22 +9281,22 @@ msgid ""
 "on macOS."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:127 ../../videomeetings/toc.rst:138
+#: ../../videomeetings(wsc)/toc.rst:142 ../../videomeetings/toc.rst:138
 msgid "Accessing Chat History During a Video Meeting"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:129
+#: ../../videomeetings(wsc)/toc.rst:144
 msgid ""
 "To access the chat box of the room where you are having the video "
 "meeting, simply click the arrow button on the left side to open the chat "
 "box."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:132 ../../videomeetings/toc.rst:143
+#: ../../videomeetings(wsc)/toc.rst:147 ../../videomeetings/toc.rst:143
 msgid "Sharing Screen During a Video Meeting"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:134
+#: ../../videomeetings(wsc)/toc.rst:149
 msgid ""
 "When you are in a video meeting, you can share your screen with "
 "attendees. Here is how: Click the screen icon on the bottom bar inside "
@@ -8816,11 +9307,11 @@ msgid ""
 "then click Share."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:142 ../../videomeetings/toc.rst:174
+#: ../../videomeetings(wsc)/toc.rst:157 ../../videomeetings/toc.rst:174
 msgid "Maximizing Video Meeting Screen"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:144 ../../videomeetings/toc.rst:176
+#: ../../videomeetings(wsc)/toc.rst:159 ../../videomeetings/toc.rst:176
 msgid ""
 "To maximize the video meeting screen, click on the icon with arrows "
 "inside located on the bottom bar. If you do not see the bottom bar inside"
@@ -8828,11 +9319,11 @@ msgid ""
 "screen, and it will appear."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:147 ../../videomeetings/toc.rst:179
+#: ../../videomeetings(wsc)/toc.rst:162 ../../videomeetings/toc.rst:179
 msgid "Muting Participants During a Video Meeting"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:149
+#: ../../videomeetings(wsc)/toc.rst:164
 msgid ""
 "As the moderator of a meeting room, you can mute an attendee's microphone"
 " individually. To do so, simply hover your cursor over the video feed of "
@@ -8840,50 +9331,50 @@ msgid ""
 "their video feed."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:152 ../../videomeetings(wsc)/toc.rst:172
+#: ../../videomeetings(wsc)/toc.rst:167 ../../videomeetings(wsc)/toc.rst:187
 msgid ""
 "Click the downward arrow next to the Participants section located at the "
 "top of the chat box."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:153
+#: ../../videomeetings(wsc)/toc.rst:168
 msgid "Click the microphone icon next to the participant’s name."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:154
+#: ../../videomeetings(wsc)/toc.rst:169
 msgid "Click MUTE FOR ALL to confirm."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:157 ../../videomeetings/toc.rst:197
+#: ../../videomeetings(wsc)/toc.rst:172 ../../videomeetings/toc.rst:197
 msgid "Deleting a Meeting Room"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:159 ../../videomeetings/toc.rst:199
+#: ../../videomeetings(wsc)/toc.rst:174 ../../videomeetings/toc.rst:199
 msgid "To delete a meeting room:"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:163
+#: ../../videomeetings(wsc)/toc.rst:178
 msgid "Click the trash icon beside the name of the room you want to delete."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:164
+#: ../../videomeetings(wsc)/toc.rst:179
 msgid "Click DELETE to confirm."
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:167 ../../videomeetings/toc.rst:208
+#: ../../videomeetings(wsc)/toc.rst:182 ../../videomeetings/toc.rst:208
 msgid "Adding Moderators to a Room"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:169
+#: ../../videomeetings(wsc)/toc.rst:184
 msgid "To add a moderator to a meeting room:"
 msgstr ""
 
-#: ../../videomeetings(wsc)/toc.rst:173
+#: ../../videomeetings(wsc)/toc.rst:188
 msgid "Click the crown icon next to the participant’s name."
 msgstr ""
 
 #: ../../videomeetings/toc.rst:7
-msgid "Working with Video Meetings"
+msgid "Working with Video Meetings :bdg-secondary:`LEGACY`"
 msgstr ""
 
 #: ../../videomeetings/toc.rst:13
@@ -9763,3 +10254,141 @@ msgstr ""
 #~ "and enter your personal room, follow "
 #~ "these steps:"
 #~ msgstr ""
+
+#~ msgid ""
+#~ "S/MIME (Secure/Multipurpose Internet Mail "
+#~ "Extensions) is a standard for email "
+#~ "encryption and signing, providing "
+#~ "authentication, integrity, and non-repudiation"
+#~ " for emails. Here’s how you can "
+#~ "send S/MIME-signed emails:"
+#~ msgstr ""
+#~ "S/MIME (Secure/Multipurpose Internet Mail "
+#~ "Extensions) est une norme de cryptage"
+#~ " et de signature des courriers "
+#~ "électroniques, qui assure l'authentification, "
+#~ "l'intégrité et la non-répudiation des"
+#~ " courriers électroniques. Voici comment "
+#~ "envoyer des courriels signés S/MIME :"
+
+#~ msgid ""
+#~ "Attach the certificate in the proper "
+#~ "space (or just browse you documents "
+#~ "to insert it)."
+#~ msgstr ""
+#~ "Joignez le certificat dans l'espace "
+#~ "prévu à cet effet (ou parcourez "
+#~ "simplement vos documents pour l'insérer)."
+
+#~ msgid "Insert the **password** for the uploaded certificate."
+#~ msgstr "Insérez le **mot de passe** pour le certificat téléchargé."
+
+#~ msgid "Click **Upload** to insert the S/MIME signature."
+#~ msgstr "Cliquez sur **Téléverser** pour insérer la signature S/MIME."
+
+#~ msgid "You can now send your S/MIME-signed email."
+#~ msgstr "Vous pouvez maintenant envoyer vos courriels signés S/MIME."
+
+#~ msgid "Working with Chats (WSC) :bdg-primary:`NEW`"
+#~ msgstr ""
+
+#~ msgid "Select the group to which you want to remove members."
+#~ msgstr "Sélectionnez le groupe dont vous souhaitez supprimer les membres."
+
+#~ msgid ""
+#~ "On the right side of the Main "
+#~ "Panel, under the Members section, click"
+#~ " on the trash icon next to the"
+#~ " user you want to remove."
+#~ msgstr ""
+#~ "Sur le côté droit du panneau "
+#~ "principal, dans la section Membres, "
+#~ "cliquez sur l'icône de la poubelle "
+#~ "à côté de l'utilisateur que vous "
+#~ "souhaitez supprimer."
+
+#~ msgid ""
+#~ "On the right side of the Main "
+#~ "Panel, under the Actions section, click"
+#~ " **Leave Group**."
+#~ msgstr ""
+#~ "Sur le côté droit du panneau "
+#~ "principal, sous la section Actions, "
+#~ "cliquez sur **Quitter le groupe**."
+
+#~ msgid ""
+#~ "On the right side of the Main "
+#~ "Panel, under the Members section, click"
+#~ " on the crown icon next to the"
+#~ " user you want to appoint as a"
+#~ " moderator."
+#~ msgstr ""
+#~ "Sur le côté droit du panneau "
+#~ "principal, sous la section Membres, "
+#~ "cliquez sur l'icône de couronne à "
+#~ "côté de l'utilisateur que vous souhaitez"
+#~ " nommer modérateur."
+
+#~ msgid "Exporting a Chat"
+#~ msgstr "Exporter une conversation"
+
+#~ msgid ""
+#~ "If needed, you have the chance to"
+#~ " export all the chats from your "
+#~ "account."
+#~ msgstr ""
+#~ "Si nécessaire, vous avez la possibilité"
+#~ " d'exporter toutes les discussions de "
+#~ "votre compte."
+
+#~ msgid "To export a chat simply:"
+#~ msgstr ""
+#~ "Pour exporter une conversation, procédez "
+#~ "simplement de la façon suivante :"
+
+#~ msgid "Open Chats settings, clicking on gear icon in the left bar"
+#~ msgstr ""
+#~ "Ouvrez les paramètres des discussions en"
+#~ " cliquant sur l'icône d'engrenage dans "
+#~ "la barre latérale gauche"
+
+#~ msgid "Go to \"Export Chat\" section"
+#~ msgstr "Allez à la section **Exporter la conversation**"
+
+#~ msgid "Select the chat you want to export"
+#~ msgstr "Sélectionnez la conversation que vous souhaitez exporter"
+
+#~ msgid ""
+#~ "After a while (depending on how "
+#~ "many messages it contains) it will "
+#~ "start the download process of the "
+#~ "chat, in a .txt file format"
+#~ msgstr ""
+#~ "Après un moment (en fonction du "
+#~ "nombre de messages qu'elle contient), "
+#~ "elle démarrera le processus de "
+#~ "téléchargement de la conversation, au "
+#~ "format de fichier .txt"
+
+#~ msgid ""
+#~ "You can copy the generated link by"
+#~ " clicking on it. The link will "
+#~ "be saved to your clipboard and can"
+#~ " be pasted anywhere by right-clicking"
+#~ " and selecting **Paste**, or by using"
+#~ " the keyboard shortcut CTRL+V on "
+#~ "Windows or Command+V on macOS."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This is the documentation of "
+#~ "||product||, the fully private digital "
+#~ "workplace."
+#~ msgstr ""
+
+#~ msgid "Working with Video Meetings(WSC) :bdg-info:`NEW`"
+#~ msgstr ""
+
+#~ msgid "Working with Video Meetings"
+#~ msgstr ""
+

@@ -188,3 +188,6 @@ Furthermore, you have the option to enable or disable the **Notify organizer che
 
 After selecting one of the four buttons, the invitation email will automatically be moved to your Trash folder.
 
+If you don't choose any of the four options, the appointment will be automatically saved in your calendar as a tentative appointment with an icon indicating that you are not yet confirmed for the appointment.
+You can later choose one of the four options by double-clicking on the appointment in your calendar and selecting **Accept**, **Tentative**, **Decline** or **Propose new time** from the drop-down menu.
+You can also choose to **Delete** the appointment from your calendar without responding to the invitation.

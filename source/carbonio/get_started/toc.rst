@@ -60,7 +60,7 @@ Setting Up Two-factor Auth (2FA)
 ================================
 
 
-If you are not forced to use 2FA on your login prompts, you can manually set it up via your web client settings, if your system administrator gave you the proper permission. By following these steps, you will enhance the security of your |product| webmail account.
+If you are not required to use 2FA on your login prompts, you can manually set it up via your web client settings, if your system administrator gave you the proper permission. By following these steps, you will enhance the security of your |product| webmail account.
 
 1.	Accessing Settings:
 
@@ -73,6 +73,13 @@ If you are not forced to use 2FA on your login prompts, you can manually set it 
 *	Click the **NEW OTP** + button.
 *	Insert a **label** to help you remember this OTP (e.g., “mySamsungPhone”).
 *	Hit the CREATE PASSWORD button.
+
+NOTE: If you enter an incorrect OTP (One-Time Password) code more than 10 times, the associated auth device is automatically removed for security reasons.
+This mechanism ensures security by preventing brute-force attacks on OTP authentication: 
+
+#. The auth device is removed from the list of allowed OTP authentications.
+#. You will no longer see the device in the Auth - OTP Authentication section.
+#. You must reconfigure a new device to continue using OTP authentication.
 
 3.	Install Google Authenticator:
 

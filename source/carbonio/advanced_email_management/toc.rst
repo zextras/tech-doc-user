@@ -636,10 +636,10 @@ The Encryption Process
 1. Sender Retrieves Recipient’s Public Key
     * The sender must have the recipient’s public key.
 2. Email Encryption
-  * The sender composes an email and selects  "Encrypt with S/MIME" 
-  * Sender email content is encrypted using the recipient’s public key.
-  * The email is sent in an encrypted format.
-  * Recipient Decrypts the Email
+    * The sender composes an email and selects  "Encrypt with S/MIME" 
+    * Sender email content is encrypted using the recipient’s public key.
+    * The email is sent in an encrypted format.
+    * Recipient Decrypts the Email
       * When the recipient opens the email, its private key is used to decrypt the message.
       * If the private key matches the encrypted data, the email is decrypted and displayed normally.
 

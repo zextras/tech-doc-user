@@ -3,7 +3,7 @@
 .. SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 ================================================================================
-Working with Chats (WSC) :bdg-primary:`NEW`
+Working with Chats (WSC) 
 ================================================================================
 
 
@@ -24,11 +24,20 @@ To initiate communication with a colleague, you need to create a new chat. To do
 #.	Click on the name of the colleague that appears in the list.
 #.	Click **CREATE**.
 
-Now, this chat is added under the Chats tab, containing a list of all available chats.
+Now, this chat is added under the Chats module, containing a list of all available chats.
 
 Initially, you will not see any chats in your chat system, but once you create them, you can find them on the list. Please note that you will be able to will be able to create new conversation only with users that have Chats(WSC) enabled.
 
 Once you have created and selected a chat, you can start typing your message in the bottom text box. You can also add emojis and attach files to your message. Press Enter on Windows or Return on macOS to send the message.
+
+You can also create a new chat by searching for a colleague in the search bar. To do so:
+
+#.	Select the **Chats** feature from your left sidebar.
+#.	In the "Type to filter list" field, insert your colleague's name.
+#.	Click on the name of the colleague that appears in the list.
+#.	The new chat will be created automatically.
+#.	Start typing your message in the bottom text box. You can also add emojis and attach files to your message. Press Enter on Windows or Return on macOS to send the message.
+
 
 Adding Emojis to Your Message
 =============================
@@ -102,6 +111,17 @@ To forward a message:
 #.	Select the chat to which you want to forward the message.
 #.	Click **FORWARD**.
 
+You can also forward multiple messages at once. To do so:
+
+#.	Click on the downward arrow located next to the message bubble.
+#.	Select **Forward** from the drop-down menu.
+#.	Select the messages you want to forward by clicking on the checkboxes next to them.
+#.	Click **FORWARD** at the bottom right corner of the chat box
+#.	Select the chat to which you want to forward the message.
+#.	Click **FORWARD**.
+
+The messages will be forwarded to the selected chat: reporting "Originally sent by: [Sender Name]" and the date of the original message.
+
 Delete A Message
 ================
 
@@ -147,80 +167,77 @@ Groups allow for group conversations with at least three attendees. You can crea
 7.	Click **NEW GROUP**.
 
 
-Now this group is added to your list under the Chats tab.
+Now this group is added to your list.
 
 Once you have created and selected a group, you can start typing your message in the bottom text box. You can also add emojis and attach files to your message. Press Enter on Windows or Return on macOS to send the message.
 
-Add Participants to a Group
-===========================
+In the right panel you will find the following possible actions:
 
-You can add new members to a group if you are a moderator. Here is how:
+#. Mute notifications
+#. Edit details
+#. Add new members
+#. Clear history
+#. Delete Group
 
-#.	Select the **Chats** feature from your left sidebar.
-#.	Select the group to which you want to add members.
-#.	On the right side of the Main Panel, click **Add new members**. A new window appears.
-#.	Begin typing the email address of the colleague you wish to add.
-#.	Click **ADD NEW MEMBERS** to confirm.
-
-You can enable the checkbox labeled **Show previous conversation history** to allow members to view previous messages. Otherwise, they will not be able to see them.
-
-Remove Participants from a Group
-================================
-
-You can remove members from a group if you are a moderator. Here is how:
-
-#.	Select the **Chats feature** from your left sidebar.
-#.	Select the group to which you want to remove members.
-#.	On the right side of the Main Panel, under the Members section, click on the trash icon next to the user you want to remove.
-#.	Click **REMOVE** to confirm.
-
-Leave Group
-===========
-
-To leave a group:
-
-#.	Select the **Chats**  feature from your left sidebar.
-#.	Select the group you want to leave.
-#.	On the right side of the Main Panel, under the Actions section, click **Leave Group**.
-#.	Click **LEAVE** to confirm.
-
-Assigning Moderators for A Group
-================================
-
-If you are already a moderator, you can assign other moderators to a group. Here is how:
-
-#.	Select the **Chats feature** from your left sidebar.
-#.	Select the group to which you want to add a moderator.
-#.	On the right side of the Main Panel, under the Members section, click on the crown icon next to the user you want to appoint as a moderator.
-
-Edit a Group's Name or Topic
+Mute Notifications of a Group
 =============================
 
-To edit a group’s name:
+When you receive a new message in a group chat, you will see a notification on your screen to inform you. If you want to disable notifications for a specific group, follow these steps:
+
+#.	Select the **Chats** feature from your left sidebar.
+#.	Select the group for which you want to mute notifications.
+#.	On the right side of the Main Panel, click **Mute notifications**.
+#.	Click **MUTE** to confirm.
+
+To unmute, follow the same procedure and choose **Activate notifications**.
+
+Please note that if you mute notifications for a group, you will not receive any notifications for new messages in that group. However, you will still be able to see the messages when you open the group chat.
+
+Edit Details of a Group
+========================
+
+To edit a group’s name or topic:
 
 #.	Select the **Chats feature** from your left sidebar.
 #.	Select the group for which you want to change the name.
 #.	On the right side of the Main Panel, under the Actions section, click on the Edit details.
 #.	Edit the name or topic.
 #.	Press the save icon on the right.
+#.	Click **SAVE** to confirm.
+
+Add New Members to a Group
+==========================
+
+To add new members to a group:
+
+#.	Select the **Chats feature** from your left sidebar.
+#.	Select the group to which you want to add new members.
+#.	On the right side of the Main Panel, under the Actions section, click on the Add new members.
+#.	Begin typing the email address of the colleague you wish to add - and select the crown icon if you want to promote him as a moderator.
+#.	Click on the name of the colleague that appears in the list.
+#.	Click **ADD NEW MEMBERS** to confirm.
+#.	(Optional) Repeat the process to add more members.
 
 
-Search for A Member in Your Chats List
-======================================
+Clear History of a Group
+========================
 
-To search for a colleague in your chat list:
+To clear the history of a specific group:
+#.	Select the **Chats feature** from your left sidebar.
+#.	Select the group you want to clear the history for.
+#.	On the right side of the Main Panel, under the Actions section, click on the Clear History.
+#.	Click **CLEAR HISTORY** to confirm. 
+#.  (Optional) Repeat the process to clear the history of more groups.
 
-1.	Select the **Chats feature** from your left sidebar.
-2.	In the Type to filter list field, insert your colleague's name.
+Please note that clearing the history of a group will remove all messages from the chat just for you, and you will not be able to retrieve them. 
+However, you will still be able to see the group name and members, at the bottom of the chat list.
 
-Exporting a Chat
-==================
+Delete Group
+============
 
-If needed, you have the chance to export all the chats from your account.
+To delete a group:
+#.	Select the **Chats feature** from your left sidebar.
+#.	Select the group you want to delete.
+#.	On the right side of the Main Panel, under the Actions section, click on the Delete Group.
+#.	Click **DELETE** to confirm.
 
-To export a chat simply:
-
-1.	Open Chats settings, clicking on gear icon in the left bar
-2.	Go to "Export Chat" section
-3.	Select the chat you want to export
-4.	After a while (depending on how many messages it contains) it will start the download process of the chat, in a .txt file format

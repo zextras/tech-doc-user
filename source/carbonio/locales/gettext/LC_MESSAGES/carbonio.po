@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-02 15:52+0200\n"
+"POT-Creation-Date: 2025-05-02 16:29+0200\n"
 "PO-Revision-Date: 2024-12-24 06:14+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language: gettext\n"
@@ -230,7 +230,8 @@ msgid "Right-click on the **Junk** folder."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:79
-msgid "Select **Wipe Folder** from the menu.*"
+#, fuzzy
+msgid "Select **Wipe Folder** from the menu."
 msgstr "Seleziona **Cancella cartella** dal menu.*"
 
 #: ../../advanced_email_management/toc.rst:81
@@ -2652,7 +2653,7 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:275
 #: ../../basic_email_management/toc.rst:291
 #: ../../basic_email_management/toc.rst:309 ../../contacts/toc.rst:144
-#: ../../contacts/toc.rst:206 ../../contacts/toc.rst:227
+#: ../../contacts/toc.rst:238 ../../contacts/toc.rst:259
 msgid "Click the **SHARE FOLDER** button."
 msgstr "Clicca sul pulsante **CONDIVIDI CARTILLA**."
 
@@ -2740,7 +2741,7 @@ msgid ""
 "new subfolders, and edit and delete files within the shared folder."
 msgstr ""
 
-#: ../../basic_email_management/toc.rst:258 ../../contacts/toc.rst:212
+#: ../../basic_email_management/toc.rst:258 ../../contacts/toc.rst:244
 msgid ""
 "**Admin**: Has full control, including viewing, editing, adding, "
 "removing, accepting, declining, and administering content."
@@ -2795,7 +2796,7 @@ msgid ""
 "folder can access it. To share an email folder with external users:"
 msgstr ""
 
-#: ../../basic_email_management/toc.rst:289 ../../contacts/toc.rst:224
+#: ../../basic_email_management/toc.rst:289 ../../contacts/toc.rst:256
 msgid ""
 "From the Share with field, select Public (view only, no password "
 "required)."
@@ -2900,7 +2901,7 @@ msgstr ""
 " elementi condivisi disponibili."
 
 #: ../../basic_email_management/toc.rst:346 ../../calendars/toc.rst:217
-#: ../../contacts/toc.rst:240
+#: ../../contacts/toc.rst:272
 msgid "Click the **ADD** button."
 msgstr ""
 
@@ -4090,7 +4091,7 @@ msgstr ""
 msgid "From the drop-down menu select **Share Calendar**."
 msgstr ""
 
-#: ../../calendars/toc.rst:194 ../../contacts/toc.rst:203
+#: ../../calendars/toc.rst:194 ../../contacts/toc.rst:235
 msgid "From the Share with field, select Internal Users or Groups."
 msgstr ""
 
@@ -5733,9 +5734,9 @@ msgstr "Per aggiungere un nuovo contatto alla tua lista dei contatti:"
 #: ../../contacts/toc.rst:116 ../../contacts/toc.rst:127
 #: ../../contacts/toc.rst:138 ../../contacts/toc.rst:152
 #: ../../contacts/toc.rst:163 ../../contacts/toc.rst:176
-#: ../../contacts/toc.rst:201 ../../contacts/toc.rst:222
-#: ../../contacts/toc.rst:236 ../../contacts/toc.rst:249
-#: ../../contacts/toc.rst:262
+#: ../../contacts/toc.rst:233 ../../contacts/toc.rst:254
+#: ../../contacts/toc.rst:268 ../../contacts/toc.rst:281
+#: ../../contacts/toc.rst:294
 msgid "Select the **Contacts** from your left sidebar."
 msgstr "Selezionare **Contatti** nel pannello laterale sinistro."
 
@@ -6033,111 +6034,218 @@ msgid ""
 msgstr ""
 
 #: ../../contacts/toc.rst:197
-msgid "Share a Contact List with Your Colleagues"
+#, fuzzy
+msgid "Sharing a Contact List"
+msgstr "Modifica di un contatto"
+
+#: ../../contacts/toc.rst:199
+msgid ""
+"You can share your address book with your colleagues or external users. "
+"This allows them to view and access the contacts you have stored in your "
+"address book. How to Share a Contact Group and open Contacts:"
 msgstr ""
 
-#: ../../contacts/toc.rst:199 ../../contacts/toc.rst:234
+#: ../../contacts/toc.rst:202
+msgid "Go to your Contacts section in the app."
+msgstr ""
+
+#: ../../contacts/toc.rst:203
+msgid "Create or Select a Group."
+msgstr ""
+
+#: ../../contacts/toc.rst:204
+msgid "To create: click “New Group”, add contacts, and assign it to a folder."
+msgstr ""
+
+#: ../../contacts/toc.rst:205
+msgid ""
+"To share an existing group: make sure it’s placed in a folder you can "
+"share."
+msgstr ""
+
+#: ../../contacts/toc.rst:206
+#, fuzzy
+msgid "Place Group in a Folder:"
+msgstr "Creazione di una cartella"
+
+#: ../../contacts/toc.rst:207
+msgid "Move the group to a specific folder - or create a new one just for it."
+msgstr ""
+
+#: ../../contacts/toc.rst:208
+msgid "This allows you to share only what’s inside that folder."
+msgstr ""
+
+#: ../../contacts/toc.rst:209
+#, fuzzy
+msgid "Share the Folder:"
+msgstr "Ruoli della cartella email condivisa"
+
+#: ../../contacts/toc.rst:210
+#, fuzzy
+msgid "Right-click the folder - “Share”."
+msgstr "Fai clic destro sul file."
+
+#: ../../contacts/toc.rst:211
+msgid "Choose the users and set their permission level:"
+msgstr ""
+
+#: ../../contacts/toc.rst:212
+msgid "Can View"
+msgstr ""
+
+#: ../../contacts/toc.rst:213
+msgid "Can Edit"
+msgstr ""
+
+#: ../../contacts/toc.rst:214
+msgid "Confirm Shared Content:"
+msgstr ""
+
+#: ../../contacts/toc.rst:215
+msgid "The user will only see the contacts and groups inside that folder."
+msgstr ""
+
+#: ../../contacts/toc.rst:216
+msgid "Your personal contacts and other folders remain private."
+msgstr ""
+
+#: ../../contacts/toc.rst:218
+msgid "Filtering Your View"
+msgstr ""
+
+#: ../../contacts/toc.rst:224
+msgid "To manage what you see in Contacts:"
+msgstr ""
+
+#: ../../contacts/toc.rst:221
+msgid "Use the View Filter to display:"
+msgstr ""
+
+#: ../../contacts/toc.rst:222
+#, fuzzy
+msgid "Only Contacts"
+msgstr "Lavorare con i contatti"
+
+#: ../../contacts/toc.rst:223
+msgid "Only Groups"
+msgstr ""
+
+#: ../../contacts/toc.rst:224
+msgid "Both"
+msgstr ""
+
+#: ../../contacts/toc.rst:226
+msgid "This helps you focus on what matters."
+msgstr ""
+
+#: ../../contacts/toc.rst:229
+#, fuzzy
+msgid "Share a Contact List with Your Colleagues"
+msgstr "Condivisione dei calendari con i colleghi"
+
+#: ../../contacts/toc.rst:231 ../../contacts/toc.rst:266
 msgid "To find and add your colleagues’ contact list:"
 msgstr ""
 
-#: ../../contacts/toc.rst:202 ../../contacts/toc.rst:223
+#: ../../contacts/toc.rst:234 ../../contacts/toc.rst:255
 msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "share. A new window appears."
 msgstr ""
 
-#: ../../contacts/toc.rst:204
+#: ../../contacts/toc.rst:236
 msgid ""
 "Enter the email addresses of your colleagues with whom you wish to share "
 "the address book into the **Recipients’ e-mail addresses** field."
 msgstr ""
 
-#: ../../contacts/toc.rst:205 ../../contacts/toc.rst:226
+#: ../../contacts/toc.rst:237 ../../contacts/toc.rst:258
 msgid ""
 "Select the role from the **Role** field (read below to know which role to"
 " choose)."
 msgstr ""
 
-#: ../../contacts/toc.rst:208
+#: ../../contacts/toc.rst:240
 msgid "There are three different roles you can choose in step 5:"
 msgstr ""
 
-#: ../../contacts/toc.rst:210
+#: ../../contacts/toc.rst:242
 msgid ""
 "**Viewer**: Can read the contents of the address book but cannot make "
 "changes to the content."
 msgstr ""
 
-#: ../../contacts/toc.rst:211
+#: ../../contacts/toc.rst:243
 msgid "**Manager**: Can view and edit the content of the address book."
 msgstr ""
 
-#: ../../contacts/toc.rst:214
+#: ../../contacts/toc.rst:246
 msgid ""
 "Your shared address book will be accessible in the **Shared Address "
 "Books** section."
 msgstr ""
 
-#: ../../contacts/toc.rst:217
+#: ../../contacts/toc.rst:249
 msgid "Share a Contact List with External Users"
 msgstr ""
 
-#: ../../contacts/toc.rst:219
+#: ../../contacts/toc.rst:251
 msgid ""
 "If you share an address book with external users, whoever has the link to"
 " your address book can access it. To share an address book with external "
 "users:"
 msgstr ""
 
-#: ../../contacts/toc.rst:225
+#: ../../contacts/toc.rst:257
 msgid ""
 "Enter the email addresses with whom you wish to share the address book "
 "into the **Recipients’ e-mail addresses** field."
 msgstr ""
 
-#: ../../contacts/toc.rst:229
+#: ../../contacts/toc.rst:261
 msgid ""
 "This action will send an email to external users granting them access to "
 "your address book."
 msgstr ""
 
-#: ../../contacts/toc.rst:232
+#: ../../contacts/toc.rst:264
 msgid "Add Colleagues' Shared Contact Lists"
 msgstr ""
 
-#: ../../contacts/toc.rst:237
+#: ../../contacts/toc.rst:269
 msgid ""
 "In the Navigation Panel, click the downward arrow next to the **Shared "
 "Address Books** section."
 msgstr ""
 
-#: ../../contacts/toc.rst:238
+#: ../../contacts/toc.rst:270
 msgid ""
 "Under the **Shared Address Books** section, click the **FIND SHARES** "
 "button. A new window appears."
 msgstr ""
 
-#: ../../contacts/toc.rst:239
+#: ../../contacts/toc.rst:271
 msgid "Select the contact list shared with you from the list."
 msgstr ""
 
-#: ../../contacts/toc.rst:242
+#: ../../contacts/toc.rst:274
 msgid ""
 "Their shared contact list will appear in your **Shared Address Books** "
 "section."
 msgstr ""
 
-#: ../../contacts/toc.rst:245
+#: ../../contacts/toc.rst:277
 msgid "Export an Address Book as a CSV File"
 msgstr ""
 
-#: ../../contacts/toc.rst:247
+#: ../../contacts/toc.rst:279
 msgid ""
 "You can export and store your address book on your computer in CSV "
 "(comma-separated values) format. To do so:"
 msgstr ""
 
-#: ../../contacts/toc.rst:250
+#: ../../contacts/toc.rst:282
 msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "export."
@@ -6145,25 +6253,25 @@ msgstr ""
 "Nel Pannello di navigazione, fai clic destro sull'indirizzario che "
 "desideri esportare."
 
-#: ../../contacts/toc.rst:251
+#: ../../contacts/toc.rst:283
 msgid "Select **Export csv file** from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../contacts/toc.rst:252
+#: ../../contacts/toc.rst:284
 msgid "Select the destination folder to save the CSV file on your computer."
 msgstr ""
 "Seleziona la cartella di destinazione per salvare il file CSV sul tuo "
 "computer."
 
-#: ../../contacts/toc.rst:253
+#: ../../contacts/toc.rst:285
 msgid "Click **Save**."
 msgstr "Clicca su **Salva**."
 
-#: ../../contacts/toc.rst:258
+#: ../../contacts/toc.rst:290
 msgid "Import a CSV File as an Address Book"
 msgstr "Importa un file CSV come indirizzario"
 
-#: ../../contacts/toc.rst:260
+#: ../../contacts/toc.rst:292
 #, fuzzy
 msgid ""
 "You can import the stored address book on your computer in CSV (comma-"
@@ -6172,19 +6280,19 @@ msgstr ""
 "Puoi importare l'indirizzario salvato sul tuo computer in formato CSV "
 "(valori separati da virgole) nel tuo client web Carbonio. Per farlo:"
 
-#: ../../contacts/toc.rst:263
+#: ../../contacts/toc.rst:295
 msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "import data in."
 msgstr ""
 
-#: ../../contacts/toc.rst:264
+#: ../../contacts/toc.rst:296
 msgid "Select **Import csv file** from the drop-down menu. A new window appears."
 msgstr ""
 "Seleziona **Importa file csv** dal menu a discesa. Si apre una nuova "
 "finestra."
 
-#: ../../contacts/toc.rst:265
+#: ../../contacts/toc.rst:297
 msgid ""
 "Select the csv file containing the address book information stored on "
 "your computer."
@@ -6192,11 +6300,11 @@ msgstr ""
 "Seleziona il file csv che contiene le informazioni dell'indirizzario "
 "archiviate sul tuo computer."
 
-#: ../../contacts/toc.rst:266 ../../files/toc.rst:60 ../../files/toc.rst:273
+#: ../../contacts/toc.rst:298 ../../files/toc.rst:60 ../../files/toc.rst:273
 msgid "Click **Open**."
 msgstr "Clicca su **Apri**."
 
-#: ../../contacts/toc.rst:268
+#: ../../contacts/toc.rst:300
 msgid "The files to be imported must have the following format."
 msgstr ""
 
@@ -9969,5 +10077,109 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Working with Video Meetings"
+#~ msgstr ""
+
+#~ msgid "Share a Contact List with Your Colleagues"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can share your address book "
+#~ "with your colleagues or external users."
+#~ " This allows them to view and "
+#~ "access the contacts you have stored "
+#~ "in your address book. How to Share"
+#~ " a Contact Group and open Contacts:"
+#~ " Go to your Contacts section in "
+#~ "the app. 1.      Create or Select "
+#~ "a Group •       To create: click "
+#~ "“New Group”, add contacts, and assign"
+#~ " it to a folder. •       To "
+#~ "share an existing group: make sure "
+#~ "it’s placed in a folder you can"
+#~ " share. 2.      Place Group in a "
+#~ "Folder •       Move the group to a"
+#~ " specific folder - or create a "
+#~ "new one just for it. •       This"
+#~ " allows you to share only what’s "
+#~ "inside that folder. 3.      Share the"
+#~ " Folder •       Right-click the "
+#~ "folder - “Share” •       Choose the "
+#~ "users and set their permission level:"
+#~ " •       Can View •       Can Edit"
+#~ " 4.      Confirm Shared Content •       "
+#~ "The user will only see the "
+#~ "contacts and groups inside that folder."
+#~ " •       Your personal contacts and "
+#~ "other folders remain private."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This helps you focus on what "
+#~ "matters. Share a Contact List with "
+#~ "Your Colleagues ========================================="
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can share your address book "
+#~ "with your colleagues or external users."
+#~ " This allows them to view and "
+#~ "access the contacts you have stored "
+#~ "in your address book. How to Share"
+#~ " a Contact Group and open Contacts:"
+#~ " Go to your Contacts section in "
+#~ "the app. #.      Create or Select "
+#~ "a Group •       To create: click "
+#~ "“New Group”, add contacts, and assign"
+#~ " it to a folder. •       To "
+#~ "share an existing group: make sure "
+#~ "it’s placed in a folder you can"
+#~ " share. #.      Place Group in a "
+#~ "Folder •       Move the group to a"
+#~ " specific folder - or create a "
+#~ "new one just for it. •       This"
+#~ " allows you to share only what’s "
+#~ "inside that folder. #.      Share the"
+#~ " Folder •       Right-click the "
+#~ "folder - “Share” •       Choose the "
+#~ "users and set their permission level:"
+#~ " •       Can View •       Can Edit"
+#~ " #.      Confirm Shared Content •       "
+#~ "The user will only see the "
+#~ "contacts and groups inside that folder."
+#~ " •       Your personal contacts and "
+#~ "other folders remain private."
+#~ msgstr ""
+
+#~ msgid "⸻"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can share your address book "
+#~ "with your colleagues or external users."
+#~ " This allows them to view and "
+#~ "access the contacts you have stored "
+#~ "in your address book. How to Share"
+#~ " a Contact Group and open Contacts:"
+#~ " Go to your Contacts section in "
+#~ "the app. #. Create or Select a "
+#~ "Group. #. To create: click “New "
+#~ "Group”, add contacts, and assign it "
+#~ "to a folder. #. To share an "
+#~ "existing group: make sure it’s placed"
+#~ " in a folder you can share. #."
+#~ " Place Group in a Folder: #. "
+#~ "Move the group to a specific "
+#~ "folder - or create a new one "
+#~ "just for it. #. This allows you"
+#~ " to share only what’s inside that "
+#~ "folder. #. Share the Folder: #. "
+#~ "Right-click the folder - “Share”. #."
+#~ " Choose the users and set their "
+#~ "permission level: #. Can View #. "
+#~ "Can Edit #. Confirm Shared Content: "
+#~ "#. The user will only see the "
+#~ "contacts and groups inside that folder."
+#~ " #. Your personal contacts and other"
+#~ " folders remain private."
 #~ msgstr ""
 

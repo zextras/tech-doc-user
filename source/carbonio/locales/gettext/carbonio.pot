@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2024: ZEXTRAS
+# Copyright (C) 2025: ZEXTRAS
 # This file is distributed under the same license as the Zextras Carbonio package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 25.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-02 15:52+0200\n"
+"POT-Creation-Date: 2025-05-02 16:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -182,7 +182,7 @@ msgid "Right-click on the **Junk** folder."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:79
-msgid "Select **Wipe Folder** from the menu.*"
+msgid "Select **Wipe Folder** from the menu."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:81
@@ -2050,8 +2050,8 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:291
 #: ../../basic_email_management/toc.rst:309
 #: ../../contacts/toc.rst:144
-#: ../../contacts/toc.rst:206
-#: ../../contacts/toc.rst:227
+#: ../../contacts/toc.rst:238
+#: ../../contacts/toc.rst:259
 msgid "Click the **SHARE FOLDER** button."
 msgstr ""
 
@@ -2116,7 +2116,7 @@ msgid "**Manager**: Can view and edit the content of the shared folder, create n
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:258
-#: ../../contacts/toc.rst:212
+#: ../../contacts/toc.rst:244
 msgid "**Admin**: Has full control, including viewing, editing, adding, removing, accepting, declining, and administering content."
 msgstr ""
 
@@ -2166,7 +2166,7 @@ msgid "If you share folders with external users, whoever has the link to your fo
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:289
-#: ../../contacts/toc.rst:224
+#: ../../contacts/toc.rst:256
 msgid "From the Share with field, select Public (view only, no password required)."
 msgstr ""
 
@@ -2260,7 +2260,7 @@ msgstr ""
 
 #: ../../basic_email_management/toc.rst:346
 #: ../../calendars/toc.rst:217
-#: ../../contacts/toc.rst:240
+#: ../../contacts/toc.rst:272
 msgid "Click the **ADD** button."
 msgstr ""
 
@@ -3154,7 +3154,7 @@ msgid "From the drop-down menu select **Share Calendar**."
 msgstr ""
 
 #: ../../calendars/toc.rst:194
-#: ../../contacts/toc.rst:203
+#: ../../contacts/toc.rst:235
 msgid "From the Share with field, select Internal Users or Groups."
 msgstr ""
 
@@ -4511,11 +4511,11 @@ msgstr ""
 #: ../../contacts/toc.rst:152
 #: ../../contacts/toc.rst:163
 #: ../../contacts/toc.rst:176
-#: ../../contacts/toc.rst:201
-#: ../../contacts/toc.rst:222
-#: ../../contacts/toc.rst:236
-#: ../../contacts/toc.rst:249
-#: ../../contacts/toc.rst:262
+#: ../../contacts/toc.rst:233
+#: ../../contacts/toc.rst:254
+#: ../../contacts/toc.rst:268
+#: ../../contacts/toc.rst:281
+#: ../../contacts/toc.rst:294
 msgid "Select the **Contacts** from your left sidebar."
 msgstr ""
 
@@ -4781,131 +4781,227 @@ msgid "Click on the contact group, and it will automatically populate the **To**
 msgstr ""
 
 #: ../../contacts/toc.rst:197
-msgid "Share a Contact List with Your Colleagues"
+msgid "Sharing a Contact List"
 msgstr ""
 
 #: ../../contacts/toc.rst:199
-#: ../../contacts/toc.rst:234
-msgid "To find and add your colleagues’ contact list:"
+msgid "You can share your address book with your colleagues or external users. This allows them to view and access the contacts you have stored in your address book. How to Share a Contact Group and open Contacts:"
 msgstr ""
 
 #: ../../contacts/toc.rst:202
-#: ../../contacts/toc.rst:223
-msgid "In the Navigation Panel, right-click on the address book you wish to share. A new window appears."
+msgid "Go to your Contacts section in the app."
+msgstr ""
+
+#: ../../contacts/toc.rst:203
+msgid "Create or Select a Group."
 msgstr ""
 
 #: ../../contacts/toc.rst:204
-msgid "Enter the email addresses of your colleagues with whom you wish to share the address book into the **Recipients’ e-mail addresses** field."
+msgid "To create: click “New Group”, add contacts, and assign it to a folder."
 msgstr ""
 
 #: ../../contacts/toc.rst:205
-#: ../../contacts/toc.rst:226
-msgid "Select the role from the **Role** field (read below to know which role to choose)."
+msgid "To share an existing group: make sure it’s placed in a folder you can share."
+msgstr ""
+
+#: ../../contacts/toc.rst:206
+msgid "Place Group in a Folder:"
+msgstr ""
+
+#: ../../contacts/toc.rst:207
+msgid "Move the group to a specific folder - or create a new one just for it."
 msgstr ""
 
 #: ../../contacts/toc.rst:208
-msgid "There are three different roles you can choose in step 5:"
+msgid "This allows you to share only what’s inside that folder."
+msgstr ""
+
+#: ../../contacts/toc.rst:209
+msgid "Share the Folder:"
 msgstr ""
 
 #: ../../contacts/toc.rst:210
-msgid "**Viewer**: Can read the contents of the address book but cannot make changes to the content."
+msgid "Right-click the folder - “Share”."
 msgstr ""
 
 #: ../../contacts/toc.rst:211
-msgid "**Manager**: Can view and edit the content of the address book."
+msgid "Choose the users and set their permission level:"
+msgstr ""
+
+#: ../../contacts/toc.rst:212
+msgid "Can View"
+msgstr ""
+
+#: ../../contacts/toc.rst:213
+msgid "Can Edit"
 msgstr ""
 
 #: ../../contacts/toc.rst:214
-msgid "Your shared address book will be accessible in the **Shared Address Books** section."
+msgid "Confirm Shared Content:"
 msgstr ""
 
-#: ../../contacts/toc.rst:217
-msgid "Share a Contact List with External Users"
+#: ../../contacts/toc.rst:215
+msgid "The user will only see the contacts and groups inside that folder."
 msgstr ""
 
-#: ../../contacts/toc.rst:219
-msgid "If you share an address book with external users, whoever has the link to your address book can access it. To share an address book with external users:"
+#: ../../contacts/toc.rst:216
+msgid "Your personal contacts and other folders remain private."
 msgstr ""
 
-#: ../../contacts/toc.rst:225
-msgid "Enter the email addresses with whom you wish to share the address book into the **Recipients’ e-mail addresses** field."
+#: ../../contacts/toc.rst:218
+msgid "Filtering Your View"
+msgstr ""
+
+#: ../../contacts/toc.rst:224
+msgid "To manage what you see in Contacts:"
+msgstr ""
+
+#: ../../contacts/toc.rst:221
+msgid "Use the View Filter to display:"
+msgstr ""
+
+#: ../../contacts/toc.rst:222
+msgid "Only Contacts"
+msgstr ""
+
+#: ../../contacts/toc.rst:223
+msgid "Only Groups"
+msgstr ""
+
+#: ../../contacts/toc.rst:224
+msgid "Both"
+msgstr ""
+
+#: ../../contacts/toc.rst:226
+msgid "This helps you focus on what matters."
 msgstr ""
 
 #: ../../contacts/toc.rst:229
-msgid "This action will send an email to external users granting them access to your address book."
+msgid "Share a Contact List with Your Colleagues"
 msgstr ""
 
-#: ../../contacts/toc.rst:232
-msgid "Add Colleagues' Shared Contact Lists"
+#: ../../contacts/toc.rst:231
+#: ../../contacts/toc.rst:266
+msgid "To find and add your colleagues’ contact list:"
+msgstr ""
+
+#: ../../contacts/toc.rst:234
+#: ../../contacts/toc.rst:255
+msgid "In the Navigation Panel, right-click on the address book you wish to share. A new window appears."
+msgstr ""
+
+#: ../../contacts/toc.rst:236
+msgid "Enter the email addresses of your colleagues with whom you wish to share the address book into the **Recipients’ e-mail addresses** field."
 msgstr ""
 
 #: ../../contacts/toc.rst:237
-msgid "In the Navigation Panel, click the downward arrow next to the **Shared Address Books** section."
+#: ../../contacts/toc.rst:258
+msgid "Select the role from the **Role** field (read below to know which role to choose)."
 msgstr ""
 
-#: ../../contacts/toc.rst:238
-msgid "Under the **Shared Address Books** section, click the **FIND SHARES** button. A new window appears."
-msgstr ""
-
-#: ../../contacts/toc.rst:239
-msgid "Select the contact list shared with you from the list."
+#: ../../contacts/toc.rst:240
+msgid "There are three different roles you can choose in step 5:"
 msgstr ""
 
 #: ../../contacts/toc.rst:242
-msgid "Their shared contact list will appear in your **Shared Address Books** section."
+msgid "**Viewer**: Can read the contents of the address book but cannot make changes to the content."
 msgstr ""
 
-#: ../../contacts/toc.rst:245
-msgid "Export an Address Book as a CSV File"
+#: ../../contacts/toc.rst:243
+msgid "**Manager**: Can view and edit the content of the address book."
 msgstr ""
 
-#: ../../contacts/toc.rst:247
-msgid "You can export and store your address book on your computer in CSV (comma-separated values) format. To do so:"
+#: ../../contacts/toc.rst:246
+msgid "Your shared address book will be accessible in the **Shared Address Books** section."
 msgstr ""
 
-#: ../../contacts/toc.rst:250
-msgid "In the Navigation Panel, right-click on the address book you wish to export."
+#: ../../contacts/toc.rst:249
+msgid "Share a Contact List with External Users"
 msgstr ""
 
 #: ../../contacts/toc.rst:251
-msgid "Select **Export csv file** from the drop-down menu. A new window appears."
+msgid "If you share an address book with external users, whoever has the link to your address book can access it. To share an address book with external users:"
 msgstr ""
 
-#: ../../contacts/toc.rst:252
-msgid "Select the destination folder to save the CSV file on your computer."
+#: ../../contacts/toc.rst:257
+msgid "Enter the email addresses with whom you wish to share the address book into the **Recipients’ e-mail addresses** field."
 msgstr ""
 
-#: ../../contacts/toc.rst:253
-msgid "Click **Save**."
-msgstr ""
-
-#: ../../contacts/toc.rst:258
-msgid "Import a CSV File as an Address Book"
-msgstr ""
-
-#: ../../contacts/toc.rst:260
-msgid "You can import the stored address book on your computer in CSV (comma-separated values) format to your |product| web client. To do so:"
-msgstr ""
-
-#: ../../contacts/toc.rst:263
-msgid "In the Navigation Panel, right-click on the address book you wish to import data in."
+#: ../../contacts/toc.rst:261
+msgid "This action will send an email to external users granting them access to your address book."
 msgstr ""
 
 #: ../../contacts/toc.rst:264
+msgid "Add Colleagues' Shared Contact Lists"
+msgstr ""
+
+#: ../../contacts/toc.rst:269
+msgid "In the Navigation Panel, click the downward arrow next to the **Shared Address Books** section."
+msgstr ""
+
+#: ../../contacts/toc.rst:270
+msgid "Under the **Shared Address Books** section, click the **FIND SHARES** button. A new window appears."
+msgstr ""
+
+#: ../../contacts/toc.rst:271
+msgid "Select the contact list shared with you from the list."
+msgstr ""
+
+#: ../../contacts/toc.rst:274
+msgid "Their shared contact list will appear in your **Shared Address Books** section."
+msgstr ""
+
+#: ../../contacts/toc.rst:277
+msgid "Export an Address Book as a CSV File"
+msgstr ""
+
+#: ../../contacts/toc.rst:279
+msgid "You can export and store your address book on your computer in CSV (comma-separated values) format. To do so:"
+msgstr ""
+
+#: ../../contacts/toc.rst:282
+msgid "In the Navigation Panel, right-click on the address book you wish to export."
+msgstr ""
+
+#: ../../contacts/toc.rst:283
+msgid "Select **Export csv file** from the drop-down menu. A new window appears."
+msgstr ""
+
+#: ../../contacts/toc.rst:284
+msgid "Select the destination folder to save the CSV file on your computer."
+msgstr ""
+
+#: ../../contacts/toc.rst:285
+msgid "Click **Save**."
+msgstr ""
+
+#: ../../contacts/toc.rst:290
+msgid "Import a CSV File as an Address Book"
+msgstr ""
+
+#: ../../contacts/toc.rst:292
+msgid "You can import the stored address book on your computer in CSV (comma-separated values) format to your |product| web client. To do so:"
+msgstr ""
+
+#: ../../contacts/toc.rst:295
+msgid "In the Navigation Panel, right-click on the address book you wish to import data in."
+msgstr ""
+
+#: ../../contacts/toc.rst:296
 msgid "Select **Import csv file** from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../contacts/toc.rst:265
+#: ../../contacts/toc.rst:297
 msgid "Select the csv file containing the address book information stored on your computer."
 msgstr ""
 
-#: ../../contacts/toc.rst:266
+#: ../../contacts/toc.rst:298
 #: ../../files/toc.rst:60
 #: ../../files/toc.rst:273
 msgid "Click **Open**."
 msgstr ""
 
-#: ../../contacts/toc.rst:268
+#: ../../contacts/toc.rst:300
 msgid "The files to be imported must have the following format."
 msgstr ""
 

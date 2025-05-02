@@ -76,7 +76,7 @@ If you do not take action to remove your spam emails, they will be automatically
 
 #.	Click on the **Mails** in the left sidebar.
 #.	Right-click on the **Junk** folder.
-#.	Select **Wipe Folder** from the menu.*
+#.	Select **Wipe Folder** from the menu.
 
 If you need to remove a specific spam email, you can easily right-click on the email and select **Delete**.
 

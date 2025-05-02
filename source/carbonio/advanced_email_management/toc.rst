@@ -76,7 +76,7 @@ If you do not take action to remove your spam emails, they will be automatically
 
 #.	Click on the **Mails** in the left sidebar.
 #.	Right-click on the **Junk** folder.
-#.	Select **Wipe Folder** from the menu.*
+#.	Select **Wipe Folder** from the menu.
 
 If you need to remove a specific spam email, you can easily right-click on the email and select **Delete**.
 
@@ -636,10 +636,10 @@ The Encryption Process
 1. Sender Retrieves Recipient’s Public Key
     * The sender must have the recipient’s public key.
 2. Email Encryption
-  * The sender composes an email and selects  "Encrypt with S/MIME" 
-  * Sender email content is encrypted using the recipient’s public key.
-  * The email is sent in an encrypted format.
-  * Recipient Decrypts the Email
+    * The sender composes an email and selects  "Encrypt with S/MIME" 
+    * Sender email content is encrypted using the recipient’s public key.
+    * The email is sent in an encrypted format.
+    * Recipient Decrypts the Email
       * When the recipient opens the email, its private key is used to decrypt the message.
       * If the private key matches the encrypted data, the email is decrypted and displayed normally.
 

@@ -2,9 +2,9 @@
 ..
 .. SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
-====================
- Working with Chats
-====================
+===========================================
+ Working with Chats :bdg-secondary:`LEGACY`
+===========================================
 
 
   .. image:: /img/chats.png

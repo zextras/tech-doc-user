@@ -2,9 +2,9 @@
 ..
 .. SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
-============================
- Working with Video Meetings
-============================
+====================================================
+ Working with Video Meetings :bdg-secondary:`LEGACY`
+====================================================
 
   .. image:: /img/video-meeting.png
                 :align: center

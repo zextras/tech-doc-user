@@ -193,6 +193,38 @@ To use your contact group:
                     :align: center
                     :width: 100%
 
+Sharing a Contact List
+======================
+
+You can share your address book with your colleagues or external users. This allows them to view and access the contacts you have stored in your address book.
+How to Share a Contact Group and open Contacts:
+
+#. Go to your Contacts section in the app.
+#. Create or Select a Group.
+#. To create: click “New Group”, add contacts, and assign it to a folder.
+#. To share an existing group: make sure it’s placed in a folder you can share.
+#. Place Group in a Folder:
+#. Move the group to a specific folder - or create a new one just for it.
+#. This allows you to share only what’s inside that folder.
+#. Share the Folder:
+#. Right-click the folder - “Share”.
+#. Choose the users and set their permission level:
+#. Can View
+#. Can Edit
+#. Confirm Shared Content:
+#. The user will only see the contacts and groups inside that folder.
+#. Your personal contacts and other folders remain private.
+
+Filtering Your View
+
+To manage what you see in Contacts:
+	•	Use the View Filter to display:
+	•	Only Contacts
+	•	Only Groups
+	•	Both
+
+This helps you focus on what matters.
+
 Share a Contact List with Your Colleagues
 =========================================
 

@@ -8,15 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Emmanuelle Hérillard <emmanuelle.herillard@zextras.fr>\n"
+"PO-Revision-Date: 2025-05-09 12:03+0000\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Language-Team: French <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -9072,7 +9073,7 @@ msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:7
 msgid "Working with Video Meetings(WSC)"
-msgstr ""
+msgstr "Travail avec les réunions vidéo (WSC)"
 
 #: ../../videomeetings(wsc)/toc.rst:13
 msgid ""
@@ -9099,7 +9100,7 @@ msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:20 ../../videomeetings/toc.rst:45
 msgid "To create a new room:"
-msgstr ""
+msgstr "Pour créer une nouvelle salle :"
 
 #: ../../videomeetings(wsc)/toc.rst:22 ../../videomeetings(wsc)/toc.rst:42
 #: ../../videomeetings(wsc)/toc.rst:51 ../../videomeetings(wsc)/toc.rst:64
@@ -9117,7 +9118,7 @@ msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:24
 msgid "Click on New Virtual Room's name*."
-msgstr ""
+msgstr "Cliquez sur le nom de la nouvelle salle virtuelle*."
 
 #: ../../videomeetings(wsc)/toc.rst:25
 msgid "Insert a name for the room in the field and click on the checkmark icon."
@@ -9128,6 +9129,8 @@ msgid ""
 "Choose the room's moderators, who will have the ability to manage the "
 "room."
 msgstr ""
+"Choisissez les modérateurs de la salle, qui auront la possibilité de gérer "
+"la salle."
 
 #: ../../videomeetings(wsc)/toc.rst:28
 msgid ""
@@ -9179,10 +9182,14 @@ msgid ""
 "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the "
 "list of chats to open your list of rooms."
 msgstr ""
+"Cliquez sur VOS SALLES VIRTUELLES situé en bas à gauche sous la liste des "
+"discussions pour ouvrir votre liste de salles."
 
 #: ../../videomeetings(wsc)/toc.rst:44 ../../videomeetings(wsc)/toc.rst:66
 msgid "You can use the Arrow icon beside the room’s name to enter it."
 msgstr ""
+"Vous pouvez utiliser l'icône de flèche à côté du nom de la salle pour y "
+"entrer."
 
 #: ../../videomeetings(wsc)/toc.rst:47
 #, fuzzy
@@ -9191,15 +9198,15 @@ msgstr "Modification d'un filtre"
 
 #: ../../videomeetings(wsc)/toc.rst:49
 msgid "To edit the details of a room:"
-msgstr ""
+msgstr "Pour modifier les détails d'une salle :"
 
 #: ../../videomeetings(wsc)/toc.rst:53
 msgid "Click the three dots icon beside the room’s name."
-msgstr ""
+msgstr "Cliquez sur l'icône des trois points à côté du nom de la salle."
 
 #: ../../videomeetings(wsc)/toc.rst:54
 msgid "Choose EDIT."
-msgstr ""
+msgstr "Choisissez MODIFIER."
 
 #: ../../videomeetings(wsc)/toc.rst:55
 #, fuzzy
@@ -9213,7 +9220,7 @@ msgstr "Cliquez sur le bouton **+**, pour les ajouter tous."
 
 #: ../../videomeetings(wsc)/toc.rst:60
 msgid "Entering A Virtual Room"
-msgstr ""
+msgstr "Entrer dans une salle virtuelle"
 
 #: ../../videomeetings(wsc)/toc.rst:62 ../../videomeetings/toc.rst:64
 msgid ""
@@ -10592,4 +10599,3 @@ msgstr ""
 #~ " #. Your personal contacts and other"
 #~ " folders remain private."
 #~ msgstr ""
-

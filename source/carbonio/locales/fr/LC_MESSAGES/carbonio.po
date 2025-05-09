@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.9\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-05-09 18:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-09 20:47+0000\n"
+"Last-Translator: Gianluca Boiano <gianluca.boiano@zextras.com>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
@@ -291,7 +291,7 @@ msgstr "Cliquez avec le bouton droit de la souris sur le dossier **Spam**."
 
 #: ../../advanced_email_management/toc.rst:79
 msgid "Select **Wipe Folder** from the menu."
-msgstr "Sélectionnez **Effacer le dossier** dans le menu.*"
+msgstr "Accédez à **Nettoyer le dossier** dans le menu pour continuer."
 
 #: ../../advanced_email_management/toc.rst:81
 msgid ""
@@ -786,7 +786,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:223
 msgid "**First field**: This field contains multiple values. i.e."
-msgstr "**Premier champ** : Ce champ contient plusieurs valeurs. Notamment"
+msgstr "**Premier champ** : Ce champ contient plusieurs valeurs. i.e."
 
 #: ../../advanced_email_management/toc.rst:225
 msgid "**From**: Specifies the sender's email address."
@@ -4624,7 +4624,7 @@ msgstr "25.07.2024 17h08"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "*🇮🇳 Hindi*"
-msgstr "*🇫🇷 Hindi* devient *Hindi* en français est *Le hindi*."
+msgstr "*🇮🇳 Hindi*"
 
 #: ../../browsing_emails/dateformat.csv:1
 msgid "२५/०७/२०२४ शाम ५:१३ बजे"
@@ -4815,8 +4815,12 @@ msgid ""
 "events, personal appointments, and company activities, enabling you to "
 "manage each aspect of your schedule efficiently."
 msgstr ""
-"Dans Carbonio, un calendrier par défaut est créé pour vous. Cependant, vous "
-"pouvez créer des calendriers suppl"
+"Le calendrier par défaut dans |product| peut être complété par des "
+"calendriers supplémentaires, vous permettant d'organiser vos rendez-vous en "
+"fonction de vos besoins. Vous pouvez ainsi créer des calendriers dédiés aux "
+"événements de travail, aux rendez-vous personnels et aux activités de "
+"l'entreprise, et gérer votre emploi du temps de manière organisée et "
+"efficace."
 
 #: ../../calendars/toc.rst:59
 msgid "To create a calendar:"
@@ -5353,8 +5357,8 @@ msgid ""
 "Confirm that you want to delete the group, by clicking on the red button "
 "**DELETE PERMANENTLY**"
 msgstr ""
-"Confirmez que vous souhaitez supprimer le groupe en cliquant sur le "
-"bouton rouge **SUPPRIMER DÉFINITIVEMENT**."
+"Confirmez que vous souhaitez supprimer le groupe en cliquant sur le bouton "
+"rouge **SUPPRIMER DÉFINITIVEMENT**"
 
 #: ../../calendars/toc.rst:254
 msgid "The group will be permanently deleted."
@@ -5901,7 +5905,7 @@ msgstr "Cliquez sur **NOUVEAU GROUPE**."
 
 #: ../../chats(wsc)/toc.rst:170
 msgid "Now this group is added to your list."
-msgstr "Maintenant, ce groupe est ajouté à votre"
+msgstr "Vous venez d'ajouter ce groupe à votre liste de groupes."
 
 #: ../../chats(wsc)/toc.rst:172 ../../chats/toc.rst:143
 msgid ""
@@ -6131,8 +6135,11 @@ msgid ""
 "productivity regardless of their location, whether remote or in the "
 "office."
 msgstr ""
-"Que ce soit pour partager des mises à jour, échanger des idées ou "
-"coordonner des tâches, les discussions offrent une plate-forme"
+"Que ce soit pour partager des mises à jour, échanger des idées ou coordonner "
+"des tâches, les discussions offrent une plate-forme rationalisée pour une "
+"collaboration d'équipe efficace. Les alertes de notification maintiennent "
+"les utilisateurs connectés et informés, garantissant la productivité quel "
+"que soit leur emplacement, que ce soit à distance ou au bureau."
 
 #: ../../chats/toc.rst:29
 msgid ""
@@ -6185,7 +6192,7 @@ msgstr ""
 
 #: ../../chats/toc.rst:141
 msgid "Now this group is added to your list under the Chats tab."
-msgstr "Maintenant, ce groupe est ajouté à votre"
+msgstr "Le groupe est maintenant ajouté à votre liste dans l'onglet Chats."
 
 #: ../../chats/toc.rst:146
 msgid "Add Participants to a Group"
@@ -6310,7 +6317,9 @@ msgstr "Pour éditer le nom d'un groupe :"
 msgid ""
 "On the right side of the Main Panel, click on the pen icon next to the "
 "group’s name."
-msgstr "Sur le"
+msgstr ""
+"Dans le panneau principal, recherchez le nom du groupe et cliquez sur "
+"l'icône de stylo à côté pour accéder aux options de modification."
 
 #: ../../chats/toc.rst:195 ../../files/toc.rst:134
 msgid "Edit the name."
@@ -6361,9 +6370,10 @@ msgid ""
 "composer and how to use its various features including working with "
 "attachments, addressing emails, using account personas, etc."
 msgstr ""
-"Dans cette section, vous découvrirez comment naviguer dans le compositeur "
-"d'e-mail de Carbonio et comment utiliser ses différentes fonctionnalités, "
-"notamment le travail avec les pièces jointes, l'adresse"
+"Dans cette partie, vous trouverez des informations sur la façon de naviguer "
+"dans le compositeur d'e-mail de |product| et d'utiliser ses différentes "
+"fonctionnalités, notamment la gestion des pièces jointes, la rédaction "
+"d'adresses e-mail, l'utilisation de personnages de compte, etc."
 
 #: ../../composing_emails/toc.rst:12
 msgid "Composing a New Email"
@@ -6406,7 +6416,7 @@ msgstr ""
 
 #: ../../composing_emails/toc.rst:21
 msgid "Write a brief subject in the *Subject* field."
-msgstr "Objet : Demande de traduction de logiciel informatique"
+msgstr "Écrivez un bref objet dans le champ *Objet*."
 
 #: ../../composing_emails/toc.rst:22
 msgid "Compose your message in the body."
@@ -6704,13 +6714,13 @@ msgid ""
 "inside the composing board and choosing the \"Add public link from Files "
 "option\". (lui suggerisce)"
 msgstr ""
-"Lorsque vous souhaitez joindre de gros fichiers à un e-mail, vous pouvez "
-"rencontrer certaines limitations. Lorsque vous atteignez la limite de taille "
-"définie par votre administrateur pour les pièces jointes, en utilisant "
-"l'option \"liens intelligents\", il est possible de convertir chaque pièce "
-"jointe en Liens intelligents en cliquant sur l'icône **trombone** à "
-"l'intérieur du panneau de composition et en choisissant l'option "
-"\"Ajouter un lien public à partir de Fichiers\"."
+"Lorsque vous souhaitez joindre des pièces jointes volumineuses à un e-mail, "
+"vous pouvez rencontrer certaines limitations. Lorsque vous atteignez la "
+"taille limite définie par votre administrateur pour les pièces jointes, "
+"grâce à l'option « Liens intelligents », vous pouvez convertir chaque pièce "
+"jointe en liens intelligents en cliquant sur l'icône **trombone** dans le "
+"panneau de composition et en choisissant l'option "
+"\"Ajouter un lien public à partir de Fichiers\". (suggestion)"
 
 #: ../../composing_emails/toc.rst:116
 msgid ""
@@ -7543,7 +7553,7 @@ msgstr "Accédez à la section Contacts dans l'application."
 
 #: ../../contacts/toc.rst:203
 msgid "Create or Select a Group."
-msgstr "Pour quitter un groupe :"
+msgstr "Créer ou Sélectionner un Groupe."
 
 #: ../../contacts/toc.rst:204
 msgid "To create: click “New Group”, add contacts, and assign it to a folder."
@@ -9220,7 +9230,7 @@ msgid ""
 "updates every 30 seconds"
 msgstr ""
 "Ceci crée une instance dans l'application qui génère un code temporaire mis "
-"à jour toutes les 30 secondes."
+"à jour toutes les 30 secondes"
 
 #: ../../get_started/toc.rst:47 ../../get_started/toc.rst:94
 msgid "Logging In with 2FA:"
@@ -9487,7 +9497,9 @@ msgstr "En utilisant l'icône de compte :"
 msgid ""
 "Click on the account icon located in the top-right corner of the webmail "
 "interface."
-msgstr "Cliquez sur"
+msgstr ""
+"Cliquez sur l'icône représentant votre compte, en haut à droite de "
+"l'interface de messagerie web."
 
 #: ../../get_started/toc.rst:136
 msgid "Select the **Logout** button."
@@ -10262,7 +10274,8 @@ msgstr ""
 
 #: ../../search/toc.rst:64
 msgid "**Sent before**: Search for emails sent before the specified date."
-msgstr "**Rechercher les emails envoyés avant la date spécifiée.**"
+msgstr ""
+"**Envoyé avant** : Recherchez les e-mails envoyés avant la date spécifiée."
 
 #: ../../search/toc.rst:65
 msgid "**Sent after**: Search for emails sent after the specified date."
@@ -10458,14 +10471,14 @@ msgid ""
 "**Attachment**: Specifies any item with a certain type of attachment. "
 "Example: attachment:word."
 msgstr ""
-"**Pièce jointe** : Spécifie tout élément avec un certain type de pièce "
-"jointe. Exemple : pièce jointe: mot."
+"**Pièce jointe**: Spécifie tout élément avec un certain type de pièce "
+"jointe. Exemple : pièce jointe : mot."
 
 #: ../../search/toc.rst:103
 msgid "**Is**: Searches for messages with a specific status. Example: is:unread."
 msgstr ""
-"**Est**: Recherche des messages avec un statut spécifique. Exemple : est:non "
-"lu."
+"**Est**: Recherche des messages avec un statut spécifique. Exemple : est :"
+"non lu."
 
 #: ../../search/toc.rst:104
 msgid "**Date**: Specifies a date. Example: date:02/20/2024."
@@ -10492,8 +10505,8 @@ msgid ""
 "**Size**: Specifies emails based on their total size, including "
 "attachments. Example: size: 1MB."
 msgstr ""
-"**Taille** : Spécifie les e-mails en fonction de leur taille totale, y "
-"compris les pièces jointes. Exemple : taille: 1Mo."
+"**Taille**: Spécifie les e-mails en fonction de leur taille totale, y "
+"compris les pièces jointes. Exemple : taille : 1Mo."
 
 #: ../../search/toc.rst:108
 msgid ""

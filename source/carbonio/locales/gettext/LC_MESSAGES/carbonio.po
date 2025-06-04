@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-02 16:29+0200\n"
-"PO-Revision-Date: 2024-12-24 06:14+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"PO-Revision-Date: 2025-05-09 18:16+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/gettext/>\n"
 "Language: gettext\n"
-"Language-Team: gettext (generated) "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/gettext/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -230,7 +231,6 @@ msgid "Right-click on the **Junk** folder."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:79
-#, fuzzy
 msgid "Select **Wipe Folder** from the menu."
 msgstr "Seleziona **Cancella cartella** dal menu.*"
 
@@ -1393,7 +1393,6 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:555
-#, fuzzy
 msgid "S/MIME signed emails"
 msgstr "Composizione di email"
 
@@ -1492,7 +1491,6 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:598
-#, fuzzy
 msgid "Signing an Email"
 msgstr "Assegnazione di un tag a un'e-mail"
 
@@ -1630,7 +1628,6 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:661
 #: ../../advanced_email_management/toc.rst:667
-#, fuzzy
 msgid "Click Save."
 msgstr "Clicca su **Salva**."
 
@@ -1659,7 +1656,6 @@ msgid "The email will be encrypted using the recipient’s public key."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:677
-#, fuzzy
 msgid "Receiving and Decrypting an Email"
 msgstr "Rimozione di un tag da un'e-mail"
 
@@ -2181,15 +2177,14 @@ msgid "Basic Email Management"
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:9
-#, fuzzy
 msgid ""
 "In this section, we will delve into the versatile functionalities of "
 "|product|, focusing on its efficient organizational tools such as "
 "folders, tags, and sharing capabilities."
 msgstr ""
 "In questa sezione, analizzeremo le funzionalità versatili di Carbonio, "
-"concentrandoci sugli strumenti organizzativi efficienti come cartelle, "
-"tag e funzionalità di condivisione."
+"concentrandoci sugli strumenti organizzativi efficienti come cartelle, tag e "
+"funzionalità di condivisione."
 
 #: ../../basic_email_management/toc.rst:12
 msgid "Using Tags"
@@ -2930,7 +2925,6 @@ msgid "Select the email from the main panel."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:24
-#, fuzzy
 msgid ""
 "Within the |product| web client, there are two distinct methods for "
 "displaying emails:"
@@ -3660,15 +3654,14 @@ msgid "Working with Calendars"
 msgstr "Lavorare con i calendari"
 
 #: ../../calendars/toc.rst:13
-#, fuzzy
 msgid ""
 "You can utilize the |product| Calendar feature to effectively manage your"
 " appointments, meetings, and events. Additionally, |product| enables you "
 "to share your calendars with colleagues or friends."
 msgstr ""
-"Bạn có thể sử dụng tính năng Lịch của Carbonio để quản lý cuộc hẹn, cuộc "
-"họp và sự kiện của mình hiệu quả. Ngoài ra, Carbonio cũng cho phép bạn "
-"chia sẻ lịch của mình với đồng nghiệp hoặc bạn bè."
+"Bạn có thể sử dụng tính năng Lịch của Carbonio để quản lý cuộc hẹn, cuộc họp "
+"và sự kiện của mình hiệu quả. Ngoài ra, Carbonio cũng cho phép bạn chia sẻ "
+"lịch của mình với đồng nghiệp hoặc bạn bè."
 
 #: ../../calendars/toc.rst:15
 msgid ""
@@ -3681,15 +3674,14 @@ msgid "Setting Default Calendar View"
 msgstr "Cài đặt chế độ xem lịch mặc định"
 
 #: ../../calendars/toc.rst:20
-#, fuzzy
 msgid ""
 "In |product|, the default view when opening your calendar is the Work "
 "Week View. However, you have the option to customize this and choose a "
 "different view to display upon opening."
 msgstr ""
-"Trong Carbonio, chế độ xem mặc định khi mở lịch là chế độ xem Tuần làm "
-"việc. Tuy nhiên, bạn có thể tùy chỉnh chế độ xem này và chọn một chế độ "
-"xem khác để hiển thị khi mở."
+"Trong Carbonio, chế độ xem mặc định khi mở lịch là chế độ xem Tuần làm việc. "
+"Tuy nhiên, bạn có thể tùy chỉnh chế độ xem này và chọn một chế độ xem khác "
+"để hiển thị khi mở."
 
 #: ../../calendars/toc.rst:22
 msgid "To change the default calendar view:"
@@ -3811,7 +3803,6 @@ msgid "Click the **CREATE** button."
 msgstr ""
 
 #: ../../calendars/toc.rst:68
-#, fuzzy
 msgid ""
 "You can utilize the checkbox labeled **Exclude this calendar when "
 "reporting the free/busy times** when creating the calendar if you prefer "
@@ -3822,11 +3813,11 @@ msgid ""
 "from this calendar."
 msgstr ""
 "Puoi utilizzare la casella di controllo etichettata **Escludi questo "
-"calendario quando si segnalano gli orari di disponibilità** quando crei "
-"il calendario se preferisci non includere gli eventi di questo calendario"
-" specifico quando Carbonio segnala la tua disponibilità ai colleghi. "
-"Questa funzione è particolarmente utile quando si creano calendari per "
-"uso personale, assicurando che la tua disponibilità per le riunioni sia "
+"calendario quando si segnalano gli orari di disponibilità** quando crei il "
+"calendario se preferisci non includere gli eventi di questo calendario "
+"specifico quando Carbonio segnala la tua disponibilità ai colleghi. Questa "
+"funzione è particolarmente utile quando si creano calendari per uso "
+"personale, assicurando che la tua disponibilità per le riunioni sia "
 "rappresentata in modo accurato senza divulgare dettagli degli eventi di "
 "questo calendario."
 
@@ -4336,7 +4327,6 @@ msgid ""
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:7
-#, fuzzy
 msgid "Working with Chats (WSC)"
 msgstr "Lavorare con i contatti"
 
@@ -4385,13 +4375,12 @@ msgid "Click on the name of the colleague that appears in the list."
 msgstr "Fai clic sul nome del collega che appare nell'elenco."
 
 #: ../../chats(wsc)/toc.rst:27
-#, fuzzy
 msgid ""
 "Now, this chat is added under the Chats module, containing a list of all "
 "available chats."
 msgstr ""
-"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco"
-" di tutte le chat disponibili."
+"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco di "
+"tutte le chat disponibili."
 
 #: ../../chats(wsc)/toc.rst:29
 msgid ""
@@ -4420,7 +4409,6 @@ msgid ""
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:36
-#, fuzzy
 msgid "In the \"Type to filter list\" field, insert your colleague's name."
 msgstr "Sotto il campo **Filtra lista chat**, inserire il nome del collega."
 
@@ -4429,7 +4417,6 @@ msgid "The new chat will be created automatically."
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:39
-#, fuzzy
 msgid ""
 "Start typing your message in the bottom text box. You can also add emojis"
 " and attach files to your message. Press Enter on Windows or Return on "
@@ -4437,8 +4424,8 @@ msgid ""
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il tuo "
 "messaggio nella casella di testo in basso. Puoi anche aggiungere emoji e "
-"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per"
-" inviare il messaggio."
+"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per "
+"inviare il messaggio."
 
 #: ../../chats(wsc)/toc.rst:43 ../../chats/toc.rst:36
 msgid "Adding Emojis to Your Message"
@@ -4498,7 +4485,6 @@ msgid "Click **Open** to attach the file to your message."
 msgstr "Fai clic su **Apri** per allegare il file al messaggio."
 
 #: ../../chats(wsc)/toc.rst:60 ../../chats/toc.rst:53
-#, fuzzy
 msgid "Sending Files from |product| Files in Chats"
 msgstr "Invio di file da Carbonio Files in Chats"
 
@@ -4574,19 +4560,16 @@ msgid "Write the reply and hit enter."
 msgstr "Scrivi la risposta e premi invio."
 
 #: ../../chats(wsc)/toc.rst:95
-#, fuzzy
 msgid "Reply A Message with a Reaction"
 msgstr "Rispondi a un messaggio"
 
 #: ../../chats(wsc)/toc.rst:99
-#, fuzzy
 msgid "Click on the emoji icon located next to the downward arrow."
 msgstr ""
-"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla "
-"del messaggio."
+"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla del "
+"messaggio."
 
 #: ../../chats(wsc)/toc.rst:100
-#, fuzzy
 msgid "Select the emoji you want to send between the ones in the menu."
 msgstr "Seleziona la chat in cui desideri inviare il file."
 
@@ -4739,12 +4722,10 @@ msgid "In the right panel you will find the following possible actions:"
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:176
-#, fuzzy
 msgid "Mute notifications"
 msgstr "Silenzia le notifiche di una chat"
 
 #: ../../chats(wsc)/toc.rst:177
-#, fuzzy
 msgid "Edit details"
 msgstr "Lettura degli email"
 
@@ -4761,7 +4742,6 @@ msgid "Delete Group"
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:183
-#, fuzzy
 msgid "Mute Notifications of a Group"
 msgstr "Silenzia le notifiche di una chat"
 
@@ -4773,12 +4753,10 @@ msgid ""
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:188
-#, fuzzy
 msgid "Select the group for which you want to mute notifications."
 msgstr "Seleziona la chat in cui desideri inviare il file."
 
 #: ../../chats(wsc)/toc.rst:190
-#, fuzzy
 msgid "Click **MUTE** to confirm."
 msgstr "Clicca su **SPOSTA** per confermare."
 
@@ -4827,7 +4805,6 @@ msgid "Press the save icon on the right."
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:206
-#, fuzzy
 msgid "Click **SAVE** to confirm."
 msgstr "Clicca su **SPOSTA** per confermare."
 
@@ -4840,18 +4817,16 @@ msgid "To add new members to a group:"
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:214
-#, fuzzy
 msgid "Select the group to which you want to add new members."
 msgstr "Seleziona la chat a cui desideri inoltrare il messaggio."
 
 #: ../../chats(wsc)/toc.rst:215
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, under the Actions section, click on "
 "the Add new members."
 msgstr ""
-"Sul lato destro del Pannello principale, fare clic sull'icona della penna"
-" accanto al nome del gruppo."
+"Sul lato destro del Pannello principale, fare clic sull'icona della penna "
+"accanto al nome del gruppo."
 
 #: ../../chats(wsc)/toc.rst:216
 msgid ""
@@ -4898,7 +4873,6 @@ msgid ""
 msgstr ""
 
 #: ../../chats/toc.rst:7
-#, fuzzy
 msgid "Working with Chats :bdg-secondary:`LEGACY`"
 msgstr "Working with Chats (WSC) :bdg-primary:`NEW`"
 
@@ -5332,7 +5306,6 @@ msgid ""
 msgstr ""
 
 #: ../../composing_emails/toc.rst:95
-#, fuzzy
 msgid "Adding attachment from your |product| Files:"
 msgstr "Aggiungere un file dal computer"
 
@@ -6034,7 +6007,6 @@ msgid ""
 msgstr ""
 
 #: ../../contacts/toc.rst:197
-#, fuzzy
 msgid "Sharing a Contact List"
 msgstr "Modifica di un contatto"
 
@@ -6064,7 +6036,6 @@ msgid ""
 msgstr ""
 
 #: ../../contacts/toc.rst:206
-#, fuzzy
 msgid "Place Group in a Folder:"
 msgstr "Creazione di una cartella"
 
@@ -6077,12 +6048,10 @@ msgid "This allows you to share only what’s inside that folder."
 msgstr ""
 
 #: ../../contacts/toc.rst:209
-#, fuzzy
 msgid "Share the Folder:"
 msgstr "Ruoli della cartella email condivisa"
 
 #: ../../contacts/toc.rst:210
-#, fuzzy
 msgid "Right-click the folder - “Share”."
 msgstr "Fai clic destro sul file."
 
@@ -6123,7 +6092,6 @@ msgid "Use the View Filter to display:"
 msgstr ""
 
 #: ../../contacts/toc.rst:222
-#, fuzzy
 msgid "Only Contacts"
 msgstr "Lavorare con i contatti"
 
@@ -6140,7 +6108,6 @@ msgid "This helps you focus on what matters."
 msgstr ""
 
 #: ../../contacts/toc.rst:229
-#, fuzzy
 msgid "Share a Contact List with Your Colleagues"
 msgstr "Condivisione dei calendari con i colleghi"
 
@@ -6272,13 +6239,12 @@ msgid "Import a CSV File as an Address Book"
 msgstr "Importa un file CSV come indirizzario"
 
 #: ../../contacts/toc.rst:292
-#, fuzzy
 msgid ""
 "You can import the stored address book on your computer in CSV (comma-"
 "separated values) format to your |product| web client. To do so:"
 msgstr ""
-"Puoi importare l'indirizzario salvato sul tuo computer in formato CSV "
-"(valori separati da virgole) nel tuo client web Carbonio. Per farlo:"
+"Puoi importare l'indirizzario salvato sul tuo computer in formato CSV ("
+"valori separati da virgole) nel tuo client web Carbonio. Per farlo:"
 
 #: ../../contacts/toc.rst:295
 msgid ""
@@ -7566,9 +7532,9 @@ msgid "First Flow:"
 msgstr ""
 
 #: ../../get_started/toc.rst:116
-#, fuzzy
 msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
-msgstr "When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
+msgstr ""
+"When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
 
 #: ../../get_started/toc.rst:117
 msgid "Click it, and it will automatically sign you into your webmail."
@@ -7820,7 +7786,6 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:212
-#, fuzzy
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on |product|."
@@ -7920,13 +7885,12 @@ msgid "Changing Font Size"
 msgstr ""
 
 #: ../../get_started/toc.rst:252
-#, fuzzy
 msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
 msgstr ""
-"You can change the font size across all Carbonio web clients according to"
-" your preferences. To change the font size simply follow these steps:"
+"You can change the font size across all Carbonio web clients according to "
+"your preferences. To change the font size simply follow these steps:"
 
 #: ../../get_started/toc.rst:254 ../../get_started/toc.rst:273
 #: ../../get_started/toc.rst:288
@@ -8073,13 +8037,12 @@ msgid ""
 msgstr ""
 
 #: ../../search/toc.rst:14
-#, fuzzy
 msgid ""
 "These search capabilities provide efficient ways to locate and manage "
 "your data within the |product| web client."
 msgstr ""
-"These search capabilities provide efficient ways to locate and manage "
-"your data within the Carbonio web client."
+"These search capabilities provide efficient ways to locate and manage your "
+"data within the Carbonio web client."
 
 #: ../../search/toc.rst:18
 msgid "Using Quick Search for Different Items"
@@ -8525,7 +8488,6 @@ msgid "Select **Complete** from the drop-down menu."
 msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:7
-#, fuzzy
 msgid "Working with Video Meetings(WSC)"
 msgstr "Lavorare con file"
 
@@ -8631,7 +8593,6 @@ msgid "You can use the Arrow icon beside the room’s name to enter it."
 msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:47
-#, fuzzy
 msgid "Editing Room Details"
 msgstr "Lettura degli email"
 
@@ -8648,12 +8609,10 @@ msgid "Choose EDIT."
 msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:55
-#, fuzzy
 msgid "Edit the room’s name and moderators."
 msgstr "Modifica il messaggio e premi invio."
 
 #: ../../videomeetings(wsc)/toc.rst:56
-#, fuzzy
 msgid "Click the button EDIT to save the changes."
 msgstr "Fare clic sul pulsante **INVIA** per inviare l'email."
 
@@ -10182,4 +10141,3 @@ msgstr ""
 #~ " #. Your personal contacts and other"
 #~ " folders remain private."
 #~ msgstr ""
-

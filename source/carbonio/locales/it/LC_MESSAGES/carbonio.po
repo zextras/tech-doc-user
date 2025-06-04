@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-02 16:29+0200\n"
-"PO-Revision-Date: 2025-02-22 16:54+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"PO-Revision-Date: 2025-05-09 18:16+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -284,7 +284,6 @@ msgid "Right-click on the **Junk** folder."
 msgstr "Fai clic destro sulla cartella **Spam**."
 
 #: ../../advanced_email_management/toc.rst:79
-#, fuzzy
 msgid "Select **Wipe Folder** from the menu."
 msgstr "Seleziona **Pulisci Cartella** dal menu."
 
@@ -1787,7 +1786,6 @@ msgstr ""
 "automatica per le email che superano il periodo di cancellazione."
 
 #: ../../advanced_email_management/toc.rst:555
-#, fuzzy
 msgid "S/MIME signed emails"
 msgstr "Inviare email firmate con S/MIME"
 
@@ -1886,7 +1884,6 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:598
-#, fuzzy
 msgid "Signing an Email"
 msgstr "Stampare un'Email"
 
@@ -1899,7 +1896,6 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:607
-#, fuzzy
 msgid "Verifying a Signed Email"
 msgstr "Inviare email firmate con S/MIME"
 
@@ -1962,7 +1958,6 @@ msgid "The sender must have the recipient’s public key."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:644
-#, fuzzy
 msgid "Email Encryption"
 msgstr "Notifica di Arrivo Email"
 
@@ -2026,7 +2021,6 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:661
 #: ../../advanced_email_management/toc.rst:667
-#, fuzzy
 msgid "Click Save."
 msgstr "Clicca su **Salva**."
 
@@ -2039,7 +2033,6 @@ msgid "Click \"Upload Certificate\" under Recipients certificates for encryption
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:670
-#, fuzzy
 msgid "Sending an Encrypted Email"
 msgstr "Inviare un'Email in Bozza"
 
@@ -2048,7 +2041,6 @@ msgid "Compose a new email in Carbonio webmail."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:673
-#, fuzzy
 msgid "Select \"Use certificate to encrypt (S/MIME)\" before sending."
 msgstr "Seleziona **Usa certificato per firmare (S/MIME)** dal menu che appare."
 
@@ -2057,7 +2049,6 @@ msgid "The email will be encrypted using the recipient’s public key."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:677
-#, fuzzy
 msgid "Receiving and Decrypting an Email"
 msgstr "Rimuovere un'Etichetta da un'Email"
 
@@ -2185,7 +2176,6 @@ msgstr ""
 " nel vostro ufficio siano incluse."
 
 #: ../../appointments/toc.rst:32
-#, fuzzy
 msgid ""
 "If you prefer to host a virtual meeting using |product| Chats' video "
 "meeting feature in one of your virtual rooms, you can select the desired "
@@ -2193,10 +2183,10 @@ msgid ""
 "virtual rooms yet, you can easily create them by clicking the button "
 "**\"CREATE NEW VIRTUAL ROOM\"**."
 msgstr ""
-"Se preferisci tenere una riunione virtuale, utilizzando la funzione video"
-" chiamate di Carbonio Chats, puoi selezionare la stanza virtuale "
-"desiderata dal campo **Stanza virtuale**. Se non hai ancora configurato "
-"stanze virtuali, puoi crearle facilmente attraverso la sezione Chats."
+"Se preferisci tenere una riunione virtuale, utilizzando la funzione video "
+"chiamate di Carbonio Chats, puoi selezionare la stanza virtuale desiderata "
+"dal campo **Stanza virtuale**. Se non hai ancora configurato stanze "
+"virtuali, puoi crearle facilmente attraverso la sezione Chats."
 
 #: ../../appointments/toc.rst:33 ../../appointments/toc.rst:137
 msgid ""
@@ -5282,7 +5272,6 @@ msgstr ""
 "download."
 
 #: ../../chats(wsc)/toc.rst:7
-#, fuzzy
 msgid "Working with Chats (WSC)"
 msgstr "Chat"
 
@@ -5343,7 +5332,6 @@ msgid "Click on the name of the colleague that appears in the list."
 msgstr "Clicca sul nome del collega che compare nell'elenco."
 
 #: ../../chats(wsc)/toc.rst:27
-#, fuzzy
 msgid ""
 "Now, this chat is added under the Chats module, containing a list of all "
 "available chats."
@@ -5381,7 +5369,6 @@ msgid ""
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:36
-#, fuzzy
 msgid "In the \"Type to filter list\" field, insert your colleague's name."
 msgstr "Nel campo Filtra l'elenco digitando, inserisci il nome del tuo collega."
 
@@ -5390,7 +5377,6 @@ msgid "The new chat will be created automatically."
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:39
-#, fuzzy
 msgid ""
 "Start typing your message in the bottom text box. You can also add emojis"
 " and attach files to your message. Press Enter on Windows or Return on "
@@ -5398,8 +5384,8 @@ msgid ""
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il tuo "
 "messaggio nella casella di testo in basso. Puoi anche aggiungere emoji e "
-"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per"
-" inviare il messaggio."
+"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per "
+"inviare il messaggio."
 
 #: ../../chats(wsc)/toc.rst:43 ../../chats/toc.rst:36
 msgid "Adding Emojis to Your Message"
@@ -5538,19 +5524,16 @@ msgid "Write the reply and hit enter."
 msgstr "Scrivi la risposta e premi invio."
 
 #: ../../chats(wsc)/toc.rst:95
-#, fuzzy
 msgid "Reply A Message with a Reaction"
 msgstr "Rispondi a un Messaggio"
 
 #: ../../chats(wsc)/toc.rst:99
-#, fuzzy
 msgid "Click on the emoji icon located next to the downward arrow."
 msgstr ""
 "Clicca sulla freccia rivolta verso il basso accanto alla sezione "
 "**Etichette**."
 
 #: ../../chats(wsc)/toc.rst:100
-#, fuzzy
 msgid "Select the emoji you want to send between the ones in the menu."
 msgstr "Seleziona il filtro che desideri eliminare dall'elenco."
 
@@ -5703,7 +5686,6 @@ msgid "Click **NEW GROUP**."
 msgstr "Fai clic su **NUOVO GRUPPO**."
 
 #: ../../chats(wsc)/toc.rst:170
-#, fuzzy
 msgid "Now this group is added to your list."
 msgstr "Ora questo gruppo viene aggiunto alla tua lista sotto la scheda Chat."
 
@@ -5724,12 +5706,10 @@ msgid "In the right panel you will find the following possible actions:"
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:176
-#, fuzzy
 msgid "Mute notifications"
 msgstr "Silenzia notifiche di una chat"
 
 #: ../../chats(wsc)/toc.rst:177
-#, fuzzy
 msgid "Edit details"
 msgstr "Leggere le Email"
 
@@ -5738,39 +5718,33 @@ msgid "Add new members"
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:179
-#, fuzzy
 msgid "Clear history"
 msgstr "Cancella la cronologia di una Chat"
 
 #: ../../chats(wsc)/toc.rst:180 ../../chats(wsc)/toc.rst:236
-#, fuzzy
 msgid "Delete Group"
 msgstr "Abbandona conversazione"
 
 #: ../../chats(wsc)/toc.rst:183
-#, fuzzy
 msgid "Mute Notifications of a Group"
 msgstr "Silenzia notifiche di una chat"
 
 #: ../../chats(wsc)/toc.rst:185
-#, fuzzy
 msgid ""
 "When you receive a new message in a group chat, you will see a "
 "notification on your screen to inform you. If you want to disable "
 "notifications for a specific group, follow these steps:"
 msgstr ""
-"Quando ricevi un nuovo messaggio in una chat personale o di gruppo, "
-"apparirà sulla schermata una notifica per informarti. Se desideri "
-"disabilitare le notifiche per una chat o un gruppo specifico, segui "
-"questi passaggi:"
+"Quando ricevi un nuovo messaggio in una chat personale o di gruppo, apparirà "
+"sulla schermata una notifica per informarti. Se desideri disabilitare le "
+"notifiche per una chat o un gruppo specifico, segui questi passaggi:"
 
 #: ../../chats(wsc)/toc.rst:188
-#, fuzzy
 msgid "Select the group for which you want to mute notifications."
-msgstr "Seleziona la chat o il gruppo per cui desideri disattivare le notifiche."
+msgstr ""
+"Seleziona la chat o il gruppo per cui desideri disattivare le notifiche."
 
 #: ../../chats(wsc)/toc.rst:190
-#, fuzzy
 msgid "Click **MUTE** to confirm."
 msgstr "Fai clic su **RIMUOVI** per confermare."
 
@@ -5786,7 +5760,6 @@ msgid "Edit Details of a Group"
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:199
-#, fuzzy
 msgid "To edit a group’s name or topic:"
 msgstr "Modifica nome di un gruppo o argomento"
 
@@ -5822,42 +5795,36 @@ msgid "Press the save icon on the right."
 msgstr "Premi l'icona di salveataggio sulla destra."
 
 #: ../../chats(wsc)/toc.rst:206
-#, fuzzy
 msgid "Click **SAVE** to confirm."
 msgstr "Cliccare su **Esci** per confermare."
 
 #: ../../chats(wsc)/toc.rst:209
-#, fuzzy
 msgid "Add New Members to a Group"
 msgstr "Aggiunta di nuovi membri a una riunione video"
 
 #: ../../chats(wsc)/toc.rst:211
-#, fuzzy
 msgid "To add new members to a group:"
 msgstr "Per invitare altri membri in una stanza:"
 
 #: ../../chats(wsc)/toc.rst:214
-#, fuzzy
 msgid "Select the group to which you want to add new members."
 msgstr "Seleziona il gruppo a cui desideri aggiungere membri."
 
 #: ../../chats(wsc)/toc.rst:215
-#, fuzzy
 msgid ""
 "On the right side of the Main Panel, under the Actions section, click on "
 "the Add new members."
 msgstr ""
-"Sul lato destro del Pannello principale, nella sezione Azione, fare clic "
-"su Modifica dettagli."
+"Sul lato destro del Pannello principale, nella sezione Azione, fare clic su "
+"Modifica dettagli."
 
 #: ../../chats(wsc)/toc.rst:216
-#, fuzzy
 msgid ""
 "Begin typing the email address of the colleague you wish to add - and "
 "select the crown icon if you want to promote him as a moderator."
 msgstr ""
-"Nel campo successivo, inizia a digitare l'indirizzo email dei colleghi "
-"che desideri aggiungere al gruppo."
+"Nel campo successivo, inizia a digitare l'indirizzo email dei colleghi che "
+"desideri aggiungere al gruppo."
 
 #: ../../chats(wsc)/toc.rst:218
 msgid "Click **ADD NEW MEMBERS** to confirm."
@@ -5868,7 +5835,6 @@ msgid "(Optional) Repeat the process to add more members."
 msgstr ""
 
 #: ../../chats(wsc)/toc.rst:223
-#, fuzzy
 msgid "Clear History of a Group"
 msgstr "Cancella la cronologia di una Chat"
 
@@ -5899,7 +5865,6 @@ msgid ""
 msgstr ""
 
 #: ../../chats/toc.rst:7
-#, fuzzy
 msgid "Working with Chats :bdg-secondary:`LEGACY`"
 msgstr "Lavorare con Chats (WSC) :bdg-primary:`NEW`"
 
@@ -7279,7 +7244,6 @@ msgstr ""
 "popolato con tutti gli indirizzi inclusi nel gruppo di contatti."
 
 #: ../../contacts/toc.rst:197
-#, fuzzy
 msgid "Sharing a Contact List"
 msgstr "Usare un Gruppo di Contatti"
 
@@ -7295,7 +7259,6 @@ msgid "Go to your Contacts section in the app."
 msgstr ""
 
 #: ../../contacts/toc.rst:203
-#, fuzzy
 msgid "Create or Select a Group."
 msgstr "Per creare un gruppo di contatti:"
 
@@ -7310,7 +7273,6 @@ msgid ""
 msgstr ""
 
 #: ../../contacts/toc.rst:206
-#, fuzzy
 msgid "Place Group in a Folder:"
 msgstr "Condividere una cartella"
 
@@ -7323,12 +7285,10 @@ msgid "This allows you to share only what’s inside that folder."
 msgstr ""
 
 #: ../../contacts/toc.rst:209
-#, fuzzy
 msgid "Share the Folder:"
 msgstr "Condividere una cartella"
 
 #: ../../contacts/toc.rst:210
-#, fuzzy
 msgid "Right-click the folder - “Share”."
 msgstr "Fai clic destro sulla cartella che desideri condividere."
 
@@ -7337,7 +7297,6 @@ msgid "Choose the users and set their permission level:"
 msgstr ""
 
 #: ../../contacts/toc.rst:212
-#, fuzzy
 msgid "Can View"
 msgstr "Visualizzatore (può visualizzare)"
 
@@ -7362,7 +7321,6 @@ msgid "Filtering Your View"
 msgstr ""
 
 #: ../../contacts/toc.rst:224
-#, fuzzy
 msgid "To manage what you see in Contacts:"
 msgstr "Per assegnare un tag a un contatto esistente:"
 
@@ -7371,12 +7329,10 @@ msgid "Use the View Filter to display:"
 msgstr ""
 
 #: ../../contacts/toc.rst:222
-#, fuzzy
 msgid "Only Contacts"
 msgstr "Contatti"
 
 #: ../../contacts/toc.rst:223
-#, fuzzy
 msgid "Only Groups"
 msgstr "Abbandona conversazione"
 
@@ -7389,7 +7345,6 @@ msgid "This helps you focus on what matters."
 msgstr ""
 
 #: ../../contacts/toc.rst:229
-#, fuzzy
 msgid "Share a Contact List with Your Colleagues"
 msgstr "Condividere Calendari con i Colleghi"
 
@@ -8661,7 +8616,6 @@ msgid "Navigate to the file or folder and click on it."
 msgstr "Spostati sul file o sulla cartella da condividere e fai clic su di esso."
 
 #: ../../files/toc.rst:441
-#, fuzzy
 msgid ""
 "You can copy the generated link by clicking on it. The link will be saved"
 " to your clipboard and can be pasted anywhere by right-clicking and "
@@ -8949,7 +8903,6 @@ msgid "Setting Up Two-factor Auth (2FA)"
 msgstr "Configurare l'Autenticazione a Due Fattori (2FA)"
 
 #: ../../get_started/toc.rst:63
-#, fuzzy
 msgid ""
 "If you are not required to use 2FA on your login prompts, you can "
 "manually set it up via your web client settings, if your system "
@@ -8958,8 +8911,8 @@ msgid ""
 msgstr ""
 "Se il 2FA non si avvia automaticamente nella pagina di login, puoi "
 "configurarlo manualmente tramite le impostazioni del client web, purché "
-"l'amministratore di sistema abbia concesso i permessi necessari. Seguendo"
-" questi passaggi potrai aumentare la sicurezza del tuo account di posta "
+"l'amministratore di sistema abbia concesso i permessi necessari. Seguendo "
+"questi passaggi potrai aumentare la sicurezza del tuo account di posta "
 "elettronica."
 
 #: ../../get_started/toc.rst:65
@@ -9672,13 +9625,12 @@ msgid "Welcome to |product| User Documentation!"
 msgstr "Benvenuti nella Documentazione Utente di |Carbonio|!"
 
 #: ../../index.rst:14
-#, fuzzy
 msgid ""
 "This is the documentation of |product|, the fully private digital "
 "workplace."
 msgstr ""
-"Questa è la documentazione di |Carbonio|, il digital workplace "
-"completamente privato."
+"Questa è la documentazione di |Carbonio|, il digital workplace completamente "
+"privato."
 
 #: ../../index.rst:17
 msgid "The content is organised in multiple parts:"
@@ -10300,7 +10252,6 @@ msgid "Select **Complete** from the drop-down menu."
 msgstr "Seleziona **Completa** dal menu a tendina."
 
 #: ../../videomeetings(wsc)/toc.rst:7
-#, fuzzy
 msgid "Working with Video Meetings(WSC)"
 msgstr "Usare i Video Meeting"
 
@@ -10440,33 +10391,28 @@ msgstr ""
 " per entrarvi."
 
 #: ../../videomeetings(wsc)/toc.rst:47
-#, fuzzy
 msgid "Editing Room Details"
 msgstr "Modificare un'Attività"
 
 #: ../../videomeetings(wsc)/toc.rst:49
-#, fuzzy
 msgid "To edit the details of a room:"
 msgstr "Per invitare altri membri in una stanza:"
 
 #: ../../videomeetings(wsc)/toc.rst:53
-#, fuzzy
 msgid "Click the three dots icon beside the room’s name."
 msgstr ""
-"È possibile utilizzare l'icona della freccia accanto al nome della stanza"
-" per entrarvi."
+"È possibile utilizzare l'icona della freccia accanto al nome della stanza "
+"per entrarvi."
 
 #: ../../videomeetings(wsc)/toc.rst:54
 msgid "Choose EDIT."
 msgstr ""
 
 #: ../../videomeetings(wsc)/toc.rst:55
-#, fuzzy
 msgid "Edit the room’s name and moderators."
 msgstr "Modifica il messaggio e premi invio."
 
 #: ../../videomeetings(wsc)/toc.rst:56
-#, fuzzy
 msgid "Click the button EDIT to save the changes."
 msgstr "Fai clic sul pulsante **+** per aggiungerli tutti."
 
@@ -10609,16 +10555,15 @@ msgstr ""
 "poi scegliere l'opzione Applica effetto sfocatura."
 
 #: ../../videomeetings(wsc)/toc.rst:117
-#, fuzzy
 msgid ""
 "You also have the chance to choose a specific background image. Click on "
 "the arrow icon in the camera button, and then choose the option Apply "
 "Background Image. You can upload your own image or choose one from the "
 "available options."
 msgstr ""
-"Durante una riunione video, hai la possibilità di sfocare lo sfondo. "
-"Basta fare clic sull'icona della freccia nel pulsante della fotocamera e "
-"poi scegliere l'opzione Applica effetto sfocatura."
+"Durante una riunione video, hai la possibilità di sfocare lo sfondo. Basta "
+"fare clic sull'icona della freccia nel pulsante della fotocamera e poi "
+"scegliere l'opzione Applica effetto sfocatura."
 
 #: ../../videomeetings(wsc)/toc.rst:121 ../../videomeetings/toc.rst:115
 msgid "Recording a Video Meeting"
@@ -10806,7 +10751,6 @@ msgid "Click the crown icon next to the participant’s name."
 msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #: ../../videomeetings/toc.rst:7
-#, fuzzy
 msgid "Working with Video Meetings :bdg-secondary:`LEGACY`"
 msgstr "Usare i Video Meeting (WSC) :bdg-info:`NEW`"
 
@@ -12544,4 +12488,3 @@ msgstr "Clicca AGGIUNGI."
 #~ " #. Your personal contacts and other"
 #~ " folders remain private."
 #~ msgstr ""
-

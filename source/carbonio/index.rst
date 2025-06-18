@@ -95,9 +95,9 @@ Introduction
       .. toctree::
          :maxdepth: 2
 
-         chats/toc
+         chat/toc
 
       .. toctree::
          :maxdepth: 2
 
-         videomeetings/toc
+         videomeeting/toc

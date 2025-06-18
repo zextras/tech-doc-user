@@ -158,6 +158,7 @@ To modify the free/busy visibility settings:
 3.	Under **Permissions**, select the desired option from the Free/Busy list section.
 4.	Click **SAVE** from the top right corner.
 
+
 Adding Received Appointments to Your Calendar Automatically
 ===========================================================
 
@@ -196,6 +197,7 @@ To share your calendar with your colleagues:
 6.	Select the role from the **Role** field.
 7.	Click the **SHARE CALENDAR** button.
 
+
 Alternatively, you can share you are a URL to be able to share your calendar with your collaborators:
 
 1.	Navigate to the **Calendars** section from the left sidebar.
@@ -217,6 +219,78 @@ To find and add your colleagues’ shared calendars:
 5.	Click the **ADD** button.
 
 The shared calendar will appear in your calendars list.
+
+Sharing Calendars with External Users
+======================================
+
+Zextras |product| enables sharing calendars with external users outside your domain, allowing partners, vendors, and collaborators to view availability without requiring authentication.
+Calendars can be shared publicly in read-only mode, allowing external users to:
+
+#. View calendar events
+#. Subscribe to the calendar in their clients
+#. Access without authentication credentials
+
+Free/Busy Status Sharing
+Share only availability information (free/busy) without exposing event details.
+How to Share a Calendar
+
+Step 1: Configure Sharing
+
+#. Access Carbonio Webmail → Calendars module
+#. In the left panel, right-click on the calendar to share
+#. Select "Edit calendar properties"
+#. Click "ADD SHARE"
+#. Choose "Public - view only, no password required - "
+#. Click Save
+
+Step 2: Get Sharing Links
+
+After configuration, the system automatically generates two URLs:
+
+#. ICS URL - iCal format - : Compatible with Google Calendar, Apple Calendar, Thunderbird
+#. Outlook WebDAV URL: Specific for Microsoft Outlook
+
+Step 3: Access Links
+
+#. Right-click on the shared calendar
+#. Select "Calendar's access share"
+#. Copy the desired ICS or Outlook link
+
+Share the link with external users
+
+#. Free/Busy Status Sharing
+#. Automatic Configuration
+#. Free/Busy status is automatically available for each calendar unless explicitly configured otherwise in individual calendar settings.
+#. Managing ICS Free/Busy URL
+#. The Free/Busy link follows this format: https://mail.yourdomain.com/service/pubcal/freebusy.ifb?acct=your-email@yourdomain.com
+
+How to Share Free/Busy Status
+
+#. Copy the ICS Free/Busy URL
+#. Send it to external users who need to check your availability
+#. External users can view your availability without accessing event details
+
+
+Security & Privacy
+
+#. External users cannot edit calendars - all shared calendars are read-only
+#. Free/Busy sharing provides view-only access to availability
+#. No sensitive data (event details) is shared with Free/Busy status
+#. Sharing settings can be modified at any time
+
+Use Cases
+
+Partner collaboration: Share availability with business partners
+Vendor coordination: Allow vendors to check your schedule
+External meeting scheduling: Enable external users to find available time slots
+
+Supported Clients
+
+Google Calendar
+Apple Calendar
+Microsoft Outlook
+Thunderbird
+Any calendar application supporting ICS/iCal format
 
 Creating Calendar Groups
 ========================
@@ -243,7 +317,7 @@ To edit a calendar group, follow these steps:
 #. Make the necessary changes to the group name or the calendars included in the group.
 #. Click the **SAVE CHANGES** button.
 
-Deeleting Calendar Groups
+Deleting Calendar Groups
 =========================
 
 To delete a calendar group, simply:

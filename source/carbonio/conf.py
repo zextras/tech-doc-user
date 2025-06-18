@@ -32,12 +32,12 @@ current_year = time.strftime('%Y')
 
 # -- Project information -----------------------------------------------------
 
-project = 'Zextras Carbonio'
+project = 'Carbonio User Guide'
 copyright = '2025: ZEXTRAS'
 author = 'The Zextras Team'
 
 # The full version, including alpha/beta/rc tags
-release = '25.3'
+release = '25.6'
 version = release
 
 # -- General configuration ---------------------------------------------------

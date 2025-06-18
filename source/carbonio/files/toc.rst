@@ -457,7 +457,6 @@ To generate a sharing link external user:
 Copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS.
 
 
-
   .. image:: /img/public-link.png
                 :align: center
                 :width: 100%
@@ -484,6 +483,64 @@ To revoke a public access link:
 #.	On the right side of the Main Panel, you will find different tabs. Click **Sharing**.
 #.	Under the **Public download links** section, click on the **REVOKE** button.
 #.	Click the **REVOKE** button to confirm.
+
+Access Code Protection for Public File Links
+================================================
+
+Access Code Protection adds an additional security layer to public file download links, allowing you to restrict access with a generated code that recipients must enter before downloading files.
+
+To enable access code protection for a public download link:
+
+#.	Select the **Files feature** from your left sidebar.
+#.	Navigate to the file or folder and click on it.
+#.	On the right side of the Main Panel, you will find different tabs. Click **Sharing**.
+#.	Under the **Public download links** section, click on the **ADD LINK** button.
+#.	Insert a description for the link and an expiration date.
+#.	Enable the **Access code protection** toggle.
+#.	Click the **GENERATE LINK** button on the right.
+#.	Copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS.
+
+
+For You (File Owner)
+
+Enable access code protection when creating public download links
+View, copy, or regenerate the access code as needed
+Share both the link and access code with your intended recipients
+
+For Your Recipients
+
+Click the protected public link you shared
+Enter the access code in the modal prompt
+Proceed with file download once correct code is provided
+
+Notifications for Shared Items in Files
+=========================================
+
+The Notifications feature keeps you informed about important events in your shared folders, alerting you when files or folders are shared with you or when items are added to or removed from shared folders.
+How It Works for You:
+
+#. Receive notifications when files or folders are shared with you
+#. Get alerts when items are added to or removed from your shared folders
+#. See a notification badge on the Files module icon when new events occur
+#. View new notifications highlighted in blue within the Notifications widget
+#. Badges automatically clear when you open the widget
+#. Notifications refresh automatically and persist even if original data changes
+
+What You'll Be Notified About:
+
+#. New items added to shared folders
+#. Files or folders shared with you
+#. Items removed from shared folders
+#. Empty state message when no notifications are present
+
+This feature ensures you stay updated on all shared folder activity, making collaboration more efficient by keeping you informed of important file changes.
+To view your notifications:
+
+#. Select the **Files feature** from your left sidebar.
+#. Click on the **Notifications** icon located in the top right corner of the Files module.
+#. A pop-up window will appear, displaying all your notifications related to shared items in Files.
+#. You can click on any notification to view the details, such as the file or folder name, the action taken, and the date of the event.
+
 
 Exceeding Files quota limit
 ============================

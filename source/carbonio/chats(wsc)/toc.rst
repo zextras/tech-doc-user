@@ -3,7 +3,7 @@
 .. SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 ================================================================================
-Working with Chats (WSC) 
+Working with Chats 
 ================================================================================
 
 
@@ -11,7 +11,7 @@ Working with Chats (WSC)
                 :align: center
                 :width: 100%
 
-In the |product| web client, Chats (WSC - Workstream Collaboration) serve as a key communication feature, supporting both individual and group interactions. Users benefit from centralized messaging, promoting real-time conversations and fostering collaboration. Whether it's about sharing information, brainstorming, or organizing tasks, Chats offer a seamless platform for efficient teamwork. Notifications ensure that users stay updated and engaged, maintaining productivity whether they are working remotely or in the office.
+In the |product| web client, Chats serve as a key communication feature, supporting both individual and group interactions. Users benefit from centralized messaging, promoting real-time conversations and fostering collaboration. Whether it's about sharing information, brainstorming, or organizing tasks, Chats offer a seamless platform for efficient teamwork. Notifications ensure that users stay updated and engaged, maintaining productivity whether they are working remotely or in the office.
 
 Creating New Chat
 =================
@@ -26,7 +26,7 @@ To initiate communication with a colleague, you need to create a new chat. To do
 
 Now, this chat is added under the Chats module, containing a list of all available chats.
 
-Initially, you will not see any chats in your chat system, but once you create them, you can find them on the list. Please note that you will be able to will be able to create new conversation only with users that have Chats(WSC) enabled.
+Initially, you will not see any chats in your chat system, but once you create them, you can find them on the list. Please note that you will be able to will be able to create new conversation only with users that have Chats enabled.
 
 Once you have created and selected a chat, you can start typing your message in the bottom text box. You can also add emojis and attach files to your message. Press Enter on Windows or Return on macOS to send the message.
 

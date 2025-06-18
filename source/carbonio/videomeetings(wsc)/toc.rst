@@ -3,7 +3,7 @@
 .. SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 ===================================================
- Working with Video Meetings(WSC)
+ Working with Video Meetings
 ===================================================
 
   .. image:: /img/wsc-meeting.png
@@ -157,6 +157,50 @@ Maximizing Video Meeting Screen
 ==========================================
 
 To maximize the video meeting screen, click on the icon with arrows inside located on the bottom bar. If you do not see the bottom bar inside the meeting room, simply move your mouse cursor to the bottom of the screen, and it will appear.
+
+Cinema Mode Fullscreen Feature
+===============================
+
+Cinema Mode provides an optimized viewing experience during meetings, allowing you to focus on shared content or participants with an immersive fullscreen display.
+
+This feature enables you to:
+* View meetings in Cinema Mode for a more engaging experience
+* Activate fullscreen mode to eliminate interface distractions
+* Optimize display during presentations or collaborative sessions
+
+To use the Cinema Mode and fullscreen features, follow these steps:
+* Join a meeting: Enter an existing meeting 
+* Switch to Cinema view: In the view options, select "Cinema" mode to optimize the display layout
+* Enable fullscreen: Activate fullscreen mode to maximize the viewing area and remove interface elements
+
+The full-screen mode now automatically hides the sidebar and carousel in cinema view, and hides the sidebar in other views. When full screen is activated in cinema view, left panel and carousel will be closed.
+
+Raise Hand Feature
+========================
+
+The Raise Hand feature allows meeting participants to signal their desire to speak through a structured queue system, promoting organized discussions and better meeting flow.
+
+How It Works for Participants:
+
+* Raise hand to join speaking queue
+* View real-time queue showing order, avatars, and usernames
+* Receive audio notifications when others raise hands
+* Hand automatically lowers when speaking begins
+
+Moderators
+
+* Access dedicated queue management panel
+* Lower individual hands or clear entire queue
+* Actions sync across all moderators in real-time
+
+This feature streamlines meeting participation by providing clear speaking order while giving moderators effective queue management tools.
+
+To activate the Raise Hand feature during a video meeting:
+
+1. Click the hand icon on the bottom bar inside the meeting room. 
+2. When you will start speaking, your hand will be automatically lowered.
+3. If you want to lower your hand manually, simply click the hand icon again.
+4. If you are a moderator, you can also lower the hands of other participants by clicking on the hand icon next to their name in the Participants section of the chat box.
 
 Muting Participants During a Video Meeting
 =================================================

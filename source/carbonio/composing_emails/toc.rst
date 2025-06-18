@@ -28,6 +28,16 @@ A copy of the sent email is stored in your Sent folder.
         :align: center
         :width: 100%
 
+The Visual Cue feature displays a clear placeholder label when emails are sent with only CC or BCC recipients and no direct 'To' recipients, improving message visibility and recipient understanding.
+
+This feature enhances email clarity by providing immediate visual information about recipient types, helping you better understand how messages were distributed.
+To identify emails with empty 'To' fields:
+
+#. Look for the [Empty 'To' Field] label in your message list
+#. Open any email showing this placeholder to view details
+#. The same label will appear in the message displayer for confirmation
+#. Use this visual cue to understand the email's recipient distribution
+
 Disabling / Enabling Rich Text Editor
 =====================================
 

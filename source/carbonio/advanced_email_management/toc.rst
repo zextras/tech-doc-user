@@ -305,6 +305,7 @@ To apply a filter to existing emails, follow these steps:
 #.	From the drop-down menu, select the folder you want the filter to be applied to.
 #.	Click **APPLY** to confirm and execute the filter on existing emails.
 
+Note: To avoid server overload, the standard configuration prevents a filter from being applied on a folder with more than 10.000 items.
 
 Editing a Filter
 ================

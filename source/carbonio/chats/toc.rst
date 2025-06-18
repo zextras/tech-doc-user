@@ -195,7 +195,7 @@ To edit a group’s name:
 #.	Edit the name.
 #.	Press the save icon on the right.
 
-Exporting a Group to the New Chat (WSC):
+Exporting a Group to the New Chat:
 ========================================
 
 To export an existing group to the new chat, simply enter the group, click the button on the right, below the group’s name, **COPY GROUP**. A modal will then appear with all the information related to migrating the group from the old chat to the new one. Simply click the **CONTINUE** button, and the group will be duplicated, redirecting you to the exported group in the new chat.

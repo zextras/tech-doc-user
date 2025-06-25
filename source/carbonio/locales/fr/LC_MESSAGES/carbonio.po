@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-06-18 17:10+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-06-26 09:54+0000\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Language-Team: French <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -6869,23 +6872,24 @@ msgstr ""
 #: ../../files/toc.rst:270 ../../files/toc.rst:283 ../../files/toc.rst:299
 #: ../../files/toc.rst:311 ../../files/toc.rst:326
 msgid "On the right side of the Main Panel, click **Versioning**."
-msgstr ""
+msgstr "Sur le côté droit du panneau principal, cliquez sur **Versionning**."
 
 #: ../../files/toc.rst:271
 msgid "Click the **UPLOAD VERSION** button. A new window appears."
-msgstr ""
+msgstr "Cliquez sur le bouton **TELEVERSION**. Une nouvelle fenêtre s'ouvre."
 
 #: ../../files/toc.rst:272
 msgid "Choose the new version of the file from the opened window."
 msgstr ""
+"Sélectionnez la nouvelle version du fichier à partir de la fenêtre ouverte."
 
 #: ../../files/toc.rst:276
 msgid "Restore a File to a Previous Version"
-msgstr ""
+msgstr "Rétablir un fichier à une version précédente"
 
 #: ../../files/toc.rst:278
 msgid "To restore a file to a previous version:"
-msgstr ""
+msgstr "Pour rétablir un fichier à une version précédente :"
 
 #: ../../files/toc.rst:284
 msgid ""
@@ -9453,4 +9457,3 @@ msgstr ""
 #: ../../videomeetings/toc.rst:217
 msgid "Click ADD."
 msgstr ""
-

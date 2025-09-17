@@ -521,23 +521,10 @@ To remove a persona:
 #.	Under the Accounts list section, select the persona you wish to remove.
 #.	Click **DELETE**, and then **DELETE PERMANENTLY** to confirm.
 
-Set Email Retention and Disposal Policies for a Folder
-======================================================
+Set Disposal Policies for a Folder
+==================================
 
-The email **retention policy** establishes that emails stored within a designated folder and falling within the retention period will necessitate explicit confirmation before deletion. 
-Conversely, the email **disposal policy** dictates that emails residing in a specified folder and surpassing the disposal threshold will undergo automated cleanup and deletion without requiring manual intervention.
-
-To enable and set a **retention policy** for a folder:
-
-#.	From the left sidebar click on the **Mails** section.
-#.	In the Navigation Panel, right-click on the folder for which you wish to set its retention policy.
-#.	From the dropdown menu, select **Edit**. A new window appears.
-#.	Click the downward arrow next to the **Retention policy** section.
-#.	Tick the box labeled Enable Message Retention.
-#.	Enter a numerical value in the **Retention Range** field and choose the appropriate unit of time (such as days, weeks, etc.) from the adjacent dropdown menu.
-#.	Click **EDIT**.
-
-After clicking EDIT, the retention policy will be activated for the specified folder, requiring explicit confirmation before the deletion of emails within the retention period.
+The email **disposal policy** dictates that emails residing in a specified folder and surpassing the disposal threshold will undergo automated cleanup and deletion without requiring manual intervention.
 
 To enable and set a **disposal policy** for a folder:
 

@@ -37,7 +37,6 @@ pip3 install -r requirements.txt
 ./build.sh
 '''
         }
-        stash name: 'build_done', includes: 'build/**'
       }
     }
 
@@ -48,7 +47,6 @@ pip3 install -r requirements.txt
         branch 'devel'
       }
       steps {
-        unstash "build_done"
         withAWS(region: REGION, credentials: STAGING_CREDENTIALS) {
           s3Delete(bucket: DEVEL_BUCKET_NAME,
             path: 'user-guides/')
@@ -68,7 +66,6 @@ pip3 install -r requirements.txt
         branch 'pre_release'
       }
       steps {
-        unstash "build_done"
         withAWS(region: REGION, credentials: STAGING_CREDENTIALS) {
           s3Delete(bucket: STAGING_BUCKET_NAME,
             path: 'user-guides/')

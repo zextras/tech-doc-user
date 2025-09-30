@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-18 17:10+0200\n"
-"PO-Revision-Date: 2025-06-19 15:54+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-06-26 09:54+0000\n"
+"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -6040,7 +6040,7 @@ msgstr ""
 
 #: ../../chats/toc.rst:7
 msgid "Working with Chats :bdg-secondary:`LEGACY`"
-msgstr "Lavorare con Chats (WSC) :bdg-primary:`NEW`"
+msgstr "Lavorare con Chats :bdg-primary:`LEGACY`"
 
 #: ../../chats/toc.rst:14
 msgid ""
@@ -11198,7 +11198,7 @@ msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #: ../../videomeetings/toc.rst:7
 msgid "Working with Video Meetings :bdg-secondary:`LEGACY`"
-msgstr "Usare i Video Meeting (WSC) :bdg-info:`NEW`"
+msgstr "Usare i Video Meeting :bdg-info:`LEGACY`"
 
 #: ../../videomeetings/toc.rst:13
 msgid ""

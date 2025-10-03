@@ -361,3 +361,55 @@ You can also export a calendar in .ics format directly from your |product| web c
 2.	In the Navigation Panel, right-click on "Calendar" you want to export.
 3.	Select the "Export ICS file" option.
 4.	The download will start in a while, find you .ics file in your download folder.
+
+Configure a CalDAV Client
+=========================
+
+Adding a |product| calendar to your favourite CalDAV client is
+straightforward and requires only a few steps. The procedure is almost
+identical on any client; in the box at the end of this section we
+mention which are the differences.
+
+In this scenario, the user *john.smith@example.com* wants to configure
+in Mozilla's Thunderbird a calendar called *Calendar* on the domain
+*mail.example.com*. In the remainder, replace these values with
+suitable ones.
+
+.. card:: Step 1.  New Calendar
+
+   On your client, go to the Calendar and select **New
+   Calendar...**. Choose **On the Network**
+
+   .. image:: /img/en/calcardav/new-calendar.png
+      :align: center
+      :width: 40%
+
+.. card:: Step 2.
+
+   Provide the **Username** and the **Location**, which has format
+   ``https://<domain>/dav/username``, so
+   *https://mail.example.com/dav/john.smith@example.com*
+
+
+   .. image:: /img/en/calcardav/calendar-settings.png
+      :align: center
+      :width: 40%
+
+.. card:: Step 3.
+
+   You will be then presented a list, from which to choose *Calendar*.
+
+   You are now done! the calendar will show up in the list of your client.
+
+   .. image:: /img/en/calcardav/find-calendar.png
+      :align: center
+      :width: 40%
+
+.. card:: Other clients
+
+   CalDAV is a standard protocol and therefore the data required to
+   set up a client are a username, an URL, and the name of a
+   calendar. The only difference is that some client requires that the
+   calendar's name be part of the URL, so you might need to provide
+   *https://mail.example.com/dav/john.smith@example.com/Calendar* as
+   the URL.

@@ -122,11 +122,19 @@ Recording a Video Meeting
 
 When you are in a video meeting and want to record it:
 
-1.	Click the arrow button on the left side to open the chat box.
-2.	Click the downward arrow next to the Recording section located at the top of the chat box.
-3.	Click START RECORDING.
+#. Click the **arrow button** on the left side to open the chat box.  
+#. In the chat box, click the **downward arrow** next to the *Recording* section at the top.  
+#. Click **START RECORDING** to begin recording.  
+#. To stop the recording, click **STOP RECORDING**.  
 
-To stop the video meeting, simply click the STOP RECORDING button. This action will automatically save your recording file into your Files after prompting you to name the recording file.
+   - Whether the recording is stopped by the person who started it or by another **moderator**, the file will always be saved into the *Files* of the person who started the recording.  
+   - A popup will appear asking you to enter a **name for the recording file**.  
+
+.. note::  
+   If all meeting participants (including the person who started the recording) leave the meeting,  
+   the system will automatically stop the recording and save the file in the *Files* of the person  
+   who clicked **START RECORDING**.
+
 
 Adding New Members to a Video Meeting
 =============================================

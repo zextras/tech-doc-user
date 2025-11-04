@@ -84,7 +84,6 @@ pip3 install -r requirements.txt
         branch 'master'
       }
       steps {
-        unstash "build_done"
         withAWS(region: REGION, credentials: PRODUCTION_CREDENTIALS) {
           s3Delete(bucket: PRODUCTION_BUCKET_NAME,
             path: 'user-guides/')

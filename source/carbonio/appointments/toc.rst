@@ -51,6 +51,20 @@ Assigning Equipment to an Appointment
 When creating an appointment, users can choose one or more equipment resources from the Equipment field (if enabled and configured by the system administrator). Selecting equipment means that the resource is reserved for the duration of the appointment, preventing overlapping bookings.
 If a specific piece of equipment does not appear in the list, users must contact their system administrator so it can be added as a resource.
 
+Approval workflow for Equipment Requests
+----------------------------------------
+
+Equipment resources can operate in multiple modes:
+
+* **Auto-accept enabled**: the resource automatically accepts the booking if it is available.
+* **Auto-accept disabled**: the resource does not automatically accept requests.
+* **Booking disabled**: the administrator can prevent any scheduled booking for the equipment resource, including
+  the ability to create recurring appointments for that resource.
+
+When auto-acceptance is disabled, the system administrator can configure the resource to
+forward booking requests to one or more designated users. These users act as **approvers**
+and can manually accept or decline each equipment request. Their decision determines
+whether the equipment is reserved for the appointment.
 
 Checking on attendees' availability with organizer tool
 =======================================================

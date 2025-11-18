@@ -28,7 +28,6 @@ To create a new appointment:
 #.	Enter a title for the appointment in the **Event title** field.
 #.	Specify a location for the appointment to occur in the **Location field**. If applicable, you may include details such as Room Number 2.
 #.	Choose a meeting room from the available options in the **Meeting room** field. Please note that these meeting rooms are configured by your system administrator. If you do not see the desired room listed, kindly contact your system administrator to ensure all relevant meeting rooms in your office are included.	
-#.	Choose the required equipment from the available options under the **Equipment field**. Please note that the equipment is configured by your system administrator. If you do not see the desired equipment listed, kindly contact your system administrator to ensure all relevant equipment such as cameras, displays, etc. in your office are included.
 #.	If you prefer to host a virtual meeting using |product| Chats' video meeting feature in one of your virtual rooms, you can select the desired virtual room from the **Virtual Room field**. If you have not set up any virtual rooms yet, you can easily create them by clicking the button **"CREATE NEW VIRTUAL ROOM"**.
 #.	Enter the email addresses of the attendees into the **Attendees field**. You can leave this field empty if you are creating a personal appointment for yourself.
 #.	Choose whether you would like |product| to mark this time slot for the appointment as busy or free from the **Display field**. This will inform your colleagues of your availability when they attempt to schedule another appointment during the same time slot.
@@ -40,6 +39,18 @@ To create a new appointment:
 #.   Choose the time zone, if different from the default one. You need to enable this option in the Calendar's module settings, in *Creating Appointment* Section.
 #.	Add any notes about this appointment in the text box.
 #.	If you are creating the appointment solely for yourself, click **SAVE**. If your appointment includes attendees, as specified in step 8, click **SEND** to notify them via an automatic email.
+
+How Equipment Resources work
+============================
+
+Equipment resources (such as projectors, cameras, displays, company laptops, etc.) are managed centrally by your system administrator. Each piece of equipment is represented in Carbonio as a resource account that can be added to appointments, similar to a meeting room.
+
+Assigning Equipment to an Appointment
+-------------------------------------
+
+When creating an appointment, users can choose one or more equipment resources from the Equipment field (if enabled and configured by the system administrator). Selecting equipment means that the resource is reserved for the duration of the appointment, preventing overlapping bookings.
+If a specific piece of equipment does not appear in the list, users must contact their system administrator so it can be added as a resource.
+
 
 Checking on attendees' availability with organizer tool
 =======================================================

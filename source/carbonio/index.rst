@@ -11,93 +11,80 @@
  Welcome to |product| User Documentation!
 ********************************************
 
-This is the documentation of |product|, the fully private digital
-workplace.
 
-The content is organised in multiple parts:
-
-Introduction
-  Useful and generic information about |product|.
-  
-.. grid:: 1 2 2 3
-   :gutter: 3
+This portal contains the User Guides for |product|, the fully private digital workplace designed for secure communication and collaboration.
+The content is organised into the following sections:
 
 
-   .. grid-item-card::
-      :columns: 12 12 6 6
-      :class-header: sd-font-weight-bold sd-fs-5
+===============
+Getting Started
+===============
 
-      .. toctree::
-         :maxdepth: 2
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
 
-         get_started/toc
+   get_started/toc
 
-      .. toctree::
-         :maxdepth: 2
 
-         browsing_emails/toc
+=====
+Mails
+=====
 
-      .. toctree::
-         :maxdepth: 2
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
 
-         composing_emails/toc
-      
-      .. toctree::
-         :maxdepth: 2
+   browsing_emails/toc
+   composing_emails/toc
+   basic_email_management/toc
+   advanced_email_management/toc
+   search/toc
 
-         basic_email_management/toc
-      
-      .. toctree::
-         :maxdepth: 2
 
-         advanced_email_management/toc
+========================
+Calendars & Productivity
+========================
 
-      .. toctree::
-         :maxdepth: 2
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
 
-         contacts/toc
+   calendars/toc
+   appointments/toc
+   tasks/toc
+   contacts/toc
 
-      .. toctree::
-         :maxdepth: 2
 
-         calendars/toc
-      
-      .. toctree::
-         :maxdepth: 2
+=====================
+Files & Collaboration
+=====================
 
-         appointments/toc
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
 
-      .. toctree::
-         :maxdepth: 2
+   files/toc
 
-         tasks/toc
+=============
+Communication
+=============
 
-      .. toctree::
-         :maxdepth: 2
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
 
-         files/toc
+   chat/toc
+   videomeeting/toc
 
-      .. toctree::
-         :maxdepth: 2
+==============
+Legacy modules
+==============
 
-         search/toc
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
 
-      .. toctree::
-         :maxdepth: 2
+   chats/toc
+   videomeetings/toc
 
-         chats/toc
-      
-      .. toctree::
-         :maxdepth: 2
-
-         videomeetings/toc
-
-      .. toctree::
-         :maxdepth: 2
-
-         chat/toc
-
-      .. toctree::
-         :maxdepth: 2
-
-         videomeeting/toc

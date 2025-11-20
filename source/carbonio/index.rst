@@ -16,9 +16,9 @@ This portal contains the User Guides for |product|, the fully private digital wo
 The content is organised into the following sections:
 
 
-===============
-Getting Started
-===============
+=============================
+Getting Started with Carbonio
+=============================
 
 .. toctree::
    :maxdepth: 1

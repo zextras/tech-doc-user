@@ -28,81 +28,114 @@ To access your |product| web client, the initial step is to sign in. This can be
 Using Two-factor Auth (2FA)
 ===========================
 
-Two-factor Authentication (2FA) is a security feature activated by your system administrator. In this case, accessing your webmail requires a secondary layer of identification for enhanced security.
+Two-factor Authentication (2FA) is a security feature activated by your system administrator. When enabled, accessing your webmail requires a secondary layer of identification for enhanced security.
 
-When accessing your account for the first time, you will be prompted to create a **one-time password (OTP)**.
+Before you can log in using 2FA, you must have configured your second-factor method from your webmail preferences.  
+If you have not yet completed the setup, you may request from your system administrator either:
 
-1.	First-Time Setup:
+* a **temporary bypass code** that allows you to log in without the second factor, or  
+* a **list of PIN codes** that you can immediately use as your second-factor authentication.
 
-* After creating the OTP, a QR code will appear on your screen
-* Install the Google Authenticator app on your mobile device
+Once you have configured your OTP, you can proceed with one of the available authentication methods.
 
-2.	Scanning the QR Code:
+1. First-Time Setup
+-------------------
 
-* Open the Google Authenticator app
-* Tap the + button in the bottom right corner
-* Use the app to scan the QR code displayed on your computer screen
-* This creates an instance in the app that generates a temporary code that updates every 30 seconds
+* Start the OTP creation process from your webmail settings.
+* Choose whether to generate a **QR code** for an authenticator app or to generate **PIN codes** for printed use.
 
-3.	Logging In with 2FA:
+2. Option A — Using a QR Code
+-----------------------------
 
-* Next time you log in to your |product| webmail, follow these steps:
+* After creating the OTP, a **QR code** will appear on your screen.
+* Install a supported authenticator app (e.g., Google Authenticator) on your mobile device.
+* Open the app.
+* Tap the **+** button in the bottom right corner.
+* Use the app to **scan the QR code** displayed on your computer screen.
+* This creates an entry in the app that generates a **temporary verification code** that updates every 30 seconds.
+
+3. Option B — Using PIN Codes
+------------------------------
+
+* Instead of scanning a QR code, you may choose to generate **12 PIN codes**.
+* The PINs will be displayed in a table format.
+* Print the list and store it safely.
+* Each PIN code is **single-use** and can be used only once to complete the second-factor authentication.
+
+4. Logging In with 2FA
+----------------------
+
+The next time you log in to your |product| webmail, follow these steps:
 
     > Enter your **username** and **password**;
-    
-    > If prompted for the second-factor authentication, open the Google Authenticator app;
 
-    > Insert the **code** from the app on your login page;
+    > If prompted for the second-factor authentication, open your authenticator app  
+    > — or use the next available **PIN code**;
+
+    > Insert the **verification code or PIN** on your login page;
 
     > Click **LOGIN**.
+
 
 Setting Up Two-factor Auth (2FA)
 ================================
 
+If you are not required to use 2FA during login, you can manually set it up through your web client settings, provided your system administrator has granted you the necessary permissions. Following these steps will enhance the security of your |product| webmail account.
 
-If you are not required to use 2FA on your login prompts, you can manually set it up via your web client settings, if your system administrator gave you the proper permission. By following these steps, you will enhance the security of your |product| webmail account.
-
-1.	Accessing Settings:
+1. Accessing Settings
+---------------------
 
 * Click on the **gear icon** located in the left sidebar of your webmail interface.
-* Navigate to the **Auth** section. 
+* Navigate to the **Auth** section.
 
-2.  Creating an OTP Label:
+2. Creating an OTP Label
+------------------------
 
-*	In the Auth section, click on **OTP Authentication**.
-*	Click the **NEW OTP** + button.
-*	Insert a **label** to help you remember this OTP (e.g., “mySamsungPhone”).
-*	Hit the CREATE PASSWORD button.
+* In the Auth section, click **OTP Authentication**.
+* Click the **NEW OTP** + button.
+* Insert a **label** to help you identify this OTP (e.g., ``mySamsungPhone``).
+* Click **CREATE PASSWORD**.
 
-NOTE: If you enter an incorrect OTP (One-Time Password) code more than 10 times, the associated auth device is automatically removed for security reasons.
-This mechanism ensures security by preventing brute-force attacks on OTP authentication: 
+.. note::
 
-#. The auth device is removed from the list of allowed OTP authentications.
-#. You will no longer see the device in the Auth - OTP Authentication section.
-#. You must reconfigure a new device to continue using OTP authentication.
+   If you enter an incorrect OTP code more than **10 times**, the associated authentication device is automatically removed for security reasons.  
+   This prevents brute-force attempts.
 
-3.	Install Google Authenticator:
+   After removal:
 
-*	Install the **Google Authenticator app** on your mobile device (available on both Android and iOS).
-*	Open the app and press the “+” button in the bottom right corner.
+   #. The authentication device is deleted from the list of valid OTP methods.
+   #. It will no longer appear in the **Auth → OTP Authentication** section.
+   #. You must configure a new device to continue using OTP authentication.
 
-4.	Scanning the QR Code:
+3. Option A — Setting Up with Google Authenticator
+--------------------------------------------------
 
-*	Use the app to **scan the QR code** displayed during the setup process.
-*	This creates an instance in the app that generates a **temporary code** that updates every 30 seconds.
+* Install the **Google Authenticator app** on your mobile device (Android or iOS).
+* Open the app and press the **+** button.
+* Use the app to **scan the QR code** displayed during the setup process.
+* The app will generate a **temporary verification code** that updates every 30 seconds.
 
-5.	Logging In with 2FA:
+4. Option B — Setting Up with PIN Codes
+---------------------------------------
 
-*	The next time you log in to your |product| webmail, follow these steps:
+* Choose the option to generate **PIN codes** instead of a QR code.
+* A list of **12 single-use PINs** will appear.
+* Print them and keep them in a safe location.
+* Use one PIN per login when prompted for the second factor.
 
-        > Enter your **username** and **password**;
-    
-        > If prompted for the second-factor authentication, open the Google Authenticator app;
+5. Logging In with 2FA
+----------------------
 
-        > Insert the **code** from the app on your login page;
+The next time you log in to your |product| webmail, follow these steps:
 
-        > Click **LOGIN**..
+    > Enter your **username** and **password**;
 
+    > If prompted for the second factor, open your authenticator app  
+    > — or use your next available **PIN code**;
+
+    > Insert the **verification code or PIN** on your login page;
+
+    > Click **LOGIN**.
 
 Using SAML to Sign In
 =====================

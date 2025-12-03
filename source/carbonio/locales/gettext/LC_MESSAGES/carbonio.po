@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-02 10:13+0100\n"
+"POT-Creation-Date: 2025-12-02 17:36+0100\n"
 "PO-Revision-Date: 2025-06-19 15:54+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: gettext\n"
@@ -334,9 +334,9 @@ msgid ""
 " colleagues and clients informed. Here is how to set it up:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:263
-#: ../../get_started/toc.rst:288 ../../get_started/toc.rst:307
-#: ../../get_started/toc.rst:322
+#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:212
+#: ../../get_started/toc.rst:237 ../../get_started/toc.rst:256
+#: ../../get_started/toc.rst:271
 msgid "Select General Settings."
 msgstr ""
 
@@ -7820,273 +7820,164 @@ msgstr ""
 #: ../../get_started/toc.rst:31
 msgid ""
 "Two-factor Authentication (2FA) is a security feature activated by your "
-"system administrator. When enabled, accessing your webmail requires a "
-"secondary layer of identification for enhanced security."
+"system administrator. When enabled, accessing your webmail requires an "
+"additional verification step for enhanced security."
 msgstr ""
 
 #: ../../get_started/toc.rst:33
 msgid ""
 "Before you can log in using 2FA, you must have configured your second-"
 "factor method from your webmail preferences. If you have not yet "
-"completed the setup, you may request from your system administrator "
-"either:"
+"completed the setup, you may request from your system administrator the "
+"credentials to access your account and the necessary permissions to "
+"configure 2FA."
 msgstr ""
 
 #: ../../get_started/toc.rst:36
 msgid ""
-"a **temporary bypass code** that allows you to log in without the second "
-"factor, or"
-msgstr ""
-
-#: ../../get_started/toc.rst:37
-msgid ""
-"a **list of PIN codes** that you can immediately use as your second-"
-"factor authentication."
+"Once you have access to your account and the required permissions, you "
+"can configure 2FA as described below."
 msgstr ""
 
 #: ../../get_started/toc.rst:39
-msgid ""
-"Once you have configured your OTP, you can proceed with one of the "
-"available authentication methods."
+msgid "1. Accessing 2FA Settings"
 msgstr ""
 
-#: ../../get_started/toc.rst:42
-msgid "1. First-Time Setup"
-msgstr ""
-
-#: ../../get_started/toc.rst:44
-msgid "Start the OTP creation process from your webmail settings."
-msgstr ""
-
-#: ../../get_started/toc.rst:45
-msgid ""
-"Choose whether to generate a **QR code** for an authenticator app or to "
-"generate **PIN codes** for printed use."
-msgstr ""
-
-#: ../../get_started/toc.rst:48
-msgid "2. Option A — Using a QR Code"
-msgstr ""
-
-#: ../../get_started/toc.rst:50
-msgid "After creating the OTP, a **QR code** will appear on your screen."
-msgstr ""
-
-#: ../../get_started/toc.rst:51
-msgid ""
-"Install a supported authenticator app (e.g., Google Authenticator) on "
-"your mobile device."
-msgstr ""
-
-#: ../../get_started/toc.rst:52
-msgid "Open the app."
-msgstr ""
-
-#: ../../get_started/toc.rst:53
+#: ../../get_started/toc.rst:41
 #, fuzzy
-msgid "Tap the **+** button in the bottom right corner."
+msgid "Click the **gear icon** in the left sidebar of your webmail interface."
 msgstr "Click the blue button in the bottom left corner to open the chat box."
 
-#: ../../get_started/toc.rst:54
-msgid "Use the app to **scan the QR code** displayed on your computer screen."
-msgstr ""
-
-#: ../../get_started/toc.rst:55
-msgid ""
-"This creates an entry in the app that generates a **temporary "
-"verification code** that updates every 30 seconds."
-msgstr ""
-
-#: ../../get_started/toc.rst:58
-msgid "3. Option B — Using PIN Codes"
-msgstr ""
-
-#: ../../get_started/toc.rst:60
-msgid ""
-"Instead of scanning a QR code, you may choose to generate **12 PIN "
-"codes**."
-msgstr ""
-
-#: ../../get_started/toc.rst:61
-msgid "The PINs will be displayed in a table format."
-msgstr ""
-
-#: ../../get_started/toc.rst:62
-msgid "Print the list and store it safely."
-msgstr ""
-
-#: ../../get_started/toc.rst:63
-msgid ""
-"Each PIN code is **single-use** and can be used only once to complete the"
-" second-factor authentication."
-msgstr ""
-
-#: ../../get_started/toc.rst:66
-msgid "4. Logging In with 2FA"
-msgstr ""
-
-#: ../../get_started/toc.rst:68 ../../get_started/toc.rst:129
-msgid "The next time you log in to your |product| webmail, follow these steps:"
-msgstr ""
-
-#: ../../get_started/toc.rst:70 ../../get_started/toc.rst:131
-msgid "> Enter your **username** and **password**;"
-msgstr ""
-
-#: ../../get_started/toc.rst:72
-msgid ""
-"> If prompted for the second-factor authentication, open your "
-"authenticator app > — or use the next available **PIN code**;"
-msgstr ""
-
-#: ../../get_started/toc.rst:75 ../../get_started/toc.rst:136
-msgid "> Insert the **verification code or PIN** on your login page;"
-msgstr ""
-
-#: ../../get_started/toc.rst:77 ../../get_started/toc.rst:138
-msgid "> Click **LOGIN**."
-msgstr ""
-
-#: ../../get_started/toc.rst:81
-msgid "Setting Up Two-factor Auth (2FA)"
-msgstr ""
-
-#: ../../get_started/toc.rst:83
-msgid ""
-"If you are not required to use 2FA during login, you can manually set it "
-"up through your web client settings, provided your system administrator "
-"has granted you the necessary permissions. Following these steps will "
-"enhance the security of your |product| webmail account."
-msgstr ""
-
-#: ../../get_started/toc.rst:86
-msgid "1. Accessing Settings"
-msgstr ""
-
-#: ../../get_started/toc.rst:88
-msgid ""
-"Click on the **gear icon** located in the left sidebar of your webmail "
-"interface."
-msgstr ""
-
-#: ../../get_started/toc.rst:89
+#: ../../get_started/toc.rst:42
 msgid "Navigate to the **Auth** section."
 msgstr ""
 
-#: ../../get_started/toc.rst:92
+#: ../../get_started/toc.rst:43
+msgid "Open **OTP Authentication** and click **NEW OTP**."
+msgstr ""
+
+#: ../../get_started/toc.rst:46
 #, fuzzy
-msgid "2. Creating an OTP Label"
+msgid "2. Creating an OTP"
 msgstr "Creazione di un'etichetta OTP:"
 
-#: ../../get_started/toc.rst:94
+#: ../../get_started/toc.rst:48
 #, fuzzy
-msgid "In the Auth section, click **OTP Authentication**."
-msgstr "Nella sezione Autenticazione, fai clic su **Autenticazione OTP**."
-
-#: ../../get_started/toc.rst:95
-msgid "Click the **NEW OTP** + button."
-msgstr "Fai clic sul pulsante **NUOVO OTP** +."
-
-#: ../../get_started/toc.rst:96
-#, fuzzy
-msgid ""
-"Insert a **label** to help you identify this OTP (e.g., "
-"``mySamsungPhone``)."
+msgid "Insert a **label** to identify the new OTP (e.g., ``myOTP1``)."
 msgstr ""
 "Inserisci un **label** per aiutarti a ricordare questo OTP (ad esempio, "
 "“mySamsungPhone”)."
 
-#: ../../get_started/toc.rst:97
+#: ../../get_started/toc.rst:49
 #, fuzzy
 msgid "Click **CREATE PASSWORD**."
 msgstr "Click on **Enabled**."
 
-#: ../../get_started/toc.rst:101
+#: ../../get_started/toc.rst:50
 msgid ""
-"If you enter an incorrect OTP code more than **10 times**, the associated"
-" authentication device is automatically removed for security reasons. "
-"This prevents brute-force attempts."
+"After creation, you can complete the setup using one of the two available"
+" authentication methods:"
 msgstr ""
 
-#: ../../get_started/toc.rst:104
-msgid "After removal:"
-msgstr ""
-
-#: ../../get_started/toc.rst:106
-msgid "The authentication device is deleted from the list of valid OTP methods."
-msgstr ""
-
-#: ../../get_started/toc.rst:107
-msgid "It will no longer appear in the **Auth → OTP Authentication** section."
-msgstr ""
-
-#: ../../get_started/toc.rst:108
-msgid "You must configure a new device to continue using OTP authentication."
-msgstr ""
-
-#: ../../get_started/toc.rst:111
+#: ../../get_started/toc.rst:52
 #, fuzzy
-msgid "3. Option A — Setting Up with Google Authenticator"
+msgid "**Option A:** Scanning a **QR code** with an authenticator app."
 msgstr "Installa Google Authenticator:"
 
-#: ../../get_started/toc.rst:113
+#: ../../get_started/toc.rst:53
+msgid "**Option B:** Generating **PIN codes** for manual authentication."
+msgstr ""
+
+#: ../../get_started/toc.rst:56
+msgid ""
+"You can trust the IP address and the device you are using to avoid being "
+"prompted for the second factor on each login. The time frame for this "
+"trust can be set by your system administrator."
+msgstr ""
+
+#: ../../get_started/toc.rst:59
+#, fuzzy
+msgid "3. Option A — Using an Authenticator App"
+msgstr "Installa Google Authenticator:"
+
+#: ../../get_started/toc.rst:61
 #, fuzzy
 msgid ""
-"Install the **Google Authenticator app** on your mobile device (Android "
-"or iOS)."
+"Install a supported authenticator app (e.g., **Google Authenticator** or "
+"**MS auth**) on your mobile device."
 msgstr ""
 "Installa l'app **Google Authenticator** sul tuo dispositivo mobile "
 "(disponibile su Android e iOS)."
 
-#: ../../get_started/toc.rst:114
+#: ../../get_started/toc.rst:62
 msgid "Open the app and press the **+** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:115
-msgid "Use the app to **scan the QR code** displayed during the setup process."
+#: ../../get_started/toc.rst:63
+msgid "Scan the **QR code** displayed in your webmail."
 msgstr ""
 
-#: ../../get_started/toc.rst:116
+#: ../../get_started/toc.rst:64
 msgid ""
-"The app will generate a **temporary verification code** that updates "
-"every 30 seconds."
+"The app will create an entry that generates a **temporary verification "
+"code**, refreshed every 30 seconds."
 msgstr ""
 
-#: ../../get_started/toc.rst:119
-msgid "4. Option B — Setting Up with PIN Codes"
+#: ../../get_started/toc.rst:67
+msgid "4. Option B — Using PIN Codes"
 msgstr ""
 
-#: ../../get_started/toc.rst:121
-msgid "Choose the option to generate **PIN codes** instead of a QR code."
+#: ../../get_started/toc.rst:69
+msgid ""
+"Select the option to generate **PIN codes** instead of scanning the QR "
+"code."
 msgstr ""
 
-#: ../../get_started/toc.rst:122
-msgid "A list of **12 single-use PINs** will appear."
+#: ../../get_started/toc.rst:70
+msgid "A list of **12 single-use PINs** will be displayed."
 msgstr ""
 
-#: ../../get_started/toc.rst:123
-msgid "Print them and keep them in a safe location."
+#: ../../get_started/toc.rst:71
+msgid "Print the list and keep it in a safe location."
 msgstr ""
 
-#: ../../get_started/toc.rst:124
-msgid "Use one PIN per login when prompted for the second factor."
+#: ../../get_started/toc.rst:72
+msgid ""
+"Each PIN can only be used **once** to complete the second-factor "
+"authentication."
 msgstr ""
 
-#: ../../get_started/toc.rst:127
+#: ../../get_started/toc.rst:75
 msgid "5. Logging In with 2FA"
 msgstr ""
 
-#: ../../get_started/toc.rst:133
-msgid ""
-"> If prompted for the second factor, open your authenticator app > — or "
-"use your next available **PIN code**;"
+#: ../../get_started/toc.rst:77
+msgid "Once 2FA is configured, follow these steps at each login:"
 msgstr ""
 
-#: ../../get_started/toc.rst:141
+#: ../../get_started/toc.rst:79
+msgid "> Enter your **username** and **password**;"
+msgstr ""
+
+#: ../../get_started/toc.rst:81
+msgid ""
+"> When prompted for the second factor, open your authenticator app > — or"
+" use your next available **PIN code**;"
+msgstr ""
+
+#: ../../get_started/toc.rst:84
+msgid "> Insert the **verification code or PIN** into the login form;"
+msgstr ""
+
+#: ../../get_started/toc.rst:86
+msgid "> Click **LOGIN**."
+msgstr ""
+
+#: ../../get_started/toc.rst:90
 msgid "Using SAML to Sign In"
 msgstr ""
 
-#: ../../get_started/toc.rst:143
+#: ../../get_started/toc.rst:92
 msgid ""
 "**SAML** stands for **Security Assertion Markup Language**. It is like a "
 "secret handshake between different websites and apps to make sure you are"
@@ -8094,105 +7985,105 @@ msgid ""
 "multiple places without needing a separate key for each door."
 msgstr ""
 
-#: ../../get_started/toc.rst:145
+#: ../../get_started/toc.rst:94
 msgid ""
 "You have generally two ways to use SAML functionality to sign in to your "
 "|product| account:"
 msgstr ""
 
-#: ../../get_started/toc.rst:147
+#: ../../get_started/toc.rst:96
 msgid "First Flow:"
 msgstr ""
 
-#: ../../get_started/toc.rst:149
+#: ../../get_started/toc.rst:98
 msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
 msgstr "When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
 
-#: ../../get_started/toc.rst:150
+#: ../../get_started/toc.rst:99
 msgid "Click it, and it will automatically sign you into your webmail."
 msgstr ""
 
-#: ../../get_started/toc.rst:151
+#: ../../get_started/toc.rst:100
 msgid ""
 "Important: You must already be logged into your **identity provider "
 "service** (like Okta or other services provided by your system "
 "administrator)."
 msgstr ""
 
-#: ../../get_started/toc.rst:152
+#: ../../get_started/toc.rst:101
 msgid ""
 "If you are not sure how to log into your identity provider, reach out to "
 "your **system administrator** for assistance."
 msgstr ""
 
-#: ../../get_started/toc.rst:154
+#: ../../get_started/toc.rst:103
 msgid "Second Flow:"
 msgstr ""
 
-#: ../../get_started/toc.rst:156
+#: ../../get_started/toc.rst:105
 msgid ""
 "First, log in to your **identity provider service** (e.g., Okta or other "
 "services provided by your system administrator)."
 msgstr ""
 
-#: ../../get_started/toc.rst:157
+#: ../../get_started/toc.rst:106
 msgid "Once you are logged in there, simply click on the **|product| mail app**."
 msgstr ""
 
-#: ../../get_started/toc.rst:158
+#: ../../get_started/toc.rst:107
 msgid ""
 "SAML will seamlessly take you to your webmail without requiring you to "
 "insert your credentials."
 msgstr ""
 
-#: ../../get_started/toc.rst:162
+#: ../../get_started/toc.rst:111
 msgid "Signing Out"
 msgstr ""
 
-#: ../../get_started/toc.rst:164
+#: ../../get_started/toc.rst:113
 msgid ""
 "To ensure the security of your |product| web client, it is essential to "
 "sign out when you are away from your computer. Here are two "
 "straightforward methods to log out:"
 msgstr ""
 
-#: ../../get_started/toc.rst:166
+#: ../../get_started/toc.rst:115
 msgid "Using the Account Icon:"
 msgstr ""
 
-#: ../../get_started/toc.rst:168
+#: ../../get_started/toc.rst:117
 msgid ""
 "Click on the account icon located in the top-right corner of the webmail "
 "interface."
 msgstr ""
 
-#: ../../get_started/toc.rst:169
+#: ../../get_started/toc.rst:118
 msgid "Select the **Logout** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:170
+#: ../../get_started/toc.rst:119
 msgid "You will be securely signed out."
 msgstr ""
 
-#: ../../get_started/toc.rst:172
+#: ../../get_started/toc.rst:121
 msgid "Via General Settings:"
 msgstr ""
 
-#: ../../get_started/toc.rst:174
+#: ../../get_started/toc.rst:123
 msgid "Click the **gear icon** on the left sidebar panel to access settings."
 msgstr ""
 
-#: ../../get_started/toc.rst:175
+#: ../../get_started/toc.rst:124
 msgid "Navigate to General Settings."
 msgstr "Navigate to General Settings."
 
-#: ../../get_started/toc.rst:176
+#: ../../get_started/toc.rst:125
 msgid ""
 "In the **Account** section, click the **LOGOUT** button, and you will be "
 "successfully logged out."
 msgstr ""
 
-#: ../../get_started/toc.rst:178
+#: ../../get_started/toc.rst:127
 msgid ""
 "For security purposes, your system administrator might set a maximum "
 "duration for your login session."
@@ -8200,7 +8091,7 @@ msgstr ""
 "For security purposes, your system administrator might set a maximum "
 "duration for your login session."
 
-#: ../../get_started/toc.rst:180
+#: ../../get_started/toc.rst:129
 msgid ""
 "When your session is about to expire, you will be notified in advance "
 "through the bottom left bar, which will display the remaining time: 10 "
@@ -8209,11 +8100,11 @@ msgid ""
 "You can simply log back in as usual to continue working."
 msgstr ""
 
-#: ../../get_started/toc.rst:184
+#: ../../get_started/toc.rst:133
 msgid "In Case of Forgetting Your Password"
 msgstr ""
 
-#: ../../get_started/toc.rst:186
+#: ../../get_started/toc.rst:135
 msgid ""
 "To start the password recovery procedure, you need to enter the recovery "
 "address in the **Auth** panel, in the **Settings** section. "
@@ -8221,47 +8112,47 @@ msgid ""
 "for your account."
 msgstr ""
 
-#: ../../get_started/toc.rst:188
+#: ../../get_started/toc.rst:137
 msgid ""
 "If in the Auth panel - Settings section - you do not see the field to set"
 " a recovery address, it means that the administrator has not enabled your"
 " account for the recovery process."
 msgstr ""
 
-#: ../../get_started/toc.rst:190
+#: ../../get_started/toc.rst:139
 msgid "If you forgot your password, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:197
+#: ../../get_started/toc.rst:146
 msgid "Click on the **Forget Password?** Button, from the login page."
 msgstr ""
 
-#: ../../get_started/toc.rst:198
+#: ../../get_started/toc.rst:147
 msgid "Enter your username."
 msgstr ""
 
-#: ../../get_started/toc.rst:199
+#: ../../get_started/toc.rst:148
 msgid "You will receive an email at your recovery email address."
 msgstr ""
 
-#: ../../get_started/toc.rst:200
+#: ../../get_started/toc.rst:149
 msgid ""
 "A temporary **validation code**, that expires in twenty-four hours, will "
 "be sent to the recovery e-mail address."
 msgstr ""
 
-#: ../../get_started/toc.rst:201
+#: ../../get_started/toc.rst:150
 msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
 msgstr ""
 
-#: ../../get_started/toc.rst:202
+#: ../../get_started/toc.rst:151
 msgid ""
 "If the code is validated, you can :bdg-primary-line:`CONTINUE WITH YOUR "
 "SESSION`, access your mailbox and then add a new password in the "
 "Settings's module, where you can also change the recovery address."
 msgstr ""
 
-#: ../../get_started/toc.rst:204
+#: ../../get_started/toc.rst:153
 msgid ""
 "If your system administrator has not configured a recovery email for your"
 " account, or you have not inserted your own recovery email address, when "
@@ -8269,18 +8160,18 @@ msgid ""
 "email, you will encounter an error message."
 msgstr ""
 
-#: ../../get_started/toc.rst:206
+#: ../../get_started/toc.rst:155
 msgid ""
 "The error will prompt you to **contact your system administrator**. In "
 "this scenario, **the only way to log into your account** is by seeking "
 "assistance from your system administrator."
 msgstr ""
 
-#: ../../get_started/toc.rst:210
+#: ../../get_started/toc.rst:159
 msgid "Changing Your Password"
 msgstr ""
 
-#: ../../get_started/toc.rst:212
+#: ../../get_started/toc.rst:161
 msgid ""
 "Resetting a password becomes necessary when you want to update your "
 "existing password due to security reasons or any other relevant factors. "
@@ -8288,47 +8179,47 @@ msgid ""
 "the steps to change your password:"
 msgstr ""
 
-#: ../../get_started/toc.rst:214
+#: ../../get_started/toc.rst:163
 msgid "Log into your account."
 msgstr ""
 
-#: ../../get_started/toc.rst:215
+#: ../../get_started/toc.rst:164
 msgid "Click on the **settings** (gear icon) located in the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:216
+#: ../../get_started/toc.rst:165
 msgid "Select **Auth**."
 msgstr ""
 
-#: ../../get_started/toc.rst:217
+#: ../../get_started/toc.rst:166
 msgid "Click on Change Password."
 msgstr ""
 
-#: ../../get_started/toc.rst:218
+#: ../../get_started/toc.rst:167
 msgid "Enter your **old password** along with your new password."
 msgstr ""
 
-#: ../../get_started/toc.rst:219
+#: ../../get_started/toc.rst:168
 msgid "Click the **CHANGE PASSWORD** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:227
+#: ../../get_started/toc.rst:176
 msgid "Introduction of |product| Web Client"
 msgstr ""
 
-#: ../../get_started/toc.rst:229
+#: ../../get_started/toc.rst:178
 msgid ""
 "When you log in to check your emails, the **|product| web client "
 "interface** greets you with the following components:"
 msgstr ""
 
-#: ../../get_started/toc.rst:236
+#: ../../get_started/toc.rst:185
 msgid ""
 "**Left Sidebar**: This section provides navigation options and quick "
 "access to various features such as Mails, Calendars, Contacts, etc."
 msgstr ""
 
-#: ../../get_started/toc.rst:237
+#: ../../get_started/toc.rst:186
 msgid ""
 "**Navigation Panel**: Here, you will find additional context related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -8336,7 +8227,7 @@ msgid ""
 " inboxes and email folders here."
 msgstr ""
 
-#: ../../get_started/toc.rst:238
+#: ../../get_started/toc.rst:187
 msgid ""
 "**Main Panel**: The central area displays your actual content related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -8345,11 +8236,11 @@ msgid ""
 "events."
 msgstr ""
 
-#: ../../get_started/toc.rst:241
+#: ../../get_started/toc.rst:190
 msgid "Using Browser Buttons to Navigate |product|"
 msgstr ""
 
-#: ../../get_started/toc.rst:243
+#: ../../get_started/toc.rst:192
 msgid ""
 "It is recommended to avoid using your browser’s navigation buttons too "
 "frequently, especially when you are in the middle of composing an email "
@@ -8357,7 +8248,7 @@ msgid ""
 " you to lose what you are doing. So, proceed with caution."
 msgstr ""
 
-#: ../../get_started/toc.rst:245
+#: ../../get_started/toc.rst:194
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on |product|."
@@ -8365,13 +8256,13 @@ msgstr ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on Carbonio."
 
-#: ../../get_started/toc.rst:246
+#: ../../get_started/toc.rst:195
 msgid ""
 "**Forward Button**: If you have gone back and want to revisit a page you "
 "just left, click the forward button."
 msgstr ""
 
-#: ../../get_started/toc.rst:247
+#: ../../get_started/toc.rst:196
 msgid ""
 "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
 "Clicking it restarts your session, which can be especially dangerous when"
@@ -8383,11 +8274,11 @@ msgstr ""
 " composing a new email or a lengthy text message. You might lose your "
 "work."
 
-#: ../../get_started/toc.rst:250
+#: ../../get_started/toc.rst:199
 msgid "Account Personalization"
 msgstr ""
 
-#: ../../get_started/toc.rst:252
+#: ../../get_started/toc.rst:201
 msgid ""
 "Before you start using the |product| web client, take a moment to "
 "personalize your account. You can customize visual aspects such as the "
@@ -8397,66 +8288,66 @@ msgid ""
 "select **General Settings**."
 msgstr ""
 
-#: ../../get_started/toc.rst:256
+#: ../../get_started/toc.rst:205
 msgid "Changing Theme"
 msgstr ""
 
-#: ../../get_started/toc.rst:258
+#: ../../get_started/toc.rst:207
 msgid ""
 "A theme in the |product| web client defines the color scheme used for its"
 " appearance. Currently, there are **two themes** available: **Dark mode**"
 " and **Light mode**. Here is how you can manage them:"
 msgstr ""
 
-#: ../../get_started/toc.rst:260
+#: ../../get_started/toc.rst:209
 msgid "To **activate Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:262
+#: ../../get_started/toc.rst:211
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:264
+#: ../../get_started/toc.rst:213
 msgid "Under **Theme Options**, open the dropdown menu."
 msgstr "Under **Theme Options**, open the dropdown menu."
 
-#: ../../get_started/toc.rst:265
+#: ../../get_started/toc.rst:214
 msgid "Click on **Enabled**."
 msgstr "Click on **Enabled**."
 
-#: ../../get_started/toc.rst:266
+#: ../../get_started/toc.rst:215
 msgid ""
 "Click on the **SAVE** button located in the **top right corner** of the "
 "screen."
 msgstr ""
 
-#: ../../get_started/toc.rst:268
+#: ../../get_started/toc.rst:217
 msgid "To **disable Dark mode**, follow these steps:"
 msgstr "To **disable Dark mode**, follow these steps:"
 
-#: ../../get_started/toc.rst:270
+#: ../../get_started/toc.rst:219
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 
-#: ../../get_started/toc.rst:272
+#: ../../get_started/toc.rst:221
 msgid ""
 "If you choose **Auto**, |product| will adapt to your **operating system’s"
 " default theme**. For example:"
 msgstr ""
 
-#: ../../get_started/toc.rst:274
+#: ../../get_started/toc.rst:223
 msgid "If your OS theme is dark, |product| will also be in dark mode."
 msgstr ""
 
-#: ../../get_started/toc.rst:275
+#: ../../get_started/toc.rst:224
 msgid "If your OS theme is light, |product| will match that as well."
 msgstr ""
 
-#: ../../get_started/toc.rst:283
+#: ../../get_started/toc.rst:232
 msgid "Changing Font Size"
 msgstr ""
 
-#: ../../get_started/toc.rst:285
+#: ../../get_started/toc.rst:234
 msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
@@ -8464,45 +8355,45 @@ msgstr ""
 "You can change the font size across all Carbonio web clients according to"
 " your preferences. To change the font size simply follow these steps:"
 
-#: ../../get_started/toc.rst:287 ../../get_started/toc.rst:306
-#: ../../get_started/toc.rst:321
+#: ../../get_started/toc.rst:236 ../../get_started/toc.rst:255
+#: ../../get_started/toc.rst:270
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:289
+#: ../../get_started/toc.rst:238
 msgid ""
 "Under the **Appearance** section, find the slider for adjusting the font "
 "size."
 msgstr ""
 
-#: ../../get_started/toc.rst:290
+#: ../../get_started/toc.rst:239
 msgid ""
 "If you want to manually control the font size, uncheck the option that "
 "says *Automatically resize the text size depending on the device*."
 msgstr ""
 
-#: ../../get_started/toc.rst:291
+#: ../../get_started/toc.rst:240
 msgid ""
 "Use the slider to set the font size to your preference. As you move the "
 "slider, you will see the results in the bottom box with some dummy text."
 msgstr ""
 
-#: ../../get_started/toc.rst:292
+#: ../../get_started/toc.rst:241
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:294
+#: ../../get_started/toc.rst:243
 msgid ""
 "Remember, if you prefer automatic resizing based on the device, you can "
 "leave the checkbox checked. Otherwise, adjust the font size manually "
 "using the slider."
 msgstr ""
 
-#: ../../get_started/toc.rst:302
+#: ../../get_started/toc.rst:251
 msgid "Changing Your Time Zone"
 msgstr ""
 
-#: ../../get_started/toc.rst:304
+#: ../../get_started/toc.rst:253
 msgid ""
 "As a digital workspace, |product| relies on precise time zone settings to"
 " ensure optimal performance for calendars and other features like emails,"
@@ -8511,35 +8402,35 @@ msgid ""
 " To change your time zone, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:308
+#: ../../get_started/toc.rst:257
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Time Zone** and choose your time zone."
 msgstr ""
 
-#: ../../get_started/toc.rst:309 ../../get_started/toc.rst:324
+#: ../../get_started/toc.rst:258 ../../get_started/toc.rst:273
 msgid "Click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:317
+#: ../../get_started/toc.rst:266
 msgid "Changing |product| Language"
 msgstr ""
 
-#: ../../get_started/toc.rst:319
+#: ../../get_started/toc.rst:268
 msgid "To change your |product| web client language, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:323
+#: ../../get_started/toc.rst:272
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Language** and choose your language."
 msgstr ""
 
-#: ../../get_started/toc.rst:327
+#: ../../get_started/toc.rst:276
 msgid "Accessing Multiple Accounts"
 msgstr ""
 
-#: ../../get_started/toc.rst:329
+#: ../../get_started/toc.rst:278
 msgid ""
 "On the |product| web client, you have access to multiple accounts. Let's "
 "say you have your personal account, as well as two additional accounts "
@@ -8550,7 +8441,7 @@ msgid ""
 "main account."
 msgstr ""
 
-#: ../../get_started/toc.rst:335
+#: ../../get_started/toc.rst:284
 msgid ""
 "So, when you sign into your main account, you will see these two "
 "additional accounts listed under your main account. To access these "
@@ -11095,5 +10986,202 @@ msgstr ""
 #~ "configure your **one-time password "
 #~ "(OTP)** by choosing one of the "
 #~ "available authentication methods."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Two-factor Authentication (2FA) is a "
+#~ "security feature activated by your "
+#~ "system administrator. When enabled, accessing"
+#~ " your webmail requires a secondary "
+#~ "layer of identification for enhanced "
+#~ "security."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Before you can log in using 2FA,"
+#~ " you must have configured your "
+#~ "second-factor method from your webmail "
+#~ "preferences. If you have not yet "
+#~ "completed the setup, you may request "
+#~ "from your system administrator either:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "a **temporary bypass code** that allows"
+#~ " you to log in without the "
+#~ "second factor, or"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "a **list of PIN codes** that you"
+#~ " can immediately use as your "
+#~ "second-factor authentication."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Once you have configured your OTP, "
+#~ "you can proceed with one of the"
+#~ " available authentication methods."
+#~ msgstr ""
+
+#~ msgid "1. First-Time Setup"
+#~ msgstr ""
+
+#~ msgid "Start the OTP creation process from your webmail settings."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Choose whether to generate a **QR "
+#~ "code** for an authenticator app or "
+#~ "to generate **PIN codes** for printed"
+#~ " use."
+#~ msgstr ""
+
+#~ msgid "2. Option A — Using a QR Code"
+#~ msgstr ""
+
+#~ msgid "After creating the OTP, a **QR code** will appear on your screen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Install a supported authenticator app "
+#~ "(e.g., Google Authenticator) on your "
+#~ "mobile device."
+#~ msgstr ""
+
+#~ msgid "Open the app."
+#~ msgstr ""
+
+#~ msgid "Tap the **+** button in the bottom right corner."
+#~ msgstr "Click the blue button in the bottom left corner to open the chat box."
+
+#~ msgid "Use the app to **scan the QR code** displayed on your computer screen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This creates an entry in the app"
+#~ " that generates a **temporary verification"
+#~ " code** that updates every 30 "
+#~ "seconds."
+#~ msgstr ""
+
+#~ msgid "3. Option B — Using PIN Codes"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Instead of scanning a QR code, you"
+#~ " may choose to generate **12 PIN "
+#~ "codes**."
+#~ msgstr ""
+
+#~ msgid "The PINs will be displayed in a table format."
+#~ msgstr ""
+
+#~ msgid "Print the list and store it safely."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Each PIN code is **single-use** "
+#~ "and can be used only once to "
+#~ "complete the second-factor authentication."
+#~ msgstr ""
+
+#~ msgid "4. Logging In with 2FA"
+#~ msgstr ""
+
+#~ msgid "The next time you log in to your |product| webmail, follow these steps:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "> If prompted for the second-"
+#~ "factor authentication, open your authenticator"
+#~ " app > — or use the next "
+#~ "available **PIN code**;"
+#~ msgstr ""
+
+#~ msgid "> Insert the **verification code or PIN** on your login page;"
+#~ msgstr ""
+
+#~ msgid "Setting Up Two-factor Auth (2FA)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are not required to use "
+#~ "2FA during login, you can manually "
+#~ "set it up through your web client"
+#~ " settings, provided your system "
+#~ "administrator has granted you the "
+#~ "necessary permissions. Following these steps"
+#~ " will enhance the security of your"
+#~ " |product| webmail account."
+#~ msgstr ""
+
+#~ msgid "1. Accessing Settings"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Click on the **gear icon** located "
+#~ "in the left sidebar of your "
+#~ "webmail interface."
+#~ msgstr ""
+
+#~ msgid "In the Auth section, click **OTP Authentication**."
+#~ msgstr "Nella sezione Autenticazione, fai clic su **Autenticazione OTP**."
+
+#~ msgid "Click the **NEW OTP** + button."
+#~ msgstr "Fai clic sul pulsante **NUOVO OTP** +."
+
+#~ msgid ""
+#~ "If you enter an incorrect OTP code"
+#~ " more than **10 times**, the "
+#~ "associated authentication device is "
+#~ "automatically removed for security reasons."
+#~ " This prevents brute-force attempts."
+#~ msgstr ""
+
+#~ msgid "After removal:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The authentication device is deleted "
+#~ "from the list of valid OTP "
+#~ "methods."
+#~ msgstr ""
+
+#~ msgid "It will no longer appear in the **Auth → OTP Authentication** section."
+#~ msgstr ""
+
+#~ msgid "You must configure a new device to continue using OTP authentication."
+#~ msgstr ""
+
+#~ msgid "Use the app to **scan the QR code** displayed during the setup process."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The app will generate a **temporary "
+#~ "verification code** that updates every "
+#~ "30 seconds."
+#~ msgstr ""
+
+#~ msgid "4. Option B — Setting Up with PIN Codes"
+#~ msgstr ""
+
+#~ msgid "Choose the option to generate **PIN codes** instead of a QR code."
+#~ msgstr ""
+
+#~ msgid "A list of **12 single-use PINs** will appear."
+#~ msgstr ""
+
+#~ msgid "Print them and keep them in a safe location."
+#~ msgstr ""
+
+#~ msgid "Use one PIN per login when prompted for the second factor."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "> If prompted for the second "
+#~ "factor, open your authenticator app >"
+#~ " — or use your next available "
+#~ "**PIN code**;"
 #~ msgstr ""
 

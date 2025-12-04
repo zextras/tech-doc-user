@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# French translations for PROJECT.
 # Copyright (C) 2025 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
@@ -7,18 +7,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-06-18 17:10+0200\n"
+"POT-Creation-Date: 2025-12-04 09:56+0100\n"
 "PO-Revision-Date: 2025-06-26 09:54+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
-"Language-Team: French <https://translate.zextras.tools/projects/"
-"documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
+"Language-Team: French "
+"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
+"guide/fr/>\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
-"Generated-By: Babel 2.16.0\n"
+"Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
 msgid "Advanced Email Management"
@@ -334,9 +334,9 @@ msgid ""
 " colleagues and clients informed. Here is how to set it up:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:230
-#: ../../get_started/toc.rst:255 ../../get_started/toc.rst:274
-#: ../../get_started/toc.rst:289
+#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:213
+#: ../../get_started/toc.rst:238 ../../get_started/toc.rst:257
+#: ../../get_started/toc.rst:272
 msgid "Select General Settings."
 msgstr ""
 
@@ -1305,109 +1305,74 @@ msgid "Click **DELETE**, and then **DELETE PERMANENTLY** to confirm."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:525
-msgid "Set Email Retention and Disposal Policies for a Folder"
+msgid "Set Disposal Policies for a Folder"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:527
 msgid ""
-"The email **retention policy** establishes that emails stored within a "
-"designated folder and falling within the retention period will "
-"necessitate explicit confirmation before deletion. Conversely, the email "
-"**disposal policy** dictates that emails residing in a specified folder "
-"and surpassing the disposal threshold will undergo automated cleanup and "
-"deletion without requiring manual intervention."
+"The email **disposal policy** dictates that emails residing in a "
+"specified folder and surpassing the disposal threshold will undergo "
+"automated cleanup and deletion without requiring manual intervention."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:530
-msgid "To enable and set a **retention policy** for a folder:"
+#: ../../advanced_email_management/toc.rst:529
+msgid "To enable and set a **disposal policy** for a folder:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:532
-#: ../../advanced_email_management/toc.rst:544
+#: ../../advanced_email_management/toc.rst:531
 #: ../../basic_email_management/toc.rst:22
 #: ../../basic_email_management/toc.rst:34
 #: ../../basic_email_management/toc.rst:64
 msgid "From the left sidebar click on the **Mails** section."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:533
-msgid ""
-"In the Navigation Panel, right-click on the folder for which you wish to "
-"set its retention policy."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:534
-#: ../../advanced_email_management/toc.rst:546
-msgid "From the dropdown menu, select **Edit**. A new window appears."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:535
-#: ../../advanced_email_management/toc.rst:547
-msgid "Click the downward arrow next to the **Retention policy** section."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:536
-msgid "Tick the box labeled Enable Message Retention."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:537
-msgid ""
-"Enter a numerical value in the **Retention Range** field and choose the "
-"appropriate unit of time (such as days, weeks, etc.) from the adjacent "
-"dropdown menu."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:538
-#: ../../advanced_email_management/toc.rst:550 ../../tasks/toc.rst:41
-msgid "Click **EDIT**."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:540
-msgid ""
-"After clicking EDIT, the retention policy will be activated for the "
-"specified folder, requiring explicit confirmation before the deletion of "
-"emails within the retention period."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:542
-msgid "To enable and set a **disposal policy** for a folder:"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:545
+#: ../../advanced_email_management/toc.rst:532
 msgid ""
 "In the Navigation Panel, right-click on the folder for which you wish to "
 "set its disposal policy."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:548
+#: ../../advanced_email_management/toc.rst:533
+msgid "From the dropdown menu, select **Edit**. A new window appears."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:534
+msgid "Click the downward arrow next to the **Retention policy** section."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:535
 msgid "Tick the box labeled Enable Message Disposal."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:549
+#: ../../advanced_email_management/toc.rst:536
 msgid ""
 "Enter a numerical value in the **Disposal Threshold** field and choose "
 "the appropriate unit of time (such as days, weeks, etc.) from the "
 "adjacent dropdown menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:552
+#: ../../advanced_email_management/toc.rst:537 ../../tasks/toc.rst:41
+msgid "Click **EDIT**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:539
 msgid ""
 "After clicking EDIT, the disposal policy will be applied to the specified"
 " folder, triggering automated cleanup and deletion for emails surpassing "
 "the disposal threshold."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:556
+#: ../../advanced_email_management/toc.rst:543
 msgid "S/MIME signed emails"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:558
+#: ../../advanced_email_management/toc.rst:545
 msgid ""
 "If you don't see these options, it means that your administrator has not "
 "enabled them. Please contact your administrator for more information."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:560
+#: ../../advanced_email_management/toc.rst:547
 msgid ""
 "S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for "
 "public key encryption and signing of MIME data. It is used to secure "
@@ -1418,11 +1383,11 @@ msgid ""
 "email has not been tampered with and that it was sent by you."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:563
+#: ../../advanced_email_management/toc.rst:550
 msgid "Difference between Signing and Encryption"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:565
+#: ../../advanced_email_management/toc.rst:552
 msgid ""
 "**Signing**: When you sign an email, you are adding a digital signature "
 "to the message. This signature is unique to you and is used to verify "
@@ -1432,44 +1397,44 @@ msgid ""
 "This ensures that the email is secure and cannot be read by anyone else."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:569
+#: ../../advanced_email_management/toc.rst:556
 msgid "Requirements for S/MIME"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:571
+#: ../../advanced_email_management/toc.rst:558
 msgid "To use S/MIME, you need:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:573
+#: ../../advanced_email_management/toc.rst:560
 msgid ""
 "A valid S/MIME certificate (X.509 format) issued by a trusted Certificate"
 " Authority (CA)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:574
+#: ../../advanced_email_management/toc.rst:561
 msgid ""
 "Carbonio webmail (S/MIME is not available in Carbonio Community Edition, "
 "it only allows to show that the email is digitally signed)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:575
+#: ../../advanced_email_management/toc.rst:562
 msgid ""
 "A compatible email client (Another user with Carbonio webmail, Outlook,  "
 "Thunderbird --to check--,  others?)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:578
+#: ../../advanced_email_management/toc.rst:565
 msgid "Obtaining an S/MIME Certificate"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:580
+#: ../../advanced_email_management/toc.rst:567
 msgid ""
 "You need an S/MIME certificate issued by a trusted Certificate Authority "
 "(CA).Popular CAs include: Sectigo (Comodo); DigiCert; GlobalSign; "
 "Actalis; Entrust; GoDaddy; Thawte; VeriSign; and others."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:582
+#: ../../advanced_email_management/toc.rst:569
 msgid ""
 "To obtain an S/MIME certificate: 1. Go to the website of a trusted CA. 2."
 " Request an S/MIME certificate from a CA. 3. Download the certificate in "
@@ -1477,15 +1442,15 @@ msgid ""
 "private key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:589
+#: ../../advanced_email_management/toc.rst:576
 msgid "How S/MIME Signing Works in Carbonio"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:592
+#: ../../advanced_email_management/toc.rst:579
 msgid "Importing an S/MIME Certificate"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:594
+#: ../../advanced_email_management/toc.rst:581
 msgid ""
 "# Upload your personal certificate (containing a public and a private "
 "key) into Carbonio webmail via Settings → S/MIME Certificates (the system"
@@ -1495,11 +1460,11 @@ msgid ""
 "decryption."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:599
+#: ../../advanced_email_management/toc.rst:586
 msgid "Signing an Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:601
+#: ../../advanced_email_management/toc.rst:588
 msgid ""
 "# When composing an email, select \"Use certificate to sign (S/MIME)\". #"
 " Carbonio uses the user’s private key to generate a digital signature. # "
@@ -1507,11 +1472,11 @@ msgid ""
 "recipient can verify the signature using the sender’s public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:608
+#: ../../advanced_email_management/toc.rst:595
 msgid "Verifying a Signed Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:610
+#: ../../advanced_email_management/toc.rst:597
 msgid ""
 "# When you receive a signed email, the signature is displayed in the "
 "email header. # Click on the signature to view the certificate details. #"
@@ -1520,36 +1485,36 @@ msgid ""
 "verify the signature using the sender’s public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:615
+#: ../../advanced_email_management/toc.rst:602
 msgid "If the signature is valid:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:617
+#: ../../advanced_email_management/toc.rst:604
 msgid "The recipient sees a signed email notification."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:618
+#: ../../advanced_email_management/toc.rst:605
 msgid ""
 "It confirms the email hasn’t been modified and is truly from the claimed "
 "sender."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:620
+#: ../../advanced_email_management/toc.rst:607
 msgid ""
 "If the signature is invalid or missing, the email might be tampered with "
 "or sent from an untrusted source. The recipient should be cautious when "
 "interacting with such emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:625
+#: ../../advanced_email_management/toc.rst:612
 msgid "How S/MIME Encryption Works in Carbonio"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:628
+#: ../../advanced_email_management/toc.rst:615
 msgid "Key Components"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:630
+#: ../../advanced_email_management/toc.rst:617
 msgid ""
 "# Public Key: Used to encrypt the email. Stored in the recipient’s S/MIME"
 " certificate. # Private Key: Used to decrypt the email. Stored securely "
@@ -1557,114 +1522,114 @@ msgid ""
 "certificates to users."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:635
+#: ../../advanced_email_management/toc.rst:622
 msgid "The Encryption Process"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:637
+#: ../../advanced_email_management/toc.rst:624
 msgid "Sender Retrieves Recipient’s Public Key"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:638
+#: ../../advanced_email_management/toc.rst:625
 msgid "The sender must have the recipient’s public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:645
+#: ../../advanced_email_management/toc.rst:632
 msgid "Email Encryption"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:640
+#: ../../advanced_email_management/toc.rst:627
 msgid "The sender composes an email and selects  \"Encrypt with S/MIME\""
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:641
+#: ../../advanced_email_management/toc.rst:628
 msgid "Sender email content is encrypted using the recipient’s public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:642
+#: ../../advanced_email_management/toc.rst:629
 msgid "The email is sent in an encrypted format."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:643
+#: ../../advanced_email_management/toc.rst:630
 msgid ""
 "Recipient Decrypts the Email * When the recipient opens the email, its "
 "private key is used to decrypt the message. * If the private key matches "
 "the encrypted data, the email is decrypted and displayed normally."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:647
+#: ../../advanced_email_management/toc.rst:634
 msgid ""
 "The recipient can only decrypt the email if they have the corresponding "
 "private key. This ensures that only the intended recipient can read the "
 "email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:650
+#: ../../advanced_email_management/toc.rst:637
 msgid "Requirements for S/MIME Encryption"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:652
+#: ../../advanced_email_management/toc.rst:639
 msgid ""
 "# Both sender and recipient must have S/MIME certificates installed. # "
 "The recipient’s public key must be available to the sender."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:656
+#: ../../advanced_email_management/toc.rst:643
 msgid "Uploading a Certificate in Carbonio Webmail"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:658
+#: ../../advanced_email_management/toc.rst:645
 msgid "Go to Settings → S/MIME Certificates."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:659
+#: ../../advanced_email_management/toc.rst:646
 msgid ""
 "Click \"Upload Certificate\" under Personal certificates for signing, "
 "encryption and decryption."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:660
+#: ../../advanced_email_management/toc.rst:647
 msgid "Select your PKCS#12 certificate file (.pfx or .p12)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:661
+#: ../../advanced_email_management/toc.rst:648
 msgid "Enter the certificate secret."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:662
-#: ../../advanced_email_management/toc.rst:668
+#: ../../advanced_email_management/toc.rst:649
+#: ../../advanced_email_management/toc.rst:655
 msgid "Click Save."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:665
+#: ../../advanced_email_management/toc.rst:652
 msgid "Uploading Recipient Certificate"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:667
+#: ../../advanced_email_management/toc.rst:654
 msgid "Click \"Upload Certificate\" under Recipients certificates for encryption"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:671
+#: ../../advanced_email_management/toc.rst:658
 msgid "Sending an Encrypted Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:673
+#: ../../advanced_email_management/toc.rst:660
 msgid "Compose a new email in Carbonio webmail."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:674
+#: ../../advanced_email_management/toc.rst:661
 msgid "Select \"Use certificate to encrypt (S/MIME)\" before sending."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:675
+#: ../../advanced_email_management/toc.rst:662
 msgid "The email will be encrypted using the recipient’s public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:678
+#: ../../advanced_email_management/toc.rst:665
 msgid "Receiving and Decrypting an Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:680
+#: ../../advanced_email_management/toc.rst:667
 msgid ""
 "# If your private key is installed, Carbonio will automatically decrypt "
 "the message. # If not, you’ll see an \"Unable to decrypt\" error. # You "
@@ -1705,11 +1670,11 @@ msgstr ""
 msgid "To create a new appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:25 ../../appointments/toc.rst:56
-#: ../../appointments/toc.rst:67 ../../appointments/toc.rst:78
+#: ../../appointments/toc.rst:25 ../../appointments/toc.rst:81
 #: ../../appointments/toc.rst:92 ../../appointments/toc.rst:103
-#: ../../appointments/toc.rst:114 ../../appointments/toc.rst:129
-#: ../../appointments/toc.rst:152 ../../appointments/toc.rst:165
+#: ../../appointments/toc.rst:117 ../../appointments/toc.rst:128
+#: ../../appointments/toc.rst:139 ../../appointments/toc.rst:154
+#: ../../appointments/toc.rst:177 ../../appointments/toc.rst:190
 #: ../../calendars/toc.rst:42 ../../calendars/toc.rst:61
 #: ../../calendars/toc.rst:92 ../../calendars/toc.rst:103
 #: ../../calendars/toc.rst:115 ../../calendars/toc.rst:127
@@ -1719,7 +1684,7 @@ msgstr ""
 msgid "Select the **Calendars** from your left sidebar."
 msgstr ""
 
-#: ../../appointments/toc.rst:26 ../../appointments/toc.rst:130
+#: ../../appointments/toc.rst:26 ../../appointments/toc.rst:155
 #: ../../contacts/toc.rst:43 ../../tasks/toc.rst:21
 msgid ""
 "Click on the **NEW** button located on the top bar. A new board will "
@@ -1736,7 +1701,7 @@ msgstr ""
 msgid "Enter a title for the appointment in the **Event title** field."
 msgstr ""
 
-#: ../../appointments/toc.rst:29 ../../appointments/toc.rst:133
+#: ../../appointments/toc.rst:29 ../../appointments/toc.rst:158
 msgid ""
 "Specify a location for the appointment to occur in the **Location "
 "field**. If applicable, you may include details such as Room Number 2."
@@ -1751,16 +1716,7 @@ msgid ""
 "office are included."
 msgstr ""
 
-#: ../../appointments/toc.rst:31 ../../appointments/toc.rst:135
-msgid ""
-"Choose the required equipment from the available options under the "
-"**Equipment field**. Please note that the equipment is configured by your"
-" system administrator. If you do not see the desired equipment listed, "
-"kindly contact your system administrator to ensure all relevant equipment"
-" such as cameras, displays, etc. in your office are included."
-msgstr ""
-
-#: ../../appointments/toc.rst:32
+#: ../../appointments/toc.rst:31
 msgid ""
 "If you prefer to host a virtual meeting using |product| Chats' video "
 "meeting feature in one of your virtual rooms, you can select the desired "
@@ -1769,14 +1725,14 @@ msgid ""
 "**\"CREATE NEW VIRTUAL ROOM\"**."
 msgstr ""
 
-#: ../../appointments/toc.rst:33 ../../appointments/toc.rst:137
+#: ../../appointments/toc.rst:32 ../../appointments/toc.rst:162
 msgid ""
 "Enter the email addresses of the attendees into the **Attendees field**. "
 "You can leave this field empty if you are creating a personal appointment"
 " for yourself."
 msgstr ""
 
-#: ../../appointments/toc.rst:34 ../../appointments/toc.rst:138
+#: ../../appointments/toc.rst:33 ../../appointments/toc.rst:163
 msgid ""
 "Choose whether you would like |product| to mark this time slot for the "
 "appointment as busy or free from the **Display field**. This will inform "
@@ -1784,13 +1740,13 @@ msgid ""
 "another appointment during the same time slot."
 msgstr ""
 
-#: ../../appointments/toc.rst:35 ../../appointments/toc.rst:139
+#: ../../appointments/toc.rst:34 ../../appointments/toc.rst:164
 msgid ""
 "Choose the calendar in which you want to create the appointment from the "
 "**Calendar field**."
 msgstr ""
 
-#: ../../appointments/toc.rst:36 ../../appointments/toc.rst:140
+#: ../../appointments/toc.rst:35 ../../appointments/toc.rst:165
 msgid ""
 "Tick the **Private checkbox** if you wish to conceal the details of this "
 "appointment, such as its title, from your colleagues. Even if you have "
@@ -1799,7 +1755,7 @@ msgid ""
 "like the title."
 msgstr ""
 
-#: ../../appointments/toc.rst:37
+#: ../../appointments/toc.rst:36
 msgid ""
 "Choose the time slot for the appointment by specifying the start date and"
 " time in the **Start date and time field**, and the end date and time in "
@@ -1807,7 +1763,7 @@ msgid ""
 " labeled **All day** if the appointment spans the entire day."
 msgstr ""
 
-#: ../../appointments/toc.rst:38 ../../appointments/toc.rst:142
+#: ../../appointments/toc.rst:37 ../../appointments/toc.rst:167
 msgid ""
 "Choose a reminder for the appointment from the **Reminder field** to "
 "ensure you are informed beforehand. |product| will display a warning "
@@ -1815,7 +1771,7 @@ msgid ""
 " appointment."
 msgstr ""
 
-#: ../../appointments/toc.rst:39
+#: ../../appointments/toc.rst:38
 msgid ""
 "Tick the **repeat** recurrence of the appointment if you want to use any "
 "of the pre-defined recurrences (every day, week, month, or year) or "
@@ -1823,29 +1779,92 @@ msgid ""
 "occurrences."
 msgstr ""
 
-#: ../../appointments/toc.rst:40
+#: ../../appointments/toc.rst:39
 msgid ""
 "Choose the time zone, if different from the default one. You need to "
 "enable this option in the Calendar's module settings, in *Creating "
 "Appointment* Section."
 msgstr ""
 
-#: ../../appointments/toc.rst:41 ../../appointments/toc.rst:143
+#: ../../appointments/toc.rst:40 ../../appointments/toc.rst:168
 msgid "Add any notes about this appointment in the text box."
 msgstr ""
 
-#: ../../appointments/toc.rst:42 ../../appointments/toc.rst:145
+#: ../../appointments/toc.rst:41 ../../appointments/toc.rst:170
 msgid ""
 "If you are creating the appointment solely for yourself, click **SAVE**. "
 "If your appointment includes attendees, as specified in step 8, click "
 "**SEND** to notify them via an automatic email."
 msgstr ""
 
-#: ../../appointments/toc.rst:45
+#: ../../appointments/toc.rst:44
+msgid "How Equipment Resources work"
+msgstr ""
+
+#: ../../appointments/toc.rst:46
+msgid ""
+"Equipment resources (such as projectors, cameras, displays, company "
+"laptops, etc.) are managed centrally by your system administrator. Each "
+"piece of equipment is represented in Carbonio as a resource account that "
+"can be added to appointments, similar to a meeting room."
+msgstr ""
+
+#: ../../appointments/toc.rst:49
+msgid "Assigning Equipment to an Appointment"
+msgstr ""
+
+#: ../../appointments/toc.rst:51
+msgid ""
+"When creating an appointment, users can choose one or more equipment "
+"resources from the Equipment field (if enabled and configured by the "
+"system administrator). Selecting equipment means that the resource is "
+"reserved for the duration of the appointment, preventing overlapping "
+"bookings. If a specific piece of equipment does not appear in the list, "
+"users must contact their system administrator so it can be added as a "
+"resource."
+msgstr ""
+
+#: ../../appointments/toc.rst:55
+msgid "Approval workflow for Equipment Requests"
+msgstr ""
+
+#: ../../appointments/toc.rst:57
+msgid "Equipment resources can operate in multiple modes:"
+msgstr ""
+
+#: ../../appointments/toc.rst:59
+msgid ""
+"**Auto-accept enabled**: the resource automatically accepts the booking "
+"if it is available."
+msgstr ""
+
+#: ../../appointments/toc.rst:60
+msgid ""
+"**Auto-accept disabled**: the resource does not automatically accept "
+"requests."
+msgstr ""
+
+#: ../../appointments/toc.rst:61
+msgid ""
+"**Booking disabled**: the administrator can prevent any scheduled booking"
+" for the equipment resource, including the ability to create recurring "
+"appointments for that resource."
+msgstr ""
+
+#: ../../appointments/toc.rst:64
+msgid ""
+"When auto-acceptance is disabled, the system administrator can configure "
+"the resource to forward booking requests to one or more designated users."
+" These users act as **approvers** and can manually accept or decline each"
+" equipment request. Their decision determines whether the equipment is "
+"reserved for the appointment."
+msgstr ""
+
+#: ../../appointments/toc.rst:70
 msgid "Checking on attendees' availability with organizer tool"
 msgstr ""
 
-#: ../../appointments/toc.rst:47
+#: ../../appointments/toc.rst:72
 msgid ""
 "When scheduling a new meeting, with expected other attendees, you will "
 "also have the option to check on other attendees availability by simply "
@@ -1860,129 +1879,129 @@ msgid ""
 "the time."
 msgstr ""
 
-#: ../../appointments/toc.rst:52
+#: ../../appointments/toc.rst:77
 msgid "Editing an Existing Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:54
+#: ../../appointments/toc.rst:79
 msgid "To edit an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:57 ../../appointments/toc.rst:68
+#: ../../appointments/toc.rst:82 ../../appointments/toc.rst:93
 msgid ""
 "Right-click on the appointment you wish to edit, which is displayed on "
 "your timetable."
 msgstr ""
 
-#: ../../appointments/toc.rst:58 ../../appointments/toc.rst:94
-#: ../../appointments/toc.rst:105 ../../appointments/toc.rst:116
+#: ../../appointments/toc.rst:83 ../../appointments/toc.rst:119
+#: ../../appointments/toc.rst:130 ../../appointments/toc.rst:141
 #: ../../chat/toc.rst:80 ../../chats/toc.rst:73 ../../tasks/toc.rst:39
 msgid "Select **Edit** from the drop-down menu."
 msgstr ""
 
-#: ../../appointments/toc.rst:59 ../../appointments/toc.rst:95
+#: ../../appointments/toc.rst:84 ../../appointments/toc.rst:120
 msgid "Make changes."
 msgstr ""
 
-#: ../../appointments/toc.rst:60 ../../appointments/toc.rst:96
-#: ../../appointments/toc.rst:107 ../../appointments/toc.rst:118
+#: ../../appointments/toc.rst:85 ../../appointments/toc.rst:121
+#: ../../appointments/toc.rst:132 ../../appointments/toc.rst:143
 msgid ""
 "If you have created the appointment solely for yourself, click **SAVE**. "
 "If your appointment includes attendees, click **SEND** to notify them "
 "about the changes via an automatic email."
 msgstr ""
 
-#: ../../appointments/toc.rst:63
+#: ../../appointments/toc.rst:88
 msgid "Forwarding an Existing Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:65
+#: ../../appointments/toc.rst:90
 msgid "To forward an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:69 ../../chat/toc.rst:109 ../../chat/toc.rst:117
+#: ../../appointments/toc.rst:94 ../../chat/toc.rst:109 ../../chat/toc.rst:117
 #: ../../chats/toc.rst:93
 msgid "Select **Forward** from the drop-down menu."
 msgstr ""
 
-#: ../../appointments/toc.rst:70
+#: ../../appointments/toc.rst:95
 msgid ""
 "Enter the email address of the person you wish to forward the appointment"
 " to."
 msgstr ""
 
-#: ../../appointments/toc.rst:71
+#: ../../appointments/toc.rst:96
 msgid "Click **FORWARD** to send the appointment to the specified email address."
 msgstr ""
 
-#: ../../appointments/toc.rst:74
+#: ../../appointments/toc.rst:99
 msgid "Canceling an Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:76
+#: ../../appointments/toc.rst:101
 msgid "To cancel an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:79 ../../appointments/toc.rst:93
-#: ../../appointments/toc.rst:104 ../../appointments/toc.rst:115
+#: ../../appointments/toc.rst:104 ../../appointments/toc.rst:118
+#: ../../appointments/toc.rst:129 ../../appointments/toc.rst:140
 msgid "Right-click on the appointment displayed on your timetable."
 msgstr ""
 
-#: ../../appointments/toc.rst:80 ../../chats/toc.rst:103
+#: ../../appointments/toc.rst:105 ../../chats/toc.rst:103
 #: ../../files/toc.rst:100 ../../tasks/toc.rst:50
 msgid "Select **Delete** from the drop-down menu."
 msgstr ""
 
-#: ../../appointments/toc.rst:81
+#: ../../appointments/toc.rst:106
 msgid "Click the **SEND CANCELATION** or **DELETE** button to confirm."
 msgstr ""
 
-#: ../../appointments/toc.rst:83
+#: ../../appointments/toc.rst:108
 msgid ""
 "If there are attendees for this appointment, a notification email will "
 "automatically be sent to the attendees to inform them about the "
 "cancellation."
 msgstr ""
 
-#: ../../appointments/toc.rst:86
+#: ../../appointments/toc.rst:111
 msgid "Moving an Existing Appointment to a Different Time"
 msgstr ""
 
-#: ../../appointments/toc.rst:88
+#: ../../appointments/toc.rst:113
 msgid ""
 "To reschedule an appointment to a different time, you can simply click "
 "and hold on to the appointment in your timetable and drag it to another "
 "time slot."
 msgstr ""
 
-#: ../../appointments/toc.rst:90
+#: ../../appointments/toc.rst:115
 msgid "Alternatively:"
 msgstr ""
 
-#: ../../appointments/toc.rst:99
+#: ../../appointments/toc.rst:124
 msgid "Adding / Removing Attendees to an Existing Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:101
+#: ../../appointments/toc.rst:126
 msgid "To add or remove attendees to an appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:106
+#: ../../appointments/toc.rst:131
 msgid ""
 "To add attendees, enter the email addresses of new attendees into the "
 "**Attendees field**. To remove attendees, click the cross button next to "
 "the attendees' email addresses."
 msgstr ""
 
-#: ../../appointments/toc.rst:110
+#: ../../appointments/toc.rst:135
 msgid "Adding a Meeting Room to an Existing Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:112
+#: ../../appointments/toc.rst:137
 msgid "To add a meeting room to an existing appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:117
+#: ../../appointments/toc.rst:142
 msgid ""
 "Choose a meeting room from the available options in the **Meeting room "
 "field**. Alternatively, if you prefer to host a virtual meeting using "
@@ -1990,7 +2009,7 @@ msgid ""
 "can select the desired virtual room from the **Virtual Room field**."
 msgstr ""
 
-#: ../../appointments/toc.rst:120
+#: ../../appointments/toc.rst:145
 msgid ""
 "Please note that these meeting rooms are configured by your system "
 "administrator. If you do not see the desired room listed, kindly contact "
@@ -2000,11 +2019,11 @@ msgid ""
 "|product| web client."
 msgstr ""
 
-#: ../../appointments/toc.rst:123
+#: ../../appointments/toc.rst:148
 msgid "Creating a Recurring Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:125
+#: ../../appointments/toc.rst:150
 msgid ""
 "A recurring appointment is an event scheduled to occur repeatedly at "
 "specified intervals, such as daily, weekly, monthly, or yearly. Rather "
@@ -2013,21 +2032,21 @@ msgid ""
 " your chosen pattern."
 msgstr ""
 
-#: ../../appointments/toc.rst:127
+#: ../../appointments/toc.rst:152
 msgid "To create a recurring new appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:131
+#: ../../appointments/toc.rst:156
 msgid ""
 "In the **From field**, select the identity you want to use to schedule "
 "and send the appointment invitation."
 msgstr ""
 
-#: ../../appointments/toc.rst:132
+#: ../../appointments/toc.rst:157
 msgid "Enter a title for the appointment in the **Event title field**."
 msgstr ""
 
-#: ../../appointments/toc.rst:134
+#: ../../appointments/toc.rst:159
 msgid ""
 "Choose a meeting room from the available options in the **Meeting room "
 "field**. Please note that these meeting rooms are configured by your "
@@ -2036,7 +2055,16 @@ msgid ""
 " your office are included."
 msgstr ""
 
-#: ../../appointments/toc.rst:136
+#: ../../appointments/toc.rst:160
+msgid ""
+"Choose the required equipment from the available options under the "
+"**Equipment field**. Please note that the equipment is configured by your"
+" system administrator. If you do not see the desired equipment listed, "
+"kindly contact your system administrator to ensure all relevant equipment"
+" such as cameras, displays, etc. in your office are included."
+msgstr ""
+
+#: ../../appointments/toc.rst:161
 msgid ""
 "If you prefer to host a virtual meeting using |product| Chats' video "
 "meeting feature in one of your virtual rooms, you can select the desired "
@@ -2045,7 +2073,7 @@ msgid ""
 "on the |product| web client."
 msgstr ""
 
-#: ../../appointments/toc.rst:141
+#: ../../appointments/toc.rst:166
 msgid ""
 "Choose the time slot for the appointment by specifying the start date and"
 " time in the **Start date and time field**, and the end date and time in "
@@ -2053,119 +2081,119 @@ msgid ""
 " labeled All day if the appointment spans the entire day."
 msgstr ""
 
-#: ../../appointments/toc.rst:144
+#: ../../appointments/toc.rst:169
 msgid ""
 "Choose your preferred option (Every Day, Every Week, Every Month, Every "
 "Year) from the **Repeat field** to establish the recurring pattern."
 msgstr ""
 
-#: ../../appointments/toc.rst:148
+#: ../../appointments/toc.rst:173
 msgid "Canceling a Recurring Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:150
+#: ../../appointments/toc.rst:175
 msgid "To cancel a recurring appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:153 ../../appointments/toc.rst:166
+#: ../../appointments/toc.rst:178 ../../appointments/toc.rst:191
 msgid ""
 "Right-click on the appointment you wish to cancel, which is displayed on "
 "your timetable."
 msgstr ""
 
-#: ../../appointments/toc.rst:154
+#: ../../appointments/toc.rst:179
 msgid "Go to the **Series** from the drop-down menu and select **Delete**."
 msgstr ""
 
-#: ../../appointments/toc.rst:155
+#: ../../appointments/toc.rst:180
 msgid ""
 "In this step, you can choose whether to delete all occurrences or only "
 "this and future occurrences by selecting the appropriate option."
 msgstr ""
 
-#: ../../appointments/toc.rst:156 ../../appointments/toc.rst:168
+#: ../../appointments/toc.rst:181 ../../appointments/toc.rst:193
 msgid ""
 "Click **DELETE** to confirm. If prompted, click **SEND CANCELATION** as "
 "well."
 msgstr ""
 
-#: ../../appointments/toc.rst:158 ../../appointments/toc.rst:170
+#: ../../appointments/toc.rst:183 ../../appointments/toc.rst:195
 msgid ""
 "If there are attendees for this appointment, a notification email will be"
 " automatically sent to the attendees to inform them about the "
 "cancellation."
 msgstr ""
 
-#: ../../appointments/toc.rst:161
+#: ../../appointments/toc.rst:186
 msgid "Canceling a Single Instance of a Recurring Appointment"
 msgstr ""
 
-#: ../../appointments/toc.rst:163
+#: ../../appointments/toc.rst:188
 msgid "To cancel a single instance of a recurring appointment:"
 msgstr ""
 
-#: ../../appointments/toc.rst:167
+#: ../../appointments/toc.rst:192
 msgid "Go to the **Instance** from the drop-down menu and select **Delete**."
 msgstr ""
 
-#: ../../appointments/toc.rst:173
+#: ../../appointments/toc.rst:198
 msgid "Responding to an Appointment Invitation"
 msgstr ""
 
-#: ../../appointments/toc.rst:175
+#: ../../appointments/toc.rst:200
 msgid ""
 "When a colleague sends you an invitation for an appointment, you will "
 "receive an automatic email indicating that you are invited. Inside the "
 "email, you have four options to choose from:"
 msgstr ""
 
-#: ../../appointments/toc.rst:178
+#: ../../appointments/toc.rst:203
 msgid "**YES**: Confirm your attendance for the appointment."
 msgstr ""
 
-#: ../../appointments/toc.rst:179
+#: ../../appointments/toc.rst:204
 msgid "**MAYBE**: Indicate that you are unsure about attending the appointment."
 msgstr ""
 
-#: ../../appointments/toc.rst:180
+#: ../../appointments/toc.rst:205
 msgid ""
 "**NO**: Decline the invitation and indicate that you will not attend the "
 "appointment."
 msgstr ""
 
-#: ../../appointments/toc.rst:181
+#: ../../appointments/toc.rst:206
 msgid ""
 "**PROPOSE NEW TIME**: Suggest an alternative time for the appointment if "
 "the proposed time is not suitable for you."
 msgstr ""
 
-#: ../../appointments/toc.rst:183
+#: ../../appointments/toc.rst:208
 msgid ""
 "Before selecting **YES**, you can also choose the calendar in which you "
 "want to save the appointment from the Calendar field."
 msgstr ""
 
-#: ../../appointments/toc.rst:185
+#: ../../appointments/toc.rst:210
 msgid ""
 "If you choose **PROPOSE NEW TIME**, a new window will appear where you "
 "can select a new time slot for the appointment and then click the "
 "**SEND** button."
 msgstr ""
 
-#: ../../appointments/toc.rst:187
+#: ../../appointments/toc.rst:212
 msgid ""
 "Furthermore, you have the option to enable or disable the **Notify "
 "organizer checkbox** based on whether you wish to send an automatic email"
 " notification to them or not."
 msgstr ""
 
-#: ../../appointments/toc.rst:189
+#: ../../appointments/toc.rst:214
 msgid ""
 "After selecting one of the four buttons, the invitation email will "
 "automatically be moved to your Trash folder."
 msgstr ""
 
-#: ../../appointments/toc.rst:191
+#: ../../appointments/toc.rst:216
 msgid ""
 "If you don't choose any of the four options, the appointment will be "
 "automatically saved in your calendar as a tentative appointment with an "
@@ -4415,6 +4443,73 @@ msgid ""
 "folder."
 msgstr ""
 
+#: ../../calendars/toc.rst:366
+msgid "Configure a CalDAV Client"
+msgstr ""
+
+#: ../../calendars/toc.rst:368
+msgid ""
+"Adding a |product| calendar to your favourite CalDAV client is "
+"straightforward and requires only a few steps. The procedure is almost "
+"identical on any client; in the box at the end of this section we mention"
+" which are the differences."
+msgstr ""
+
+#: ../../calendars/toc.rst:373
+msgid ""
+"In this scenario, the user *john.smith@example.com* wants to configure in"
+" Mozilla's Thunderbird a calendar called *Calendar* on the domain "
+"*mail.example.com*. In the remainder, replace these values with suitable "
+"ones."
+msgstr ""
+
+#: ../../calendars/toc.rst:378
+msgid "Step 1.  New Calendar"
+msgstr ""
+
+#: ../../calendars/toc.rst:380
+msgid ""
+"On your client, go to the Calendar and select **New Calendar...**. Choose"
+" **On the Network**"
+msgstr ""
+
+#: ../../calendars/toc.rst:387
+msgid "Step 2."
+msgstr ""
+
+#: ../../calendars/toc.rst:389
+msgid ""
+"Provide the **Username** and the **Location**, which has format "
+"``https://<domain>/dav/username``, so "
+"*https://mail.example.com/dav/john.smith@example.com*"
+msgstr ""
+
+#: ../../calendars/toc.rst:398
+msgid "Step 3."
+msgstr ""
+
+#: ../../calendars/toc.rst:400
+msgid "You will be then presented a list, from which to choose *Calendar*."
+msgstr ""
+
+#: ../../calendars/toc.rst:402
+msgid "You are now done! the calendar will show up in the list of your client."
+msgstr ""
+
+#: ../../calendars/toc.rst:408 ../../contacts/toc.rst:353
+msgid "Other clients"
+msgstr ""
+
+#: ../../calendars/toc.rst:410
+msgid ""
+"CalDAV is a standard protocol and therefore the data required to set up a"
+" client are a username, an URL, and the name of a calendar. The only "
+"difference is that some client requires that the calendar's name be part "
+"of the URL, so you might need to provide "
+"*https://mail.example.com/dav/john.smith@example.com/Calendar* as the "
+"URL."
+msgstr ""
+
 #: ../../chat/toc.rst:7
 msgid "Working with Chats"
 msgstr ""
@@ -6324,6 +6419,61 @@ msgstr ""
 msgid "Example CSV file"
 msgstr ""
 
+#: ../../contacts/toc.rst:314
+msgid "Configure a CardDav Client"
+msgstr ""
+
+#: ../../contacts/toc.rst:316
+msgid ""
+"Adding a |product| address book to your favourite CardDAV client is "
+"straightforward and requires only a few steps."
+msgstr ""
+
+#: ../../contacts/toc.rst:319
+msgid ""
+"In this scenario, the user *john.smith@example.com* wants to import in "
+"Mozilla's Thunderbird an address book from the domain *mail.example.com*."
+" In the remainder, replace these values with suitable ones."
+msgstr ""
+
+#: ../../contacts/toc.rst:324
+msgid "Step 1. New Address book"
+msgstr ""
+
+#: ../../contacts/toc.rst:326
+msgid ""
+"On your client, go to the Calendar and select **New Address Book**, "
+"providing the **Username** and the **Location**, which has format "
+"``https://<domain>/dav/username``, so "
+"*https://mail.example.com/dav/john.smith@example.com*"
+msgstr ""
+
+#: ../../contacts/toc.rst:335
+msgid "Step 2. Insert credentials"
+msgstr ""
+
+#: ../../contacts/toc.rst:337
+msgid ""
+"Authenticate to |product| by inserting the username and password to "
+"access the address book."
+msgstr ""
+
+#: ../../contacts/toc.rst:344
+msgid "Step 3. Select Address Books"
+msgstr ""
+
+#: ../../contacts/toc.rst:346
+msgid ""
+"You will be then presented a list, from which to choose the address books"
+" to import in the client."
+msgstr ""
+
+#: ../../contacts/toc.rst:355
+msgid ""
+"You are now done! The imported address books will show up in the list of "
+"your client."
+msgstr ""
+
 #: ../../files/toc.rst:7
 msgid "Working with Files"
 msgstr ""
@@ -6881,7 +7031,8 @@ msgstr "Cliquez sur le bouton **TELEVERSION**. Une nouvelle fenêtre s'ouvre."
 #: ../../files/toc.rst:272
 msgid "Choose the new version of the file from the opened window."
 msgstr ""
-"Sélectionnez la nouvelle version du fichier à partir de la fenêtre ouverte."
+"Sélectionnez la nouvelle version du fichier à partir de la fenêtre "
+"ouverte."
 
 #: ../../files/toc.rst:276
 msgid "Restore a File to a Previous Version"
@@ -7483,181 +7634,157 @@ msgstr ""
 #: ../../get_started/toc.rst:31
 msgid ""
 "Two-factor Authentication (2FA) is a security feature activated by your "
-"system administrator. In this case, accessing your webmail requires a "
-"secondary layer of identification for enhanced security."
+"system administrator. When enabled, accessing your webmail requires an "
+"additional verification step for enhanced security."
 msgstr ""
 
 #: ../../get_started/toc.rst:33
 msgid ""
-"When accessing your account for the first time, you will be prompted to "
-"create a **one-time password (OTP)**."
+"Before you can log in using 2FA, you must have configured your second-"
+"factor method from your webmail preferences. If you have not yet "
+"completed the setup, you may request from your system administrator the "
+"credentials to access your account and the necessary permissions to "
+"configure 2FA."
 msgstr ""
 
-#: ../../get_started/toc.rst:35
-msgid "First-Time Setup:"
+#: ../../get_started/toc.rst:36
+msgid ""
+"Once you have access to your account and the required permissions, you "
+"can configure 2FA as described below."
 msgstr ""
 
-#: ../../get_started/toc.rst:37
-msgid "After creating the OTP, a QR code will appear on your screen"
+#: ../../get_started/toc.rst:39
+msgid "1. Accessing 2FA Settings"
 msgstr ""
 
-#: ../../get_started/toc.rst:38
-msgid "Install the Google Authenticator app on your mobile device"
-msgstr ""
-
-#: ../../get_started/toc.rst:40 ../../get_started/toc.rst:89
-msgid "Scanning the QR Code:"
+#: ../../get_started/toc.rst:41
+msgid "Click the **gear icon** in the left sidebar of your webmail interface."
 msgstr ""
 
 #: ../../get_started/toc.rst:42
-msgid "Open the Google Authenticator app"
-msgstr ""
-
-#: ../../get_started/toc.rst:43
-msgid "Tap the + button in the bottom right corner"
-msgstr ""
-
-#: ../../get_started/toc.rst:44
-msgid "Use the app to scan the QR code displayed on your computer screen"
-msgstr ""
-
-#: ../../get_started/toc.rst:45
-msgid ""
-"This creates an instance in the app that generates a temporary code that "
-"updates every 30 seconds"
-msgstr ""
-
-#: ../../get_started/toc.rst:47 ../../get_started/toc.rst:94
-msgid "Logging In with 2FA:"
-msgstr ""
-
-#: ../../get_started/toc.rst:49
-msgid "Next time you log in to your |product| webmail, follow these steps:"
-msgstr ""
-
-#: ../../get_started/toc.rst:51 ../../get_started/toc.rst:98
-msgid "> Enter your **username** and **password**;"
-msgstr ""
-
-#: ../../get_started/toc.rst:53 ../../get_started/toc.rst:100
-msgid ""
-"> If prompted for the second-factor authentication, open the Google "
-"Authenticator app;"
-msgstr ""
-
-#: ../../get_started/toc.rst:55 ../../get_started/toc.rst:102
-msgid "> Insert the **code** from the app on your login page;"
-msgstr ""
-
-#: ../../get_started/toc.rst:57
-msgid "> Click **LOGIN**."
-msgstr ""
-
-#: ../../get_started/toc.rst:60
-msgid "Setting Up Two-factor Auth (2FA)"
-msgstr ""
-
-#: ../../get_started/toc.rst:63
-msgid ""
-"If you are not required to use 2FA on your login prompts, you can "
-"manually set it up via your web client settings, if your system "
-"administrator gave you the proper permission. By following these steps, "
-"you will enhance the security of your |product| webmail account."
-msgstr ""
-
-#: ../../get_started/toc.rst:65
-msgid "Accessing Settings:"
-msgstr ""
-
-#: ../../get_started/toc.rst:67
-msgid ""
-"Click on the **gear icon** located in the left sidebar of your webmail "
-"interface."
-msgstr ""
-
-#: ../../get_started/toc.rst:68
 msgid "Navigate to the **Auth** section."
 msgstr ""
 
+#: ../../get_started/toc.rst:43
+msgid "Open **OTP Authentication** and click **NEW OTP**."
+msgstr ""
+
+#: ../../get_started/toc.rst:46
+msgid "2. Creating an OTP"
+msgstr ""
+
+#: ../../get_started/toc.rst:48
+msgid "Insert a **label** to identify the new OTP (e.g., ``myOTP1``)."
+msgstr ""
+
+#: ../../get_started/toc.rst:49
+msgid "Click **CREATE PASSWORD**."
+msgstr ""
+
+#: ../../get_started/toc.rst:50
+msgid ""
+"After creation, you can complete the setup using one of the two available"
+" authentication methods:"
+msgstr ""
+
+#: ../../get_started/toc.rst:52
+msgid "**Option A:** Scanning a **QR code** with an authenticator app."
+msgstr ""
+
+#: ../../get_started/toc.rst:53
+msgid "**Option B:** Generating **PIN codes** for manual authentication."
+msgstr ""
+
+#: ../../get_started/toc.rst:56
+msgid ""
+"You can choose to trust your current login environment so that the second"
+" factor will not be requested the next time you sign in. The duration of "
+"this trust is defined by your system administrator."
+msgstr ""
+
+#: ../../get_started/toc.rst:59
+msgid "3. Option A — Using an Authenticator App"
+msgstr ""
+
+#: ../../get_started/toc.rst:61
+msgid ""
+"Install a supported authenticator app (e.g., **Google Authenticator** or "
+"**MS auth**) on your mobile device."
+msgstr ""
+
+#: ../../get_started/toc.rst:62
+msgid "Open the app and press the **+** button."
+msgstr ""
+
+#: ../../get_started/toc.rst:63
+msgid "Scan the **QR code** displayed in your webmail."
+msgstr ""
+
+#: ../../get_started/toc.rst:64
+msgid ""
+"The app will create an entry that generates a **temporary verification "
+"code**, refreshed every 30 seconds."
+msgstr ""
+
+#: ../../get_started/toc.rst:67
+msgid "4. Option B — Using PIN Codes"
+msgstr ""
+
+#: ../../get_started/toc.rst:69
+msgid ""
+"Select the option to generate **PIN codes** instead of scanning the QR "
+"code."
+msgstr ""
+
 #: ../../get_started/toc.rst:70
-msgid "Creating an OTP Label:"
+msgid "A list of **12 single-use PINs** will be displayed."
+msgstr ""
+
+#: ../../get_started/toc.rst:71
+msgid "Print the list and keep it in a safe location."
 msgstr ""
 
 #: ../../get_started/toc.rst:72
-msgid "In the Auth section, click on **OTP Authentication**."
-msgstr ""
-
-#: ../../get_started/toc.rst:73
-msgid "Click the **NEW OTP** + button."
-msgstr ""
-
-#: ../../get_started/toc.rst:74
-msgid "Insert a **label** to help you remember this OTP (e.g., “mySamsungPhone”)."
+msgid ""
+"Each PIN can only be used **once** to complete the second-factor "
+"authentication."
 msgstr ""
 
 #: ../../get_started/toc.rst:75
-msgid "Hit the CREATE PASSWORD button."
+msgid "5. Logging In with 2FA"
 msgstr ""
 
 #: ../../get_started/toc.rst:77
-msgid ""
-"NOTE: If you enter an incorrect OTP (One-Time Password) code more than 10"
-" times, the associated auth device is automatically removed for security "
-"reasons. This mechanism ensures security by preventing brute-force "
-"attacks on OTP authentication:"
+msgid "Once 2FA is configured, follow these steps at each login:"
 msgstr ""
 
-#: ../../get_started/toc.rst:80
-msgid "The auth device is removed from the list of allowed OTP authentications."
+#: ../../get_started/toc.rst:79
+msgid "> Enter your username and password;"
 msgstr ""
 
 #: ../../get_started/toc.rst:81
 msgid ""
-"You will no longer see the device in the Auth - OTP Authentication "
-"section."
+"> When prompted for the second factor, choose your OTP credential (eg. "
+"myOTP1);"
 msgstr ""
 
-#: ../../get_started/toc.rst:82
-msgid "You must reconfigure a new device to continue using OTP authentication."
+#: ../../get_started/toc.rst:83
+msgid "> Open your authenticator app or use your next available PIN code;"
 msgstr ""
 
-#: ../../get_started/toc.rst:84
-msgid "Install Google Authenticator:"
-msgstr ""
-
-#: ../../get_started/toc.rst:86
-msgid ""
-"Install the **Google Authenticator app** on your mobile device (available"
-" on both Android and iOS)."
+#: ../../get_started/toc.rst:85
+msgid "> Insert the verification code or PIN into the login form;"
 msgstr ""
 
 #: ../../get_started/toc.rst:87
-msgid "Open the app and press the “+” button in the bottom right corner."
+msgid "> Click LOGIN."
 msgstr ""
 
 #: ../../get_started/toc.rst:91
-msgid "Use the app to **scan the QR code** displayed during the setup process."
-msgstr ""
-
-#: ../../get_started/toc.rst:92
-msgid ""
-"This creates an instance in the app that generates a **temporary code** "
-"that updates every 30 seconds."
-msgstr ""
-
-#: ../../get_started/toc.rst:96
-msgid "The next time you log in to your |product| webmail, follow these steps:"
-msgstr ""
-
-#: ../../get_started/toc.rst:104
-msgid "> Click **LOGIN**.."
-msgstr ""
-
-#: ../../get_started/toc.rst:108
 msgid "Using SAML to Sign In"
 msgstr ""
 
-#: ../../get_started/toc.rst:110
+#: ../../get_started/toc.rst:93
 msgid ""
 "**SAML** stands for **Security Assertion Markup Language**. It is like a "
 "secret handshake between different websites and apps to make sure you are"
@@ -7665,111 +7792,111 @@ msgid ""
 "multiple places without needing a separate key for each door."
 msgstr ""
 
-#: ../../get_started/toc.rst:112
+#: ../../get_started/toc.rst:95
 msgid ""
 "You have generally two ways to use SAML functionality to sign in to your "
 "|product| account:"
 msgstr ""
 
-#: ../../get_started/toc.rst:114
+#: ../../get_started/toc.rst:97
 msgid "First Flow:"
 msgstr ""
 
-#: ../../get_started/toc.rst:116
+#: ../../get_started/toc.rst:99
 msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:117
+#: ../../get_started/toc.rst:100
 msgid "Click it, and it will automatically sign you into your webmail."
 msgstr ""
 
-#: ../../get_started/toc.rst:118
+#: ../../get_started/toc.rst:101
 msgid ""
 "Important: You must already be logged into your **identity provider "
 "service** (like Okta or other services provided by your system "
 "administrator)."
 msgstr ""
 
-#: ../../get_started/toc.rst:119
+#: ../../get_started/toc.rst:102
 msgid ""
 "If you are not sure how to log into your identity provider, reach out to "
 "your **system administrator** for assistance."
 msgstr ""
 
-#: ../../get_started/toc.rst:121
+#: ../../get_started/toc.rst:104
 msgid "Second Flow:"
 msgstr ""
 
-#: ../../get_started/toc.rst:123
+#: ../../get_started/toc.rst:106
 msgid ""
 "First, log in to your **identity provider service** (e.g., Okta or other "
 "services provided by your system administrator)."
 msgstr ""
 
-#: ../../get_started/toc.rst:124
+#: ../../get_started/toc.rst:107
 msgid "Once you are logged in there, simply click on the **|product| mail app**."
 msgstr ""
 
-#: ../../get_started/toc.rst:125
+#: ../../get_started/toc.rst:108
 msgid ""
 "SAML will seamlessly take you to your webmail without requiring you to "
 "insert your credentials."
 msgstr ""
 
-#: ../../get_started/toc.rst:129
+#: ../../get_started/toc.rst:112
 msgid "Signing Out"
 msgstr ""
 
-#: ../../get_started/toc.rst:131
+#: ../../get_started/toc.rst:114
 msgid ""
 "To ensure the security of your |product| web client, it is essential to "
 "sign out when you are away from your computer. Here are two "
 "straightforward methods to log out:"
 msgstr ""
 
-#: ../../get_started/toc.rst:133
+#: ../../get_started/toc.rst:116
 msgid "Using the Account Icon:"
 msgstr ""
 
-#: ../../get_started/toc.rst:135
+#: ../../get_started/toc.rst:118
 msgid ""
 "Click on the account icon located in the top-right corner of the webmail "
 "interface."
 msgstr ""
 
-#: ../../get_started/toc.rst:136
+#: ../../get_started/toc.rst:119
 msgid "Select the **Logout** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:137
+#: ../../get_started/toc.rst:120
 msgid "You will be securely signed out."
 msgstr ""
 
-#: ../../get_started/toc.rst:139
+#: ../../get_started/toc.rst:122
 msgid "Via General Settings:"
 msgstr ""
 
-#: ../../get_started/toc.rst:141
+#: ../../get_started/toc.rst:124
 msgid "Click the **gear icon** on the left sidebar panel to access settings."
 msgstr ""
 
-#: ../../get_started/toc.rst:142
+#: ../../get_started/toc.rst:125
 msgid "Navigate to General Settings."
 msgstr ""
 
-#: ../../get_started/toc.rst:143
+#: ../../get_started/toc.rst:126
 msgid ""
 "In the **Account** section, click the **LOGOUT** button, and you will be "
 "successfully logged out."
 msgstr ""
 
-#: ../../get_started/toc.rst:145
+#: ../../get_started/toc.rst:128
 msgid ""
 "For security purposes, your system administrator might set a maximum "
 "duration for your login session."
 msgstr ""
 
-#: ../../get_started/toc.rst:147
+#: ../../get_started/toc.rst:130
 msgid ""
 "When your session is about to expire, you will be notified in advance "
 "through the bottom left bar, which will display the remaining time: 10 "
@@ -7778,11 +7905,11 @@ msgid ""
 "You can simply log back in as usual to continue working."
 msgstr ""
 
-#: ../../get_started/toc.rst:151
+#: ../../get_started/toc.rst:134
 msgid "In Case of Forgetting Your Password"
 msgstr ""
 
-#: ../../get_started/toc.rst:153
+#: ../../get_started/toc.rst:136
 msgid ""
 "To start the password recovery procedure, you need to enter the recovery "
 "address in the **Auth** panel, in the **Settings** section. "
@@ -7790,47 +7917,47 @@ msgid ""
 "for your account."
 msgstr ""
 
-#: ../../get_started/toc.rst:155
+#: ../../get_started/toc.rst:138
 msgid ""
 "If in the Auth panel - Settings section - you do not see the field to set"
 " a recovery address, it means that the administrator has not enabled your"
 " account for the recovery process."
 msgstr ""
 
-#: ../../get_started/toc.rst:157
+#: ../../get_started/toc.rst:140
 msgid "If you forgot your password, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:164
+#: ../../get_started/toc.rst:147
 msgid "Click on the **Forget Password?** Button, from the login page."
 msgstr ""
 
-#: ../../get_started/toc.rst:165
+#: ../../get_started/toc.rst:148
 msgid "Enter your username."
 msgstr ""
 
-#: ../../get_started/toc.rst:166
+#: ../../get_started/toc.rst:149
 msgid "You will receive an email at your recovery email address."
 msgstr ""
 
-#: ../../get_started/toc.rst:167
+#: ../../get_started/toc.rst:150
 msgid ""
 "A temporary **validation code**, that expires in twenty-four hours, will "
 "be sent to the recovery e-mail address."
 msgstr ""
 
-#: ../../get_started/toc.rst:168
+#: ../../get_started/toc.rst:151
 msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
 msgstr ""
 
-#: ../../get_started/toc.rst:169
+#: ../../get_started/toc.rst:152
 msgid ""
 "If the code is validated, you can :bdg-primary-line:`CONTINUE WITH YOUR "
 "SESSION`, access your mailbox and then add a new password in the "
 "Settings's module, where you can also change the recovery address."
 msgstr ""
 
-#: ../../get_started/toc.rst:171
+#: ../../get_started/toc.rst:154
 msgid ""
 "If your system administrator has not configured a recovery email for your"
 " account, or you have not inserted your own recovery email address, when "
@@ -7838,18 +7965,18 @@ msgid ""
 "email, you will encounter an error message."
 msgstr ""
 
-#: ../../get_started/toc.rst:173
+#: ../../get_started/toc.rst:156
 msgid ""
 "The error will prompt you to **contact your system administrator**. In "
 "this scenario, **the only way to log into your account** is by seeking "
 "assistance from your system administrator."
 msgstr ""
 
-#: ../../get_started/toc.rst:177
+#: ../../get_started/toc.rst:160
 msgid "Changing Your Password"
 msgstr ""
 
-#: ../../get_started/toc.rst:179
+#: ../../get_started/toc.rst:162
 msgid ""
 "Resetting a password becomes necessary when you want to update your "
 "existing password due to security reasons or any other relevant factors. "
@@ -7857,47 +7984,47 @@ msgid ""
 "the steps to change your password:"
 msgstr ""
 
-#: ../../get_started/toc.rst:181
+#: ../../get_started/toc.rst:164
 msgid "Log into your account."
 msgstr ""
 
-#: ../../get_started/toc.rst:182
+#: ../../get_started/toc.rst:165
 msgid "Click on the **settings** (gear icon) located in the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:183
+#: ../../get_started/toc.rst:166
 msgid "Select **Auth**."
 msgstr ""
 
-#: ../../get_started/toc.rst:184
+#: ../../get_started/toc.rst:167
 msgid "Click on Change Password."
 msgstr ""
 
-#: ../../get_started/toc.rst:185
+#: ../../get_started/toc.rst:168
 msgid "Enter your **old password** along with your new password."
 msgstr ""
 
-#: ../../get_started/toc.rst:186
+#: ../../get_started/toc.rst:169
 msgid "Click the **CHANGE PASSWORD** button."
 msgstr ""
 
-#: ../../get_started/toc.rst:194
+#: ../../get_started/toc.rst:177
 msgid "Introduction of |product| Web Client"
 msgstr ""
 
-#: ../../get_started/toc.rst:196
+#: ../../get_started/toc.rst:179
 msgid ""
 "When you log in to check your emails, the **|product| web client "
 "interface** greets you with the following components:"
 msgstr ""
 
-#: ../../get_started/toc.rst:203
+#: ../../get_started/toc.rst:186
 msgid ""
 "**Left Sidebar**: This section provides navigation options and quick "
 "access to various features such as Mails, Calendars, Contacts, etc."
 msgstr ""
 
-#: ../../get_started/toc.rst:204
+#: ../../get_started/toc.rst:187
 msgid ""
 "**Navigation Panel**: Here, you will find additional context related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -7905,7 +8032,7 @@ msgid ""
 " inboxes and email folders here."
 msgstr ""
 
-#: ../../get_started/toc.rst:205
+#: ../../get_started/toc.rst:188
 msgid ""
 "**Main Panel**: The central area displays your actual content related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -7914,11 +8041,11 @@ msgid ""
 "events."
 msgstr ""
 
-#: ../../get_started/toc.rst:208
+#: ../../get_started/toc.rst:191
 msgid "Using Browser Buttons to Navigate |product|"
 msgstr ""
 
-#: ../../get_started/toc.rst:210
+#: ../../get_started/toc.rst:193
 msgid ""
 "It is recommended to avoid using your browser’s navigation buttons too "
 "frequently, especially when you are in the middle of composing an email "
@@ -7926,19 +8053,19 @@ msgid ""
 " you to lose what you are doing. So, proceed with caution."
 msgstr ""
 
-#: ../../get_started/toc.rst:212
+#: ../../get_started/toc.rst:195
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on |product|."
 msgstr ""
 
-#: ../../get_started/toc.rst:213
+#: ../../get_started/toc.rst:196
 msgid ""
 "**Forward Button**: If you have gone back and want to revisit a page you "
 "just left, click the forward button."
 msgstr ""
 
-#: ../../get_started/toc.rst:214
+#: ../../get_started/toc.rst:197
 msgid ""
 "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
 "Clicking it restarts your session, which can be especially dangerous when"
@@ -7946,11 +8073,11 @@ msgid ""
 "work."
 msgstr ""
 
-#: ../../get_started/toc.rst:217
+#: ../../get_started/toc.rst:200
 msgid "Account Personalization"
 msgstr ""
 
-#: ../../get_started/toc.rst:219
+#: ../../get_started/toc.rst:202
 msgid ""
 "Before you start using the |product| web client, take a moment to "
 "personalize your account. You can customize visual aspects such as the "
@@ -7960,110 +8087,110 @@ msgid ""
 "select **General Settings**."
 msgstr ""
 
-#: ../../get_started/toc.rst:223
+#: ../../get_started/toc.rst:206
 msgid "Changing Theme"
 msgstr ""
 
-#: ../../get_started/toc.rst:225
+#: ../../get_started/toc.rst:208
 msgid ""
 "A theme in the |product| web client defines the color scheme used for its"
 " appearance. Currently, there are **two themes** available: **Dark mode**"
 " and **Light mode**. Here is how you can manage them:"
 msgstr ""
 
-#: ../../get_started/toc.rst:227
+#: ../../get_started/toc.rst:210
 msgid "To **activate Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:229
+#: ../../get_started/toc.rst:212
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:231
+#: ../../get_started/toc.rst:214
 msgid "Under **Theme Options**, open the dropdown menu."
 msgstr ""
 
-#: ../../get_started/toc.rst:232
+#: ../../get_started/toc.rst:215
 msgid "Click on **Enabled**."
 msgstr ""
 
-#: ../../get_started/toc.rst:233
+#: ../../get_started/toc.rst:216
 msgid ""
 "Click on the **SAVE** button located in the **top right corner** of the "
 "screen."
 msgstr ""
 
-#: ../../get_started/toc.rst:235
+#: ../../get_started/toc.rst:218
 msgid "To **disable Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:237
+#: ../../get_started/toc.rst:220
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr ""
 
-#: ../../get_started/toc.rst:239
+#: ../../get_started/toc.rst:222
 msgid ""
 "If you choose **Auto**, |product| will adapt to your **operating system’s"
 " default theme**. For example:"
 msgstr ""
 
-#: ../../get_started/toc.rst:241
+#: ../../get_started/toc.rst:224
 msgid "If your OS theme is dark, |product| will also be in dark mode."
 msgstr ""
 
-#: ../../get_started/toc.rst:242
+#: ../../get_started/toc.rst:225
 msgid "If your OS theme is light, |product| will match that as well."
 msgstr ""
 
-#: ../../get_started/toc.rst:250
+#: ../../get_started/toc.rst:233
 msgid "Changing Font Size"
 msgstr ""
 
-#: ../../get_started/toc.rst:252
+#: ../../get_started/toc.rst:235
 msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:254 ../../get_started/toc.rst:273
-#: ../../get_started/toc.rst:288
+#: ../../get_started/toc.rst:237 ../../get_started/toc.rst:256
+#: ../../get_started/toc.rst:271
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:256
+#: ../../get_started/toc.rst:239
 msgid ""
 "Under the **Appearance** section, find the slider for adjusting the font "
 "size."
 msgstr ""
 
-#: ../../get_started/toc.rst:257
+#: ../../get_started/toc.rst:240
 msgid ""
 "If you want to manually control the font size, uncheck the option that "
 "says *Automatically resize the text size depending on the device*."
 msgstr ""
 
-#: ../../get_started/toc.rst:258
+#: ../../get_started/toc.rst:241
 msgid ""
 "Use the slider to set the font size to your preference. As you move the "
 "slider, you will see the results in the bottom box with some dummy text."
 msgstr ""
 
-#: ../../get_started/toc.rst:259
+#: ../../get_started/toc.rst:242
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:261
+#: ../../get_started/toc.rst:244
 msgid ""
 "Remember, if you prefer automatic resizing based on the device, you can "
 "leave the checkbox checked. Otherwise, adjust the font size manually "
 "using the slider."
 msgstr ""
 
-#: ../../get_started/toc.rst:269
+#: ../../get_started/toc.rst:252
 msgid "Changing Your Time Zone"
 msgstr ""
 
-#: ../../get_started/toc.rst:271
+#: ../../get_started/toc.rst:254
 msgid ""
 "As a digital workspace, |product| relies on precise time zone settings to"
 " ensure optimal performance for calendars and other features like emails,"
@@ -8072,35 +8199,35 @@ msgid ""
 " To change your time zone, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:275
+#: ../../get_started/toc.rst:258
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Time Zone** and choose your time zone."
 msgstr ""
 
-#: ../../get_started/toc.rst:276 ../../get_started/toc.rst:291
+#: ../../get_started/toc.rst:259 ../../get_started/toc.rst:274
 msgid "Click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:284
+#: ../../get_started/toc.rst:267
 msgid "Changing |product| Language"
 msgstr ""
 
-#: ../../get_started/toc.rst:286
+#: ../../get_started/toc.rst:269
 msgid "To change your |product| web client language, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:290
+#: ../../get_started/toc.rst:273
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Language** and choose your language."
 msgstr ""
 
-#: ../../get_started/toc.rst:294
+#: ../../get_started/toc.rst:277
 msgid "Accessing Multiple Accounts"
 msgstr ""
 
-#: ../../get_started/toc.rst:296
+#: ../../get_started/toc.rst:279
 msgid ""
 "On the |product| web client, you have access to multiple accounts. Let's "
 "say you have your personal account, as well as two additional accounts "
@@ -8111,7 +8238,7 @@ msgid ""
 "main account."
 msgstr ""
 
-#: ../../get_started/toc.rst:302
+#: ../../get_started/toc.rst:285
 msgid ""
 "So, when you sign into your main account, you will see these two "
 "additional accounts listed under your main account. To access these "
@@ -8124,22 +8251,35 @@ msgstr ""
 msgid "Welcome to |product| User Documentation!"
 msgstr ""
 
-#: ../../index.rst:14
+#: ../../index.rst:15
 msgid ""
-"This is the documentation of |product|, the fully private digital "
-"workplace."
+"This portal contains the User Guides for |product|, the fully private "
+"digital workplace designed for secure communication and collaboration. "
+"The content is organised into the following sections:"
 msgstr ""
 
-#: ../../index.rst:17
-msgid "The content is organised in multiple parts:"
+#: ../../index.rst:21
+msgid "Getting Started with Carbonio"
 msgstr ""
 
-#: ../../index.rst:20
-msgid "Introduction"
+#: ../../index.rst:32
+msgid "Mails"
 msgstr ""
 
-#: ../../index.rst:20
-msgid "Useful and generic information about |product|."
+#: ../../index.rst:47
+msgid "Calendars & Productivity"
+msgstr ""
+
+#: ../../index.rst:61
+msgid "Files & Collaboration"
+msgstr ""
+
+#: ../../index.rst:71
+msgid "Communication"
+msgstr ""
+
+#: ../../index.rst:82
+msgid "Legacy modules"
 msgstr ""
 
 #: ../../search/toc.rst:7
@@ -8650,7 +8790,7 @@ msgstr ""
 #: ../../videomeeting/toc.rst:22 ../../videomeeting/toc.rst:42
 #: ../../videomeeting/toc.rst:51 ../../videomeeting/toc.rst:64
 #: ../../videomeeting/toc.rst:76 ../../videomeeting/toc.rst:88
-#: ../../videomeeting/toc.rst:97 ../../videomeeting/toc.rst:220
+#: ../../videomeeting/toc.rst:97 ../../videomeeting/toc.rst:228
 #: ../../videomeetings/toc.rst:23 ../../videomeetings/toc.rst:212
 msgid "Select the Chats feature from your left sidebar."
 msgstr ""
@@ -8711,7 +8851,7 @@ msgstr ""
 
 #: ../../videomeeting/toc.rst:43 ../../videomeeting/toc.rst:52
 #: ../../videomeeting/toc.rst:65 ../../videomeeting/toc.rst:77
-#: ../../videomeeting/toc.rst:98 ../../videomeeting/toc.rst:221
+#: ../../videomeeting/toc.rst:98 ../../videomeeting/toc.rst:229
 msgid ""
 "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the "
 "list of chats to open your list of rooms."
@@ -8864,47 +9004,62 @@ msgstr ""
 msgid "When you are in a video meeting and want to record it:"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:125 ../../videomeeting/toc.rst:210
-#: ../../videomeeting/toc.rst:230
-msgid "Click the arrow button on the left side to open the chat box."
+#: ../../videomeeting/toc.rst:125
+msgid "Click the **arrow button** on the left side to open the chat box."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:126
 msgid ""
-"Click the downward arrow next to the Recording section located at the top"
-" of the chat box."
+"In the chat box, click the **downward arrow** next to the *Recording* "
+"section at the top."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:127
-msgid "Click START RECORDING."
+msgid "Click **START RECORDING** to begin recording."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:129
+#: ../../videomeeting/toc.rst:128
+msgid "To stop the recording, click **STOP RECORDING**."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:130
 msgid ""
-"To stop the video meeting, simply click the STOP RECORDING button. This "
-"action will automatically save your recording file into your Files after "
-"prompting you to name the recording file."
+"Whether the recording is stopped by the person who started it or by "
+"another **moderator**, the file will always be saved into the *Files* of "
+"the person who started the recording."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:132 ../../videomeetings/toc.rst:126
-msgid "Adding New Members to a Video Meeting"
+#: ../../videomeeting/toc.rst:131
+msgid "A popup will appear asking you to enter a **name for the recording file**."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:134
+msgid ""
+"If all meeting participants (including the person who started the "
+"recording) leave the meeting, the system will automatically stop the "
+"recording and save the file in the *Files* of the person who clicked "
+"**START RECORDING**."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:140 ../../videomeetings/toc.rst:126
+msgid "Adding New Members to a Video Meeting"
+msgstr ""
+
+#: ../../videomeeting/toc.rst:142
 msgid ""
 "To add new members to an ongoing video meeting, you need to send them the"
 " link to access the room. Here is how:"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:136
+#: ../../videomeeting/toc.rst:144
 msgid "Make sure you are in the meeting."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:137
+#: ../../videomeeting/toc.rst:145
 msgid "Copy the URL of the page from the address bar of your browser."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:139
+#: ../../videomeeting/toc.rst:147
 msgid ""
 "This will copy the link to access your room to your clipboard. You can "
 "paste it anywhere (such as in a chat) by right-clicking and selecting "
@@ -8912,22 +9067,22 @@ msgid ""
 "on macOS."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:142 ../../videomeetings/toc.rst:138
+#: ../../videomeeting/toc.rst:150 ../../videomeetings/toc.rst:138
 msgid "Accessing Chat History During a Video Meeting"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:144
+#: ../../videomeeting/toc.rst:152
 msgid ""
 "To access the chat box of the room where you are having the video "
 "meeting, simply click the arrow button on the left side to open the chat "
 "box."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:147 ../../videomeetings/toc.rst:143
+#: ../../videomeeting/toc.rst:155 ../../videomeetings/toc.rst:143
 msgid "Sharing Screen During a Video Meeting"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:149
+#: ../../videomeeting/toc.rst:157
 msgid ""
 "When you are in a video meeting, you can share your screen with "
 "attendees. Here is how: Click the screen icon on the bottom bar inside "
@@ -8938,11 +9093,11 @@ msgid ""
 "then click Share."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:157 ../../videomeetings/toc.rst:174
+#: ../../videomeeting/toc.rst:165 ../../videomeetings/toc.rst:174
 msgid "Maximizing Video Meeting Screen"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:159 ../../videomeetings/toc.rst:176
+#: ../../videomeeting/toc.rst:167 ../../videomeetings/toc.rst:176
 msgid ""
 "To maximize the video meeting screen, click on the icon with arrows "
 "inside located on the bottom bar. If you do not see the bottom bar inside"
@@ -8950,18 +9105,18 @@ msgid ""
 "screen, and it will appear."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:162
+#: ../../videomeeting/toc.rst:170
 msgid "Cinema Mode Fullscreen Feature"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:164
+#: ../../videomeeting/toc.rst:172
 msgid ""
 "Cinema Mode provides an optimized viewing experience during meetings, "
 "allowing you to focus on shared content or participants with an immersive"
 " fullscreen display."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:166
+#: ../../videomeeting/toc.rst:174
 msgid ""
 "This feature enables you to: * View meetings in Cinema Mode for a more "
 "engaging experience * Activate fullscreen mode to eliminate interface "
@@ -8969,7 +9124,7 @@ msgid ""
 "sessions"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:171
+#: ../../videomeeting/toc.rst:179
 msgid ""
 "To use the Cinema Mode and fullscreen features, follow these steps: * "
 "Join a meeting: Enter an existing meeting * Switch to Cinema view: In the"
@@ -8978,94 +9133,94 @@ msgid ""
 "and remove interface elements"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:176
+#: ../../videomeeting/toc.rst:184
 msgid ""
 "The full-screen mode now automatically hides the sidebar and carousel in "
 "cinema view, and hides the sidebar in other views. When full screen is "
 "activated in cinema view, left panel and carousel will be closed."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:179
+#: ../../videomeeting/toc.rst:187
 msgid "Raise Hand Feature"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:181
+#: ../../videomeeting/toc.rst:189
 msgid ""
 "The Raise Hand feature allows meeting participants to signal their desire"
 " to speak through a structured queue system, promoting organized "
 "discussions and better meeting flow."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:183
+#: ../../videomeeting/toc.rst:191
 msgid "How It Works for Participants:"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:185
+#: ../../videomeeting/toc.rst:193
 msgid "Raise hand to join speaking queue"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:186
+#: ../../videomeeting/toc.rst:194
 msgid "View real-time queue showing order, avatars, and usernames"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:187
+#: ../../videomeeting/toc.rst:195
 msgid "Receive audio notifications when others raise hands"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:188
+#: ../../videomeeting/toc.rst:196
 msgid "Hand automatically lowers when speaking begins"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:190
+#: ../../videomeeting/toc.rst:198
 msgid "Moderators"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:192
+#: ../../videomeeting/toc.rst:200
 msgid "Access dedicated queue management panel"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:193
+#: ../../videomeeting/toc.rst:201
 msgid "Lower individual hands or clear entire queue"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:194
+#: ../../videomeeting/toc.rst:202
 msgid "Actions sync across all moderators in real-time"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:196
+#: ../../videomeeting/toc.rst:204
 msgid ""
 "This feature streamlines meeting participation by providing clear "
 "speaking order while giving moderators effective queue management tools."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:198
+#: ../../videomeeting/toc.rst:206
 msgid "To activate the Raise Hand feature during a video meeting:"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:200
+#: ../../videomeeting/toc.rst:208
 msgid "Click the hand icon on the bottom bar inside the meeting room."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:201
+#: ../../videomeeting/toc.rst:209
 msgid "When you will start speaking, your hand will be automatically lowered."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:202
+#: ../../videomeeting/toc.rst:210
 msgid "If you want to lower your hand manually, simply click the hand icon again."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:203
+#: ../../videomeeting/toc.rst:211
 msgid ""
 "If you are a moderator, you can also lower the hands of other "
 "participants by clicking on the hand icon next to their name in the "
 "Participants section of the chat box."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:206 ../../videomeetings/toc.rst:179
+#: ../../videomeeting/toc.rst:214 ../../videomeetings/toc.rst:179
 msgid "Muting Participants During a Video Meeting"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:208
+#: ../../videomeeting/toc.rst:216
 msgid ""
 "As the moderator of a meeting room, you can mute an attendee's microphone"
 " individually. To do so, simply hover your cursor over the video feed of "
@@ -9073,45 +9228,49 @@ msgid ""
 "their video feed."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:211 ../../videomeeting/toc.rst:231
+#: ../../videomeeting/toc.rst:218 ../../videomeeting/toc.rst:238
+msgid "Click the arrow button on the left side to open the chat box."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:219 ../../videomeeting/toc.rst:239
 msgid ""
 "Click the downward arrow next to the Participants section located at the "
 "top of the chat box."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:212
+#: ../../videomeeting/toc.rst:220
 msgid "Click the microphone icon next to the participant’s name."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:213
+#: ../../videomeeting/toc.rst:221
 msgid "Click MUTE FOR ALL to confirm."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:216 ../../videomeetings/toc.rst:197
+#: ../../videomeeting/toc.rst:224 ../../videomeetings/toc.rst:197
 msgid "Deleting a Meeting Room"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:218 ../../videomeetings/toc.rst:199
+#: ../../videomeeting/toc.rst:226 ../../videomeetings/toc.rst:199
 msgid "To delete a meeting room:"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:222
+#: ../../videomeeting/toc.rst:230
 msgid "Click the trash icon beside the name of the room you want to delete."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:223
+#: ../../videomeeting/toc.rst:231
 msgid "Click DELETE to confirm."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:226 ../../videomeetings/toc.rst:208
+#: ../../videomeeting/toc.rst:234 ../../videomeetings/toc.rst:208
 msgid "Adding Moderators to a Room"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:228
+#: ../../videomeeting/toc.rst:236
 msgid "To add a moderator to a meeting room:"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:232
+#: ../../videomeeting/toc.rst:240
 msgid "Click the crown icon next to the participant’s name."
 msgstr ""
 
@@ -9457,3 +9616,464 @@ msgstr ""
 #: ../../videomeetings/toc.rst:217
 msgid "Click ADD."
 msgstr ""
+
+#~ msgid "Set Email Retention and Disposal Policies for a Folder"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The email **retention policy** establishes "
+#~ "that emails stored within a designated"
+#~ " folder and falling within the "
+#~ "retention period will necessitate explicit "
+#~ "confirmation before deletion. Conversely, the"
+#~ " email **disposal policy** dictates that"
+#~ " emails residing in a specified "
+#~ "folder and surpassing the disposal "
+#~ "threshold will undergo automated cleanup "
+#~ "and deletion without requiring manual "
+#~ "intervention."
+#~ msgstr ""
+
+#~ msgid "To enable and set a **retention policy** for a folder:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the Navigation Panel, right-click "
+#~ "on the folder for which you wish"
+#~ " to set its retention policy."
+#~ msgstr ""
+
+#~ msgid "Tick the box labeled Enable Message Retention."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Enter a numerical value in the "
+#~ "**Retention Range** field and choose the"
+#~ " appropriate unit of time (such as"
+#~ " days, weeks, etc.) from the adjacent"
+#~ " dropdown menu."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "After clicking EDIT, the retention "
+#~ "policy will be activated for the "
+#~ "specified folder, requiring explicit "
+#~ "confirmation before the deletion of "
+#~ "emails within the retention period."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Two-factor Authentication (2FA) is a "
+#~ "security feature activated by your "
+#~ "system administrator. In this case, "
+#~ "accessing your webmail requires a "
+#~ "secondary layer of identification for "
+#~ "enhanced security."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "When accessing your account for the "
+#~ "first time, you will be prompted "
+#~ "to create a **one-time password "
+#~ "(OTP)**."
+#~ msgstr ""
+
+#~ msgid "First-Time Setup:"
+#~ msgstr ""
+
+#~ msgid "After creating the OTP, a QR code will appear on your screen"
+#~ msgstr ""
+
+#~ msgid "Install the Google Authenticator app on your mobile device"
+#~ msgstr ""
+
+#~ msgid "Scanning the QR Code:"
+#~ msgstr ""
+
+#~ msgid "Open the Google Authenticator app"
+#~ msgstr ""
+
+#~ msgid "Tap the + button in the bottom right corner"
+#~ msgstr ""
+
+#~ msgid "Use the app to scan the QR code displayed on your computer screen"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This creates an instance in the "
+#~ "app that generates a temporary code "
+#~ "that updates every 30 seconds"
+#~ msgstr ""
+
+#~ msgid "Logging In with 2FA:"
+#~ msgstr ""
+
+#~ msgid "Next time you log in to your |product| webmail, follow these steps:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "> If prompted for the second-"
+#~ "factor authentication, open the Google "
+#~ "Authenticator app;"
+#~ msgstr ""
+
+#~ msgid "> Insert the **code** from the app on your login page;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are not required to use "
+#~ "2FA on your login prompts, you can"
+#~ " manually set it up via your "
+#~ "web client settings, if your system "
+#~ "administrator gave you the proper "
+#~ "permission. By following these steps, "
+#~ "you will enhance the security of "
+#~ "your |product| webmail account."
+#~ msgstr ""
+
+#~ msgid "Accessing Settings:"
+#~ msgstr ""
+
+#~ msgid "Creating an OTP Label:"
+#~ msgstr ""
+
+#~ msgid "In the Auth section, click on **OTP Authentication**."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Insert a **label** to help you "
+#~ "remember this OTP (e.g., “mySamsungPhone”)."
+#~ msgstr ""
+
+#~ msgid "Hit the CREATE PASSWORD button."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "NOTE: If you enter an incorrect "
+#~ "OTP (One-Time Password) code more "
+#~ "than 10 times, the associated auth "
+#~ "device is automatically removed for "
+#~ "security reasons. This mechanism ensures "
+#~ "security by preventing brute-force "
+#~ "attacks on OTP authentication:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The auth device is removed from "
+#~ "the list of allowed OTP authentications."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You will no longer see the device"
+#~ " in the Auth - OTP Authentication "
+#~ "section."
+#~ msgstr ""
+
+#~ msgid "You must reconfigure a new device to continue using OTP authentication."
+#~ msgstr ""
+
+#~ msgid "Install Google Authenticator:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Install the **Google Authenticator app** "
+#~ "on your mobile device (available on "
+#~ "both Android and iOS)."
+#~ msgstr ""
+
+#~ msgid "Open the app and press the “+” button in the bottom right corner."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This creates an instance in the "
+#~ "app that generates a **temporary code**"
+#~ " that updates every 30 seconds."
+#~ msgstr ""
+
+#~ msgid "> Click **LOGIN**.."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This is the documentation of |product|,"
+#~ " the fully private digital workplace."
+#~ msgstr ""
+
+#~ msgid "The content is organised in multiple parts:"
+#~ msgstr ""
+
+#~ msgid "Introduction"
+#~ msgstr ""
+
+#~ msgid "Useful and generic information about |product|."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Click the downward arrow next to "
+#~ "the Recording section located at the "
+#~ "top of the chat box."
+#~ msgstr ""
+
+#~ msgid "Click START RECORDING."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To stop the video meeting, simply "
+#~ "click the STOP RECORDING button. This"
+#~ " action will automatically save your "
+#~ "recording file into your Files after "
+#~ "prompting you to name the recording "
+#~ "file."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To start using 2FA, you must first"
+#~ " obtain your login credentials from "
+#~ "your system administrator. After logging "
+#~ "in, you will be prompted to "
+#~ "configure your **one-time password "
+#~ "(OTP)** by choosing one of the "
+#~ "available authentication methods."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Two-factor Authentication (2FA) is a "
+#~ "security feature activated by your "
+#~ "system administrator. When enabled, accessing"
+#~ " your webmail requires a secondary "
+#~ "layer of identification for enhanced "
+#~ "security."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Before you can log in using 2FA,"
+#~ " you must have configured your "
+#~ "second-factor method from your webmail "
+#~ "preferences. If you have not yet "
+#~ "completed the setup, you may request "
+#~ "from your system administrator either:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "a **temporary bypass code** that allows"
+#~ " you to log in without the "
+#~ "second factor, or"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "a **list of PIN codes** that you"
+#~ " can immediately use as your "
+#~ "second-factor authentication."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Once you have configured your OTP, "
+#~ "you can proceed with one of the"
+#~ " available authentication methods."
+#~ msgstr ""
+
+#~ msgid "1. First-Time Setup"
+#~ msgstr ""
+
+#~ msgid "Start the OTP creation process from your webmail settings."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Choose whether to generate a **QR "
+#~ "code** for an authenticator app or "
+#~ "to generate **PIN codes** for printed"
+#~ " use."
+#~ msgstr ""
+
+#~ msgid "2. Option A — Using a QR Code"
+#~ msgstr ""
+
+#~ msgid "After creating the OTP, a **QR code** will appear on your screen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Install a supported authenticator app "
+#~ "(e.g., Google Authenticator) on your "
+#~ "mobile device."
+#~ msgstr ""
+
+#~ msgid "Open the app."
+#~ msgstr ""
+
+#~ msgid "Tap the **+** button in the bottom right corner."
+#~ msgstr ""
+
+#~ msgid "Use the app to **scan the QR code** displayed on your computer screen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This creates an entry in the app"
+#~ " that generates a **temporary verification"
+#~ " code** that updates every 30 "
+#~ "seconds."
+#~ msgstr ""
+
+#~ msgid "3. Option B — Using PIN Codes"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Instead of scanning a QR code, you"
+#~ " may choose to generate **12 PIN "
+#~ "codes**."
+#~ msgstr ""
+
+#~ msgid "The PINs will be displayed in a table format."
+#~ msgstr ""
+
+#~ msgid "Print the list and store it safely."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Each PIN code is **single-use** "
+#~ "and can be used only once to "
+#~ "complete the second-factor authentication."
+#~ msgstr ""
+
+#~ msgid "4. Logging In with 2FA"
+#~ msgstr ""
+
+#~ msgid "The next time you log in to your |product| webmail, follow these steps:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "> If prompted for the second-"
+#~ "factor authentication, open your authenticator"
+#~ " app > — or use the next "
+#~ "available **PIN code**;"
+#~ msgstr ""
+
+#~ msgid "> Insert the **verification code or PIN** on your login page;"
+#~ msgstr ""
+
+#~ msgid "Setting Up Two-factor Auth (2FA)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are not required to use "
+#~ "2FA during login, you can manually "
+#~ "set it up through your web client"
+#~ " settings, provided your system "
+#~ "administrator has granted you the "
+#~ "necessary permissions. Following these steps"
+#~ " will enhance the security of your"
+#~ " |product| webmail account."
+#~ msgstr ""
+
+#~ msgid "1. Accessing Settings"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Click on the **gear icon** located "
+#~ "in the left sidebar of your "
+#~ "webmail interface."
+#~ msgstr ""
+
+#~ msgid "2. Creating an OTP Label"
+#~ msgstr ""
+
+#~ msgid "In the Auth section, click **OTP Authentication**."
+#~ msgstr ""
+
+#~ msgid "Click the **NEW OTP** + button."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Insert a **label** to help you "
+#~ "identify this OTP (e.g., ``mySamsungPhone``)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you enter an incorrect OTP code"
+#~ " more than **10 times**, the "
+#~ "associated authentication device is "
+#~ "automatically removed for security reasons."
+#~ " This prevents brute-force attempts."
+#~ msgstr ""
+
+#~ msgid "After removal:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The authentication device is deleted "
+#~ "from the list of valid OTP "
+#~ "methods."
+#~ msgstr ""
+
+#~ msgid "It will no longer appear in the **Auth → OTP Authentication** section."
+#~ msgstr ""
+
+#~ msgid "You must configure a new device to continue using OTP authentication."
+#~ msgstr ""
+
+#~ msgid "3. Option A — Setting Up with Google Authenticator"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Install the **Google Authenticator app** "
+#~ "on your mobile device (Android or "
+#~ "iOS)."
+#~ msgstr ""
+
+#~ msgid "Use the app to **scan the QR code** displayed during the setup process."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The app will generate a **temporary "
+#~ "verification code** that updates every "
+#~ "30 seconds."
+#~ msgstr ""
+
+#~ msgid "4. Option B — Setting Up with PIN Codes"
+#~ msgstr ""
+
+#~ msgid "Choose the option to generate **PIN codes** instead of a QR code."
+#~ msgstr ""
+
+#~ msgid "A list of **12 single-use PINs** will appear."
+#~ msgstr ""
+
+#~ msgid "Print them and keep them in a safe location."
+#~ msgstr ""
+
+#~ msgid "Use one PIN per login when prompted for the second factor."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "> If prompted for the second "
+#~ "factor, open your authenticator app >"
+#~ " — or use your next available "
+#~ "**PIN code**;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can trust the IP address and"
+#~ " the device you are using to "
+#~ "avoid being prompted for the second "
+#~ "factor on each login. The time "
+#~ "frame for this trust can be set"
+#~ " by your system administrator."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "> When prompted for the second "
+#~ "factor, open your authenticator app >"
+#~ " — or use your next available "
+#~ "**PIN code**;"
+#~ msgstr ""
+
+#~ msgid "> Enter your **username** and **password**;"
+#~ msgstr ""
+
+#~ msgid "> — or use your next available **PIN code**;"
+#~ msgstr ""
+
+#~ msgid "> Insert the **verification code or PIN** into the login form;"
+#~ msgstr ""
+
+#~ msgid "> Click **LOGIN**."
+#~ msgstr ""
+

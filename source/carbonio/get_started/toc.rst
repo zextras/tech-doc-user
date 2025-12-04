@@ -53,7 +53,7 @@ Once you have access to your account and the required permissions, you can confi
   - **Option B:** Generating **PIN codes** for manual authentication.
 
 .. note::
-    You can trust the IP address and the device you are using to avoid being prompted for the second factor on each login. The time frame for this trust can be set by your system administrator.
+    You can choose to trust your current login environment so that the second factor will not be requested the next time you sign in. The duration of this trust is defined by your system administrator.
    
 3. Option A — Using an Authenticator App
 ----------------------------------------
@@ -76,14 +76,15 @@ Once you have access to your account and the required permissions, you can confi
 
 Once 2FA is configured, follow these steps at each login:
 
-    > Enter your **username** and **password**;
+    > Enter your username and password;
 
-    > When prompted for the second factor, open your authenticator app  
-    > — or use your next available **PIN code**;
+    > When prompted for the second factor, choose your OTP credential (eg. myOTP1);
 
-    > Insert the **verification code or PIN** into the login form;
+    > Open your authenticator app or use your next available PIN code;
 
-    > Click **LOGIN**.
+    > Insert the verification code or PIN into the login form;
+
+    > Click LOGIN.
 
 
 Using SAML to Sign In

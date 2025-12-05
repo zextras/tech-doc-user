@@ -398,7 +398,8 @@ This section allows you to generate different links for a file or folder, enabli
 
 **Public download links:**
 
-This section allows you to generate different links for a file or folder, enabling you to send these links to external users. The generated link provides access for anyone with the link to view and download the content of the file or folder.
+This section allows you to generate different links for a file or folder, enabling you to send these links to external users. The generated link provides access for anyone with the link to view and download the content of the file or folder. It is now also possible for external users to download the entire folder as a compressed ZIP archive.
+
 
 Adding Collaborators to a File / Folder
 =======================================

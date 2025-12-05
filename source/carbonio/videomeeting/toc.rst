@@ -43,6 +43,24 @@ To access and enter your virtual room, follow these steps:
 2.	Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the list of chats to open your list of rooms.
 3.	You can use the Arrow icon beside the room’s name to enter it.
 
+Guest Entry Experience
+======================
+
+Guests now access meetings through a single, professional landing page that brings together everything they need in one place. Before joining, they can enter their name, configure their audio and video devices, and proceed directly to the waiting room with a single click.
+
+Benefits
+--------
+
+- **Clear professional context**  
+  Guests immediately understand that they are entering a business meeting environment.
+
+- **Simplified flow**  
+  Guests complete all required steps—name input and device setup—on one page, reducing effort and saving time.
+
+- **Smoother transition**  
+  After clicking **Ready to participate**, guests are seamlessly taken to the waiting room, where a clear message informs them that the moderator will admit them shortly.
+
+
 Editing Room Details
 =====================
 

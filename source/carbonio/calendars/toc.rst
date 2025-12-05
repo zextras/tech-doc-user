@@ -187,88 +187,138 @@ If you set the viewing mode to ‘daily’ by clicking on the appropriate icon a
 Sharing Calendars with Your Colleagues
 ======================================
 
+Share a Calendar Internally
+---------------------------
+
 To share your calendar with your colleagues:
 
-1.	Navigate to the **Calendars** section from the left sidebar.
-2.	Right-click on the calendar you wish to share.
-3.	From the drop-down menu select **Share Calendar**.
-4.	From the Share with field, select Internal Users or Groups.
-5.	Enter the email addresses of your colleagues with whom you wish to share the calendar into the **Recipients’ e-mail addresses** field.
-6.	Select the role from the **Role** field.
-7.	Click the **SHARE CALENDAR** button.
+1. Navigate to the **Calendars** section from the left sidebar.
+2. Right-click on the calendar you wish to share.
+3. From the drop-down menu select **Share Calendar**.
+4. In the **Share with** field, select *Internal Users or Groups*.
+5. Enter the email addresses of your colleagues in the **Recipients’ e-mail addresses** field.
+6. Select the desired **Role**.
+7. Click the **SHARE CALENDAR** button.
 
+Preventing Duplicate Shares (New Behavior)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Alternatively, you can share you are a URL to be able to share your calendar with your collaborators:
+- If a user tries to share the same calendar with the **same user** and the **same role** more than once, the system now:
 
-1.	Navigate to the **Calendars** section from the left sidebar.
-2.	Right-click on the calendar you wish to share.
-3.	From the drop-down menu select **Calendar’s access share**. A new window appears.
-4.	Select either the **ICS URL** or the **OUTLOOK URL**.
+  * Displays a **warning icon** on the affected chips.
+  * Shows an explanatory **error string** below the input.
+  * Provides a **tooltip** on both the warning icon and the disabled **Confirm** button.
+  
+- If the role is changed for a user with whom the calendar was already shared, the action is allowed because the configuration differs.
 
-The link is copied to your clipboard. You can then send it to your collaborators via email or message by pasting it, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS.
+Role Change Notifications (Improved Behavior)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Previously, changing the role of a shared user generated a new confirmation request and, once accepted, created a duplicate mount point.
+
+Now:
+
+- No confirmation request is generated.
+- The user simply receives a **notification** informing them about the role change.
+- No duplicate calendars appear in the secondary bar.
+
+Sharing via URL
+---------------
+
+1. Navigate to the **Calendars** section from the left sidebar.
+2. Right-click on the calendar you wish to share.
+3. Select **Calendar’s access share**.
+4. Choose either **ICS URL** or **OUTLOOK URL**.
+
+The link is copied to your clipboard and can be pasted into an email or message.
 
 Find Colleagues' Shared Calendars
-=================================
+---------------------------------
 
-To find and add your colleagues’ shared calendars:
+To find and add shared calendars:
 
-1.	Select the **Calendars** from your left sidebar.
-2.	From the Navigation Panel, click the **FIND SHARES** button. A new window appears.
-3.	Begin typing your colleague’s email address and select it from the suggestions that appear.
-4.	Select the calendar shared with you from the list.
-5.	Click the **ADD** button.
+1. Select **Calendars** from the left sidebar.
+2. In the Navigation Panel, click the **FIND SHARES** button.
+3. Begin typing your colleague’s email address and choose it from the suggestions.
+4. Select the shared calendar from the list.
+5. Click **ADD**.
 
-The shared calendar will appear in your calendars list.
+The shared calendar will appear in your list.
 
 Sharing Calendars with External Users
 ======================================
 
-Zextras |product| enables sharing calendars with external users outside your domain, allowing partners, vendors, and collaborators to view availability without requiring authentication.
-Calendars can be shared publicly in read-only mode, allowing external users to:
+Zextras |product| allows calendars to be shared with users outside your domain. Public calendar shares are read-only and allow external users to:
 
-#. View calendar events
-#. Subscribe to the calendar in their clients
-#. Access without authentication credentials
+- View calendar events
+- Subscribe via ICS
+- Access without authentication
 
 Free/Busy Status Sharing
-Share only availability information (free/busy) without exposing event details.
+------------------------
+
+Only availability information (free/busy) is exposed, without revealing event details.
+
 How to Share a Calendar
+-----------------------
 
 Step 1: Configure Sharing
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Access Carbonio Webmail → Calendars module
-#. In the left panel, right-click on the calendar to share
-#. Select "Edit calendar properties"
-#. Click "ADD SHARE"
-#. Choose "Public - view only, no password required - "
-#. Click Save
+1. Access *Carbonio Webmail → Calendars*.
+2. Right-click on the desired calendar.
+3. Select **Edit calendar properties**.
+4. Click **ADD SHARE**.
+5. Choose the share configuration.
 
-Step 2: Get Sharing Links
+Share with Public: New Checkbox Interface
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-After configuration, the system automatically generates two URLs:
+The *Share with public* option is now a **checkbox**, simplifying the process:
 
-#. ICS URL - iCal format - : Compatible with Google Calendar, Apple Calendar, Thunderbird
-#. Outlook WebDAV URL: Specific for Microsoft Outlook
+- When checked, the calendar becomes publicly visible in read-only mode.
+- The entry **Public** appears in the share list as before.
+- Revoking the public share automatically **unchecks** the box.
 
-Step 3: Access Links
+This improvement avoids errors that occurred when selecting the same option multiple times from a dropdown.
 
-#. Right-click on the shared calendar
-#. Select "Calendar's access share"
-#. Copy the desired ICS or Outlook link
+Step 2: Obtain Sharing Links
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Share the link with external users
+The system generates two URLs:
 
-#. Free/Busy Status Sharing
-#. Automatic Configuration
-#. Free/Busy status is automatically available for each calendar unless explicitly configured otherwise in individual calendar settings.
-#. Managing ICS Free/Busy URL
-#. The Free/Busy link follows this format: https://mail.yourdomain.com/service/pubcal/freebusy.ifb?acct=your-email@yourdomain.com
+- **ICS URL** — compatible with Google Calendar, Apple Calendar, Thunderbird.
+- **Outlook WebDAV URL** — for Microsoft Outlook.
+
+To access these links:
+
+1. Right-click on the shared calendar.
+2. Select **Calendar’s access share**.
+3. Copy the desired link.
+
+Free/Busy URL Format
+~~~~~~~~~~~~~~~~~~~~
+
+::
+
+   https://mail.yourdomain.com/service/pubcal/freebusy.ifb?acct=your-email@yourdomain.com
 
 How to Share Free/Busy Status
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Copy the ICS Free/Busy URL
-#. Send it to external users who need to check your availability
-#. External users can view your availability without accessing event details
+1. Copy the ICS Free/Busy URL.
+2. Share it with external users.
+3. They can view availability without accessing event details.
+
+Upcoming Improvements: Dedicated Sharing Modal
+===============================================
+
+To improve clarity and avoid stacked modals:
+
+- The sharing process will be moved into a **single dedicated modal**.
+- A new dedicated entry in the contextual menu will open the sharing modal.
+- The **Edit Calendar** modal will remain separate and no longer include sharing options.
+- This ensures a faster, simpler, and more intuitive workflow.
 
 
 Security & Privacy

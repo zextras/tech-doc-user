@@ -176,6 +176,7 @@ You have the option to remove an individual email or entire conversation thread.
 2.	Choose the **Delete** option from the menu.
 3.	The deleted emails will then be moved to your **Trash folder**. 
 
+You can alternatively deleting an email by selecting it and use the shortcut key **Delete** on your keyboard.
 Deleted emails will then be moved to your Trash folder. You can retrieve items from the Trash within a 30-day window after deletion (unless your system administrator sets it otherwise). Beyond this period, the items will be permanently removed.
 
 Additionally, you can manually access your Trash folder and permanently erase the email by right-clicking on it and selecting **Delete Permanently**.

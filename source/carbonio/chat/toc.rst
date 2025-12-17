@@ -241,3 +241,30 @@ To delete a group:
 #.	On the right side of the Main Panel, under the Actions section, click on the Delete Group.
 #.	Click **DELETE** to confirm.
 
+Message Search
+==============
+
+Message Search allows you to quickly find specific messages, dates, or content in any conversation without needing to scroll through long chat histories. Simply enter a keyword, select a result, and jump directly to the corresponding message, which is visually highlighted for easier reference.
+
+How It Works
+------------
+
+A search icon is available in the header of every conversation. Clicking it opens a search panel on the right side of the interface.  
+Type your keyword (for example, *meeting*) and press **Enter** or click the **Search** button. All messages containing the keyword are displayed in a chronological list, with the most recent results shown first.
+
+Key Features
+------------
+
+- **Smart Highlighting**  
+  The searched keyword is highlighted in bold using the primary color. Partial matches are also highlighted (e.g., searching for *meet* highlights only that part inside *meeting*), making results easier to scan.
+
+- **Jump to Context**  
+  Selecting a result automatically scrolls the conversation to the exact message, which is highlighted for visibility. If you scroll away, simply click the result again to return—results remain clickable at all times.
+
+- **Responsive Behavior**  
+  On smaller screens, the search interface adapts seamlessly to ensure easy navigation without losing context.
+
+- **Quick Iterations**  
+  To start a new search, use the backspace button to clear the current query without closing the panel.
+
+This feature significantly improves navigation within chats, letting you find information in seconds instead of manually searching through entire conversations.

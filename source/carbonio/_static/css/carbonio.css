@@ -1,0 +1,40 @@
+/* Main horizontal layout */
+.index-section {
+  display: flex !important;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+/* Content (toctree) */
+.index-content {
+  flex: 2;
+}
+
+/* Image */
+.index-image {
+  flex: 1;
+}
+
+.index-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Alternate image position */
+.index-section.image-right {
+  flex-direction: row;
+}
+
+.index-section.image-left {
+  flex-direction: row-reverse;
+}
+
+/* Mobile fallback */
+@media (max-width: 768px) {
+  .index-section {
+    flex-direction: column !important;
+  }
+}
+

@@ -20,27 +20,45 @@ The content is organised into the following sections:
 Getting Started with Carbonio
 =============================
 
-.. toctree::
-   :maxdepth: 1
-   :titlesonly:
 
-   get_started/toc
+.. container:: index-section image-right
+
+   .. container:: index-content
+
+      .. toctree::
+         :maxdepth: 1
+         :titlesonly:
+
+         get_started/toc
+
+   .. container:: index-image
+
+      .. image:: /img/en/home-get_start.png
+         :alt: Getting started with Carbonio
 
 
 =====
 Mails
 =====
 
-.. toctree::
-   :maxdepth: 1
-   :titlesonly:
+.. container:: index-section image-right
 
-   browsing_emails/toc
-   composing_emails/toc
-   basic_email_management/toc
-   advanced_email_management/toc
-   search/toc
+   .. container:: index-content
 
+      .. toctree::
+         :maxdepth: 1
+         :titlesonly:
+
+         browsing_emails/toc
+         composing_emails/toc
+         basic_email_management/toc
+         advanced_email_management/toc
+         search/toc
+
+   .. container:: index-image
+
+      .. image:: /img/en/home-mails.png
+         :alt: Mail module
 
 ========================
 Calendars & Productivity

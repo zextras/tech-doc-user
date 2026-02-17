@@ -19,12 +19,6 @@ as follows:
   (theme, CSS)
 - `common`: files common to all products: CSS and documentation files
   used by both Carbonio and Carbonio CE
-- `cli`: Zextras Suite Command Line Reference
-- `img`: images used by all products
-- `landing`: redirect page to official docs.zextras.com landing page
-- `_includes`: source file `include::`d by both Carbonio and Carbonio
-  CE
-- `LICENSES`: text of licenses that are applied to this source code
 
 # Build Requirements
 

@@ -14,7 +14,7 @@ on https://docs.zextras.com/ web site.
 The source files are contained in the `source` directory, which is organised
 as follows:
 
-- `carbonio/`, `carbonio-ce/`, and `suite/`: all the documentation
+- `carbonio/`: all the documentation
   related to the given products, including all the layout files
   (theme, CSS)
 - `common`: files common to all products: CSS and documentation files

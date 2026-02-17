@@ -9,7 +9,7 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 This repo contains the source code of the Zextras product
 documentation, written with [Python
 Sphinx](https://www.sphinx-doc.org/en/master/) and publicly available
-on https://docs.zextras.com/ web site.
+on https://docs.zextras.com/user-guides web site.
 
 The source files are contained in the `source` directory, which is organised
 as follows:
@@ -26,7 +26,7 @@ as follows:
   CE
 - `LICENSES`: text of licenses that are applied to this source code
 
-# Build uirements
+# Build Requirements
 
 The documentation is built with the latest version of Sphinx via a
 Makefile, therefore the basic requirements are:
@@ -43,19 +43,15 @@ To install requirements, use e.g.,
  pip install -r requirements.txt
 ```
 
-To build all product's documentation at once and producing the HTML
-output, run `./doc_build_all.sh`
+To build the documentation and producing the HTML
+output, run `./build.sh`
 
-This command performs a `make html` in all source sub-folders:
-
-- carbonio
-- carbonio-ce
-- suite
+This command performs a `make html` in source/carbonio sub-folder:
 
 As a result of compiling the source files you will have static html
 files in the output directory (build).
 
-To build only one of the three manuals, run `make html` from within the
+You can also run `make html` from within the
 product's directory.
 
 You can serve them on a local HTTP server using python's built-in http

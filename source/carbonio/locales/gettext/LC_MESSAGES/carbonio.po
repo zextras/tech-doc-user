@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
-"PO-Revision-Date: 2026-02-18 16:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-02-19 16:52+0000\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/gettext/>\n"
 "Language: gettext\n"
@@ -9238,19 +9238,24 @@ msgstr ""
 
 #: ../../videomeeting/toc.rst:52
 msgid "Benefits"
-msgstr ""
+msgstr "Vantaggi"
 
 #: ../../videomeeting/toc.rst:54
 msgid ""
 "**Clear professional context** Guests immediately understand that they "
 "are entering a business meeting environment."
 msgstr ""
+"**Chiaro contesto professionale** Gli ospiti capiscono immediatamente di "
+"stare entrando in un ambiente di riunione aziendale."
 
 #: ../../videomeeting/toc.rst:57
 msgid ""
 "**Simplified flow** Guests complete all required steps—name input and "
 "device setup—on one page, reducing effort and saving time."
 msgstr ""
+"**Flusso semplificato** Gli ospiti completano tutti i passaggi richiesti - "
+"immissione del nome e configurazione del dispositivo - in una sola pagina, "
+"riducendo lo sforzo e risparmiando tempo."
 
 #: ../../videomeeting/toc.rst:60
 msgid ""
@@ -9258,6 +9263,10 @@ msgid ""
 "are seamlessly taken to the waiting room, where a clear message informs "
 "them that the moderator will admit them shortly."
 msgstr ""
+"**Transizione più fluida** Dopo aver fatto clic su **Pronto a partecipare**, "
+"gli ospiti vengono condotti senza soluzione di continuità nella stanza "
+"d'attesa, dove un messaggio chiaro li informa che il moderatore li ammetterà "
+"tra breve."
 
 #: ../../videomeeting/toc.rst:65
 msgid "Editing Room Details"

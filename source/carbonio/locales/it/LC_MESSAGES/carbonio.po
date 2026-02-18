@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
 "PO-Revision-Date: 2026-02-18 16:07+0000\n"
-"Last-Translator: Flaminia Spinelli <flaminia.spinelli@zextras.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -1656,12 +1656,10 @@ msgstr ""
 "Clicca su **ELIMINA** e poi su **ELIMINA DEFINITIVAMENTE** per confermare."
 
 #: ../../advanced_email_management/toc.rst:525
-#, fuzzy
 msgid "Set Disposal Policies for a Folder"
 msgstr "Impostare le Regole di Conservazione per una Casella"
 
 #: ../../advanced_email_management/toc.rst:527
-#, fuzzy
 msgid ""
 "The email **disposal policy** dictates that emails residing in a "
 "specified folder and surpassing the disposal threshold will undergo "
@@ -1671,9 +1669,9 @@ msgstr ""
 "contenute in una cartella e rientranti nel periodo di conservazione "
 "richiederanno una conferma esplicita per poter essere cancellate. Al "
 "contrario, le **regole di cancellazione dei messaggi** prevedono che le "
-"email contenute in una cartella specifica che superano il periodo "
-"stabilito per lo smaltimento subiranno una cancellazione automatica, "
-"senza richiedere un intervento manuale."
+"email contenute in una cartella specifica che superano il periodo stabilito "
+"per lo smaltimento subiranno una cancellazione automatica, senza richiedere "
+"un intervento manuale."
 
 #: ../../advanced_email_management/toc.rst:529
 msgid "To enable and set a **disposal policy** for a folder:"
@@ -2113,10 +2111,10 @@ msgid ""
 "virtual rooms yet, you can easily create them by clicking the button "
 "**\"CREATE NEW VIRTUAL ROOM\"**."
 msgstr ""
-"Se preferisci tenere una riunione virtuale, utilizzando la funzione video"
-" chiamate di Carbonio Chats, puoi selezionare la stanza virtuale "
-"desiderata dal campo **Stanza virtuale**. Se non hai ancora configurato "
-"stanze virtuali, puoi crearle facilmente attraverso la sezione Chats."
+"Se preferisci tenere una riunione virtuale, utilizzando la funzione video "
+"chiamate di Carbonio Chats, puoi selezionare la stanza virtuale desiderata "
+"dal campo **Stanza virtuale**. Se non hai ancora configurato stanze "
+"virtuali, puoi crearle facilmente attraverso la sezione Chats."
 
 #: ../../appointments/toc.rst:32 ../../appointments/toc.rst:162
 msgid ""
@@ -2233,7 +2231,6 @@ msgid ""
 msgstr ""
 
 #: ../../appointments/toc.rst:49
-#, fuzzy
 msgid "Assigning Equipment to an Appointment"
 msgstr "Cancellare un appuntamento"
 
@@ -4653,14 +4650,13 @@ msgid ""
 " meetings is accurately reflected without disclosing details of events "
 "from this calendar."
 msgstr ""
-"È possibile utilizzare la casella di controllo **Escludi questo "
-"calendario quando si riferisce libero/occupato** durante la creazione del"
-" calendario se si desidera non includere gli eventi di questo calendario "
-"specifico quando Carbonio segnala la propria disponibilità ai colleghi. "
-"Questa funzione è particolarmente utile quando si creano calendari per "
-"uso personale, assicurando che la disponibilità per le riunioni sia "
-"riflessa in modo accurato senza divulgare i dettagli degli eventi di "
-"questo calendario."
+"È possibile utilizzare la casella di controllo **Escludi questo calendario "
+"quando si riferisce libero/occupato** durante la creazione del calendario se "
+"si desidera non includere gli eventi di questo calendario specifico quando "
+"Carbonio segnala la propria disponibilità ai colleghi. Questa funzione è "
+"particolarmente utile quando si creano calendari per uso personale, "
+"assicurando che la disponibilità per le riunioni sia riflessa in modo "
+"accurato senza divulgare i dettagli degli eventi di questo calendario."
 
 #: ../../calendars/toc.rst:75
 msgid "Setting a Color for a Calendar"
@@ -4673,9 +4669,9 @@ msgid ""
 "clarity when viewing them collectively on the same timetable."
 msgstr ""
 "Per ottimizzare la tua esperienza con la funzione multiplo calendario di "
-"Carbonio, è consigliabile assegnare colori distinti a ogni calendario. "
-"Ciò garantisce chiarezza quando si visualizzano collettivamente sullo "
-"stesso calendario."
+"Carbonio, è consigliabile assegnare colori distinti a ogni calendario. Ciò "
+"garantisce chiarezza quando si visualizzano collettivamente sullo stesso "
+"calendario."
 
 #: ../../calendars/toc.rst:79
 msgid "To set a color for a calendar:"
@@ -5559,7 +5555,6 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:428
-#, fuzzy
 msgid "Step 1.  New Calendar"
 msgstr "Seleziona Calendari."
 
@@ -5621,15 +5616,14 @@ msgid ""
 "productivity whether they are working remotely or in the office."
 msgstr ""
 "Nel client web di Carbonio, le Chat (WSC - Workstream Collaboration) "
-"costituiscono una funzionalità di comunicazione chiave, supportando sia "
-"le interazioni individuali che di gruppo. Gli utenti beneficiano di "
-"messaggistica centralizzata, promuovendo le conversazioni in tempo reale "
-"e favorendo la collaborazione. Che si tratti di condividere informazioni,"
-" fare brainstorming o organizzare attività, le Chat offrono una "
-"piattaforma senza soluzione di continuità per un lavoro di squadra "
-"efficiente. Le notifiche assicurano che gli utenti rimangano aggiornati e"
-" coinvolti, mantenendo la produttività sia quando lavorano da remoto che "
-"quando lavorano in ufficio."
+"costituiscono una funzionalità di comunicazione chiave, supportando sia le "
+"interazioni individuali che di gruppo. Gli utenti beneficiano di "
+"messaggistica centralizzata, promuovendo le conversazioni in tempo reale e "
+"favorendo la collaborazione. Che si tratti di condividere informazioni, fare "
+"brainstorming o organizzare attività, le Chat offrono una piattaforma senza "
+"soluzione di continuità per un lavoro di squadra efficiente. Le notifiche "
+"assicurano che gli utenti rimangano aggiornati e coinvolti, mantenendo la "
+"produttività sia quando lavorano da remoto che quando lavorano in ufficio."
 
 #: ../../chat/toc.rst:17 ../../chats/toc.rst:19
 msgid "Creating New Chat"
@@ -5678,9 +5672,9 @@ msgid ""
 "able to will be able to create new conversation only with users that have"
 " Chats enabled."
 msgstr ""
-"Inizialmente non vedrai alcuna chat, ma una volta create, potrai trovarle"
-" nell'elenco. Nota che potrai creare nuove conversazioni solo con utenti "
-"che hanno Chats (WSC) abilitato."
+"Inizialmente non vedrai alcuna chat, ma una volta create, potrai trovarle "
+"nell'elenco. Nota che potrai creare nuove conversazioni solo con utenti che "
+"hanno Chats (WSC) abilitato."
 
 #: ../../chat/toc.rst:31 ../../chats/toc.rst:33
 msgid ""
@@ -5716,8 +5710,8 @@ msgid ""
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il tuo "
 "messaggio nella casella di testo in basso. Puoi anche aggiungere emoji e "
-"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per"
-" inviare il messaggio."
+"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per "
+"inviare il messaggio."
 
 #: ../../chat/toc.rst:43 ../../chats/toc.rst:36
 msgid "Adding Emojis to Your Message"
@@ -6060,14 +6054,14 @@ msgid ""
 "notification on your screen to inform you. If you want to disable "
 "notifications for a specific group, follow these steps:"
 msgstr ""
-"Quando ricevi un nuovo messaggio in una chat personale o di gruppo, "
-"apparirà sulla schermata una notifica per informarti. Se desideri "
-"disabilitare le notifiche per una chat o un gruppo specifico, segui "
-"questi passaggi:"
+"Quando ricevi un nuovo messaggio in una chat personale o di gruppo, apparirà "
+"sulla schermata una notifica per informarti. Se desideri disabilitare le "
+"notifiche per una chat o un gruppo specifico, segui questi passaggi:"
 
 #: ../../chat/toc.rst:188
 msgid "Select the group for which you want to mute notifications."
-msgstr "Seleziona la chat o il gruppo per cui desideri disattivare le notifiche."
+msgstr ""
+"Seleziona la chat o il gruppo per cui desideri disattivare le notifiche."
 
 #: ../../chat/toc.rst:190
 msgid "Click **MUTE** to confirm."
@@ -6140,16 +6134,16 @@ msgid ""
 "On the right side of the Main Panel, under the Actions section, click on "
 "the Add new members."
 msgstr ""
-"Sul lato destro del Pannello principale, nella sezione Azione, fare clic "
-"su Modifica dettagli."
+"Sul lato destro del Pannello principale, nella sezione Azione, fare clic su "
+"Modifica dettagli."
 
 #: ../../chat/toc.rst:216
 msgid ""
 "Begin typing the email address of the colleague you wish to add - and "
 "select the crown icon if you want to promote him as a moderator."
 msgstr ""
-"Nel campo successivo, inizia a digitare l'indirizzo email dei colleghi "
-"che desideri aggiungere al gruppo."
+"Nel campo successivo, inizia a digitare l'indirizzo email dei colleghi che "
+"desideri aggiungere al gruppo."
 
 #: ../../chat/toc.rst:218
 msgid "Click **ADD NEW MEMBERS** to confirm."
@@ -6266,8 +6260,8 @@ msgid ""
 "enhancing collaborative efforts."
 msgstr ""
 "All'interno del client web di Carbonio, i chat sono uno strumento di "
-"comunicazione fondamentale, in grado di ospitare sia conversazioni tra "
-"due persone che gruppi di conversazione. Gli utenti possono effettuare "
+"comunicazione fondamentale, in grado di ospitare sia conversazioni tra due "
+"persone che gruppi di conversazione. Gli utenti possono effettuare "
 "conversazioni centralizzate, facilitando discussioni in tempo reale e "
 "migliorando gli sforzi collaborativi."
 
@@ -6510,9 +6504,9 @@ msgid ""
 "attachments, addressing emails, using account personas, etc."
 msgstr ""
 "In questa sezione, scoprirai come navigare nel composers di email di "
-"Carbonio e come utilizzare le sue varie funzionalità, tra cui lavorare "
-"con allegati, indirizzare email, utilizzare le persone associate agli "
-"account, ecc."
+"Carbonio e come utilizzare le sue varie funzionalità, tra cui lavorare con "
+"allegati, indirizzare email, utilizzare le persone associate agli account, "
+"ecc."
 
 #: ../../composing_emails/toc.rst:12
 msgid "Composing a New Email"
@@ -7236,11 +7230,11 @@ msgid ""
 "access your contacts effortlessly."
 msgstr ""
 "La gestione dei tuoi contatti è essenziale per rimanere connesso e "
-"organizzato. In questa sezione, ti guideremo attraverso le funzionalità e"
-" le funzioni del modulo Contatti della nostra piattaforma webmail. Sia "
-"che tu stia tenendo traccia di collegamenti personali, reti professionali"
-" o relazioni con i clienti, Carbonio rende facile memorizzare, "
-"organizzare e accedere ai tuoi contatti senza sforzo."
+"organizzato. In questa sezione, ti guideremo attraverso le funzionalità e le "
+"funzioni del modulo Contatti della nostra piattaforma webmail. Sia che tu "
+"stia tenendo traccia di collegamenti personali, reti professionali o "
+"relazioni con i clienti, Carbonio rende facile memorizzare, organizzare e "
+"accedere ai tuoi contatti senza sforzo."
 
 #: ../../contacts/toc.rst:16
 msgid "Accessing Your Contact Book"
@@ -7981,7 +7975,6 @@ msgid ""
 msgstr ""
 
 #: ../../contacts/toc.rst:324
-#, fuzzy
 msgid "Step 1. New Address book"
 msgstr "Per aggiungere un'agenda degli indirizzi:"
 
@@ -8004,7 +7997,6 @@ msgid ""
 msgstr ""
 
 #: ../../contacts/toc.rst:344
-#, fuzzy
 msgid "Step 3. Select Address Books"
 msgstr "Per eliminare un rubrica di indirizzi:"
 
@@ -9414,16 +9406,15 @@ msgid "Using Two-factor Auth (2FA)"
 msgstr "Utilizzo dell'autenticazione a due fattori (2FA)"
 
 #: ../../get_started/toc.rst:31
-#, fuzzy
 msgid ""
 "Two-factor Authentication (2FA) is a security feature activated by your "
 "system administrator. When enabled, accessing your webmail requires an "
 "additional verification step for enhanced security."
 msgstr ""
 "L'Autenticazione a due fattori (2FA) è una funzionalità di sicurezza "
-"attivata dal tuo amministratore di sistema. In questo caso, l'accesso "
-"alla tua webmail richiede un ulteriore livello di identificazione per una"
-" sicurezza migliorata."
+"attivata dal tuo amministratore di sistema. In questo caso, l'accesso alla "
+"tua webmail richiede un ulteriore livello di identificazione per una "
+"sicurezza migliorata."
 
 #: ../../get_started/toc.rst:33
 msgid ""
@@ -9441,12 +9432,10 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:39
-#, fuzzy
 msgid "1. Accessing 2FA Settings"
 msgstr "Per accedere alle impostazioni:"
 
 #: ../../get_started/toc.rst:41
-#, fuzzy
 msgid "Click the **gear icon** in the left sidebar of your webmail interface."
 msgstr "Clicca sull'icona dell'ingranaggio nella barra laterale sinistra."
 
@@ -9459,19 +9448,16 @@ msgid "Open **OTP Authentication** and click **NEW OTP**."
 msgstr ""
 
 #: ../../get_started/toc.rst:46
-#, fuzzy
 msgid "2. Creating an OTP"
 msgstr "Per creare un'autenticazione OTP:"
 
 #: ../../get_started/toc.rst:48
-#, fuzzy
 msgid "Insert a **label** to identify the new OTP (e.g., ``myOTP1``)."
 msgstr ""
-"Inserisci un **Etichetta OTP** per aiutarti a ricordare a cosa è "
-"associato questo OTP (ad esempio, “ilMioTelefonoSamsung”)."
+"Inserisci un **Etichetta OTP** per aiutarti a ricordare a cosa è associato "
+"questo OTP (ad esempio, “ilMioTelefonoSamsung”)."
 
 #: ../../get_started/toc.rst:49
-#, fuzzy
 msgid "Click **CREATE PASSWORD**."
 msgstr "Fai clic su **Crea**."
 
@@ -9482,7 +9468,6 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:52
-#, fuzzy
 msgid "**Option A:** Scanning a **QR code** with an authenticator app."
 msgstr "Apri l'app Google Authenticator"
 
@@ -9498,34 +9483,26 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:59
-#, fuzzy
 msgid "3. Option A — Using an Authenticator App"
 msgstr "Apri l'app Google Authenticator"
 
 #: ../../get_started/toc.rst:61
-#, fuzzy
 msgid ""
 "Install a supported authenticator app (e.g., **Google Authenticator** or "
 "**MS auth**) on your mobile device."
 msgstr "Installa l'app Google Authenticator sul tuo dispositivo mobile"
 
 #: ../../get_started/toc.rst:62
-#, fuzzy
 msgid "Open the app and press the **+** button."
 msgstr "Apri l'app e premi il pulsante \"+\" nell'angolo in basso a destra."
 
 #: ../../get_started/toc.rst:63
-#, fuzzy
 msgid "Scan the **QR code** displayed in your webmail."
 msgstr ""
-"Se il 2FA non si avvia automaticamente nella pagina di login, puoi "
-"configurarlo manualmente tramite le impostazioni del client web, purché "
-"l'amministratore di sistema abbia concesso i permessi necessari. Seguendo"
-" questi passaggi potrai aumentare la sicurezza del tuo account di posta "
-"elettronica."
+"Utilizza l'app per scansionare il codice QR visualizzato sullo schermo del "
+"computer"
 
 #: ../../get_started/toc.rst:64
-#, fuzzy
 msgid ""
 "The app will create an entry that generates a **temporary verification "
 "code**, refreshed every 30 seconds."
@@ -9558,17 +9535,14 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:75
-#, fuzzy
 msgid "5. Logging In with 2FA"
 msgstr "Accesso con 2FA:"
 
 #: ../../get_started/toc.rst:77
-#, fuzzy
 msgid "Once 2FA is configured, follow these steps at each login:"
 msgstr "Per contrassegnare un'email come non letta, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:79
-#, fuzzy
 msgid "> Enter your username and password;"
 msgstr "> Inserisci il tuo **nome utente** e la tua **password**;"
 
@@ -9583,12 +9557,10 @@ msgid "> Open your authenticator app or use your next available PIN code;"
 msgstr ""
 
 #: ../../get_started/toc.rst:85
-#, fuzzy
 msgid "> Insert the verification code or PIN into the login form;"
 msgstr "> Inserisci il **codice** dell'app sulla tua pagina di accesso;"
 
 #: ../../get_started/toc.rst:87
-#, fuzzy
 msgid "> Click LOGIN."
 msgstr "Fai clic su **ENTRA**."
 
@@ -10211,7 +10183,6 @@ msgid ""
 msgstr ""
 
 #: ../../index.rst:21
-#, fuzzy
 msgid "Getting Started with Carbonio"
 msgstr "Iniziare ad Usare Carbonio"
 
@@ -10224,12 +10195,10 @@ msgid "Calendars & Productivity"
 msgstr ""
 
 #: ../../index.rst:61
-#, fuzzy
 msgid "Files & Collaboration"
 msgstr "**Collaborazione:**"
 
 #: ../../index.rst:71
-#, fuzzy
 msgid "Communication"
 msgstr "Silenzia notifiche di una chat"
 
@@ -10853,11 +10822,11 @@ msgid ""
 msgstr ""
 "In Carbonio, le riunioni in video sono uno strumento essenziale per "
 "abilitare una collaborazione virtuale senza problemi. Sia per le "
-"conversazioni individuali che per le sessioni di gruppo, offrono uno "
-"spazio per interazioni faccia a faccia, promuovendo la comunicazione in "
-"tempo reale e rafforzando il lavoro di squadra. Gli utenti possono "
-"avviare o partecipare a riunioni senza sforzo, condividere schermate e "
-"registrare le sessioni, garantendo una collaborazione efficace e fluida."
+"conversazioni individuali che per le sessioni di gruppo, offrono uno spazio "
+"per interazioni faccia a faccia, promuovendo la comunicazione in tempo reale "
+"e rafforzando il lavoro di squadra. Gli utenti possono avviare o partecipare "
+"a riunioni senza sforzo, condividere schermate e registrare le sessioni, "
+"garantendo una collaborazione efficace e fluida."
 
 #: ../../videomeeting/toc.rst:16
 msgid "Creating New Virtual Room"
@@ -10873,9 +10842,9 @@ msgid ""
 msgstr ""
 "Ogni persona con un account su Carbonio può creare stanze virtuali. Le "
 "stanze virtuali sono spazi condivisi in cui puoi tenere riunioni in "
-"videoconferenza e partecipare a conversazioni tramite chat. Puoi crearle "
-"in base a diversi argomenti che desideri discutere in modo che i "
-"partecipanti siano informati sull'ordine del giorno della riunione."
+"videoconferenza e partecipare a conversazioni tramite chat. Puoi crearle in "
+"base a diversi argomenti che desideri discutere in modo che i partecipanti "
+"siano informati sull'ordine del giorno della riunione."
 
 #: ../../videomeeting/toc.rst:20 ../../videomeetings/toc.rst:45
 msgid "To create a new room:"
@@ -10951,11 +10920,10 @@ msgid ""
 "“Guest”."
 msgstr ""
 "Ogni persona con un account su Carbonio può creare stanze virtuali. È "
-"possibile utilizzare la propria stanza per invitare altri a riunioni, che"
-" siano colleghi con account sullo stesso sistema o utenti esterni. "
-"Nell'elenco dei partecipanti alla riunione video, sarà possibile "
-"distinguere quali di essi siano interni e quali esterni, contrassegnati "
-"come \"Ospite\"."
+"possibile utilizzare la propria stanza per invitare altri a riunioni, che "
+"siano colleghi con account sullo stesso sistema o utenti esterni. "
+"Nell'elenco dei partecipanti alla riunione video, sarà possibile distinguere "
+"quali di essi siano interni e quali esterni, contrassegnati come \"Ospite\"."
 
 #: ../../videomeeting/toc.rst:40
 msgid "To access and enter your virtual room, follow these steps:"
@@ -11023,8 +10991,8 @@ msgstr "Per invitare altri membri in una stanza:"
 #: ../../videomeeting/toc.rst:71
 msgid "Click the three dots icon beside the room’s name."
 msgstr ""
-"È possibile utilizzare l'icona della freccia accanto al nome della stanza"
-" per entrarvi."
+"È possibile utilizzare l'icona della freccia accanto al nome della stanza "
+"per entrarvi."
 
 #: ../../videomeeting/toc.rst:72
 msgid "Choose EDIT."
@@ -11183,9 +11151,9 @@ msgid ""
 "Background Image. You can upload your own image or choose one from the "
 "available options."
 msgstr ""
-"Durante una riunione video, hai la possibilità di sfocare lo sfondo. "
-"Basta fare clic sull'icona della freccia nel pulsante della fotocamera e "
-"poi scegliere l'opzione Applica effetto sfocatura."
+"Durante una riunione video, hai la possibilità di sfocare lo sfondo. Basta "
+"fare clic sull'icona della freccia nel pulsante della fotocamera e poi "
+"scegliere l'opzione Applica effetto sfocatura."
 
 #: ../../videomeeting/toc.rst:139 ../../videomeetings/toc.rst:115
 msgid "Recording a Video Meeting"
@@ -11196,14 +11164,12 @@ msgid "When you are in a video meeting and want to record it:"
 msgstr "Quando sei in una riunione video e desideri registrarla:"
 
 #: ../../videomeeting/toc.rst:143
-#, fuzzy
 msgid "Click the **arrow button** on the left side to open the chat box."
 msgstr ""
-"Clicca sul pulsante con la freccia sul lato sinistro per aprire la "
-"finestra di chat."
+"Clicca sul pulsante con la freccia sul lato sinistro per aprire la finestra "
+"di chat."
 
 #: ../../videomeeting/toc.rst:144
-#, fuzzy
 msgid ""
 "In the chat box, click the **downward arrow** next to the *Recording* "
 "section at the top."
@@ -11212,12 +11178,10 @@ msgstr ""
 "Registrazione posizionata in alto nella casella di chat."
 
 #: ../../videomeeting/toc.rst:145
-#, fuzzy
 msgid "Click **START RECORDING** to begin recording."
 msgstr "Fai clic su REGISTRA."
 
 #: ../../videomeeting/toc.rst:146
-#, fuzzy
 msgid "To stop the recording, click **STOP RECORDING**."
 msgstr "Nella sezione **Registrazione**, fare clic su **AVVIA**."
 
@@ -11229,7 +11193,6 @@ msgid ""
 msgstr ""
 
 #: ../../videomeeting/toc.rst:149
-#, fuzzy
 msgid "A popup will appear asking you to enter a **name for the recording file**."
 msgstr "Si aprirà una nuova finestra. Inserisci un nome per la nuova etichetta."
 
@@ -11417,14 +11380,14 @@ msgstr ""
 #: ../../videomeeting/toc.rst:224
 msgid "To activate the Raise Hand feature during a video meeting:"
 msgstr ""
-"Passaggio tra Visualizzazione a Griglia e Visualizzazione Cinema Durante "
-"una Riunione in Video"
+"Passaggio tra Visualizzazione a Griglia e Visualizzazione Cinema Durante una "
+"Riunione in Video"
 
 #: ../../videomeeting/toc.rst:226
 msgid "Click the hand icon on the bottom bar inside the meeting room."
 msgstr ""
-"Fai clic sull'icona dell'**ingranaggio** nel menu a sinistra per accedere"
-" alle impostazioni."
+"Fai clic sull'icona dell'**ingranaggio** nel menu a sinistra per accedere "
+"alle impostazioni."
 
 #: ../../videomeeting/toc.rst:227
 msgid "When you will start speaking, your hand will be automatically lowered."

@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
 "PO-Revision-Date: 2026-02-18 16:08+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/gettext/>\n"
 "Language: gettext\n"
@@ -2288,15 +2288,16 @@ msgstr "Scegli un colore per il tag tra le opzioni fornite."
 
 #: ../../basic_email_management/toc.rst:40
 msgid "Click on the **CREATE** button to finalize the creation of the new tag."
-msgstr "Clicca sul pulsante **CREA** per finalizzare la creazione del nuovo tag."
+msgstr ""
+"Clicca sul pulsante **CREA** per finalizzare la creazione del nuovo tag."
 
 #: ../../basic_email_management/toc.rst:43
 msgid ""
 "To see your tags, you should click on the downward arrow icon located "
 "next to the Tags section."
 msgstr ""
-"Per visualizzare i tuoi tag, devi cliccare sull'icona della freccia verso"
-" il basso situata accanto alla sezione Tag."
+"Per visualizzare i tuoi tag, devi cliccare sull'icona della freccia verso il "
+"basso situata accanto alla sezione Tag."
 
 #: ../../basic_email_management/toc.rst:47
 msgid "Assigning a Tag to an Email"
@@ -2310,8 +2311,8 @@ msgstr "Per assegnare un tag a un'e-mail, semplicemente:"
 #: ../../basic_email_management/toc.rst:75
 msgid "Right-click on the email to open the dropdown menu."
 msgstr ""
-"Fai clic con il pulsante destro del mouse sull'e-mail per aprire il menu "
-"a discesa."
+"Fai clic con il pulsante destro del mouse sull'e-mail per aprire il menu a "
+"discesa."
 
 #: ../../basic_email_management/toc.rst:52
 #: ../../basic_email_management/toc.rst:76
@@ -2339,8 +2340,8 @@ msgid ""
 "Click on the downward arrow icon located next to the Tags section to open"
 " the list of tags."
 msgstr ""
-"Clicca sull'icona della freccia verso il basso situata accanto alla "
-"sezione Tag per aprire l'elenco dei tag."
+"Clicca sull'icona della freccia verso il basso situata accanto alla sezione "
+"Tag per aprire l'elenco dei tag."
 
 #: ../../basic_email_management/toc.rst:67
 msgid "Click on the tag that you want to find emails for."
@@ -2349,8 +2350,8 @@ msgstr "Clicca sul tag che desideri cercare per le e-mail."
 #: ../../basic_email_management/toc.rst:68
 msgid "All messages with the selected tag will be displayed in the Main Panel."
 msgstr ""
-"Tutti i messaggi con il tag selezionato verranno visualizzati nel "
-"Pannello principale."
+"Tutti i messaggi con il tag selezionato verranno visualizzati nel Pannello "
+"principale."
 
 #: ../../basic_email_management/toc.rst:71
 msgid "Removing a Tag from an Email"
@@ -2371,8 +2372,8 @@ msgstr "Modifica del colore di un tag"
 #: ../../basic_email_management/toc.rst:82
 msgid "Right-click on the tag you need to edit from the Tags section."
 msgstr ""
-"Fate clic con il pulsante destro del mouse sul tag che desiderate "
-"modificare nella sezione Tag."
+"Fate clic con il pulsante destro del mouse sul tag che desiderate modificare "
+"nella sezione Tag."
 
 #: ../../basic_email_management/toc.rst:83
 msgid "From the dropdown menu, select Edit Tag."
@@ -2383,8 +2384,8 @@ msgid ""
 "A dialog box will appear. Choose a color for the tag from the options "
 "provided."
 msgstr ""
-"Verrà visualizzata una finestra di dialogo. Scegliete un colore per il "
-"tag dalle opzioni fornite."
+"Verrà visualizzata una finestra di dialogo. Scegliete un colore per il tag "
+"dalle opzioni fornite."
 
 #: ../../basic_email_management/toc.rst:85
 msgid "Click on the EDIT button."
@@ -2397,8 +2398,8 @@ msgstr "Rinominare un tag"
 #: ../../basic_email_management/toc.rst:90
 msgid "Right-click on the tag you need to edit from the **Tags** section."
 msgstr ""
-"Fate clic con il pulsante destro del mouse sul tag che desiderate "
-"modificare nella sezione **Tag**."
+"Fate clic con il pulsante destro del mouse sul tag che desiderate modificare "
+"nella sezione **Tag**."
 
 #: ../../basic_email_management/toc.rst:91
 msgid "From the dropdown menu, select **Edit Tag**."
@@ -2435,8 +2436,8 @@ msgid ""
 "A flag acts like a special tag for important emails, showing up with a "
 "red flag icon next to the subject line."
 msgstr ""
-"Un flag agisce come un tag speciale per le e-mail importanti, "
-"visualizzato con un'icona di flag rosso accanto alla riga dell'oggetto."
+"Un flag agisce come un tag speciale per le e-mail importanti, visualizzato "
+"con un'icona di flag rosso accanto alla riga dell'oggetto."
 
 #: ../../basic_email_management/toc.rst:106
 msgid ""
@@ -2608,8 +2609,8 @@ msgstr "Cancellazione della cartella"
 #: ../../basic_email_management/toc.rst:181
 msgid "Wiping a folder permanently removes all emails. To wipe a folder:"
 msgstr ""
-"La cancellazione di una cartella rimuove permanentemente tutte le e-mail."
-" Per cancellare una cartella:"
+"La cancellazione di una cartella rimuove permanentemente tutte le e-mail. "
+"Per cancellare una cartella:"
 
 #: ../../basic_email_management/toc.rst:185
 msgid "Select **Wipe Folder** from the dropdown menu."
@@ -2702,8 +2703,8 @@ msgid ""
 "A new dialogue box will appear. Choose the folder where you wish to "
 "relocate the email."
 msgstr ""
-"Sarà visualizzata una nuova finestra di dialogo. Scegli la cartella in "
-"cui desideri spostare l'email."
+"Sarà visualizzata una nuova finestra di dialogo. Scegli la cartella in cui "
+"desideri spostare l'email."
 
 #: ../../basic_email_management/toc.rst:229
 msgid "Click MOVE to confirm."
@@ -2925,8 +2926,8 @@ msgid ""
 "Check the shared folder you want to add from the available shared items "
 "list."
 msgstr ""
-"Seleziona la cartella condivisa che desideri aggiungere dall'elenco degli"
-" elementi condivisi disponibili."
+"Seleziona la cartella condivisa che desideri aggiungere dall'elenco degli "
+"elementi condivisi disponibili."
 
 #: ../../basic_email_management/toc.rst:346 ../../contacts/toc.rst:272
 msgid "Click the **ADD** button."
@@ -3099,9 +3100,9 @@ msgid ""
 "header will display specific security and informational criteria. This "
 "includes notifications for:"
 msgstr ""
-"Riceverai notifiche visive all'interno del corpo dell'email e "
-"l'intestazione visualizzerà specifici criteri di sicurezza e "
-"informazioni. Ciò include notifiche per:"
+"Riceverai notifiche visive all'interno del corpo dell'email e l'intestazione "
+"visualizzerà specifici criteri di sicurezza e informazioni. Ciò include "
+"notifiche per:"
 
 #: ../../browsing_emails/toc.rst:76
 msgid "External domain origins"
@@ -3138,8 +3139,8 @@ msgstr ""
 #: ../../browsing_emails/toc.rst:89
 msgid "Navigate to the **Settings** (Gear icon) from the left sidebar."
 msgstr ""
-"Accedi alle **Impostazioni** (icona dell'ingranaggio) dal pannello "
-"laterale sinistro."
+"Accedi alle **Impostazioni** (icona dell'ingranaggio) dal pannello laterale "
+"sinistro."
 
 #: ../../browsing_emails/toc.rst:90
 msgid "Access the **Mails** section."
@@ -3453,9 +3454,9 @@ msgid ""
 "A new tab will open in your browser displaying the email, along with a "
 "window for adjusting printer settings. Make any necessary adjustments."
 msgstr ""
-"Si aprirà una nuova scheda nel browser che visualizza l'email, insieme a "
-"una finestra per regolare le impostazioni della stampante. Apporta le "
-"modifiche necessarie."
+"Si aprirà una nuova scheda nel browser che visualizza l'email, insieme a una "
+"finestra per regolare le impostazioni della stampante. Apporta le modifiche "
+"necessarie."
 
 #: ../../browsing_emails/toc.rst:235
 msgid "Click the Print button to proceed with printing."
@@ -3474,8 +3475,8 @@ msgid ""
 "Click on the check mark icon at the top left corner of your main panel to"
 " enter selection mode."
 msgstr ""
-"Fai clic sull'icona del segno di spunta nell'angolo superiore sinistro "
-"del pannello principale per entrare in modalità di selezione."
+"Fai clic sull'icona del segno di spunta nell'angolo superiore sinistro del "
+"pannello principale per entrare in modalità di selezione."
 
 #: ../../browsing_emails/toc.rst:248
 msgid "Select the empty circles beside each email you wish to choose."
@@ -3511,7 +3512,8 @@ msgstr "Seleziona più email come descritto sopra."
 
 #: ../../browsing_emails/toc.rst:257
 msgid "Click on the trash icon at the top right corner of your email list."
-msgstr "Fai clic sull'icona del cestino in alto a destra dell'elenco delle email."
+msgstr ""
+"Fai clic sull'icona del cestino in alto a destra dell'elenco delle email."
 
 #: ../../browsing_emails/toc.rst:265
 msgid "Sorting Emails"
@@ -3524,18 +3526,18 @@ msgid ""
 "unread status, importance, flagged status, presence of attachments, "
 "sender, date, and subject."
 msgstr ""
-"L'ordinamento degli email può offrire una notevole utilità in vari "
-"scenari. Hai la flessibilità di categorizzare le email in base a criteri "
-"come lo stato non letto, l'importanza, lo stato contrassegnato, la "
-"presenza di allegati, il mittente, la data e l'oggetto."
+"L'ordinamento degli email può offrire una notevole utilità in vari scenari. "
+"Hai la flessibilità di categorizzare le email in base a criteri come lo "
+"stato non letto, l'importanza, lo stato contrassegnato, la presenza di "
+"allegati, il mittente, la data e l'oggetto."
 
 #: ../../browsing_emails/toc.rst:269
 msgid ""
 "To initiate sorting, click on the **sorting icon** located in the top "
 "right corner of your email list."
 msgstr ""
-"Per avviare l'ordinamento, fai clic sull'icona di **ordinamento** situata"
-" in alto a destra dell'elenco delle email."
+"Per avviare l'ordinamento, fai clic sull'icona di **ordinamento** situata in "
+"alto a destra dell'elenco delle email."
 
 #: ../../browsing_emails/toc.rst:270
 msgid "Choose your preferred sorting criterion from the options provided."
@@ -3547,8 +3549,7 @@ msgid ""
 "ascending and descending order as per your preference."
 msgstr ""
 "Una volta selezionato, fare clic sull'icona di ordinamento di nuovo per "
-"commutare tra l'ordine ascendente e discendente secondo le tue "
-"preferenze."
+"commutare tra l'ordine ascendente e discendente secondo le tue preferenze."
 
 #: ../../browsing_emails/toc.rst:273
 msgid ""
@@ -3566,17 +3567,17 @@ msgid ""
 "current day, it will always be displayed with the full date and time, "
 "with the complete timestamp."
 msgstr ""
-"Per garantire la chiarezza, il formato di data per le email che non sono "
-"del giorno corrente, sarà sempre visualizzato con la data e l'ora "
-"complete, con il timestamp completo."
+"Per garantire la chiarezza, il formato di data per le email che non sono del "
+"giorno corrente, sarà sempre visualizzato con la data e l'ora complete, con "
+"il timestamp completo."
 
 #: ../../browsing_emails/toc.rst:286
 msgid ""
 "The timestamp will be shown according to the browser language rules, as "
 "explained in the following table:"
 msgstr ""
-"Il timestamp sarà mostrato secondo le regole della lingua del browser, "
-"come spiegato nella tabella seguente:"
+"Il timestamp sarà mostrato secondo le regole della lingua del browser, come "
+"spiegato nella tabella seguente:"
 
 #: ../../browsing_emails/toc.rst:288
 msgid "Date Format"
@@ -3759,8 +3760,8 @@ msgid ""
 "Work Week View: Shows only workdays (Monday to Friday – can be changed "
 "from the settings), ideal for work-focused scheduling."
 msgstr ""
-"Chế độ xem Tuần làm việc: Chỉ hiển thị các ngày làm việc (Thứ Hai đến Thứ"
-" Sáu - có thể thay đổi từ cài đặt), lý tưởng cho lịch trình làm việc."
+"Chế độ xem Tuần làm việc: Chỉ hiển thị các ngày làm việc (Thứ Hai đến Thứ "
+"Sáu - có thể thay đổi từ cài đặt), lý tưởng cho lịch trình làm việc."
 
 #: ../../calendars/toc.rst:38
 msgid "Changing Calendar View"
@@ -3916,8 +3917,8 @@ msgid ""
 "Select **Delete calendar** from the drop-down menu (this option is "
 "unavailable for your main calendar)."
 msgstr ""
-"Selezionare **Elimina calendario** dal menu a discesa (questa opzione non"
-" è disponibile per il calendario principale)."
+"Selezionare **Elimina calendario** dal menu a discesa (questa opzione non è "
+"disponibile per il calendario principale)."
 
 #: ../../calendars/toc.rst:106 ../../contacts/toc.rst:166
 msgid "Click the **DELETE** button to confirm."
@@ -3944,15 +3945,15 @@ msgid ""
 "In the Navigation Panel, click on the downward arrow next to the Trash "
 "folder. (if there is no downward arrow, your trash folder is empty)"
 msgstr ""
-"Nel pannello di navigazione, fare clic sulla freccia verso il basso "
-"accanto alla cartella Cestino. (se non c'è la freccia verso il basso, la "
-"cartella cestino è vuota)"
+"Nel pannello di navigazione, fare clic sulla freccia verso il basso accanto "
+"alla cartella Cestino. (se non c'è la freccia verso il basso, la cartella "
+"cestino è vuota)"
 
 #: ../../calendars/toc.rst:117
 msgid "Right-click on the calendar you wish to restore."
 msgstr ""
-"Fare clic con il pulsante destro del mouse sul calendario che si desidera"
-" ripristinare."
+"Fare clic con il pulsante destro del mouse sul calendario che si desidera "
+"ripristinare."
 
 #: ../../calendars/toc.rst:118
 msgid "Click **Restore calendar** from the drop-down menu."
@@ -4058,8 +4059,8 @@ msgid ""
 "You can assign privileges to individuals or groups of colleagues using "
 "roles to see to manage your shared calendars."
 msgstr ""
-"Puoi assegnare privilegi a individui o gruppi di colleghi utilizzando "
-"ruoli per gestire i calendari condivisi."
+"Puoi assegnare privilegi a individui o gruppi di colleghi utilizzando ruoli "
+"per gestire i calendari condivisi."
 
 #: ../../calendars/toc.rst:179
 msgid "Viewer (can view)"
@@ -4785,8 +4786,8 @@ msgid ""
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il tuo "
 "messaggio nella casella di testo in basso. Puoi anche aggiungere emoji e "
-"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per"
-" inviare il messaggio."
+"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per "
+"inviare il messaggio."
 
 #: ../../chat/toc.rst:33
 msgid ""
@@ -4824,9 +4825,8 @@ msgid ""
 "clicking on the emoji icon located in the text box."
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il "
-"messaggio nella casella di testo in basso. Puoi anche aggiungere emoji "
-"nel testo facendo clic sull'icona dell'emoji situata nella casella di "
-"testo."
+"messaggio nella casella di testo in basso. Puoi anche aggiungere emoji nel "
+"testo facendo clic sull'icona dell'emoji situata nella casella di testo."
 
 #: ../../chat/toc.rst:48 ../../chats/toc.rst:41
 msgid "Sending Files from Your Computer in Chats"
@@ -4835,8 +4835,8 @@ msgstr ""
 #: ../../chat/toc.rst:50 ../../chats/toc.rst:43
 msgid "To send a file saved on your computer using Chats, follow these steps:"
 msgstr ""
-"Per inviare un file salvato sul tuo computer utilizzando Chats, segui "
-"questi passaggi:"
+"Per inviare un file salvato sul tuo computer utilizzando Chats, segui questi "
+"passaggi:"
 
 #: ../../chat/toc.rst:52 ../../chat/toc.rst:65
 msgid "Select the **Chats**  feature from your left sidebar."
@@ -4853,8 +4853,8 @@ msgid ""
 "Click on the paperclip icon located in the chat box at the bottom of the "
 "page."
 msgstr ""
-"Fai clic sull'icona della graffetta situata nella casella di chat in "
-"fondo alla pagina."
+"Fai clic sull'icona della graffetta situata nella casella di chat in fondo "
+"alla pagina."
 
 #: ../../chat/toc.rst:55 ../../chats/toc.rst:48
 msgid "Select **Add from local**. A new window appears."
@@ -4882,7 +4882,8 @@ msgstr ""
 
 #: ../../chat/toc.rst:68 ../../chats/toc.rst:61
 msgid "Select **Attach public link from Files**. A new window appears."
-msgstr "Seleziona **Allega link pubblico da Files**. Si apre una nuova finestra."
+msgstr ""
+"Seleziona **Allega link pubblico da Files**. Si apre una nuova finestra."
 
 #: ../../chat/toc.rst:69 ../../chats/toc.rst:62
 msgid "Choose the file by navigating through the opened window."
@@ -4911,8 +4912,8 @@ msgstr "Per modificare un messaggio:"
 #: ../../chats/toc.rst:83 ../../chats/toc.rst:92 ../../chats/toc.rst:102
 msgid "Click on the downward arrow located next to the message bubble."
 msgstr ""
-"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla "
-"del messaggio."
+"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla del "
+"messaggio."
 
 #: ../../chat/toc.rst:81 ../../chats/toc.rst:74
 msgid "Edit the message and hit enter."
@@ -5342,16 +5343,16 @@ msgid ""
 "Now, this chat is added under the Chats tab, containing a list of all "
 "available chats."
 msgstr ""
-"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco"
-" di tutte le chat disponibili."
+"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco di "
+"tutte le chat disponibili."
 
 #: ../../chats/toc.rst:31
 msgid ""
 "Initially, you will not see any chats in your chat system, but once you "
 "create them, you can find them on the list."
 msgstr ""
-"Inizialmente, non vedrai alcuna chat nel tuo sistema di chat, ma una "
-"volta create, puoi trovarle nell'elenco."
+"Inizialmente, non vedrai alcuna chat nel tuo sistema di chat, ma una volta "
+"create, puoi trovarle nell'elenco."
 
 #: ../../chats/toc.rst:63
 msgid "Click **SHARE PUBLICK LINK**."
@@ -5489,8 +5490,8 @@ msgid ""
 "On the right side of the Main Panel, click on the pen icon next to the "
 "group’s name."
 msgstr ""
-"Sul lato destro del Pannello principale, fare clic sull'icona della penna"
-" accanto al nome del gruppo."
+"Sul lato destro del Pannello principale, fare clic sull'icona della penna "
+"accanto al nome del gruppo."
 
 #: ../../chats/toc.rst:195 ../../files/toc.rst:134
 msgid "Edit the name."
@@ -5580,8 +5581,7 @@ msgstr "Fare clic sul pulsante **INVIA** per inviare l'email."
 #: ../../composing_emails/toc.rst:25
 msgid "A copy of the sent email is stored in your Sent folder."
 msgstr ""
-"Una copia dell'email inviata viene archiviata nella cartella Posta "
-"inviata."
+"Una copia dell'email inviata viene archiviata nella cartella Posta inviata."
 
 #: ../../composing_emails/toc.rst:31
 msgid ""
@@ -5660,10 +5660,10 @@ msgid ""
 "generates a list of potential addresses where either the first name, last"
 " name, or email address matches the text you have typed."
 msgstr ""
-"La funzione di autocompletamento ti aiuta durante la digitazione nei "
-"campi A, Cc e Bcc di un nuovo messaggio suggerendo nomi dai tuoi "
-"contatti. Genera un elenco di indirizzi potenziali in cui il nome, il "
-"cognome o l'indirizzo email corrisponde al testo che hai digitato."
+"La funzione di autocompletamento ti aiuta durante la digitazione nei campi "
+"A, Cc e Bcc di un nuovo messaggio suggerendo nomi dai tuoi contatti. Genera "
+"un elenco di indirizzi potenziali in cui il nome, il cognome o l'indirizzo "
+"email corrisponde al testo che hai digitato."
 
 #: ../../composing_emails/toc.rst:58
 msgid ""
@@ -6162,10 +6162,9 @@ msgid ""
 "whom you have corresponded via email. Initially, this section might "
 "appear empty if you have not had any correspondence yet."
 msgstr ""
-"Una volta selezionato, verrà visualizzato un elenco di tutti gli "
-"indirizzi con cui hai intrattenuto una corrispondenza via email. "
-"Inizialmente, questa sezione potrebbe apparire vuota se non hai ancora "
-"avuto corrispondenza."
+"Una volta selezionato, verrà visualizzato un elenco di tutti gli indirizzi "
+"con cui hai intrattenuto una corrispondenza via email. Inizialmente, questa "
+"sezione potrebbe apparire vuota se non hai ancora avuto corrispondenza."
 
 #: ../../contacts/toc.rst:38
 msgid "Adding a New Contact"
@@ -6329,8 +6328,8 @@ msgstr "Per spostare una rubrica:"
 #: ../../contacts/toc.rst:117
 msgid "In the Navigation Panel, right-click on the address book you wish to move."
 msgstr ""
-"Nel pannello di navigazione, fare clic destro sulla rubrica che si "
-"desidera spostare."
+"Nel pannello di navigazione, fare clic destro sulla rubrica che si desidera "
+"spostare."
 
 #: ../../contacts/toc.rst:119
 msgid "Select the destination."
@@ -6409,8 +6408,8 @@ msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "delete."
 msgstr ""
-"Nel pannello di navigazione, fare clic destro sulla rubrica che si "
-"desidera eliminare."
+"Nel pannello di navigazione, fare clic destro sulla rubrica che si desidera "
+"eliminare."
 
 #: ../../contacts/toc.rst:165
 msgid "Select **Delete address book** from the drop-down menu."
@@ -6439,8 +6438,8 @@ msgid ""
 "Select the **New Contact group** from the drop-down menu. A new board "
 "will appear."
 msgstr ""
-"Selezionare il **Nuovo gruppo di contatti** dal menu a discesa. Si aprirà"
-" una nuova scheda."
+"Selezionare il **Nuovo gruppo di contatti** dal menu a discesa. Si aprirà "
+"una nuova scheda."
 
 #: ../../contacts/toc.rst:179
 msgid "Insert a name for the contact group in the **Group name** field."
@@ -6695,8 +6694,8 @@ msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "export."
 msgstr ""
-"Nel Pannello di navigazione, fai clic destro sull'indirizzario che "
-"desideri esportare."
+"Nel Pannello di navigazione, fai clic destro sull'indirizzario che desideri "
+"esportare."
 
 #: ../../contacts/toc.rst:283
 msgid "Select **Export csv file** from the drop-down menu. A new window appears."
@@ -6863,7 +6862,8 @@ msgstr "Seleziona la funzione **File** nel pannello laterale sinistro."
 
 #: ../../files/toc.rst:33 ../../files/toc.rst:43
 msgid "Select **New Folder** from the drop-down menu. A new board will appear."
-msgstr "Seleziona **Nuova cartella** dal menu a discesa. Si apre una nuova scheda."
+msgstr ""
+"Seleziona **Nuova cartella** dal menu a discesa. Si apre una nuova scheda."
 
 #: ../../files/toc.rst:34 ../../files/toc.rst:44
 msgid "Insert a name for the folder."
@@ -6904,8 +6904,7 @@ msgstr "Passa alla cartella in cui desideri caricare il file."
 #: ../../files/toc.rst:58
 msgid "From the top bar, click the **NEW** button. A new window appears."
 msgstr ""
-"Dal menu in alto, clicca sul pulsante **NUOVO**. Si apre una nuova "
-"finestra."
+"Dal menu in alto, clicca sul pulsante **NUOVO**. Si apre una nuova finestra."
 
 #: ../../files/toc.rst:59
 msgid "Select a file from the window."
@@ -6928,8 +6927,8 @@ msgid ""
 "You have the option to save attachment files from your emails directly to"
 " your Files. To do so:"
 msgstr ""
-"Hai la possibilità di salvare i file allegati dalle tue email "
-"direttamente nella tua sezione File. Per farlo:"
+"Hai la possibilità di salvare i file allegati dalle tue email direttamente "
+"nella tua sezione File. Per farlo:"
 
 #: ../../files/toc.rst:69
 msgid "Select **Mails** from the left sidebar."
@@ -6982,7 +6981,8 @@ msgstr "Seleziona Download dal menu a discesa. Si apre una nuova finestra."
 
 #: ../../files/toc.rst:89
 msgid "Select the folder on your computer where you want to download the file."
-msgstr "Seleziona la cartella sul tuo computer in cui desideri scaricare il file."
+msgstr ""
+"Seleziona la cartella sul tuo computer in cui desideri scaricare il file."
 
 #: ../../files/toc.rst:90
 msgid "Click the Save button."
@@ -7022,7 +7022,8 @@ msgstr "Se desideri rimuovere definitivamente il file:"
 
 #: ../../files/toc.rst:106 ../../files/toc.rst:118
 msgid "Click on the downward arrow next to the **Trash folder**."
-msgstr "Fai clic sulla freccia verso il basso accanto alla cartella **Cestino**."
+msgstr ""
+"Fai clic sulla freccia verso il basso accanto alla cartella **Cestino**."
 
 #: ../../files/toc.rst:107 ../../files/toc.rst:119
 msgid "Select **My items**."
@@ -7175,16 +7176,16 @@ msgid ""
 "Select the file format choosing either OpenDocument (.ods) or Microsoft "
 "(.xlsx) from the menu. A new window appears."
 msgstr ""
-"Seleziona il formato del file scegliendo tra OpenDocument (.ods) o "
-"Microsoft (.xlsx) dal menu. Si apre una nuova finestra."
+"Seleziona il formato del file scegliendo tra OpenDocument (.ods) o Microsoft "
+"(.xlsx) dal menu. Si apre una nuova finestra."
 
 #: ../../files/toc.rst:180
 msgid ""
 "You can double-click on it to open the editor in another browser tab and "
 "begin editing the file online."
 msgstr ""
-"Puoi fare doppio clic su di esso per aprire l'editor in un'altra scheda "
-"del browser e iniziare a modificare il file online."
+"Puoi fare doppio clic su di esso per aprire l'editor in un'altra scheda del "
+"browser e iniziare a modificare il file online."
 
 #: ../../files/toc.rst:182
 msgid ""
@@ -7305,11 +7306,13 @@ msgstr "Contrassegnare un file"
 
 #: ../../files/toc.rst:235
 msgid "To flag a file for future reference and make it stand out, you can:"
-msgstr "Per contrassegnare un file per future referenze e farlo risaltare, puoi:"
+msgstr ""
+"Per contrassegnare un file per future referenze e farlo risaltare, puoi:"
 
 #: ../../files/toc.rst:238
 msgid "Navigate to the folder that contains the file you want to flag."
-msgstr "Navigare nella cartella che contiene il file che desideri contrassegnare."
+msgstr ""
+"Navigare nella cartella che contiene il file che desideri contrassegnare."
 
 #: ../../files/toc.rst:240
 msgid "Select **Flag** from the drop-down menu."
@@ -7333,9 +7336,9 @@ msgid ""
 "list."
 msgstr ""
 "La gestione delle versioni dei file consente di gestire le modifiche ai "
-"documenti in File. Ogni volta che modifichi e salvi un file, il numero di"
-" versione viene aggiornato automaticamente. Il numero di versione più "
-"recente è visibile nell'elenco dei documenti del file."
+"documenti in File. Ogni volta che modifichi e salvi un file, il numero di "
+"versione viene aggiornato automaticamente. Il numero di versione più recente "
+"è visibile nell'elenco dei documenti del file."
 
 #: ../../files/toc.rst:253
 msgid "To view the history of the file, you can follow these steps:"
@@ -8442,9 +8445,8 @@ msgid ""
 "work."
 msgstr ""
 "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
-"Clicking it restarts your session, which can be especially dangerous when"
-" composing a new email or a lengthy text message. You might lose your "
-"work."
+"Clicking it restarts your session, which can be especially dangerous when "
+"composing a new email or a lengthy text message. You might lose your work."
 
 #: ../../get_started/toc.rst:200
 msgid "Account Personalization"

@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
-"PO-Revision-Date: 2025-06-19 15:54+0000\n"
+"PO-Revision-Date: 2026-02-18 16:08+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/gettext/>\n"
 "Language: gettext\n"
-"Language-Team: gettext (generated) "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/gettext/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -1305,7 +1306,6 @@ msgid "Click **DELETE**, and then **DELETE PERMANENTLY** to confirm."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:525
-#, fuzzy
 msgid "Set Disposal Policies for a Folder"
 msgstr "Inserire un nome per la cartella."
 
@@ -2216,8 +2216,8 @@ msgid ""
 "folders, tags, and sharing capabilities."
 msgstr ""
 "In questa sezione, analizzeremo le funzionalità versatili di Carbonio, "
-"concentrandoci sugli strumenti organizzativi efficienti come cartelle, "
-"tag e funzionalità di condivisione."
+"concentrandoci sugli strumenti organizzativi efficienti come cartelle, tag e "
+"funzionalità di condivisione."
 
 #: ../../basic_email_management/toc.rst:12
 msgid "Using Tags"
@@ -3692,9 +3692,9 @@ msgid ""
 " appointments, meetings, and events. Additionally, |product| enables you "
 "to share your calendars with colleagues or friends."
 msgstr ""
-"Bạn có thể sử dụng tính năng Lịch của Carbonio để quản lý cuộc hẹn, cuộc "
-"họp và sự kiện của mình hiệu quả. Ngoài ra, Carbonio cũng cho phép bạn "
-"chia sẻ lịch của mình với đồng nghiệp hoặc bạn bè."
+"Bạn có thể sử dụng tính năng Lịch của Carbonio để quản lý cuộc hẹn, cuộc họp "
+"và sự kiện của mình hiệu quả. Ngoài ra, Carbonio cũng cho phép bạn chia sẻ "
+"lịch của mình với đồng nghiệp hoặc bạn bè."
 
 #: ../../calendars/toc.rst:15
 msgid ""
@@ -3712,9 +3712,9 @@ msgid ""
 "Week View. However, you have the option to customize this and choose a "
 "different view to display upon opening."
 msgstr ""
-"Trong Carbonio, chế độ xem mặc định khi mở lịch là chế độ xem Tuần làm "
-"việc. Tuy nhiên, bạn có thể tùy chỉnh chế độ xem này và chọn một chế độ "
-"xem khác để hiển thị khi mở."
+"Trong Carbonio, chế độ xem mặc định khi mở lịch là chế độ xem Tuần làm việc. "
+"Tuy nhiên, bạn có thể tùy chỉnh chế độ xem này và chọn một chế độ xem khác "
+"để hiển thị khi mở."
 
 #: ../../calendars/toc.rst:22
 msgid "To change the default calendar view:"
@@ -3846,11 +3846,11 @@ msgid ""
 "from this calendar."
 msgstr ""
 "Puoi utilizzare la casella di controllo etichettata **Escludi questo "
-"calendario quando si segnalano gli orari di disponibilità** quando crei "
-"il calendario se preferisci non includere gli eventi di questo calendario"
-" specifico quando Carbonio segnala la tua disponibilità ai colleghi. "
-"Questa funzione è particolarmente utile quando si creano calendari per "
-"uso personale, assicurando che la tua disponibilità per le riunioni sia "
+"calendario quando si segnalano gli orari di disponibilità** quando crei il "
+"calendario se preferisci non includere gli eventi di questo calendario "
+"specifico quando Carbonio segnala la tua disponibilità ai colleghi. Questa "
+"funzione è particolarmente utile quando si creano calendari per uso "
+"personale, assicurando che la tua disponibilità per le riunioni sia "
 "rappresentata in modo accurato senza divulgare dettagli degli eventi di "
 "questo calendario."
 
@@ -4668,7 +4668,6 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:428
-#, fuzzy
 msgid "Step 1.  New Calendar"
 msgstr "Chọn Lịch."
 
@@ -4764,8 +4763,8 @@ msgid ""
 "Now, this chat is added under the Chats module, containing a list of all "
 "available chats."
 msgstr ""
-"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco"
-" di tutte le chat disponibili."
+"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco di "
+"tutte le chat disponibili."
 
 #: ../../chat/toc.rst:29
 msgid ""
@@ -4774,8 +4773,8 @@ msgid ""
 "able to will be able to create new conversation only with users that have"
 " Chats enabled."
 msgstr ""
-"Inizialmente, non vedrai alcuna chat nel tuo sistema di chat, ma una "
-"volta create, puoi trovarle nell'elenco."
+"Inizialmente, non vedrai alcuna chat nel tuo sistema di chat, ma una volta "
+"create, puoi trovarle nell'elenco."
 
 #: ../../chat/toc.rst:31 ../../chats/toc.rst:33
 msgid ""
@@ -4811,8 +4810,8 @@ msgid ""
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il tuo "
 "messaggio nella casella di testo in basso. Puoi anche aggiungere emoji e "
-"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per"
-" inviare il messaggio."
+"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per "
+"inviare il messaggio."
 
 #: ../../chat/toc.rst:43 ../../chats/toc.rst:36
 msgid "Adding Emojis to Your Message"
@@ -4950,8 +4949,8 @@ msgstr "Rispondi a un messaggio"
 #: ../../chat/toc.rst:99
 msgid "Click on the emoji icon located next to the downward arrow."
 msgstr ""
-"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla "
-"del messaggio."
+"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla del "
+"messaggio."
 
 #: ../../chat/toc.rst:100
 msgid "Select the emoji you want to send between the ones in the menu."
@@ -5205,8 +5204,8 @@ msgid ""
 "On the right side of the Main Panel, under the Actions section, click on "
 "the Add new members."
 msgstr ""
-"Sul lato destro del Pannello principale, fare clic sull'icona della penna"
-" accanto al nome del gruppo."
+"Sul lato destro del Pannello principale, fare clic sull'icona della penna "
+"accanto al nome del gruppo."
 
 #: ../../chat/toc.rst:216
 msgid ""
@@ -6775,7 +6774,6 @@ msgid ""
 msgstr ""
 
 #: ../../contacts/toc.rst:324
-#, fuzzy
 msgid "Step 1. New Address book"
 msgstr "Per spostare una rubrica:"
 
@@ -6798,7 +6796,6 @@ msgid ""
 msgstr ""
 
 #: ../../contacts/toc.rst:344
-#, fuzzy
 msgid "Step 3. Select Address Books"
 msgstr "Eliminazione di una rubrica"
 
@@ -8021,7 +8018,6 @@ msgid "1. Accessing 2FA Settings"
 msgstr ""
 
 #: ../../get_started/toc.rst:41
-#, fuzzy
 msgid "Click the **gear icon** in the left sidebar of your webmail interface."
 msgstr "Click the blue button in the bottom left corner to open the chat box."
 
@@ -8034,19 +8030,16 @@ msgid "Open **OTP Authentication** and click **NEW OTP**."
 msgstr ""
 
 #: ../../get_started/toc.rst:46
-#, fuzzy
 msgid "2. Creating an OTP"
 msgstr "Creazione di un'etichetta OTP:"
 
 #: ../../get_started/toc.rst:48
-#, fuzzy
 msgid "Insert a **label** to identify the new OTP (e.g., ``myOTP1``)."
 msgstr ""
-"Inserisci un **label** per aiutarti a ricordare questo OTP (ad esempio, "
-"“mySamsungPhone”)."
+"Inserisci un **label** per aiutarti a ricordare questo OTP (ad esempio, “"
+"mySamsungPhone”)."
 
 #: ../../get_started/toc.rst:49
-#, fuzzy
 msgid "Click **CREATE PASSWORD**."
 msgstr "Click on **Enabled**."
 
@@ -8057,7 +8050,6 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:52
-#, fuzzy
 msgid "**Option A:** Scanning a **QR code** with an authenticator app."
 msgstr "Installa Google Authenticator:"
 
@@ -8073,12 +8065,10 @@ msgid ""
 msgstr ""
 
 #: ../../get_started/toc.rst:59
-#, fuzzy
 msgid "3. Option A — Using an Authenticator App"
 msgstr "Installa Google Authenticator:"
 
 #: ../../get_started/toc.rst:61
-#, fuzzy
 msgid ""
 "Install a supported authenticator app (e.g., **Google Authenticator** or "
 "**MS auth**) on your mobile device."
@@ -8151,7 +8141,6 @@ msgid "> Insert the verification code or PIN into the login form;"
 msgstr ""
 
 #: ../../get_started/toc.rst:87
-#, fuzzy
 msgid "> Click LOGIN."
 msgstr "Clicca su **Apri**."
 
@@ -8179,7 +8168,8 @@ msgstr ""
 
 #: ../../get_started/toc.rst:99
 msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
-msgstr "When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
+msgstr ""
+"When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
 
 #: ../../get_started/toc.rst:100
 msgid "Click it, and it will automatically sign you into your webmail."
@@ -8534,8 +8524,8 @@ msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
 msgstr ""
-"You can change the font size across all Carbonio web clients according to"
-" your preferences. To change the font size simply follow these steps:"
+"You can change the font size across all Carbonio web clients according to "
+"your preferences. To change the font size simply follow these steps:"
 
 #: ../../get_started/toc.rst:237 ../../get_started/toc.rst:256
 #: ../../get_started/toc.rst:271
@@ -8656,12 +8646,10 @@ msgid "Calendars & Productivity"
 msgstr ""
 
 #: ../../index.rst:61
-#, fuzzy
 msgid "Files & Collaboration"
 msgstr "**Collaborazione:**"
 
 #: ../../index.rst:71
-#, fuzzy
 msgid "Communication"
 msgstr "Silenzia le notifiche di una chat"
 
@@ -8701,8 +8689,8 @@ msgid ""
 "These search capabilities provide efficient ways to locate and manage "
 "your data within the |product| web client."
 msgstr ""
-"These search capabilities provide efficient ways to locate and manage "
-"your data within the Carbonio web client."
+"These search capabilities provide efficient ways to locate and manage your "
+"data within the Carbonio web client."
 
 #: ../../search/toc.rst:18
 msgid "Using Quick Search for Different Items"
@@ -9431,27 +9419,22 @@ msgid "When you are in a video meeting and want to record it:"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:143
-#, fuzzy
 msgid "Click the **arrow button** on the left side to open the chat box."
 msgstr "Click the blue button in the bottom left corner to open the chat box."
 
 #: ../../videomeeting/toc.rst:144
-#, fuzzy
 msgid ""
 "In the chat box, click the **downward arrow** next to the *Recording* "
 "section at the top."
 msgstr ""
-"Clicca sull'icona della freccia verso il basso situata accanto alla "
-"sezione Tag per aprire l'elenco dei tag."
+"Clicca sull'icona della freccia verso il basso situata accanto alla sezione "
+"Tag per aprire l'elenco dei tag."
 
 #: ../../videomeeting/toc.rst:145
 msgid "Click **START RECORDING** to begin recording."
 msgstr ""
-"Clicca sull'icona della freccia verso il basso situata accanto alla "
-"sezione Tag per aprire l'elenco dei tag."
 
 #: ../../videomeeting/toc.rst:146
-#, fuzzy
 msgid "To stop the recording, click **STOP RECORDING**."
 msgstr "Under the **Recording** section, click **START**."
 
@@ -9463,7 +9446,6 @@ msgid ""
 msgstr ""
 
 #: ../../videomeeting/toc.rst:149
-#, fuzzy
 msgid "A popup will appear asking you to enter a **name for the recording file**."
 msgstr "Una finestra di dialogo apparirà. Inserisci un nome per il nuovo tag."
 
@@ -11246,4 +11228,3 @@ msgstr ""
 #~ " the link to view and download "
 #~ "the content of the file or folder."
 #~ msgstr ""
-

@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
-"PO-Revision-Date: 2026-02-18 16:07+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"PO-Revision-Date: 2026-02-18 16:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -4057,7 +4057,6 @@ msgid "The deleted emails will then be moved to your **Trash folder**."
 msgstr "Le email eliminate verranno spostate nel cartella **Cestino**."
 
 #: ../../browsing_emails/toc.rst:179
-#, fuzzy
 msgid ""
 "You can alternatively deleting an email by selecting it and use the "
 "shortcut key **Delete** on your keyboard. Deleted emails will then be "
@@ -4065,11 +4064,11 @@ msgid ""
 "a 30-day window after deletion (unless your system administrator sets it "
 "otherwise). Beyond this period, the items will be permanently removed."
 msgstr ""
-"Le email eliminate verranno spostate nella cartella Cestino. Puoi "
-"recuperare elementi dalla cartella Cestino entro una finestra di 30 "
-"giorni dalla cancellazione (a meno che l'amministratore di sistema non la"
-" configuri in modo diverso). Oltre questo periodo, gli elementi verranno "
-"rimossi definitivamente."
+"Le email eliminate verranno spostate nella cartella Cestino. Puoi recuperare "
+"elementi dalla cartella Cestino entro una finestra di 30 giorni dalla "
+"cancellazione (a meno che l'amministratore di sistema non la configuri in "
+"modo diverso). Oltre questo periodo, gli elementi verranno rimossi "
+"definitivamente."
 
 #: ../../browsing_emails/toc.rst:182
 msgid ""
@@ -4937,7 +4936,6 @@ msgid "Sharing Calendars with Your Colleagues"
 msgstr "Condividere Calendari con i Colleghi"
 
 #: ../../calendars/toc.rst:191
-#, fuzzy
 msgid "Share a Calendar Internally"
 msgstr "Condividere una Cartella Email con Utenti Esterni"
 
@@ -4962,21 +4960,18 @@ msgstr ""
 "AGGIUNGI CONDIVISIONE."
 
 #: ../../calendars/toc.rst:198
-#, fuzzy
 msgid "In the **Share with** field, select *Internal Users or Groups*."
 msgstr "Seleziona Utenti interni o Gruppi dal campo **Condividi con**."
 
 #: ../../calendars/toc.rst:199
-#, fuzzy
 msgid ""
 "Enter the email addresses of your colleagues in the **Recipients’ e-mail "
 "addresses** field."
 msgstr ""
-"Immetti gli indirizzi email dei destinatari nel campo **Indirizzi email "
-"dei destinatari**."
+"Immetti gli indirizzi email dei destinatari nel campo **Indirizzi email dei "
+"destinatari**."
 
 #: ../../calendars/toc.rst:200
-#, fuzzy
 msgid "Select the desired **Role**."
 msgstr "Seleziona il file."
 
@@ -5043,17 +5038,14 @@ msgid "No duplicate calendars appear in the secondary bar."
 msgstr ""
 
 #: ../../calendars/toc.rst:226
-#, fuzzy
 msgid "Sharing via URL"
 msgstr "Condividere una cartella"
 
 #: ../../calendars/toc.rst:230 ../../calendars/toc.rst:296
-#, fuzzy
 msgid "Select **Calendar’s access share**."
 msgstr "Seleziona Calendari."
 
 #: ../../calendars/toc.rst:231
-#, fuzzy
 msgid "Choose either **ICS URL** or **OUTLOOK URL**."
 msgstr "Seleziona **URL ICS** oppure **URL OUTLOOK**."
 
@@ -5068,24 +5060,20 @@ msgid "Find Colleagues' Shared Calendars"
 msgstr "Trovare i Calendari Condivisi dei Colleghi"
 
 #: ../../calendars/toc.rst:238
-#, fuzzy
 msgid "To find and add shared calendars:"
 msgstr "Per trovare e aggiungere i calendari condivisi dei tuoi colleghi:"
 
 #: ../../calendars/toc.rst:240
-#, fuzzy
 msgid "Select **Calendars** from the left sidebar."
 msgstr "Seleziona **Mail** nel menu di sinistra."
 
 #: ../../calendars/toc.rst:241
-#, fuzzy
 msgid "In the Navigation Panel, click the **FIND SHARES** button."
 msgstr ""
 "Dal pannello di navigazione, fai clic sul tasto **TROVA CONDIVISIONI**. "
 "Verrà visualizzata una nuova finestra."
 
 #: ../../calendars/toc.rst:242
-#, fuzzy
 msgid ""
 "Begin typing your colleague’s email address and choose it from the "
 "suggestions."
@@ -5094,17 +5082,14 @@ msgstr ""
 "suggerimenti che appaiono."
 
 #: ../../calendars/toc.rst:243
-#, fuzzy
 msgid "Select the shared calendar from the list."
 msgstr "Seleziona il calendario condiviso dall'elenco."
 
 #: ../../calendars/toc.rst:244
-#, fuzzy
 msgid "Click **ADD**."
 msgstr "Clicca AGGIUNGI."
 
 #: ../../calendars/toc.rst:246
-#, fuzzy
 msgid "The shared calendar will appear in your list."
 msgstr "Il calendario condiviso apparirà nell'elenco dei tuoi calendari."
 
@@ -5141,7 +5126,6 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:263
-#, fuzzy
 msgid "How to Share a Calendar"
 msgstr "Per creare un calendario:"
 
@@ -5154,17 +5138,14 @@ msgid "Access *Carbonio Webmail → Calendars*."
 msgstr ""
 
 #: ../../calendars/toc.rst:269
-#, fuzzy
 msgid "Right-click on the desired calendar."
 msgstr "Clic destro sull'email."
 
 #: ../../calendars/toc.rst:270
-#, fuzzy
 msgid "Select **Edit calendar properties**."
 msgstr "Seleziona **Modifica proprietà calendario** dal menu a discesa."
 
 #: ../../calendars/toc.rst:271
-#, fuzzy
 msgid "Click **ADD SHARE**."
 msgstr "Scegli Modifica, poi clic su **AGGIUNGI CONDIVISIONE**."
 
@@ -5201,7 +5182,6 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:286
-#, fuzzy
 msgid "Step 2: Obtain Sharing Links"
 msgstr "Revocare Link Pubblici per il Download"
 
@@ -5220,17 +5200,14 @@ msgid "**Outlook WebDAV URL** — for Microsoft Outlook."
 msgstr ""
 
 #: ../../calendars/toc.rst:293
-#, fuzzy
 msgid "To access these links:"
 msgstr "Revocare Link Pubblici per il Download"
 
 #: ../../calendars/toc.rst:295
-#, fuzzy
 msgid "Right-click on the shared calendar."
 msgstr "Clic destro sull'email."
 
 #: ../../calendars/toc.rst:297
-#, fuzzy
 msgid "Copy the desired link."
 msgstr "Apporta le modifiche desiderate."
 
@@ -5243,12 +5220,10 @@ msgid "How to Share Free/Busy Status"
 msgstr "Mostrare il Proprio Stato Disponibile/Occupato"
 
 #: ../../calendars/toc.rst:309
-#, fuzzy
 msgid "Copy the ICS Free/Busy URL."
 msgstr "Mostrare il Proprio Stato Disponibile/Occupato"
 
 #: ../../calendars/toc.rst:310
-#, fuzzy
 msgid "Share it with external users."
 msgstr "Condividere una Rubrica con Utenti Esterni"
 
@@ -8993,7 +8968,6 @@ msgid "**Public download links:**"
 msgstr "**Collegamenti pubblici per il download:**"
 
 #: ../../files/toc.rst:401
-#, fuzzy
 msgid ""
 "This section allows you to generate different links for a file or folder,"
 " enabling you to send these links to external users. The generated link "
@@ -9001,8 +8975,8 @@ msgid ""
 " of the file or folder. It is now also possible for external users to "
 "download the entire folder as a compressed ZIP archive."
 msgstr ""
-"Questa sezione permette di generare diversi collegamenti ad un file o ad "
-"una cartella, consentendo di inviarli a utenti esterni. Il link generato "
+"Questa sezione permette di generare diversi collegamenti ad un file o ad una "
+"cartella, consentendo di inviarli a utenti esterni. Il link generato "
 "consente a chiunque ne sia in possesso di visualizzare e scaricare il "
 "contenuto del file o della cartella."
 

@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
-"PO-Revision-Date: 2026-02-18 16:08+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"PO-Revision-Date: 2026-02-18 16:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/gettext/>\n"
 "Language: gettext\n"
@@ -4101,7 +4101,6 @@ msgid "Sharing Calendars with Your Colleagues"
 msgstr "Condivisione dei calendari con i colleghi"
 
 #: ../../calendars/toc.rst:191
-#, fuzzy
 msgid "Share a Calendar Internally"
 msgstr "Condivisione di una cartella email con utenti esterni"
 
@@ -4132,7 +4131,6 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:200
-#, fuzzy
 msgid "Select the desired **Role**."
 msgstr "Selezionare la destinazione."
 
@@ -4203,12 +4201,10 @@ msgid "Sharing via URL"
 msgstr ""
 
 #: ../../calendars/toc.rst:230 ../../calendars/toc.rst:296
-#, fuzzy
 msgid "Select **Calendar’s access share**."
 msgstr "Chọn Lịch."
 
 #: ../../calendars/toc.rst:231
-#, fuzzy
 msgid "Choose either **ICS URL** or **OUTLOOK URL**."
 msgstr "Seleziona **ICS URL** o **OUTLOOK URL**."
 
@@ -4223,17 +4219,14 @@ msgid "Find Colleagues' Shared Calendars"
 msgstr ""
 
 #: ../../calendars/toc.rst:238
-#, fuzzy
 msgid "To find and add shared calendars:"
 msgstr "Ripristino di un calendario eliminato"
 
 #: ../../calendars/toc.rst:240
-#, fuzzy
 msgid "Select **Calendars** from the left sidebar."
 msgstr "Selezionare **Contatti** nel pannello laterale sinistro."
 
 #: ../../calendars/toc.rst:241
-#, fuzzy
 msgid "In the Navigation Panel, click the **FIND SHARES** button."
 msgstr ""
 "Nel Pannello di navigazione, fare clic sull'agenda degli **Contatti via "
@@ -4246,17 +4239,14 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:243
-#, fuzzy
 msgid "Select the shared calendar from the list."
 msgstr "Chọn chế độ xem mong muốn từ menu thả xuống."
 
 #: ../../calendars/toc.rst:244
-#, fuzzy
 msgid "Click **ADD**."
 msgstr "Clicca su **Salva**."
 
 #: ../../calendars/toc.rst:246
-#, fuzzy
 msgid "The shared calendar will appear in your list."
 msgstr "Questo calendario verrà spostato nell'elenco dei calendari."
 
@@ -4293,7 +4283,6 @@ msgid ""
 msgstr ""
 
 #: ../../calendars/toc.rst:263
-#, fuzzy
 msgid "How to Share a Calendar"
 msgstr "Fai clic destro sul file."
 
@@ -4306,17 +4295,14 @@ msgid "Access *Carbonio Webmail → Calendars*."
 msgstr ""
 
 #: ../../calendars/toc.rst:269
-#, fuzzy
 msgid "Right-click on the desired calendar."
 msgstr "Fai clic destro sul file."
 
 #: ../../calendars/toc.rst:270
-#, fuzzy
 msgid "Select **Edit calendar properties**."
 msgstr "Chọn Lịch."
 
 #: ../../calendars/toc.rst:271
-#, fuzzy
 msgid "Click **ADD SHARE**."
 msgstr "Clicca su **Salva**."
 
@@ -4371,12 +4357,10 @@ msgid "**Outlook WebDAV URL** — for Microsoft Outlook."
 msgstr ""
 
 #: ../../calendars/toc.rst:293
-#, fuzzy
 msgid "To access these links:"
 msgstr "Per accedere ai contatti inviati via e-mail:"
 
 #: ../../calendars/toc.rst:295
-#, fuzzy
 msgid "Right-click on the shared calendar."
 msgstr "Fai clic destro sul file."
 
@@ -4393,12 +4377,10 @@ msgid "How to Share Free/Busy Status"
 msgstr "Consentire agli utenti di visualizzare il tuo stato di disponibilità"
 
 #: ../../calendars/toc.rst:309
-#, fuzzy
 msgid "Copy the ICS Free/Busy URL."
 msgstr "Consentire agli utenti di visualizzare il tuo stato di disponibilità"
 
 #: ../../calendars/toc.rst:310
-#, fuzzy
 msgid "Share it with external users."
 msgstr "Condivisione di una cartella email con utenti esterni"
 

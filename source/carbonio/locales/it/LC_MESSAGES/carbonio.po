@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
 "PO-Revision-Date: 2026-02-19 16:52+0000\n"
-"Last-Translator: Federico Bertola <federico.bertola@studiostorti.com>\n"
+"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -1784,11 +1784,11 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:556
 msgid "Requirements for S/MIME"
-msgstr ""
+msgstr "Requisiti per S/MIME"
 
 #: ../../advanced_email_management/toc.rst:558
 msgid "To use S/MIME, you need:"
-msgstr ""
+msgstr "Per utilizzare S/MIME, è necessario:"
 
 #: ../../advanced_email_management/toc.rst:560
 msgid ""

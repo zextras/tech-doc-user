@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
-"PO-Revision-Date: 2026-02-19 16:52+0000\n"
-"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
+"PO-Revision-Date: 2026-02-20 20:52+0000\n"
+"Last-Translator: Federico Bertola <federico.bertola@studiostorti.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -1795,22 +1795,28 @@ msgid ""
 "A valid S/MIME certificate (X.509 format) issued by a trusted Certificate"
 " Authority (CA)."
 msgstr ""
+"Un certificato S/MIME valido (formato X.509) rilasciato da un'autorità di "
+"certificazione (CA) attendibile."
 
 #: ../../advanced_email_management/toc.rst:561
 msgid ""
 "Carbonio webmail (S/MIME is not available in Carbonio Community Edition, "
 "it only allows to show that the email is digitally signed)."
 msgstr ""
+"Carbonio webmail (S/MIME non è disponibile nell'edizione Community di "
+"Carbonio, consente solo di mostrare che l'e-mail è firmata digitalmente)."
 
 #: ../../advanced_email_management/toc.rst:562
 msgid ""
 "A compatible email client (Another user with Carbonio webmail, Outlook,  "
 "Thunderbird --to check--,  others?)."
 msgstr ""
+"Un client di posta elettronica compatibile (un altro utente con Carbonio "
+"webmail, Outlook, Thunderbird -- da verificare --, altri?)."
 
 #: ../../advanced_email_management/toc.rst:565
 msgid "Obtaining an S/MIME Certificate"
-msgstr ""
+msgstr "Ottenere un certificato S/MIME"
 
 #: ../../advanced_email_management/toc.rst:567
 msgid ""
@@ -1818,6 +1824,9 @@ msgid ""
 "(CA).Popular CAs include: Sectigo (Comodo); DigiCert; GlobalSign; "
 "Actalis; Entrust; GoDaddy; Thawte; VeriSign; and others."
 msgstr ""
+"È necessario un certificato S/MIME rilasciato da un'autorità di "
+"certificazione (CA) attendibile. Le CA popolari includono: Sectigo (Comodo); "
+"DigiCert; GlobalSign; Actalis; Entrust; GoDaddy; Thawte; VeriSign; e altre."
 
 #: ../../advanced_email_management/toc.rst:569
 msgid ""
@@ -1826,14 +1835,18 @@ msgid ""
 "PKCS#12 format (.p12 or .pfx). 4. Note the password used to export the "
 "private key."
 msgstr ""
+"Per ottenere un certificato S/MIME: 1. Accedi al sito web di un CA "
+"attendibile. 2. Richiedi un certificato S/MIME a un CA. 3. Scarica il "
+"certificato in formato PKCS#12 (.p12 o .pfx). 4. Prendi nota della password "
+"utilizzata per esportare la chiave privata."
 
 #: ../../advanced_email_management/toc.rst:576
 msgid "How S/MIME Signing Works in Carbonio"
-msgstr ""
+msgstr "Come funziona la firma S/MIME in Carbonio"
 
 #: ../../advanced_email_management/toc.rst:579
 msgid "Importing an S/MIME Certificate"
-msgstr ""
+msgstr "Importazione di un certificato S/MIME"
 
 #: ../../advanced_email_management/toc.rst:581
 msgid ""
@@ -1844,6 +1857,12 @@ msgid ""
 "Certificate under Personal certificates for signing, encryption and "
 "decryption."
 msgstr ""
+"# Carica il certificato personale (contenente una chiave pubblica e una "
+"chiave privata) in Carbonio webmail tramite Impostazioni → Certificati S/"
+"MIME (il sistema chiederà di inserire una password per proteggere il "
+"certificato. Se ne è già stata impostata una, verrà richiesta la password). "
+"# Fai clic su Carica certificato sotto Certificati personali per la firma, "
+"la cifratura e la decifratura."
 
 #: ../../advanced_email_management/toc.rst:586
 msgid "Signing an Email"
@@ -1856,6 +1875,11 @@ msgid ""
 "The signature is attached to the email as a cryptographic hash. # The "
 "recipient can verify the signature using the sender’s public key."
 msgstr ""
+"# Quando si compone un'e-mail, selezionare \"Usa certificato per firmare (S/"
+"MIME)\". # Carbonio utilizza la chiave privata dell'utente per generare una "
+"firma digitale. # La firma viene allegata all'e-mail come hash "
+"crittografico. # Il destinatario può verificare la firma utilizzando la "
+"chiave pubblica del mittente."
 
 #: ../../advanced_email_management/toc.rst:595
 msgid "Verifying a Signed Email"
@@ -1869,20 +1893,28 @@ msgid ""
 "validity period, and the certificate fingerprint. # The recipient can "
 "verify the signature using the sender’s public key."
 msgstr ""
+"# Quando si riceve un'e-mail firmata, la firma è visualizzata "
+"nell'intestazione dell'e-mail. # Fare clic sulla firma per visualizzare i "
+"dettagli del certificato. # I dettagli del certificato includono l'ente "
+"emittente del certificato, il periodo di validità del certificato e "
+"l'impronta del certificato. # Il destinatario può verificare la firma "
+"utilizzando la chiave pubblica del mittente."
 
 #: ../../advanced_email_management/toc.rst:602
 msgid "If the signature is valid:"
-msgstr ""
+msgstr "Se la firma è valida:"
 
 #: ../../advanced_email_management/toc.rst:604
 msgid "The recipient sees a signed email notification."
-msgstr ""
+msgstr "Il destinatario vede una notifica di posta elettronica firmata."
 
 #: ../../advanced_email_management/toc.rst:605
 msgid ""
 "It confirms the email hasn’t been modified and is truly from the claimed "
 "sender."
 msgstr ""
+"Conferma che l'email non è stata modificata e proviene effettivamente dal "
+"mittente dichiarato."
 
 #: ../../advanced_email_management/toc.rst:607
 msgid ""
@@ -1890,14 +1922,17 @@ msgid ""
 "or sent from an untrusted source. The recipient should be cautious when "
 "interacting with such emails."
 msgstr ""
+"Se la firma è invalida o mancante, l'email potrebbe essere stata manomessa o "
+"inviata da una fonte non attendibile. Il destinatario dovrebbe essere cauto "
+"nell'interagire con tali email."
 
 #: ../../advanced_email_management/toc.rst:612
 msgid "How S/MIME Encryption Works in Carbonio"
-msgstr ""
+msgstr "Funzionamento della crittografia S/MIME in Carbonio"
 
 #: ../../advanced_email_management/toc.rst:615
 msgid "Key Components"
-msgstr ""
+msgstr "Componenti Chiave"
 
 #: ../../advanced_email_management/toc.rst:617
 msgid ""
@@ -1906,18 +1941,23 @@ msgid ""
 "by the recipient. # Certificate Authority (CA): Issues S/MIME "
 "certificates to users."
 msgstr ""
+"# Chiave pubblica: utilizzata per crittografare l'e-mail. Memorizzata nel "
+"certificato S/MIME del destinatario. \n"
+"# Chiave privata: utilizzata per decrittografare l'e-mail. Memorizzata in "
+"modo sicuro dal destinatario. \n"
+"# Autorità di certificazione (CA): rilascia certificati S/MIME agli utenti."
 
 #: ../../advanced_email_management/toc.rst:622
 msgid "The Encryption Process"
-msgstr ""
+msgstr "Il Processo di Crittografia"
 
 #: ../../advanced_email_management/toc.rst:624
 msgid "Sender Retrieves Recipient’s Public Key"
-msgstr ""
+msgstr "Il Mittente recupera la chiave pubblica del destinatario"
 
 #: ../../advanced_email_management/toc.rst:625
 msgid "The sender must have the recipient’s public key."
-msgstr ""
+msgstr "Il mittente deve avere la chiave pubblica del destinatario."
 
 #: ../../advanced_email_management/toc.rst:632
 msgid "Email Encryption"
@@ -1925,15 +1965,17 @@ msgstr "Notifica di Arrivo Email"
 
 #: ../../advanced_email_management/toc.rst:627
 msgid "The sender composes an email and selects  \"Encrypt with S/MIME\""
-msgstr ""
+msgstr "Il mittente compone un'e-mail e seleziona \"Cifra con S/MIME\""
 
 #: ../../advanced_email_management/toc.rst:628
 msgid "Sender email content is encrypted using the recipient’s public key."
 msgstr ""
+"Il contenuto dell'email del mittente è crittografato utilizzando la chiave "
+"pubblica del destinatario."
 
 #: ../../advanced_email_management/toc.rst:629
 msgid "The email is sent in an encrypted format."
-msgstr ""
+msgstr "L'email viene inviata in formato crittografato."
 
 #: ../../advanced_email_management/toc.rst:630
 msgid ""
@@ -1941,6 +1983,10 @@ msgid ""
 "private key is used to decrypt the message. * If the private key matches "
 "the encrypted data, the email is decrypted and displayed normally."
 msgstr ""
+"Destinatario Decrittografa l'Email * Quando il destinatario apre l'email, la "
+"sua chiave privata viene utilizzata per decrittografare il messaggio. * Se "
+"la chiave privata corrisponde ai dati crittografati, l'email viene "
+"decrittografata e visualizzata normalmente."
 
 #: ../../advanced_email_management/toc.rst:634
 msgid ""
@@ -1948,38 +1994,46 @@ msgid ""
 "private key. This ensures that only the intended recipient can read the "
 "email."
 msgstr ""
+"Il destinatario può decrittare l'email solo se dispone della chiave privata "
+"corrispondente. Ciò garantisce che solo il destinatario previsto possa "
+"leggere l'email."
 
 #: ../../advanced_email_management/toc.rst:637
 msgid "Requirements for S/MIME Encryption"
-msgstr ""
+msgstr "Requisiti per la crittografia S/MIME"
 
 #: ../../advanced_email_management/toc.rst:639
 msgid ""
 "# Both sender and recipient must have S/MIME certificates installed. # "
 "The recipient’s public key must be available to the sender."
 msgstr ""
+"# Sia il mittente che il destinatario devono avere installati i certificati "
+"S/MIME. # La chiave pubblica del destinatario deve essere disponibile al "
+"mittente."
 
 #: ../../advanced_email_management/toc.rst:643
 msgid "Uploading a Certificate in Carbonio Webmail"
-msgstr ""
+msgstr "Caricamento di un certificato in Carbonio Webmail"
 
 #: ../../advanced_email_management/toc.rst:645
 msgid "Go to Settings → S/MIME Certificates."
-msgstr ""
+msgstr "Vai a Impostazioni → Certificati S/MIME."
 
 #: ../../advanced_email_management/toc.rst:646
 msgid ""
 "Click \"Upload Certificate\" under Personal certificates for signing, "
 "encryption and decryption."
 msgstr ""
+"Fare clic su \"Carica certificato\" sotto Certificati Personali per la "
+"firma, la crittografia e la decrittografia."
 
 #: ../../advanced_email_management/toc.rst:647
 msgid "Select your PKCS#12 certificate file (.pfx or .p12)."
-msgstr ""
+msgstr "Seleziona il file del certificato PKCS#12 (.pfx o .p12)."
 
 #: ../../advanced_email_management/toc.rst:648
 msgid "Enter the certificate secret."
-msgstr ""
+msgstr "Inserisci il segreto del certificato."
 
 #: ../../advanced_email_management/toc.rst:649
 #: ../../advanced_email_management/toc.rst:655
@@ -1988,11 +2042,13 @@ msgstr "Clicca su **Salva**."
 
 #: ../../advanced_email_management/toc.rst:652
 msgid "Uploading Recipient Certificate"
-msgstr ""
+msgstr "Caricamento del Certificato del Destinatario"
 
 #: ../../advanced_email_management/toc.rst:654
 msgid "Click \"Upload Certificate\" under Recipients certificates for encryption"
 msgstr ""
+"Fai clic su \"Carica certificato\" sotto i certificati dei Destinatari per "
+"la crittografia"
 
 #: ../../advanced_email_management/toc.rst:658
 msgid "Sending an Encrypted Email"
@@ -2000,7 +2056,7 @@ msgstr "Inviare un'Email in Bozza"
 
 #: ../../advanced_email_management/toc.rst:660
 msgid "Compose a new email in Carbonio webmail."
-msgstr ""
+msgstr "Componi un nuovo messaggio di posta in Carbonio webmail."
 
 #: ../../advanced_email_management/toc.rst:661
 msgid "Select \"Use certificate to encrypt (S/MIME)\" before sending."
@@ -2009,6 +2065,7 @@ msgstr "Seleziona **Usa certificato per firmare (S/MIME)** dal menu che appare."
 #: ../../advanced_email_management/toc.rst:662
 msgid "The email will be encrypted using the recipient’s public key."
 msgstr ""
+"L'email verrà crittografata utilizzando la chiave pubblica del destinatario."
 
 #: ../../advanced_email_management/toc.rst:665
 msgid "Receiving and Decrypting an Email"
@@ -2020,6 +2077,10 @@ msgid ""
 "the message. # If not, you’ll see an \"Unable to decrypt\" error. # You "
 "can upload your private key to decrypt the message."
 msgstr ""
+"# Se la tua chiave privata è installata, Carbonio decifrerà automaticamente "
+"il messaggio. # In caso contrario, verrà visualizzato un errore "
+"\"Impossibile decifrare\". # Puoi caricare la tua chiave privata per "
+"decifrare il messaggio."
 
 #: ../../appointments/toc.rst:7
 msgid "Working with Appointments"
@@ -2237,7 +2298,7 @@ msgstr ""
 
 #: ../../appointments/toc.rst:44
 msgid "How Equipment Resources work"
-msgstr ""
+msgstr "Come funzionano le Risorse di Attrezzatura"
 
 #: ../../appointments/toc.rst:46
 msgid ""
@@ -2246,6 +2307,11 @@ msgid ""
 "piece of equipment is represented in Carbonio as a resource account that "
 "can be added to appointments, similar to a meeting room."
 msgstr ""
+"Le risorse di equipment (quali proiettori, telecamere, display, laptop "
+"aziendali, ecc.) sono gestite centralmente dal tuo amministratore di "
+"sistema. Ogni pezzo di equipment è rappresentato in Carbonio come un account "
+"di risorsa che può essere aggiunto agli appuntamenti, simile a una sala "
+"riunioni."
 
 #: ../../appointments/toc.rst:49
 msgid "Assigning Equipment to an Appointment"
@@ -2261,26 +2327,37 @@ msgid ""
 "users must contact their system administrator so it can be added as a "
 "resource."
 msgstr ""
+"Quando si crea un appuntamento, gli utenti possono scegliere uno o più "
+"risorse di attrezzatura dal campo Attrezzatura (se abilitato e configurato "
+"dall'amministratore di sistema). La selezione di un'attrezzatura significa "
+"che la risorsa è riservata per la durata dell'appuntamento, impedendo "
+"prenotazioni sovrapposte. Se un pezzo specifico di attrezzatura non appare "
+"nell'elenco, gli utenti devono contattare il loro amministratore di sistema "
+"in modo che possa essere aggiunto come risorsa."
 
 #: ../../appointments/toc.rst:55
 msgid "Approval workflow for Equipment Requests"
-msgstr ""
+msgstr "Flusso di approvazione per le richieste di attrezzature"
 
 #: ../../appointments/toc.rst:57
 msgid "Equipment resources can operate in multiple modes:"
-msgstr ""
+msgstr "Le risorse di attrezzatura possono operare in più modalità:"
 
 #: ../../appointments/toc.rst:59
 msgid ""
 "**Auto-accept enabled**: the resource automatically accepts the booking "
 "if it is available."
 msgstr ""
+"**Accettazione automatica abilitata**: la risorsa accetta automaticamente la "
+"prenotazione se è disponibile."
 
 #: ../../appointments/toc.rst:60
 msgid ""
 "**Auto-accept disabled**: the resource does not automatically accept "
 "requests."
 msgstr ""
+"**Accettazione automatica disabilitata**: la risorsa non accetta "
+"automaticamente le richieste."
 
 #: ../../appointments/toc.rst:61
 msgid ""
@@ -2288,6 +2365,9 @@ msgid ""
 " for the equipment resource, including the ability to create recurring "
 "appointments for that resource."
 msgstr ""
+"**Prenotazione disabilitata**: l'amministratore può impedire qualsiasi "
+"prenotazione programmata per la risorsa di attrezzatura, compresa la "
+"possibilità di creare appuntamenti ricorrenti per tale risorsa."
 
 #: ../../appointments/toc.rst:64
 msgid ""
@@ -2297,6 +2377,11 @@ msgid ""
 " equipment request. Their decision determines whether the equipment is "
 "reserved for the appointment."
 msgstr ""
+"Quando l'auto-accettazione è disabilitata, l'amministratore di sistema può "
+"configurare la risorsa per inoltrare le richieste di prenotazione a uno o "
+"più utenti designati. Questi utenti agiscono come **approvatori** e possono "
+"accettare o rifiutare manualmente ogni richiesta di attrezzatura. La loro "
+"decisione determina se l'attrezzatura è riservata per l'appuntamento."
 
 #: ../../appointments/toc.rst:70
 msgid "Checking on attendees' availability with organizer tool"
@@ -2735,6 +2820,14 @@ msgid ""
 " choose to **Delete** the appointment from your calendar without "
 "responding to the invitation."
 msgstr ""
+"Se non si sceglie nessuna delle quattro opzioni, l'appuntamento verrà "
+"salvato automaticamente nel calendario come appuntamento provvisorio con "
+"un'icona che indica che non si è ancora confermati per l'appuntamento. È "
+"possibile scegliere in seguito una delle quattro opzioni facendo doppio clic "
+"sull'appuntamento nel calendario e selezionando **Accetta**, "
+"**Provvisorio**, **Rifiuta** o **Proporre un nuovo orario** dal menu a "
+"discesa. È anche possibile scegliere di **Eliminare** l'appuntamento dal "
+"calendario senza rispondere all'invito."
 
 #: ../../basic_email_management/toc.rst:7
 msgid "Basic Email Management"
@@ -4998,61 +5091,72 @@ msgstr "Fai clic sul tasto **CONDIVIDI CALENDARIO**."
 
 #: ../../calendars/toc.rst:204
 msgid "Preventing Duplicate Shares (New Behavior)"
-msgstr ""
+msgstr "Prevenzione delle condivisioni duplicate (Nuovo comportamento)"
 
 #: ../../calendars/toc.rst:206
 msgid ""
 "If a user tries to share the same calendar with the **same user** and the"
 " **same role** more than once, the system now:"
 msgstr ""
+"Se un utente tenta di condividere lo stesso calendario con lo **stesso "
+"utente** e lo **stesso ruolo** più di una volta, il sistema ora:"
 
 #: ../../calendars/toc.rst:208
 msgid "Displays a **warning icon** on the affected chips."
-msgstr ""
+msgstr "Visualizza un **icona di avvertimento** sulle etichette interessate."
 
 #: ../../calendars/toc.rst:209
 msgid "Shows an explanatory **error string** below the input."
-msgstr ""
+msgstr "Visualizza una stringa di **errore esplicativa** sotto l'input."
 
 #: ../../calendars/toc.rst:210
 msgid ""
 "Provides a **tooltip** on both the warning icon and the disabled "
 "**Confirm** button."
 msgstr ""
+"Fornisce un **tooltip** sia sull'icona di avvertimento che sul pulsante "
+"**Conferma** disabilitato."
 
 #: ../../calendars/toc.rst:212
 msgid ""
 "If the role is changed for a user with whom the calendar was already "
 "shared, the action is allowed because the configuration differs."
 msgstr ""
+"Se il ruolo viene modificato per un utente con cui il calendario era già "
+"stato condiviso, l'azione è consentita perché la configurazione differisce."
 
 #: ../../calendars/toc.rst:215
 msgid "Role Change Notifications (Improved Behavior)"
-msgstr ""
+msgstr "Notifiche di cambio di ruolo (Comportamento migliorato)"
 
 #: ../../calendars/toc.rst:217
 msgid ""
 "Previously, changing the role of a shared user generated a new "
 "confirmation request and, once accepted, created a duplicate mount point."
 msgstr ""
+"In precedenza, la modifica del ruolo di un utente condiviso generava una "
+"nuova richiesta di conferma e, una volta accettata, creava un punto di "
+"montaggio duplicato."
 
 #: ../../calendars/toc.rst:219
 msgid "Now:"
-msgstr ""
+msgstr "Ora:"
 
 #: ../../calendars/toc.rst:221
 msgid "No confirmation request is generated."
-msgstr ""
+msgstr "Nessuna richiesta di conferma viene generata."
 
 #: ../../calendars/toc.rst:222
 msgid ""
 "The user simply receives a **notification** informing them about the role"
 " change."
 msgstr ""
+"L'utente riceve semplicemente una **notifica** che lo informa del cambio di "
+"ruolo."
 
 #: ../../calendars/toc.rst:223
 msgid "No duplicate calendars appear in the secondary bar."
-msgstr ""
+msgstr "Nessun calendario duplicato appare nella barra secondaria."
 
 #: ../../calendars/toc.rst:226
 msgid "Sharing via URL"
@@ -5071,6 +5175,8 @@ msgid ""
 "The link is copied to your clipboard and can be pasted into an email or "
 "message."
 msgstr ""
+"Il collegamento è stato copiato negli appunti e può essere incollato in un'e-"
+"mail o un messaggio."
 
 #: ../../calendars/toc.rst:236
 msgid "Find Colleagues' Shared Calendars"
@@ -5119,6 +5225,9 @@ msgid ""
 "Zextras |product| allows calendars to be shared with users outside your "
 "domain. Public calendar shares are read-only and allow external users to:"
 msgstr ""
+"Zextras |product| consente di condividere calendari con utenti al di fuori "
+"del proprio dominio. Le condivisioni dei calendari pubblici sono in sola "
+"lettura e consentono agli utenti esterni di:"
 
 #: ../../calendars/toc.rst:253
 msgid "View calendar events"
@@ -5126,21 +5235,23 @@ msgstr "Modificare la Visualizzazione del Calendario"
 
 #: ../../calendars/toc.rst:254
 msgid "Subscribe via ICS"
-msgstr ""
+msgstr "Iscriviti tramite ICS"
 
 #: ../../calendars/toc.rst:255
 msgid "Access without authentication"
-msgstr ""
+msgstr "Accesso senza autenticazione"
 
 #: ../../calendars/toc.rst:258
 msgid "Free/Busy Status Sharing"
-msgstr ""
+msgstr "Condivisione dello stato di disponibilità/occupazione"
 
 #: ../../calendars/toc.rst:260
 msgid ""
 "Only availability information (free/busy) is exposed, without revealing "
 "event details."
 msgstr ""
+"Solo le informazioni di disponibilità (libero/occupato) vengono esposte, "
+"senza rivelare i dettagli degli eventi."
 
 #: ../../calendars/toc.rst:263
 msgid "How to Share a Calendar"
@@ -5148,11 +5259,11 @@ msgstr "Per creare un calendario:"
 
 #: ../../calendars/toc.rst:266
 msgid "Step 1: Configure Sharing"
-msgstr ""
+msgstr "Passaggio 1: Configurazione della condivisione"
 
 #: ../../calendars/toc.rst:268
 msgid "Access *Carbonio Webmail → Calendars*."
-msgstr ""
+msgstr "Accedi a *Carbonio Webmail → Calendari*."
 
 #: ../../calendars/toc.rst:269
 msgid "Right-click on the desired calendar."
@@ -5168,35 +5279,42 @@ msgstr "Scegli Modifica, poi clic su **AGGIUNGI CONDIVISIONE**."
 
 #: ../../calendars/toc.rst:272
 msgid "Choose the share configuration."
-msgstr ""
+msgstr "Scegli la configurazione di condivisione."
 
 #: ../../calendars/toc.rst:275
 msgid "Share with Public: New Checkbox Interface"
-msgstr ""
+msgstr "Condividi con Pubblico: Nuova Interfaccia a Casella di Controllo"
 
 #: ../../calendars/toc.rst:277
 msgid ""
 "The *Share with public* option is now a **checkbox**, simplifying the "
 "process:"
 msgstr ""
+"L'opzione *Condividi con il pubblico* è ora una **casella di controllo**, "
+"semplificando il processo:"
 
 #: ../../calendars/toc.rst:279
 msgid "When checked, the calendar becomes publicly visible in read-only mode."
 msgstr ""
+"Quando selezionato, il calendario diventa visibile pubblicamente in modalità "
+"di sola lettura."
 
 #: ../../calendars/toc.rst:280
 msgid "The entry **Public** appears in the share list as before."
-msgstr ""
+msgstr "La voce **Pubblico** appare nell'elenco di condivisione come prima."
 
 #: ../../calendars/toc.rst:281
 msgid "Revoking the public share automatically **unchecks** the box."
 msgstr ""
+"Revocare la condivisione pubblica **deseleziona** automaticamente la casella."
 
 #: ../../calendars/toc.rst:283
 msgid ""
 "This improvement avoids errors that occurred when selecting the same "
 "option multiple times from a dropdown."
 msgstr ""
+"Questo miglioramento evita errori che si verificavano quando si selezionava "
+"la stessa opzione più volte da un menu a discesa."
 
 #: ../../calendars/toc.rst:286
 msgid "Step 2: Obtain Sharing Links"
@@ -5204,17 +5322,18 @@ msgstr "Revocare Link Pubblici per il Download"
 
 #: ../../calendars/toc.rst:288
 msgid "The system generates two URLs:"
-msgstr ""
+msgstr "Il sistema genera due URL:"
 
 #: ../../calendars/toc.rst:290
 msgid ""
 "**ICS URL** — compatible with Google Calendar, Apple Calendar, "
 "Thunderbird."
 msgstr ""
+"**URL ICS** — compatibile con Google Calendar, Apple Calendar, Thunderbird."
 
 #: ../../calendars/toc.rst:291
 msgid "**Outlook WebDAV URL** — for Microsoft Outlook."
-msgstr ""
+msgstr "**URL WebDAV di Outlook** — per Microsoft Outlook."
 
 #: ../../calendars/toc.rst:293
 msgid "To access these links:"
@@ -5230,7 +5349,7 @@ msgstr "Apporta le modifiche desiderate."
 
 #: ../../calendars/toc.rst:300
 msgid "Free/Busy URL Format"
-msgstr ""
+msgstr "URL Formato Libero/Occupato"
 
 #: ../../calendars/toc.rst:307
 msgid "How to Share Free/Busy Status"
@@ -5247,56 +5366,72 @@ msgstr "Condividere una Rubrica con Utenti Esterni"
 #: ../../calendars/toc.rst:311
 msgid "They can view availability without accessing event details."
 msgstr ""
+"Possono visualizzare la disponibilità senza accedere ai dettagli dell'evento."
 
 #: ../../calendars/toc.rst:314
 msgid "Upcoming Improvements: Dedicated Sharing Modal"
-msgstr ""
+msgstr "Miglioramenti in arrivo: Modale di condivisione dedicata"
 
 #: ../../calendars/toc.rst:316
 msgid "To improve clarity and avoid stacked modals:"
-msgstr ""
+msgstr "Per migliorare la chiarezza e evitare i modali annidati:"
 
 #: ../../calendars/toc.rst:318
 msgid "The sharing process will be moved into a **single dedicated modal**."
 msgstr ""
+"Il processo di condivisione verrà spostato in una **singola modale "
+"dedicata**."
 
 #: ../../calendars/toc.rst:319
 msgid "A new dedicated entry in the contextual menu will open the sharing modal."
 msgstr ""
+"Un nuovo elemento dedicato nel menu contestuale aprirà la modale di "
+"condivisione."
 
 #: ../../calendars/toc.rst:320
 msgid ""
 "The **Edit Calendar** modal will remain separate and no longer include "
 "sharing options."
 msgstr ""
+"La modale **Modifica calendario** rimarrà separata e non includerà più le "
+"opzioni di condivisione."
 
 #: ../../calendars/toc.rst:321
 msgid "This ensures a faster, simpler, and more intuitive workflow."
 msgstr ""
+"Ciò garantisce un flusso di lavoro più veloce, semplice e più intuitivo."
 
 #: ../../calendars/toc.rst:324
 msgid "Security & Privacy"
-msgstr ""
+msgstr "Sicurezza & Privacy"
 
 #: ../../calendars/toc.rst:326
 msgid "External users cannot edit calendars - all shared calendars are read-only"
 msgstr ""
+"Gli utenti esterni non possono modificare i calendari - tutti i calendari "
+"condivisi sono in sola lettura"
 
 #: ../../calendars/toc.rst:327
 msgid "Free/Busy sharing provides view-only access to availability"
 msgstr ""
+"La condivisione del libero/occupato fornisce un accesso in sola "
+"visualizzazione alla disponibilità"
 
 #: ../../calendars/toc.rst:328
 msgid "No sensitive data (event details) is shared with Free/Busy status"
 msgstr ""
+"Nessun dato sensibile (dettagli dell'evento) viene condiviso con lo stato "
+"Libero/Occupato"
 
 #: ../../calendars/toc.rst:329
 msgid "Sharing settings can be modified at any time"
 msgstr ""
+"Le impostazioni di condivisione possono essere modificate in qualsiasi "
+"momento"
 
 #: ../../calendars/toc.rst:331
 msgid "Use Cases"
-msgstr ""
+msgstr "Casi d'uso"
 
 #: ../../calendars/toc.rst:333
 msgid ""
@@ -5304,16 +5439,24 @@ msgid ""
 "coordination: Allow vendors to check your schedule External meeting "
 "scheduling: Enable external users to find available time slots"
 msgstr ""
+"Collaborazione con i partner: Condividi la disponibilità con i partner "
+"aziendali.\n"
+"Coordinamento dei fornitori: Consenti ai fornitori di verificare il tuo "
+"calendario.\n"
+"Pianificazione delle riunioni esterne: Abilita gli utenti esterni a trovare "
+"slot di tempo disponibili"
 
 #: ../../calendars/toc.rst:337
 msgid "Supported Clients"
-msgstr ""
+msgstr "Client supportati"
 
 #: ../../calendars/toc.rst:339
 msgid ""
 "Google Calendar Apple Calendar Microsoft Outlook Thunderbird Any calendar"
 " application supporting ICS/iCal format"
 msgstr ""
+"Google Calendar Apple Calendar Microsoft Outlook Thunderbird Qualsiasi "
+"applicazione di calendario che supporta il formato ICS/iCal"
 
 #: ../../calendars/toc.rst:346
 msgid "Creating Calendar Groups"
@@ -5526,7 +5669,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:416
 msgid "Configure a CalDAV Client"
-msgstr ""
+msgstr "Configurare un client CalDAV"
 
 #: ../../calendars/toc.rst:418
 msgid ""
@@ -5535,6 +5678,10 @@ msgid ""
 "identical on any client; in the box at the end of this section we mention"
 " which are the differences."
 msgstr ""
+"Aggiungere un calendario |product| al tuo client CalDAV preferito è semplice "
+"e richiede solo pochi passaggi. La procedura è quasi identica su qualsiasi "
+"client; nella casella alla fine di questa sezione menzioniamo quali sono le "
+"differenze."
 
 #: ../../calendars/toc.rst:423
 msgid ""
@@ -5543,6 +5690,9 @@ msgid ""
 "*mail.example.com*. In the remainder, replace these values with suitable "
 "ones."
 msgstr ""
+"In questo scenario, l'utente *luca.bianchi@esempio.it* vuole configurare in "
+"Mozilla Thunderbird un calendario chiamato *Calendario* sul dominio "
+"*posta.esempio.it*. Nel resto, sostituire questi valori con altri adatti."
 
 #: ../../calendars/toc.rst:428
 msgid "Step 1.  New Calendar"
@@ -5553,10 +5703,12 @@ msgid ""
 "On your client, go to the Calendar and select **New Calendar...**. Choose"
 " **On the Network**"
 msgstr ""
+"Sul tuo client, vai al Calendario e seleziona **Nuovo Calendario...**. "
+"Scegli **In rete**"
 
 #: ../../calendars/toc.rst:437
 msgid "Step 2."
-msgstr ""
+msgstr "Passaggio 2."
 
 #: ../../calendars/toc.rst:439
 msgid ""
@@ -5564,22 +5716,25 @@ msgid ""
 "``https://<domain>/dav/username``, so "
 "*https://mail.example.com/dav/john.smith@example.com*"
 msgstr ""
+"Fornire il **Nome utente** e la **Posizione**, che ha il formato ``https://"
+"<dominio>/dav/nomeutente``, ad esempio *https://mail.esempio.com/dav/"
+"luca.bianchi@esempio.com*"
 
 #: ../../calendars/toc.rst:448
 msgid "Step 3."
-msgstr ""
+msgstr "Passo 3."
 
 #: ../../calendars/toc.rst:450
 msgid "You will be then presented a list, from which to choose *Calendar*."
-msgstr ""
+msgstr "Verrà quindi presentato un elenco, da cui scegliere *Calendario*."
 
 #: ../../calendars/toc.rst:452
 msgid "You are now done! the calendar will show up in the list of your client."
-msgstr ""
+msgstr "Hai terminato! Il calendario apparirà nell'elenco dei tuoi clienti."
 
 #: ../../calendars/toc.rst:458 ../../contacts/toc.rst:353
 msgid "Other clients"
-msgstr ""
+msgstr "Altri clienti"
 
 #: ../../calendars/toc.rst:460
 msgid ""
@@ -5590,6 +5745,11 @@ msgid ""
 "*https://mail.example.com/dav/john.smith@example.com/Calendar* as the "
 "URL."
 msgstr ""
+"CalDAV è un protocollo standard e quindi i dati richiesti per configurare un "
+"client sono un nome utente, un URL e il nome di un calendario. L'unica "
+"differenza è che alcuni client richiedono che il nome del calendario faccia "
+"parte dell'URL, quindi potrebbe essere necessario fornire *https://"
+"mail.esempio.it/dav/luca.bianchi@esempio.it/Calendar* come URL."
 
 #: ../../chat/toc.rst:7
 msgid "Working with Chats"
@@ -5683,6 +5843,8 @@ msgid ""
 "You can also create a new chat by searching for a colleague in the search"
 " bar. To do so:"
 msgstr ""
+"È possibile creare anche una nuova chat cercando un collega nella barra di "
+"ricerca. Per farlo:"
 
 #: ../../chat/toc.rst:36
 msgid "In the \"Type to filter list\" field, insert your colleague's name."
@@ -5690,7 +5852,7 @@ msgstr "Nel campo Filtra l'elenco digitando, inserisci il nome del tuo collega."
 
 #: ../../chat/toc.rst:38
 msgid "The new chat will be created automatically."
-msgstr ""
+msgstr "La nuova chat verrà creata automaticamente."
 
 #: ../../chat/toc.rst:39
 msgid ""
@@ -5873,13 +6035,15 @@ msgstr "Clicca su **AVANTI**."
 
 #: ../../chat/toc.rst:114
 msgid "You can also forward multiple messages at once. To do so:"
-msgstr ""
+msgstr "È possibile inoltrare più messaggi contemporaneamente. Per farlo:"
 
 #: ../../chat/toc.rst:118
 msgid ""
 "Select the messages you want to forward by clicking on the checkboxes "
 "next to them."
 msgstr ""
+"Seleziona i messaggi che desideri inoltrare cliccando sulle caselle di "
+"controllo accanto a essi."
 
 #: ../../chat/toc.rst:123
 msgid ""
@@ -5887,6 +6051,9 @@ msgid ""
 "\"Originally sent by: [Sender Name]\" and the date of the original "
 "message."
 msgstr ""
+"I messaggi verranno inoltrati al chat selezionato: segnalazione "
+"\"Originariamente inviato da: [Nome del mittente]\" e la data del messaggio "
+"originale."
 
 #: ../../chat/toc.rst:126 ../../chats/toc.rst:98
 msgid "Delete A Message"
@@ -6012,7 +6179,7 @@ msgstr ""
 
 #: ../../chat/toc.rst:174
 msgid "In the right panel you will find the following possible actions:"
-msgstr ""
+msgstr "Nel pannello a destra troverai le seguenti azioni possibili:"
 
 #: ../../chat/toc.rst:176
 msgid "Mute notifications"
@@ -6024,7 +6191,7 @@ msgstr "Leggere le Email"
 
 #: ../../chat/toc.rst:178
 msgid "Add new members"
-msgstr ""
+msgstr "Aggiungi nuovi partecipanti"
 
 #: ../../chat/toc.rst:179
 msgid "Clear history"
@@ -6063,10 +6230,13 @@ msgid ""
 "receive any notifications for new messages in that group. However, you "
 "will still be able to see the messages when you open the group chat."
 msgstr ""
+"Si prega di notare che se si silenziano le notifiche per un gruppo, non si "
+"riceveranno notifiche per i nuovi messaggi in quel gruppo. Tuttavia, sarà "
+"ancora possibile visualizzare i messaggi quando si apre la chat del gruppo."
 
 #: ../../chat/toc.rst:197
 msgid "Edit Details of a Group"
-msgstr ""
+msgstr "Modifica dettagli di un gruppo"
 
 #: ../../chat/toc.rst:199
 msgid "To edit a group’s name or topic:"
@@ -6141,7 +6311,7 @@ msgstr "Clicca su **AGGIUNGI NUOVI MEMBRI** per confermare."
 
 #: ../../chat/toc.rst:219
 msgid "(Optional) Repeat the process to add more members."
-msgstr ""
+msgstr "(Facoltativo) Ripetere il processo per aggiungere altri membri."
 
 #: ../../chat/toc.rst:223
 msgid "Clear History of a Group"
@@ -6156,6 +6326,14 @@ msgid ""
 "HISTORY** to confirm. #.  (Optional) Repeat the process to clear the "
 "history of more groups."
 msgstr ""
+"Per cancellare la cronologia di un gruppo specifico: \n"
+"#.      Seleziona la funzione **Chat** dal pannello laterale sinistro. \n"
+"#.      Seleziona il gruppo per cui desideri cancellare la cronologia. \n"
+"#.      Sul lato destro del Pannello principale, nella sezione Azioni, "
+"clicca su Cancella cronologia. \n"
+"#.      Clicca su **CANCELLA CRONOLOGIA** per confermare. \n"
+"#.  (Opzionale) Ripeti il processo per cancellare la cronologia di più "
+"gruppi."
 
 #: ../../chat/toc.rst:232
 msgid ""
@@ -6164,18 +6342,29 @@ msgid ""
 "However, you will still be able to see the group name and members, at the"
 " bottom of the chat list."
 msgstr ""
+"Si prega di notare che cancellare la cronologia di un gruppo rimuoverà tutti "
+"i messaggi dalla chat solo per l'utente, e non sarà possibile recuperarli. "
+"Tuttavia, sarà ancora possibile visualizzare il nome del gruppo e gli "
+"utenti, in fondo all'elenco delle chat."
 
 #: ../../chat/toc.rst:238
+#, fuzzy
 msgid ""
 "To delete a group: #.      Select the **Chats feature** from your left "
 "sidebar. #.      Select the group you want to delete. #.      On the "
 "right side of the Main Panel, under the Actions section, click on the "
 "Delete Group. #.      Click **DELETE** to confirm."
 msgstr ""
+"Per eliminare un gruppo: \n"
+"#.      Seleziona la funzione **Chat** dalla barra laterale sinistra. \n"
+"#.      Seleziona il gruppo che desideri eliminare. \n"
+"#.      Sul lato destro del Pannello principale, nella sezione Azioni, "
+"clicca su Elimina gruppo. \n"
+"#.      Clicca su **ELIMINA** per confermare."
 
 #: ../../chat/toc.rst:245
 msgid "Message Search"
-msgstr ""
+msgstr "Ricerca Messaggi"
 
 #: ../../chat/toc.rst:247
 msgid ""
@@ -6185,10 +6374,15 @@ msgid ""
 "the corresponding message, which is visually highlighted for easier "
 "reference."
 msgstr ""
+"La ricerca dei messaggi consente di trovare rapidamente messaggi specifici, "
+"date o contenuti in qualsiasi conversazione senza dover scorrere lunghe "
+"cronologie delle chat. Basta inserire una parola chiave, selezionare un "
+"risultato e saltare direttamente al messaggio corrispondente, che è "
+"evidenziato visivamente per una consultazione più agevole."
 
 #: ../../chat/toc.rst:250
 msgid "How It Works"
-msgstr ""
+msgstr "Come Funziona"
 
 #: ../../chat/toc.rst:252
 msgid ""
@@ -6198,10 +6392,16 @@ msgid ""
 "**Search** button. All messages containing the keyword are displayed in a"
 " chronological list, with the most recent results shown first."
 msgstr ""
+"Un'icona di ricerca è disponibile nell'intestazione di ogni conversazione. "
+"Cliccandola si apre un pannello di ricerca sul lato destro dell'interfaccia. "
+"Digita la tua parola chiave (ad esempio, *riunione*) e premi **Invio** o "
+"clicca il pulsante **Cerca**. Tutti i messaggi che contengono la parola "
+"chiave vengono visualizzati in un elenco cronologico, con i risultati più "
+"recenti visualizzati per primi."
 
 #: ../../chat/toc.rst:256
 msgid "Key Features"
-msgstr ""
+msgstr "Caratteristiche Principali"
 
 #: ../../chat/toc.rst:258
 msgid ""
@@ -6210,6 +6410,11 @@ msgid ""
 "for *meet* highlights only that part inside *meeting*), making results "
 "easier to scan."
 msgstr ""
+"**Evidenziazione intelligente** La parola chiave cercata è evidenziata in "
+"grassetto utilizzando il colore principale. Le corrispondenze parziali "
+"vengono anche evidenziate (ad esempio, cercando *incontro* si evidenzia solo "
+"quella parte all'interno di *riunione*), rendendo i risultati più facili da "
+"scorrere."
 
 #: ../../chat/toc.rst:261
 msgid ""
@@ -6218,18 +6423,27 @@ msgid ""
 "If you scroll away, simply click the result again to return—results "
 "remain clickable at all times."
 msgstr ""
+"**Vai al contesto** Selezionare un risultato fa scorrere automaticamente la "
+"conversazione al messaggio esatto, che viene evidenziato per una maggiore "
+"visibilità. Se si scorre altrove, basta semplicemente fare clic nuovamente "
+"sul risultato per tornare - i risultati rimangono cliccabili in ogni momento."
 
 #: ../../chat/toc.rst:264
 msgid ""
 "**Responsive Behavior** On smaller screens, the search interface adapts "
 "seamlessly to ensure easy navigation without losing context."
 msgstr ""
+"**Comportamento Responsivo** Su schermi più piccoli, l'interfaccia di "
+"ricerca si adatta senza problemi per garantire una facile navigazione senza "
+"perdere il contesto."
 
 #: ../../chat/toc.rst:267
 msgid ""
 "**Quick Iterations** To start a new search, use the backspace button to "
 "clear the current query without closing the panel."
 msgstr ""
+"**Iterazioni Veloci** Per avviare una nuova ricerca, utilizzare il tasto "
+"backspace per cancellare la query corrente senza chiudere il pannello."
 
 #: ../../chat/toc.rst:270
 msgid ""
@@ -6237,6 +6451,9 @@ msgid ""
 "find information in seconds instead of manually searching through entire "
 "conversations."
 msgstr ""
+"Questa funzione migliora notevolmente la navigazione all'interno delle chat, "
+"permettendoti di trovare informazioni in pochi secondi invece di doverle "
+"cercare manualmente attraverso intere conversazioni."
 
 #: ../../chats/toc.rst:7
 msgid "Working with Chats :bdg-secondary:`LEGACY`"
@@ -6558,6 +6775,10 @@ msgid ""
 " sent with only CC or BCC recipients and no direct 'To' recipients, "
 "improving message visibility and recipient understanding."
 msgstr ""
+"La funzione di Promemoria Visivo visualizza un'etichetta di segnaposto "
+"chiara quando le email vengono inviate con solo destinatari in copia (CC) o "
+"copia nascosta (BCC) e senza destinatari diretti 'A', migliorando la "
+"visibilità del messaggio e la comprensione del destinatario."
 
 #: ../../composing_emails/toc.rst:33
 msgid ""
@@ -6565,22 +6786,30 @@ msgid ""
 "information about recipient types, helping you better understand how "
 "messages were distributed. To identify emails with empty 'To' fields:"
 msgstr ""
+"Questa funzionalità migliora la chiarezza dell'e-mail fornendo informazioni "
+"visive immediate sui tipi di destinatari, aiutandoti a comprendere meglio "
+"come sono stati distribuiti i messaggi. Per identificare le e-mail con campi "
+"'A' vuoti:"
 
 #: ../../composing_emails/toc.rst:36
 msgid "Look for the [Empty 'To' Field] label in your message list"
-msgstr ""
+msgstr "Cerca l'etichetta [Campo 'A' vuoto] nella tua lista dei messaggi"
 
 #: ../../composing_emails/toc.rst:37
 msgid "Open any email showing this placeholder to view details"
 msgstr ""
+"Apri qualsiasi email che mostra questo segnaposto per visualizzare i dettagli"
 
 #: ../../composing_emails/toc.rst:38
 msgid "The same label will appear in the message displayer for confirmation"
 msgstr ""
+"Lo stesso etichetta apparirà nel visualizzatore di messaggi per la conferma"
 
 #: ../../composing_emails/toc.rst:39
 msgid "Use this visual cue to understand the email's recipient distribution"
 msgstr ""
+"Utilizza questo indizio visivo per comprendere la distribuzione dei "
+"destinatari dell'e-mail"
 
 #: ../../composing_emails/toc.rst:42
 msgid "Disabling / Enabling Rich Text Editor"
@@ -7652,10 +7881,13 @@ msgid ""
 "This allows them to view and access the contacts you have stored in your "
 "address book. How to Share a Contact Group and open Contacts:"
 msgstr ""
+"È possibile condividere la rubrica con i colleghi o gli utenti esterni. Ciò "
+"consente loro di visualizzare e accedere ai contatti archiviati. Come "
+"condividere un gruppo di contatti e aprire i contatti:"
 
 #: ../../contacts/toc.rst:202
 msgid "Go to your Contacts section in the app."
-msgstr ""
+msgstr "Vai alla sezione Contatti nell'app."
 
 #: ../../contacts/toc.rst:203
 msgid "Create or Select a Group."
@@ -7664,12 +7896,16 @@ msgstr "Per creare un gruppo di contatti:"
 #: ../../contacts/toc.rst:204
 msgid "To create: click “New Group”, add contacts, and assign it to a folder."
 msgstr ""
+"Per creare: fare clic su \"Nuovo gruppo\", aggiungere i contatti e "
+"assegnarlo a una cartella."
 
 #: ../../contacts/toc.rst:205
 msgid ""
 "To share an existing group: make sure it’s placed in a folder you can "
 "share."
 msgstr ""
+"Per condividere un gruppo esistente: assicurati che sia posizionato in una "
+"cartella che puoi condividere."
 
 #: ../../contacts/toc.rst:206
 msgid "Place Group in a Folder:"
@@ -7678,6 +7914,8 @@ msgstr "Condividere una cartella"
 #: ../../contacts/toc.rst:207
 msgid "Move the group to a specific folder - or create a new one just for it."
 msgstr ""
+"Sposta il gruppo in una cartella specifica - o creane una nuova "
+"appositamente."
 
 #: ../../contacts/toc.rst:208
 msgid "This allows you to share only what’s inside that folder."
@@ -7693,7 +7931,7 @@ msgstr "Fai clic destro sulla cartella che desideri condividere."
 
 #: ../../contacts/toc.rst:211
 msgid "Choose the users and set their permission level:"
-msgstr ""
+msgstr "Scegliere gli utenti e impostare il loro livello di autorizzazione:"
 
 #: ../../contacts/toc.rst:212
 msgid "Can View"
@@ -7701,7 +7939,7 @@ msgstr "Visualizzatore (può visualizzare)"
 
 #: ../../contacts/toc.rst:213
 msgid "Can Edit"
-msgstr ""
+msgstr "Può modificare"
 
 #: ../../contacts/toc.rst:214
 msgid "Confirm Shared Content:"

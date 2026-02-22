@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
-"PO-Revision-Date: 2026-02-22 07:52+0000\n"
+"PO-Revision-Date: 2026-02-23 08:52+0000\n"
 "Last-Translator: Federico Bertola <federico.bertola@studiostorti.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -5355,11 +5355,11 @@ msgstr "URL Formato Libero/Occupato"
 
 #: ../../calendars/toc.rst:307
 msgid "How to Share Free/Busy Status"
-msgstr "Mostrare il Proprio Stato Disponibile/Occupato"
+msgstr "Mostrare il Proprio Stato Libero/Occupato"
 
 #: ../../calendars/toc.rst:309
 msgid "Copy the ICS Free/Busy URL."
-msgstr "Mostrare il Proprio Stato Disponibile/Occupato"
+msgstr "Copia l'URL Disponibile/Occupato in formato ICS."
 
 #: ../../calendars/toc.rst:310
 msgid "Share it with external users."
@@ -6240,7 +6240,7 @@ msgstr "Modifica dettagli di un gruppo"
 
 #: ../../chat/toc.rst:199
 msgid "To edit a group’s name or topic:"
-msgstr "Modifica nome di un gruppo o argomento"
+msgstr "Per cambiare il nome o l'argomento di un gruppo esistente:"
 
 #: ../../chat/toc.rst:201 ../../chat/toc.rst:213 ../../chats/toc.rst:45
 #: ../../chats/toc.rst:58 ../../chats/toc.rst:134 ../../chats/toc.rst:150
@@ -6456,7 +6456,7 @@ msgstr ""
 
 #: ../../chats/toc.rst:7
 msgid "Working with Chats :bdg-secondary:`LEGACY`"
-msgstr "Lavorare con Chats :bdg-primary:`LEGACY`"
+msgstr "Lavorare con Chats :bdg-secondary:`LEGACY`"
 
 #: ../../chats/toc.rst:14
 msgid ""
@@ -6465,7 +6465,7 @@ msgid ""
 "in centralized messaging, facilitating real-time discussions and "
 "enhancing collaborative efforts."
 msgstr ""
-"All'interno del client web di Carbonio, i chat sono uno strumento di "
+"All'interno del client web di |product|, i chat sono uno strumento di "
 "comunicazione fondamentale, in grado di ospitare sia conversazioni tra due "
 "persone che gruppi di conversazione. Gli utenti possono effettuare "
 "conversazioni centralizzate, facilitando discussioni in tempo reale e "
@@ -6711,7 +6711,7 @@ msgid ""
 "attachments, addressing emails, using account personas, etc."
 msgstr ""
 "In questa sezione, scoprirai come navigare nel composers di email di "
-"Carbonio e come utilizzare le sue varie funzionalità, tra cui lavorare con "
+"|product| e come utilizzare le sue varie funzionalità, tra cui lavorare con "
 "allegati, indirizzare email, utilizzare le persone associate agli account, "
 "ecc."
 
@@ -6748,7 +6748,7 @@ msgid ""
 "Choose your email **identity/persona** (if you have more than one) from "
 "the top left corner of the composing board."
 msgstr ""
-"Scegli la tua identità/personalità (se ne hai più di una) dall'angolo in "
+"Scegli la tua **identità/personalità** (se ne hai più di una) dall'angolo in "
 "alto a sinistra della scheda di composizione."
 
 #: ../../composing_emails/toc.rst:21
@@ -6998,7 +6998,7 @@ msgid ""
 "You can attach any file from your computer or |product| Files by using "
 "the **paperclip** icon inside the composing board."
 msgstr ""
-"Puoi allegare qualsiasi file dal tuo computer o da Carbonio Files "
+"Puoi allegare qualsiasi file dal tuo computer o da |product| Files "
 "utilizzando l'icona a **graffetta** all'interno del pannello di composizione."
 
 #: ../../composing_emails/toc.rst:97
@@ -7029,7 +7029,7 @@ msgstr ""
 
 #: ../../composing_emails/toc.rst:105
 msgid "Adding attachment from your |product| Files:"
-msgstr "Per aggiungere un allegato da Carbonio Files:"
+msgstr "Per aggiungere un allegato da |product| Files:"
 
 #: ../../composing_emails/toc.rst:108
 msgid "Select Add from Files."
@@ -7041,7 +7041,7 @@ msgid ""
 "|product| Files."
 msgstr ""
 "Appare una nuova finestra dove puoi selezionare i file desiderati da "
-"Carbonio Files."
+"|product| Files."
 
 #: ../../composing_emails/toc.rst:111
 msgid ""
@@ -7068,6 +7068,7 @@ msgid "Managing Large Attachments"
 msgstr "Gestione di allegati di grandi dimensioni"
 
 #: ../../composing_emails/toc.rst:120
+#, fuzzy
 msgid ""
 "When you want to attach large attachments to an email, you may encounter "
 "some limitations. When you reach the size limit set by your admin for the"
@@ -7080,7 +7081,7 @@ msgstr ""
 "si potrebbero incontrare alcune limitazioni. Quando si raggiunge il limite "
 "di dimensione imposto dall'amministratore per gli allegati, utilizzando "
 "l'opzione \"collegamenti intelligenti\", è possibile convertire ogni "
-"allegato in Smart Links facendo clic sull'icona **paperclip** all'interno "
+"allegato in Smart Links facendo clic sull'icona **graffetta** all'interno "
 "della scheda di composizione e scegliendo l'opzione \"Aggiungi link pubblico "
 "da File\"."
 
@@ -7128,7 +7129,7 @@ msgid ""
 " or persona as the sender of the emails."
 msgstr ""
 "Un'identità email si riferisce alla possibilità di accedere a più account "
-"sul client web di Carbonio, consentendo di scegliere da quale account "
+"sul client web di |product|, consentendo di scegliere da quale account "
 "inviare l'email. In alternativa, se hai configurato un'altra personalità "
 "nelle tue impostazioni, puoi inviare messaggi da essa. In entrambi i casi, "
 "il destinatario vedrà l'indirizzo email o lo username dell'identità o della "
@@ -7298,8 +7299,8 @@ msgid ""
 "To send the email, simply click on the send button located at the top "
 "right corner of the main panel."
 msgstr ""
-"Per inviare l'email, fai clic sul tasto **Invia** nell'angolo superiore "
-"destro del pannello principale."
+"Per inviare l'email, fai clic sul tasto Invia nell'angolo superiore destro "
+"del pannello principale."
 
 #: ../../composing_emails/toc.rst:207
 msgid "Replying to an Email"
@@ -7451,7 +7452,7 @@ msgstr ""
 "organizzato. In questa sezione, ti guideremo attraverso le funzionalità e le "
 "funzioni del modulo Contatti della nostra piattaforma webmail. Sia che tu "
 "stia tenendo traccia di collegamenti personali, reti professionali o "
-"relazioni con i clienti, Carbonio rende facile memorizzare, organizzare e "
+"relazioni con i clienti, |product| rende facile memorizzare, organizzare e "
 "accedere ai tuoi contatti senza sforzo."
 
 #: ../../contacts/toc.rst:16
@@ -7690,7 +7691,7 @@ msgstr "Seleziona il libro indirizzi di destinazione."
 #: ../../contacts/toc.rst:109 ../../contacts/toc.rst:120
 #: ../../files/toc.rst:216
 msgid "Click the **MOVE** button."
-msgstr "Fai clic sul pulsante SPOSTA."
+msgstr "Fai clic sul pulsante **SPOSTA**."
 
 #: ../../contacts/toc.rst:112
 msgid "Moving an Address Book"
@@ -7890,7 +7891,7 @@ msgstr "Vai alla sezione Contatti nell'app."
 
 #: ../../contacts/toc.rst:203
 msgid "Create or Select a Group."
-msgstr "Per creare un gruppo di contatti:"
+msgstr "Creare o Selezionare un Gruppo di Contatti."
 
 #: ../../contacts/toc.rst:204
 msgid "To create: click “New Group”, add contacts, and assign it to a folder."
@@ -7908,7 +7909,7 @@ msgstr ""
 
 #: ../../contacts/toc.rst:206
 msgid "Place Group in a Folder:"
-msgstr "Condividere una cartella"
+msgstr "Posizionare il Gruppo all'interno di una Cartella:"
 
 #: ../../contacts/toc.rst:207
 msgid "Move the group to a specific folder - or create a new one just for it."
@@ -7924,7 +7925,7 @@ msgstr ""
 
 #: ../../contacts/toc.rst:209
 msgid "Share the Folder:"
-msgstr "Condividere una cartella"
+msgstr "Condividi la cartella:"
 
 #: ../../contacts/toc.rst:210
 msgid "Right-click the folder - “Share”."
@@ -8149,7 +8150,7 @@ msgid ""
 "separated values) format to your |product| web client. To do so:"
 msgstr ""
 "Puoi importare un elenco di indirizzi salvato nel computer in formato CSV "
-"nel client web di Carbonio. Per farlo:"
+"(comma-separated values) nel client web di |product|. Per farlo:"
 
 #: ../../contacts/toc.rst:295
 msgid ""
@@ -8209,7 +8210,7 @@ msgstr ""
 
 #: ../../contacts/toc.rst:324
 msgid "Step 1. New Address book"
-msgstr "Per aggiungere un'agenda degli indirizzi:"
+msgstr "Passaggio 1. Nuova Rubrica"
 
 #: ../../contacts/toc.rst:326
 msgid ""
@@ -8236,7 +8237,7 @@ msgstr ""
 
 #: ../../contacts/toc.rst:344
 msgid "Step 3. Select Address Books"
-msgstr "Per eliminare un rubrica di indirizzi:"
+msgstr "Passaggio 3. Seleziona Rubriche"
 
 #: ../../contacts/toc.rst:346
 msgid ""
@@ -8294,7 +8295,7 @@ msgid ""
 "the menu, then click *Update view*. In this way, you force the browser to"
 " reload and update its cache to include the latest changes on **Files**."
 msgstr ""
-"Se utilizzi due o più schede o finestre del browser per accedere a "
+"Se utilizzi due o più schede o finestre del browser per accedere a |product| "
 "**Files**, alcune delle operazioni che esegui in una delle finestre non "
 "saranno immediatamente riflesse nell'altra. Per assicurarti che tutte le "
 "finestre siano sincronizzate, fai clic sull'icona dell'account (l'icona più "
@@ -9125,7 +9126,7 @@ msgid ""
 msgstr ""
 "Copia il collegamento generato facendo clic su di esso. Il collegamento "
 "verrà salvato negli appunti e potrà essere incollato in qualsiasi posizione "
-"facendo clic con il pulsante destro del mouse e selezionando Incolla, o "
+"facendo clic con il pulsante destro del mouse e selezionando **Incolla**, o "
 "utilizzando la scorciatoia da tastiera CTRL+V in Windows o Command+V in Mac."
 
 #: ../../files/toc.rst:360 ../../files/toc.rst:373
@@ -9217,7 +9218,7 @@ msgstr ""
 
 #: ../../files/toc.rst:395
 msgid "**Collaboration links:**"
-msgstr "Link per la collaborazione"
+msgstr "**Link per la collaborazione.**"
 
 #: ../../files/toc.rst:397
 msgid ""
@@ -9337,8 +9338,11 @@ msgid ""
 msgstr ""
 "Copia il link generato facendo clic su di esso. Il collegamento verrà "
 "salvato negli appunti e potrà essere incollato facendo clic con il tasto "
-"destro del mouse e selezionando Incolla, o utilizzando la scorciatoia da "
-"tastiera CTRL+V in Windows o Command+V in Mac."
+"destro del mouse e selezionando **Incolla**, o utilizzando la scorciatoia da "
+"tastiera CTRL+V in Windows o Command+V in Mac. Nella versione attuale, è "
+"possibile generare fino a un massimo di 50 link pubblici per ogni file che "
+"si desidera condividere. In caso di dubbi, contattare l'amministratore di "
+"sistema. Il link pubblico è stato esteso per migliorare la sicurezza."
 
 #: ../../files/toc.rst:447
 msgid "Generating Public Download Links for External Users"
@@ -9422,10 +9426,9 @@ msgid ""
 "access code with your intended recipients"
 msgstr ""
 "Abilita la protezione del codice di accesso durante la creazione di "
-"collegamenti di download pubblici. \n"
-"Visualizza, copia o rigenera il codice di accesso secondo necessità. \n"
-"Condividi sia il collegamento che il codice di accesso con i destinatari "
-"desiderati."
+"collegamenti di download pubblici Visualizza, copia o rigenera il codice di "
+"accesso secondo necessità Condividi sia il collegamento che il codice di "
+"accesso con i destinatari desiderati"
 
 #: ../../files/toc.rst:511
 msgid "For Your Recipients"
@@ -9495,8 +9498,9 @@ msgid "What You'll Be Notified About:"
 msgstr "Di cosa verrai notificato:"
 
 #: ../../files/toc.rst:532
+#, fuzzy
 msgid "New items added to shared folders"
-msgstr "Per aggiungere colleghi a una cartella email condivisa:"
+msgstr "Nuovi elementi aggiunti alle cartelle condivise"
 
 #: ../../files/toc.rst:533
 msgid "Files or folders shared with you"
@@ -9521,12 +9525,13 @@ msgstr ""
 "informati sulle modifiche importanti dei file. Per visualizzare le notifiche:"
 
 #: ../../files/toc.rst:541
+#, fuzzy
 msgid ""
 "Click on the **Notifications** icon located in the top right corner of "
 "the Files module."
 msgstr ""
-"Fai clic su **SALVA** posizionato nell'**angolo in alto a destra** dello "
-"schermo."
+"Fai clic sull'icona **Notifiche** posizionata nell'angolo in alto a destra "
+"del modulo Files."
 
 #: ../../files/toc.rst:542
 msgid ""
@@ -9583,7 +9588,8 @@ msgid ""
 "For the **Files** quota limitation, you should contact your system "
 "administrator."
 msgstr ""
-"Per il limite di quota di Files, contatta il tuo amministratore di sistema."
+"Per superare il limite di quota dei file, è necessario contattare "
+"l'amministratore di sistema."
 
 #: ../../get_started/toc.rst:7
 msgid "Getting Started"
@@ -9601,7 +9607,7 @@ msgid ""
 " other configurations."
 msgstr ""
 "In questa sezione, vedrai i passaggi essenziali per accedere al client web "
-"di Carbonio. L'accesso corretto è il primo passo per l'utilizzo della tua "
+"di |product|. L'accesso corretto è il primo passo per l'utilizzo della tua "
 "casella di posta e delle varie funzionalità offerte dalla piattaforma. "
 "Copriremo tutto, dall'accesso all'autenticazione a due fattori (2FA) e "
 "l'utilizzo della funzionalità SAML. Inoltre scoprirai come effettuare la "
@@ -9618,7 +9624,7 @@ msgid ""
 " can be easily accomplished by navigating to your company's webmail "
 "address via your browser. To do so, you can simply follow these steps:"
 msgstr ""
-"Per accedere al client web di Carbonio, il primo passo è effettuare "
+"Per accedere al client web di |product|, il primo passo è effettuare "
 "l'accesso. Per fare ciò, accedi all'indirizzo webmail della tua azienda "
 "tramite il browser. Segui questi passaggi:"
 
@@ -9715,11 +9721,11 @@ msgstr ""
 
 #: ../../get_started/toc.rst:39
 msgid "1. Accessing 2FA Settings"
-msgstr "Per accedere alle impostazioni:"
+msgstr "1. Accesso alle impostazioni 2FA"
 
 #: ../../get_started/toc.rst:41
 msgid "Click the **gear icon** in the left sidebar of your webmail interface."
-msgstr "Clicca sull'icona dell'ingranaggio nella barra laterale sinistra."
+msgstr "Clicca sull'**icona dell'ingranaggio** nella barra laterale sinistra."
 
 #: ../../get_started/toc.rst:42
 msgid "Navigate to the **Auth** section."
@@ -9731,13 +9737,13 @@ msgstr "Apri **Autenticazione OTP** e clicca su **NUOVO OTP**."
 
 #: ../../get_started/toc.rst:46
 msgid "2. Creating an OTP"
-msgstr "Per creare un'autenticazione OTP:"
+msgstr "2. Creare un OTP"
 
 #: ../../get_started/toc.rst:48
 msgid "Insert a **label** to identify the new OTP (e.g., ``myOTP1``)."
 msgstr ""
 "Inserisci un **Etichetta OTP** per aiutarti a ricordare a cosa è associato "
-"questo OTP (ad esempio, “ilMioTelefonoSamsung”)."
+"questo OTP (ad esempio, ``ilMioTelefonoSamsung``)."
 
 #: ../../get_started/toc.rst:49
 msgid "Click **CREATE PASSWORD**."
@@ -9753,7 +9759,8 @@ msgstr ""
 
 #: ../../get_started/toc.rst:52
 msgid "**Option A:** Scanning a **QR code** with an authenticator app."
-msgstr "Apri l'app Google Authenticator"
+msgstr ""
+"**Opzione A:** Apri l'app di autenticazione per scansionare il **codice QR**."
 
 #: ../../get_started/toc.rst:53
 msgid "**Option B:** Generating **PIN codes** for manual authentication."
@@ -9779,7 +9786,9 @@ msgstr "Apri l'app Google Authenticator"
 msgid ""
 "Install a supported authenticator app (e.g., **Google Authenticator** or "
 "**MS auth**) on your mobile device."
-msgstr "Installa l'app Google Authenticator sul tuo dispositivo mobile"
+msgstr ""
+"Installa l'app Google Authenticator  (es., **Google Authenticator** o **MS "
+"Authenticator**) sul tuo dispositivo mobile."
 
 #: ../../get_started/toc.rst:62
 msgid "Open the app and press the **+** button."
@@ -9788,16 +9797,15 @@ msgstr "Apri l'app e premi il pulsante \"+\" nell'angolo in basso a destra."
 #: ../../get_started/toc.rst:63
 msgid "Scan the **QR code** displayed in your webmail."
 msgstr ""
-"Utilizza l'app per scansionare il codice QR visualizzato sullo schermo del "
-"computer"
+"Utilizza l'app per scansionare il **codice QR** visualizzato nella webmail."
 
 #: ../../get_started/toc.rst:64
 msgid ""
 "The app will create an entry that generates a **temporary verification "
 "code**, refreshed every 30 seconds."
 msgstr ""
-"Ciò crea un'istanza nell'app che genera un codice temporaneo, che si "
-"aggiorna ogni 30 secondi."
+"L'app genera un **codice di verifica temporaneo**, che si aggiorna ogni 30 "
+"secondi."
 
 #: ../../get_started/toc.rst:67
 msgid "4. Option B — Using PIN Codes"
@@ -9829,7 +9837,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:75
 msgid "5. Logging In with 2FA"
-msgstr "Accesso con 2FA:"
+msgstr "5. Accesso con Autenticazione a Due Fattori"
 
 #: ../../get_started/toc.rst:77
 msgid "Once 2FA is configured, follow these steps at each login:"
@@ -9837,7 +9845,7 @@ msgstr "Per contrassegnare un'email come non letta, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:79
 msgid "> Enter your username and password;"
-msgstr "> Inserisci il tuo **nome utente** e la tua **password**;"
+msgstr "> Inserisci il tuo nome utente e la tua password;"
 
 #: ../../get_started/toc.rst:81
 msgid ""
@@ -9855,11 +9863,12 @@ msgstr ""
 
 #: ../../get_started/toc.rst:85
 msgid "> Insert the verification code or PIN into the login form;"
-msgstr "> Inserisci il **codice** dell'app sulla tua pagina di accesso;"
+msgstr "> Inserisci il codice o il PIN sulla tua pagina di accesso;"
 
 #: ../../get_started/toc.rst:87
+#, fuzzy
 msgid "> Click LOGIN."
-msgstr "Fai clic su **ENTRA**."
+msgstr "> Premi il pulsante di accesso."
 
 #: ../../get_started/toc.rst:91
 msgid "Using SAML to Sign In"
@@ -9884,7 +9893,7 @@ msgid ""
 "|product| account:"
 msgstr ""
 "Hai due modi per utilizzare la funzionalità SAML per accedere al tuo account "
-"Carbonio:"
+"|product|:"
 
 #: ../../get_started/toc.rst:97
 msgid "First Flow:"
@@ -9893,7 +9902,7 @@ msgstr "Primo modo:"
 #: ../../get_started/toc.rst:99
 msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
 msgstr ""
-"Nella pagina di login a Carbonio webmail, cerca il tasto **LOGIN SAML**."
+"Nella pagina di login a |product| webmail, cerca il tasto **LOGIN SAML**."
 
 #: ../../get_started/toc.rst:100
 msgid "Click it, and it will automatically sign you into your webmail."
@@ -9952,7 +9961,7 @@ msgid ""
 "sign out when you are away from your computer. Here are two "
 "straightforward methods to log out:"
 msgstr ""
-"Per garantire la sicurezza del tuo account, è essenziale disconnettersi "
+"Per garantire la sicurezza di |product| webmail, è essenziale disconnettersi "
 "quando ti allontani dal computer. Ecco due metodi semplici per uscire:"
 
 #: ../../get_started/toc.rst:116
@@ -10070,6 +10079,7 @@ msgstr ""
 "verrà inviato all'indirizzo email di recupero."
 
 #: ../../get_started/toc.rst:151
+#, fuzzy
 msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
 msgstr ""
 "Copia e incolla, quindi clicca sul tasto :bdg-primary:`CONVALIDA CODICE`."
@@ -10150,7 +10160,7 @@ msgstr "Fai clic sul tasto **CAMBIA PASSWORD**."
 
 #: ../../get_started/toc.rst:177
 msgid "Introduction of |product| Web Client"
-msgstr "Introduzione a Carbonio Web Client"
+msgstr "Introduzione a |product| Webmail"
 
 #: ../../get_started/toc.rst:179
 msgid ""
@@ -10196,7 +10206,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:191
 msgid "Using Browser Buttons to Navigate |product|"
-msgstr "Usare i Comandi del Browser per Navigare Carbonio"
+msgstr "Usare i Comandi del Browser per Navigare |product|"
 
 #: ../../get_started/toc.rst:193
 msgid ""
@@ -10217,7 +10227,7 @@ msgid ""
 "previous page you were viewing on |product|."
 msgstr ""
 "**Tasto Indietro**: puoi utilizzare il tasto indietro del tuo browser per "
-"tornare alla pagina precedente che stavi visualizzando su Carbonio."
+"tornare alla pagina precedente che stavi visualizzando su |product|."
 
 #: ../../get_started/toc.rst:196
 msgid ""
@@ -10252,7 +10262,7 @@ msgid ""
 "access it, simply click the gear icon on the left sidebar, and then "
 "select **General Settings**."
 msgstr ""
-"Prima di iniziare ad utilizzare il client web di Carbonio, prenditi un "
+"Prima di iniziare ad utilizzare il client web di |product|, prenditi un "
 "momento per personalizzare il tuo account. Ad esempio puoi personalizzare "
 "aspetti visivi come il tema. La maggior parte di queste opzioni è facilmente "
 "accessibile nel menu **Impostazioni**. Fai clic sull'icona dell'ingranaggio "
@@ -10268,9 +10278,9 @@ msgid ""
 " appearance. Currently, there are **two themes** available: **Dark mode**"
 " and **Light mode**. Here is how you can manage them:"
 msgstr ""
-"Un tema nel client web di Carbonio definisce lo schema dei colori utilizzato "
-"per il suo aspetto. Attualmente sono disponibili **due temi**: **Tema "
-"scuro** e **Tema chiaro**. Ecco come puoi gestirli:"
+"Un tema nel client web di |product| definisce lo schema dei colori "
+"utilizzato per il suo aspetto. Attualmente sono disponibili **due temi**: "
+"**Tema scuro** e **Tema chiaro**. Ecco come puoi gestirli:"
 
 #: ../../get_started/toc.rst:210
 msgid "To **activate Dark mode**, follow these steps:"
@@ -10312,19 +10322,19 @@ msgid ""
 "If you choose **Auto**, |product| will adapt to your **operating system’s"
 " default theme**. For example:"
 msgstr ""
-"Se scegli **Auto**, Carbonio si adatterà al **tema predefinito del tuo "
+"Se scegli **Auto**, |product| si adatterà al **tema predefinito del tuo "
 "sistema operativo**. Ad esempio:"
 
 #: ../../get_started/toc.rst:224
 msgid "If your OS theme is dark, |product| will also be in dark mode."
 msgstr ""
-"Se il tema del tuo sistema operativo è scuro, anche Carbonio sarà in "
+"Se il tema del tuo sistema operativo è scuro, anche |product| sarà in "
 "modalità scura."
 
 #: ../../get_started/toc.rst:225
 msgid "If your OS theme is light, |product| will match that as well."
 msgstr ""
-"Se il tema del tuo sistema operativo è chiaro, Carbonio si adatterà di "
+"Se il tema del tuo sistema operativo è chiaro, |product| si adatterà di "
 "conseguenza."
 
 #: ../../get_started/toc.rst:233
@@ -10336,7 +10346,7 @@ msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
 msgstr ""
-"Puoi modificare la dimensione del carattere di Carbonio in base alle tue "
+"Puoi modificare la dimensione del carattere di |product| in base alle tue "
 "preferenze. Per modificare la dimensione del carattere segui questi passaggi:"
 
 #: ../../get_started/toc.rst:237 ../../get_started/toc.rst:256
@@ -10399,7 +10409,7 @@ msgid ""
 " collaborating with colleagues across different countries and time zones."
 " To change your time zone, follow these steps:"
 msgstr ""
-"Carbonio si affida alle impostazioni precise del fuso orario per garantire "
+"|product| si affida alle impostazioni precise del fuso orario per garantire "
 "prestazioni ottimali per i calendari e altre funzionalità come le email, "
 "garantendo un tracciamento dei tempi accurato. Ciò diventa particolarmente "
 "importante quando si collabora con colleghi in diversi paesi e fusi orari. "
@@ -10419,19 +10429,21 @@ msgstr "Fai clic su **SALVA** nell'angolo in alto a destra."
 
 #: ../../get_started/toc.rst:267
 msgid "Changing |product| Language"
-msgstr "Cambiare la Lingua di Carbonio"
+msgstr "Cambiare la Lingua di |product|"
 
 #: ../../get_started/toc.rst:269
 msgid "To change your |product| web client language, follow these steps:"
 msgstr ""
-"Per cambiare la lingua del client web di Carbonio, segui questi passaggi:"
+"Per cambiare la lingua del client web di |product|, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:273
+#, fuzzy
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Language** and choose your language."
 msgstr ""
-"Nella sezione **Lingua** clicca il menu a tendina e scegli la tua lingua."
+"Nell'area **Impostazioni di base**, seleziona la lingua desiderata dal menu "
+"a discesa **Lingua** nella sezione **Fuso orario e lingua**."
 
 #: ../../get_started/toc.rst:277
 msgid "Accessing Multiple Accounts"
@@ -10447,7 +10459,7 @@ msgid ""
 "can add these accounts and grant you access** to manage them via your "
 "main account."
 msgstr ""
-"Nel client web di Carbonio puoi avere accesso a più account. Ad esempio, "
+"Nel client web di |product| puoi avere accesso a più account. Ad esempio, "
 "potresti avere un account personale e due account aggiuntivi creati per le "
 "attività di Risorse Umane e la Comunicazione esterna, chiamati "
 "\"hr@example.com\" e \"info@example.com\". **Solo l'amministratore di "
@@ -10470,7 +10482,7 @@ msgstr ""
 
 #: ../../index.rst:12
 msgid "Welcome to |product| User Documentation!"
-msgstr "Benvenuti nella Documentazione Utente di |Carbonio|!"
+msgstr "Benvenuti nella Documentazione Utente di |product|!"
 
 #: ../../index.rst:15
 msgid ""
@@ -10496,7 +10508,7 @@ msgstr "Calendari e Produttività"
 
 #: ../../index.rst:61
 msgid "Files & Collaboration"
-msgstr "**Collaborazione:**"
+msgstr "Files & Collaboration"
 
 #: ../../index.rst:71
 msgid "Communication"
@@ -10517,9 +10529,10 @@ msgid ""
 "dates, time, URL, size, tags, read status, and file attachments. There "
 "are two types of searches available:"
 msgstr ""
-"La ricerca consente di trovare email, contatti, appuntamenti e file "
-"utilizzando criteri specifici come parole, date, orario, URL, dimensione, "
-"tag, stato di lettura e allegati. Sono disponibili due tipi di ricerca:"
+"La ricerca nella webmail di |product| consente di trovare email, contatti, "
+"appuntamenti e file utilizzando criteri specifici come parole, date, orario, "
+"URL, dimensione, tag, stato di lettura e allegati. Sono disponibili due tipi "
+"di ricerca:"
 
 #: ../../search/toc.rst:11
 msgid ""
@@ -10550,7 +10563,7 @@ msgid ""
 "your data within the |product| web client."
 msgstr ""
 "Queste funzionalità di ricerca aiutano a localizzare e gestire i dati "
-"efficacemente nel client web di Carbonio."
+"efficacemente nel client web di |product|."
 
 #: ../../search/toc.rst:18
 msgid "Using Quick Search for Different Items"
@@ -10633,8 +10646,7 @@ msgstr ""
 #: ../../search/toc.rst:46
 msgid "Click on **ADVANCED FILTERS** on the left side. A new window appears."
 msgstr ""
-"Clicca su ** FILTRI AVANZATI** sul lato sinistro. Apparirà una nuova "
-"finestra."
+"Clicca su **FILTRI AVANZATI** sul lato sinistro. Apparirà una nuova finestra."
 
 #: ../../search/toc.rst:47
 msgid "Select different filters to refine your search results."
@@ -10919,7 +10931,7 @@ msgstr "**È**: Cerca messaggi con uno stato specifico. Ad esempio: è:non_letto
 
 #: ../../search/toc.rst:104
 msgid "**Date**: Specifies a date. Example: date:02/20/2024."
-msgstr "**Data**: Specifica una data. Esempio: data:20/02/2024."
+msgstr "**Data**: Specifica una data. Esempio: date:20/02/2024."
 
 #: ../../search/toc.rst:105
 msgid ""
@@ -10994,7 +11006,7 @@ msgid ""
 msgstr ""
 "Gli impegni sono una parte integrante di qualsiasi flusso di lavoro "
 "organizzato, sia che si tratti di gestire attività personali o di coordinare "
-"compiti di team. Carbonio Tasks ti aiuterà a organizzare il tuo lavoro e a "
+"compiti di team. |product| Tasks ti aiuterà a organizzare il tuo lavoro e a "
 "gestirlo facilmente."
 
 #: ../../tasks/toc.rst:16
@@ -11034,7 +11046,7 @@ msgid ""
 "time, toggle the **Enable reminder** option and select your preferred "
 "reminder time."
 msgstr ""
-"Se vuoi che Carbonio ti ricordi quest'attività in un momento specifico, "
+"Se vuoi che |product| ti ricordi quest'attività in un momento specifico, "
 "attiva l'opzione **Abilita promemoria** e seleziona l'orario desiderato per "
 "il promemoria."
 
@@ -11120,7 +11132,7 @@ msgid ""
 "effortlessly start or join meetings, share screens, and record sessions, "
 "ensuring effective and streamlined collaboration."
 msgstr ""
-"In Carbonio, le riunioni in video sono uno strumento essenziale per "
+"In |product|, le riunioni in video sono uno strumento essenziale per "
 "abilitare una collaborazione virtuale senza problemi. Sia per le "
 "conversazioni individuali che per le sessioni di gruppo, offrono uno spazio "
 "per interazioni faccia a faccia, promuovendo la comunicazione in tempo reale "
@@ -11140,7 +11152,7 @@ msgid ""
 "topics you want to discuss so that the attendees are informed about the "
 "meeting agenda."
 msgstr ""
-"Ogni persona con un account su Carbonio può creare stanze virtuali. Le "
+"Ogni persona con un account su |product| può creare stanze virtuali. Le "
 "stanze virtuali sono spazi condivisi in cui puoi tenere riunioni in "
 "videoconferenza e partecipare a conversazioni tramite chat. Puoi crearle in "
 "base a diversi argomenti che desideri discutere in modo che i partecipanti "
@@ -11156,7 +11168,7 @@ msgstr "Per creare una nuova stanza:"
 #: ../../videomeeting/toc.rst:115 ../../videomeeting/toc.rst:246
 #: ../../videomeetings/toc.rst:23 ../../videomeetings/toc.rst:212
 msgid "Select the Chats feature from your left sidebar."
-msgstr "Seleziona la funzione di **Chat** dalla barra laterale sinistra."
+msgstr "Seleziona la funzione di Chat dalla barra laterale sinistra."
 
 #: ../../videomeeting/toc.rst:23
 msgid ""
@@ -11221,7 +11233,7 @@ msgid ""
 "distinguish which of them are internal and which are external, marked as "
 "“Guest”."
 msgstr ""
-"Ogni persona con un account su Carbonio può creare stanze virtuali. È "
+"Ogni persona con un account su |product| può creare stanze virtuali. È "
 "possibile utilizzare la propria stanza per invitare altri a riunioni, che "
 "siano colleghi con account sullo stesso sistema o utenti esterni. "
 "Nell'elenco dei partecipanti alla riunione video, sarà possibile distinguere "
@@ -11319,8 +11331,9 @@ msgid "Edit the room’s name and moderators."
 msgstr "Modifica il messaggio e premi invio."
 
 #: ../../videomeeting/toc.rst:74
+#, fuzzy
 msgid "Click the button EDIT to save the changes."
-msgstr "Fai clic sul pulsante **+** per aggiungerli tutti."
+msgstr "Clicca su MODIFICA per confermare e salvare le modifiche effettuate."
 
 #: ../../videomeeting/toc.rst:78
 msgid "Entering A Virtual Room"
@@ -11482,24 +11495,27 @@ msgstr "Quando sei in una riunione video e desideri registrarla:"
 #: ../../videomeeting/toc.rst:143
 msgid "Click the **arrow button** on the left side to open the chat box."
 msgstr ""
-"Clicca sul pulsante con la freccia sul lato sinistro per aprire la finestra "
-"di chat."
+"Clicca sul **pulsante con la freccia** sul lato sinistro per aprire la "
+"finestra di chat."
 
 #: ../../videomeeting/toc.rst:144
 msgid ""
 "In the chat box, click the **downward arrow** next to the *Recording* "
 "section at the top."
 msgstr ""
-"Clicca sulla freccia rivolta verso il basso accanto alla sezione "
-"Registrazione posizionata in alto nella casella di chat."
+"Clicca sulla **freccia rivolta verso il basso** accanto alla sezione "
+"*Registrazione* posizionata in alto nella casella di chat."
 
 #: ../../videomeeting/toc.rst:145
 msgid "Click **START RECORDING** to begin recording."
-msgstr "Fai clic su REGISTRA."
+msgstr "Fai clic su *INIZA* per iniziare a registrare."
 
 #: ../../videomeeting/toc.rst:146
+#, fuzzy
 msgid "To stop the recording, click **STOP RECORDING**."
-msgstr "Nella sezione **Registrazione**, fare clic su **AVVIA**."
+msgstr ""
+"Per terminare la registrazione, cliccare sul pulsante **INTERROMPI "
+"REGISTRAZIONE**."
 
 #: ../../videomeeting/toc.rst:148
 msgid ""
@@ -11512,8 +11528,11 @@ msgstr ""
 "salvato nei *File* della persona che ha avviato la registrazione."
 
 #: ../../videomeeting/toc.rst:149
+#, fuzzy
 msgid "A popup will appear asking you to enter a **name for the recording file**."
-msgstr "Si aprirà una nuova finestra. Inserisci un nome per la nuova etichetta."
+msgstr ""
+"Un popup si aprirà chiedendoti di inserire un **nome per il file di "
+"registrazione**."
 
 #: ../../videomeeting/toc.rst:152
 msgid ""
@@ -11726,16 +11745,16 @@ msgstr ""
 "efficaci della coda."
 
 #: ../../videomeeting/toc.rst:224
+#, fuzzy
 msgid "To activate the Raise Hand feature during a video meeting:"
-msgstr ""
-"Passaggio tra Visualizzazione a Griglia e Visualizzazione Cinema Durante una "
-"Riunione in Video"
+msgstr "Attivazione della funzione Alza la mano durante una riunione virtuale"
 
 #: ../../videomeeting/toc.rst:226
+#, fuzzy
 msgid "Click the hand icon on the bottom bar inside the meeting room."
 msgstr ""
-"Fai clic sull'icona dell'**ingranaggio** nel menu a sinistra per accedere "
-"alle impostazioni."
+"Fai clic sull'icona della mano nella barra inferiore all'interno della sala "
+"riunioni."
 
 #: ../../videomeeting/toc.rst:227
 msgid "When you will start speaking, your hand will be automatically lowered."
@@ -11811,7 +11830,7 @@ msgstr ""
 
 #: ../../videomeeting/toc.rst:249
 msgid "Click DELETE to confirm."
-msgstr "Fai clic su **ELIMINA** per confermare."
+msgstr "Fai clic su ELIMINA per confermare."
 
 #: ../../videomeeting/toc.rst:252 ../../videomeetings/toc.rst:208
 msgid "Adding Moderators to a Room"
@@ -11827,7 +11846,7 @@ msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #: ../../videomeetings/toc.rst:7
 msgid "Working with Video Meetings :bdg-secondary:`LEGACY`"
-msgstr "Usare i Video Meeting :bdg-info:`LEGACY`"
+msgstr "Usare i Video Meeting :bdg-secondary:`LEGACY`"
 
 #: ../../videomeetings/toc.rst:13
 msgid ""
@@ -11837,11 +11856,11 @@ msgid ""
 "for face-to-face interaction, fostering real-time communication and "
 "enhancing teamwork."
 msgstr ""
-"In Carbonio, le video-riunioni svolgono un ruolo fondamentale per facilitare "
-"la collaborazione digitale. Sia che si tratti di condurre discussioni 1 a 1 "
-"o di ospitare riunioni di gruppo, le video-riunioni offrono una piattaforma "
-"per l'interazione faccia a faccia, favoriscono la comunicazione in tempo "
-"reale e migliorano il lavoro di squadra."
+"In |product|, le video-riunioni svolgono un ruolo fondamentale per "
+"facilitare la collaborazione digitale. Sia che si tratti di condurre "
+"discussioni 1 a 1 o di ospitare riunioni di gruppo, le video-riunioni "
+"offrono una piattaforma per l'interazione faccia a faccia, favoriscono la "
+"comunicazione in tempo reale e migliorano il lavoro di squadra."
 
 #: ../../videomeetings/toc.rst:15
 msgid ""
@@ -11862,7 +11881,7 @@ msgid ""
 "with accounts on the same system or external users. To access and enter "
 "your personal room, follow these steps:"
 msgstr ""
-"Ogni persona con un account su Carbonio ha una stanza personale. Puoi "
+"Ogni persona con un account su |product| ha una stanza personale. Puoi "
 "utilizzare la tua stanza per invitare altri a riunioni, siano essi colleghi "
 "con account sullo stesso sistema o utenti esterni. Per accedere alla tua "
 "stanza personale, segui questi passaggi:"
@@ -11906,7 +11925,7 @@ msgid ""
 msgstr ""
 "Ciò copierà il link di accesso alla stanza. Puoi incollarlo ovunque (ad "
 "esempio in una chat) facendo clic con il pulsante destro e selezionando "
-"Incolla, o utilizzando la scorciatoia da tastiera CTRL+V su Windows o "
+"**Incolla**, o utilizzando la scorciatoia da tastiera CTRL+V su Windows o "
 "command+V su Mac. In alternativa, puoi entrare nella tua stanza e copiare "
 "l'URL della pagina dalla barra degli indirizzi del browser, quindi inviarlo "
 "ai tuoi colleghi."
@@ -12035,7 +12054,7 @@ msgid ""
 msgstr ""
 "Ciò copierà il link di accesso alla tua stanza negli appunti. Potrai "
 "incollarlo ovunque (ad esempio in una chat) facendo clic destro e "
-"selezionando Incolla, oppure utilizzando il taglio keyboard CTRL+V su "
+"selezionando **Incolla**, oppure utilizzando il taglio keyboard CTRL+V su "
 "Windows o command+V su macOS."
 
 #: ../../videomeetings/toc.rst:92
@@ -12055,7 +12074,7 @@ msgid ""
 msgstr ""
 "Ciò copierà il link di accesso alla tua stanza negli appunti. Potrai "
 "incollarlo ovunque (ad esempio in una chat) facendo clic destro e "
-"selezionando Incolla, oppure utilizzando il taglio keyboard CTRL+V su "
+"selezionando **Incolla**, oppure utilizzando il taglio keyboard CTRL+V su "
 "Windows o command+V su macOS."
 
 #: ../../videomeetings/toc.rst:112
@@ -12107,6 +12126,7 @@ msgstr ""
 "inviare loro il link per accedere alla stanza."
 
 #: ../../videomeetings/toc.rst:130
+#, fuzzy
 msgid ""
 "Here is how: #.      Click the blue button in the bottom left corner to "
 "open the chat box. #.      Click the \"i\" icon located at the top right "

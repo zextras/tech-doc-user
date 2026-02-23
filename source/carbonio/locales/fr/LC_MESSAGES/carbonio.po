@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
-"PO-Revision-Date: 2025-06-26 09:54+0000\n"
+"PO-Revision-Date: 2026-02-18 16:08+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Language-Team: French <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -7189,8 +7189,7 @@ msgstr "Cliquez sur le bouton **TELEVERSION**. Une nouvelle fenêtre s'ouvre."
 #: ../../files/toc.rst:272
 msgid "Choose the new version of the file from the opened window."
 msgstr ""
-"Sélectionnez la nouvelle version du fichier à partir de la fenêtre "
-"ouverte."
+"Sélectionnez la nouvelle version du fichier à partir de la fenêtre ouverte."
 
 #: ../../files/toc.rst:276
 msgid "Restore a File to a Previous Version"
@@ -8439,7 +8438,7 @@ msgstr ""
 
 #: ../../index.rst:82
 msgid "Legacy modules"
-msgstr ""
+msgstr "Modules hérités"
 
 #: ../../search/toc.rst:7
 msgid "Working with Search"
@@ -9201,20 +9200,26 @@ msgstr ""
 #: ../../videomeeting/toc.rst:143
 msgid "Click the **arrow button** on the left side to open the chat box."
 msgstr ""
+"Cliquez sur le **bouton de flèche** sur le côté gauche pour ouvrir la boîte "
+"de chat."
 
 #: ../../videomeeting/toc.rst:144
 msgid ""
 "In the chat box, click the **downward arrow** next to the *Recording* "
 "section at the top."
 msgstr ""
+"Dans la boîte de chat, cliquez sur la **flèche descendante** à côté de la "
+"section *Enregistrement* en haut."
 
 #: ../../videomeeting/toc.rst:145
 msgid "Click **START RECORDING** to begin recording."
 msgstr ""
+"Cliquez sur **DÉMARRER L'ENREGISTREMENT** pour commencer l'enregistrement."
 
 #: ../../videomeeting/toc.rst:146
 msgid "To stop the recording, click **STOP RECORDING**."
 msgstr ""
+"Pour arrêter l'enregistrement, cliquez sur **ARRÊTER L'ENREGISTREMENT**."
 
 #: ../../videomeeting/toc.rst:148
 msgid ""
@@ -9222,10 +9227,15 @@ msgid ""
 "another **moderator**, the file will always be saved into the *Files* of "
 "the person who started the recording."
 msgstr ""
+"Que l'enregistrement soit arrêté par la personne qui l'a démarré ou par un "
+"autre **modérateur**, le fichier sera toujours enregistré dans les "
+"*Fichiers* de la personne qui a démarré l'enregistrement."
 
 #: ../../videomeeting/toc.rst:149
 msgid "A popup will appear asking you to enter a **name for the recording file**."
 msgstr ""
+"Une fenêtre contextuelle apparaîtra pour vous demander d'entrer un **nom "
+"pour le fichier d'enregistrement**."
 
 #: ../../videomeeting/toc.rst:152
 msgid ""
@@ -9245,7 +9255,7 @@ msgid ""
 "recording) leave the meeting, the system will automatically stop the "
 "recording and save the file in the *Files* of the person who clicked "
 "**START RECORDING**."
-msgstr ""
+msgstr "Si tous les participants à la réunion (y compris la personne qui"
 
 #: ../../videomeeting/toc.rst:140 ../../videomeetings/toc.rst:126
 msgid "Adding New Members to a Video Meeting"
@@ -10075,4 +10085,3 @@ msgstr ""
 #~ " the link to view and download "
 #~ "the content of the file or folder."
 #~ msgstr ""
-

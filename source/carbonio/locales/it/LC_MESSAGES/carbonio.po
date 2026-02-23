@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-04 09:56+0100\n"
-"PO-Revision-Date: 2026-02-23 08:52+0000\n"
-"Last-Translator: Federico Bertola <federico.bertola@studiostorti.com>\n"
+"PO-Revision-Date: 2026-02-24 16:52+0000\n"
+"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -9498,7 +9498,6 @@ msgid "What You'll Be Notified About:"
 msgstr "Di cosa verrai notificato:"
 
 #: ../../files/toc.rst:532
-#, fuzzy
 msgid "New items added to shared folders"
 msgstr "Nuovi elementi aggiunti alle cartelle condivise"
 
@@ -9866,7 +9865,6 @@ msgid "> Insert the verification code or PIN into the login form;"
 msgstr "> Inserisci il codice o il PIN sulla tua pagina di accesso;"
 
 #: ../../get_started/toc.rst:87
-#, fuzzy
 msgid "> Click LOGIN."
 msgstr "> Premi il pulsante di accesso."
 
@@ -11511,11 +11509,8 @@ msgid "Click **START RECORDING** to begin recording."
 msgstr "Fai clic su *INIZA* per iniziare a registrare."
 
 #: ../../videomeeting/toc.rst:146
-#, fuzzy
 msgid "To stop the recording, click **STOP RECORDING**."
-msgstr ""
-"Per terminare la registrazione, cliccare sul pulsante **INTERROMPI "
-"REGISTRAZIONE**."
+msgstr "Per terminare la registrazione, cliccare sul pulsante **FINE**."
 
 #: ../../videomeeting/toc.rst:148
 msgid ""

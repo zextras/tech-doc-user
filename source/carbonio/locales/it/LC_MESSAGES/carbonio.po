@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-27 18:22+0100\n"
-"PO-Revision-Date: 2026-02-27 17:14+0000\n"
-"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
+"PO-Revision-Date: 2026-02-27 17:31+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -10345,7 +10345,6 @@ msgid "Mobile Apps"
 msgstr "App Mobile"
 
 #: ../../mobile_apps/chat_app.rst:7
-#, fuzzy
 msgid "Carbonio Chats App"
 msgstr "Contatti"
 
@@ -10699,7 +10698,6 @@ msgid "Open a 1-to-1 chat with the colleague."
 msgstr "Apri una chat 1-to-1 con il collega."
 
 #: ../../mobile_apps/chat_app.rst:176
-#, fuzzy
 msgid "Tap the camera icon to start a video call."
 msgstr "Tocca l'icona della fotocamera per avviare una videochiamata."
 
@@ -10720,7 +10718,6 @@ msgid "Select **Delete Room**."
 msgstr "Seleziona la scheda **Stanze**."
 
 #: ../../mobile_apps/files_app.rst:7
-#, fuzzy
 msgid "Carbonio Files App"
 msgstr "Lavorare su Files"
 
@@ -10958,7 +10955,6 @@ msgstr ""
 "hamburger) dallo schermo principale di Posta e toccare **Impostazioni**."
 
 #: ../../mobile_apps/mail_app.rst:18
-#, fuzzy
 msgid "Information"
 msgstr "Informazioni"
 
@@ -10995,7 +10991,6 @@ msgid "**Log out** Sign out from the current account."
 msgstr "**Disconnetti** Esci dall'account corrente."
 
 #: ../../mobile_apps/mail_app.rst:34
-#, fuzzy
 msgid "Settings"
 msgstr "Impostazioni"
 
@@ -11055,7 +11050,6 @@ msgstr ""
 "le cartelle della casella di posta."
 
 #: ../../mobile_apps/mail_app.rst:56
-#, fuzzy
 msgid "Mailbox Quota and Version"
 msgstr "### Quote della casella di posta e versione"
 
@@ -15144,4 +15138,3 @@ msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #~ msgid "Select **Reset link**."
 #~ msgstr "Seleziona **Auth**."
-

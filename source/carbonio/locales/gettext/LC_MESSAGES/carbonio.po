@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-04 09:56+0100\n"
-"PO-Revision-Date: 2026-02-19 16:52+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"POT-Creation-Date: 2026-02-27 18:22+0100\n"
+"PO-Revision-Date: 2026-02-27 17:46+0000\n"
+"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/gettext/>\n"
 "Language: gettext\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.15.1\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
 msgid "Advanced Email Management"
@@ -558,8 +558,7 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:211 ../../chat/toc.rst:25
-#: ../../chats/toc.rst:27 ../../chats/toc.rst:139 ../../files/toc.rst:35
-#: ../../files/toc.rst:45 ../../tasks/toc.rst:26 ../../videomeetings/toc.rst:51
+#: ../../files/toc.rst:35 ../../files/toc.rst:45 ../../tasks/toc.rst:26
 msgid "Click **CREATE**."
 msgstr ""
 
@@ -1535,7 +1534,7 @@ msgstr ""
 msgid "The sender must have the recipient’s public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:632
+#: ../../advanced_email_management/toc.rst:626
 msgid "Email Encryption"
 msgstr ""
 
@@ -1895,7 +1894,7 @@ msgstr ""
 
 #: ../../appointments/toc.rst:83 ../../appointments/toc.rst:119
 #: ../../appointments/toc.rst:130 ../../appointments/toc.rst:141
-#: ../../chat/toc.rst:80 ../../chats/toc.rst:73 ../../tasks/toc.rst:39
+#: ../../chat/toc.rst:80 ../../tasks/toc.rst:39
 msgid "Select **Edit** from the drop-down menu."
 msgstr ""
 
@@ -1920,7 +1919,6 @@ msgid "To forward an existing appointment:"
 msgstr ""
 
 #: ../../appointments/toc.rst:94 ../../chat/toc.rst:109 ../../chat/toc.rst:117
-#: ../../chats/toc.rst:93
 msgid "Select **Forward** from the drop-down menu."
 msgstr ""
 
@@ -1947,8 +1945,8 @@ msgstr ""
 msgid "Right-click on the appointment displayed on your timetable."
 msgstr ""
 
-#: ../../appointments/toc.rst:105 ../../chats/toc.rst:103
-#: ../../files/toc.rst:100 ../../tasks/toc.rst:50
+#: ../../appointments/toc.rst:105 ../../files/toc.rst:100
+#: ../../tasks/toc.rst:50
 msgid "Select **Delete** from the drop-down menu."
 msgstr ""
 
@@ -2216,8 +2214,8 @@ msgid ""
 "folders, tags, and sharing capabilities."
 msgstr ""
 "In questa sezione, analizzeremo le funzionalità versatili di Carbonio, "
-"concentrandoci sugli strumenti organizzativi efficienti come cartelle, tag e "
-"funzionalità di condivisione."
+"concentrandoci sugli strumenti organizzativi efficienti come cartelle, "
+"tag e funzionalità di condivisione."
 
 #: ../../basic_email_management/toc.rst:12
 msgid "Using Tags"
@@ -2288,16 +2286,15 @@ msgstr "Scegli un colore per il tag tra le opzioni fornite."
 
 #: ../../basic_email_management/toc.rst:40
 msgid "Click on the **CREATE** button to finalize the creation of the new tag."
-msgstr ""
-"Clicca sul pulsante **CREA** per finalizzare la creazione del nuovo tag."
+msgstr "Clicca sul pulsante **CREA** per finalizzare la creazione del nuovo tag."
 
 #: ../../basic_email_management/toc.rst:43
 msgid ""
 "To see your tags, you should click on the downward arrow icon located "
 "next to the Tags section."
 msgstr ""
-"Per visualizzare i tuoi tag, devi cliccare sull'icona della freccia verso il "
-"basso situata accanto alla sezione Tag."
+"Per visualizzare i tuoi tag, devi cliccare sull'icona della freccia verso"
+" il basso situata accanto alla sezione Tag."
 
 #: ../../basic_email_management/toc.rst:47
 msgid "Assigning a Tag to an Email"
@@ -2311,8 +2308,8 @@ msgstr "Per assegnare un tag a un'e-mail, semplicemente:"
 #: ../../basic_email_management/toc.rst:75
 msgid "Right-click on the email to open the dropdown menu."
 msgstr ""
-"Fai clic con il pulsante destro del mouse sull'e-mail per aprire il menu a "
-"discesa."
+"Fai clic con il pulsante destro del mouse sull'e-mail per aprire il menu "
+"a discesa."
 
 #: ../../basic_email_management/toc.rst:52
 #: ../../basic_email_management/toc.rst:76
@@ -2340,8 +2337,8 @@ msgid ""
 "Click on the downward arrow icon located next to the Tags section to open"
 " the list of tags."
 msgstr ""
-"Clicca sull'icona della freccia verso il basso situata accanto alla sezione "
-"Tag per aprire l'elenco dei tag."
+"Clicca sull'icona della freccia verso il basso situata accanto alla "
+"sezione Tag per aprire l'elenco dei tag."
 
 #: ../../basic_email_management/toc.rst:67
 msgid "Click on the tag that you want to find emails for."
@@ -2350,8 +2347,8 @@ msgstr "Clicca sul tag che desideri cercare per le e-mail."
 #: ../../basic_email_management/toc.rst:68
 msgid "All messages with the selected tag will be displayed in the Main Panel."
 msgstr ""
-"Tutti i messaggi con il tag selezionato verranno visualizzati nel Pannello "
-"principale."
+"Tutti i messaggi con il tag selezionato verranno visualizzati nel "
+"Pannello principale."
 
 #: ../../basic_email_management/toc.rst:71
 msgid "Removing a Tag from an Email"
@@ -2372,8 +2369,8 @@ msgstr "Modifica del colore di un tag"
 #: ../../basic_email_management/toc.rst:82
 msgid "Right-click on the tag you need to edit from the Tags section."
 msgstr ""
-"Fate clic con il pulsante destro del mouse sul tag che desiderate modificare "
-"nella sezione Tag."
+"Fate clic con il pulsante destro del mouse sul tag che desiderate "
+"modificare nella sezione Tag."
 
 #: ../../basic_email_management/toc.rst:83
 msgid "From the dropdown menu, select Edit Tag."
@@ -2384,8 +2381,8 @@ msgid ""
 "A dialog box will appear. Choose a color for the tag from the options "
 "provided."
 msgstr ""
-"Verrà visualizzata una finestra di dialogo. Scegliete un colore per il tag "
-"dalle opzioni fornite."
+"Verrà visualizzata una finestra di dialogo. Scegliete un colore per il "
+"tag dalle opzioni fornite."
 
 #: ../../basic_email_management/toc.rst:85
 msgid "Click on the EDIT button."
@@ -2398,8 +2395,8 @@ msgstr "Rinominare un tag"
 #: ../../basic_email_management/toc.rst:90
 msgid "Right-click on the tag you need to edit from the **Tags** section."
 msgstr ""
-"Fate clic con il pulsante destro del mouse sul tag che desiderate modificare "
-"nella sezione **Tag**."
+"Fate clic con il pulsante destro del mouse sul tag che desiderate "
+"modificare nella sezione **Tag**."
 
 #: ../../basic_email_management/toc.rst:91
 msgid "From the dropdown menu, select **Edit Tag**."
@@ -2436,8 +2433,8 @@ msgid ""
 "A flag acts like a special tag for important emails, showing up with a "
 "red flag icon next to the subject line."
 msgstr ""
-"Un flag agisce come un tag speciale per le e-mail importanti, visualizzato "
-"con un'icona di flag rosso accanto alla riga dell'oggetto."
+"Un flag agisce come un tag speciale per le e-mail importanti, "
+"visualizzato con un'icona di flag rosso accanto alla riga dell'oggetto."
 
 #: ../../basic_email_management/toc.rst:106
 msgid ""
@@ -2609,8 +2606,8 @@ msgstr "Cancellazione della cartella"
 #: ../../basic_email_management/toc.rst:181
 msgid "Wiping a folder permanently removes all emails. To wipe a folder:"
 msgstr ""
-"La cancellazione di una cartella rimuove permanentemente tutte le e-mail. "
-"Per cancellare una cartella:"
+"La cancellazione di una cartella rimuove permanentemente tutte le e-mail."
+" Per cancellare una cartella:"
 
 #: ../../basic_email_management/toc.rst:185
 msgid "Select **Wipe Folder** from the dropdown menu."
@@ -2703,8 +2700,8 @@ msgid ""
 "A new dialogue box will appear. Choose the folder where you wish to "
 "relocate the email."
 msgstr ""
-"Sarà visualizzata una nuova finestra di dialogo. Scegli la cartella in cui "
-"desideri spostare l'email."
+"Sarà visualizzata una nuova finestra di dialogo. Scegli la cartella in "
+"cui desideri spostare l'email."
 
 #: ../../basic_email_management/toc.rst:229
 msgid "Click MOVE to confirm."
@@ -2926,8 +2923,8 @@ msgid ""
 "Check the shared folder you want to add from the available shared items "
 "list."
 msgstr ""
-"Seleziona la cartella condivisa che desideri aggiungere dall'elenco degli "
-"elementi condivisi disponibili."
+"Seleziona la cartella condivisa che desideri aggiungere dall'elenco degli"
+" elementi condivisi disponibili."
 
 #: ../../basic_email_management/toc.rst:346 ../../contacts/toc.rst:272
 msgid "Click the **ADD** button."
@@ -3100,9 +3097,9 @@ msgid ""
 "header will display specific security and informational criteria. This "
 "includes notifications for:"
 msgstr ""
-"Riceverai notifiche visive all'interno del corpo dell'email e l'intestazione "
-"visualizzerà specifici criteri di sicurezza e informazioni. Ciò include "
-"notifiche per:"
+"Riceverai notifiche visive all'interno del corpo dell'email e "
+"l'intestazione visualizzerà specifici criteri di sicurezza e "
+"informazioni. Ciò include notifiche per:"
 
 #: ../../browsing_emails/toc.rst:76
 msgid "External domain origins"
@@ -3139,8 +3136,8 @@ msgstr ""
 #: ../../browsing_emails/toc.rst:89
 msgid "Navigate to the **Settings** (Gear icon) from the left sidebar."
 msgstr ""
-"Accedi alle **Impostazioni** (icona dell'ingranaggio) dal pannello laterale "
-"sinistro."
+"Accedi alle **Impostazioni** (icona dell'ingranaggio) dal pannello "
+"laterale sinistro."
 
 #: ../../browsing_emails/toc.rst:90
 msgid "Access the **Mails** section."
@@ -3454,15 +3451,15 @@ msgid ""
 "A new tab will open in your browser displaying the email, along with a "
 "window for adjusting printer settings. Make any necessary adjustments."
 msgstr ""
-"Si aprirà una nuova scheda nel browser che visualizza l'email, insieme a una "
-"finestra per regolare le impostazioni della stampante. Apporta le modifiche "
-"necessarie."
+"Si aprirà una nuova scheda nel browser che visualizza l'email, insieme a "
+"una finestra per regolare le impostazioni della stampante. Apporta le "
+"modifiche necessarie."
 
 #: ../../browsing_emails/toc.rst:235
 msgid "Click the Print button to proceed with printing."
 msgstr "Fai clic sul pulsante Stampa per procedere con la stampa."
 
-#: ../../browsing_emails/toc.rst:243
+#: ../../browsing_emails/toc.rst:243 ../../mobile_apps/mail_app.rst:132
 msgid "Actions on Multiple Emails at Once"
 msgstr "Azioni su più email contemporaneamente"
 
@@ -3475,8 +3472,8 @@ msgid ""
 "Click on the check mark icon at the top left corner of your main panel to"
 " enter selection mode."
 msgstr ""
-"Fai clic sull'icona del segno di spunta nell'angolo superiore sinistro del "
-"pannello principale per entrare in modalità di selezione."
+"Fai clic sull'icona del segno di spunta nell'angolo superiore sinistro "
+"del pannello principale per entrare in modalità di selezione."
 
 #: ../../browsing_emails/toc.rst:248
 msgid "Select the empty circles beside each email you wish to choose."
@@ -3512,8 +3509,7 @@ msgstr "Seleziona più email come descritto sopra."
 
 #: ../../browsing_emails/toc.rst:257
 msgid "Click on the trash icon at the top right corner of your email list."
-msgstr ""
-"Fai clic sull'icona del cestino in alto a destra dell'elenco delle email."
+msgstr "Fai clic sull'icona del cestino in alto a destra dell'elenco delle email."
 
 #: ../../browsing_emails/toc.rst:265
 msgid "Sorting Emails"
@@ -3526,18 +3522,18 @@ msgid ""
 "unread status, importance, flagged status, presence of attachments, "
 "sender, date, and subject."
 msgstr ""
-"L'ordinamento degli email può offrire una notevole utilità in vari scenari. "
-"Hai la flessibilità di categorizzare le email in base a criteri come lo "
-"stato non letto, l'importanza, lo stato contrassegnato, la presenza di "
-"allegati, il mittente, la data e l'oggetto."
+"L'ordinamento degli email può offrire una notevole utilità in vari "
+"scenari. Hai la flessibilità di categorizzare le email in base a criteri "
+"come lo stato non letto, l'importanza, lo stato contrassegnato, la "
+"presenza di allegati, il mittente, la data e l'oggetto."
 
 #: ../../browsing_emails/toc.rst:269
 msgid ""
 "To initiate sorting, click on the **sorting icon** located in the top "
 "right corner of your email list."
 msgstr ""
-"Per avviare l'ordinamento, fai clic sull'icona di **ordinamento** situata in "
-"alto a destra dell'elenco delle email."
+"Per avviare l'ordinamento, fai clic sull'icona di **ordinamento** situata"
+" in alto a destra dell'elenco delle email."
 
 #: ../../browsing_emails/toc.rst:270
 msgid "Choose your preferred sorting criterion from the options provided."
@@ -3549,7 +3545,8 @@ msgid ""
 "ascending and descending order as per your preference."
 msgstr ""
 "Una volta selezionato, fare clic sull'icona di ordinamento di nuovo per "
-"commutare tra l'ordine ascendente e discendente secondo le tue preferenze."
+"commutare tra l'ordine ascendente e discendente secondo le tue "
+"preferenze."
 
 #: ../../browsing_emails/toc.rst:273
 msgid ""
@@ -3567,17 +3564,17 @@ msgid ""
 "current day, it will always be displayed with the full date and time, "
 "with the complete timestamp."
 msgstr ""
-"Per garantire la chiarezza, il formato di data per le email che non sono del "
-"giorno corrente, sarà sempre visualizzato con la data e l'ora complete, con "
-"il timestamp completo."
+"Per garantire la chiarezza, il formato di data per le email che non sono "
+"del giorno corrente, sarà sempre visualizzato con la data e l'ora "
+"complete, con il timestamp completo."
 
 #: ../../browsing_emails/toc.rst:286
 msgid ""
 "The timestamp will be shown according to the browser language rules, as "
 "explained in the following table:"
 msgstr ""
-"Il timestamp sarà mostrato secondo le regole della lingua del browser, come "
-"spiegato nella tabella seguente:"
+"Il timestamp sarà mostrato secondo le regole della lingua del browser, "
+"come spiegato nella tabella seguente:"
 
 #: ../../browsing_emails/toc.rst:288
 msgid "Date Format"
@@ -3693,9 +3690,9 @@ msgid ""
 " appointments, meetings, and events. Additionally, |product| enables you "
 "to share your calendars with colleagues or friends."
 msgstr ""
-"Bạn có thể sử dụng tính năng Lịch của Carbonio để quản lý cuộc hẹn, cuộc họp "
-"và sự kiện của mình hiệu quả. Ngoài ra, Carbonio cũng cho phép bạn chia sẻ "
-"lịch của mình với đồng nghiệp hoặc bạn bè."
+"Bạn có thể sử dụng tính năng Lịch của Carbonio để quản lý cuộc hẹn, cuộc "
+"họp và sự kiện của mình hiệu quả. Ngoài ra, Carbonio cũng cho phép bạn "
+"chia sẻ lịch của mình với đồng nghiệp hoặc bạn bè."
 
 #: ../../calendars/toc.rst:15
 msgid ""
@@ -3713,9 +3710,9 @@ msgid ""
 "Week View. However, you have the option to customize this and choose a "
 "different view to display upon opening."
 msgstr ""
-"Trong Carbonio, chế độ xem mặc định khi mở lịch là chế độ xem Tuần làm việc. "
-"Tuy nhiên, bạn có thể tùy chỉnh chế độ xem này và chọn một chế độ xem khác "
-"để hiển thị khi mở."
+"Trong Carbonio, chế độ xem mặc định khi mở lịch là chế độ xem Tuần làm "
+"việc. Tuy nhiên, bạn có thể tùy chỉnh chế độ xem này và chọn một chế độ "
+"xem khác để hiển thị khi mở."
 
 #: ../../calendars/toc.rst:22
 msgid "To change the default calendar view:"
@@ -3760,8 +3757,8 @@ msgid ""
 "Work Week View: Shows only workdays (Monday to Friday – can be changed "
 "from the settings), ideal for work-focused scheduling."
 msgstr ""
-"Chế độ xem Tuần làm việc: Chỉ hiển thị các ngày làm việc (Thứ Hai đến Thứ "
-"Sáu - có thể thay đổi từ cài đặt), lý tưởng cho lịch trình làm việc."
+"Chế độ xem Tuần làm việc: Chỉ hiển thị các ngày làm việc (Thứ Hai đến Thứ"
+" Sáu - có thể thay đổi từ cài đặt), lý tưởng cho lịch trình làm việc."
 
 #: ../../calendars/toc.rst:38
 msgid "Changing Calendar View"
@@ -3847,11 +3844,11 @@ msgid ""
 "from this calendar."
 msgstr ""
 "Puoi utilizzare la casella di controllo etichettata **Escludi questo "
-"calendario quando si segnalano gli orari di disponibilità** quando crei il "
-"calendario se preferisci non includere gli eventi di questo calendario "
-"specifico quando Carbonio segnala la tua disponibilità ai colleghi. Questa "
-"funzione è particolarmente utile quando si creano calendari per uso "
-"personale, assicurando che la tua disponibilità per le riunioni sia "
+"calendario quando si segnalano gli orari di disponibilità** quando crei "
+"il calendario se preferisci non includere gli eventi di questo calendario"
+" specifico quando Carbonio segnala la tua disponibilità ai colleghi. "
+"Questa funzione è particolarmente utile quando si creano calendari per "
+"uso personale, assicurando che la tua disponibilità per le riunioni sia "
 "rappresentata in modo accurato senza divulgare dettagli degli eventi di "
 "questo calendario."
 
@@ -3917,8 +3914,8 @@ msgid ""
 "Select **Delete calendar** from the drop-down menu (this option is "
 "unavailable for your main calendar)."
 msgstr ""
-"Selezionare **Elimina calendario** dal menu a discesa (questa opzione non è "
-"disponibile per il calendario principale)."
+"Selezionare **Elimina calendario** dal menu a discesa (questa opzione non"
+" è disponibile per il calendario principale)."
 
 #: ../../calendars/toc.rst:106 ../../contacts/toc.rst:166
 msgid "Click the **DELETE** button to confirm."
@@ -3945,15 +3942,15 @@ msgid ""
 "In the Navigation Panel, click on the downward arrow next to the Trash "
 "folder. (if there is no downward arrow, your trash folder is empty)"
 msgstr ""
-"Nel pannello di navigazione, fare clic sulla freccia verso il basso accanto "
-"alla cartella Cestino. (se non c'è la freccia verso il basso, la cartella "
-"cestino è vuota)"
+"Nel pannello di navigazione, fare clic sulla freccia verso il basso "
+"accanto alla cartella Cestino. (se non c'è la freccia verso il basso, la "
+"cartella cestino è vuota)"
 
 #: ../../calendars/toc.rst:117
 msgid "Right-click on the calendar you wish to restore."
 msgstr ""
-"Fare clic con il pulsante destro del mouse sul calendario che si desidera "
-"ripristinare."
+"Fare clic con il pulsante destro del mouse sul calendario che si desidera"
+" ripristinare."
 
 #: ../../calendars/toc.rst:118
 msgid "Click **Restore calendar** from the drop-down menu."
@@ -4059,8 +4056,8 @@ msgid ""
 "You can assign privileges to individuals or groups of colleagues using "
 "roles to see to manage your shared calendars."
 msgstr ""
-"Puoi assegnare privilegi a individui o gruppi di colleghi utilizzando ruoli "
-"per gestire i calendari condivisi."
+"Puoi assegnare privilegi a individui o gruppi di colleghi utilizzando "
+"ruoli per gestire i calendari condivisi."
 
 #: ../../calendars/toc.rst:179
 msgid "Viewer (can view)"
@@ -4699,7 +4696,7 @@ msgstr ""
 
 #: ../../chat/toc.rst:7
 msgid "Working with Chats"
-msgstr "Lavorare con i contatti"
+msgstr "Lavorare con Chats"
 
 #: ../../chat/toc.rst:14
 msgid ""
@@ -4712,11 +4709,11 @@ msgid ""
 "productivity whether they are working remotely or in the office."
 msgstr ""
 
-#: ../../chat/toc.rst:17 ../../chats/toc.rst:19
+#: ../../chat/toc.rst:17
 msgid "Creating New Chat"
 msgstr "Creare una nuova chat"
 
-#: ../../chat/toc.rst:19 ../../chats/toc.rst:21
+#: ../../chat/toc.rst:19
 msgid ""
 "To initiate communication with a colleague, you need to create a new "
 "chat. To do so:"
@@ -4724,20 +4721,18 @@ msgstr ""
 
 #: ../../chat/toc.rst:21 ../../chat/toc.rst:35 ../../chat/toc.rst:140
 #: ../../chat/toc.rst:151 ../../chat/toc.rst:161 ../../chat/toc.rst:187
-#: ../../chats/toc.rst:23 ../../chats/toc.rst:113 ../../chats/toc.rst:124
 msgid "Select the **Chats** feature from your left sidebar."
 msgstr ""
 
-#: ../../chat/toc.rst:22 ../../chat/toc.rst:162 ../../chats/toc.rst:24
+#: ../../chat/toc.rst:22 ../../chat/toc.rst:162
 msgid "On the top bar, click the **NEW** button. A new window appears."
 msgstr ""
 
-#: ../../chat/toc.rst:23 ../../chat/toc.rst:163 ../../chats/toc.rst:25
+#: ../../chat/toc.rst:23 ../../chat/toc.rst:163
 msgid "Begin typing the email address of the colleague you wish to chat with."
 msgstr ""
 
 #: ../../chat/toc.rst:24 ../../chat/toc.rst:37 ../../chat/toc.rst:217
-#: ../../chats/toc.rst:26
 msgid "Click on the name of the colleague that appears in the list."
 msgstr "Fai clic sul nome del collega che appare nell'elenco."
 
@@ -4746,8 +4741,8 @@ msgid ""
 "Now, this chat is added under the Chats module, containing a list of all "
 "available chats."
 msgstr ""
-"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco di "
-"tutte le chat disponibili."
+"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco"
+" di tutte le chat disponibili."
 
 #: ../../chat/toc.rst:29
 msgid ""
@@ -4756,10 +4751,10 @@ msgid ""
 "able to will be able to create new conversation only with users that have"
 " Chats enabled."
 msgstr ""
-"Inizialmente, non vedrai alcuna chat nel tuo sistema di chat, ma una volta "
-"create, puoi trovarle nell'elenco."
+"Inizialmente, non vedrai alcuna chat nel tuo sistema di chat, ma una "
+"volta create, puoi trovarle nell'elenco."
 
-#: ../../chat/toc.rst:31 ../../chats/toc.rst:33
+#: ../../chat/toc.rst:31
 msgid ""
 "Once you have created and selected a chat, you can start typing your "
 "message in the bottom text box. You can also add emojis and attach files "
@@ -4768,8 +4763,8 @@ msgid ""
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il tuo "
 "messaggio nella casella di testo in basso. Puoi anche aggiungere emoji e "
-"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per "
-"inviare il messaggio."
+"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per"
+" inviare il messaggio."
 
 #: ../../chat/toc.rst:33
 msgid ""
@@ -4793,81 +4788,79 @@ msgid ""
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il tuo "
 "messaggio nella casella di testo in basso. Puoi anche aggiungere emoji e "
-"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per "
-"inviare il messaggio."
+"allegare file al messaggio. Premi Invio su Windows o Ritorno su macOS per"
+" inviare il messaggio."
 
-#: ../../chat/toc.rst:43 ../../chats/toc.rst:36
+#: ../../chat/toc.rst:43
 msgid "Adding Emojis to Your Message"
 msgstr "Aggiungere emoji al messaggio"
 
-#: ../../chat/toc.rst:45 ../../chats/toc.rst:38
+#: ../../chat/toc.rst:45
 msgid ""
 "Once you have created and selected a chat, you can start typing your "
 "message in the bottom text box. You can also add emojis in the text by "
 "clicking on the emoji icon located in the text box."
 msgstr ""
 "Una volta creata e selezionata una chat, puoi iniziare a digitare il "
-"messaggio nella casella di testo in basso. Puoi anche aggiungere emoji nel "
-"testo facendo clic sull'icona dell'emoji situata nella casella di testo."
+"messaggio nella casella di testo in basso. Puoi anche aggiungere emoji "
+"nel testo facendo clic sull'icona dell'emoji situata nella casella di "
+"testo."
 
-#: ../../chat/toc.rst:48 ../../chats/toc.rst:41
+#: ../../chat/toc.rst:48
 msgid "Sending Files from Your Computer in Chats"
 msgstr ""
 
-#: ../../chat/toc.rst:50 ../../chats/toc.rst:43
+#: ../../chat/toc.rst:50
 msgid "To send a file saved on your computer using Chats, follow these steps:"
 msgstr ""
-"Per inviare un file salvato sul tuo computer utilizzando Chats, segui questi "
-"passaggi:"
+"Per inviare un file salvato sul tuo computer utilizzando Chats, segui "
+"questi passaggi:"
 
 #: ../../chat/toc.rst:52 ../../chat/toc.rst:65
 msgid "Select the **Chats**  feature from your left sidebar."
 msgstr "Seleziona la funzione **Chats** nel menu a sinistra."
 
-#: ../../chat/toc.rst:53 ../../chat/toc.rst:66 ../../chats/toc.rst:46
-#: ../../chats/toc.rst:59
+#: ../../chat/toc.rst:53 ../../chat/toc.rst:66
 msgid "Select the chat in which you want to send the file."
 msgstr "Seleziona la chat in cui desideri inviare il file."
 
-#: ../../chat/toc.rst:54 ../../chat/toc.rst:67 ../../chats/toc.rst:47
-#: ../../chats/toc.rst:60
+#: ../../chat/toc.rst:54 ../../chat/toc.rst:67
 msgid ""
 "Click on the paperclip icon located in the chat box at the bottom of the "
 "page."
 msgstr ""
-"Fai clic sull'icona della graffetta situata nella casella di chat in fondo "
-"alla pagina."
+"Fai clic sull'icona della graffetta situata nella casella di chat in "
+"fondo alla pagina."
 
-#: ../../chat/toc.rst:55 ../../chats/toc.rst:48
+#: ../../chat/toc.rst:55
 msgid "Select **Add from local**. A new window appears."
 msgstr "Seleziona **Aggiungi da locale**. Si apre una nuova finestra."
 
-#: ../../chat/toc.rst:56 ../../chats/toc.rst:49
+#: ../../chat/toc.rst:56
 msgid ""
 "Choose the file from your computer by navigating through the opened "
 "window."
 msgstr ""
 
-#: ../../chat/toc.rst:57 ../../chats/toc.rst:50
+#: ../../chat/toc.rst:57
 msgid "Click **Open** to attach the file to your message."
 msgstr "Fai clic su **Apri** per allegare il file al messaggio."
 
-#: ../../chat/toc.rst:60 ../../chats/toc.rst:53
+#: ../../chat/toc.rst:60
 msgid "Sending Files from |product| Files in Chats"
 msgstr "Invio di file da Carbonio Files in Chats"
 
-#: ../../chat/toc.rst:62 ../../chats/toc.rst:55
+#: ../../chat/toc.rst:62
 msgid ""
 "You can use Chats to send a file directly from |product| Files to a chat."
 " Here is how:"
 msgstr ""
 
-#: ../../chat/toc.rst:68 ../../chats/toc.rst:61
+#: ../../chat/toc.rst:68
 msgid "Select **Attach public link from Files**. A new window appears."
-msgstr ""
-"Seleziona **Allega link pubblico da Files**. Si apre una nuova finestra."
+msgstr "Seleziona **Allega link pubblico da Files**. Si apre una nuova finestra."
 
-#: ../../chat/toc.rst:69 ../../chats/toc.rst:62
+#: ../../chat/toc.rst:69
 msgid "Choose the file by navigating through the opened window."
 msgstr "Scegli il file navigando nella finestra aperta."
 
@@ -4875,33 +4868,32 @@ msgstr "Scegli il file navigando nella finestra aperta."
 msgid "Click **SHARE PUBLIC LINK**."
 msgstr "Fai clic su **CONDIVIDI LINK PUBBLICO**."
 
-#: ../../chat/toc.rst:72 ../../chats/toc.rst:65
+#: ../../chat/toc.rst:72
 msgid ""
 "This process will automatically generate a public link for your file and "
 "send it into the chat."
 msgstr ""
 
-#: ../../chat/toc.rst:75 ../../chats/toc.rst:68
+#: ../../chat/toc.rst:75
 msgid "Edit A Message"
 msgstr ""
 
-#: ../../chat/toc.rst:77 ../../chats/toc.rst:70
+#: ../../chat/toc.rst:77
 msgid "To edit a message:"
 msgstr "Per modificare un messaggio:"
 
 #: ../../chat/toc.rst:79 ../../chat/toc.rst:90 ../../chat/toc.rst:108
-#: ../../chat/toc.rst:116 ../../chat/toc.rst:130 ../../chats/toc.rst:72
-#: ../../chats/toc.rst:83 ../../chats/toc.rst:92 ../../chats/toc.rst:102
+#: ../../chat/toc.rst:116 ../../chat/toc.rst:130
 msgid "Click on the downward arrow located next to the message bubble."
 msgstr ""
-"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla del "
-"messaggio."
+"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla "
+"del messaggio."
 
-#: ../../chat/toc.rst:81 ../../chats/toc.rst:74
+#: ../../chat/toc.rst:81
 msgid "Edit the message and hit enter."
 msgstr "Modifica il messaggio e premi invio."
 
-#: ../../chat/toc.rst:83 ../../chats/toc.rst:76
+#: ../../chat/toc.rst:83
 msgid ""
 "You have only a five-minute window to edit a message. After that, you "
 "will not be able to do so, and the edit option will disappear."
@@ -4909,19 +4901,19 @@ msgstr ""
 "Hai una finestra di cinque minuti per modificare un messaggio. Dopo di "
 "questo, non potrai più farlo e l'opzione di modifica scomparirà."
 
-#: ../../chat/toc.rst:86 ../../chats/toc.rst:79
+#: ../../chat/toc.rst:86
 msgid "Reply A Message"
 msgstr "Rispondi a un messaggio"
 
-#: ../../chat/toc.rst:88 ../../chat/toc.rst:97 ../../chats/toc.rst:81
+#: ../../chat/toc.rst:88 ../../chat/toc.rst:97
 msgid "To reply to a message:"
 msgstr "Per rispondere a un messaggio:"
 
-#: ../../chat/toc.rst:91 ../../chats/toc.rst:84
+#: ../../chat/toc.rst:91
 msgid "Select **Reply** from the drop-down menu."
 msgstr "Seleziona **Rispondi** dal menu a discesa."
 
-#: ../../chat/toc.rst:92 ../../chat/toc.rst:101 ../../chats/toc.rst:85
+#: ../../chat/toc.rst:92 ../../chat/toc.rst:101
 msgid "Write the reply and hit enter."
 msgstr "Scrivi la risposta e premi invio."
 
@@ -4932,18 +4924,18 @@ msgstr "Rispondi a un messaggio"
 #: ../../chat/toc.rst:99
 msgid "Click on the emoji icon located next to the downward arrow."
 msgstr ""
-"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla del "
-"messaggio."
+"Fai clic sulla freccia rivolta verso il basso situata accanto alla bolla "
+"del messaggio."
 
 #: ../../chat/toc.rst:100
 msgid "Select the emoji you want to send between the ones in the menu."
 msgstr "Seleziona la chat in cui desideri inviare il file."
 
-#: ../../chat/toc.rst:104 ../../chats/toc.rst:88
+#: ../../chat/toc.rst:104
 msgid "Forward A Message"
 msgstr "Inoltra un messaggio"
 
-#: ../../chat/toc.rst:106 ../../chats/toc.rst:90
+#: ../../chat/toc.rst:106
 msgid "To forward a message:"
 msgstr ""
 
@@ -4951,11 +4943,11 @@ msgstr ""
 msgid "Click **FORWARD** at the bottom right corner of the chat box"
 msgstr "Fai clic su **INOLTRA** nell'angolo"
 
-#: ../../chat/toc.rst:111 ../../chat/toc.rst:120 ../../chats/toc.rst:94
+#: ../../chat/toc.rst:111 ../../chat/toc.rst:120
 msgid "Select the chat to which you want to forward the message."
 msgstr "Seleziona la chat a cui desideri inoltrare il messaggio."
 
-#: ../../chat/toc.rst:112 ../../chat/toc.rst:121 ../../chats/toc.rst:95
+#: ../../chat/toc.rst:112 ../../chat/toc.rst:121
 msgid "Click **FORWARD**."
 msgstr "Fai clic su **INOLTRA**."
 
@@ -4976,11 +4968,11 @@ msgid ""
 "message."
 msgstr ""
 
-#: ../../chat/toc.rst:126 ../../chats/toc.rst:98
+#: ../../chat/toc.rst:126
 msgid "Delete A Message"
 msgstr "Elimina un messaggio"
 
-#: ../../chat/toc.rst:128 ../../chats/toc.rst:100
+#: ../../chat/toc.rst:128
 msgid "To delete a message:"
 msgstr "Per eliminare"
 
@@ -4988,62 +4980,62 @@ msgstr "Per eliminare"
 msgid "Select **Delete for all** from the drop-down menu."
 msgstr ""
 
-#: ../../chat/toc.rst:133 ../../chats/toc.rst:106
+#: ../../chat/toc.rst:133
 msgid ""
 "You have only a five-minute window to delete a message. After that, you "
 "will not be able to do so, and the delete option will disappear."
 msgstr ""
 
-#: ../../chat/toc.rst:136 ../../chats/toc.rst:109
+#: ../../chat/toc.rst:136
 msgid "Mute Notifications of a Chat"
 msgstr "Silenzia le notifiche di una chat"
 
-#: ../../chat/toc.rst:138 ../../chats/toc.rst:111
+#: ../../chat/toc.rst:138
 msgid ""
 "When you receive a new message in an individual chat or group chat, you "
 "will see a notification on your screen to inform you. If you want to "
 "disable notifications for a specific chat or group, follow these steps:"
 msgstr ""
 
-#: ../../chat/toc.rst:141 ../../chats/toc.rst:114
+#: ../../chat/toc.rst:141
 msgid "Select the chat or group for which you want to mute notifications."
 msgstr ""
 
-#: ../../chat/toc.rst:142 ../../chat/toc.rst:189 ../../chats/toc.rst:115
+#: ../../chat/toc.rst:142 ../../chat/toc.rst:189
 msgid "On the right side of the Main Panel, click **Mute notifications**."
 msgstr ""
 
-#: ../../chat/toc.rst:144 ../../chat/toc.rst:192 ../../chats/toc.rst:117
+#: ../../chat/toc.rst:144 ../../chat/toc.rst:192
 msgid ""
 "To unmute, follow the same procedure and choose **Activate "
 "notifications**."
 msgstr ""
 
-#: ../../chat/toc.rst:147 ../../chats/toc.rst:120
+#: ../../chat/toc.rst:147
 msgid "Clear History of a Chat"
 msgstr ""
 
-#: ../../chat/toc.rst:149 ../../chats/toc.rst:122
+#: ../../chat/toc.rst:149
 msgid "To clear the history of a specific chat or group:"
 msgstr ""
 
-#: ../../chat/toc.rst:152 ../../chats/toc.rst:125
+#: ../../chat/toc.rst:152
 msgid "Select the chat or group you want to clear the history for."
 msgstr ""
 
-#: ../../chat/toc.rst:153 ../../chats/toc.rst:126
+#: ../../chat/toc.rst:153
 msgid "On the right side of the Main Panel, click **Clear History**."
 msgstr ""
 
-#: ../../chat/toc.rst:154 ../../chats/toc.rst:127
+#: ../../chat/toc.rst:154
 msgid "Click **CLEAR HISTORY** to confirm."
 msgstr ""
 
-#: ../../chat/toc.rst:157 ../../chats/toc.rst:130
+#: ../../chat/toc.rst:157
 msgid "Creating New Group"
 msgstr ""
 
-#: ../../chat/toc.rst:159 ../../chats/toc.rst:132
+#: ../../chat/toc.rst:159
 msgid ""
 "Groups allow for group conversations with at least three attendees. You "
 "can create a group chat by following these steps:"
@@ -5071,7 +5063,7 @@ msgstr ""
 msgid "Now this group is added to your list."
 msgstr ""
 
-#: ../../chat/toc.rst:172 ../../chats/toc.rst:143
+#: ../../chat/toc.rst:172
 msgid ""
 "Once you have created and selected a group, you can start typing your "
 "message in the bottom text box. You can also add emojis and attach files "
@@ -5137,18 +5129,11 @@ msgstr ""
 msgid "To edit a group’s name or topic:"
 msgstr ""
 
-#: ../../chat/toc.rst:201 ../../chat/toc.rst:213 ../../chats/toc.rst:45
-#: ../../chats/toc.rst:58 ../../chats/toc.rst:134 ../../chats/toc.rst:150
-#: ../../chats/toc.rst:163 ../../chats/toc.rst:173 ../../chats/toc.rst:183
-#: ../../chats/toc.rst:192 ../../chats/toc.rst:208
-#: ../../videomeetings/toc.rst:33 ../../videomeetings/toc.rst:47
-#: ../../videomeetings/toc.rst:66 ../../videomeetings/toc.rst:78
-#: ../../videomeetings/toc.rst:90 ../../videomeetings/toc.rst:104
-#: ../../videomeetings/toc.rst:201
+#: ../../chat/toc.rst:201 ../../chat/toc.rst:213
 msgid "Select the **Chats feature** from your left sidebar."
 msgstr "Seleziona la funzione **Chat** dal menu a sinistra."
 
-#: ../../chat/toc.rst:202 ../../chats/toc.rst:193
+#: ../../chat/toc.rst:202
 msgid "Select the group for which you want to change the name."
 msgstr ""
 
@@ -5162,7 +5147,7 @@ msgstr ""
 msgid "Edit the name or topic."
 msgstr ""
 
-#: ../../chat/toc.rst:205 ../../chats/toc.rst:196
+#: ../../chat/toc.rst:205
 msgid "Press the save icon on the right."
 msgstr ""
 
@@ -5187,8 +5172,8 @@ msgid ""
 "On the right side of the Main Panel, under the Actions section, click on "
 "the Add new members."
 msgstr ""
-"Sul lato destro del Pannello principale, fare clic sull'icona della penna "
-"accanto al nome del gruppo."
+"Sul lato destro del Pannello principale, fare clic sull'icona della penna"
+" accanto al nome del gruppo."
 
 #: ../../chat/toc.rst:216
 msgid ""
@@ -5299,212 +5284,6 @@ msgid ""
 "conversations."
 msgstr ""
 
-#: ../../chats/toc.rst:7
-msgid "Working with Chats :bdg-secondary:`LEGACY`"
-msgstr "Working with Chats (WSC) :bdg-primary:`NEW`"
-
-#: ../../chats/toc.rst:14
-msgid ""
-"Within the |product| web client, Chats are a pivotal communication tool, "
-"accommodating both one-on-one and group conversations. Users can engage "
-"in centralized messaging, facilitating real-time discussions and "
-"enhancing collaborative efforts."
-msgstr ""
-
-#: ../../chats/toc.rst:16
-msgid ""
-"Whether it is sharing updates, exchanging ideas, or coordinating tasks, "
-"the Chats provide a streamlined platform for efficient teamwork. "
-"Notification alerts keep users connected and informed, ensuring "
-"productivity regardless of their location, whether remote or in the "
-"office."
-msgstr ""
-
-#: ../../chats/toc.rst:29
-msgid ""
-"Now, this chat is added under the Chats tab, containing a list of all "
-"available chats."
-msgstr ""
-"Ora, questa chat viene aggiunta nella scheda Chat, che contiene un elenco di "
-"tutte le chat disponibili."
-
-#: ../../chats/toc.rst:31
-msgid ""
-"Initially, you will not see any chats in your chat system, but once you "
-"create them, you can find them on the list."
-msgstr ""
-"Inizialmente, non vedrai alcuna chat nel tuo sistema di chat, ma una volta "
-"create, puoi trovarle nell'elenco."
-
-#: ../../chats/toc.rst:63
-msgid "Click **SHARE PUBLICK LINK**."
-msgstr ""
-
-#: ../../chats/toc.rst:104 ../../videomeetings/toc.rst:205
-msgid "Click **DELETE** to confirm."
-msgstr ""
-
-#: ../../chats/toc.rst:135 ../../contacts/toc.rst:177 ../../files/toc.rst:32
-#: ../../files/toc.rst:42 ../../files/toc.rst:162 ../../files/toc.rst:173
-msgid "From the top bar, click the **downward arrow** next to the **NEW** button."
-msgstr ""
-
-#: ../../chats/toc.rst:136
-msgid "Select **Create Group** from the drop-down menu. A new window appears."
-msgstr ""
-
-#: ../../chats/toc.rst:137
-msgid "Insert a name for the group."
-msgstr ""
-
-#: ../../chats/toc.rst:138
-msgid ""
-"In the next field, begin typing the email address of the colleagues you "
-"wish to add to the group."
-msgstr ""
-
-#: ../../chats/toc.rst:141
-msgid "Now this group is added to your list under the Chats tab."
-msgstr ""
-
-#: ../../chats/toc.rst:146
-msgid "Add Participants to a Group"
-msgstr ""
-
-#: ../../chats/toc.rst:148
-msgid "You can add new members to a group if you are a moderator. Here is how:"
-msgstr ""
-
-#: ../../chats/toc.rst:151 ../../chats/toc.rst:164
-msgid "Select the group to which you want to add members."
-msgstr ""
-
-#: ../../chats/toc.rst:152
-msgid ""
-"On the right side of the Main Panel, click **Add new members**. A new "
-"window appears."
-msgstr ""
-
-#: ../../chats/toc.rst:153
-msgid "Begin typing the email address of the colleague you wish to add."
-msgstr ""
-
-#: ../../chats/toc.rst:154
-msgid "Click **SAVE**."
-msgstr ""
-
-#: ../../chats/toc.rst:156
-msgid ""
-"You can enable the checkbox labeled **Show previous conversation "
-"history** to allow members to view previous messages. Otherwise, they "
-"will not be able to see them."
-msgstr ""
-
-#: ../../chats/toc.rst:159
-msgid "Remove Participants from a Group"
-msgstr ""
-
-#: ../../chats/toc.rst:161
-msgid "You can remove members from a group if you are a moderator. Here is how:"
-msgstr ""
-
-#: ../../chats/toc.rst:165
-msgid ""
-"On the right side of the Main Panel, under the **Participants section**, "
-"click on the trash icon next to the user you want to remove."
-msgstr ""
-
-#: ../../chats/toc.rst:166
-msgid "Click **REMOVE** to confirm."
-msgstr ""
-
-#: ../../chats/toc.rst:169
-msgid "Leave Group"
-msgstr ""
-
-#: ../../chats/toc.rst:171
-msgid "To leave a group:"
-msgstr ""
-
-#: ../../chats/toc.rst:174
-msgid "Select the group you want to leave."
-msgstr ""
-
-#: ../../chats/toc.rst:175
-msgid "On the right side of the Main Panel, click **Leave Group**."
-msgstr ""
-
-#: ../../chats/toc.rst:176
-msgid "Click **LEAVE** to confirm."
-msgstr ""
-
-#: ../../chats/toc.rst:179
-msgid "Assigning Moderators for A Group"
-msgstr ""
-
-#: ../../chats/toc.rst:181
-msgid ""
-"If you are already a moderator, you can assign other moderators to a "
-"group. Here is how:"
-msgstr ""
-
-#: ../../chats/toc.rst:184
-msgid "Select the group to which you want to add a moderator."
-msgstr ""
-
-#: ../../chats/toc.rst:185
-msgid ""
-"On the right side of the Main Panel, under the **Participants section**, "
-"click on the crown icon next to the user you want to appoint as a "
-"moderator."
-msgstr ""
-
-#: ../../chats/toc.rst:188
-msgid "Edit a Group's Name"
-msgstr ""
-
-#: ../../chats/toc.rst:190
-msgid "To edit a group’s name:"
-msgstr ""
-
-#: ../../chats/toc.rst:194
-msgid ""
-"On the right side of the Main Panel, click on the pen icon next to the "
-"group’s name."
-msgstr ""
-"Sul lato destro del Pannello principale, fare clic sull'icona della penna "
-"accanto al nome del gruppo."
-
-#: ../../chats/toc.rst:195 ../../files/toc.rst:134
-msgid "Edit the name."
-msgstr ""
-
-#: ../../chats/toc.rst:199
-msgid "Exporting a Group to the New Chat:"
-msgstr ""
-
-#: ../../chats/toc.rst:201
-msgid ""
-"To export an existing group to the new chat, simply enter the group, "
-"click the button on the right, below the group’s name, **COPY GROUP**. A "
-"modal will then appear with all the information related to migrating the "
-"group from the old chat to the new one. Simply click the **CONTINUE** "
-"button, and the group will be duplicated, redirecting you to the exported"
-" group in the new chat."
-msgstr ""
-
-#: ../../chats/toc.rst:204
-msgid "Search for A Member in Your Chats List"
-msgstr "Cercare un membro nella tua lista dei chat"
-
-#: ../../chats/toc.rst:206
-msgid "To search for a colleague in your chat list:"
-msgstr "Per cercare un collega nella tua lista dei chat:"
-
-#: ../../chats/toc.rst:209
-msgid "Under the **Filter chats list** field, insert your colleague's name."
-msgstr "Sotto il campo **Filtra lista chat**, inserire il nome del collega."
-
 #: ../../composing_emails/toc.rst:7
 msgid "Composing Emails"
 msgstr "Composizione di email"
@@ -5516,7 +5295,7 @@ msgid ""
 "attachments, addressing emails, using account personas, etc."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:12
+#: ../../composing_emails/toc.rst:12 ../../mobile_apps/mail_app.rst:67
 msgid "Composing a New Email"
 msgstr ""
 
@@ -5563,7 +5342,8 @@ msgstr "Fare clic sul pulsante **INVIA** per inviare l'email."
 #: ../../composing_emails/toc.rst:25
 msgid "A copy of the sent email is stored in your Sent folder."
 msgstr ""
-"Una copia dell'email inviata viene archiviata nella cartella Posta inviata."
+"Una copia dell'email inviata viene archiviata nella cartella Posta "
+"inviata."
 
 #: ../../composing_emails/toc.rst:31
 msgid ""
@@ -5642,10 +5422,10 @@ msgid ""
 "generates a list of potential addresses where either the first name, last"
 " name, or email address matches the text you have typed."
 msgstr ""
-"La funzione di autocompletamento ti aiuta durante la digitazione nei campi "
-"A, Cc e Bcc di un nuovo messaggio suggerendo nomi dai tuoi contatti. Genera "
-"un elenco di indirizzi potenziali in cui il nome, il cognome o l'indirizzo "
-"email corrisponde al testo che hai digitato."
+"La funzione di autocompletamento ti aiuta durante la digitazione nei "
+"campi A, Cc e Bcc di un nuovo messaggio suggerendo nomi dai tuoi "
+"contatti. Genera un elenco di indirizzi potenziali in cui il nome, il "
+"cognome o l'indirizzo email corrisponde al testo che hai digitato."
 
 #: ../../composing_emails/toc.rst:58
 msgid ""
@@ -5729,7 +5509,7 @@ msgid ""
 "while composing an email."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:93
+#: ../../composing_emails/toc.rst:93 ../../mobile_apps/mail_app.rst:142
 msgid "Adding Attachments"
 msgstr "Aggiunta di allegati"
 
@@ -5798,7 +5578,7 @@ msgid ""
 " attachments, using the \"smart links\" option, it is possible to convert"
 " every attachment in Smart Links by clicking the **paperclip** icon "
 "inside the composing board and choosing the \"Add public link from Files "
-"option\". (lui suggerisce)"
+"option\"."
 msgstr ""
 
 #: ../../composing_emails/toc.rst:126
@@ -5813,7 +5593,7 @@ msgid ""
 " the **Remove** button located beneath the attachment."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:134
+#: ../../composing_emails/toc.rst:134 ../../mobile_apps/mail_app.rst:167
 msgid "Send an Email from a Different Account or Persona"
 msgstr ""
 
@@ -5853,7 +5633,7 @@ msgstr ""
 msgid "Choose your preferred identity or persona from the menu."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:153
+#: ../../composing_emails/toc.rst:153 ../../mobile_apps/mail_app.rst:177
 msgid "Request a Read Receipt"
 msgstr ""
 
@@ -5915,7 +5695,7 @@ msgid ""
 "subject line within your colleagues' web client."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:183
+#: ../../composing_emails/toc.rst:183 ../../mobile_apps/mail_app.rst:186
 msgid "Save an Email as a Draft"
 msgstr ""
 
@@ -5941,7 +5721,7 @@ msgid ""
 "navigation panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:193
+#: ../../composing_emails/toc.rst:193 ../../mobile_apps/mail_app.rst:194
 msgid "Send a Drafted Email"
 msgstr ""
 
@@ -5972,7 +5752,7 @@ msgid ""
 "right corner of the main panel."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:207
+#: ../../composing_emails/toc.rst:207 ../../mobile_apps/mail_app.rst:106
 msgid "Replying to an Email"
 msgstr ""
 
@@ -6020,7 +5800,7 @@ msgid ""
 "discussions, or providing updates to multiple parties simultaneously."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:227
+#: ../../composing_emails/toc.rst:227 ../../mobile_apps/mail_app.rst:202
 msgid "Forwarding an Email"
 msgstr ""
 
@@ -6036,7 +5816,7 @@ msgstr ""
 msgid "A new composing board will appear, allowing you to address new recipients."
 msgstr ""
 
-#: ../../composing_emails/toc.rst:238
+#: ../../composing_emails/toc.rst:238 ../../mobile_apps/mail_app.rst:212
 msgid "Redirecting an Email"
 msgstr ""
 
@@ -6048,7 +5828,7 @@ msgstr ""
 msgid "From the menu that appears, select **Redirect**."
 msgstr "Dal menu che appare, selezionare **Reindirizzare**."
 
-#: ../../composing_emails/toc.rst:249
+#: ../../composing_emails/toc.rst:249 ../../mobile_apps/mail_app.rst:222
 msgid "Forward vs. Redirect"
 msgstr "Inoltro vs Reindirizzamento"
 
@@ -6144,9 +5924,10 @@ msgid ""
 "whom you have corresponded via email. Initially, this section might "
 "appear empty if you have not had any correspondence yet."
 msgstr ""
-"Una volta selezionato, verrà visualizzato un elenco di tutti gli indirizzi "
-"con cui hai intrattenuto una corrispondenza via email. Inizialmente, questa "
-"sezione potrebbe apparire vuota se non hai ancora avuto corrispondenza."
+"Una volta selezionato, verrà visualizzato un elenco di tutti gli "
+"indirizzi con cui hai intrattenuto una corrispondenza via email. "
+"Inizialmente, questa sezione potrebbe apparire vuota se non hai ancora "
+"avuto corrispondenza."
 
 #: ../../contacts/toc.rst:38
 msgid "Adding a New Contact"
@@ -6310,8 +6091,8 @@ msgstr "Per spostare una rubrica:"
 #: ../../contacts/toc.rst:117
 msgid "In the Navigation Panel, right-click on the address book you wish to move."
 msgstr ""
-"Nel pannello di navigazione, fare clic destro sulla rubrica che si desidera "
-"spostare."
+"Nel pannello di navigazione, fare clic destro sulla rubrica che si "
+"desidera spostare."
 
 #: ../../contacts/toc.rst:119
 msgid "Select the destination."
@@ -6390,8 +6171,8 @@ msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "delete."
 msgstr ""
-"Nel pannello di navigazione, fare clic destro sulla rubrica che si desidera "
-"eliminare."
+"Nel pannello di navigazione, fare clic destro sulla rubrica che si "
+"desidera eliminare."
 
 #: ../../contacts/toc.rst:165
 msgid "Select **Delete address book** from the drop-down menu."
@@ -6415,13 +6196,18 @@ msgstr ""
 msgid "To create a contact group:"
 msgstr ""
 
+#: ../../contacts/toc.rst:177 ../../files/toc.rst:32 ../../files/toc.rst:42
+#: ../../files/toc.rst:162 ../../files/toc.rst:173
+msgid "From the top bar, click the **downward arrow** next to the **NEW** button."
+msgstr ""
+
 #: ../../contacts/toc.rst:178
 msgid ""
 "Select the **New Contact group** from the drop-down menu. A new board "
 "will appear."
 msgstr ""
-"Selezionare il **Nuovo gruppo di contatti** dal menu a discesa. Si aprirà "
-"una nuova scheda."
+"Selezionare il **Nuovo gruppo di contatti** dal menu a discesa. Si aprirà"
+" una nuova scheda."
 
 #: ../../contacts/toc.rst:179
 msgid "Insert a name for the contact group in the **Group name** field."
@@ -6538,7 +6324,7 @@ msgstr ""
 msgid "Filtering Your View"
 msgstr ""
 
-#: ../../contacts/toc.rst:224
+#: ../../contacts/toc.rst:220
 msgid "To manage what you see in Contacts:"
 msgstr ""
 
@@ -6676,8 +6462,8 @@ msgid ""
 "In the Navigation Panel, right-click on the address book you wish to "
 "export."
 msgstr ""
-"Nel Pannello di navigazione, fai clic destro sull'indirizzario che desideri "
-"esportare."
+"Nel Pannello di navigazione, fai clic destro sull'indirizzario che "
+"desideri esportare."
 
 #: ../../contacts/toc.rst:283
 msgid "Select **Export csv file** from the drop-down menu. A new window appears."
@@ -6823,7 +6609,7 @@ msgid ""
 " reload and update its cache to include the latest changes on **Files**."
 msgstr ""
 
-#: ../../files/toc.rst:27
+#: ../../files/toc.rst:27 ../../mobile_apps/files_app.rst:12
 msgid "Creating a Folder"
 msgstr "Creazione di una cartella"
 
@@ -6844,8 +6630,7 @@ msgstr "Seleziona la funzione **File** nel pannello laterale sinistro."
 
 #: ../../files/toc.rst:33 ../../files/toc.rst:43
 msgid "Select **New Folder** from the drop-down menu. A new board will appear."
-msgstr ""
-"Seleziona **Nuova cartella** dal menu a discesa. Si apre una nuova scheda."
+msgstr "Seleziona **Nuova cartella** dal menu a discesa. Si apre una nuova scheda."
 
 #: ../../files/toc.rst:34 ../../files/toc.rst:44
 msgid "Insert a name for the folder."
@@ -6886,7 +6671,8 @@ msgstr "Passa alla cartella in cui desideri caricare il file."
 #: ../../files/toc.rst:58
 msgid "From the top bar, click the **NEW** button. A new window appears."
 msgstr ""
-"Dal menu in alto, clicca sul pulsante **NUOVO**. Si apre una nuova finestra."
+"Dal menu in alto, clicca sul pulsante **NUOVO**. Si apre una nuova "
+"finestra."
 
 #: ../../files/toc.rst:59
 msgid "Select a file from the window."
@@ -6909,8 +6695,8 @@ msgid ""
 "You have the option to save attachment files from your emails directly to"
 " your Files. To do so:"
 msgstr ""
-"Hai la possibilità di salvare i file allegati dalle tue email direttamente "
-"nella tua sezione File. Per farlo:"
+"Hai la possibilità di salvare i file allegati dalle tue email "
+"direttamente nella tua sezione File. Per farlo:"
 
 #: ../../files/toc.rst:69
 msgid "Select **Mails** from the left sidebar."
@@ -6963,8 +6749,7 @@ msgstr "Seleziona Download dal menu a discesa. Si apre una nuova finestra."
 
 #: ../../files/toc.rst:89
 msgid "Select the folder on your computer where you want to download the file."
-msgstr ""
-"Seleziona la cartella sul tuo computer in cui desideri scaricare il file."
+msgstr "Seleziona la cartella sul tuo computer in cui desideri scaricare il file."
 
 #: ../../files/toc.rst:90
 msgid "Click the Save button."
@@ -7004,8 +6789,7 @@ msgstr "Se desideri rimuovere definitivamente il file:"
 
 #: ../../files/toc.rst:106 ../../files/toc.rst:118
 msgid "Click on the downward arrow next to the **Trash folder**."
-msgstr ""
-"Fai clic sulla freccia verso il basso accanto alla cartella **Cestino**."
+msgstr "Fai clic sulla freccia verso il basso accanto alla cartella **Cestino**."
 
 #: ../../files/toc.rst:107 ../../files/toc.rst:119
 msgid "Select **My items**."
@@ -7065,6 +6849,10 @@ msgstr ""
 
 #: ../../files/toc.rst:133
 msgid "Select **Rename** from the drop-down menu. A new window appears."
+msgstr ""
+
+#: ../../files/toc.rst:134
+msgid "Edit the name."
 msgstr ""
 
 #: ../../files/toc.rst:135
@@ -7158,16 +6946,16 @@ msgid ""
 "Select the file format choosing either OpenDocument (.ods) or Microsoft "
 "(.xlsx) from the menu. A new window appears."
 msgstr ""
-"Seleziona il formato del file scegliendo tra OpenDocument (.ods) o Microsoft "
-"(.xlsx) dal menu. Si apre una nuova finestra."
+"Seleziona il formato del file scegliendo tra OpenDocument (.ods) o "
+"Microsoft (.xlsx) dal menu. Si apre una nuova finestra."
 
 #: ../../files/toc.rst:180
 msgid ""
 "You can double-click on it to open the editor in another browser tab and "
 "begin editing the file online."
 msgstr ""
-"Puoi fare doppio clic su di esso per aprire l'editor in un'altra scheda del "
-"browser e iniziare a modificare il file online."
+"Puoi fare doppio clic su di esso per aprire l'editor in un'altra scheda "
+"del browser e iniziare a modificare il file online."
 
 #: ../../files/toc.rst:182
 msgid ""
@@ -7258,7 +7046,7 @@ msgid ""
 " above the list of files and folders."
 msgstr ""
 
-#: ../../files/toc.rst:221
+#: ../../files/toc.rst:221 ../../mobile_apps/files_app.rst:80
 msgid "Copying a File"
 msgstr ""
 
@@ -7282,19 +7070,17 @@ msgstr ""
 msgid "Click the **COPY** button."
 msgstr ""
 
-#: ../../files/toc.rst:233
+#: ../../files/toc.rst:233 ../../mobile_apps/files_app.rst:87
 msgid "Flagging a File"
 msgstr "Contrassegnare un file"
 
 #: ../../files/toc.rst:235
 msgid "To flag a file for future reference and make it stand out, you can:"
-msgstr ""
-"Per contrassegnare un file per future referenze e farlo risaltare, puoi:"
+msgstr "Per contrassegnare un file per future referenze e farlo risaltare, puoi:"
 
 #: ../../files/toc.rst:238
 msgid "Navigate to the folder that contains the file you want to flag."
-msgstr ""
-"Navigare nella cartella che contiene il file che desideri contrassegnare."
+msgstr "Navigare nella cartella che contiene il file che desideri contrassegnare."
 
 #: ../../files/toc.rst:240
 msgid "Select **Flag** from the drop-down menu."
@@ -7318,9 +7104,9 @@ msgid ""
 "list."
 msgstr ""
 "La gestione delle versioni dei file consente di gestire le modifiche ai "
-"documenti in File. Ogni volta che modifichi e salvi un file, il numero di "
-"versione viene aggiornato automaticamente. Il numero di versione più recente "
-"è visibile nell'elenco dei documenti del file."
+"documenti in File. Ogni volta che modifichi e salvi un file, il numero di"
+" versione viene aggiornato automaticamente. Il numero di versione più "
+"recente è visibile nell'elenco dei documenti del file."
 
 #: ../../files/toc.rst:253
 msgid "To view the history of the file, you can follow these steps:"
@@ -8021,8 +7807,8 @@ msgstr "Creazione di un'etichetta OTP:"
 #: ../../get_started/toc.rst:48
 msgid "Insert a **label** to identify the new OTP (e.g., ``myOTP1``)."
 msgstr ""
-"Inserisci un **label** per aiutarti a ricordare questo OTP (ad esempio, “"
-"mySamsungPhone”)."
+"Inserisci un **label** per aiutarti a ricordare questo OTP (ad esempio, "
+"“mySamsungPhone”)."
 
 #: ../../get_started/toc.rst:49
 msgid "Click **CREATE PASSWORD**."
@@ -8153,8 +7939,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:99
 msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
-msgstr ""
-"When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
+msgstr "When logging in to Carbonio webmail, look for the **LOGIN SAML** button."
 
 #: ../../get_started/toc.rst:100
 msgid "Click it, and it will automatically sign you into your webmail."
@@ -8427,8 +8212,9 @@ msgid ""
 "work."
 msgstr ""
 "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
-"Clicking it restarts your session, which can be especially dangerous when "
-"composing a new email or a lengthy text message. You might lose your work."
+"Clicking it restarts your session, which can be especially dangerous when"
+" composing a new email or a lengthy text message. You might lose your "
+"work."
 
 #: ../../get_started/toc.rst:200
 msgid "Account Personalization"
@@ -8508,8 +8294,8 @@ msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
 msgstr ""
-"You can change the font size across all Carbonio web clients according to "
-"your preferences. To change the font size simply follow these steps:"
+"You can change the font size across all Carbonio web clients according to"
+" your preferences. To change the font size simply follow these steps:"
 
 #: ../../get_started/toc.rst:237 ../../get_started/toc.rst:256
 #: ../../get_started/toc.rst:271
@@ -8638,7 +8424,1028 @@ msgid "Communication"
 msgstr "Silenzia le notifiche di una chat"
 
 #: ../../index.rst:82
-msgid "Legacy modules"
+msgid "Mobile Apps"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:7
+msgid "Carbonio Chats App"
+msgstr "Carbonio Chats App"
+
+#: ../../mobile_apps/chat_app.rst:9
+msgid ""
+"With the Carbonio Chats app, you can send instant messages, share files, "
+"and organize or join video meetings."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:12
+msgid "Creating a New Chat"
+msgstr "Creare una nuova chat"
+
+#: ../../mobile_apps/chat_app.rst:14
+msgid "To start a 1-to-1 conversation:"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:16 ../../mobile_apps/chat_app.rst:104
+msgid "Tap **New chat** (plus icon)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:17
+msgid "Select **Single conversation / Private chat**."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:18
+msgid "Search for a colleague by name and select them."
+msgstr "Per cercare un collega nella tua lista dei chat:"
+
+#: ../../mobile_apps/chat_app.rst:20
+msgid ""
+"The conversation will appear in your chat list. In a chat, type your "
+"message in the text box and tap **Send**. You can also add emojis and "
+"attachments."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:24
+msgid "Sending Files in Chats"
+msgstr "Invio di file da Carbonio Files in Chats"
+
+#: ../../mobile_apps/chat_app.rst:27
+msgid "Send a file from your device"
+msgstr "Aggiungere un file dal computer"
+
+#: ../../mobile_apps/chat_app.rst:29 ../../mobile_apps/chat_app.rst:37
+msgid "Open the chat."
+msgstr "Lavorare con i contatti"
+
+#: ../../mobile_apps/chat_app.rst:30 ../../mobile_apps/chat_app.rst:38
+#: ../../mobile_apps/mail_app.rst:149 ../../mobile_apps/mail_app.rst:156
+msgid "Tap **Attach** (paperclip icon)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:31
+msgid "Select **Document** (or a similar option)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:32 ../../mobile_apps/chat_app.rst:40
+msgid "Choose the file and tap **Send**."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:35
+msgid "Send a file from Carbonio Files"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:39
+msgid "Select **Drive / Files** (wording may vary)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:43
+msgid "Edit a Message"
+msgstr "Per modificare un messaggio:"
+
+#: ../../mobile_apps/chat_app.rst:45 ../../mobile_apps/chat_app.rst:56
+#: ../../mobile_apps/chat_app.rst:63 ../../mobile_apps/chat_app.rst:70
+msgid "Tap and hold the message."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:46
+msgid "Select **Edit**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/chat_app.rst:47
+msgid "Update the message and send."
+msgstr "Modifica il messaggio e premi invio."
+
+#: ../../mobile_apps/chat_app.rst:51
+msgid ""
+"Editing may be available only for a limited time (for example, within 5 "
+"minutes)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:54
+msgid "Reply to a Message"
+msgstr "Rispondi a un messaggio"
+
+#: ../../mobile_apps/chat_app.rst:57
+msgid "Select **Reply**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/chat_app.rst:58
+msgid "Write your reply and send."
+msgstr "Scrivi la risposta e premi invio."
+
+#: ../../mobile_apps/chat_app.rst:61
+msgid "Forward a Message"
+msgstr "Inoltra un messaggio"
+
+#: ../../mobile_apps/chat_app.rst:64
+msgid "Select **Forward**."
+msgstr "Fai clic su **INOLTRA**."
+
+#: ../../mobile_apps/chat_app.rst:65
+msgid "Choose the recipient and send."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:68
+msgid "Delete a Message"
+msgstr "Elimina un messaggio"
+
+#: ../../mobile_apps/chat_app.rst:71
+msgid "Select **Delete message**."
+msgstr "Per eliminare"
+
+#: ../../mobile_apps/chat_app.rst:72
+msgid "Confirm the action."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:76
+msgid ""
+"Deleting may be available only for a limited time (for example, within 5 "
+"minutes)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:79
+msgid "Mute Notifications for a Chat"
+msgstr "Silenzia le notifiche di una chat"
+
+#: ../../mobile_apps/chat_app.rst:81
+msgid "To mute notifications for a specific chat or group:"
+msgstr "Silenzia le notifiche di una chat"
+
+#: ../../mobile_apps/chat_app.rst:83 ../../mobile_apps/chat_app.rst:94
+msgid "Open the chat/group."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:84
+msgid "Open **Chat info** (often an **i** icon or the chat name)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:85
+msgid "Disable **Notifications**."
+msgstr "Silenzia le notifiche di una chat"
+
+#: ../../mobile_apps/chat_app.rst:87
+msgid "To unmute, follow the same steps and re-enable notifications."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:90
+msgid "Clear Chat History"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:92
+msgid "To clear the history of a chat/group:"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:95
+msgid "Open **Chat info**."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:96
+msgid "Tap **Clear history**."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:97 ../../mobile_apps/files_app.rst:53
+msgid "Confirm."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:100
+msgid "Creating a New Group"
+msgstr "Creazione di un'etichetta OTP:"
+
+#: ../../mobile_apps/chat_app.rst:102
+msgid "To create a group chat:"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:105
+msgid "Select **Group conversation / Group chat**."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:106
+msgid ""
+"Select at least two colleagues (groups require 3+ participants including "
+"you)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:107
+msgid "Tap **Next** (if shown)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:108
+msgid "Set a **group name** and optionally add an image."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:109
+msgid "Tap **Create** (or a checkmark icon)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:112
+msgid "Add Participants to a Group"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:114 ../../mobile_apps/chat_app.rst:126
+msgid "If you are a moderator:"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:116 ../../mobile_apps/chat_app.rst:128
+#: ../../mobile_apps/chat_app.rst:136
+msgid "Open the group."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:117
+msgid "Open **Group info** (i icon or group name)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:118
+msgid "Tap **Invite participants**."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:119
+msgid "Select colleagues and confirm."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:121
+msgid ""
+"If available, you can enable **Show previous conversation history** so "
+"new members can see earlier messages."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:124
+msgid "Remove Participants from a Group"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:129 ../../mobile_apps/chat_app.rst:137
+msgid "Open **Group info**."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:130
+msgid "Tap the participant’s name."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:131
+msgid "Select **Remove from conversation**."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:134
+msgid "Leave a Group"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:138
+msgid "Tap **Leave** and confirm."
+msgstr "Clicca su **SPOSTA** per confermare."
+
+#: ../../mobile_apps/chat_app.rst:142
+msgid "Creating a New Room"
+msgstr "Creare una nuova chat"
+
+#: ../../mobile_apps/chat_app.rst:144
+msgid "Rooms are shared spaces used for video meetings and chat."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:146
+msgid "To create a room:"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:148 ../../mobile_apps/files_app.rst:14
+msgid "Tap **Create** (plus icon)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:149
+msgid "Select **Create Room**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/chat_app.rst:150
+msgid "Enter a room name."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:151
+msgid "Tap **OK/Create**."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:153
+msgid "You can usually:"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:155
+msgid "**Copy link** to invite participants."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:156
+msgid "**Join room** to enter."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:159
+msgid "Entering a Room"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:161 ../../mobile_apps/chat_app.rst:168
+#: ../../mobile_apps/chat_app.rst:184
+msgid "Open the **Meetings** section/tab."
+msgstr "Under the **Recording** section, click **START**."
+
+#: ../../mobile_apps/chat_app.rst:162 ../../mobile_apps/chat_app.rst:169
+msgid "Tap the room name."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:163
+msgid "Select **Join room**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/chat_app.rst:166
+msgid "Inviting Members to a Room"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:170
+msgid "Select **Copy link** and share it."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:173
+msgid "Starting a Video Call with One Person"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:175
+msgid "Open a 1-to-1 chat with the colleague."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:176
+msgid "Tap the camera icon to start a video call."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:180 ../../videomeeting/toc.rst:242
+msgid "Deleting a Meeting Room"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:182
+msgid "To delete a room (if you have permission):"
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:185
+msgid "Open the room."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:186
+msgid "Select **Delete Room**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/files_app.rst:7
+msgid "Carbonio Files App"
+msgstr "Lavorare con file"
+
+#: ../../mobile_apps/files_app.rst:9
+msgid ""
+"With the Carbonio Files app, you can manage, share, and organize files "
+"and folders on the go."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:15
+msgid "Select **Folder**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/files_app.rst:16
+msgid "Enter a folder name."
+msgstr "Modifica di una cartella"
+
+#: ../../mobile_apps/files_app.rst:17
+msgid "Tap **Create**."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:19
+msgid ""
+"To create a folder inside another folder, open the destination folder "
+"first and repeat the steps above."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:22
+msgid "Uploading a File"
+msgstr "Contrassegnare un file"
+
+#: ../../mobile_apps/files_app.rst:24
+msgid "To upload a document:"
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:26
+msgid "Tap **Create/Upload** (plus icon)."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:27
+msgid "Select **Upload document** (or **Upload**)."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:28
+msgid "Choose the file from your device."
+msgstr "Seleziona la funzione File dal pannello laterale sinistro."
+
+#: ../../mobile_apps/files_app.rst:30
+msgid "To monitor uploads (if available):"
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:32
+msgid "Open the app menu (often the menu icon)."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:33
+msgid "Select **Uploads** to view progress."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:36
+msgid "Deleting a File or Folder"
+msgstr "Eliminazione di un file o cartella"
+
+#: ../../mobile_apps/files_app.rst:38
+msgid "To delete an item:"
+msgstr "Per eliminare"
+
+#: ../../mobile_apps/files_app.rst:40
+msgid "Navigate to the folder containing the item."
+msgstr "Navigare nella cartella che contiene il file che desideri contrassegnare."
+
+#: ../../mobile_apps/files_app.rst:41
+msgid "Tap **More options** (three-dots icon) next to the file/folder."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:42
+msgid "Select **Delete**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/files_app.rst:44
+msgid "Deleted items are moved to **Trash**."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:47
+msgid "Delete permanently"
+msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
+
+#: ../../mobile_apps/files_app.rst:49 ../../mobile_apps/files_app.rst:58
+msgid "Open **Trash**."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:50 ../../mobile_apps/files_app.rst:59
+msgid "Select **My elements** (if shown)."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/files_app.rst:51 ../../mobile_apps/files_app.rst:60
+#: ../../mobile_apps/files_app.rst:68 ../../mobile_apps/files_app.rst:75
+#: ../../mobile_apps/files_app.rst:82 ../../mobile_apps/files_app.rst:89
+msgid "Tap **More options** next to the item."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:52
+msgid "Select **Delete permanently**."
+msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
+
+#: ../../mobile_apps/files_app.rst:56
+msgid "Restoring a Trashed File or Folder"
+msgstr "Ripristinare un file o una cartella eliminata"
+
+#: ../../mobile_apps/files_app.rst:61
+msgid "Select **Restore**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/files_app.rst:63
+msgid "The item returns to its original location."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:66
+msgid "Renaming a File or Folder"
+msgstr "Rinominare un file o una cartella"
+
+#: ../../mobile_apps/files_app.rst:69
+msgid "Select **Rename**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/files_app.rst:70
+msgid "Enter the new name and confirm."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:73
+msgid "Moving a File Between Folders"
+msgstr "Rinominare un file o una cartella"
+
+#: ../../mobile_apps/files_app.rst:76
+msgid "Select **Move**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/files_app.rst:77 ../../mobile_apps/files_app.rst:84
+msgid "Choose the destination folder and confirm."
+msgstr "Scegli l'azione che desideri eseguire."
+
+#: ../../mobile_apps/files_app.rst:83
+msgid "Select **Copy**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/files_app.rst:90
+msgid "Select **Flag**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/files_app.rst:92
+msgid "To remove the flag, repeat and select **Unflag**."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:95
+msgid "Adding Collaborators to a File/Folder"
+msgstr "Rimuovere collaboratori da un file / cartella"
+
+#: ../../mobile_apps/files_app.rst:97
+msgid "To share an item with colleagues:"
+msgstr "Per condividere il tuo calendario con i colleghi:"
+
+#: ../../mobile_apps/files_app.rst:99
+msgid "Tap **More options** next to the file/folder."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:100
+msgid "Select **Add collaborators**."
+msgstr "**Collaborazione:**"
+
+#: ../../mobile_apps/files_app.rst:101
+msgid "Enter colleagues’ email addresses and select them from suggestions."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:102
+msgid "Choose the permission level (for example: **Viewer**, **Editor**)."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:103
+msgid ""
+"If available, enable **Sharing allowed** to let collaborators share the "
+"item further."
+msgstr ""
+
+#: ../../mobile_apps/files_app.rst:104
+msgid "Optionally add a message, then tap **Send**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:7
+msgid "Carbonio Mail App"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:9
+msgid ""
+"The Carbonio Mail app allows you to read, send, and organize email "
+"messages while on the go, enabling them to access their mailbox, manage "
+"messages, and perform common email operations directly from a mobile "
+"device."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:12
+msgid "Mail Settings"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:14
+msgid ""
+"The Mail settings screen allows users to configure application behavior, "
+"mailbox preferences, and account-related options."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:16
+msgid ""
+"To access the settings, open the **navigation menu** (hamburger icon) "
+"from the main Mail screen and tap **Settings**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:18
+msgid "Information"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:20
+msgid ""
+"The **Information** section provides access to general application "
+"details:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:22
+msgid ""
+"**Notifications and sounds** Configure notification behavior and alert "
+"sounds for incoming messages."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:25
+msgid "**License** View license information for the application."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:28
+msgid ""
+"**Third-party licenses** Display licenses related to third-party "
+"components used by the application."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:31
+msgid "**Log out** Sign out from the current account."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:34
+msgid "Settings"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:36
+msgid "The **Settings** section allows customization of Mail and related modules:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:38
+msgid ""
+"**General** Configure general preferences such as theme, synchronization "
+"interval, search behavior, out-of-office settings, and trusted senders."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:41
+msgid ""
+"**Account** Manage account-related options, including email signatures, "
+"account management, default email address, sent message settings, and "
+"delegated sending options."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:44
+msgid ""
+"**Email** Customize email behavior, including swipe actions, conversation"
+" view expansion, reading options, view type, and scheduled sending "
+"preferences."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:47
+msgid "**Contacts** Access and configure contact-related settings."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:50
+msgid ""
+"**Calendar** Manage calendar preferences, such as appointment visibility,"
+" first day of the week, appointment postponement, and calendar "
+"synchronization."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:53
+msgid "**Sharing** Configure sharing options for mailbox items and folders."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:56
+msgid "Mailbox Quota and Version"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:58
+msgid "At the bottom of the settings screen, the application displays:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:60
+msgid "The current **mailbox quota usage**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:61
+msgid "The installed **application version**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:69
+msgid "To compose and send a new email message, follow these steps:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:71
+msgid "Tap **Compose** (pen icon) to open a new message."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:72
+msgid ""
+"If multiple sending identities or personas are available, select the "
+"appropriate one from the **From** field."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:73
+msgid "In the **To** field, enter one or more recipient email addresses."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:74
+msgid "Optionally, add additional recipients in the **Cc** or **Bcc** fields."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:75
+msgid "Enter a subject in the **Subject** field."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:76
+msgid "Write the message content in the email body."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:78
+msgid "While editing the message, additional options are available:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:80
+msgid "Use the **formatting toolbar** to customize the text appearance. You can:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:82
+msgid "Select a text style such as **Title**, **Subtitle**, or **Body text**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:83
+msgid "Change the text color."
+msgstr "Modifica del colore di un tag"
+
+#: ../../mobile_apps/mail_app.rst:84
+msgid ""
+"Apply text formatting options, including **bold**, *italic*, underline, "
+"and other supported styles."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:86
+msgid "Tap the **Attachment** (paperclip) icon to:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:88
+msgid "Take a photo and attach it to the message."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:89
+msgid "Select one or more images from the device gallery."
+msgstr "Deseleziona uno o più tag dall'elenco."
+
+#: ../../mobile_apps/mail_app.rst:90
+msgid "Choose a document from the device storage."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:91
+msgid "Add files from **Carbonio Files**, if available."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:93
+msgid "Tap the **More options** (three-dot) icon to:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:95
+msgid "Save the message as a draft."
+msgstr "Modifica il messaggio e premi invio."
+
+#: ../../mobile_apps/mail_app.rst:96
+msgid ""
+"Schedule the message for delivery by selecting a date, time, and time "
+"zone."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:97
+msgid "Set the message priority."
+msgstr "Modifica il messaggio e premi invio."
+
+#: ../../mobile_apps/mail_app.rst:98
+msgid "Request a read receipt from the recipient."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:100
+msgid "When finished, tap **Send** (paper-plane icon) to send the message."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:102
+msgid ""
+"After the message is sent, a copy of the email is automatically saved in "
+"the **Sent** folder."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:108
+msgid "To reply to an email message, follow these steps:"
+msgstr "Per rispondere a un messaggio:"
+
+#: ../../mobile_apps/mail_app.rst:110
+msgid "Open the email you want to respond to."
+msgstr "Scegli l'azione che desideri eseguire."
+
+#: ../../mobile_apps/mail_app.rst:111
+msgid "Tap **More options** (three-dot icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:112
+msgid ""
+"Select **Reply** to respond to the sender only, or **Reply all** to "
+"respond to all recipients."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:113
+msgid "Write your message."
+msgstr "Rispondi a un messaggio"
+
+#: ../../mobile_apps/mail_app.rst:114
+msgid "Tap **Send** (paper-plane icon) to send the reply."
+msgstr "Fare clic sul pulsante **INVIA** per inviare l'email."
+
+#: ../../mobile_apps/mail_app.rst:116
+msgid ""
+"While replying, the same editing, formatting, attachment, and message "
+"options available when composing a new email can be used. For more "
+"information, see :ref:`composing-a-new-email`."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:118
+msgid "A copy of the sent reply is automatically saved in the **Sent** folder."
+msgstr ""
+"Una copia dell'email inviata viene archiviata nella cartella Posta "
+"inviata."
+
+#: ../../mobile_apps/mail_app.rst:122
+msgid "Reply vs. Reply All"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:124
+msgid ""
+"The difference between **Reply** and **Reply all** is the recipients of "
+"your response:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:126
+msgid "**Reply** sends your response only to the original sender."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:127
+msgid ""
+"**Reply all** sends your response to the sender and to other recipients "
+"from the original email (typically added automatically in Cc)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:129
+msgid ""
+"Use **Reply all** only when your response is relevant to everyone "
+"included in the original conversation."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:134
+msgid "To perform actions on multiple emails:"
+msgstr "Per eseguire un'azione su più email:"
+
+#: ../../mobile_apps/mail_app.rst:136
+msgid "Tap and hold an email to enter **selection mode**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:137
+msgid "Tap other emails to select them."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:138
+msgid "Tap **More options** (three-dots icon) or the available action buttons."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:139
+msgid ""
+"Choose the action you want (for example: mark as read/unread, flag, move,"
+" mark as spam, tag, delete)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:144
+msgid ""
+"While composing an email, you can attach files from your device, from "
+"Carbonio Files, or capture a photo/video (if supported)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:147
+msgid "Add an attachment from your device"
+msgstr "Aggiungere un file dal computer"
+
+#: ../../mobile_apps/mail_app.rst:150
+msgid ""
+"Choose an option such as **Take photo/video**, **Choose from gallery**, "
+"or **Browse/Document**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:151
+msgid "Select the file (or capture it) and confirm."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:154
+msgid "Add an attachment from Carbonio Files"
+msgstr "Aggiungere un file dal computer"
+
+#: ../../mobile_apps/mail_app.rst:157
+msgid "Select **Add from Files / Drive** (wording may vary)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:158
+msgid "Choose the file and confirm."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:162
+msgid ""
+"Attachments are a common way viruses spread. Administrators may block "
+"certain file types (for example ``.exe`` or ``.zip``). In some cases you "
+"may not receive a warning if the recipient’s system blocks the "
+"attachment—so consider confirming receipt when it’s important."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:169
+msgid ""
+"If you have multiple identities/personas configured, you can choose which"
+" one to use when composing:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:171
+msgid "In the compose screen, tap the **From** field."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:172
+msgid "Select the desired **identity/persona**."
+msgstr "Selezionare la destinazione."
+
+#: ../../mobile_apps/mail_app.rst:174
+msgid "The recipient will see the selected identity/persona as the sender."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:179
+msgid "If available, you can request a read receipt:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:181
+msgid "While composing, open **More options** (three-dots icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:182
+msgid "Enable **Read receipt**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:183
+msgid "Close the menu and send the email."
+msgstr "Fare clic sul pulsante **INVIA** per inviare l'email."
+
+#: ../../mobile_apps/mail_app.rst:188
+msgid "To save a draft while composing:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:190
+msgid "Open **More options** (three-dots icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:191
+msgid ""
+"Select **Save draft** (or simply exit the compose screen if the app "
+"autosaves drafts)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:196
+msgid "Open the app menu (typically the menu icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:197
+msgid "Go to the **Drafts** folder."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:198
+msgid "Open the draft you want to send."
+msgstr "Scegli l'azione che desideri eseguire."
+
+#: ../../mobile_apps/mail_app.rst:199
+msgid "Tap **Send**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:204
+msgid "To forward an email:"
+msgstr "Per leggere un email, semplicemente:"
+
+#: ../../mobile_apps/mail_app.rst:206 ../../mobile_apps/mail_app.rst:216
+msgid "Open the email."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:207 ../../mobile_apps/mail_app.rst:217
+msgid "Tap **More options** (three-dots icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:208
+msgid "Select **Forward** (or **Forward conversation**, if shown)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:209 ../../mobile_apps/mail_app.rst:219
+msgid "Enter the recipient and tap **Send**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:214
+msgid "To redirect an email (if available):"
+msgstr "Per leggere un email, semplicemente:"
+
+#: ../../mobile_apps/mail_app.rst:218
+msgid "Select **Redirect**."
+msgstr "Seleziona **Elementi miei**."
+
+#: ../../mobile_apps/mail_app.rst:224
+msgid ""
+"**Forward** sends a copy of the message to someone else (often allowing "
+"you to add your own text)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:225
+msgid ""
+"**Redirect** reroutes the original message to a new recipient as if it "
+"had been sent to them originally, making it easier for the new recipient "
+"to reply directly to the original sender."
+msgstr ""
+
+#: ../../mobile_apps/toc.rst:6
+msgid "Carbonio Mobile Applications"
+msgstr ""
+
+#: ../../mobile_apps/toc.rst:8
+msgid ""
+"The Carbonio mobile applications are available for Android and iOS "
+"devices. You can download them from the official stores using the links "
+"below."
+msgstr ""
+
+#: ../../mobile_apps/toc.rst:11
+msgid "**Android (Google Play Store)**"
+msgstr ""
+
+#: ../../mobile_apps/toc.rst:25
+msgid "**iOS (Apple App Store)**"
+msgstr ""
+
+#: ../../mobile_apps/toc.rst:40
+msgid "Table of Contents"
 msgstr ""
 
 #: ../../search/toc.rst:7
@@ -8673,8 +9480,8 @@ msgid ""
 "These search capabilities provide efficient ways to locate and manage "
 "your data within the |product| web client."
 msgstr ""
-"These search capabilities provide efficient ways to locate and manage your "
-"data within the Carbonio web client."
+"These search capabilities provide efficient ways to locate and manage "
+"your data within the Carbonio web client."
 
 #: ../../search/toc.rst:18
 msgid "Using Quick Search for Different Items"
@@ -9146,7 +9953,7 @@ msgid ""
 "meeting agenda."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:20 ../../videomeetings/toc.rst:45
+#: ../../videomeeting/toc.rst:20
 msgid "To create a new room:"
 msgstr ""
 
@@ -9154,7 +9961,6 @@ msgstr ""
 #: ../../videomeeting/toc.rst:69 ../../videomeeting/toc.rst:82
 #: ../../videomeeting/toc.rst:94 ../../videomeeting/toc.rst:106
 #: ../../videomeeting/toc.rst:115 ../../videomeeting/toc.rst:246
-#: ../../videomeetings/toc.rst:23 ../../videomeetings/toc.rst:212
 msgid "Select the Chats feature from your left sidebar."
 msgstr ""
 
@@ -9253,9 +10059,9 @@ msgid ""
 "**Simplified flow** Guests complete all required steps—name input and "
 "device setup—on one page, reducing effort and saving time."
 msgstr ""
-"**Flusso semplificato** Gli ospiti completano tutti i passaggi richiesti - "
-"immissione del nome e configurazione del dispositivo - in una sola pagina, "
-"riducendo lo sforzo e risparmiando tempo."
+"**Flusso semplificato** Gli ospiti completano tutti i passaggi richiesti "
+"- immissione del nome e configurazione del dispositivo - in una sola "
+"pagina, riducendo lo sforzo e risparmiando tempo."
 
 #: ../../videomeeting/toc.rst:60
 msgid ""
@@ -9263,10 +10069,10 @@ msgid ""
 "are seamlessly taken to the waiting room, where a clear message informs "
 "them that the moderator will admit them shortly."
 msgstr ""
-"**Transizione più fluida** Dopo aver fatto clic su **Pronto a partecipare**, "
-"gli ospiti vengono condotti senza soluzione di continuità nella stanza "
-"d'attesa, dove un messaggio chiaro li informa che il moderatore li ammetterà "
-"tra breve."
+"**Transizione più fluida** Dopo aver fatto clic su **Pronto a "
+"partecipare**, gli ospiti vengono condotti senza soluzione di continuità "
+"nella stanza d'attesa, dove un messaggio chiaro li informa che il "
+"moderatore li ammetterà tra breve."
 
 #: ../../videomeeting/toc.rst:65
 msgid "Editing Room Details"
@@ -9296,7 +10102,7 @@ msgstr "Fare clic sul pulsante **INVIA** per inviare l'email."
 msgid "Entering A Virtual Room"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:80 ../../videomeetings/toc.rst:64
+#: ../../videomeeting/toc.rst:80
 msgid ""
 "To enter a specific room, you need to have its link. To obtain the URL of"
 " a room, you can:"
@@ -9334,15 +10140,15 @@ msgid ""
 "colleagues."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:102 ../../videomeetings/toc.rst:86
+#: ../../videomeeting/toc.rst:102
 msgid "Holding A Video Call with A Member"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:104 ../../videomeetings/toc.rst:88
+#: ../../videomeeting/toc.rst:104
 msgid "To invite a colleague to a video call:"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:107 ../../videomeetings/toc.rst:91
+#: ../../videomeeting/toc.rst:107
 msgid ""
 "From the list of chats, choose the colleague with whom you want to have "
 "the video call."
@@ -9352,11 +10158,11 @@ msgstr ""
 msgid "Click on the START MEETING button on top of the chat area."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:111 ../../videomeetings/toc.rst:99
+#: ../../videomeeting/toc.rst:111
 msgid "Holding A Video Meeting with Multiple Members"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:113 ../../videomeetings/toc.rst:101
+#: ../../videomeeting/toc.rst:113
 msgid ""
 "You can use your personal room to invite others for a video meeting. To "
 "do so, you need to send them the link to your personal room. To obtain "
@@ -9375,7 +10181,7 @@ msgid ""
 "room. Once your selections are made, press ENTER to join the meeting."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:129 ../../videomeetings/toc.rst:110
+#: ../../videomeeting/toc.rst:129
 msgid "Enable Webcam and Microphone"
 msgstr ""
 
@@ -9403,11 +10209,11 @@ msgid ""
 "available options."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:139 ../../videomeetings/toc.rst:115
+#: ../../videomeeting/toc.rst:139
 msgid "Recording a Video Meeting"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:141 ../../videomeetings/toc.rst:117
+#: ../../videomeeting/toc.rst:141
 msgid "When you are in a video meeting and want to record it:"
 msgstr ""
 
@@ -9420,8 +10226,8 @@ msgid ""
 "In the chat box, click the **downward arrow** next to the *Recording* "
 "section at the top."
 msgstr ""
-"Clicca sull'icona della freccia verso il basso situata accanto alla sezione "
-"Tag per aprire l'elenco dei tag."
+"Clicca sull'icona della freccia verso il basso situata accanto alla "
+"sezione Tag per aprire l'elenco dei tag."
 
 #: ../../videomeeting/toc.rst:145
 msgid "Click **START RECORDING** to begin recording."
@@ -9450,7 +10256,7 @@ msgid ""
 "**START RECORDING**."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:158 ../../videomeetings/toc.rst:126
+#: ../../videomeeting/toc.rst:158
 msgid "Adding New Members to a Video Meeting"
 msgstr ""
 
@@ -9476,7 +10282,7 @@ msgid ""
 "on macOS."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:168 ../../videomeetings/toc.rst:138
+#: ../../videomeeting/toc.rst:168
 msgid "Accessing Chat History During a Video Meeting"
 msgstr ""
 
@@ -9487,7 +10293,7 @@ msgid ""
 "box."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:173 ../../videomeetings/toc.rst:143
+#: ../../videomeeting/toc.rst:173
 msgid "Sharing Screen During a Video Meeting"
 msgstr ""
 
@@ -9502,11 +10308,11 @@ msgid ""
 "then click Share."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:183 ../../videomeetings/toc.rst:174
+#: ../../videomeeting/toc.rst:183
 msgid "Maximizing Video Meeting Screen"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:185 ../../videomeetings/toc.rst:176
+#: ../../videomeeting/toc.rst:185
 msgid ""
 "To maximize the video meeting screen, click on the icon with arrows "
 "inside located on the bottom bar. If you do not see the bottom bar inside"
@@ -9625,7 +10431,7 @@ msgid ""
 "Participants section of the chat box."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:232 ../../videomeetings/toc.rst:179
+#: ../../videomeeting/toc.rst:232
 msgid "Muting Participants During a Video Meeting"
 msgstr ""
 
@@ -9655,11 +10461,7 @@ msgstr ""
 msgid "Click MUTE FOR ALL to confirm."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:242 ../../videomeetings/toc.rst:197
-msgid "Deleting a Meeting Room"
-msgstr ""
-
-#: ../../videomeeting/toc.rst:244 ../../videomeetings/toc.rst:199
+#: ../../videomeeting/toc.rst:244
 msgid "To delete a meeting room:"
 msgstr ""
 
@@ -9671,7 +10473,7 @@ msgstr ""
 msgid "Click DELETE to confirm."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:252 ../../videomeetings/toc.rst:208
+#: ../../videomeeting/toc.rst:252
 msgid "Adding Moderators to a Room"
 msgstr ""
 
@@ -9681,351 +10483,6 @@ msgstr ""
 
 #: ../../videomeeting/toc.rst:258
 msgid "Click the crown icon next to the participant’s name."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:7
-msgid "Working with Video Meetings :bdg-secondary:`LEGACY`"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:13
-msgid ""
-"In |product|, video meetings serve as a fundamental tool for facilitating"
-" seamless virtual collaboration. Whether conducting one-on-one "
-"discussions or hosting group meetings, video meetings provide a platform "
-"for face-to-face interaction, fostering real-time communication and "
-"enhancing teamwork."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:15
-msgid ""
-"Users can easily initiate or join meetings, share screens, and record "
-"meetings ensuring efficient collaboration."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:18
-msgid "Entering Your Personal Room"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:20
-msgid ""
-"Every person with an account on |product| has a personal room. You can "
-"use your room to invite others to meetings, whether they are colleagues "
-"with accounts on the same system or external users. To access and enter "
-"your personal room, follow these steps:"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:24
-msgid ""
-"Click PERSONAL ROOM located at the bottom left corner beneath the list of"
-" chats."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:26
-msgid "This action will open your room in another browser tab."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:29
-msgid "Inviting Members to Personal Room"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:31
-msgid "To invite other members to your personal room:"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:34 ../../videomeetings/toc.rst:105
-msgid ""
-"Click the **COPY LINK** located at the bottom left corner beneath the "
-"list of chats."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:36
-msgid ""
-"This will copy the link to access your room to your clipboard. You can "
-"paste it anywhere (such as in a chat) by right-clicking and selecting "
-"**Paste**, or by using the keyboard shortcut CTRL+V on Windows or "
-"command+V on macOS. Alternatively, you can enter your room and copy the "
-"URL of the page from the address bar of your browser, then send it to "
-"your colleagues."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:40
-msgid "Creating New Room"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:42
-msgid ""
-"Rooms are shared spaces where you can hold video meetings and engage in "
-"conversations via chat. You can create them based on different topics you"
-" want to discuss so that the attendees are informed about the meeting "
-"agenda."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:48
-msgid ""
-"Click **CREATE ROOM** located at the bottom left corner beneath the list "
-"of chats. A new window appears."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:49
-msgid "Insert a name for the room in the first field."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:50
-msgid ""
-"If you want to have other moderators who can assist in managing the room "
-"alongside you, the main moderator, you can insert your colleagues' emails"
-" in the second field and select them from the suggested list. This step "
-"is optional."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:53
-msgid ""
-"Your room has been successfully created and will be accessible through "
-"the **Rooms tab**."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:55
-msgid ""
-"You can use the **ROOM'S LINK** button to copy the room's link. Upon "
-"clicking the button, the link will be copied to your clipboard. You can "
-"paste it anywhere (such as in a chat) by right-clicking and selecting "
-"**Paste**, or by using the keyboard shortcut CTRL+V on Windows or "
-"command+V on macOS."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:57
-msgid ""
-"If you want to change the link to access the room, click on **RESET "
-"LINK**. This action will generate another URL for the room. It is useful "
-"in case you have shared the room's link with the wrong person or want to "
-"update the link for security reasons."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:59
-msgid "ou can use the **JOIN ROOM** button to enter the room."
-msgstr "You can use the **JOIN ROOM** button to enter the room."
-
-#: ../../videomeetings/toc.rst:62
-msgid "Entering a Room"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:67 ../../videomeetings/toc.rst:79
-#: ../../videomeetings/toc.rst:202
-msgid "Select the **Rooms tab**."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:68 ../../videomeetings/toc.rst:80
-#: ../../videomeetings/toc.rst:203 ../../videomeetings/toc.rst:214
-msgid "Click on the desired room from the list to select it."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:69 ../../videomeetings/toc.rst:81
-msgid "Click ROOM’S LINK."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:71
-msgid ""
-"This action will copy the link to access the room to your clipboard. You "
-"can paste it into the address bar of a new browser tab and press Enter. "
-"This will direct you to the room."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:74
-msgid "Inviting Members to A Room"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:76
-msgid "To invite other members to a room:"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:83
-msgid ""
-"This will copy the link to access the room to your clipboard. You can "
-"paste it anywhere (such as in a chat) by right-clicking and selecting "
-"**Paste**, or by using the keyboard shortcut CTRL+V on Windows or "
-"command+V on macOS."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:92
-msgid ""
-"Click on the **INVITE TO YOUR PERSONAL ROOM** button on top of the chat "
-"area."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:107 ../../videomeetings/toc.rst:135
-msgid ""
-"This will copy the link to access your room to your clipboard. You can "
-"paste it anywhere (such as in a chat) by right-clicking and selecting "
-"**Paste**, or by using the keyboard shortcut CTRL+V on Windows or "
-"command+V on macOS."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:112
-msgid ""
-"When you are in a video meeting, you can turn your webcam or microphone "
-"on or off. Here is how: Toggle the microphone or camera icon on the "
-"bottom bar inside the meeting room. If you do not see the bottom bar, "
-"simply move your mouse cursor to the bottom of the screen, and it will "
-"appear."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:119
-msgid "Click the blue button in the bottom left corner to open the chat box."
-msgstr "Click the blue button in the bottom left corner to open the chat box."
-
-#: ../../videomeetings/toc.rst:120
-msgid "Click the \"i\" icon located at the top right corner of the chat box."
-msgstr "Click the \"i\" icon located at the top right corner of the chat box."
-
-#: ../../videomeetings/toc.rst:121
-msgid "Under the **Recording** section, click **START**."
-msgstr "Under the **Recording** section, click **START**."
-
-#: ../../videomeetings/toc.rst:123
-msgid ""
-"To stop the video meeting, simply click the **STOP** button. This action "
-"will automatically save your recording file into your Files."
-msgstr ""
-"To stop the video meeting, simply click the **STOP** button. This action "
-"will automatically save your recording file into your Files."
-
-#: ../../videomeetings/toc.rst:128
-msgid ""
-"To add new members to an ongoing video meeting, you need to send them the"
-" link to access the room."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:130
-msgid ""
-"Here is how: #.      Click the blue button in the bottom left corner to "
-"open the chat box. #.      Click the \"i\" icon located at the top right "
-"corner of the chat box. #.      Click COPY ROOM’S LINK."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:140
-msgid ""
-"To access the chat box of the room where you are having the video "
-"meeting, simply click the blue button in the bottom left corner."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:145
-msgid "When you are in a video meeting, you can share your screen with attendees."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:147
-msgid ""
-"Here is how: Click the screen icon on the bottom bar inside the meeting "
-"room. If you do not see the bottom bar, simply move your mouse cursor to "
-"the bottom of the screen, and it will appear."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:149
-msgid ""
-"You have three options to choose from: •       Your browser tab. •       "
-"A specific window. •       Entire screen."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:154
-msgid "Select the desired option and then click **Share**."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:157
-msgid "Toggling Grid View and Cinema View During a Video Meeting"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:159
-msgid ""
-"When you are in a video meeting, you can change the viewing option to "
-"different available modes:"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:161
-msgid "Cinema mode."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:162
-msgid "Grid mode."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:164
-msgid ""
-"In cinema mode, the speaker appears in the biggest box, while others are "
-"displayed in smaller boxes in the right corner. In grid mode, all "
-"attendees are shown together in the center part simultaneously. To switch"
-" between these modes, click on the icon with boxes inside located on the "
-"bottom bar. If you do not see the bottom bar inside the meeting room, "
-"simply move your mouse cursor to the bottom of the screen, and it will "
-"appear."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:168
-msgid "Adding Virtual Background to Your Video During a Video Meeting"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:170
-msgid ""
-"When you are in a video meeting, you have the option to change the "
-"background of your video feed, allowing other attendees to see a "
-"different background behind you. To do so: click on the circular icon "
-"located on the bottom bar. If you do not see the bottom bar inside the "
-"meeting room, simply move your mouse cursor to the bottom of the screen, "
-"and it will appear."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:181
-msgid ""
-"As the moderator of a meeting room, you can mute an attendee's microphone"
-" individually. To do so, simply hover your cursor over the video feed of "
-"the attendee and click on the microphone icon located at the top right of"
-" their video feed."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:184
-msgid "Resetting the Meeting Room's Link"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:186
-msgid ""
-"It is useful in case you have shared the room's link with the wrong "
-"person or want to update the link for security reasons."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:188
-msgid ""
-"If you want to change the link to access the room: #.      Select the "
-"**Chats feature** from your left sidebar. #.      Select the **Rooms "
-"tab**. #.      Click on the desired room from the list to select it. #."
-"      Click on the **RESET LINK**."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:194
-msgid "This action will generate another URL for the room"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:204
-msgid "Click on DELETE ROOM."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:210
-msgid "To Add a moderator in a meeting room:"
-msgstr ""
-
-#: ../../videomeetings/toc.rst:213
-msgid "Select the Rooms tab."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:215
-msgid "Click on ADD MODERATOR. A new window appears."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:216
-msgid ""
-"Begin typing the email address of the new moderator and select it from "
-"the suggested list."
-msgstr ""
-
-#: ../../videomeetings/toc.rst:217
-msgid "Click ADD."
 msgstr ""
 
 #~ msgid ""
@@ -11221,3 +11678,616 @@ msgstr ""
 #~ " the link to view and download "
 #~ "the content of the file or folder."
 #~ msgstr ""
+
+#~ msgid "Working with Chats :bdg-secondary:`LEGACY`"
+#~ msgstr "Working with Chats (WSC) :bdg-primary:`NEW`"
+
+#~ msgid ""
+#~ "Within the |product| web client, Chats"
+#~ " are a pivotal communication tool, "
+#~ "accommodating both one-on-one and "
+#~ "group conversations. Users can engage in"
+#~ " centralized messaging, facilitating real-"
+#~ "time discussions and enhancing collaborative"
+#~ " efforts."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Whether it is sharing updates, "
+#~ "exchanging ideas, or coordinating tasks, "
+#~ "the Chats provide a streamlined platform"
+#~ " for efficient teamwork. Notification "
+#~ "alerts keep users connected and "
+#~ "informed, ensuring productivity regardless of"
+#~ " their location, whether remote or in"
+#~ " the office."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Now, this chat is added under the"
+#~ " Chats tab, containing a list of "
+#~ "all available chats."
+#~ msgstr ""
+#~ "Ora, questa chat viene aggiunta nella"
+#~ " scheda Chat, che contiene un elenco"
+#~ " di tutte le chat disponibili."
+
+#~ msgid ""
+#~ "Initially, you will not see any "
+#~ "chats in your chat system, but "
+#~ "once you create them, you can find"
+#~ " them on the list."
+#~ msgstr ""
+#~ "Inizialmente, non vedrai alcuna chat nel"
+#~ " tuo sistema di chat, ma una "
+#~ "volta create, puoi trovarle nell'elenco."
+
+#~ msgid "Click **SHARE PUBLICK LINK**."
+#~ msgstr ""
+
+#~ msgid "Click **DELETE** to confirm."
+#~ msgstr ""
+
+#~ msgid "Select **Create Group** from the drop-down menu. A new window appears."
+#~ msgstr ""
+
+#~ msgid "Insert a name for the group."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the next field, begin typing "
+#~ "the email address of the colleagues "
+#~ "you wish to add to the group."
+#~ msgstr ""
+
+#~ msgid "Now this group is added to your list under the Chats tab."
+#~ msgstr ""
+
+#~ msgid "You can add new members to a group if you are a moderator. Here is how:"
+#~ msgstr ""
+
+#~ msgid "Select the group to which you want to add members."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On the right side of the Main "
+#~ "Panel, click **Add new members**. A "
+#~ "new window appears."
+#~ msgstr ""
+
+#~ msgid "Begin typing the email address of the colleague you wish to add."
+#~ msgstr ""
+
+#~ msgid "Click **SAVE**."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can enable the checkbox labeled "
+#~ "**Show previous conversation history** to "
+#~ "allow members to view previous messages."
+#~ " Otherwise, they will not be able "
+#~ "to see them."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can remove members from a "
+#~ "group if you are a moderator. Here"
+#~ " is how:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On the right side of the Main "
+#~ "Panel, under the **Participants section**, "
+#~ "click on the trash icon next to"
+#~ " the user you want to remove."
+#~ msgstr ""
+
+#~ msgid "Click **REMOVE** to confirm."
+#~ msgstr ""
+
+#~ msgid "Leave Group"
+#~ msgstr ""
+
+#~ msgid "To leave a group:"
+#~ msgstr ""
+
+#~ msgid "Select the group you want to leave."
+#~ msgstr ""
+
+#~ msgid "On the right side of the Main Panel, click **Leave Group**."
+#~ msgstr ""
+
+#~ msgid "Click **LEAVE** to confirm."
+#~ msgstr ""
+
+#~ msgid "Assigning Moderators for A Group"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you are already a moderator, "
+#~ "you can assign other moderators to "
+#~ "a group. Here is how:"
+#~ msgstr ""
+
+#~ msgid "Select the group to which you want to add a moderator."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On the right side of the Main "
+#~ "Panel, under the **Participants section**, "
+#~ "click on the crown icon next to"
+#~ " the user you want to appoint "
+#~ "as a moderator."
+#~ msgstr ""
+
+#~ msgid "Edit a Group's Name"
+#~ msgstr ""
+
+#~ msgid "To edit a group’s name:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "On the right side of the Main "
+#~ "Panel, click on the pen icon next"
+#~ " to the group’s name."
+#~ msgstr ""
+#~ "Sul lato destro del Pannello principale,"
+#~ " fare clic sull'icona della penna "
+#~ "accanto al nome del gruppo."
+
+#~ msgid "Exporting a Group to the New Chat:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To export an existing group to the"
+#~ " new chat, simply enter the group,"
+#~ " click the button on the right, "
+#~ "below the group’s name, **COPY GROUP**."
+#~ " A modal will then appear with "
+#~ "all the information related to migrating"
+#~ " the group from the old chat to"
+#~ " the new one. Simply click the "
+#~ "**CONTINUE** button, and the group will"
+#~ " be duplicated, redirecting you to "
+#~ "the exported group in the new "
+#~ "chat."
+#~ msgstr ""
+
+#~ msgid "Search for A Member in Your Chats List"
+#~ msgstr "Cercare un membro nella tua lista dei chat"
+
+#~ msgid "Under the **Filter chats list** field, insert your colleague's name."
+#~ msgstr "Sotto il campo **Filtra lista chat**, inserire il nome del collega."
+
+#~ msgid ""
+#~ "When you want to attach large "
+#~ "attachments to an email, you may "
+#~ "encounter some limitations. When you "
+#~ "reach the size limit set by your"
+#~ " admin for the attachments, using the"
+#~ " \"smart links\" option, it is "
+#~ "possible to convert every attachment in"
+#~ " Smart Links by clicking the "
+#~ "**paperclip** icon inside the composing "
+#~ "board and choosing the \"Add public "
+#~ "link from Files option\". (lui "
+#~ "suggerisce)"
+#~ msgstr ""
+
+#~ msgid "Legacy modules"
+#~ msgstr ""
+
+#~ msgid "Working with Video Meetings :bdg-secondary:`LEGACY`"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In |product|, video meetings serve as"
+#~ " a fundamental tool for facilitating "
+#~ "seamless virtual collaboration. Whether "
+#~ "conducting one-on-one discussions or "
+#~ "hosting group meetings, video meetings "
+#~ "provide a platform for face-to-"
+#~ "face interaction, fostering real-time "
+#~ "communication and enhancing teamwork."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Users can easily initiate or join "
+#~ "meetings, share screens, and record "
+#~ "meetings ensuring efficient collaboration."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Every person with an account on "
+#~ "|product| has a personal room. You "
+#~ "can use your room to invite others"
+#~ " to meetings, whether they are "
+#~ "colleagues with accounts on the same "
+#~ "system or external users. To access "
+#~ "and enter your personal room, follow "
+#~ "these steps:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Click PERSONAL ROOM located at the "
+#~ "bottom left corner beneath the list "
+#~ "of chats."
+#~ msgstr ""
+
+#~ msgid "This action will open your room in another browser tab."
+#~ msgstr ""
+
+#~ msgid "Inviting Members to Personal Room"
+#~ msgstr ""
+
+#~ msgid "To invite other members to your personal room:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Click the **COPY LINK** located at "
+#~ "the bottom left corner beneath the "
+#~ "list of chats."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This will copy the link to access"
+#~ " your room to your clipboard. You "
+#~ "can paste it anywhere (such as in"
+#~ " a chat) by right-clicking and "
+#~ "selecting **Paste**, or by using the "
+#~ "keyboard shortcut CTRL+V on Windows or"
+#~ " command+V on macOS. Alternatively, you "
+#~ "can enter your room and copy the"
+#~ " URL of the page from the "
+#~ "address bar of your browser, then "
+#~ "send it to your colleagues."
+#~ msgstr ""
+
+#~ msgid "Creating New Room"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Rooms are shared spaces where you "
+#~ "can hold video meetings and engage "
+#~ "in conversations via chat. You can "
+#~ "create them based on different topics"
+#~ " you want to discuss so that "
+#~ "the attendees are informed about the "
+#~ "meeting agenda."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Click **CREATE ROOM** located at the "
+#~ "bottom left corner beneath the list "
+#~ "of chats. A new window appears."
+#~ msgstr ""
+
+#~ msgid "Insert a name for the room in the first field."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you want to have other "
+#~ "moderators who can assist in managing"
+#~ " the room alongside you, the main "
+#~ "moderator, you can insert your "
+#~ "colleagues' emails in the second field"
+#~ " and select them from the suggested"
+#~ " list. This step is optional."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Your room has been successfully created"
+#~ " and will be accessible through the"
+#~ " **Rooms tab**."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can use the **ROOM'S LINK** "
+#~ "button to copy the room's link. "
+#~ "Upon clicking the button, the link "
+#~ "will be copied to your clipboard. "
+#~ "You can paste it anywhere (such as"
+#~ " in a chat) by right-clicking "
+#~ "and selecting **Paste**, or by using "
+#~ "the keyboard shortcut CTRL+V on Windows"
+#~ " or command+V on macOS."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you want to change the link "
+#~ "to access the room, click on "
+#~ "**RESET LINK**. This action will "
+#~ "generate another URL for the room. "
+#~ "It is useful in case you have "
+#~ "shared the room's link with the "
+#~ "wrong person or want to update the"
+#~ " link for security reasons."
+#~ msgstr ""
+
+#~ msgid "ou can use the **JOIN ROOM** button to enter the room."
+#~ msgstr "You can use the **JOIN ROOM** button to enter the room."
+
+#~ msgid "Select the **Rooms tab**."
+#~ msgstr ""
+
+#~ msgid "Click on the desired room from the list to select it."
+#~ msgstr ""
+
+#~ msgid "Click ROOM’S LINK."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This action will copy the link to"
+#~ " access the room to your clipboard."
+#~ " You can paste it into the "
+#~ "address bar of a new browser tab"
+#~ " and press Enter. This will direct"
+#~ " you to the room."
+#~ msgstr ""
+
+#~ msgid "Inviting Members to A Room"
+#~ msgstr ""
+
+#~ msgid "To invite other members to a room:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This will copy the link to access"
+#~ " the room to your clipboard. You "
+#~ "can paste it anywhere (such as in"
+#~ " a chat) by right-clicking and "
+#~ "selecting **Paste**, or by using the "
+#~ "keyboard shortcut CTRL+V on Windows or"
+#~ " command+V on macOS."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Click on the **INVITE TO YOUR "
+#~ "PERSONAL ROOM** button on top of "
+#~ "the chat area."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This will copy the link to access"
+#~ " your room to your clipboard. You "
+#~ "can paste it anywhere (such as in"
+#~ " a chat) by right-clicking and "
+#~ "selecting **Paste**, or by using the "
+#~ "keyboard shortcut CTRL+V on Windows or"
+#~ " command+V on macOS."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "When you are in a video meeting,"
+#~ " you can turn your webcam or "
+#~ "microphone on or off. Here is how:"
+#~ " Toggle the microphone or camera icon"
+#~ " on the bottom bar inside the "
+#~ "meeting room. If you do not see"
+#~ " the bottom bar, simply move your "
+#~ "mouse cursor to the bottom of the"
+#~ " screen, and it will appear."
+#~ msgstr ""
+
+#~ msgid "Click the blue button in the bottom left corner to open the chat box."
+#~ msgstr "Click the blue button in the bottom left corner to open the chat box."
+
+#~ msgid "Click the \"i\" icon located at the top right corner of the chat box."
+#~ msgstr "Click the \"i\" icon located at the top right corner of the chat box."
+
+#~ msgid ""
+#~ "To stop the video meeting, simply "
+#~ "click the **STOP** button. This action"
+#~ " will automatically save your recording "
+#~ "file into your Files."
+#~ msgstr ""
+#~ "To stop the video meeting, simply "
+#~ "click the **STOP** button. This action"
+#~ " will automatically save your recording "
+#~ "file into your Files."
+
+#~ msgid ""
+#~ "To add new members to an ongoing"
+#~ " video meeting, you need to send "
+#~ "them the link to access the room."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Here is how: #.      Click the "
+#~ "blue button in the bottom left "
+#~ "corner to open the chat box. #."
+#~ "      Click the \"i\" icon located at"
+#~ " the top right corner of the "
+#~ "chat box. #.      Click COPY ROOM’S "
+#~ "LINK."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To access the chat box of the "
+#~ "room where you are having the "
+#~ "video meeting, simply click the blue "
+#~ "button in the bottom left corner."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "When you are in a video meeting,"
+#~ " you can share your screen with "
+#~ "attendees."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Here is how: Click the screen icon"
+#~ " on the bottom bar inside the "
+#~ "meeting room. If you do not see"
+#~ " the bottom bar, simply move your "
+#~ "mouse cursor to the bottom of the"
+#~ " screen, and it will appear."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You have three options to choose "
+#~ "from: •       Your browser tab. •"
+#~ "       A specific window. •       Entire"
+#~ " screen."
+#~ msgstr ""
+
+#~ msgid "Select the desired option and then click **Share**."
+#~ msgstr ""
+
+#~ msgid "Toggling Grid View and Cinema View During a Video Meeting"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "When you are in a video meeting,"
+#~ " you can change the viewing option"
+#~ " to different available modes:"
+#~ msgstr ""
+
+#~ msgid "Cinema mode."
+#~ msgstr ""
+
+#~ msgid "Grid mode."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In cinema mode, the speaker appears "
+#~ "in the biggest box, while others "
+#~ "are displayed in smaller boxes in "
+#~ "the right corner. In grid mode, "
+#~ "all attendees are shown together in "
+#~ "the center part simultaneously. To "
+#~ "switch between these modes, click on "
+#~ "the icon with boxes inside located "
+#~ "on the bottom bar. If you do "
+#~ "not see the bottom bar inside the"
+#~ " meeting room, simply move your mouse"
+#~ " cursor to the bottom of the "
+#~ "screen, and it will appear."
+#~ msgstr ""
+
+#~ msgid "Adding Virtual Background to Your Video During a Video Meeting"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "When you are in a video meeting,"
+#~ " you have the option to change "
+#~ "the background of your video feed, "
+#~ "allowing other attendees to see a "
+#~ "different background behind you. To do"
+#~ " so: click on the circular icon "
+#~ "located on the bottom bar. If you"
+#~ " do not see the bottom bar "
+#~ "inside the meeting room, simply move "
+#~ "your mouse cursor to the bottom of"
+#~ " the screen, and it will appear."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "As the moderator of a meeting "
+#~ "room, you can mute an attendee's "
+#~ "microphone individually. To do so, "
+#~ "simply hover your cursor over the "
+#~ "video feed of the attendee and "
+#~ "click on the microphone icon located "
+#~ "at the top right of their video"
+#~ " feed."
+#~ msgstr ""
+
+#~ msgid "Resetting the Meeting Room's Link"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "It is useful in case you have "
+#~ "shared the room's link with the "
+#~ "wrong person or want to update the"
+#~ " link for security reasons."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you want to change the link "
+#~ "to access the room: #.      Select "
+#~ "the **Chats feature** from your left "
+#~ "sidebar. #.      Select the **Rooms "
+#~ "tab**. #.      Click on the desired "
+#~ "room from the list to select it."
+#~ " #.      Click on the **RESET LINK**."
+#~ msgstr ""
+
+#~ msgid "This action will generate another URL for the room"
+#~ msgstr ""
+
+#~ msgid "Click on DELETE ROOM."
+#~ msgstr ""
+
+#~ msgid "To Add a moderator in a meeting room:"
+#~ msgstr ""
+
+#~ msgid "Select the Rooms tab."
+#~ msgstr ""
+
+#~ msgid "Click on ADD MODERATOR. A new window appears."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Begin typing the email address of "
+#~ "the new moderator and select it "
+#~ "from the suggested list."
+#~ msgstr ""
+
+#~ msgid "Click ADD."
+#~ msgstr ""
+
+#~ msgid "Working with Mail App"
+#~ msgstr "Lavorare con file"
+
+#~ msgid "### Information"
+#~ msgstr ""
+
+#~ msgid "### Settings"
+#~ msgstr ""
+
+#~ msgid "### Mailbox Quota and Version"
+#~ msgstr ""
+
+#~ msgid "Entering Your Personal Room"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Each Carbonio account includes a "
+#~ "personal room you can use to host"
+#~ " meetings with colleagues or external "
+#~ "participants."
+#~ msgstr ""
+
+#~ msgid "To enter your personal room:"
+#~ msgstr "Per"
+
+#~ msgid "In **Personal Room**, tap **Join/Call** (camera icon)."
+#~ msgstr ""
+
+#~ msgid "Confirm if prompted."
+#~ msgstr ""
+
+#~ msgid "Inviting Members to Your Personal Room"
+#~ msgstr ""
+
+#~ msgid "In **Personal Room**, tap **Copy link**."
+#~ msgstr ""
+
+#~ msgid "Paste the link in an email or chat to invite others."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**Reset link** to generate a new "
+#~ "URL (useful if you shared it by"
+#~ " mistake)."
+#~ msgstr ""
+
+#~ msgid "Resetting a Meeting Room Link"
+#~ msgstr ""
+
+#~ msgid "To change a room link:"
+#~ msgstr ""
+
+#~ msgid "Select **Reset link**."
+#~ msgstr "Seleziona **Elementi miei**."

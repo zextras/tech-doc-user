@@ -33,11 +33,11 @@ current_year = time.strftime('%Y')
 # -- Project information -----------------------------------------------------
 
 project = 'Carbonio User Guide'
-copyright = '2025: ZEXTRAS'
+copyright = '2026: ZEXTRAS'
 author = 'The Zextras Team'
 
 # The full version, including alpha/beta/rc tags
-release = '25.12'
+release = '26.3'
 version = release
 
 # -- General configuration ---------------------------------------------------
@@ -143,3 +143,4 @@ pdf_title = 'User Guide'
 latex_documents = [ [ master_doc, pdf_file, pdf_title, author, 'manual', True ] ]
 latex_use_xindy = False
 latex_logo = '_static/carbonio-logo.png'
+

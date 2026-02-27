@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-27 18:22+0100\n"
 "PO-Revision-Date: 2026-02-27 17:31+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -10919,7 +10919,7 @@ msgstr "Aggiungi facoltativamente un messaggio, quindi tocca **Invia**."
 
 #: ../../mobile_apps/mail_app.rst:7
 msgid "Carbonio Mail App"
-msgstr ""
+msgstr "Carbonio Mail App"
 
 #: ../../mobile_apps/mail_app.rst:9
 msgid ""
@@ -11455,7 +11455,7 @@ msgstr ""
 
 #: ../../mobile_apps/toc.rst:6
 msgid "Carbonio Mobile Applications"
-msgstr ""
+msgstr "Applicazioni Mobile Carbonio"
 
 #: ../../mobile_apps/toc.rst:8
 msgid ""
@@ -11463,18 +11463,21 @@ msgid ""
 "devices. You can download them from the official stores using the links "
 "below."
 msgstr ""
+"Le applicazioni mobile di Carbonio sono disponibili per dispositivi Android "
+"e iOS. È possibile scaricarle dagli store ufficiali utilizzando i link qui "
+"sotto."
 
 #: ../../mobile_apps/toc.rst:11
 msgid "**Android (Google Play Store)**"
-msgstr ""
+msgstr "**Android (Google Play Store)**"
 
 #: ../../mobile_apps/toc.rst:25
 msgid "**iOS (Apple App Store)**"
-msgstr ""
+msgstr "**iOS (Apple App Store)**"
 
 #: ../../mobile_apps/toc.rst:40
 msgid "Table of Contents"
-msgstr ""
+msgstr "Indice"
 
 #: ../../search/toc.rst:7
 msgid "Working with Search"

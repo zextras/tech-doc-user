@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-25 09:47+0100\n"
-"PO-Revision-Date: 2026-02-24 16:52+0000\n"
-"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
+"PO-Revision-Date: 2026-02-27 17:14+0000\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -11410,7 +11410,7 @@ msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
 
 #: ../../mobile_apps/toc.rst:484 ../../mobile_apps/toc.rst:493
 msgid "Open **Trash**."
-msgstr ""
+msgstr "Apri **Cestino**."
 
 #: ../../mobile_apps/toc.rst:485 ../../mobile_apps/toc.rst:494
 #, fuzzy
@@ -11421,7 +11421,7 @@ msgstr "Seleziona **I miei elementi**."
 #: ../../mobile_apps/toc.rst:503 ../../mobile_apps/toc.rst:510
 #: ../../mobile_apps/toc.rst:517 ../../mobile_apps/toc.rst:524
 msgid "Tap **More options** next to the item."
-msgstr ""
+msgstr "Tocca **Altre opzioni** accanto all'elemento."
 
 #: ../../mobile_apps/toc.rst:487
 #, fuzzy
@@ -11440,7 +11440,7 @@ msgstr "Seleziona **Auth**."
 
 #: ../../mobile_apps/toc.rst:498
 msgid "The item returns to its original location."
-msgstr ""
+msgstr "L'elemento torna alla sua posizione originale."
 
 #: ../../mobile_apps/toc.rst:501
 #, fuzzy
@@ -11454,7 +11454,7 @@ msgstr "Seleziona **Calendari**."
 
 #: ../../mobile_apps/toc.rst:505
 msgid "Enter the new name and confirm."
-msgstr ""
+msgstr "Inserisci il nuovo nome e conferma."
 
 #: ../../mobile_apps/toc.rst:508
 #, fuzzy
@@ -11500,7 +11500,7 @@ msgstr "Per condividere una cartella email con un collega:"
 
 #: ../../mobile_apps/toc.rst:534
 msgid "Tap **More options** next to the file/folder."
-msgstr ""
+msgstr "Tocca **Altre opzioni** accanto al file/cartaella."
 
 #: ../../mobile_apps/toc.rst:535
 #, fuzzy
@@ -11517,16 +11517,20 @@ msgstr ""
 #: ../../mobile_apps/toc.rst:537
 msgid "Choose the permission level (for example: **Viewer**, **Editor**)."
 msgstr ""
+"Scegli il livello di autorizzazione (ad esempio: **Visualizzatore**, "
+"**Editore**)."
 
 #: ../../mobile_apps/toc.rst:538
 msgid ""
 "If available, enable **Sharing allowed** to let collaborators share the "
 "item further."
 msgstr ""
+"Se disponibile, abilita **Condivisione consentita** per consentire ai "
+"collaboratori di condividere ulteriormente l'elemento."
 
 #: ../../mobile_apps/toc.rst:539
 msgid "Optionally add a message, then tap **Send**."
-msgstr ""
+msgstr "Aggiungi facoltativamente un messaggio, quindi tocca **Invia**."
 
 #: ../../search/toc.rst:7
 msgid "Working with Search"
@@ -15135,4 +15139,3 @@ msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #~ msgid "Click ADD."
 #~ msgstr "Clicca AGGIUNGI."
-

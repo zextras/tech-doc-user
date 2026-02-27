@@ -143,3 +143,4 @@ pdf_title = 'User Guide'
 latex_documents = [ [ master_doc, pdf_file, pdf_title, author, 'manual', True ] ]
 latex_use_xindy = False
 latex_logo = '_static/carbonio-logo.png'
+

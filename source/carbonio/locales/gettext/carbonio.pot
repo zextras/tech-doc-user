@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Carbonio User Guide 26.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:47+0100\n"
+"POT-Creation-Date: 2026-02-27 18:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2638,7 +2638,7 @@ msgid "Click the Print button to proceed with printing."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:243
-#: ../../mobile_apps/toc.rst:134
+#: ../../mobile_apps/mail_app.rst:132
 msgid "Actions on Multiple Emails at Once"
 msgstr ""
 
@@ -4157,7 +4157,7 @@ msgid "In this section, you will discover how to navigate |product| email compos
 msgstr ""
 
 #: ../../composing_emails/toc.rst:12
-#: ../../mobile_apps/toc.rst:69
+#: ../../mobile_apps/mail_app.rst:67
 msgid "Composing a New Email"
 msgstr ""
 
@@ -4309,7 +4309,7 @@ msgid "Attachments play a crucial role in enhancing the effectiveness of email c
 msgstr ""
 
 #: ../../composing_emails/toc.rst:93
-#: ../../mobile_apps/toc.rst:144
+#: ../../mobile_apps/mail_app.rst:142
 msgid "Adding Attachments"
 msgstr ""
 
@@ -4371,7 +4371,7 @@ msgid "To remove an attachment from the email you are composing, simply click on
 msgstr ""
 
 #: ../../composing_emails/toc.rst:134
-#: ../../mobile_apps/toc.rst:169
+#: ../../mobile_apps/mail_app.rst:167
 msgid "Send an Email from a Different Account or Persona"
 msgstr ""
 
@@ -4400,7 +4400,7 @@ msgid "Choose your preferred identity or persona from the menu."
 msgstr ""
 
 #: ../../composing_emails/toc.rst:153
-#: ../../mobile_apps/toc.rst:179
+#: ../../mobile_apps/mail_app.rst:177
 msgid "Request a Read Receipt"
 msgstr ""
 
@@ -4446,7 +4446,7 @@ msgid "Important emails will be indicated by a red upward arrow in front of the 
 msgstr ""
 
 #: ../../composing_emails/toc.rst:183
-#: ../../mobile_apps/toc.rst:188
+#: ../../mobile_apps/mail_app.rst:186
 msgid "Save an Email as a Draft"
 msgstr ""
 
@@ -4467,7 +4467,7 @@ msgid "Your email will be saved in the **Draft** folder accessible from your nav
 msgstr ""
 
 #: ../../composing_emails/toc.rst:193
-#: ../../mobile_apps/toc.rst:196
+#: ../../mobile_apps/mail_app.rst:194
 msgid "Send a Drafted Email"
 msgstr ""
 
@@ -4492,7 +4492,7 @@ msgid "To send the email, simply click on the send button located at the top rig
 msgstr ""
 
 #: ../../composing_emails/toc.rst:207
-#: ../../mobile_apps/toc.rst:108
+#: ../../mobile_apps/mail_app.rst:106
 msgid "Replying to an Email"
 msgstr ""
 
@@ -4531,7 +4531,7 @@ msgid "This option is ideal for situations where your response is relevant to ev
 msgstr ""
 
 #: ../../composing_emails/toc.rst:227
-#: ../../mobile_apps/toc.rst:204
+#: ../../mobile_apps/mail_app.rst:202
 msgid "Forwarding an Email"
 msgstr ""
 
@@ -4549,7 +4549,7 @@ msgid "A new composing board will appear, allowing you to address new recipients
 msgstr ""
 
 #: ../../composing_emails/toc.rst:238
-#: ../../mobile_apps/toc.rst:214
+#: ../../mobile_apps/mail_app.rst:212
 msgid "Redirecting an Email"
 msgstr ""
 
@@ -4562,7 +4562,7 @@ msgid "From the menu that appears, select **Redirect**."
 msgstr ""
 
 #: ../../composing_emails/toc.rst:249
-#: ../../mobile_apps/toc.rst:224
+#: ../../mobile_apps/mail_app.rst:222
 msgid "Forward vs. Redirect"
 msgstr ""
 
@@ -5210,7 +5210,7 @@ msgid "Using multiple |product| windows : when using two or more open browser's 
 msgstr ""
 
 #: ../../files/toc.rst:27
-#: ../../mobile_apps/toc.rst:447
+#: ../../mobile_apps/files_app.rst:12
 msgid "Creating a Folder"
 msgstr ""
 
@@ -5593,7 +5593,7 @@ msgid "Alternatively, you can drag and drop files into different folders, or the
 msgstr ""
 
 #: ../../files/toc.rst:221
-#: ../../mobile_apps/toc.rst:515
+#: ../../mobile_apps/files_app.rst:80
 msgid "Copying a File"
 msgstr ""
 
@@ -5618,7 +5618,7 @@ msgid "Click the **COPY** button."
 msgstr ""
 
 #: ../../files/toc.rst:233
-#: ../../mobile_apps/toc.rst:522
+#: ../../mobile_apps/files_app.rst:87
 msgid "Flagging a File"
 msgstr ""
 
@@ -6685,1004 +6685,966 @@ msgid "Communication"
 msgstr ""
 
 #: ../../index.rst:82
-#: ../../mobile_apps/toc.rst:6
 msgid "Mobile Apps"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:9
-msgid "Working with Mail App"
+#: ../../mobile_apps/chat_app.rst:7
+msgid "Carbonio Chats App"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:11
-msgid "The Carbonio Mail app allows you to read, send, and organize email messages while on the go, enabling them to access their mailbox, manage messages, and perform common email operations directly from a mobile device."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:14
-msgid "Mail Settings"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:16
-msgid "The Mail settings screen allows users to configure application behavior, mailbox preferences, and account-related options."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:18
-msgid "To access the settings, open the **navigation menu** (hamburger icon) from the main Mail screen and tap **Settings**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:20
-msgid "### Information"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:22
-msgid "The **Information** section provides access to general application details:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:24
-msgid "**Notifications and sounds** Configure notification behavior and alert sounds for incoming messages."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:27
-msgid "**License** View license information for the application."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:30
-msgid "**Third-party licenses** Display licenses related to third-party components used by the application."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:33
-msgid "**Log out** Sign out from the current account."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:36
-msgid "### Settings"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:38
-msgid "The **Settings** section allows customization of Mail and related modules:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:40
-msgid "**General** Configure general preferences such as theme, synchronization interval, search behavior, out-of-office settings, and trusted senders."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:43
-msgid "**Account** Manage account-related options, including email signatures, account management, default email address, sent message settings, and delegated sending options."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:46
-msgid "**Email** Customize email behavior, including swipe actions, conversation view expansion, reading options, view type, and scheduled sending preferences."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:49
-msgid "**Contacts** Access and configure contact-related settings."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:52
-msgid "**Calendar** Manage calendar preferences, such as appointment visibility, first day of the week, appointment postponement, and calendar synchronization."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:55
-msgid "**Sharing** Configure sharing options for mailbox items and folders."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:58
-msgid "### Mailbox Quota and Version"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:60
-msgid "At the bottom of the settings screen, the application displays:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:62
-msgid "The current **mailbox quota usage**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:63
-msgid "The installed **application version**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:71
-msgid "To compose and send a new email message, follow these steps:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:73
-msgid "Tap **Compose** (pen icon) to open a new message."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:74
-msgid "If multiple sending identities or personas are available, select the appropriate one from the **From** field."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:75
-msgid "In the **To** field, enter one or more recipient email addresses."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:76
-msgid "Optionally, add additional recipients in the **Cc** or **Bcc** fields."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:77
-msgid "Enter a subject in the **Subject** field."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:78
-msgid "Write the message content in the email body."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:80
-msgid "While editing the message, additional options are available:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:82
-msgid "Use the **formatting toolbar** to customize the text appearance. You can:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:84
-msgid "Select a text style such as **Title**, **Subtitle**, or **Body text**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:85
-msgid "Change the text color."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:86
-msgid "Apply text formatting options, including **bold**, *italic*, underline, and other supported styles."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:88
-msgid "Tap the **Attachment** (paperclip) icon to:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:90
-msgid "Take a photo and attach it to the message."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:91
-msgid "Select one or more images from the device gallery."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:92
-msgid "Choose a document from the device storage."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:93
-msgid "Add files from **Carbonio Files**, if available."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:95
-msgid "Tap the **More options** (three-dot) icon to:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:97
-msgid "Save the message as a draft."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:98
-msgid "Schedule the message for delivery by selecting a date, time, and time zone."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:99
-msgid "Set the message priority."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:100
-msgid "Request a read receipt from the recipient."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:102
-msgid "When finished, tap **Send** (paper-plane icon) to send the message."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:104
-msgid "After the message is sent, a copy of the email is automatically saved in the **Sent** folder."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:110
-msgid "To reply to an email message, follow these steps:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:112
-msgid "Open the email you want to respond to."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:113
-msgid "Tap **More options** (three-dot icon)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:114
-msgid "Select **Reply** to respond to the sender only, or **Reply all** to respond to all recipients."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:115
-msgid "Write your message."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:116
-msgid "Tap **Send** (paper-plane icon) to send the reply."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:118
-msgid "While replying, the same editing, formatting, attachment, and message options available when composing a new email can be used. For more information, see :ref:`composing-a-new-email`."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:120
-msgid "A copy of the sent reply is automatically saved in the **Sent** folder."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:124
-msgid "Reply vs. Reply All"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:126
-msgid "The difference between **Reply** and **Reply all** is the recipients of your response:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:128
-msgid "**Reply** sends your response only to the original sender."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:129
-msgid "**Reply all** sends your response to the sender and to other recipients from the original email (typically added automatically in Cc)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:131
-msgid "Use **Reply all** only when your response is relevant to everyone included in the original conversation."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:136
-msgid "To perform actions on multiple emails:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:138
-msgid "Tap and hold an email to enter **selection mode**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:139
-msgid "Tap other emails to select them."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:140
-msgid "Tap **More options** (three-dots icon) or the available action buttons."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:141
-msgid "Choose the action you want (for example: mark as read/unread, flag, move, mark as spam, tag, delete)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:146
-msgid "While composing an email, you can attach files from your device, from Carbonio Files, or capture a photo/video (if supported)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:149
-msgid "Add an attachment from your device"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:151
-#: ../../mobile_apps/toc.rst:158
-#: ../../mobile_apps/toc.rst:254
-#: ../../mobile_apps/toc.rst:262
-msgid "Tap **Attach** (paperclip icon)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:152
-msgid "Choose an option such as **Take photo/video**, **Choose from gallery**, or **Browse/Document**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:153
-msgid "Select the file (or capture it) and confirm."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:156
-msgid "Add an attachment from Carbonio Files"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:159
-msgid "Select **Add from Files / Drive** (wording may vary)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:160
-msgid "Choose the file and confirm."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:164
-msgid "Attachments are a common way viruses spread. Administrators may block certain file types (for example ``.exe`` or ``.zip``). In some cases you may not receive a warning if the recipient’s system blocks the attachment—so consider confirming receipt when it’s important."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:171
-msgid "If you have multiple identities/personas configured, you can choose which one to use when composing:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:173
-msgid "In the compose screen, tap the **From** field."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:174
-msgid "Select the desired **identity/persona**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:176
-msgid "The recipient will see the selected identity/persona as the sender."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:181
-msgid "If available, you can request a read receipt:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:183
-msgid "While composing, open **More options** (three-dots icon)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:184
-msgid "Enable **Read receipt**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:185
-msgid "Close the menu and send the email."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:190
-msgid "To save a draft while composing:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:192
-msgid "Open **More options** (three-dots icon)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:193
-msgid "Select **Save draft** (or simply exit the compose screen if the app autosaves drafts)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:198
-msgid "Open the app menu (typically the menu icon)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:199
-msgid "Go to the **Drafts** folder."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:200
-msgid "Open the draft you want to send."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:201
-msgid "Tap **Send**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:206
-msgid "To forward an email:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:208
-#: ../../mobile_apps/toc.rst:218
-msgid "Open the email."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:209
-#: ../../mobile_apps/toc.rst:219
-msgid "Tap **More options** (three-dots icon)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:210
-msgid "Select **Forward** (or **Forward conversation**, if shown)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:211
-#: ../../mobile_apps/toc.rst:221
-msgid "Enter the recipient and tap **Send**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:216
-msgid "To redirect an email (if available):"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:220
-msgid "Select **Redirect**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:226
-msgid "**Forward** sends a copy of the message to someone else (often allowing you to add your own text)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:227
-msgid "**Redirect** reroutes the original message to a new recipient as if it had been sent to them originally, making it easier for the new recipient to reply directly to the original sender."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:231
-msgid "Working with Chats App"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:233
+#: ../../mobile_apps/chat_app.rst:9
 msgid "With the Carbonio Chats app, you can send instant messages, share files, and organize or join video meetings."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:236
+#: ../../mobile_apps/chat_app.rst:12
 msgid "Creating a New Chat"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:238
+#: ../../mobile_apps/chat_app.rst:14
 msgid "To start a 1-to-1 conversation:"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:240
-#: ../../mobile_apps/toc.rst:328
+#: ../../mobile_apps/chat_app.rst:16
+#: ../../mobile_apps/chat_app.rst:104
 msgid "Tap **New chat** (plus icon)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:241
+#: ../../mobile_apps/chat_app.rst:17
 msgid "Select **Single conversation / Private chat**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:242
+#: ../../mobile_apps/chat_app.rst:18
 msgid "Search for a colleague by name and select them."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:244
+#: ../../mobile_apps/chat_app.rst:20
 msgid "The conversation will appear in your chat list. In a chat, type your message in the text box and tap **Send**. You can also add emojis and attachments."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:248
+#: ../../mobile_apps/chat_app.rst:24
 msgid "Sending Files in Chats"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:251
+#: ../../mobile_apps/chat_app.rst:27
 msgid "Send a file from your device"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:253
-#: ../../mobile_apps/toc.rst:261
+#: ../../mobile_apps/chat_app.rst:29
+#: ../../mobile_apps/chat_app.rst:37
 msgid "Open the chat."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:255
+#: ../../mobile_apps/chat_app.rst:30
+#: ../../mobile_apps/chat_app.rst:38
+#: ../../mobile_apps/mail_app.rst:149
+#: ../../mobile_apps/mail_app.rst:156
+msgid "Tap **Attach** (paperclip icon)."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:31
 msgid "Select **Document** (or a similar option)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:256
-#: ../../mobile_apps/toc.rst:264
+#: ../../mobile_apps/chat_app.rst:32
+#: ../../mobile_apps/chat_app.rst:40
 msgid "Choose the file and tap **Send**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:259
+#: ../../mobile_apps/chat_app.rst:35
 msgid "Send a file from Carbonio Files"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:263
+#: ../../mobile_apps/chat_app.rst:39
 msgid "Select **Drive / Files** (wording may vary)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:267
+#: ../../mobile_apps/chat_app.rst:43
 msgid "Edit a Message"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:269
-#: ../../mobile_apps/toc.rst:280
-#: ../../mobile_apps/toc.rst:287
-#: ../../mobile_apps/toc.rst:294
+#: ../../mobile_apps/chat_app.rst:45
+#: ../../mobile_apps/chat_app.rst:56
+#: ../../mobile_apps/chat_app.rst:63
+#: ../../mobile_apps/chat_app.rst:70
 msgid "Tap and hold the message."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:270
+#: ../../mobile_apps/chat_app.rst:46
 msgid "Select **Edit**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:271
+#: ../../mobile_apps/chat_app.rst:47
 msgid "Update the message and send."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:275
+#: ../../mobile_apps/chat_app.rst:51
 msgid "Editing may be available only for a limited time (for example, within 5 minutes)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:278
+#: ../../mobile_apps/chat_app.rst:54
 msgid "Reply to a Message"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:281
+#: ../../mobile_apps/chat_app.rst:57
 msgid "Select **Reply**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:282
+#: ../../mobile_apps/chat_app.rst:58
 msgid "Write your reply and send."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:285
+#: ../../mobile_apps/chat_app.rst:61
 msgid "Forward a Message"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:288
+#: ../../mobile_apps/chat_app.rst:64
 msgid "Select **Forward**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:289
+#: ../../mobile_apps/chat_app.rst:65
 msgid "Choose the recipient and send."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:292
+#: ../../mobile_apps/chat_app.rst:68
 msgid "Delete a Message"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:295
+#: ../../mobile_apps/chat_app.rst:71
 msgid "Select **Delete message**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:296
+#: ../../mobile_apps/chat_app.rst:72
 msgid "Confirm the action."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:300
+#: ../../mobile_apps/chat_app.rst:76
 msgid "Deleting may be available only for a limited time (for example, within 5 minutes)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:303
+#: ../../mobile_apps/chat_app.rst:79
 msgid "Mute Notifications for a Chat"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:305
+#: ../../mobile_apps/chat_app.rst:81
 msgid "To mute notifications for a specific chat or group:"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:307
-#: ../../mobile_apps/toc.rst:318
+#: ../../mobile_apps/chat_app.rst:83
+#: ../../mobile_apps/chat_app.rst:94
 msgid "Open the chat/group."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:308
+#: ../../mobile_apps/chat_app.rst:84
 msgid "Open **Chat info** (often an **i** icon or the chat name)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:309
+#: ../../mobile_apps/chat_app.rst:85
 msgid "Disable **Notifications**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:311
+#: ../../mobile_apps/chat_app.rst:87
 msgid "To unmute, follow the same steps and re-enable notifications."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:314
+#: ../../mobile_apps/chat_app.rst:90
 msgid "Clear Chat History"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:316
+#: ../../mobile_apps/chat_app.rst:92
 msgid "To clear the history of a chat/group:"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:319
+#: ../../mobile_apps/chat_app.rst:95
 msgid "Open **Chat info**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:320
+#: ../../mobile_apps/chat_app.rst:96
 msgid "Tap **Clear history**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:321
-#: ../../mobile_apps/toc.rst:488
+#: ../../mobile_apps/chat_app.rst:97
+#: ../../mobile_apps/files_app.rst:53
 msgid "Confirm."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:324
+#: ../../mobile_apps/chat_app.rst:100
 msgid "Creating a New Group"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:326
+#: ../../mobile_apps/chat_app.rst:102
 msgid "To create a group chat:"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:329
+#: ../../mobile_apps/chat_app.rst:105
 msgid "Select **Group conversation / Group chat**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:330
+#: ../../mobile_apps/chat_app.rst:106
 msgid "Select at least two colleagues (groups require 3+ participants including you)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:331
+#: ../../mobile_apps/chat_app.rst:107
 msgid "Tap **Next** (if shown)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:332
+#: ../../mobile_apps/chat_app.rst:108
 msgid "Set a **group name** and optionally add an image."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:333
+#: ../../mobile_apps/chat_app.rst:109
 msgid "Tap **Create** (or a checkmark icon)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:336
+#: ../../mobile_apps/chat_app.rst:112
 msgid "Add Participants to a Group"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:338
-#: ../../mobile_apps/toc.rst:350
+#: ../../mobile_apps/chat_app.rst:114
+#: ../../mobile_apps/chat_app.rst:126
 msgid "If you are a moderator:"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:340
-#: ../../mobile_apps/toc.rst:352
-#: ../../mobile_apps/toc.rst:360
+#: ../../mobile_apps/chat_app.rst:116
+#: ../../mobile_apps/chat_app.rst:128
+#: ../../mobile_apps/chat_app.rst:136
 msgid "Open the group."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:341
+#: ../../mobile_apps/chat_app.rst:117
 msgid "Open **Group info** (i icon or group name)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:342
+#: ../../mobile_apps/chat_app.rst:118
 msgid "Tap **Invite participants**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:343
+#: ../../mobile_apps/chat_app.rst:119
 msgid "Select colleagues and confirm."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:345
+#: ../../mobile_apps/chat_app.rst:121
 msgid "If available, you can enable **Show previous conversation history** so new members can see earlier messages."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:348
+#: ../../mobile_apps/chat_app.rst:124
 msgid "Remove Participants from a Group"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:353
-#: ../../mobile_apps/toc.rst:361
+#: ../../mobile_apps/chat_app.rst:129
+#: ../../mobile_apps/chat_app.rst:137
 msgid "Open **Group info**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:354
+#: ../../mobile_apps/chat_app.rst:130
 msgid "Tap the participant’s name."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:355
+#: ../../mobile_apps/chat_app.rst:131
 msgid "Select **Remove from conversation**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:358
+#: ../../mobile_apps/chat_app.rst:134
 msgid "Leave a Group"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:362
+#: ../../mobile_apps/chat_app.rst:138
 msgid "Tap **Leave** and confirm."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:365
-#: ../../videomeeting/toc.rst:7
-msgid "Working with Video Meetings"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:368
-msgid "Entering Your Personal Room"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:370
-msgid "Each Carbonio account includes a personal room you can use to host meetings with colleagues or external participants."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:372
-msgid "To enter your personal room:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:374
-#: ../../mobile_apps/toc.rst:381
-#: ../../mobile_apps/toc.rst:406
-#: ../../mobile_apps/toc.rst:413
-#: ../../mobile_apps/toc.rst:428
-#: ../../mobile_apps/toc.rst:437
-msgid "Open the **Meetings** section/tab."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:375
-msgid "In **Personal Room**, tap **Join/Call** (camera icon)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:376
-msgid "Confirm if prompted."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:379
-msgid "Inviting Members to Your Personal Room"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:382
-msgid "In **Personal Room**, tap **Copy link**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:383
-msgid "Paste the link in an email or chat to invite others."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:386
+#: ../../mobile_apps/chat_app.rst:142
 msgid "Creating a New Room"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:388
+#: ../../mobile_apps/chat_app.rst:144
 msgid "Rooms are shared spaces used for video meetings and chat."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:390
+#: ../../mobile_apps/chat_app.rst:146
 msgid "To create a room:"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:392
-#: ../../mobile_apps/toc.rst:449
+#: ../../mobile_apps/chat_app.rst:148
+#: ../../mobile_apps/files_app.rst:14
 msgid "Tap **Create** (plus icon)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:393
+#: ../../mobile_apps/chat_app.rst:149
 msgid "Select **Create Room**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:394
+#: ../../mobile_apps/chat_app.rst:150
 msgid "Enter a room name."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:395
+#: ../../mobile_apps/chat_app.rst:151
 msgid "Tap **OK/Create**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:397
+#: ../../mobile_apps/chat_app.rst:153
 msgid "You can usually:"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:399
+#: ../../mobile_apps/chat_app.rst:155
 msgid "**Copy link** to invite participants."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:400
-msgid "**Reset link** to generate a new URL (useful if you shared it by mistake)."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:401
+#: ../../mobile_apps/chat_app.rst:156
 msgid "**Join room** to enter."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:404
+#: ../../mobile_apps/chat_app.rst:159
 msgid "Entering a Room"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:407
-#: ../../mobile_apps/toc.rst:414
+#: ../../mobile_apps/chat_app.rst:161
+#: ../../mobile_apps/chat_app.rst:168
+#: ../../mobile_apps/chat_app.rst:184
+msgid "Open the **Meetings** section/tab."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:162
+#: ../../mobile_apps/chat_app.rst:169
 msgid "Tap the room name."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:408
+#: ../../mobile_apps/chat_app.rst:163
 msgid "Select **Join room**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:411
+#: ../../mobile_apps/chat_app.rst:166
 msgid "Inviting Members to a Room"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:415
+#: ../../mobile_apps/chat_app.rst:170
 msgid "Select **Copy link** and share it."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:418
+#: ../../mobile_apps/chat_app.rst:173
 msgid "Starting a Video Call with One Person"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:420
+#: ../../mobile_apps/chat_app.rst:175
 msgid "Open a 1-to-1 chat with the colleague."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:421
+#: ../../mobile_apps/chat_app.rst:176
 msgid "Tap the camera icon to start a video call."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:424
-msgid "Resetting a Meeting Room Link"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:426
-msgid "To change a room link:"
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:429
-#: ../../mobile_apps/toc.rst:438
-msgid "Open the room."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:430
-msgid "Select **Reset link**."
-msgstr ""
-
-#: ../../mobile_apps/toc.rst:433
+#: ../../mobile_apps/chat_app.rst:180
 #: ../../videomeeting/toc.rst:242
 msgid "Deleting a Meeting Room"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:435
+#: ../../mobile_apps/chat_app.rst:182
 msgid "To delete a room (if you have permission):"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:439
+#: ../../mobile_apps/chat_app.rst:185
+msgid "Open the room."
+msgstr ""
+
+#: ../../mobile_apps/chat_app.rst:186
 msgid "Select **Delete Room**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:442
-msgid "Working with Files App"
+#: ../../mobile_apps/files_app.rst:7
+msgid "Carbonio Files App"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:444
+#: ../../mobile_apps/files_app.rst:9
 msgid "With the Carbonio Files app, you can manage, share, and organize files and folders on the go."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:450
+#: ../../mobile_apps/files_app.rst:15
 msgid "Select **Folder**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:451
+#: ../../mobile_apps/files_app.rst:16
 msgid "Enter a folder name."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:452
+#: ../../mobile_apps/files_app.rst:17
 msgid "Tap **Create**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:454
+#: ../../mobile_apps/files_app.rst:19
 msgid "To create a folder inside another folder, open the destination folder first and repeat the steps above."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:457
+#: ../../mobile_apps/files_app.rst:22
 msgid "Uploading a File"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:459
+#: ../../mobile_apps/files_app.rst:24
 msgid "To upload a document:"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:461
+#: ../../mobile_apps/files_app.rst:26
 msgid "Tap **Create/Upload** (plus icon)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:462
+#: ../../mobile_apps/files_app.rst:27
 msgid "Select **Upload document** (or **Upload**)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:463
+#: ../../mobile_apps/files_app.rst:28
 msgid "Choose the file from your device."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:465
+#: ../../mobile_apps/files_app.rst:30
 msgid "To monitor uploads (if available):"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:467
+#: ../../mobile_apps/files_app.rst:32
 msgid "Open the app menu (often the menu icon)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:468
+#: ../../mobile_apps/files_app.rst:33
 msgid "Select **Uploads** to view progress."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:471
+#: ../../mobile_apps/files_app.rst:36
 msgid "Deleting a File or Folder"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:473
+#: ../../mobile_apps/files_app.rst:38
 msgid "To delete an item:"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:475
+#: ../../mobile_apps/files_app.rst:40
 msgid "Navigate to the folder containing the item."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:476
+#: ../../mobile_apps/files_app.rst:41
 msgid "Tap **More options** (three-dots icon) next to the file/folder."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:477
+#: ../../mobile_apps/files_app.rst:42
 msgid "Select **Delete**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:479
+#: ../../mobile_apps/files_app.rst:44
 msgid "Deleted items are moved to **Trash**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:482
+#: ../../mobile_apps/files_app.rst:47
 msgid "Delete permanently"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:484
-#: ../../mobile_apps/toc.rst:493
+#: ../../mobile_apps/files_app.rst:49
+#: ../../mobile_apps/files_app.rst:58
 msgid "Open **Trash**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:485
-#: ../../mobile_apps/toc.rst:494
+#: ../../mobile_apps/files_app.rst:50
+#: ../../mobile_apps/files_app.rst:59
 msgid "Select **My elements** (if shown)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:486
-#: ../../mobile_apps/toc.rst:495
-#: ../../mobile_apps/toc.rst:503
-#: ../../mobile_apps/toc.rst:510
-#: ../../mobile_apps/toc.rst:517
-#: ../../mobile_apps/toc.rst:524
+#: ../../mobile_apps/files_app.rst:51
+#: ../../mobile_apps/files_app.rst:60
+#: ../../mobile_apps/files_app.rst:68
+#: ../../mobile_apps/files_app.rst:75
+#: ../../mobile_apps/files_app.rst:82
+#: ../../mobile_apps/files_app.rst:89
 msgid "Tap **More options** next to the item."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:487
+#: ../../mobile_apps/files_app.rst:52
 msgid "Select **Delete permanently**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:491
+#: ../../mobile_apps/files_app.rst:56
 msgid "Restoring a Trashed File or Folder"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:496
+#: ../../mobile_apps/files_app.rst:61
 msgid "Select **Restore**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:498
+#: ../../mobile_apps/files_app.rst:63
 msgid "The item returns to its original location."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:501
+#: ../../mobile_apps/files_app.rst:66
 msgid "Renaming a File or Folder"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:504
+#: ../../mobile_apps/files_app.rst:69
 msgid "Select **Rename**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:505
+#: ../../mobile_apps/files_app.rst:70
 msgid "Enter the new name and confirm."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:508
+#: ../../mobile_apps/files_app.rst:73
 msgid "Moving a File Between Folders"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:511
+#: ../../mobile_apps/files_app.rst:76
 msgid "Select **Move**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:512
-#: ../../mobile_apps/toc.rst:519
+#: ../../mobile_apps/files_app.rst:77
+#: ../../mobile_apps/files_app.rst:84
 msgid "Choose the destination folder and confirm."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:518
+#: ../../mobile_apps/files_app.rst:83
 msgid "Select **Copy**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:525
+#: ../../mobile_apps/files_app.rst:90
 msgid "Select **Flag**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:527
+#: ../../mobile_apps/files_app.rst:92
 msgid "To remove the flag, repeat and select **Unflag**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:530
+#: ../../mobile_apps/files_app.rst:95
 msgid "Adding Collaborators to a File/Folder"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:532
+#: ../../mobile_apps/files_app.rst:97
 msgid "To share an item with colleagues:"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:534
+#: ../../mobile_apps/files_app.rst:99
 msgid "Tap **More options** next to the file/folder."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:535
+#: ../../mobile_apps/files_app.rst:100
 msgid "Select **Add collaborators**."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:536
+#: ../../mobile_apps/files_app.rst:101
 msgid "Enter colleagues’ email addresses and select them from suggestions."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:537
+#: ../../mobile_apps/files_app.rst:102
 msgid "Choose the permission level (for example: **Viewer**, **Editor**)."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:538
+#: ../../mobile_apps/files_app.rst:103
 msgid "If available, enable **Sharing allowed** to let collaborators share the item further."
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:539
+#: ../../mobile_apps/files_app.rst:104
 msgid "Optionally add a message, then tap **Send**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:7
+msgid "Carbonio Mail App"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:9
+msgid "The Carbonio Mail app allows you to read, send, and organize email messages while on the go, enabling them to access their mailbox, manage messages, and perform common email operations directly from a mobile device."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:12
+msgid "Mail Settings"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:14
+msgid "The Mail settings screen allows users to configure application behavior, mailbox preferences, and account-related options."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:16
+msgid "To access the settings, open the **navigation menu** (hamburger icon) from the main Mail screen and tap **Settings**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:18
+msgid "Information"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:20
+msgid "The **Information** section provides access to general application details:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:22
+msgid "**Notifications and sounds** Configure notification behavior and alert sounds for incoming messages."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:25
+msgid "**License** View license information for the application."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:28
+msgid "**Third-party licenses** Display licenses related to third-party components used by the application."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:31
+msgid "**Log out** Sign out from the current account."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:34
+msgid "Settings"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:36
+msgid "The **Settings** section allows customization of Mail and related modules:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:38
+msgid "**General** Configure general preferences such as theme, synchronization interval, search behavior, out-of-office settings, and trusted senders."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:41
+msgid "**Account** Manage account-related options, including email signatures, account management, default email address, sent message settings, and delegated sending options."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:44
+msgid "**Email** Customize email behavior, including swipe actions, conversation view expansion, reading options, view type, and scheduled sending preferences."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:47
+msgid "**Contacts** Access and configure contact-related settings."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:50
+msgid "**Calendar** Manage calendar preferences, such as appointment visibility, first day of the week, appointment postponement, and calendar synchronization."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:53
+msgid "**Sharing** Configure sharing options for mailbox items and folders."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:56
+msgid "Mailbox Quota and Version"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:58
+msgid "At the bottom of the settings screen, the application displays:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:60
+msgid "The current **mailbox quota usage**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:61
+msgid "The installed **application version**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:69
+msgid "To compose and send a new email message, follow these steps:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:71
+msgid "Tap **Compose** (pen icon) to open a new message."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:72
+msgid "If multiple sending identities or personas are available, select the appropriate one from the **From** field."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:73
+msgid "In the **To** field, enter one or more recipient email addresses."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:74
+msgid "Optionally, add additional recipients in the **Cc** or **Bcc** fields."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:75
+msgid "Enter a subject in the **Subject** field."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:76
+msgid "Write the message content in the email body."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:78
+msgid "While editing the message, additional options are available:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:80
+msgid "Use the **formatting toolbar** to customize the text appearance. You can:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:82
+msgid "Select a text style such as **Title**, **Subtitle**, or **Body text**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:83
+msgid "Change the text color."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:84
+msgid "Apply text formatting options, including **bold**, *italic*, underline, and other supported styles."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:86
+msgid "Tap the **Attachment** (paperclip) icon to:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:88
+msgid "Take a photo and attach it to the message."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:89
+msgid "Select one or more images from the device gallery."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:90
+msgid "Choose a document from the device storage."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:91
+msgid "Add files from **Carbonio Files**, if available."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:93
+msgid "Tap the **More options** (three-dot) icon to:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:95
+msgid "Save the message as a draft."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:96
+msgid "Schedule the message for delivery by selecting a date, time, and time zone."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:97
+msgid "Set the message priority."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:98
+msgid "Request a read receipt from the recipient."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:100
+msgid "When finished, tap **Send** (paper-plane icon) to send the message."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:102
+msgid "After the message is sent, a copy of the email is automatically saved in the **Sent** folder."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:108
+msgid "To reply to an email message, follow these steps:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:110
+msgid "Open the email you want to respond to."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:111
+msgid "Tap **More options** (three-dot icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:112
+msgid "Select **Reply** to respond to the sender only, or **Reply all** to respond to all recipients."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:113
+msgid "Write your message."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:114
+msgid "Tap **Send** (paper-plane icon) to send the reply."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:116
+msgid "While replying, the same editing, formatting, attachment, and message options available when composing a new email can be used. For more information, see :ref:`composing-a-new-email`."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:118
+msgid "A copy of the sent reply is automatically saved in the **Sent** folder."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:122
+msgid "Reply vs. Reply All"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:124
+msgid "The difference between **Reply** and **Reply all** is the recipients of your response:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:126
+msgid "**Reply** sends your response only to the original sender."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:127
+msgid "**Reply all** sends your response to the sender and to other recipients from the original email (typically added automatically in Cc)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:129
+msgid "Use **Reply all** only when your response is relevant to everyone included in the original conversation."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:134
+msgid "To perform actions on multiple emails:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:136
+msgid "Tap and hold an email to enter **selection mode**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:137
+msgid "Tap other emails to select them."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:138
+msgid "Tap **More options** (three-dots icon) or the available action buttons."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:139
+msgid "Choose the action you want (for example: mark as read/unread, flag, move, mark as spam, tag, delete)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:144
+msgid "While composing an email, you can attach files from your device, from Carbonio Files, or capture a photo/video (if supported)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:147
+msgid "Add an attachment from your device"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:150
+msgid "Choose an option such as **Take photo/video**, **Choose from gallery**, or **Browse/Document**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:151
+msgid "Select the file (or capture it) and confirm."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:154
+msgid "Add an attachment from Carbonio Files"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:157
+msgid "Select **Add from Files / Drive** (wording may vary)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:158
+msgid "Choose the file and confirm."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:162
+msgid "Attachments are a common way viruses spread. Administrators may block certain file types (for example ``.exe`` or ``.zip``). In some cases you may not receive a warning if the recipient’s system blocks the attachment—so consider confirming receipt when it’s important."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:169
+msgid "If you have multiple identities/personas configured, you can choose which one to use when composing:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:171
+msgid "In the compose screen, tap the **From** field."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:172
+msgid "Select the desired **identity/persona**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:174
+msgid "The recipient will see the selected identity/persona as the sender."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:179
+msgid "If available, you can request a read receipt:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:181
+msgid "While composing, open **More options** (three-dots icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:182
+msgid "Enable **Read receipt**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:183
+msgid "Close the menu and send the email."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:188
+msgid "To save a draft while composing:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:190
+msgid "Open **More options** (three-dots icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:191
+msgid "Select **Save draft** (or simply exit the compose screen if the app autosaves drafts)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:196
+msgid "Open the app menu (typically the menu icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:197
+msgid "Go to the **Drafts** folder."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:198
+msgid "Open the draft you want to send."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:199
+msgid "Tap **Send**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:204
+msgid "To forward an email:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:206
+#: ../../mobile_apps/mail_app.rst:216
+msgid "Open the email."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:207
+#: ../../mobile_apps/mail_app.rst:217
+msgid "Tap **More options** (three-dots icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:208
+msgid "Select **Forward** (or **Forward conversation**, if shown)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:209
+#: ../../mobile_apps/mail_app.rst:219
+msgid "Enter the recipient and tap **Send**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:214
+msgid "To redirect an email (if available):"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:218
+msgid "Select **Redirect**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:224
+msgid "**Forward** sends a copy of the message to someone else (often allowing you to add your own text)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:225
+msgid "**Redirect** reroutes the original message to a new recipient as if it had been sent to them originally, making it easier for the new recipient to reply directly to the original sender."
+msgstr ""
+
+#: ../../mobile_apps/toc.rst:6
+msgid "Carbonio Mobile Applications"
+msgstr ""
+
+#: ../../mobile_apps/toc.rst:8
+msgid "The Carbonio mobile applications are available for Android and iOS devices. You can download them from the official stores using the links below."
+msgstr ""
+
+#: ../../mobile_apps/toc.rst:11
+msgid "**Android (Google Play Store)**"
+msgstr ""
+
+#: ../../mobile_apps/toc.rst:25
+msgid "**iOS (Apple App Store)**"
+msgstr ""
+
+#: ../../mobile_apps/toc.rst:40
+msgid "Table of Contents"
 msgstr ""
 
 #: ../../search/toc.rst:7
@@ -8043,6 +8005,10 @@ msgstr ""
 
 #: ../../tasks/toc.rst:60
 msgid "Select **Complete** from the drop-down menu."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:7
+msgid "Working with Video Meetings"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:13

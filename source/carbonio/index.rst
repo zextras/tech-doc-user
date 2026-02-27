@@ -78,13 +78,12 @@ Communication
    videomeeting/toc
 
 ==============
-Legacy modules
+Mobile Apps
 ==============
 
 .. toctree::
    :maxdepth: 1
    :titlesonly:
 
-   chats/toc
-   videomeetings/toc
+   mobile_apps/toc
 

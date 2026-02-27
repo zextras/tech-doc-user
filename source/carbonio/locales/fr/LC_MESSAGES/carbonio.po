@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-02-27 18:22+0100\n"
-"PO-Revision-Date: 2026-02-18 16:08+0000\n"
+"PO-Revision-Date: 2026-02-27 17:46+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Language-Team: French <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -8238,7 +8238,7 @@ msgstr ""
 
 #: ../../mobile_apps/chat_app.rst:7
 msgid "Carbonio Chats App"
-msgstr ""
+msgstr "Application de discussions Carbonio"
 
 #: ../../mobile_apps/chat_app.rst:9
 msgid ""
@@ -8595,7 +8595,7 @@ msgstr ""
 
 #: ../../mobile_apps/files_app.rst:7
 msgid "Carbonio Files App"
-msgstr ""
+msgstr "Application de fichiers Carbonio"
 
 #: ../../mobile_apps/files_app.rst:9
 msgid ""
@@ -8776,14 +8776,16 @@ msgid ""
 "If available, enable **Sharing allowed** to let collaborators share the "
 "item further."
 msgstr ""
+"Si disponible, activez **Partage autorisé** pour permettre aux "
+"collaborateurs de partager l'élément plus loin."
 
 #: ../../mobile_apps/files_app.rst:104
 msgid "Optionally add a message, then tap **Send**."
-msgstr ""
+msgstr "Ajoutez éventuellement un message, puis appuyez sur **Envoyer**."
 
 #: ../../mobile_apps/mail_app.rst:7
 msgid "Carbonio Mail App"
-msgstr ""
+msgstr "Application de messagerie Carbonio"
 
 #: ../../mobile_apps/mail_app.rst:9
 msgid ""
@@ -8811,7 +8813,7 @@ msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:18
 msgid "Information"
-msgstr ""
+msgstr "Informations"
 
 #: ../../mobile_apps/mail_app.rst:20
 msgid ""
@@ -8841,7 +8843,7 @@ msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:34
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: ../../mobile_apps/mail_app.rst:36
 msgid "The **Settings** section allows customization of Mail and related modules:"
@@ -8884,7 +8886,7 @@ msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:56
 msgid "Mailbox Quota and Version"
-msgstr ""
+msgstr "Quota et version de la boîte de réception"
 
 #: ../../mobile_apps/mail_app.rst:58
 msgid "At the bottom of the settings screen, the application displays:"
@@ -9234,7 +9236,7 @@ msgstr ""
 
 #: ../../mobile_apps/toc.rst:6
 msgid "Carbonio Mobile Applications"
-msgstr ""
+msgstr "Applications mobiles Carbonio"
 
 #: ../../mobile_apps/toc.rst:8
 msgid ""
@@ -9242,18 +9244,21 @@ msgid ""
 "devices. You can download them from the official stores using the links "
 "below."
 msgstr ""
+"Les applications mobiles Carbonio sont disponibles pour les appareils "
+"Android et iOS. Vous pouvez les télécharger à partir des magasins officiels "
+"en utilisant les liens ci-dessous."
 
 #: ../../mobile_apps/toc.rst:11
 msgid "**Android (Google Play Store)**"
-msgstr ""
+msgstr "**Android (Google Play Store)**"
 
 #: ../../mobile_apps/toc.rst:25
 msgid "**iOS (Apple App Store)**"
-msgstr ""
+msgstr "**iOS (Apple App Store)**"
 
 #: ../../mobile_apps/toc.rst:40
 msgid "Table of Contents"
-msgstr ""
+msgstr "Table des matières"
 
 #: ../../search/toc.rst:7
 msgid "Working with Search"
@@ -11150,4 +11155,3 @@ msgstr ""
 
 #~ msgid "Working with Files App"
 #~ msgstr ""
-

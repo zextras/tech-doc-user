@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-27 18:22+0100\n"
-"PO-Revision-Date: 2026-02-27 17:45+0000\n"
+"PO-Revision-Date: 2026-02-27 18:04+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -5805,7 +5805,7 @@ msgstr ""
 
 #: ../../chat/toc.rst:7
 msgid "Working with Chats"
-msgstr "Carbonio Chats App"
+msgstr "Lavorare con Chats"
 
 #: ../../chat/toc.rst:14
 msgid ""
@@ -8070,7 +8070,7 @@ msgstr ""
 
 #: ../../files/toc.rst:7
 msgid "Working with Files"
-msgstr "Carbonio Files App"
+msgstr "Lavorare con Files"
 
 #: ../../files/toc.rst:13
 msgid ""

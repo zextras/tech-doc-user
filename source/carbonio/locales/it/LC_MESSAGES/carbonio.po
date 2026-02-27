@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-27 18:22+0100\n"
-"PO-Revision-Date: 2026-02-27 17:36+0000\n"
+"PO-Revision-Date: 2026-02-27 17:45+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -10346,7 +10346,7 @@ msgstr "App Mobile"
 
 #: ../../mobile_apps/chat_app.rst:7
 msgid "Carbonio Chats App"
-msgstr "Contatti"
+msgstr "Carbonio Chats App"
 
 #: ../../mobile_apps/chat_app.rst:9
 msgid ""
@@ -10396,7 +10396,7 @@ msgstr "Aggiungere un File dal Tuo Computer"
 
 #: ../../mobile_apps/chat_app.rst:29 ../../mobile_apps/chat_app.rst:37
 msgid "Open the chat."
-msgstr "Contatti"
+msgstr "Apri la chat."
 
 #: ../../mobile_apps/chat_app.rst:30 ../../mobile_apps/chat_app.rst:38
 #: ../../mobile_apps/mail_app.rst:149 ../../mobile_apps/mail_app.rst:156
@@ -10719,7 +10719,7 @@ msgstr "Seleziona la scheda **Stanze**."
 
 #: ../../mobile_apps/files_app.rst:7
 msgid "Carbonio Files App"
-msgstr "Lavorare su Files"
+msgstr "Carbonio Files App"
 
 #: ../../mobile_apps/files_app.rst:9
 msgid ""

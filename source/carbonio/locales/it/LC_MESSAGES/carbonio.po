@@ -8,17 +8,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 09:47+0100\n"
+"POT-Creation-Date: 2026-02-27 18:22+0100\n"
 "PO-Revision-Date: 2026-02-27 17:14+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
-"Language-Team: Italian <https://translate.zextras.tools/projects/"
-"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
+"Language-Team: Italian "
+"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
+"guide/it/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -4393,7 +4393,7 @@ msgstr ""
 msgid "Click the Print button to proceed with printing."
 msgstr "Clicca sul tasto Stampa per procedere con la stampa."
 
-#: ../../browsing_emails/toc.rst:243 ../../mobile_apps/toc.rst:134
+#: ../../browsing_emails/toc.rst:243 ../../mobile_apps/mail_app.rst:132
 msgid "Actions on Multiple Emails at Once"
 msgstr "Eseguire Azioni su più Email Contemporaneamente"
 
@@ -6512,7 +6512,7 @@ msgstr ""
 "con allegati, indirizzare email, utilizzare le persone associate agli "
 "account, ecc."
 
-#: ../../composing_emails/toc.rst:12 ../../mobile_apps/toc.rst:69
+#: ../../composing_emails/toc.rst:12 ../../mobile_apps/mail_app.rst:67
 msgid "Composing a New Email"
 msgstr "Comporre una Nuova Email"
 
@@ -6789,7 +6789,7 @@ msgstr ""
 "scoprirai le diverse azioni che puoi eseguire con gli allegati mentre "
 "componi un'email."
 
-#: ../../composing_emails/toc.rst:93 ../../mobile_apps/toc.rst:144
+#: ../../composing_emails/toc.rst:93 ../../mobile_apps/mail_app.rst:142
 msgid "Adding Attachments"
 msgstr "Aggiungere Allegati"
 
@@ -6878,13 +6878,13 @@ msgid ""
 "inside the composing board and choosing the \"Add public link from Files "
 "option\"."
 msgstr ""
-"Quando si desidera allegare file grandi a un messaggio di posta elettronica, "
-"si potrebbero incontrare alcune limitazioni. Quando si raggiunge il limite "
-"di dimensione imposto dall'amministratore per gli allegati, utilizzando "
-"l'opzione \"collegamenti intelligenti\", è possibile convertire ogni "
-"allegato in Smart Links facendo clic sull'icona **graffetta** all'interno "
-"della scheda di composizione e scegliendo l'opzione \"Aggiungi link pubblico "
-"da File\"."
+"Quando si desidera allegare file grandi a un messaggio di posta "
+"elettronica, si potrebbero incontrare alcune limitazioni. Quando si "
+"raggiunge il limite di dimensione imposto dall'amministratore per gli "
+"allegati, utilizzando l'opzione \"collegamenti intelligenti\", è "
+"possibile convertire ogni allegato in Smart Links facendo clic sull'icona"
+" **graffetta** all'interno della scheda di composizione e scegliendo "
+"l'opzione \"Aggiungi link pubblico da File\"."
 
 #: ../../composing_emails/toc.rst:126
 msgid ""
@@ -6902,7 +6902,7 @@ msgstr ""
 "Per rimuovere un allegato dall'email che stai componendo, clicca sul "
 "tasto **Rimuovi** posizionato sotto l'allegato."
 
-#: ../../composing_emails/toc.rst:134 ../../mobile_apps/toc.rst:169
+#: ../../composing_emails/toc.rst:134 ../../mobile_apps/mail_app.rst:167
 msgid "Send an Email from a Different Account or Persona"
 msgstr "Inviare un'Email da un altro Account o Personalità"
 
@@ -6952,7 +6952,7 @@ msgstr ""
 msgid "Choose your preferred identity or persona from the menu."
 msgstr "Scegli l'identità o personalità che preferisci dal menu a tendina."
 
-#: ../../composing_emails/toc.rst:153 ../../mobile_apps/toc.rst:179
+#: ../../composing_emails/toc.rst:153 ../../mobile_apps/mail_app.rst:177
 msgid "Request a Read Receipt"
 msgstr "Richiedere la Conferma di Lettura"
 
@@ -7033,7 +7033,7 @@ msgstr ""
 "Le email importanti saranno indicate da una freccia rossa verso l'alto "
 "nella riga dell'oggetto, quando il destinatario riceve l'email."
 
-#: ../../composing_emails/toc.rst:183 ../../mobile_apps/toc.rst:188
+#: ../../composing_emails/toc.rst:183 ../../mobile_apps/mail_app.rst:186
 msgid "Save an Email as a Draft"
 msgstr "Salvare un'Email come Bozza"
 
@@ -7065,7 +7065,7 @@ msgstr ""
 "La tua email sarà salvata nella cartella **Bozze**, accessibile dal tuo "
 "pannello di navigazione."
 
-#: ../../composing_emails/toc.rst:193 ../../mobile_apps/toc.rst:196
+#: ../../composing_emails/toc.rst:193 ../../mobile_apps/mail_app.rst:194
 msgid "Send a Drafted Email"
 msgstr "Inviare un'Email in Bozza"
 
@@ -7103,7 +7103,7 @@ msgstr ""
 "Per inviare l'email, fai clic sul tasto Invia nell'angolo superiore "
 "destro del pannello principale."
 
-#: ../../composing_emails/toc.rst:207 ../../mobile_apps/toc.rst:108
+#: ../../composing_emails/toc.rst:207 ../../mobile_apps/mail_app.rst:106
 msgid "Replying to an Email"
 msgstr "Rispondere a un'Email"
 
@@ -7165,7 +7165,7 @@ msgstr ""
 "facilitando le discussioni di gruppo o fornendo aggiornamenti a più parti"
 " contemporaneamente."
 
-#: ../../composing_emails/toc.rst:227 ../../mobile_apps/toc.rst:204
+#: ../../composing_emails/toc.rst:227 ../../mobile_apps/mail_app.rst:202
 msgid "Forwarding an Email"
 msgstr "Inoltro di un'E-mail"
 
@@ -7183,7 +7183,7 @@ msgstr ""
 "Un nuovo pannello di composizione apparirà, consentendoti di inserire "
 "nuovi destinatari."
 
-#: ../../composing_emails/toc.rst:238 ../../mobile_apps/toc.rst:214
+#: ../../composing_emails/toc.rst:238 ../../mobile_apps/mail_app.rst:212
 msgid "Redirecting an Email"
 msgstr "Reindirizzamento di un Messaggio Elettronico"
 
@@ -7195,7 +7195,7 @@ msgstr "Per reindirizzare un'email, segui questi passaggi:"
 msgid "From the menu that appears, select **Redirect**."
 msgstr "Dal menu che compare, seleziona **Reindirizzamento**."
 
-#: ../../composing_emails/toc.rst:249 ../../mobile_apps/toc.rst:224
+#: ../../composing_emails/toc.rst:249 ../../mobile_apps/mail_app.rst:222
 msgid "Forward vs. Redirect"
 msgstr "Inoltro vs. Reindirizzamento"
 
@@ -8118,7 +8118,7 @@ msgstr ""
 "questo modo, forzerai il browser a ricaricare e aggiornare la cache per "
 "includere le modifiche più recenti su **Files**."
 
-#: ../../files/toc.rst:27 ../../mobile_apps/toc.rst:447
+#: ../../files/toc.rst:27 ../../mobile_apps/files_app.rst:12
 msgid "Creating a Folder"
 msgstr "Creare una Cartella"
 
@@ -8615,7 +8615,7 @@ msgstr ""
 "o nella cartella madre visualizzata nel percorso della cartella in alto "
 "nel Pannello principale, sopra l'elenco di file e cartelle."
 
-#: ../../files/toc.rst:221 ../../mobile_apps/toc.rst:515
+#: ../../files/toc.rst:221 ../../mobile_apps/files_app.rst:80
 msgid "Copying a File"
 msgstr "Copiare un File"
 
@@ -8639,7 +8639,7 @@ msgstr "Scegli la cartella di destinazione in cui vuoi copiare il file."
 msgid "Click the **COPY** button."
 msgstr "Fai clic sul tasto **COPIA**."
 
-#: ../../files/toc.rst:233 ../../mobile_apps/toc.rst:522
+#: ../../files/toc.rst:233 ../../mobile_apps/files_app.rst:87
 msgid "Flagging a File"
 msgstr "Contrassegnare un File"
 
@@ -9350,8 +9350,8 @@ msgid ""
 "Click on the **Notifications** icon located in the top right corner of "
 "the Files module."
 msgstr ""
-"Fai clic sull'icona **Notifiche** posizionata nell'angolo in alto a destra "
-"del modulo Files."
+"Fai clic sull'icona **Notifiche** posizionata nell'angolo in alto a "
+"destra del modulo Files."
 
 #: ../../files/toc.rst:542
 msgid ""
@@ -9903,8 +9903,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:151
 msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
-msgstr ""
-"Copia e incolla, quindi clicca sul tasto :bdg-primary:`CONVALIDA CODICE`."
+msgstr "Copia e incolla, quindi clicca sul tasto :bdg-primary:`CONVALIDA CODICE`."
 
 #: ../../get_started/toc.rst:152
 msgid ""
@@ -10268,8 +10267,8 @@ msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Language** and choose your language."
 msgstr ""
-"Nell'area **Impostazioni di base**, seleziona la lingua desiderata dal menu "
-"a discesa **Lingua** nella sezione **Fuso orario e lingua**."
+"Nell'area **Impostazioni di base**, seleziona la lingua desiderata dal "
+"menu a discesa **Lingua** nella sezione **Fuso orario e lingua**."
 
 #: ../../get_started/toc.rst:277
 msgid "Accessing Multiple Accounts"
@@ -10341,40 +10340,616 @@ msgstr "Files & Collaboration"
 msgid "Communication"
 msgstr "Silenzia notifiche di una chat"
 
-#: ../../index.rst:82 ../../mobile_apps/toc.rst:6
+#: ../../index.rst:82
 msgid "Mobile Apps"
 msgstr "App Mobile"
 
-#: ../../mobile_apps/toc.rst:9
-msgid "Working with Mail App"
+#: ../../mobile_apps/chat_app.rst:7
+#, fuzzy
+msgid "Carbonio Chats App"
+msgstr "Contatti"
+
+#: ../../mobile_apps/chat_app.rst:9
+msgid ""
+"With the Carbonio Chats app, you can send instant messages, share files, "
+"and organize or join video meetings."
+msgstr ""
+"Con l'app Carbonio Chats, puoi inviare messaggi istantanei, condividere "
+"file e organizzare o partecipare a riunioni in videoconferenza."
+
+#: ../../mobile_apps/chat_app.rst:12
+msgid "Creating a New Chat"
+msgstr "Creare una Nuova Chat"
+
+#: ../../mobile_apps/chat_app.rst:14
+msgid "To start a 1-to-1 conversation:"
+msgstr "Per iniziare una conversazione 1-a-1:"
+
+#: ../../mobile_apps/chat_app.rst:16 ../../mobile_apps/chat_app.rst:104
+msgid "Tap **New chat** (plus icon)."
+msgstr "Tocca **Nuova chat** (icona più)."
+
+#: ../../mobile_apps/chat_app.rst:17
+msgid "Select **Single conversation / Private chat**."
+msgstr "Seleziona **Conversazione singola / Chat privata**."
+
+#: ../../mobile_apps/chat_app.rst:18
+msgid "Search for a colleague by name and select them."
+msgstr "Per cercare un collega nella tua lista chat:"
+
+#: ../../mobile_apps/chat_app.rst:20
+msgid ""
+"The conversation will appear in your chat list. In a chat, type your "
+"message in the text box and tap **Send**. You can also add emojis and "
+"attachments."
+msgstr ""
+"La conversazione apparirà nell'elenco chat. In una chat, digita il tuo "
+"messaggio nella casella di testo e premi **Invia**. Puoi anche aggiungere"
+" emoji e allegati."
+
+#: ../../mobile_apps/chat_app.rst:24
+msgid "Sending Files in Chats"
+msgstr "Inviare File dal tuo Computer nelle Chat"
+
+#: ../../mobile_apps/chat_app.rst:27
+msgid "Send a file from your device"
+msgstr "Aggiungere un File dal Tuo Computer"
+
+#: ../../mobile_apps/chat_app.rst:29 ../../mobile_apps/chat_app.rst:37
+msgid "Open the chat."
+msgstr "Contatti"
+
+#: ../../mobile_apps/chat_app.rst:30 ../../mobile_apps/chat_app.rst:38
+#: ../../mobile_apps/mail_app.rst:149 ../../mobile_apps/mail_app.rst:156
+msgid "Tap **Attach** (paperclip icon)."
+msgstr "Tocca **Allega** (icona clip)."
+
+#: ../../mobile_apps/chat_app.rst:31
+msgid "Select **Document** (or a similar option)."
+msgstr "Seleziona **Nuovo documento** dal menu a tendina."
+
+#: ../../mobile_apps/chat_app.rst:32 ../../mobile_apps/chat_app.rst:40
+msgid "Choose the file and tap **Send**."
+msgstr "Scegliere il file e toccare **Invia**."
+
+#: ../../mobile_apps/chat_app.rst:35
+msgid "Send a file from Carbonio Files"
+msgstr "Inviare un file da Carbonio Files"
+
+#: ../../mobile_apps/chat_app.rst:39
+msgid "Select **Drive / Files** (wording may vary)."
+msgstr "Seleziona **Drive / Files** (la frase può variare)."
+
+#: ../../mobile_apps/chat_app.rst:43
+msgid "Edit a Message"
+msgstr "Modificare un Messaggio"
+
+#: ../../mobile_apps/chat_app.rst:45 ../../mobile_apps/chat_app.rst:56
+#: ../../mobile_apps/chat_app.rst:63 ../../mobile_apps/chat_app.rst:70
+msgid "Tap and hold the message."
+msgstr "Tocca e tieni premuto il messaggio."
+
+#: ../../mobile_apps/chat_app.rst:46
+msgid "Select **Edit**."
+msgstr "Seleziona **Auth**."
+
+#: ../../mobile_apps/chat_app.rst:47
+msgid "Update the message and send."
+msgstr "Modifica il messaggio e premi invio."
+
+#: ../../mobile_apps/chat_app.rst:51
+msgid ""
+"Editing may be available only for a limited time (for example, within 5 "
+"minutes)."
+msgstr ""
+"La modifica potrebbe essere disponibile solo per un periodo di tempo "
+"limitato (ad esempio, entro 5 minuti)."
+
+#: ../../mobile_apps/chat_app.rst:54
+msgid "Reply to a Message"
+msgstr "Rispondi a un Messaggio"
+
+#: ../../mobile_apps/chat_app.rst:57
+msgid "Select **Reply**."
+msgstr "Seleziona **Email**."
+
+#: ../../mobile_apps/chat_app.rst:58
+msgid "Write your reply and send."
+msgstr "Scrivi la risposta e premi invio."
+
+#: ../../mobile_apps/chat_app.rst:61
+msgid "Forward a Message"
+msgstr "Inoltra un messaggio"
+
+#: ../../mobile_apps/chat_app.rst:64
+msgid "Select **Forward**."
+msgstr "Clicca su **AVANTI**."
+
+#: ../../mobile_apps/chat_app.rst:65
+msgid "Choose the recipient and send."
+msgstr "Scegli il destinatario e invia."
+
+#: ../../mobile_apps/chat_app.rst:68
+msgid "Delete a Message"
+msgstr "Elimina un Messaggio"
+
+#: ../../mobile_apps/chat_app.rst:71
+msgid "Select **Delete message**."
+msgstr "Seleziona l'opzione **Elimina definitivamente**."
+
+#: ../../mobile_apps/chat_app.rst:72
+msgid "Confirm the action."
+msgstr "Conferma contenuto condiviso:"
+
+#: ../../mobile_apps/chat_app.rst:76
+msgid ""
+"Deleting may be available only for a limited time (for example, within 5 "
+"minutes)."
+msgstr ""
+"La cancellazione potrebbe essere disponibile solo per un periodo di tempo"
+" limitato (ad esempio, entro 5 minuti)."
+
+#: ../../mobile_apps/chat_app.rst:79
+msgid "Mute Notifications for a Chat"
+msgstr "Silenzia notifiche di una chat"
+
+#: ../../mobile_apps/chat_app.rst:81
+msgid "To mute notifications for a specific chat or group:"
+msgstr "Per cancellare la cronologia di una chat o un gruppo specifico:"
+
+#: ../../mobile_apps/chat_app.rst:83 ../../mobile_apps/chat_app.rst:94
+msgid "Open the chat/group."
+msgstr "Apri la chat/gruppo."
+
+#: ../../mobile_apps/chat_app.rst:84
+msgid "Open **Chat info** (often an **i** icon or the chat name)."
+msgstr "Apri **Info chat** (spesso un'icona **i** o il nome della chat)."
+
+#: ../../mobile_apps/chat_app.rst:85
+msgid "Disable **Notifications**."
+msgstr "Silenzia notifiche di una chat"
+
+#: ../../mobile_apps/chat_app.rst:87
+msgid "To unmute, follow the same steps and re-enable notifications."
+msgstr "Per attivare, segui la stessa procedura e scegli **Attiva le notifiche**."
+
+#: ../../mobile_apps/chat_app.rst:90
+msgid "Clear Chat History"
+msgstr "Cancella la cronologia di una Chat"
+
+#: ../../mobile_apps/chat_app.rst:92
+msgid "To clear the history of a chat/group:"
+msgstr "Per cancellare la cronologia di una chat o un gruppo specifico:"
+
+#: ../../mobile_apps/chat_app.rst:95
+msgid "Open **Chat info**."
+msgstr "Apri **Info chat**."
+
+#: ../../mobile_apps/chat_app.rst:96
+msgid "Tap **Clear history**."
+msgstr "Cancella la cronologia di una Chat"
+
+#: ../../mobile_apps/chat_app.rst:97 ../../mobile_apps/files_app.rst:53
+msgid "Confirm."
+msgstr "Conferma."
+
+#: ../../mobile_apps/chat_app.rst:100
+msgid "Creating a New Group"
+msgstr "Creazione Nuovo Gruppo"
+
+#: ../../mobile_apps/chat_app.rst:102
+msgid "To create a group chat:"
+msgstr "Per uscire da un gruppo:"
+
+#: ../../mobile_apps/chat_app.rst:105
+msgid "Select **Group conversation / Group chat**."
+msgstr "Seleziona **Conversazione di gruppo / Chat di gruppo**."
+
+#: ../../mobile_apps/chat_app.rst:106
+msgid ""
+"Select at least two colleagues (groups require 3+ participants including "
+"you)."
+msgstr ""
+"Seleziona almeno due colleghi (i gruppi richiedono 3+ partecipanti, "
+"compreso te)."
+
+#: ../../mobile_apps/chat_app.rst:107
+msgid "Tap **Next** (if shown)."
+msgstr "Tocca **Avanti** (se visualizzato)."
+
+#: ../../mobile_apps/chat_app.rst:108
+msgid "Set a **group name** and optionally add an image."
+msgstr "Imposta un **nome di gruppo** e aggiungi opzionalmente un'immagine."
+
+#: ../../mobile_apps/chat_app.rst:109
+msgid "Tap **Create** (or a checkmark icon)."
+msgstr "Tocca **Crea** (o un'icona di spunta)."
+
+#: ../../mobile_apps/chat_app.rst:112
+msgid "Add Participants to a Group"
+msgstr "Aggiungi partecipanti a un gruppo"
+
+#: ../../mobile_apps/chat_app.rst:114 ../../mobile_apps/chat_app.rst:126
+msgid "If you are a moderator:"
+msgstr "Se sei un moderatore:"
+
+#: ../../mobile_apps/chat_app.rst:116 ../../mobile_apps/chat_app.rst:128
+#: ../../mobile_apps/chat_app.rst:136
+msgid "Open the group."
+msgstr "Abbandona conversazione"
+
+#: ../../mobile_apps/chat_app.rst:117
+msgid "Open **Group info** (i icon or group name)."
+msgstr "Apri le **Informazioni del gruppo** (icona \"i\" o nome del gruppo)."
+
+#: ../../mobile_apps/chat_app.rst:118
+msgid "Tap **Invite participants**."
+msgstr "Tocca **Invita partecipanti**."
+
+#: ../../mobile_apps/chat_app.rst:119
+msgid "Select colleagues and confirm."
+msgstr "Seleziona i colleghi e conferma."
+
+#: ../../mobile_apps/chat_app.rst:121
+msgid ""
+"If available, you can enable **Show previous conversation history** so "
+"new members can see earlier messages."
+msgstr ""
+"Se disponibile, è possibile abilitare **Mostra la cronologia delle "
+"conversazioni precedenti** in modo che i nuovi membri possano "
+"visualizzare i messaggi precedenti."
+
+#: ../../mobile_apps/chat_app.rst:124
+msgid "Remove Participants from a Group"
+msgstr "Rimuovi Utenti da un Gruppo"
+
+#: ../../mobile_apps/chat_app.rst:129 ../../mobile_apps/chat_app.rst:137
+msgid "Open **Group info**."
+msgstr "Apri **Info gruppo**."
+
+#: ../../mobile_apps/chat_app.rst:130
+msgid "Tap the participant’s name."
+msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
+
+#: ../../mobile_apps/chat_app.rst:131
+msgid "Select **Remove from conversation**."
+msgstr "Seleziona l'opzione **Modifica gruppo**."
+
+#: ../../mobile_apps/chat_app.rst:134
+msgid "Leave a Group"
+msgstr "Abbandona conversazione"
+
+#: ../../mobile_apps/chat_app.rst:138
+msgid "Tap **Leave** and confirm."
+msgstr "Cliccare su **Esci** per confermare."
+
+#: ../../mobile_apps/chat_app.rst:142
+msgid "Creating a New Room"
+msgstr "Creare una Nuova Stanza"
+
+#: ../../mobile_apps/chat_app.rst:144
+msgid "Rooms are shared spaces used for video meetings and chat."
+msgstr ""
+"Le stanze sono spazi condivisi utilizzati per riunioni in videoconferenza"
+" e chat."
+
+#: ../../mobile_apps/chat_app.rst:146
+msgid "To create a room:"
+msgstr "Per creare una nuova stanza:"
+
+#: ../../mobile_apps/chat_app.rst:148 ../../mobile_apps/files_app.rst:14
+msgid "Tap **Create** (plus icon)."
+msgstr "Fare clic sul pulsante **CREA**."
+
+#: ../../mobile_apps/chat_app.rst:149
+msgid "Select **Create Room**."
+msgstr "Seleziona **Calendari**."
+
+#: ../../mobile_apps/chat_app.rst:150
+msgid "Enter a room name."
+msgstr "Entrare in una Stanza"
+
+#: ../../mobile_apps/chat_app.rst:151
+msgid "Tap **OK/Create**."
+msgstr "Fai clic su **Crea**."
+
+#: ../../mobile_apps/chat_app.rst:153
+msgid "You can usually:"
+msgstr "Si può solitamente:"
+
+#: ../../mobile_apps/chat_app.rst:155
+msgid "**Copy link** to invite participants."
+msgstr "**Copia link** per invitare i partecipanti."
+
+#: ../../mobile_apps/chat_app.rst:156
+msgid "**Join room** to enter."
+msgstr "**Entra nella stanza** per accedere."
+
+#: ../../mobile_apps/chat_app.rst:159
+msgid "Entering a Room"
+msgstr "Entrare in una Stanza"
+
+#: ../../mobile_apps/chat_app.rst:161 ../../mobile_apps/chat_app.rst:168
+#: ../../mobile_apps/chat_app.rst:184
+msgid "Open the **Meetings** section/tab."
+msgstr "Vai alla sezione **Mail**."
+
+#: ../../mobile_apps/chat_app.rst:162 ../../mobile_apps/chat_app.rst:169
+msgid "Tap the room name."
+msgstr "Modifica nome."
+
+#: ../../mobile_apps/chat_app.rst:163
+msgid "Select **Join room**."
+msgstr "Seleziona la scheda **Stanze**."
+
+#: ../../mobile_apps/chat_app.rst:166
+msgid "Inviting Members to a Room"
+msgstr "Invitare Membri in una Stanza"
+
+#: ../../mobile_apps/chat_app.rst:170
+msgid "Select **Copy link** and share it."
+msgstr "Seleziona **Copia link** e condividi."
+
+#: ../../mobile_apps/chat_app.rst:173
+msgid "Starting a Video Call with One Person"
+msgstr "Eseguire una chiamata video con un membro"
+
+#: ../../mobile_apps/chat_app.rst:175
+msgid "Open a 1-to-1 chat with the colleague."
+msgstr "Apri una chat 1-to-1 con il collega."
+
+#: ../../mobile_apps/chat_app.rst:176
+#, fuzzy
+msgid "Tap the camera icon to start a video call."
+msgstr "Tocca l'icona della fotocamera per avviare una videochiamata."
+
+#: ../../mobile_apps/chat_app.rst:180 ../../videomeeting/toc.rst:242
+msgid "Deleting a Meeting Room"
+msgstr "Eliminazione di una sala riunioni"
+
+#: ../../mobile_apps/chat_app.rst:182
+msgid "To delete a room (if you have permission):"
+msgstr "Per eliminare una stanza (se si dispone delle autorizzazioni):"
+
+#: ../../mobile_apps/chat_app.rst:185
+msgid "Open the room."
+msgstr "Seleziona la scheda Stanze Virtuali."
+
+#: ../../mobile_apps/chat_app.rst:186
+msgid "Select **Delete Room**."
+msgstr "Seleziona la scheda **Stanze**."
+
+#: ../../mobile_apps/files_app.rst:7
+#, fuzzy
+msgid "Carbonio Files App"
 msgstr "Lavorare su Files"
 
-#: ../../mobile_apps/toc.rst:11
+#: ../../mobile_apps/files_app.rst:9
+msgid ""
+"With the Carbonio Files app, you can manage, share, and organize files "
+"and folders on the go."
+msgstr ""
+"Con l'app Carbonio Files, puoi organizzare facilmente file e cartelle "
+"anche da mobile."
+
+#: ../../mobile_apps/files_app.rst:15
+msgid "Select **Folder**."
+msgstr "Seleziona **Calendari**."
+
+#: ../../mobile_apps/files_app.rst:16
+msgid "Enter a folder name."
+msgstr "Inserisci il tuo nome utente."
+
+#: ../../mobile_apps/files_app.rst:17
+msgid "Tap **Create**."
+msgstr "Fai clic su **Crea**."
+
+#: ../../mobile_apps/files_app.rst:19
+msgid ""
+"To create a folder inside another folder, open the destination folder "
+"first and repeat the steps above."
+msgstr ""
+"Per creare una cartella all'interno di un'altra, apri la cartella di "
+"destinazione e ripeti i passaggi sopra."
+
+#: ../../mobile_apps/files_app.rst:22
+msgid "Uploading a File"
+msgstr "Contrassegnare un File"
+
+#: ../../mobile_apps/files_app.rst:24
+msgid "To upload a document:"
+msgstr "Per creare un documento di testo:"
+
+#: ../../mobile_apps/files_app.rst:26
+msgid "Tap **Create/Upload** (plus icon)."
+msgstr "Tocca **Crea/Carica** (icona + )."
+
+#: ../../mobile_apps/files_app.rst:27
+msgid "Select **Upload document** (or **Upload**)."
+msgstr "Seleziona **Carica documento** (o **Carica**)."
+
+#: ../../mobile_apps/files_app.rst:28
+msgid "Choose the file from your device."
+msgstr "Seleziona l'icona di **Files** dal menu laterale sinistro."
+
+#: ../../mobile_apps/files_app.rst:30
+msgid "To monitor uploads (if available):"
+msgstr "Per monitorare i caricamenti (se disponibili):"
+
+#: ../../mobile_apps/files_app.rst:32
+msgid "Open the app menu (often the menu icon)."
+msgstr "Apri l'app e premi il pulsante \"+\" nell'angolo in basso a destra."
+
+#: ../../mobile_apps/files_app.rst:33
+msgid "Select **Uploads** to view progress."
+msgstr "Seleziona **Caricamenti** per visualizzare lo stato di avanzamento."
+
+#: ../../mobile_apps/files_app.rst:36
+msgid "Deleting a File or Folder"
+msgstr "Eliminare un File o una Cartella"
+
+#: ../../mobile_apps/files_app.rst:38
+msgid "To delete an item:"
+msgstr "Per eliminare un messaggio:"
+
+#: ../../mobile_apps/files_app.rst:40
+msgid "Navigate to the folder containing the item."
+msgstr "Accedi alla cartella che contiene il file."
+
+#: ../../mobile_apps/files_app.rst:41
+msgid "Tap **More options** (three-dots icon) next to the file/folder."
+msgstr "Tocca **Altre opzioni** (icona dei tre punti) accanto al file/cartaella."
+
+#: ../../mobile_apps/files_app.rst:42
+msgid "Select **Delete**."
+msgstr "Seleziona **Auth**."
+
+#: ../../mobile_apps/files_app.rst:44
+msgid "Deleted items are moved to **Trash**."
+msgstr "Le email eliminate verranno spostate nel cartella **Cestino**."
+
+#: ../../mobile_apps/files_app.rst:47
+msgid "Delete permanently"
+msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
+
+#: ../../mobile_apps/files_app.rst:49 ../../mobile_apps/files_app.rst:58
+msgid "Open **Trash**."
+msgstr "Apri **Cestino**."
+
+#: ../../mobile_apps/files_app.rst:50 ../../mobile_apps/files_app.rst:59
+msgid "Select **My elements** (if shown)."
+msgstr "Seleziona **I miei elementi**."
+
+#: ../../mobile_apps/files_app.rst:51 ../../mobile_apps/files_app.rst:60
+#: ../../mobile_apps/files_app.rst:68 ../../mobile_apps/files_app.rst:75
+#: ../../mobile_apps/files_app.rst:82 ../../mobile_apps/files_app.rst:89
+msgid "Tap **More options** next to the item."
+msgstr "Tocca **Altre opzioni** accanto all'elemento."
+
+#: ../../mobile_apps/files_app.rst:52
+msgid "Select **Delete permanently**."
+msgstr "Seleziona l'opzione **Elimina definitivamente**."
+
+#: ../../mobile_apps/files_app.rst:56
+msgid "Restoring a Trashed File or Folder"
+msgstr "Ripristinare un File o una Cartella Cestinata"
+
+#: ../../mobile_apps/files_app.rst:61
+msgid "Select **Restore**."
+msgstr "Seleziona **Auth**."
+
+#: ../../mobile_apps/files_app.rst:63
+msgid "The item returns to its original location."
+msgstr "L'elemento torna alla sua posizione originale."
+
+#: ../../mobile_apps/files_app.rst:66
+msgid "Renaming a File or Folder"
+msgstr "Rinominare un File o una Cartella"
+
+#: ../../mobile_apps/files_app.rst:69
+msgid "Select **Rename**."
+msgstr "Seleziona **Calendari**."
+
+#: ../../mobile_apps/files_app.rst:70
+msgid "Enter the new name and confirm."
+msgstr "Inserisci il nuovo nome e conferma."
+
+#: ../../mobile_apps/files_app.rst:73
+msgid "Moving a File Between Folders"
+msgstr "Spostare un File tra Cartelle"
+
+#: ../../mobile_apps/files_app.rst:76
+msgid "Select **Move**."
+msgstr "Seleziona **Email**."
+
+#: ../../mobile_apps/files_app.rst:77 ../../mobile_apps/files_app.rst:84
+msgid "Choose the destination folder and confirm."
+msgstr "Scegli la cartella di destinazione in cui vuoi copiare il file."
+
+#: ../../mobile_apps/files_app.rst:83
+msgid "Select **Copy**."
+msgstr "Seleziona **Account**."
+
+#: ../../mobile_apps/files_app.rst:90
+msgid "Select **Flag**."
+msgstr "Seleziona **Auth**."
+
+#: ../../mobile_apps/files_app.rst:92
+msgid "To remove the flag, repeat and select **Unflag**."
+msgstr ""
+"Per rimuovere il flag dal file, puoi seguire lo stesso processo e "
+"selezionare **Rimuovi contrassegno**."
+
+#: ../../mobile_apps/files_app.rst:95
+msgid "Adding Collaborators to a File/Folder"
+msgstr "Aggiungere Collaboratori a un File / Cartella"
+
+#: ../../mobile_apps/files_app.rst:97
+msgid "To share an item with colleagues:"
+msgstr "Per condividere una cartella email con un collega:"
+
+#: ../../mobile_apps/files_app.rst:99
+msgid "Tap **More options** next to the file/folder."
+msgstr "Tocca **Altre opzioni** accanto al file/cartella."
+
+#: ../../mobile_apps/files_app.rst:100
+msgid "Select **Add collaborators**."
+msgstr "Seleziona **Account**."
+
+#: ../../mobile_apps/files_app.rst:101
+msgid "Enter colleagues’ email addresses and select them from suggestions."
+msgstr ""
+"Inizia a scrivere l'indirizzo email del tuo collega e selezionalo dai "
+"suggerimenti che appaiono."
+
+#: ../../mobile_apps/files_app.rst:102
+msgid "Choose the permission level (for example: **Viewer**, **Editor**)."
+msgstr ""
+"Scegli il livello di autorizzazione (ad esempio: **Visualizzazione**, "
+"**Modifica**)."
+
+#: ../../mobile_apps/files_app.rst:103
+msgid ""
+"If available, enable **Sharing allowed** to let collaborators share the "
+"item further."
+msgstr ""
+"Se disponibile, abilita **Condivisione concessa** per consentire ai "
+"collaboratori di condividere ulteriormente l'elemento."
+
+#: ../../mobile_apps/files_app.rst:104
+msgid "Optionally add a message, then tap **Send**."
+msgstr "Aggiungi facoltativamente un messaggio, quindi tocca **Invia**."
+
+#: ../../mobile_apps/mail_app.rst:7
+msgid "Carbonio Mail App"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:9
 msgid ""
 "The Carbonio Mail app allows you to read, send, and organize email "
 "messages while on the go, enabling them to access their mailbox, manage "
 "messages, and perform common email operations directly from a mobile "
 "device."
 msgstr ""
-"L'app Carbonio Mail consente di leggere, inviare e organizzare messaggi di "
-"posta elettronica mentre si è in movimento, consentendo loro di accedere "
-"alla casella di posta, gestire i messaggi e eseguire operazioni di posta "
-"elettronica comuni direttamente da un dispositivo mobile."
+"L'app Carbonio Mail consente di leggere, inviare e organizzare messaggi "
+"di posta elettronica mentre si è in movimento, consentendo loro di "
+"accedere alla casella di posta, gestire i messaggi e eseguire operazioni "
+"di posta elettronica comuni direttamente da un dispositivo mobile."
 
-#: ../../mobile_apps/toc.rst:14
+#: ../../mobile_apps/mail_app.rst:12
 msgid "Mail Settings"
 msgstr "Delegare le Email"
 
-#: ../../mobile_apps/toc.rst:16
+#: ../../mobile_apps/mail_app.rst:14
 msgid ""
 "The Mail settings screen allows users to configure application behavior, "
 "mailbox preferences, and account-related options."
 msgstr ""
-"La schermata delle impostazioni di posta consente agli utenti di configurare "
-"il comportamento dell'applicazione, le preferenze della casella di posta e "
-"le opzioni relative all'account."
+"La schermata delle impostazioni di posta consente agli utenti di "
+"configurare il comportamento dell'applicazione, le preferenze della "
+"casella di posta e le opzioni relative all'account."
 
-#: ../../mobile_apps/toc.rst:18
+#: ../../mobile_apps/mail_app.rst:16
 msgid ""
 "To access the settings, open the **navigation menu** (hamburger icon) "
 "from the main Mail screen and tap **Settings**."
@@ -10382,11 +10957,12 @@ msgstr ""
 "Per accedere alle impostazioni, aprire il **menu di navigazione** (icona "
 "hamburger) dallo schermo principale di Posta e toccare **Impostazioni**."
 
-#: ../../mobile_apps/toc.rst:20
-msgid "### Information"
+#: ../../mobile_apps/mail_app.rst:18
+#, fuzzy
+msgid "Information"
 msgstr "Informazioni"
 
-#: ../../mobile_apps/toc.rst:22
+#: ../../mobile_apps/mail_app.rst:20
 msgid ""
 "The **Information** section provides access to general application "
 "details:"
@@ -10394,41 +10970,42 @@ msgstr ""
 "La sezione **Informazioni** fornisce l'accesso ai dettagli generali "
 "dell'applicazione:"
 
-#: ../../mobile_apps/toc.rst:24
+#: ../../mobile_apps/mail_app.rst:22
 msgid ""
 "**Notifications and sounds** Configure notification behavior and alert "
 "sounds for incoming messages."
 msgstr ""
-"**Notifiche e suoni** Configura il comportamento delle notifiche e i suoni "
-"di alert per i messaggi in arrivo."
+"**Notifiche e suoni** Configura il comportamento delle notifiche e i "
+"suoni di alert per i messaggi in arrivo."
 
-#: ../../mobile_apps/toc.rst:27
+#: ../../mobile_apps/mail_app.rst:25
 msgid "**License** View license information for the application."
 msgstr "**Licenza** Visualizza le informazioni sulla licenza dell'applicazione."
 
-#: ../../mobile_apps/toc.rst:30
+#: ../../mobile_apps/mail_app.rst:28
 msgid ""
 "**Third-party licenses** Display licenses related to third-party "
 "components used by the application."
 msgstr ""
-"**Licenze di terze parti** Visualizza le licenze relative ai componenti di "
-"terze parti utilizzati dall'applicazione."
+"**Licenze di terze parti** Visualizza le licenze relative ai componenti "
+"di terze parti utilizzati dall'applicazione."
 
-#: ../../mobile_apps/toc.rst:33
+#: ../../mobile_apps/mail_app.rst:31
 msgid "**Log out** Sign out from the current account."
 msgstr "**Disconnetti** Esci dall'account corrente."
 
-#: ../../mobile_apps/toc.rst:36
-msgid "### Settings"
+#: ../../mobile_apps/mail_app.rst:34
+#, fuzzy
+msgid "Settings"
 msgstr "Impostazioni"
 
-#: ../../mobile_apps/toc.rst:38
+#: ../../mobile_apps/mail_app.rst:36
 msgid "The **Settings** section allows customization of Mail and related modules:"
 msgstr ""
-"La sezione **Impostazioni** consente la personalizzazione di Posta e moduli "
-"correlati:"
+"La sezione **Impostazioni** consente la personalizzazione di Posta e "
+"moduli correlati:"
 
-#: ../../mobile_apps/toc.rst:40
+#: ../../mobile_apps/mail_app.rst:38
 msgid ""
 "**General** Configure general preferences such as theme, synchronization "
 "interval, search behavior, out-of-office settings, and trusted senders."
@@ -10437,7 +11014,7 @@ msgstr ""
 "sincronizzazione, comportamento di ricerca, impostazioni fuori sede e "
 "mittenti attendibili."
 
-#: ../../mobile_apps/toc.rst:43
+#: ../../mobile_apps/mail_app.rst:41
 msgid ""
 "**Account** Manage account-related options, including email signatures, "
 "account management, default email address, sent message settings, and "
@@ -10447,22 +11024,21 @@ msgstr ""
 "email, la gestione dell'account, l'indirizzo email predefinito, le "
 "impostazioni dei messaggi inviati e le opzioni di invio delegato."
 
-#: ../../mobile_apps/toc.rst:46
+#: ../../mobile_apps/mail_app.rst:44
 msgid ""
 "**Email** Customize email behavior, including swipe actions, conversation"
 " view expansion, reading options, view type, and scheduled sending "
 "preferences."
 msgstr ""
 "**Email** Personalizza il comportamento dell'email, inclusi azioni di "
-"scroll, espansione della vista conversazione, opzioni di lettura, tipo di "
-"visualizzazione e preferenze di invio pianificato."
+"scroll, espansione della vista conversazione, opzioni di lettura, tipo di"
+" visualizzazione e preferenze di invio pianificato."
 
-#: ../../mobile_apps/toc.rst:49
+#: ../../mobile_apps/mail_app.rst:47
 msgid "**Contacts** Access and configure contact-related settings."
-msgstr ""
-"**Contatti** Accedere e configurare le impostazioni relative ai contatti."
+msgstr "**Contatti** Accedere e configurare le impostazioni relative ai contatti."
 
-#: ../../mobile_apps/toc.rst:52
+#: ../../mobile_apps/mail_app.rst:50
 msgid ""
 "**Calendar** Manage calendar preferences, such as appointment visibility,"
 " first day of the week, appointment postponement, and calendar "
@@ -10472,37 +11048,38 @@ msgstr ""
 "degli appuntamenti, il primo giorno della settimana, il rinvio degli "
 "appuntamenti e la sincronizzazione del calendario."
 
-#: ../../mobile_apps/toc.rst:55
+#: ../../mobile_apps/mail_app.rst:53
 msgid "**Sharing** Configure sharing options for mailbox items and folders."
 msgstr ""
-"**Condivisione** Configura le opzioni di condivisione per gli elementi e le "
-"cartelle della casella di posta."
+"**Condivisione** Configura le opzioni di condivisione per gli elementi e "
+"le cartelle della casella di posta."
 
-#: ../../mobile_apps/toc.rst:58
-msgid "### Mailbox Quota and Version"
+#: ../../mobile_apps/mail_app.rst:56
+#, fuzzy
+msgid "Mailbox Quota and Version"
 msgstr "### Quote della casella di posta e versione"
 
-#: ../../mobile_apps/toc.rst:60
+#: ../../mobile_apps/mail_app.rst:58
 msgid "At the bottom of the settings screen, the application displays:"
 msgstr "In fondo alla sezione delle impostazioni, l'applicazione visualizza:"
 
-#: ../../mobile_apps/toc.rst:62
+#: ../../mobile_apps/mail_app.rst:60
 msgid "The current **mailbox quota usage**."
 msgstr "L'attuale valore di utilizzo della **quota della casella di posta**."
 
-#: ../../mobile_apps/toc.rst:63
+#: ../../mobile_apps/mail_app.rst:61
 msgid "The installed **application version**."
 msgstr "La **versione dell'applicazione installata**."
 
-#: ../../mobile_apps/toc.rst:71
+#: ../../mobile_apps/mail_app.rst:69
 msgid "To compose and send a new email message, follow these steps:"
 msgstr "Per inoltrare un'e-mail, seguire questi passaggi:"
 
-#: ../../mobile_apps/toc.rst:73
+#: ../../mobile_apps/mail_app.rst:71
 msgid "Tap **Compose** (pen icon) to open a new message."
 msgstr "Tocca **Componi** (icona penna) per aprire un nuovo messaggio."
 
-#: ../../mobile_apps/toc.rst:74
+#: ../../mobile_apps/mail_app.rst:72
 msgid ""
 "If multiple sending identities or personas are available, select the "
 "appropriate one from the **From** field."
@@ -10510,43 +11087,43 @@ msgstr ""
 "Se sono disponibili più identità o persone di invio, selezionare quella "
 "appropriata dal campo **Da**."
 
-#: ../../mobile_apps/toc.rst:75
+#: ../../mobile_apps/mail_app.rst:73
 msgid "In the **To** field, enter one or more recipient email addresses."
 msgstr "**A**: Specifica l'indirizzo email del destinatario."
 
-#: ../../mobile_apps/toc.rst:76
+#: ../../mobile_apps/mail_app.rst:74
 msgid "Optionally, add additional recipients in the **Cc** or **Bcc** fields."
 msgstr "Facoltativamente, aggiungere dei destinatari nei campi *Cc* o *Ccn*."
 
-#: ../../mobile_apps/toc.rst:77
+#: ../../mobile_apps/mail_app.rst:75
 msgid "Enter a subject in the **Subject** field."
 msgstr "Scrivi un breve titolo nel campo *Oggetto*."
 
-#: ../../mobile_apps/toc.rst:78
+#: ../../mobile_apps/mail_app.rst:76
 msgid "Write the message content in the email body."
 msgstr "**Corpo**: Specifica elementi specifici nel corpo dell'email."
 
-#: ../../mobile_apps/toc.rst:80
+#: ../../mobile_apps/mail_app.rst:78
 msgid "While editing the message, additional options are available:"
 msgstr "Durante la modifica del messaggio, sono disponibili opzioni aggiuntive:"
 
-#: ../../mobile_apps/toc.rst:82
+#: ../../mobile_apps/mail_app.rst:80
 msgid "Use the **formatting toolbar** to customize the text appearance. You can:"
 msgstr ""
 "Usa la **barra degli strumenti di formattazione** per personalizzare "
 "l'aspetto del testo. Puoi:"
 
-#: ../../mobile_apps/toc.rst:84
+#: ../../mobile_apps/mail_app.rst:82
 msgid "Select a text style such as **Title**, **Subtitle**, or **Body text**."
 msgstr ""
-"Seleziona uno stile di testo come **Titolo**, **Sottotitolo** o **Testo del "
-"corpo**."
+"Seleziona uno stile di testo come **Titolo**, **Sottotitolo** o **Testo "
+"del corpo**."
 
-#: ../../mobile_apps/toc.rst:85
+#: ../../mobile_apps/mail_app.rst:83
 msgid "Change the text color."
 msgstr "Modificare il Colore di un'Etichetta"
 
-#: ../../mobile_apps/toc.rst:86
+#: ../../mobile_apps/mail_app.rst:84
 msgid ""
 "Apply text formatting options, including **bold**, *italic*, underline, "
 "and other supported styles."
@@ -10554,56 +11131,57 @@ msgstr ""
 "Applicare opzioni di formattazione del testo, incluse **grassetto**, "
 "*corsivo*, sottolineato e altri stili supportati."
 
-#: ../../mobile_apps/toc.rst:88
+#: ../../mobile_apps/mail_app.rst:86
 msgid "Tap the **Attachment** (paperclip) icon to:"
 msgstr "Tocca l'icona **Allegato** (clip) per:"
 
-#: ../../mobile_apps/toc.rst:90
+#: ../../mobile_apps/mail_app.rst:88
 msgid "Take a photo and attach it to the message."
 msgstr "Scatta una foto e allegala al messaggio."
 
-#: ../../mobile_apps/toc.rst:91
+#: ../../mobile_apps/mail_app.rst:89
 msgid "Select one or more images from the device gallery."
 msgstr "Seleziona una o più etichette tra quelle presenti."
 
-#: ../../mobile_apps/toc.rst:92
+#: ../../mobile_apps/mail_app.rst:90
 msgid "Choose a document from the device storage."
 msgstr "Seleziona un documento dalla memoria locale del dispositivo."
 
-#: ../../mobile_apps/toc.rst:93
+#: ../../mobile_apps/mail_app.rst:91
 msgid "Add files from **Carbonio Files**, if available."
 msgstr "Aggiungi file da **Carbonio Files**, se disponibili."
 
-#: ../../mobile_apps/toc.rst:95
+#: ../../mobile_apps/mail_app.rst:93
 msgid "Tap the **More options** (three-dot) icon to:"
 msgstr "Tocca l'icona **Altre opzioni** (tre punti) per:"
 
-#: ../../mobile_apps/toc.rst:97
+#: ../../mobile_apps/mail_app.rst:95
 msgid "Save the message as a draft."
 msgstr "Salvare un'Email come Bozza"
 
-#: ../../mobile_apps/toc.rst:98
+#: ../../mobile_apps/mail_app.rst:96
 msgid ""
 "Schedule the message for delivery by selecting a date, time, and time "
 "zone."
 msgstr ""
-"Pianifica il messaggio per la consegna selezionando una data, un'ora e un "
-"fuso orario."
+"Pianifica il messaggio per la consegna selezionando una data, un'ora e un"
+" fuso orario."
 
-#: ../../mobile_apps/toc.rst:99
+#: ../../mobile_apps/mail_app.rst:97
 msgid "Set the message priority."
 msgstr "Modifica il messaggio e premi invio."
 
-#: ../../mobile_apps/toc.rst:100
+#: ../../mobile_apps/mail_app.rst:98
 msgid "Request a read receipt from the recipient."
 msgstr "Richiedere la Conferma di Lettura"
 
-#: ../../mobile_apps/toc.rst:102
+#: ../../mobile_apps/mail_app.rst:100
 msgid "When finished, tap **Send** (paper-plane icon) to send the message."
 msgstr ""
-"Quando hai finito, tocca **Invia** (icona di invio) per inviare il messaggio."
+"Quando hai finito, tocca **Invia** (icona di invio) per inviare il "
+"messaggio."
 
-#: ../../mobile_apps/toc.rst:104
+#: ../../mobile_apps/mail_app.rst:102
 msgid ""
 "After the message is sent, a copy of the email is automatically saved in "
 "the **Sent** folder."
@@ -10611,19 +11189,19 @@ msgstr ""
 "Dopo l'invio del messaggio, una copia dell'email viene salvata "
 "automaticamente nella cartella **Inviati**."
 
-#: ../../mobile_apps/toc.rst:110
+#: ../../mobile_apps/mail_app.rst:108
 msgid "To reply to an email message, follow these steps:"
 msgstr "Per rispondere a un'email, segui questi passaggi:"
 
-#: ../../mobile_apps/toc.rst:112
+#: ../../mobile_apps/mail_app.rst:110
 msgid "Open the email you want to respond to."
 msgstr "Scegli l'azione che desideri eseguire."
 
-#: ../../mobile_apps/toc.rst:113
+#: ../../mobile_apps/mail_app.rst:111
 msgid "Tap **More options** (three-dot icon)."
 msgstr "Tocca **Altre opzioni** (icona dei tre punti)."
 
-#: ../../mobile_apps/toc.rst:114
+#: ../../mobile_apps/mail_app.rst:112
 msgid ""
 "Select **Reply** to respond to the sender only, or **Reply all** to "
 "respond to all recipients."
@@ -10631,35 +11209,34 @@ msgstr ""
 "Seleziona **Rispondi** per rispondere solo al mittente, o **Rispondi a "
 "tutti** per rispondere a tutti i destinatari."
 
-#: ../../mobile_apps/toc.rst:115
+#: ../../mobile_apps/mail_app.rst:113
 msgid "Write your message."
 msgstr "Modificare un Messaggio"
 
-#: ../../mobile_apps/toc.rst:116
+#: ../../mobile_apps/mail_app.rst:114
 msgid "Tap **Send** (paper-plane icon) to send the reply."
 msgstr "Fai clic sul tasto **INVIO** per inviare la email."
 
-#: ../../mobile_apps/toc.rst:118
+#: ../../mobile_apps/mail_app.rst:116
 msgid ""
 "While replying, the same editing, formatting, attachment, and message "
 "options available when composing a new email can be used. For more "
 "information, see :ref:`composing-a-new-email`."
 msgstr ""
-"Durante la risposta, possono essere utilizzate le stesse opzioni di editing, "
-"formattazione, allegato e messaggio disponibili quando si compone un nuovo "
-"messaggio di posta elettronica. Per ulteriori informazioni, vedere "
-":ref:`composing-a-new-email`."
+"Durante la risposta, possono essere utilizzate le stesse opzioni di "
+"editing, formattazione, allegato e messaggio disponibili quando si "
+"compone un nuovo messaggio di posta elettronica. Per ulteriori "
+"informazioni, vedere :ref:`composing-a-new-email`."
 
-#: ../../mobile_apps/toc.rst:120
+#: ../../mobile_apps/mail_app.rst:118
 msgid "A copy of the sent reply is automatically saved in the **Sent** folder."
-msgstr ""
-"Una copia dell'email inviata viene archiviata nella cartella \"Inviati\"."
+msgstr "Una copia dell'email inviata viene archiviata nella cartella \"Inviati\"."
 
-#: ../../mobile_apps/toc.rst:124
+#: ../../mobile_apps/mail_app.rst:122
 msgid "Reply vs. Reply All"
 msgstr "Rispondi e Rispondi a tutti"
 
-#: ../../mobile_apps/toc.rst:126
+#: ../../mobile_apps/mail_app.rst:124
 msgid ""
 "The difference between **Reply** and **Reply all** is the recipients of "
 "your response:"
@@ -10667,47 +11244,48 @@ msgstr ""
 "La differenza tra **Rispondi** e **Rispondi a tutti** è costituita dai "
 "destinatari della tua risposta:"
 
-#: ../../mobile_apps/toc.rst:128
+#: ../../mobile_apps/mail_app.rst:126
 msgid "**Reply** sends your response only to the original sender."
 msgstr "**Rispondi** invia la tua risposta solo all'originale mittente."
 
-#: ../../mobile_apps/toc.rst:129
+#: ../../mobile_apps/mail_app.rst:127
 msgid ""
 "**Reply all** sends your response to the sender and to other recipients "
 "from the original email (typically added automatically in Cc)."
 msgstr ""
 "**Rispondi a tutti** invia la tua risposta al mittente e ad altri "
-"destinatari dell'email originale (di solito aggiunti automaticamente in Cc)."
+"destinatari dell'email originale (di solito aggiunti automaticamente in "
+"Cc)."
 
-#: ../../mobile_apps/toc.rst:131
+#: ../../mobile_apps/mail_app.rst:129
 msgid ""
 "Use **Reply all** only when your response is relevant to everyone "
 "included in the original conversation."
 msgstr ""
-"Utilizza **Rispondi a tutti** solo quando la tua risposta è rilevante per "
-"tutti coloro che sono inclusi nella conversazione originale."
+"Utilizza **Rispondi a tutti** solo quando la tua risposta è rilevante per"
+" tutti coloro che sono inclusi nella conversazione originale."
 
-#: ../../mobile_apps/toc.rst:136
+#: ../../mobile_apps/mail_app.rst:134
 msgid "To perform actions on multiple emails:"
 msgstr "Per eseguire un'azione su più email:"
 
-#: ../../mobile_apps/toc.rst:138
+#: ../../mobile_apps/mail_app.rst:136
 msgid "Tap and hold an email to enter **selection mode**."
 msgstr ""
 "Tocca e tieni premuto un messaggio di posta elettronica per entrare in "
 "**modalità di selezione**."
 
-#: ../../mobile_apps/toc.rst:139
+#: ../../mobile_apps/mail_app.rst:137
 msgid "Tap other emails to select them."
 msgstr "Tocca altre email per selezionarle."
 
-#: ../../mobile_apps/toc.rst:140
+#: ../../mobile_apps/mail_app.rst:138
 msgid "Tap **More options** (three-dots icon) or the available action buttons."
 msgstr ""
 "Tocca **Altre opzioni** (icona a tre punti) o i pulsanti di azione "
 "disponibili."
 
-#: ../../mobile_apps/toc.rst:141
+#: ../../mobile_apps/mail_app.rst:139
 msgid ""
 "Choose the action you want (for example: mark as read/unread, flag, move,"
 " mark as spam, tag, delete)."
@@ -10715,24 +11293,20 @@ msgstr ""
 "Scegli l'azione desiderata (ad esempio: segna come letta/non letta, "
 "contrassegnata, sposta, segna come posta indesiderata, tagga, elimina)."
 
-#: ../../mobile_apps/toc.rst:146
+#: ../../mobile_apps/mail_app.rst:144
 msgid ""
 "While composing an email, you can attach files from your device, from "
 "Carbonio Files, or capture a photo/video (if supported)."
 msgstr ""
-"Durante la composizione di un'e-mail, è possibile allegare file dal proprio "
-"dispositivo, da Carbonio Files o acquisire una foto/video (se supportato)."
+"Durante la composizione di un'e-mail, è possibile allegare file dal "
+"proprio dispositivo, da Carbonio Files o acquisire una foto/video (se "
+"supportato)."
 
-#: ../../mobile_apps/toc.rst:149
+#: ../../mobile_apps/mail_app.rst:147
 msgid "Add an attachment from your device"
 msgstr "Per aggiungere un allegato dal computer:"
 
-#: ../../mobile_apps/toc.rst:151 ../../mobile_apps/toc.rst:158
-#: ../../mobile_apps/toc.rst:254 ../../mobile_apps/toc.rst:262
-msgid "Tap **Attach** (paperclip icon)."
-msgstr "Tocca **Allega** (icona clip)."
-
-#: ../../mobile_apps/toc.rst:152
+#: ../../mobile_apps/mail_app.rst:150
 msgid ""
 "Choose an option such as **Take photo/video**, **Choose from gallery**, "
 "or **Browse/Document**."
@@ -10740,23 +11314,23 @@ msgstr ""
 "Scegli un'opzione come **Scatta foto/video**, **Scegli da galleria** o "
 "**Sfoglia/Documento**."
 
-#: ../../mobile_apps/toc.rst:153
+#: ../../mobile_apps/mail_app.rst:151
 msgid "Select the file (or capture it) and confirm."
 msgstr "Seleziona un file dalla finestra."
 
-#: ../../mobile_apps/toc.rst:156
+#: ../../mobile_apps/mail_app.rst:154
 msgid "Add an attachment from Carbonio Files"
 msgstr "Per aggiungere un allegato da |product| Files:"
 
-#: ../../mobile_apps/toc.rst:159
+#: ../../mobile_apps/mail_app.rst:157
 msgid "Select **Add from Files / Drive** (wording may vary)."
 msgstr "Seleziona **Aggiungi da File / Drive** (la frase può variare)."
 
-#: ../../mobile_apps/toc.rst:160
+#: ../../mobile_apps/mail_app.rst:158
 msgid "Choose the file and confirm."
 msgstr "Scegli la configurazione di condivisione."
 
-#: ../../mobile_apps/toc.rst:164
+#: ../../mobile_apps/mail_app.rst:162
 msgid ""
 "Attachments are a common way viruses spread. Administrators may block "
 "certain file types (for example ``.exe`` or ``.zip``). In some cases you "
@@ -10764,12 +11338,12 @@ msgid ""
 "attachment—so consider confirming receipt when it’s important."
 msgstr ""
 "Gli allegati sono un metodo comune di diffusione dei virus. Gli "
-"amministratori possono bloccare determinati tipi di file (ad esempio `.exe` "
-"o `.zip`). In alcuni casi potresti non ricevere un avviso se il sistema del "
-"destinatario blocca l'allegato -- quindi valuta la conferma di ricezione "
-"quando è importante."
+"amministratori possono bloccare determinati tipi di file (ad esempio "
+"`.exe` o `.zip`). In alcuni casi potresti non ricevere un avviso se il "
+"sistema del destinatario blocca l'allegato -- quindi valuta la conferma "
+"di ricezione quando è importante."
 
-#: ../../mobile_apps/toc.rst:171
+#: ../../mobile_apps/mail_app.rst:169
 msgid ""
 "If you have multiple identities/personas configured, you can choose which"
 " one to use when composing:"
@@ -10777,47 +11351,45 @@ msgstr ""
 "Se hai più personalità o account esterni collegati, puoi scegliere la "
 "persona specifica che desideri utilizzare quando invii un'email."
 
-#: ../../mobile_apps/toc.rst:173
+#: ../../mobile_apps/mail_app.rst:171
 msgid "In the compose screen, tap the **From** field."
 msgstr "Nello schermo di composizione, tocca il campo **Da**."
 
-#: ../../mobile_apps/toc.rst:174
+#: ../../mobile_apps/mail_app.rst:172
 msgid "Select the desired **identity/persona**."
 msgstr "Selezione il **Ruolo** desiderato."
 
-#: ../../mobile_apps/toc.rst:176
+#: ../../mobile_apps/mail_app.rst:174
 msgid "The recipient will see the selected identity/persona as the sender."
 msgstr ""
-"Il destinatario vedrà il nome della persona selezionata come mittente delle "
-"email."
+"Il destinatario vedrà il nome della persona selezionata come mittente "
+"delle email."
 
-#: ../../mobile_apps/toc.rst:181
+#: ../../mobile_apps/mail_app.rst:179
 msgid "If available, you can request a read receipt:"
 msgstr "Richiedere la Conferma di Lettura"
 
-#: ../../mobile_apps/toc.rst:183
+#: ../../mobile_apps/mail_app.rst:181
 msgid "While composing, open **More options** (three-dots icon)."
-msgstr ""
-"Durante la composizione, apri **Opzioni aggiuntive** (icona a tre punti)."
+msgstr "Durante la composizione, apri **Opzioni aggiuntive** (icona a tre punti)."
 
-#: ../../mobile_apps/toc.rst:184
+#: ../../mobile_apps/mail_app.rst:182
 msgid "Enable **Read receipt**."
 msgstr "Seleziona *Richiedi conferma di lettura*."
 
-#: ../../mobile_apps/toc.rst:185
+#: ../../mobile_apps/mail_app.rst:183
 msgid "Close the menu and send the email."
 msgstr "Fai clic sul tasto **INVIO** per inviare la email."
 
-#: ../../mobile_apps/toc.rst:190
+#: ../../mobile_apps/mail_app.rst:188
 msgid "To save a draft while composing:"
-msgstr ""
-"Per richiedere una ricevuta di lettura durante la creazione di un'email:"
+msgstr "Per richiedere una ricevuta di lettura durante la creazione di un'email:"
 
-#: ../../mobile_apps/toc.rst:192
+#: ../../mobile_apps/mail_app.rst:190
 msgid "Open **More options** (three-dots icon)."
 msgstr "Apri **Opzioni aggiuntive** (icona dei tre punti)."
 
-#: ../../mobile_apps/toc.rst:193
+#: ../../mobile_apps/mail_app.rst:191
 msgid ""
 "Select **Save draft** (or simply exit the compose screen if the app "
 "autosaves drafts)."
@@ -10825,51 +11397,51 @@ msgstr ""
 "Seleziona **Salva bozza** (o semplicemente esci dallo schermo di "
 "composizione se l'app salva automaticamente le bozze)."
 
-#: ../../mobile_apps/toc.rst:198
+#: ../../mobile_apps/mail_app.rst:196
 msgid "Open the app menu (typically the menu icon)."
 msgstr "Apri il menu dell'app (di solito l'icona del menu)."
 
-#: ../../mobile_apps/toc.rst:199
+#: ../../mobile_apps/mail_app.rst:197
 msgid "Go to the **Drafts** folder."
 msgstr "Vai alla casella **Spam**."
 
-#: ../../mobile_apps/toc.rst:200
+#: ../../mobile_apps/mail_app.rst:198
 msgid "Open the draft you want to send."
 msgstr "Scegli l'azione che desideri eseguire."
 
-#: ../../mobile_apps/toc.rst:201
+#: ../../mobile_apps/mail_app.rst:199
 msgid "Tap **Send**."
 msgstr "Tocca **Invia**."
 
-#: ../../mobile_apps/toc.rst:206
+#: ../../mobile_apps/mail_app.rst:204
 msgid "To forward an email:"
 msgstr "Inoltro di un'E-mail"
 
-#: ../../mobile_apps/toc.rst:208 ../../mobile_apps/toc.rst:218
+#: ../../mobile_apps/mail_app.rst:206 ../../mobile_apps/mail_app.rst:216
 msgid "Open the email."
 msgstr "Clic destro sull'email."
 
-#: ../../mobile_apps/toc.rst:209 ../../mobile_apps/toc.rst:219
+#: ../../mobile_apps/mail_app.rst:207 ../../mobile_apps/mail_app.rst:217
 msgid "Tap **More options** (three-dots icon)."
 msgstr "Tocca **Altre opzioni** (icona con tre punti)."
 
-#: ../../mobile_apps/toc.rst:210
+#: ../../mobile_apps/mail_app.rst:208
 msgid "Select **Forward** (or **Forward conversation**, if shown)."
 msgstr "Seleziona **Inoltra** (o **Inoltra conversazione**, se visualizzato)."
 
-#: ../../mobile_apps/toc.rst:211 ../../mobile_apps/toc.rst:221
+#: ../../mobile_apps/mail_app.rst:209 ../../mobile_apps/mail_app.rst:219
 msgid "Enter the recipient and tap **Send**."
 msgstr "Immettere il destinatario e toccare **Invia**."
 
-#: ../../mobile_apps/toc.rst:216
+#: ../../mobile_apps/mail_app.rst:214
 msgid "To redirect an email (if available):"
 msgstr "Per reindirizzare un'email, segui questi passaggi:"
 
-#: ../../mobile_apps/toc.rst:220
+#: ../../mobile_apps/mail_app.rst:218
 msgid "Select **Redirect**."
 msgstr "Seleziona **Auth**."
 
-#: ../../mobile_apps/toc.rst:226
+#: ../../mobile_apps/mail_app.rst:224
 msgid ""
 "**Forward** sends a copy of the message to someone else (often allowing "
 "you to add your own text)."
@@ -10877,647 +11449,38 @@ msgstr ""
 "**Inoltro** invia una copia del messaggio a qualcun altro (spesso con la "
 "possibilità di aggiungere il tuo testo)."
 
-#: ../../mobile_apps/toc.rst:227
+#: ../../mobile_apps/mail_app.rst:225
 msgid ""
 "**Redirect** reroutes the original message to a new recipient as if it "
 "had been sent to them originally, making it easier for the new recipient "
 "to reply directly to the original sender."
 msgstr ""
-"Pertanto, optare per il reindirizzamento di un messaggio anziché inoltrarlo "
-"semplifica la procedura per il destinatario per rispondere direttamente al "
-"mittente originale."
+"Pertanto, optare per il reindirizzamento di un messaggio anziché "
+"inoltrarlo semplifica la procedura per il destinatario per rispondere "
+"direttamente al mittente originale."
 
-#: ../../mobile_apps/toc.rst:231
-msgid "Working with Chats App"
-msgstr "Contatti"
+#: ../../mobile_apps/toc.rst:6
+msgid "Carbonio Mobile Applications"
+msgstr ""
 
-#: ../../mobile_apps/toc.rst:233
+#: ../../mobile_apps/toc.rst:8
 msgid ""
-"With the Carbonio Chats app, you can send instant messages, share files, "
-"and organize or join video meetings."
+"The Carbonio mobile applications are available for Android and iOS "
+"devices. You can download them from the official stores using the links "
+"below."
 msgstr ""
-"Con l'app Carbonio Chats, puoi inviare messaggi istantanei, condividere file "
-"e organizzare o partecipare a riunioni in videoconferenza."
 
-#: ../../mobile_apps/toc.rst:236
-msgid "Creating a New Chat"
-msgstr "Creare una Nuova Chat"
-
-#: ../../mobile_apps/toc.rst:238
-msgid "To start a 1-to-1 conversation:"
-msgstr "Per iniziare una conversazione 1-a-1:"
-
-#: ../../mobile_apps/toc.rst:240 ../../mobile_apps/toc.rst:328
-msgid "Tap **New chat** (plus icon)."
-msgstr "Tocca **Nuova chat** (icona più)."
-
-#: ../../mobile_apps/toc.rst:241
-msgid "Select **Single conversation / Private chat**."
-msgstr "Seleziona **Conversazione singola / Chat privata**."
-
-#: ../../mobile_apps/toc.rst:242
-msgid "Search for a colleague by name and select them."
-msgstr "Per cercare un collega nella tua lista chat:"
-
-#: ../../mobile_apps/toc.rst:244
-msgid ""
-"The conversation will appear in your chat list. In a chat, type your "
-"message in the text box and tap **Send**. You can also add emojis and "
-"attachments."
+#: ../../mobile_apps/toc.rst:11
+msgid "**Android (Google Play Store)**"
 msgstr ""
-"La conversazione apparirà nell'elenco chat. In una chat, digita il tuo "
-"messaggio nella casella di testo e premi **Invia**. Puoi anche aggiungere "
-"emoji e allegati."
 
-#: ../../mobile_apps/toc.rst:248
-msgid "Sending Files in Chats"
-msgstr "Inviare File dal tuo Computer nelle Chat"
-
-#: ../../mobile_apps/toc.rst:251
-msgid "Send a file from your device"
-msgstr "Aggiungere un File dal Tuo Computer"
-
-#: ../../mobile_apps/toc.rst:253 ../../mobile_apps/toc.rst:261
-msgid "Open the chat."
-msgstr "Contatti"
-
-#: ../../mobile_apps/toc.rst:255
-msgid "Select **Document** (or a similar option)."
-msgstr "Seleziona **Nuovo documento** dal menu a tendina."
-
-#: ../../mobile_apps/toc.rst:256 ../../mobile_apps/toc.rst:264
-msgid "Choose the file and tap **Send**."
-msgstr "Scegliere il file e toccare **Invia**."
-
-#: ../../mobile_apps/toc.rst:259
-msgid "Send a file from Carbonio Files"
-msgstr "Inviare un file da Carbonio Files"
-
-#: ../../mobile_apps/toc.rst:263
-msgid "Select **Drive / Files** (wording may vary)."
-msgstr "Seleziona **Drive / Files** (la frase può variare)."
-
-#: ../../mobile_apps/toc.rst:267
-msgid "Edit a Message"
-msgstr "Modificare un Messaggio"
-
-#: ../../mobile_apps/toc.rst:269 ../../mobile_apps/toc.rst:280
-#: ../../mobile_apps/toc.rst:287 ../../mobile_apps/toc.rst:294
-msgid "Tap and hold the message."
-msgstr "Tocca e tieni premuto il messaggio."
-
-#: ../../mobile_apps/toc.rst:270
-msgid "Select **Edit**."
-msgstr "Seleziona **Auth**."
-
-#: ../../mobile_apps/toc.rst:271
-msgid "Update the message and send."
-msgstr "Modifica il messaggio e premi invio."
-
-#: ../../mobile_apps/toc.rst:275
-msgid ""
-"Editing may be available only for a limited time (for example, within 5 "
-"minutes)."
+#: ../../mobile_apps/toc.rst:25
+msgid "**iOS (Apple App Store)**"
 msgstr ""
-"La modifica potrebbe essere disponibile solo per un periodo di tempo "
-"limitato (ad esempio, entro 5 minuti)."
 
-#: ../../mobile_apps/toc.rst:278
-msgid "Reply to a Message"
-msgstr "Rispondi a un Messaggio"
-
-#: ../../mobile_apps/toc.rst:281
-msgid "Select **Reply**."
-msgstr "Seleziona **Email**."
-
-#: ../../mobile_apps/toc.rst:282
-msgid "Write your reply and send."
-msgstr "Scrivi la risposta e premi invio."
-
-#: ../../mobile_apps/toc.rst:285
-msgid "Forward a Message"
-msgstr "Inoltra un messaggio"
-
-#: ../../mobile_apps/toc.rst:288
-msgid "Select **Forward**."
-msgstr "Clicca su **AVANTI**."
-
-#: ../../mobile_apps/toc.rst:289
-msgid "Choose the recipient and send."
-msgstr "Scegli il destinatario e invia."
-
-#: ../../mobile_apps/toc.rst:292
-msgid "Delete a Message"
-msgstr "Elimina un Messaggio"
-
-#: ../../mobile_apps/toc.rst:295
-msgid "Select **Delete message**."
-msgstr "Seleziona l'opzione **Elimina definitivamente**."
-
-#: ../../mobile_apps/toc.rst:296
-msgid "Confirm the action."
-msgstr "Conferma contenuto condiviso:"
-
-#: ../../mobile_apps/toc.rst:300
-msgid ""
-"Deleting may be available only for a limited time (for example, within 5 "
-"minutes)."
+#: ../../mobile_apps/toc.rst:40
+msgid "Table of Contents"
 msgstr ""
-"La cancellazione potrebbe essere disponibile solo per un periodo di tempo "
-"limitato (ad esempio, entro 5 minuti)."
-
-#: ../../mobile_apps/toc.rst:303
-msgid "Mute Notifications for a Chat"
-msgstr "Silenzia notifiche di una chat"
-
-#: ../../mobile_apps/toc.rst:305
-msgid "To mute notifications for a specific chat or group:"
-msgstr "Per cancellare la cronologia di una chat o un gruppo specifico:"
-
-#: ../../mobile_apps/toc.rst:307 ../../mobile_apps/toc.rst:318
-msgid "Open the chat/group."
-msgstr "Apri la chat/gruppo."
-
-#: ../../mobile_apps/toc.rst:308
-msgid "Open **Chat info** (often an **i** icon or the chat name)."
-msgstr "Apri **Info chat** (spesso un'icona **i** o il nome della chat)."
-
-#: ../../mobile_apps/toc.rst:309
-msgid "Disable **Notifications**."
-msgstr "Silenzia notifiche di una chat"
-
-#: ../../mobile_apps/toc.rst:311
-msgid "To unmute, follow the same steps and re-enable notifications."
-msgstr ""
-"Per attivare, segui la stessa procedura e scegli **Attiva le notifiche**."
-
-#: ../../mobile_apps/toc.rst:314
-msgid "Clear Chat History"
-msgstr "Cancella la cronologia di una Chat"
-
-#: ../../mobile_apps/toc.rst:316
-msgid "To clear the history of a chat/group:"
-msgstr "Per cancellare la cronologia di una chat o un gruppo specifico:"
-
-#: ../../mobile_apps/toc.rst:319
-msgid "Open **Chat info**."
-msgstr "Apri **Info chat**."
-
-#: ../../mobile_apps/toc.rst:320
-msgid "Tap **Clear history**."
-msgstr "Cancella la cronologia di una Chat"
-
-#: ../../mobile_apps/toc.rst:321 ../../mobile_apps/toc.rst:488
-msgid "Confirm."
-msgstr "Conferma."
-
-#: ../../mobile_apps/toc.rst:324
-msgid "Creating a New Group"
-msgstr "Creazione Nuovo Gruppo"
-
-#: ../../mobile_apps/toc.rst:326
-msgid "To create a group chat:"
-msgstr "Per uscire da un gruppo:"
-
-#: ../../mobile_apps/toc.rst:329
-msgid "Select **Group conversation / Group chat**."
-msgstr "Seleziona **Conversazione di gruppo / Chat di gruppo**."
-
-#: ../../mobile_apps/toc.rst:330
-msgid ""
-"Select at least two colleagues (groups require 3+ participants including "
-"you)."
-msgstr ""
-"Seleziona almeno due colleghi (i gruppi richiedono 3+ partecipanti, compreso "
-"te)."
-
-#: ../../mobile_apps/toc.rst:331
-msgid "Tap **Next** (if shown)."
-msgstr "Tocca **Avanti** (se visualizzato)."
-
-#: ../../mobile_apps/toc.rst:332
-msgid "Set a **group name** and optionally add an image."
-msgstr "Imposta un **nome di gruppo** e aggiungi opzionalmente un'immagine."
-
-#: ../../mobile_apps/toc.rst:333
-msgid "Tap **Create** (or a checkmark icon)."
-msgstr "Tocca **Crea** (o un'icona di spunta)."
-
-#: ../../mobile_apps/toc.rst:336
-msgid "Add Participants to a Group"
-msgstr "Aggiungi partecipanti a un gruppo"
-
-#: ../../mobile_apps/toc.rst:338 ../../mobile_apps/toc.rst:350
-msgid "If you are a moderator:"
-msgstr "Se sei un moderatore:"
-
-#: ../../mobile_apps/toc.rst:340 ../../mobile_apps/toc.rst:352
-#: ../../mobile_apps/toc.rst:360
-msgid "Open the group."
-msgstr "Abbandona conversazione"
-
-#: ../../mobile_apps/toc.rst:341
-msgid "Open **Group info** (i icon or group name)."
-msgstr "Apri le **Informazioni del gruppo** (icona \"i\" o nome del gruppo)."
-
-#: ../../mobile_apps/toc.rst:342
-msgid "Tap **Invite participants**."
-msgstr "Tocca **Invita partecipanti**."
-
-#: ../../mobile_apps/toc.rst:343
-msgid "Select colleagues and confirm."
-msgstr "Seleziona i colleghi e conferma."
-
-#: ../../mobile_apps/toc.rst:345
-msgid ""
-"If available, you can enable **Show previous conversation history** so "
-"new members can see earlier messages."
-msgstr ""
-"Se disponibile, è possibile abilitare **Mostra la cronologia delle "
-"conversazioni precedenti** in modo che i nuovi membri possano visualizzare i "
-"messaggi precedenti."
-
-#: ../../mobile_apps/toc.rst:348
-msgid "Remove Participants from a Group"
-msgstr "Rimuovi Utenti da un Gruppo"
-
-#: ../../mobile_apps/toc.rst:353 ../../mobile_apps/toc.rst:361
-msgid "Open **Group info**."
-msgstr "Apri **Info gruppo**."
-
-#: ../../mobile_apps/toc.rst:354
-msgid "Tap the participant’s name."
-msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
-
-#: ../../mobile_apps/toc.rst:355
-msgid "Select **Remove from conversation**."
-msgstr "Seleziona l'opzione **Modifica gruppo**."
-
-#: ../../mobile_apps/toc.rst:358
-msgid "Leave a Group"
-msgstr "Abbandona conversazione"
-
-#: ../../mobile_apps/toc.rst:362
-msgid "Tap **Leave** and confirm."
-msgstr "Cliccare su **Esci** per confermare."
-
-#: ../../mobile_apps/toc.rst:365 ../../videomeeting/toc.rst:7
-msgid "Working with Video Meetings"
-msgstr "Usare i Video Meeting"
-
-#: ../../mobile_apps/toc.rst:368
-msgid "Entering Your Personal Room"
-msgstr "Accedere alla tua Stanza Personale"
-
-#: ../../mobile_apps/toc.rst:370
-msgid ""
-"Each Carbonio account includes a personal room you can use to host "
-"meetings with colleagues or external participants."
-msgstr ""
-"Ogni account Carbonio include una stanza personale che puoi utilizzare per "
-"ospitare riunioni con colleghi o partecipanti esterni."
-
-#: ../../mobile_apps/toc.rst:372
-msgid "To enter your personal room:"
-msgstr "Accedere alla tua Stanza Personale"
-
-#: ../../mobile_apps/toc.rst:374 ../../mobile_apps/toc.rst:381
-#: ../../mobile_apps/toc.rst:406 ../../mobile_apps/toc.rst:413
-#: ../../mobile_apps/toc.rst:428 ../../mobile_apps/toc.rst:437
-msgid "Open the **Meetings** section/tab."
-msgstr "Vai alla sezione **Mail**."
-
-#: ../../mobile_apps/toc.rst:375
-msgid "In **Personal Room**, tap **Join/Call** (camera icon)."
-msgstr ""
-"Nella **Stanze Personale**, tocca **Unisciti/Chiama** (icona della "
-"fotocamera)."
-
-#: ../../mobile_apps/toc.rst:376
-msgid "Confirm if prompted."
-msgstr "Conferma se richiesto."
-
-#: ../../mobile_apps/toc.rst:379
-msgid "Inviting Members to Your Personal Room"
-msgstr "Invitare Membri in una Stanza Personale"
-
-#: ../../mobile_apps/toc.rst:382
-msgid "In **Personal Room**, tap **Copy link**."
-msgstr "Nella **Stanze Personale**, tocca **Copia link**."
-
-#: ../../mobile_apps/toc.rst:383
-msgid "Paste the link in an email or chat to invite others."
-msgstr "Incolla il link in un'e-mail o chat per invitare altri."
-
-#: ../../mobile_apps/toc.rst:386
-msgid "Creating a New Room"
-msgstr "Creare una Nuova Stanza"
-
-#: ../../mobile_apps/toc.rst:388
-msgid "Rooms are shared spaces used for video meetings and chat."
-msgstr ""
-"Le stanze sono spazi condivisi utilizzati per riunioni in videoconferenza e "
-"chat."
-
-#: ../../mobile_apps/toc.rst:390
-msgid "To create a room:"
-msgstr "Per creare una nuova stanza:"
-
-#: ../../mobile_apps/toc.rst:392 ../../mobile_apps/toc.rst:449
-msgid "Tap **Create** (plus icon)."
-msgstr "Fare clic sul pulsante **CREA**."
-
-#: ../../mobile_apps/toc.rst:393
-msgid "Select **Create Room**."
-msgstr "Seleziona **Calendari**."
-
-#: ../../mobile_apps/toc.rst:394
-msgid "Enter a room name."
-msgstr "Entrare in una Stanza"
-
-#: ../../mobile_apps/toc.rst:395
-msgid "Tap **OK/Create**."
-msgstr "Fai clic su **Crea**."
-
-#: ../../mobile_apps/toc.rst:397
-msgid "You can usually:"
-msgstr "Si può solitamente:"
-
-#: ../../mobile_apps/toc.rst:399
-msgid "**Copy link** to invite participants."
-msgstr "**Copia link** per invitare i partecipanti."
-
-#: ../../mobile_apps/toc.rst:400
-msgid "**Reset link** to generate a new URL (useful if you shared it by mistake)."
-msgstr ""
-"**Reset link** per generare un nuovo URL (utile se lo hai condiviso per "
-"errore)."
-
-#: ../../mobile_apps/toc.rst:401
-msgid "**Join room** to enter."
-msgstr "**Entra nella stanza** per accedere."
-
-#: ../../mobile_apps/toc.rst:404
-msgid "Entering a Room"
-msgstr "Entrare in una Stanza"
-
-#: ../../mobile_apps/toc.rst:407 ../../mobile_apps/toc.rst:414
-msgid "Tap the room name."
-msgstr "Modifica nome."
-
-#: ../../mobile_apps/toc.rst:408
-msgid "Select **Join room**."
-msgstr "Seleziona la scheda **Stanze**."
-
-#: ../../mobile_apps/toc.rst:411
-msgid "Inviting Members to a Room"
-msgstr "Invitare Membri in una Stanza"
-
-#: ../../mobile_apps/toc.rst:415
-msgid "Select **Copy link** and share it."
-msgstr "Seleziona **Copia link** e condividi."
-
-#: ../../mobile_apps/toc.rst:418
-msgid "Starting a Video Call with One Person"
-msgstr "Eseguire una chiamata video con un membro"
-
-#: ../../mobile_apps/toc.rst:420
-msgid "Open a 1-to-1 chat with the colleague."
-msgstr "Apri una chat 1-to-1 con il collega."
-
-#: ../../mobile_apps/toc.rst:421
-#, fuzzy
-msgid "Tap the camera icon to start a video call."
-msgstr "Tocca l'icona della fotocamera per avviare una videochiamata."
-
-#: ../../mobile_apps/toc.rst:424
-msgid "Resetting a Meeting Room Link"
-msgstr "Reimpostazione del Collegamento della Sala Riunione"
-
-#: ../../mobile_apps/toc.rst:426
-msgid "To change a room link:"
-msgstr "Per creare una nuova stanza:"
-
-#: ../../mobile_apps/toc.rst:429 ../../mobile_apps/toc.rst:438
-msgid "Open the room."
-msgstr "Seleziona la scheda Stanze Virtuali."
-
-#: ../../mobile_apps/toc.rst:430
-msgid "Select **Reset link**."
-msgstr "Seleziona **Auth**."
-
-#: ../../mobile_apps/toc.rst:433 ../../videomeeting/toc.rst:242
-msgid "Deleting a Meeting Room"
-msgstr "Eliminazione di una sala riunioni"
-
-#: ../../mobile_apps/toc.rst:435
-msgid "To delete a room (if you have permission):"
-msgstr "Per eliminare una stanza (se si dispone delle autorizzazioni):"
-
-#: ../../mobile_apps/toc.rst:439
-msgid "Select **Delete Room**."
-msgstr "Seleziona la scheda **Stanze**."
-
-#: ../../mobile_apps/toc.rst:442
-msgid "Working with Files App"
-msgstr "Lavorare su Files"
-
-#: ../../mobile_apps/toc.rst:444
-msgid ""
-"With the Carbonio Files app, you can manage, share, and organize files "
-"and folders on the go."
-msgstr ""
-"Con l'app Carbonio Files, puoi organizzare facilmente file e cartelle anche "
-"da mobile."
-
-#: ../../mobile_apps/toc.rst:450
-msgid "Select **Folder**."
-msgstr "Seleziona **Calendari**."
-
-#: ../../mobile_apps/toc.rst:451
-msgid "Enter a folder name."
-msgstr "Inserisci il tuo nome utente."
-
-#: ../../mobile_apps/toc.rst:452
-msgid "Tap **Create**."
-msgstr "Fai clic su **Crea**."
-
-#: ../../mobile_apps/toc.rst:454
-msgid ""
-"To create a folder inside another folder, open the destination folder "
-"first and repeat the steps above."
-msgstr ""
-"Per creare una cartella all'interno di un'altra, apri la cartella di "
-"destinazione e ripeti i passaggi sopra."
-
-#: ../../mobile_apps/toc.rst:457
-msgid "Uploading a File"
-msgstr "Contrassegnare un File"
-
-#: ../../mobile_apps/toc.rst:459
-msgid "To upload a document:"
-msgstr "Per creare un documento di testo:"
-
-#: ../../mobile_apps/toc.rst:461
-msgid "Tap **Create/Upload** (plus icon)."
-msgstr "Tocca **Crea/Carica** (icona + )."
-
-#: ../../mobile_apps/toc.rst:462
-msgid "Select **Upload document** (or **Upload**)."
-msgstr "Seleziona **Carica documento** (o **Carica**)."
-
-#: ../../mobile_apps/toc.rst:463
-msgid "Choose the file from your device."
-msgstr "Seleziona l'icona di **Files** dal menu laterale sinistro."
-
-#: ../../mobile_apps/toc.rst:465
-msgid "To monitor uploads (if available):"
-msgstr "Per monitorare i caricamenti (se disponibili):"
-
-#: ../../mobile_apps/toc.rst:467
-msgid "Open the app menu (often the menu icon)."
-msgstr "Apri l'app e premi il pulsante \"+\" nell'angolo in basso a destra."
-
-#: ../../mobile_apps/toc.rst:468
-msgid "Select **Uploads** to view progress."
-msgstr "Seleziona **Caricamenti** per visualizzare lo stato di avanzamento."
-
-#: ../../mobile_apps/toc.rst:471
-msgid "Deleting a File or Folder"
-msgstr "Eliminare un File o una Cartella"
-
-#: ../../mobile_apps/toc.rst:473
-msgid "To delete an item:"
-msgstr "Per eliminare un messaggio:"
-
-#: ../../mobile_apps/toc.rst:475
-msgid "Navigate to the folder containing the item."
-msgstr "Accedi alla cartella che contiene il file."
-
-#: ../../mobile_apps/toc.rst:476
-msgid "Tap **More options** (three-dots icon) next to the file/folder."
-msgstr ""
-"Tocca **Altre opzioni** (icona dei tre punti) accanto al file/cartaella."
-
-#: ../../mobile_apps/toc.rst:477
-msgid "Select **Delete**."
-msgstr "Seleziona **Auth**."
-
-#: ../../mobile_apps/toc.rst:479
-msgid "Deleted items are moved to **Trash**."
-msgstr "Le email eliminate verranno spostate nel cartella **Cestino**."
-
-#: ../../mobile_apps/toc.rst:482
-msgid "Delete permanently"
-msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
-
-#: ../../mobile_apps/toc.rst:484 ../../mobile_apps/toc.rst:493
-msgid "Open **Trash**."
-msgstr "Apri **Cestino**."
-
-#: ../../mobile_apps/toc.rst:485 ../../mobile_apps/toc.rst:494
-msgid "Select **My elements** (if shown)."
-msgstr "Seleziona **I miei elementi**."
-
-#: ../../mobile_apps/toc.rst:486 ../../mobile_apps/toc.rst:495
-#: ../../mobile_apps/toc.rst:503 ../../mobile_apps/toc.rst:510
-#: ../../mobile_apps/toc.rst:517 ../../mobile_apps/toc.rst:524
-msgid "Tap **More options** next to the item."
-msgstr "Tocca **Altre opzioni** accanto all'elemento."
-
-#: ../../mobile_apps/toc.rst:487
-msgid "Select **Delete permanently**."
-msgstr "Seleziona l'opzione **Elimina definitivamente**."
-
-#: ../../mobile_apps/toc.rst:491
-msgid "Restoring a Trashed File or Folder"
-msgstr "Ripristinare un File o una Cartella Cestinata"
-
-#: ../../mobile_apps/toc.rst:496
-msgid "Select **Restore**."
-msgstr "Seleziona **Auth**."
-
-#: ../../mobile_apps/toc.rst:498
-msgid "The item returns to its original location."
-msgstr "L'elemento torna alla sua posizione originale."
-
-#: ../../mobile_apps/toc.rst:501
-msgid "Renaming a File or Folder"
-msgstr "Rinominare un File o una Cartella"
-
-#: ../../mobile_apps/toc.rst:504
-msgid "Select **Rename**."
-msgstr "Seleziona **Calendari**."
-
-#: ../../mobile_apps/toc.rst:505
-msgid "Enter the new name and confirm."
-msgstr "Inserisci il nuovo nome e conferma."
-
-#: ../../mobile_apps/toc.rst:508
-msgid "Moving a File Between Folders"
-msgstr "Spostare un File tra Cartelle"
-
-#: ../../mobile_apps/toc.rst:511
-msgid "Select **Move**."
-msgstr "Seleziona **Email**."
-
-#: ../../mobile_apps/toc.rst:512 ../../mobile_apps/toc.rst:519
-msgid "Choose the destination folder and confirm."
-msgstr "Scegli la cartella di destinazione in cui vuoi copiare il file."
-
-#: ../../mobile_apps/toc.rst:518
-msgid "Select **Copy**."
-msgstr "Seleziona **Account**."
-
-#: ../../mobile_apps/toc.rst:525
-msgid "Select **Flag**."
-msgstr "Seleziona **Auth**."
-
-#: ../../mobile_apps/toc.rst:527
-msgid "To remove the flag, repeat and select **Unflag**."
-msgstr ""
-"Per rimuovere il flag dal file, puoi seguire lo stesso processo e "
-"selezionare **Rimuovi contrassegno**."
-
-#: ../../mobile_apps/toc.rst:530
-msgid "Adding Collaborators to a File/Folder"
-msgstr "Aggiungere Collaboratori a un File / Cartella"
-
-#: ../../mobile_apps/toc.rst:532
-msgid "To share an item with colleagues:"
-msgstr "Per condividere una cartella email con un collega:"
-
-#: ../../mobile_apps/toc.rst:534
-msgid "Tap **More options** next to the file/folder."
-msgstr "Tocca **Altre opzioni** accanto al file/cartella."
-
-#: ../../mobile_apps/toc.rst:535
-msgid "Select **Add collaborators**."
-msgstr "Seleziona **Account**."
-
-#: ../../mobile_apps/toc.rst:536
-msgid "Enter colleagues’ email addresses and select them from suggestions."
-msgstr ""
-"Inizia a scrivere l'indirizzo email del tuo collega e selezionalo dai "
-"suggerimenti che appaiono."
-
-#: ../../mobile_apps/toc.rst:537
-msgid "Choose the permission level (for example: **Viewer**, **Editor**)."
-msgstr ""
-"Scegli il livello di autorizzazione (ad esempio: **Visualizzazione**, "
-"**Modifica**)."
-
-#: ../../mobile_apps/toc.rst:538
-msgid ""
-"If available, enable **Sharing allowed** to let collaborators share the "
-"item further."
-msgstr ""
-"Se disponibile, abilita **Condivisione concessa** per consentire ai "
-"collaboratori di condividere ulteriormente l'elemento."
-
-#: ../../mobile_apps/toc.rst:539
-msgid "Optionally add a message, then tap **Send**."
-msgstr "Aggiungi facoltativamente un messaggio, quindi tocca **Invia**."
 
 #: ../../search/toc.rst:7
 msgid "Working with Search"
@@ -12126,6 +12089,10 @@ msgstr ""
 #: ../../tasks/toc.rst:60
 msgid "Select **Complete** from the drop-down menu."
 msgstr "Seleziona **Completa** dal menu a tendina."
+
+#: ../../videomeeting/toc.rst:7
+msgid "Working with Video Meetings"
+msgstr "Usare i Video Meeting"
 
 #: ../../videomeeting/toc.rst:13
 msgid ""
@@ -12752,8 +12719,8 @@ msgstr "Attivazione della funzione Alza la mano durante una riunione virtuale"
 #: ../../videomeeting/toc.rst:226
 msgid "Click the hand icon on the bottom bar inside the meeting room."
 msgstr ""
-"Fai clic sull'icona della mano nella barra inferiore all'interno della sala "
-"riunioni."
+"Fai clic sull'icona della mano nella barra inferiore all'interno della "
+"sala riunioni."
 
 #: ../../videomeeting/toc.rst:227
 msgid "When you will start speaking, your hand will be automatically lowered."
@@ -15122,3 +15089,59 @@ msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #~ msgid "Click ADD."
 #~ msgstr "Clicca AGGIUNGI."
+
+#~ msgid "Working with Mail App"
+#~ msgstr "Lavorare su Files"
+
+#~ msgid "Entering Your Personal Room"
+#~ msgstr "Accedere alla tua Stanza Personale"
+
+#~ msgid ""
+#~ "Each Carbonio account includes a "
+#~ "personal room you can use to host"
+#~ " meetings with colleagues or external "
+#~ "participants."
+#~ msgstr ""
+#~ "Ogni account Carbonio include una stanza"
+#~ " personale che puoi utilizzare per "
+#~ "ospitare riunioni con colleghi o "
+#~ "partecipanti esterni."
+
+#~ msgid "To enter your personal room:"
+#~ msgstr "Accedere alla tua Stanza Personale"
+
+#~ msgid "In **Personal Room**, tap **Join/Call** (camera icon)."
+#~ msgstr ""
+#~ "Nella **Stanze Personale**, tocca "
+#~ "**Unisciti/Chiama** (icona della fotocamera)."
+
+#~ msgid "Confirm if prompted."
+#~ msgstr "Conferma se richiesto."
+
+#~ msgid "Inviting Members to Your Personal Room"
+#~ msgstr "Invitare Membri in una Stanza Personale"
+
+#~ msgid "In **Personal Room**, tap **Copy link**."
+#~ msgstr "Nella **Stanze Personale**, tocca **Copia link**."
+
+#~ msgid "Paste the link in an email or chat to invite others."
+#~ msgstr "Incolla il link in un'e-mail o chat per invitare altri."
+
+#~ msgid ""
+#~ "**Reset link** to generate a new "
+#~ "URL (useful if you shared it by"
+#~ " mistake)."
+#~ msgstr ""
+#~ "**Reset link** per generare un nuovo "
+#~ "URL (utile se lo hai condiviso per"
+#~ " errore)."
+
+#~ msgid "Resetting a Meeting Room Link"
+#~ msgstr "Reimpostazione del Collegamento della Sala Riunione"
+
+#~ msgid "To change a room link:"
+#~ msgstr "Per creare una nuova stanza:"
+
+#~ msgid "Select **Reset link**."
+#~ msgstr "Seleziona **Auth**."
+

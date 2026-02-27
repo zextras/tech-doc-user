@@ -117,7 +117,7 @@ It is important to note that computer viruses are commonly transmitted through f
 Managing Large Attachments
 ==========================
 
-When you want to attach large attachments to an email, you may encounter some limitations. When you reach the size limit set by your admin for the attachments, using the "smart links" option, it is possible to convert every attachment in Smart Links by clicking the **paperclip** icon inside the composing board and choosing the "Add public link from Files option". (lui suggerisce)
+When you want to attach large attachments to an email, you may encounter some limitations. When you reach the size limit set by your admin for the attachments, using the "smart links" option, it is possible to convert every attachment in Smart Links by clicking the **paperclip** icon inside the composing board and choosing the "Add public link from Files option".
 
   .. image:: /img/smart-link.png
         :align: center

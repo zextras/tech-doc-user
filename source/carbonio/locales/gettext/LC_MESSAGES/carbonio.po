@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-25 09:47+0100\n"
-"PO-Revision-Date: 2026-02-19 16:52+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"PO-Revision-Date: 2026-02-27 17:14+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/gettext/>\n"
 "Language: gettext\n"
-"Language-Team: gettext (generated) "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/gettext/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -8427,7 +8428,6 @@ msgid "Mobile Apps"
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:9
-#, fuzzy
 msgid "Working with Mail App"
 msgstr "Lavorare con file"
 
@@ -8587,7 +8587,6 @@ msgid "Select a text style such as **Title**, **Subtitle**, or **Body text**."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:85
-#, fuzzy
 msgid "Change the text color."
 msgstr "Modifica del colore di un tag"
 
@@ -8606,7 +8605,6 @@ msgid "Take a photo and attach it to the message."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:91
-#, fuzzy
 msgid "Select one or more images from the device gallery."
 msgstr "Deseleziona uno o più tag dall'elenco."
 
@@ -8623,7 +8621,6 @@ msgid "Tap the **More options** (three-dot) icon to:"
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:97
-#, fuzzy
 msgid "Save the message as a draft."
 msgstr "Modifica il messaggio e premi invio."
 
@@ -8634,7 +8631,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:99
-#, fuzzy
 msgid "Set the message priority."
 msgstr "Modifica il messaggio e premi invio."
 
@@ -8653,12 +8649,10 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:110
-#, fuzzy
 msgid "To reply to an email message, follow these steps:"
 msgstr "Per rispondere a un messaggio:"
 
 #: ../../mobile_apps/toc.rst:112
-#, fuzzy
 msgid "Open the email you want to respond to."
 msgstr "Scegli l'azione che desideri eseguire."
 
@@ -8673,12 +8667,10 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:115
-#, fuzzy
 msgid "Write your message."
 msgstr "Rispondi a un messaggio"
 
 #: ../../mobile_apps/toc.rst:116
-#, fuzzy
 msgid "Tap **Send** (paper-plane icon) to send the reply."
 msgstr "Fare clic sul pulsante **INVIA** per inviare l'email."
 
@@ -8690,11 +8682,9 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:120
-#, fuzzy
 msgid "A copy of the sent reply is automatically saved in the **Sent** folder."
 msgstr ""
-"Una copia dell'email inviata viene archiviata nella cartella Posta "
-"inviata."
+"Una copia dell'email inviata viene archiviata nella cartella Posta inviata."
 
 #: ../../mobile_apps/toc.rst:124
 msgid "Reply vs. Reply All"
@@ -8723,7 +8713,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:136
-#, fuzzy
 msgid "To perform actions on multiple emails:"
 msgstr "Per eseguire un'azione su più email:"
 
@@ -8752,7 +8741,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:149
-#, fuzzy
 msgid "Add an attachment from your device"
 msgstr "Aggiungere un file dal computer"
 
@@ -8772,7 +8760,6 @@ msgid "Select the file (or capture it) and confirm."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:156
-#, fuzzy
 msgid "Add an attachment from Carbonio Files"
 msgstr "Aggiungere un file dal computer"
 
@@ -8803,7 +8790,6 @@ msgid "In the compose screen, tap the **From** field."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:174
-#, fuzzy
 msgid "Select the desired **identity/persona**."
 msgstr "Selezionare la destinazione."
 
@@ -8824,7 +8810,6 @@ msgid "Enable **Read receipt**."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:185
-#, fuzzy
 msgid "Close the menu and send the email."
 msgstr "Fare clic sul pulsante **INVIA** per inviare l'email."
 
@@ -8851,7 +8836,6 @@ msgid "Go to the **Drafts** folder."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:200
-#, fuzzy
 msgid "Open the draft you want to send."
 msgstr "Scegli l'azione che desideri eseguire."
 
@@ -8860,7 +8844,6 @@ msgid "Tap **Send**."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:206
-#, fuzzy
 msgid "To forward an email:"
 msgstr "Per leggere un email, semplicemente:"
 
@@ -8881,12 +8864,10 @@ msgid "Enter the recipient and tap **Send**."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:216
-#, fuzzy
 msgid "To redirect an email (if available):"
 msgstr "Per leggere un email, semplicemente:"
 
 #: ../../mobile_apps/toc.rst:220
-#, fuzzy
 msgid "Select **Redirect**."
 msgstr "Seleziona **Elementi miei**."
 
@@ -8904,7 +8885,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:231
-#, fuzzy
 msgid "Working with Chats App"
 msgstr "Lavorare con i contatti"
 
@@ -8915,7 +8895,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:236
-#, fuzzy
 msgid "Creating a New Chat"
 msgstr "Creare una nuova chat"
 
@@ -8932,7 +8911,6 @@ msgid "Select **Single conversation / Private chat**."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:242
-#, fuzzy
 msgid "Search for a colleague by name and select them."
 msgstr "Per cercare un collega nella tua lista dei chat:"
 
@@ -8944,17 +8922,14 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:248
-#, fuzzy
 msgid "Sending Files in Chats"
 msgstr "Invio di file da Carbonio Files in Chats"
 
 #: ../../mobile_apps/toc.rst:251
-#, fuzzy
 msgid "Send a file from your device"
 msgstr "Aggiungere un file dal computer"
 
 #: ../../mobile_apps/toc.rst:253 ../../mobile_apps/toc.rst:261
-#, fuzzy
 msgid "Open the chat."
 msgstr "Lavorare con i contatti"
 
@@ -8975,7 +8950,6 @@ msgid "Select **Drive / Files** (wording may vary)."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:267
-#, fuzzy
 msgid "Edit a Message"
 msgstr "Per modificare un messaggio:"
 
@@ -8985,12 +8959,10 @@ msgid "Tap and hold the message."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:270
-#, fuzzy
 msgid "Select **Edit**."
 msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/toc.rst:271
-#, fuzzy
 msgid "Update the message and send."
 msgstr "Modifica il messaggio e premi invio."
 
@@ -9001,27 +8973,22 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:278
-#, fuzzy
 msgid "Reply to a Message"
 msgstr "Rispondi a un messaggio"
 
 #: ../../mobile_apps/toc.rst:281
-#, fuzzy
 msgid "Select **Reply**."
 msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/toc.rst:282
-#, fuzzy
 msgid "Write your reply and send."
 msgstr "Scrivi la risposta e premi invio."
 
 #: ../../mobile_apps/toc.rst:285
-#, fuzzy
 msgid "Forward a Message"
 msgstr "Inoltra un messaggio"
 
 #: ../../mobile_apps/toc.rst:288
-#, fuzzy
 msgid "Select **Forward**."
 msgstr "Fai clic su **INOLTRA**."
 
@@ -9030,12 +8997,10 @@ msgid "Choose the recipient and send."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:292
-#, fuzzy
 msgid "Delete a Message"
 msgstr "Elimina un messaggio"
 
 #: ../../mobile_apps/toc.rst:295
-#, fuzzy
 msgid "Select **Delete message**."
 msgstr "Per eliminare"
 
@@ -9050,12 +9015,10 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:303
-#, fuzzy
 msgid "Mute Notifications for a Chat"
 msgstr "Silenzia le notifiche di una chat"
 
 #: ../../mobile_apps/toc.rst:305
-#, fuzzy
 msgid "To mute notifications for a specific chat or group:"
 msgstr "Silenzia le notifiche di una chat"
 
@@ -9068,7 +9031,6 @@ msgid "Open **Chat info** (often an **i** icon or the chat name)."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:309
-#, fuzzy
 msgid "Disable **Notifications**."
 msgstr "Silenzia le notifiche di una chat"
 
@@ -9097,7 +9059,6 @@ msgid "Confirm."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:324
-#, fuzzy
 msgid "Creating a New Group"
 msgstr "Creazione di un'etichetta OTP:"
 
@@ -9179,7 +9140,6 @@ msgid "Leave a Group"
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:362
-#, fuzzy
 msgid "Tap **Leave** and confirm."
 msgstr "Clicca su **SPOSTA** per confermare."
 
@@ -9198,14 +9158,12 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:372
-#, fuzzy
 msgid "To enter your personal room:"
 msgstr "Per"
 
 #: ../../mobile_apps/toc.rst:374 ../../mobile_apps/toc.rst:381
 #: ../../mobile_apps/toc.rst:406 ../../mobile_apps/toc.rst:413
 #: ../../mobile_apps/toc.rst:428 ../../mobile_apps/toc.rst:437
-#, fuzzy
 msgid "Open the **Meetings** section/tab."
 msgstr "Under the **Recording** section, click **START**."
 
@@ -9230,7 +9188,6 @@ msgid "Paste the link in an email or chat to invite others."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:386
-#, fuzzy
 msgid "Creating a New Room"
 msgstr "Creare una nuova chat"
 
@@ -9247,7 +9204,6 @@ msgid "Tap **Create** (plus icon)."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:393
-#, fuzzy
 msgid "Select **Create Room**."
 msgstr "Seleziona **Elementi miei**."
 
@@ -9284,7 +9240,6 @@ msgid "Tap the room name."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:408
-#, fuzzy
 msgid "Select **Join room**."
 msgstr "Seleziona **Elementi miei**."
 
@@ -9321,7 +9276,6 @@ msgid "Open the room."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:430
-#, fuzzy
 msgid "Select **Reset link**."
 msgstr "Seleziona **Elementi miei**."
 
@@ -9334,12 +9288,10 @@ msgid "To delete a room (if you have permission):"
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:439
-#, fuzzy
 msgid "Select **Delete Room**."
 msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/toc.rst:442
-#, fuzzy
 msgid "Working with Files App"
 msgstr "Lavorare con file"
 
@@ -9350,12 +9302,10 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:450
-#, fuzzy
 msgid "Select **Folder**."
 msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/toc.rst:451
-#, fuzzy
 msgid "Enter a folder name."
 msgstr "Modifica di una cartella"
 
@@ -9370,7 +9320,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:457
-#, fuzzy
 msgid "Uploading a File"
 msgstr "Contrassegnare un file"
 
@@ -9387,7 +9336,6 @@ msgid "Select **Upload document** (or **Upload**)."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:463
-#, fuzzy
 msgid "Choose the file from your device."
 msgstr "Seleziona la funzione File dal pannello laterale sinistro."
 
@@ -9404,26 +9352,23 @@ msgid "Select **Uploads** to view progress."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:471
-#, fuzzy
 msgid "Deleting a File or Folder"
 msgstr "Eliminazione di un file o cartella"
 
 #: ../../mobile_apps/toc.rst:473
-#, fuzzy
 msgid "To delete an item:"
 msgstr "Per eliminare"
 
 #: ../../mobile_apps/toc.rst:475
-#, fuzzy
 msgid "Navigate to the folder containing the item."
-msgstr "Navigare nella cartella che contiene il file che desideri contrassegnare."
+msgstr ""
+"Navigare nella cartella che contiene il file che desideri contrassegnare."
 
 #: ../../mobile_apps/toc.rst:476
 msgid "Tap **More options** (three-dots icon) next to the file/folder."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:477
-#, fuzzy
 msgid "Select **Delete**."
 msgstr "Seleziona **Elementi miei**."
 
@@ -9432,7 +9377,6 @@ msgid "Deleted items are moved to **Trash**."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:482
-#, fuzzy
 msgid "Delete permanently"
 msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
 
@@ -9441,7 +9385,6 @@ msgid "Open **Trash**."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:485 ../../mobile_apps/toc.rst:494
-#, fuzzy
 msgid "Select **My elements** (if shown)."
 msgstr "Seleziona **Elementi miei**."
 
@@ -9452,17 +9395,14 @@ msgid "Tap **More options** next to the item."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:487
-#, fuzzy
 msgid "Select **Delete permanently**."
 msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
 
 #: ../../mobile_apps/toc.rst:491
-#, fuzzy
 msgid "Restoring a Trashed File or Folder"
 msgstr "Ripristinare un file o una cartella eliminata"
 
 #: ../../mobile_apps/toc.rst:496
-#, fuzzy
 msgid "Select **Restore**."
 msgstr "Seleziona **Elementi miei**."
 
@@ -9471,12 +9411,10 @@ msgid "The item returns to its original location."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:501
-#, fuzzy
 msgid "Renaming a File or Folder"
 msgstr "Rinominare un file o una cartella"
 
 #: ../../mobile_apps/toc.rst:504
-#, fuzzy
 msgid "Select **Rename**."
 msgstr "Seleziona **Elementi miei**."
 
@@ -9485,27 +9423,22 @@ msgid "Enter the new name and confirm."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:508
-#, fuzzy
 msgid "Moving a File Between Folders"
 msgstr "Rinominare un file o una cartella"
 
 #: ../../mobile_apps/toc.rst:511
-#, fuzzy
 msgid "Select **Move**."
 msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/toc.rst:512 ../../mobile_apps/toc.rst:519
-#, fuzzy
 msgid "Choose the destination folder and confirm."
 msgstr "Scegli l'azione che desideri eseguire."
 
 #: ../../mobile_apps/toc.rst:518
-#, fuzzy
 msgid "Select **Copy**."
 msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/toc.rst:525
-#, fuzzy
 msgid "Select **Flag**."
 msgstr "Seleziona **Elementi miei**."
 
@@ -9514,12 +9447,10 @@ msgid "To remove the flag, repeat and select **Unflag**."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:530
-#, fuzzy
 msgid "Adding Collaborators to a File/Folder"
 msgstr "Rimuovere collaboratori da un file / cartella"
 
 #: ../../mobile_apps/toc.rst:532
-#, fuzzy
 msgid "To share an item with colleagues:"
 msgstr "Per condividere il tuo calendario con i colleghi:"
 
@@ -9528,7 +9459,6 @@ msgid "Tap **More options** next to the file/folder."
 msgstr ""
 
 #: ../../mobile_apps/toc.rst:535
-#, fuzzy
 msgid "Select **Add collaborators**."
 msgstr "**Collaborazione:**"
 
@@ -12334,4 +12264,3 @@ msgstr ""
 
 #~ msgid "Click ADD."
 #~ msgstr ""
-

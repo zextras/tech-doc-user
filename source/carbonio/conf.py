@@ -63,7 +63,6 @@ rst_prolog = """
 """
 
 # -- Configuration of extensions ---------------------------------------------
-
 # copybutton, see https://sphinx-copybutton.readthedocs.io/en/latest/
 copybutton_prompt_text = r'\$\s|#\s|carbonio>\s|zextras\$\s'
 copybutton_prompt_is_regexp = True
@@ -75,7 +74,6 @@ numfig = True
 email_automode = True
 
 # -- Options for HTML output -------------------------------------------------
-
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #

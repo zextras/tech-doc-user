@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-27 18:22+0100\n"
-"PO-Revision-Date: 2026-02-27 18:04+0000\n"
+"PO-Revision-Date: 2026-03-13 11:52+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -10337,8 +10337,9 @@ msgid "Files & Collaboration"
 msgstr "Files & Collaboration"
 
 #: ../../index.rst:71
+#, fuzzy
 msgid "Communication"
-msgstr "Silenzia notifiche di una chat"
+msgstr "Comunicazione"
 
 #: ../../index.rst:82
 msgid "Mobile Apps"

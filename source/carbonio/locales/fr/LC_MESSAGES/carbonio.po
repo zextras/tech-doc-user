@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-02-27 18:22+0100\n"
-"PO-Revision-Date: 2026-02-27 17:46+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"PO-Revision-Date: 2026-03-31 08:52+0000\n"
+"Last-Translator: Julien Nicolas <julien.nicolas@zextras.fr>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:7
 msgid "Advanced Email Management"
-msgstr ""
+msgstr "Gestion avancée des emails"
 
 #: ../../advanced_email_management/toc.rst:9
 msgid ""
@@ -10061,6 +10061,10 @@ msgid ""
 "recording and save the file in the *Files* of the person who clicked "
 "**START RECORDING**."
 msgstr ""
+"Si tous les participants à la réunion (y compris la personne qui a lancé "
+"l'enregistrement) quittent la réunion, le système arrêtera automatiquement "
+"l'enregistrement et enregistrera le fichier dans le dossier *Fichiers* de la "
+"personne qui a cliqué sur **LANCER L'ENREGISTREMENT**."
 
 #: ../../videomeeting/toc.rst:158
 msgid "Adding New Members to a Video Meeting"

@@ -352,29 +352,34 @@ If your colleague did not select the notification option, you can manually add t
 Working with Archive
 ====================
 
-The Archive feature in Carbonio allows you to quickly move emails and conversations out of your current folders without deleting them. Archived items are stored in a dedicated Archive system folder, making it easier to keep your mailbox organized while still keeping important messages available for future reference.
+The **Archive** feature in Carbonio allows you to quickly move emails and conversations out of your current folders without deleting them. Archived items are stored in a dedicated Archive system folder, making it easier to keep your mailbox organized while still keeping important messages available for future reference.
 
-You can archive a single email, an entire conversation, or multiple items at once. The Archive folder behaves like the other system folders in Carbonio and can display the number of unread items it contains.
+You can archive a single email, an entire conversation, or multiple items at once. The **Archive** folder behaves like the other system folders in Carbonio and can display the number of unread items it contains.
 
 Archiving a Single Email or Conversation
+========================================
+
 You can archive an email or a conversation directly from the mail list.
 
-To do so:
+**To do so:**
 
-*	Select Mails from the left sidebar.
+*	Select **Mails** from the left sidebar.
 *	Locate the email or conversation you want to archive.
 *	Right-click the item to open the contextual menu.
-*  Select Archive.
-
-Tip: Alternatively, you can drag and drop one or multiple messages and conversations between folders, including the Archive folder
+* Select **Archive**.
 
   .. image:: /img/inbox-to-archive.png
           :align: center
           :width: 100%
 
+.. tip:: Alternatively, you can drag and drop one or multiple messages and conversations between folders, including the Archive folder
+
 The selected item is immediately moved to the Archive folder. Carbonio shows a confirmation message on the bottom left of the page after the operation is completed.
+
 Working with the Archive Folder
-The Archive folder is a system folder in Carbonio. It is automatically used to store archived emails and conversations. Like other system folders, it is part of the standard mailbox structure. Internal implementation notes state that it is placed with the system folders and sorted after Trash in the mail folder list.
+===============================
+
+The **Archive** folder is a **system folder** in Carbonio. It is automatically used to store archived emails and conversations. Like other system folders, it is part of the standard mailbox structure. 
 
 When the Archive folder contains unread items, Carbonio can display an unread count badge next to the folder name. Archived emails and conversations can still be managed like other mail items. For example, you can open them, move them, or empty the folder when needed.
 
@@ -383,7 +388,7 @@ Restoring Archived Items
 
 If you want to move an archived email or conversation out of the Archive folder, you can use the Move action.
 
-To do so:
+**To do so:**
 
 *	Select **Mails** from the left sidebar.
 *	Open the **Archive** folder.
@@ -391,21 +396,21 @@ To do so:
 *	Right-click the item.
 *	Select **Move**.
 
-Tip: Alternatively, you can also use the drag and drop functionality on the Archive folder
-
   .. image:: /img/move-from-archive.png
           :align: center
           :width: 100%
 
-*	Choose the destination folder and click the ‘Move’ button.
+.. tip:: Alternatively, you can also use the drag and drop functionality on the Archive folder
+
+*	Choose the destination folder and click the **Move** button.
 
   .. image:: /img/move-conversation.png
           :align: center
-          :width: 100%
+          :width: 60%
 
 The selected item is moved to the folder you choose.
 
-**Notes**
+.. note:: 
 
-The Archive feature is available starting in Carbonio **26.3.0**.
-For some upgraded accounts, the feature may not appear if a personal folder named **Archive** already existed before the system Archive folder was introduced. If you do not see the Archive option in your mailbox, contact your system administrator or support team.          
+  The Archive feature is available starting in Carbonio **26.3.0**.
+  For some upgraded accounts, the feature may not appear if a personal folder named **Archive** already existed before the system Archive folder was introduced. If you do not see the Archive option in your mailbox, contact your system administrator or support team.          

@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-27 18:22+0100\n"
-"PO-Revision-Date: 2026-03-28 14:52+0000\n"
-"Last-Translator: Federico Bertola <federico.bertola@studiostorti.com>\n"
+"POT-Creation-Date: 2026-05-07 12:03+0200\n"
+"PO-Revision-Date: 2026-05-07 10:07+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.15.1\n"
-"Generated-By: Babel 2.17.0\n"
+"Generated-By: Babel 2.18.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
 msgid "Advanced Email Management"
@@ -2193,8 +2193,8 @@ msgstr ""
 "Scegli una sala riunioni tra le opzioni disponibili nel campo **Sala "
 "riunioni**. Nota che queste sale riunioni sono state configurate dal tuo "
 "amministratore di sistema. Se non vedi la sala desiderata in elenco, "
-"contatta il tuo amministratore di sistema per assicurarti che tutte le sale "
-"riunioni pertinenti del tuo ufficio siano incluse."
+"contatta il tuo amministratore di sistema per assicurarti che tutte le "
+"sale riunioni pertinenti del tuo ufficio siano incluse."
 
 #: ../../appointments/toc.rst:31
 msgid ""
@@ -3684,6 +3684,171 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:346 ../../contacts/toc.rst:272
 msgid "Click the **ADD** button."
 msgstr "Premi il tasto **AGGIUNGI**."
+
+#: ../../basic_email_management/toc.rst:353
+msgid "Working with Archive"
+msgstr "Usare l'Archivio"
+
+#: ../../basic_email_management/toc.rst:355
+msgid ""
+"The **Archive** feature in Carbonio allows you to quickly move emails and"
+" conversations out of your current folders without deleting them. "
+"Archived items are stored in a dedicated Archive system folder, making it"
+" easier to keep your mailbox organized while still keeping important "
+"messages available for future reference."
+msgstr ""
+"La funzione **Archivio** in Carbonio consente di spostare rapidamente "
+"email e conversazioni dalle cartelle correnti senza eliminarle. Gli "
+"elementi archiviati vengono conservati in una cartella di sistema "
+"dedicata chiamata Archivio, rendendo più semplice mantenere la casella "
+"di posta organizzata pur tenendo i messaggi importanti disponibili per "
+"riferimenti futuri."
+
+#: ../../basic_email_management/toc.rst:357
+msgid ""
+"You can archive a single email, an entire conversation, or multiple items"
+" at once. The **Archive** folder behaves like the other system folders in"
+" Carbonio and can display the number of unread items it contains."
+msgstr ""
+"È possibile archiviare una singola email, un'intera conversazione o più "
+"elementi contemporaneamente. La cartella **Archivio** si comporta come le"
+" altre cartelle di sistema in Carbonio e può visualizzare il numero di "
+"elementi non letti che contiene."
+
+#: ../../basic_email_management/toc.rst:360
+msgid "Archiving a Single Email or Conversation"
+msgstr "Archiviare una Singola Email o Conversazione"
+
+#: ../../basic_email_management/toc.rst:362
+msgid "You can archive an email or a conversation directly from the mail list."
+msgstr "È possibile archiviare un'email o una conversazione direttamente dall'elenco delle mail."
+
+#: ../../basic_email_management/toc.rst:364
+#: ../../basic_email_management/toc.rst:391
+msgid "**To do so:**"
+msgstr "Per farlo:"
+
+#: ../../basic_email_management/toc.rst:366
+#: ../../basic_email_management/toc.rst:393 ../../files/toc.rst:69
+msgid "Select **Mails** from the left sidebar."
+msgstr "Seleziona **Mail** nel menu di sinistra."
+
+#: ../../basic_email_management/toc.rst:367
+msgid "Locate the email or conversation you want to archive."
+msgstr "Individua l'email o la conversazione che desideri archiviare."
+
+#: ../../basic_email_management/toc.rst:368
+msgid "Right-click the item to open the contextual menu."
+msgstr "Fai clic destro su un'email per aprire il menu a tendina."
+
+#: ../../basic_email_management/toc.rst:369
+msgid "Select **Archive**."
+msgstr "Seleziona **Archivia**."
+
+#: ../../basic_email_management/toc.rst:375
+msgid ""
+"Alternatively, you can drag and drop one or multiple messages and "
+"conversations between folders, including the Archive folder"
+msgstr ""
+"In alternativa, è possibile trascinare uno o più messaggi e conversazioni"
+" tra le cartelle, inclusa la cartella Archivio"
+
+#: ../../basic_email_management/toc.rst:377
+msgid ""
+"The selected item is immediately moved to the Archive folder. Carbonio "
+"shows a confirmation message on the bottom left of the page after the "
+"operation is completed."
+msgstr ""
+"L'elemento selezionato viene immediatamente spostato nella cartella "
+"Archivio. Carbonio mostra un messaggio di conferma in basso a sinistra "
+"della pagina al termine dell'operazione."
+
+#: ../../basic_email_management/toc.rst:380
+msgid "Working with the Archive Folder"
+msgstr "Usare la Cartella Archivio"
+
+#: ../../basic_email_management/toc.rst:382
+msgid ""
+"The **Archive** folder is a **system folder** in Carbonio. It is "
+"automatically used to store archived emails and conversations. Like other"
+" system folders, it is part of the standard mailbox structure."
+msgstr ""
+"La cartella **Archivio** è una **cartella di sistema** in Carbonio. Viene"
+" utilizzata automaticamente per conservare le email e le conversazioni "
+"archiviate. Come le altre cartelle di sistema, fa parte della struttura "
+"standard della casella di posta."
+
+#: ../../basic_email_management/toc.rst:384
+msgid ""
+"When the Archive folder contains unread items, Carbonio can display an "
+"unread count badge next to the folder name. Archived emails and "
+"conversations can still be managed like other mail items. For example, "
+"you can open them, move them, or empty the folder when needed."
+msgstr ""
+"Quando la cartella Archivio contiene elementi non letti, Carbonio può "
+"mostrare un indicatore del numero di non letti accanto al nome della "
+"cartella. Le email e le conversazioni archiviate possono essere gestite "
+"come gli altri elementi di posta. Ad esempio, è possibile aprirle, "
+"spostarle o svuotare la cartella quando necessario."
+
+#: ../../basic_email_management/toc.rst:387
+msgid "Restoring Archived Items"
+msgstr "Ripristino degli Elementi Archiviati"
+
+#: ../../basic_email_management/toc.rst:389
+msgid ""
+"If you want to move an archived email or conversation out of the Archive "
+"folder, you can use the Move action."
+msgstr ""
+"Per spostare un'email o una conversazione archiviata fuori dalla cartella"
+" Archivio, è possibile utilizzare l'azione Sposta."
+
+#: ../../basic_email_management/toc.rst:394
+msgid "Open the **Archive** folder."
+msgstr "Apri la cartella **Archivio**."
+
+#: ../../basic_email_management/toc.rst:395
+msgid "Locate the email or conversation you want to restore."
+msgstr "Individua l'email o la conversazione che desideri ripristinare."
+
+#: ../../basic_email_management/toc.rst:396
+msgid "Right-click the item."
+msgstr "Fai clic destro sull'elemento."
+
+#: ../../basic_email_management/toc.rst:397 ../../mobile_apps/files_app.rst:76
+msgid "Select **Move**."
+msgstr "Seleziona **Sposta**."
+
+#: ../../basic_email_management/toc.rst:403
+msgid ""
+"Alternatively, you can also use the drag and drop functionality on the "
+"Archive folder"
+msgstr ""
+"In alternativa, è possibile utilizzare la funzionalità di trascinamento "
+"sulla cartella Archivio"
+
+#: ../../basic_email_management/toc.rst:405
+msgid "Choose the destination folder and click the **Move** button."
+msgstr "Scegli la cartella di destinazione e clicca sul pulsante **Sposta**."
+
+#: ../../basic_email_management/toc.rst:411
+msgid "The selected item is moved to the folder you choose."
+msgstr "L'elemento selezionato viene spostato nella cartella scelta."
+
+#: ../../basic_email_management/toc.rst:415
+msgid ""
+"The Archive feature is available starting in Carbonio **26.3.0**. For "
+"some upgraded accounts, the feature may not appear if a personal folder "
+"named **Archive** already existed before the system Archive folder was "
+"introduced. If you do not see the Archive option in your mailbox, contact"
+" your system administrator or support team."
+msgstr ""
+"La funzione Archivio è disponibile a partire da Carbonio **26.3.0**. Per "
+"alcuni account aggiornati, la funzione potrebbe non essere visibile se "
+"esisteva già una cartella personale denominata **Archivio** prima "
+"dell'introduzione della cartella di sistema Archivio. Se non si vede "
+"l'opzione Archivio nella propria casella di posta, contattare "
+"l'amministratore di sistema o il team di supporto."
 
 #: ../../browsing_emails/toc.rst:7
 msgid "Browsing Emails"
@@ -8209,10 +8374,6 @@ msgid ""
 " your Files. To do so:"
 msgstr "Puoi salvare i file allegati delle email direttamente in Files. Per farlo:"
 
-#: ../../files/toc.rst:69
-msgid "Select **Mails** from the left sidebar."
-msgstr "Seleziona **Mail** nel menu di sinistra."
-
 #: ../../files/toc.rst:70
 msgid "Select the email that contains the attachment you want to save."
 msgstr "Seleziona l'email che contiene l'allegato che desideri salvare."
@@ -10337,7 +10498,6 @@ msgid "Files & Collaboration"
 msgstr "Files & Collaboration"
 
 #: ../../index.rst:71
-#, fuzzy
 msgid "Communication"
 msgstr "Comunicazione"
 
@@ -10855,10 +11015,6 @@ msgstr "Inserisci il nuovo nome e conferma."
 #: ../../mobile_apps/files_app.rst:73
 msgid "Moving a File Between Folders"
 msgstr "Spostare un File tra Cartelle"
-
-#: ../../mobile_apps/files_app.rst:76
-msgid "Select **Move**."
-msgstr "Seleziona **Email**."
 
 #: ../../mobile_apps/files_app.rst:77 ../../mobile_apps/files_app.rst:84
 msgid "Choose the destination folder and confirm."
@@ -11464,9 +11620,9 @@ msgid ""
 "devices. You can download them from the official stores using the links "
 "below."
 msgstr ""
-"Le applicazioni mobile di Carbonio sono disponibili per dispositivi Android "
-"e iOS. È possibile scaricarle dagli store ufficiali utilizzando i link qui "
-"sotto."
+"Le applicazioni mobile di Carbonio sono disponibili per dispositivi "
+"Android e iOS. È possibile scaricarle dagli store ufficiali utilizzando i"
+" link qui sotto."
 
 #: ../../mobile_apps/toc.rst:11
 msgid "**Android (Google Play Store)**"

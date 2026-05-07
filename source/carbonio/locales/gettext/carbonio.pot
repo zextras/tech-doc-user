@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Carbonio User Guide 26.3\n"
+"Project-Id-Version: Carbonio User Guide 26.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-27 18:22+0100\n"
+"POT-Creation-Date: 2026-05-07 16:11+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1159,7 +1159,7 @@ msgstr ""
 msgid "The sender must have the recipient’s public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:626
+#: ../../advanced_email_management/toc.rst:632
 msgid "Email Encryption"
 msgstr ""
 
@@ -2273,6 +2273,110 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:346
 #: ../../contacts/toc.rst:272
 msgid "Click the **ADD** button."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:353
+msgid "Working with Archive"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:355
+msgid "The **Archive** feature in Carbonio allows you to quickly move emails and conversations out of your current folders without deleting them. Archived items are stored in a dedicated Archive system folder, making it easier to keep your mailbox organized while still keeping important messages available for future reference."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:357
+msgid "You can archive a single email, an entire conversation, or multiple items at once. The **Archive** folder behaves like the other system folders in Carbonio and can display the number of unread items it contains."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:360
+msgid "Archiving a Single Email or Conversation"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:362
+msgid "You can archive an email or a conversation directly from the mail list."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:364
+#: ../../basic_email_management/toc.rst:391
+msgid "**To do so:**"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:366
+#: ../../basic_email_management/toc.rst:393
+#: ../../files/toc.rst:69
+msgid "Select **Mails** from the left sidebar."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:367
+msgid "Locate the email or conversation you want to archive."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:368
+msgid "Right-click the item to open the contextual menu."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:369
+msgid "Select **Archive**."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:375
+msgid "Alternatively, you can drag and drop one or multiple messages and conversations between folders, including the Archive folder"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:377
+msgid "The selected item is immediately moved to the Archive folder. Carbonio shows a confirmation message on the bottom left of the page after the operation is completed."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:380
+msgid "Working with the Archive Folder"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:382
+msgid "The **Archive** folder is a **system folder** in Carbonio. It is automatically used to store archived emails and conversations. Like other system folders, it is part of the standard mailbox structure."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:384
+msgid "When the Archive folder contains unread items, Carbonio can display an unread count badge next to the folder name. Archived emails and conversations can still be managed like other mail items. For example, you can open them, move them, or empty the folder when needed."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:387
+msgid "Restoring Archived Items"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:389
+msgid "If you want to move an archived email or conversation out of the Archive folder, you can use the Move action."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:394
+msgid "Open the **Archive** folder."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:395
+msgid "Locate the email or conversation you want to restore."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:396
+msgid "Right-click the item."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:397
+#: ../../mobile_apps/files_app.rst:76
+msgid "Select **Move**."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:403
+msgid "Alternatively, you can also use the drag and drop functionality on the Archive folder"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:405
+msgid "Choose the destination folder and click the **Move** button."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:411
+msgid "The selected item is moved to the folder you choose."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:415
+msgid "The Archive feature is available starting in Carbonio **26.3.0**. For some upgraded accounts, the feature may not appear if a personal folder named **Archive** already existed before the system Archive folder was introduced. If you do not see the Archive option in your mailbox, contact your system administrator or support team."
 msgstr ""
 
 #: ../../browsing_emails/toc.rst:7
@@ -4996,7 +5100,7 @@ msgstr ""
 msgid "Filtering Your View"
 msgstr ""
 
-#: ../../contacts/toc.rst:220
+#: ../../contacts/toc.rst:224
 msgid "To manage what you see in Contacts:"
 msgstr ""
 
@@ -5306,10 +5410,6 @@ msgstr ""
 
 #: ../../files/toc.rst:67
 msgid "You have the option to save attachment files from your emails directly to your Files. To do so:"
-msgstr ""
-
-#: ../../files/toc.rst:69
-msgid "Select **Mails** from the left sidebar."
 msgstr ""
 
 #: ../../files/toc.rst:70
@@ -7181,10 +7281,6 @@ msgstr ""
 
 #: ../../mobile_apps/files_app.rst:73
 msgid "Moving a File Between Folders"
-msgstr ""
-
-#: ../../mobile_apps/files_app.rst:76
-msgid "Select **Move**."
 msgstr ""
 
 #: ../../mobile_apps/files_app.rst:77

@@ -3687,7 +3687,7 @@ msgstr "Premi il tasto **AGGIUNGI**."
 
 #: ../../basic_email_management/toc.rst:353
 msgid "Working with Archive"
-msgstr "Usare la Ricerca"
+msgstr "Usare l'Archivio"
 
 #: ../../basic_email_management/toc.rst:355
 msgid ""
@@ -3697,6 +3697,12 @@ msgid ""
 " easier to keep your mailbox organized while still keeping important "
 "messages available for future reference."
 msgstr ""
+"La funzione **Archivio** in Carbonio consente di spostare rapidamente "
+"email e conversazioni dalle cartelle correnti senza eliminarle. Gli "
+"elementi archiviati vengono conservati in una cartella di sistema "
+"dedicata chiamata Archivio, rendendo più semplice mantenere la casella "
+"di posta organizzata pur tenendo i messaggi importanti disponibili per "
+"riferimenti futuri."
 
 #: ../../basic_email_management/toc.rst:357
 msgid ""
@@ -3704,14 +3710,18 @@ msgid ""
 " at once. The **Archive** folder behaves like the other system folders in"
 " Carbonio and can display the number of unread items it contains."
 msgstr ""
+"È possibile archiviare una singola email, un'intera conversazione o più "
+"elementi contemporaneamente. La cartella **Archivio** si comporta come le"
+" altre cartelle di sistema in Carbonio e può visualizzare il numero di "
+"elementi non letti che contiene."
 
 #: ../../basic_email_management/toc.rst:360
 msgid "Archiving a Single Email or Conversation"
-msgstr ""
+msgstr "Archiviare una Singola Email o Conversazione"
 
 #: ../../basic_email_management/toc.rst:362
 msgid "You can archive an email or a conversation directly from the mail list."
-msgstr ""
+msgstr "È possibile archiviare un'email o una conversazione direttamente dall'elenco delle mail."
 
 #: ../../basic_email_management/toc.rst:364
 #: ../../basic_email_management/toc.rst:391
@@ -3725,9 +3735,7 @@ msgstr "Seleziona **Mail** nel menu di sinistra."
 
 #: ../../basic_email_management/toc.rst:367
 msgid "Locate the email or conversation you want to archive."
-msgstr ""
-"Fai clic con il tasto destro sull'email o sulla conversazione che desideri "
-"rimuovere."
+msgstr "Individua l'email o la conversazione che desideri archiviare."
 
 #: ../../basic_email_management/toc.rst:368
 msgid "Right-click the item to open the contextual menu."
@@ -3735,13 +3743,15 @@ msgstr "Fai clic destro su un'email per aprire il menu a tendina."
 
 #: ../../basic_email_management/toc.rst:369
 msgid "Select **Archive**."
-msgstr "Seleziona **Email**."
+msgstr "Seleziona **Archivia**."
 
 #: ../../basic_email_management/toc.rst:375
 msgid ""
 "Alternatively, you can drag and drop one or multiple messages and "
 "conversations between folders, including the Archive folder"
 msgstr ""
+"In alternativa, è possibile trascinare uno o più messaggi e conversazioni"
+" tra le cartelle, inclusa la cartella Archivio"
 
 #: ../../basic_email_management/toc.rst:377
 msgid ""
@@ -3749,10 +3759,13 @@ msgid ""
 "shows a confirmation message on the bottom left of the page after the "
 "operation is completed."
 msgstr ""
+"L'elemento selezionato viene immediatamente spostato nella cartella "
+"Archivio. Carbonio mostra un messaggio di conferma in basso a sinistra "
+"della pagina al termine dell'operazione."
 
 #: ../../basic_email_management/toc.rst:380
 msgid "Working with the Archive Folder"
-msgstr "Usare la Ricerca"
+msgstr "Usare la Cartella Archivio"
 
 #: ../../basic_email_management/toc.rst:382
 msgid ""
@@ -3760,6 +3773,10 @@ msgid ""
 "automatically used to store archived emails and conversations. Like other"
 " system folders, it is part of the standard mailbox structure."
 msgstr ""
+"La cartella **Archivio** è una **cartella di sistema** in Carbonio. Viene"
+" utilizzata automaticamente per conservare le email e le conversazioni "
+"archiviate. Come le altre cartelle di sistema, fa parte della struttura "
+"standard della casella di posta."
 
 #: ../../basic_email_management/toc.rst:384
 msgid ""
@@ -3768,26 +3785,31 @@ msgid ""
 "conversations can still be managed like other mail items. For example, "
 "you can open them, move them, or empty the folder when needed."
 msgstr ""
+"Quando la cartella Archivio contiene elementi non letti, Carbonio può "
+"mostrare un indicatore del numero di non letti accanto al nome della "
+"cartella. Le email e le conversazioni archiviate possono essere gestite "
+"come gli altri elementi di posta. Ad esempio, è possibile aprirle, "
+"spostarle o svuotare la cartella quando necessario."
 
 #: ../../basic_email_management/toc.rst:387
 msgid "Restoring Archived Items"
-msgstr "Ripristino di un Calendario Cestinato"
+msgstr "Ripristino degli Elementi Archiviati"
 
 #: ../../basic_email_management/toc.rst:389
 msgid ""
 "If you want to move an archived email or conversation out of the Archive "
 "folder, you can use the Move action."
 msgstr ""
+"Per spostare un'email o una conversazione archiviata fuori dalla cartella"
+" Archivio, è possibile utilizzare l'azione Sposta."
 
 #: ../../basic_email_management/toc.rst:394
 msgid "Open the **Archive** folder."
-msgstr "Vai alla casella **Spam**."
+msgstr "Apri la cartella **Archivio**."
 
 #: ../../basic_email_management/toc.rst:395
 msgid "Locate the email or conversation you want to restore."
-msgstr ""
-"Fai clic con il tasto destro sull'email o sulla conversazione che desideri "
-"rimuovere."
+msgstr "Individua l'email o la conversazione che desideri ripristinare."
 
 #: ../../basic_email_management/toc.rst:396
 msgid "Right-click the item."
@@ -3795,21 +3817,23 @@ msgstr "Fai clic destro sull'elemento."
 
 #: ../../basic_email_management/toc.rst:397 ../../mobile_apps/files_app.rst:76
 msgid "Select **Move**."
-msgstr "Seleziona **Email**."
+msgstr "Seleziona **Sposta**."
 
 #: ../../basic_email_management/toc.rst:403
 msgid ""
 "Alternatively, you can also use the drag and drop functionality on the "
 "Archive folder"
 msgstr ""
+"In alternativa, è possibile utilizzare la funzionalità di trascinamento "
+"sulla cartella Archivio"
 
 #: ../../basic_email_management/toc.rst:405
 msgid "Choose the destination folder and click the **Move** button."
-msgstr "Modifica le informazioni e clicca sul pulsante **SALVA**."
+msgstr "Scegli la cartella di destinazione e clicca sul pulsante **Sposta**."
 
 #: ../../basic_email_management/toc.rst:411
 msgid "The selected item is moved to the folder you choose."
-msgstr "Le email eliminate verranno spostate nel cartella **Cestino**."
+msgstr "L'elemento selezionato viene spostato nella cartella scelta."
 
 #: ../../basic_email_management/toc.rst:415
 msgid ""
@@ -3819,6 +3843,12 @@ msgid ""
 "introduced. If you do not see the Archive option in your mailbox, contact"
 " your system administrator or support team."
 msgstr ""
+"La funzione Archivio è disponibile a partire da Carbonio **26.3.0**. Per "
+"alcuni account aggiornati, la funzione potrebbe non essere visibile se "
+"esisteva già una cartella personale denominata **Archivio** prima "
+"dell'introduzione della cartella di sistema Archivio. Se non si vede "
+"l'opzione Archivio nella propria casella di posta, contattare "
+"l'amministratore di sistema o il team di supporto."
 
 #: ../../browsing_emails/toc.rst:7
 msgid "Browsing Emails"

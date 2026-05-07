@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 12:03+0200\n"
-"PO-Revision-Date: 2026-05-07 09:32+0000\n"
-"Last-Translator: Irene Carbone <irene.carbone@zextras.com>\n"
+"PO-Revision-Date: 2026-05-07 10:07+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.18.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -3686,7 +3686,6 @@ msgid "Click the **ADD** button."
 msgstr "Premi il tasto **AGGIUNGI**."
 
 #: ../../basic_email_management/toc.rst:353
-#, fuzzy
 msgid "Working with Archive"
 msgstr "Usare la Ricerca"
 
@@ -3716,7 +3715,6 @@ msgstr ""
 
 #: ../../basic_email_management/toc.rst:364
 #: ../../basic_email_management/toc.rst:391
-#, fuzzy
 msgid "**To do so:**"
 msgstr "Per farlo:"
 
@@ -3726,19 +3724,16 @@ msgid "Select **Mails** from the left sidebar."
 msgstr "Seleziona **Mail** nel menu di sinistra."
 
 #: ../../basic_email_management/toc.rst:367
-#, fuzzy
 msgid "Locate the email or conversation you want to archive."
 msgstr ""
-"Fai clic con il tasto destro sull'email o sulla conversazione che "
-"desideri rimuovere."
+"Fai clic con il tasto destro sull'email o sulla conversazione che desideri "
+"rimuovere."
 
 #: ../../basic_email_management/toc.rst:368
-#, fuzzy
 msgid "Right-click the item to open the contextual menu."
 msgstr "Fai clic destro su un'email per aprire il menu a tendina."
 
 #: ../../basic_email_management/toc.rst:369
-#, fuzzy
 msgid "Select **Archive**."
 msgstr "Seleziona **Email**."
 
@@ -3756,7 +3751,6 @@ msgid ""
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:380
-#, fuzzy
 msgid "Working with the Archive Folder"
 msgstr "Usare la Ricerca"
 
@@ -3776,7 +3770,6 @@ msgid ""
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:387
-#, fuzzy
 msgid "Restoring Archived Items"
 msgstr "Ripristino di un Calendario Cestinato"
 
@@ -3787,19 +3780,16 @@ msgid ""
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:394
-#, fuzzy
 msgid "Open the **Archive** folder."
 msgstr "Vai alla casella **Spam**."
 
 #: ../../basic_email_management/toc.rst:395
-#, fuzzy
 msgid "Locate the email or conversation you want to restore."
 msgstr ""
-"Fai clic con il tasto destro sull'email o sulla conversazione che "
-"desideri rimuovere."
+"Fai clic con il tasto destro sull'email o sulla conversazione che desideri "
+"rimuovere."
 
 #: ../../basic_email_management/toc.rst:396
-#, fuzzy
 msgid "Right-click the item."
 msgstr "Fai clic destro sull'elemento."
 
@@ -3814,12 +3804,10 @@ msgid ""
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:405
-#, fuzzy
 msgid "Choose the destination folder and click the **Move** button."
 msgstr "Modifica le informazioni e clicca sul pulsante **SALVA**."
 
 #: ../../basic_email_management/toc.rst:411
-#, fuzzy
 msgid "The selected item is moved to the folder you choose."
 msgstr "Le email eliminate verranno spostate nel cartella **Cestino**."
 
@@ -15280,4 +15268,3 @@ msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #~ msgid "Select **Reset link**."
 #~ msgstr "Seleziona **Auth**."
-

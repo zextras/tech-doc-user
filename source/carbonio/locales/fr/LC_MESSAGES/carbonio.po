@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-05-07 12:03+0200\n"
-"PO-Revision-Date: 2026-05-07 10:14+0000\n"
+"PO-Revision-Date: 2026-05-07 14:17+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
@@ -5481,20 +5481,27 @@ msgstr "Pour améliorer la clarté et éviter les modaux empilés :"
 #: ../../calendars/toc.rst:318
 msgid "The sharing process will be moved into a **single dedicated modal**."
 msgstr ""
+"Le processus de partage sera déplacé vers **une seule fenêtre modale "
+"dédiée**."
 
 #: ../../calendars/toc.rst:319
 msgid "A new dedicated entry in the contextual menu will open the sharing modal."
 msgstr ""
+"Une nouvelle entrée dédiée dans le menu contextuel ouvrira la fenêtre modale "
+"de partage."
 
 #: ../../calendars/toc.rst:320
 msgid ""
 "The **Edit Calendar** modal will remain separate and no longer include "
 "sharing options."
 msgstr ""
+"La fenêtre modale **Modifier le calendrier** restera distincte et n’inclura "
+"plus d’options de partage."
 
 #: ../../calendars/toc.rst:321
 msgid "This ensures a faster, simpler, and more intuitive workflow."
 msgstr ""
+"Cela garantit un flux de travail plus rapide, plus simple et plus intuitif."
 
 #: ../../calendars/toc.rst:324
 msgid "Security & Privacy"
@@ -6448,7 +6455,7 @@ msgstr ""
 
 #: ../../chat/toc.rst:245
 msgid "Message Search"
-msgstr ""
+msgstr "Recherche de messages"
 
 #: ../../chat/toc.rst:247
 msgid ""
@@ -6458,10 +6465,16 @@ msgid ""
 "the corresponding message, which is visually highlighted for easier "
 "reference."
 msgstr ""
+"La Recherche de messages vous permet de trouver rapidement des messages, "
+"dates ou contenus spécifiques dans n’importe quelle conversation, sans "
+"devoir faire défiler de longs historiques de chat. Saisissez simplement un "
+"mot‑clé, sélectionnez un résultat et accédez directement au message "
+"correspondant, qui est mis en évidence visuellement pour faciliter la "
+"référence."
 
 #: ../../chat/toc.rst:250
 msgid "How It Works"
-msgstr ""
+msgstr "Fonctionnement"
 
 #: ../../chat/toc.rst:252
 msgid ""
@@ -6471,10 +6484,16 @@ msgid ""
 "**Search** button. All messages containing the keyword are displayed in a"
 " chronological list, with the most recent results shown first."
 msgstr ""
+"Une icône de recherche est disponible dans l’en‑tête de chaque conversation. "
+"En cliquant dessus, un panneau de recherche s’ouvre sur le côté droit de "
+"l’interface. Saisissez votre mot‑clé (par exemple, *meeting*) et appuyez sur "
+"**Enter** ou cliquez sur le bouton **Search**. Tous les messages contenant "
+"le mot‑clé sont affichés dans une liste chronologique, les résultats les "
+"plus récents apparaissant en premier."
 
 #: ../../chat/toc.rst:256
 msgid "Key Features"
-msgstr ""
+msgstr "Fonctionnalités principales"
 
 #: ../../chat/toc.rst:258
 msgid ""
@@ -6483,6 +6502,10 @@ msgid ""
 "for *meet* highlights only that part inside *meeting*), making results "
 "easier to scan."
 msgstr ""
+"**Smart Highlighting** Le mot‑clé recherché est mis en gras avec la couleur "
+"principale. Les correspondances partielles sont également mises en évidence "
+"(par ex., rechercher *meet* met en surbrillance uniquement cette partie dans "
+"*meeting*), facilitant le scan des résultats."
 
 #: ../../chat/toc.rst:261
 msgid ""
@@ -6491,18 +6514,27 @@ msgid ""
 "If you scroll away, simply click the result again to return—results "
 "remain clickable at all times."
 msgstr ""
+"**Jump to Context** Sélectionner un résultat fait défiler automatiquement la "
+"conversation jusqu’au message exact, qui est mis en évidence. Si vous faites "
+"défiler ailleurs, cliquez de nouveau sur le résultat pour revenir — les "
+"résultats restent toujours cliquables."
 
 #: ../../chat/toc.rst:264
 msgid ""
 "**Responsive Behavior** On smaller screens, the search interface adapts "
 "seamlessly to ensure easy navigation without losing context."
 msgstr ""
+"**Responsive Behavior** Sur les écrans plus petits, l’interface de recherche "
+"s’adapte de manière fluide pour garantir une navigation aisée sans perte de "
+"contexte."
 
 #: ../../chat/toc.rst:267
 msgid ""
 "**Quick Iterations** To start a new search, use the backspace button to "
 "clear the current query without closing the panel."
 msgstr ""
+"**Quick Iterations** Pour lancer une nouvelle recherche, utilisez la touche "
+"Retour arrière pour effacer la requête en cours sans fermer le panneau."
 
 #: ../../chat/toc.rst:270
 msgid ""
@@ -6510,6 +6542,9 @@ msgid ""
 "find information in seconds instead of manually searching through entire "
 "conversations."
 msgstr ""
+"Cette fonctionnalité améliore considérablement la navigation dans les "
+"discussions, vous permettant de trouver l’information en quelques secondes "
+"au lieu de parcourir manuellement l’ensemble des conversations."
 
 #: ../../composing_emails/toc.rst:7
 msgid "Composing Emails"
@@ -7293,11 +7328,12 @@ msgstr "Pour accéder à votre **liste de contacts** existante :"
 
 #: ../../contacts/toc.rst:25 ../../contacts/toc.rst:32
 msgid "From the left sidebar click on the **Contacts** section."
-msgstr ""
+msgstr "Dans la barre latérale gauche, cliquez sur la section **Contacts**."
 
 #: ../../contacts/toc.rst:26
 msgid "In the Navigation Panel, click on the **Contacts** address book."
 msgstr ""
+"Dans le panneau de navigation, cliquez sur le carnet d'adresses **Contacts**."
 
 #: ../../contacts/toc.rst:28
 msgid ""
@@ -7306,14 +7342,19 @@ msgid ""
 "contacts yet. However, you can easily add contacts at any time in the "
 "future to populate this list."
 msgstr ""
+"Une fois sélectionnée, la liste de tous vos contacts s’affiche. Au départ, "
+"cette section peut être vide si aucun contact n’a été ajouté. Vous pouvez "
+"toutefois ajouter des contacts à tout moment pour la remplir."
 
 #: ../../contacts/toc.rst:30
 msgid "To access emailed contacts:"
-msgstr ""
+msgstr "Pour accéder aux contacts par e‑mail :"
 
 #: ../../contacts/toc.rst:33
 msgid "In the Navigation Panel, click on the **Emailed Contacts** address book."
 msgstr ""
+"Dans le panneau de navigation, cliquez sur le carnet d'adresses **Emailed "
+"Contacts**."
 
 #: ../../contacts/toc.rst:35
 msgid ""
@@ -7321,14 +7362,17 @@ msgid ""
 "whom you have corresponded via email. Initially, this section might "
 "appear empty if you have not had any correspondence yet."
 msgstr ""
+"Une fois sélectionnée, la liste de toutes les adresses avec lesquelles vous "
+"avez échangé par e‑mail s’affiche. Au départ, cette section peut être vide "
+"si aucune correspondance n’a encore eu lieu."
 
 #: ../../contacts/toc.rst:38
 msgid "Adding a New Contact"
-msgstr ""
+msgstr "Ajout d’un nouveau contact"
 
 #: ../../contacts/toc.rst:40
 msgid "To add a new contact to your contact list:"
-msgstr ""
+msgstr "Pour ajouter un nouveau contact à votre liste :"
 
 #: ../../contacts/toc.rst:42 ../../contacts/toc.rst:57
 #: ../../contacts/toc.rst:69 ../../contacts/toc.rst:79
@@ -7340,29 +7384,31 @@ msgstr ""
 #: ../../contacts/toc.rst:268 ../../contacts/toc.rst:281
 #: ../../contacts/toc.rst:294
 msgid "Select the **Contacts** from your left sidebar."
-msgstr ""
+msgstr "Sélectionnez **Contacts** dans la barre latérale gauche."
 
 #: ../../contacts/toc.rst:44 ../../contacts/toc.rst:60
 msgid "Enter the contact’s information."
-msgstr ""
+msgstr "Saisissez les informations du contact."
 
 #: ../../contacts/toc.rst:45
 msgid ""
 "Under the **Destination address book section**, choose the address book "
 "where you want the contact to be saved."
 msgstr ""
+"Dans la section **Destination address book**, choisissez le carnet "
+"d’adresses où enregistrer le contact."
 
 #: ../../contacts/toc.rst:46
 msgid "Click the **SAVE** button in the top right corner of the board."
-msgstr ""
+msgstr "Cliquez sur le bouton **SAVE** en haut à droite du tableau."
 
 #: ../../contacts/toc.rst:53
 msgid "Editing a Contact"
-msgstr ""
+msgstr "Modification d’un contact"
 
 #: ../../contacts/toc.rst:55
 msgid "To edit an existing contact:"
-msgstr ""
+msgstr "Pour modifier un contact existant :"
 
 #: ../../contacts/toc.rst:58 ../../contacts/toc.rst:70
 #: ../../contacts/toc.rst:80
@@ -7370,26 +7416,28 @@ msgid ""
 "In the Navigation Panel, select the address book that contains the "
 "contact you wish to edit."
 msgstr ""
+"Dans le panneau de navigation, sélectionnez le carnet d’adresses contenant "
+"le contact à modifier."
 
 #: ../../contacts/toc.rst:59
 msgid "Locate and click on the contact you wish to edit from the main panel."
-msgstr ""
+msgstr "Repérez et cliquez sur le contact à modifier dans le panneau principal."
 
 #: ../../contacts/toc.rst:61
 msgid "Click the **EDIT** button in the top right corner of the main panel."
-msgstr ""
+msgstr "Cliquez sur le bouton **EDIT** en haut à droite du panneau principal."
 
 #: ../../contacts/toc.rst:62
 msgid "Edit the information and click the **SAVE** button."
-msgstr ""
+msgstr "Modifiez les informations puis cliquez sur le bouton **SAVE**."
 
 #: ../../contacts/toc.rst:65
 msgid "Assigning a Tag to a Contact"
-msgstr ""
+msgstr "Assignation d’une étiquette à un contact"
 
 #: ../../contacts/toc.rst:67
 msgid "To assign a tag to an existing contact:"
-msgstr ""
+msgstr "Pour assigner une étiquette à un contact existant :"
 
 #: ../../contacts/toc.rst:71
 msgid ""
@@ -9062,6 +9110,12 @@ msgid ""
 " of the file or folder. It is now also possible for external users to "
 "download the entire folder as a compressed ZIP archive."
 msgstr ""
+"Cette section vous permet de générer différents liens pour un fichier ou un "
+"dossier, afin de les envoyer à des utilisateurs externes. Le lien généré "
+"donne accès à toute personne disposant du lien pour visualiser et "
+"télécharger le contenu du fichier ou du dossier. Il est désormais également "
+"possible pour les utilisateurs externes de télécharger le dossier complet "
+"sous forme d’archive ZIP compressée."
 
 #: ../../files/toc.rst:405
 msgid "Adding Collaborators to a File / Folder"
@@ -12134,7 +12188,7 @@ msgstr "Utilisez l’icône flèche à côté du nom de la salle pour y entrer."
 
 #: ../../videomeeting/toc.rst:47
 msgid "Guest Entry Experience"
-msgstr ""
+msgstr "Expérience d’accès invité"
 
 #: ../../videomeeting/toc.rst:49
 msgid ""
@@ -12143,22 +12197,31 @@ msgid ""
 "they can enter their name, configure their audio and video devices, and "
 "proceed directly to the waiting room with a single click."
 msgstr ""
+"Les invités accèdent désormais aux réunions via une page d’accueil unique et "
+"professionnelle qui regroupe tout ce dont ils ont besoin. Avant de "
+"rejoindre, ils peuvent saisir leur nom, configurer leurs appareils audio et "
+"vidéo, puis se rendre directement à la salle d’attente en un seul clic."
 
 #: ../../videomeeting/toc.rst:52
 msgid "Benefits"
-msgstr ""
+msgstr "Avantages"
 
 #: ../../videomeeting/toc.rst:54
 msgid ""
 "**Clear professional context** Guests immediately understand that they "
 "are entering a business meeting environment."
 msgstr ""
+"**Contexte professionnel clair** Les invités comprennent immédiatement "
+"qu’ils entrent dans un environnement de réunion d’entreprise."
 
 #: ../../videomeeting/toc.rst:57
 msgid ""
 "**Simplified flow** Guests complete all required steps—name input and "
 "device setup—on one page, reducing effort and saving time."
 msgstr ""
+"**Flux simplifié** Les invités remplissent toutes les étapes requises—saisie "
+"du nom et configuration des appareils—sur une seule page, réduisant l’effort "
+"et gagnant du temps."
 
 #: ../../videomeeting/toc.rst:60
 msgid ""

@@ -363,14 +363,14 @@ You can archive an email or a conversation directly from the mail list.
 
 **To do so:**
 
-*	Select **Mails** from the left sidebar.
-*	Locate the email or conversation you want to archive.
-*	Right-click the item to open the contextual menu.
-* Select **Archive**.
+#.	Select **Mails** from the left sidebar.
+#.	Locate the email or conversation you want to archive.
+#.	Right-click the item to open the contextual menu.
+#. Select **Archive**.
 
-  .. image:: /img/inbox-to-archive.png
-          :align: center
-          :width: 100%
+.. image:: /img/inbox-to-archive.png
+        :align: center
+        :width: 100%
 
 .. tip:: Alternatively, you can drag and drop one or multiple messages and conversations between folders, including the Archive folder
 
@@ -396,17 +396,17 @@ If you want to move an archived email or conversation out of the Archive folder,
 *	Right-click the item.
 *	Select **Move**.
 
-  .. image:: /img/move-from-archive.png
-          :align: center
-          :width: 100%
+.. image:: /img/move-from-archive.png
+        :align: center
+        :width: 100%
 
 .. tip:: Alternatively, you can also use the drag and drop functionality on the Archive folder
 
 *	Choose the destination folder and click the **Move** button.
 
-  .. image:: /img/move-conversation.png
-          :align: center
-          :width: 60%
+.. image:: /img/move-conversation.png
+        :align: center
+        :width: 60%
 
 The selected item is moved to the folder you choose.
 

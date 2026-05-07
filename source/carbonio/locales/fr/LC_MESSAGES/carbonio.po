@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-05-07 12:03+0200\n"
-"PO-Revision-Date: 2026-05-07 10:07+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-05-07 10:14+0000\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
@@ -793,54 +793,66 @@ msgid ""
 "**Message**: Specifies email properties, such as those involved in "
 "conversations I've participated in."
 msgstr ""
+"**Message** : Spécifie les propriétés du courriel, telles que celles des "
+"conversations auxquelles j’ai participé."
 
 #: ../../advanced_email_management/toc.rst:231
 msgid "**Size**: Specifies the size of the email in kilobytes."
-msgstr ""
+msgstr "**Taille** : Spécifie la taille du courriel en kilo‑octets."
 
 #: ../../advanced_email_management/toc.rst:232
 msgid "**Date**: Specifies the date the email was sent or received."
-msgstr ""
+msgstr "**Date** : Spécifie la date d’envoi ou de réception du courriel."
 
 #: ../../advanced_email_management/toc.rst:233
 msgid "**Body**: Specifies specific content within the email body."
-msgstr ""
+msgstr "**Corps** : Spécifie un contenu précis dans le corps du courriel."
 
 #: ../../advanced_email_management/toc.rst:234
 msgid "**Attachment**: Specifies the presence or absence of attachments."
-msgstr ""
+msgstr "**Pièce jointe** : Indique la présence ou l’absence de pièces jointes."
 
 #: ../../advanced_email_management/toc.rst:235
 msgid ""
 "**Read Receipt**: Specifies whether a read receipt has been requested or "
 "received."
 msgstr ""
+"**Accusé de lecture** : Indique si un accusé de lecture a été demandé ou "
+"reçu."
 
 #: ../../advanced_email_management/toc.rst:236
 msgid ""
 "**Address In**: Specifies specific addresses (e.g., sender, or recipient)"
 " that exist in the contacts or frequent emails."
 msgstr ""
+"**Adresse dans** : Spécifie des adresses précises (expéditeur ou "
+"destinataire) présentes dans les contacts ou les courriels fréquents."
 
 #: ../../advanced_email_management/toc.rst:237
 msgid ""
 "**Calendar**: Specifies events or calendar-related information within the"
 " email, such as whether the invitation has been replied to."
 msgstr ""
+"**Calendrier** : Spécifie les événements ou les informations liées au "
+"calendrier dans le courriel, par ex. si l’invitation a reçu une réponse."
 
 #: ../../advanced_email_management/toc.rst:238
 msgid "**Social**: Specifies social media-related content within the email."
 msgstr ""
+"**Social** : Spécifie le contenu lié aux réseaux sociaux dans le courriel."
 
 #: ../../advanced_email_management/toc.rst:239
 msgid "**Header Named**: Specifies a custom email header name."
 msgstr ""
+"**En‑tête nommé** : Spécifie le nom d’un en‑tête de courriel personnalisé."
 
 #: ../../advanced_email_management/toc.rst:241
 msgid ""
 "You can choose anything among these values and your next field values "
 "will appear accordingly."
 msgstr ""
+"Vous pouvez choisir n’importe quelle valeur parmi celles‑ci et les champs "
+"suivants s’afficheront en conséquence."
 
 #: ../../advanced_email_management/toc.rst:243
 msgid ""
@@ -854,16 +866,27 @@ msgid ""
 "selectable values in this field. Similarly, for all other values of the "
 "first field, you will get a different set of values for this field."
 msgstr ""
+"**Deuxième champ** : En fonction de la valeur du premier champ, vous "
+"choisissez les valeurs de ce champ. Exemple : si vous choisissez « From » "
+"comme valeur du premier champ, les options suivantes seront proposées : «"
+" Correspond exactement », « Ne correspond pas exactement », « Contient », «"
+" Ne contient pas », « Correspond à un motif générique », « Ne correspond pas "
+"à un motif générique ». Si vous choisissez « Size », les options seront «"
+" Inférieur à », « Pas inférieur à », « Supérieur à », « Pas supérieur à ». "
+"Chaque valeur du premier champ génère un jeu d’options différent pour ce "
+"champ."
 
 #: ../../advanced_email_management/toc.rst:245
 msgid ""
 "Depending on the First field and second field, you may get additional "
 "fields with different values."
 msgstr ""
+"Selon les valeurs du premier et du deuxième champ, des champs "
+"supplémentaires avec d’autres valeurs peuvent apparaître."
 
 #: ../../advanced_email_management/toc.rst:247
 msgid "How to create actions:"
-msgstr ""
+msgstr "Comment créer des actions :"
 
 #: ../../advanced_email_management/toc.rst:249
 msgid ""
@@ -871,28 +894,35 @@ msgid ""
 "determine the actions to be taken if the specified conditions are met. "
 "Actions have a few paths to set such as:"
 msgstr ""
+"Dans la section Action, vous pouvez configurer plusieurs champs. Ces champs "
+"déterminent les actions à exécuter lorsque les conditions spécifiées sont "
+"remplies. Les actions offrent plusieurs options, telles que :"
 
 #: ../../advanced_email_management/toc.rst:251
 msgid "**Discard**: Moves the email into the Junk folder."
 msgstr ""
+"**Supprimer** : Déplace le courriel dans le dossier Courrier indésirable."
 
 #: ../../advanced_email_management/toc.rst:252
 msgid "**Move Into Folder**: Transfers the email to a specified folder."
 msgstr ""
+"**Déplacer vers le dossier** : Transfère le courriel vers un dossier "
+"spécifié."
 
 #: ../../advanced_email_management/toc.rst:253
 msgid "**Mark As**: Marks the email as read or flagged."
-msgstr ""
+msgstr "**Marquer comme** : Marque le courriel comme lu ou signalé."
 
 #: ../../advanced_email_management/toc.rst:254
 msgid "**Tag With**: Assigns a tag to the email."
-msgstr ""
+msgstr "**Étiqueter avec** : Attribue une étiquette au courriel."
 
 #: ../../advanced_email_management/toc.rst:255
 msgid ""
 "**Redirect To Address**: Redirects the email to the specified email "
 "address."
 msgstr ""
+"**Rediriger vers l’adresse** : Redirige le courriel vers l’adresse spécifiée."
 
 #: ../../advanced_email_management/toc.rst:257
 msgid "Example:"
@@ -1588,7 +1618,7 @@ msgstr "Cliquez sur **DELETE**, puis sur **DELETE PERMANENTLY** pour confirmer."
 
 #: ../../advanced_email_management/toc.rst:525
 msgid "Set Disposal Policies for a Folder"
-msgstr ""
+msgstr "Définir les politiques de disposition pour un dossier"
 
 #: ../../advanced_email_management/toc.rst:527
 msgid ""
@@ -1596,6 +1626,9 @@ msgid ""
 "specified folder and surpassing the disposal threshold will undergo "
 "automated cleanup and deletion without requiring manual intervention."
 msgstr ""
+"La **politique de disposition** des e‑mails indique que les e‑mails se "
+"trouvant dans un dossier spécifié et dépassant le seuil de disposition "
+"seront automatiquement nettoyés et supprimés sans intervention manuelle."
 
 #: ../../advanced_email_management/toc.rst:529
 msgid "To enable and set a **disposal policy** for a folder:"
@@ -2220,7 +2253,7 @@ msgstr ""
 
 #: ../../appointments/toc.rst:44
 msgid "How Equipment Resources work"
-msgstr ""
+msgstr "Fonctionnement des ressources d’équipement"
 
 #: ../../appointments/toc.rst:46
 msgid ""
@@ -2229,10 +2262,15 @@ msgid ""
 "piece of equipment is represented in Carbonio as a resource account that "
 "can be added to appointments, similar to a meeting room."
 msgstr ""
+"Les ressources d’équipement (projecteurs, caméras, écrans, ordinateurs "
+"portables de l’entreprise, etc.) sont gérées centralement par votre "
+"administrateur système. Chaque équipement est représenté dans Carbonio comme "
+"un compte ressource pouvant être ajouté aux rendez‑vous, à l’image d’une "
+"salle de réunion."
 
 #: ../../appointments/toc.rst:49
 msgid "Assigning Equipment to an Appointment"
-msgstr ""
+msgstr "Attribuer un équipement à un rendez‑vous"
 
 #: ../../appointments/toc.rst:51
 msgid ""
@@ -2244,26 +2282,37 @@ msgid ""
 "users must contact their system administrator so it can be added as a "
 "resource."
 msgstr ""
+"Lors de la création d’un rendez‑vous, les utilisateurs peuvent choisir une "
+"ou plusieurs ressources d’équipement dans le champ Equipment (si activé et "
+"configuré par l’administrateur système). Sélectionner un équipement réserve "
+"la ressource pendant la durée du rendez‑vous, évitant les conflits de "
+"réservation. Si un équipement spécifique n’apparaît pas dans la liste, les "
+"utilisateurs doivent contacter leur administrateur système pour qu’il soit "
+"ajouté en tant que ressource."
 
 #: ../../appointments/toc.rst:55
 msgid "Approval workflow for Equipment Requests"
-msgstr ""
+msgstr "Flux d’approbation des demandes d’équipement"
 
 #: ../../appointments/toc.rst:57
 msgid "Equipment resources can operate in multiple modes:"
-msgstr ""
+msgstr "Les ressources d'équipement peuvent fonctionner en plusieurs modes :"
 
 #: ../../appointments/toc.rst:59
 msgid ""
 "**Auto-accept enabled**: the resource automatically accepts the booking "
 "if it is available."
 msgstr ""
+"**Auto-accept enabled** : la ressource accepte automatiquement la "
+"réservation si elle est disponible."
 
 #: ../../appointments/toc.rst:60
 msgid ""
 "**Auto-accept disabled**: the resource does not automatically accept "
 "requests."
 msgstr ""
+"**Auto-accept disabled** : la ressource n’accepte pas automatiquement les "
+"demandes."
 
 #: ../../appointments/toc.rst:61
 msgid ""
@@ -2271,6 +2320,9 @@ msgid ""
 " for the equipment resource, including the ability to create recurring "
 "appointments for that resource."
 msgstr ""
+"**Booking disabled** : l’administrateur peut empêcher toute réservation "
+"planifiée de la ressource d’équipement, y compris la création de rendez‑vous "
+"récurrents pour cette ressource."
 
 #: ../../appointments/toc.rst:64
 msgid ""
@@ -2280,6 +2332,12 @@ msgid ""
 " equipment request. Their decision determines whether the equipment is "
 "reserved for the appointment."
 msgstr ""
+"Lorsque l’auto‑acceptation est désactivée, l’administrateur système peut "
+"configurer la ressource pour transmettre les demandes de réservation à un ou "
+"plusieurs utilisateurs désignés. Ces utilisateurs agissent en tant que "
+"**approvers** et peuvent accepter ou refuser manuellement chaque demande "
+"d’équipement. Leur décision détermine si l’équipement est réservé pour le "
+"rendez‑vous."
 
 #: ../../appointments/toc.rst:70
 msgid "Checking on attendees' availability with organizer tool"
@@ -3571,6 +3629,11 @@ msgid ""
 " easier to keep your mailbox organized while still keeping important "
 "messages available for future reference."
 msgstr ""
+"La fonction **Archive** de Carbonio vous permet de déplacer rapidement des e‑"
+"mails et des conversations hors de vos dossiers actuels sans les supprimer. "
+"Les éléments archivés sont stockés dans un dossier système dédié "
+"**Archive**, ce qui facilite l’organisation de votre boîte aux lettres tout "
+"en conservant les messages importants accessibles ultérieurement."
 
 #: ../../basic_email_management/toc.rst:357
 msgid ""
@@ -3578,14 +3641,18 @@ msgid ""
 " at once. The **Archive** folder behaves like the other system folders in"
 " Carbonio and can display the number of unread items it contains."
 msgstr ""
+"Vous pouvez archiver un seul e‑mail, une conversation entière ou plusieurs "
+"éléments à la fois. Le dossier **Archive** se comporte comme les autres "
+"dossiers système de Carbonio et peut afficher le nombre d’éléments non lus "
+"qu’il contient."
 
 #: ../../basic_email_management/toc.rst:360
 msgid "Archiving a Single Email or Conversation"
-msgstr ""
+msgstr "Archiving a Single Email or Conversation"
 
 #: ../../basic_email_management/toc.rst:362
 msgid "You can archive an email or a conversation directly from the mail list."
-msgstr ""
+msgstr "You can archive an email or a conversation directly from the mail list."
 
 #: ../../basic_email_management/toc.rst:364
 #: ../../basic_email_management/toc.rst:391
@@ -3616,6 +3683,8 @@ msgid ""
 "Alternatively, you can drag and drop one or multiple messages and "
 "conversations between folders, including the Archive folder"
 msgstr ""
+"Alternatively, you can drag and drop one or multiple messages and "
+"conversations between folders, including the Archive folder"
 
 #: ../../basic_email_management/toc.rst:377
 msgid ""
@@ -3623,6 +3692,9 @@ msgid ""
 "shows a confirmation message on the bottom left of the page after the "
 "operation is completed."
 msgstr ""
+"The selected item is immediately moved to the Archive folder. Carbonio shows "
+"a confirmation message on the bottom left of the page after the operation is "
+"completed."
 
 #: ../../basic_email_management/toc.rst:380
 msgid "Working with the Archive Folder"
@@ -3634,6 +3706,9 @@ msgid ""
 "automatically used to store archived emails and conversations. Like other"
 " system folders, it is part of the standard mailbox structure."
 msgstr ""
+"The **Archive** folder is a **system folder** in Carbonio. It is "
+"automatically used to store archived emails and conversations. Like other "
+"system folders, it is part of the standard mailbox structure."
 
 #: ../../basic_email_management/toc.rst:384
 msgid ""
@@ -3642,6 +3717,10 @@ msgid ""
 "conversations can still be managed like other mail items. For example, "
 "you can open them, move them, or empty the folder when needed."
 msgstr ""
+"When the Archive folder contains unread items, Carbonio can display an "
+"unread count badge next to the folder name. Archived emails and "
+"conversations can still be managed like other mail items. For example, you "
+"can open them, move them, or empty the folder when needed."
 
 #: ../../basic_email_management/toc.rst:387
 msgid "Restoring Archived Items"
@@ -3652,6 +3731,8 @@ msgid ""
 "If you want to move an archived email or conversation out of the Archive "
 "folder, you can use the Move action."
 msgstr ""
+"If you want to move an archived email or conversation out of the Archive "
+"folder, you can use the Move action."
 
 #: ../../basic_email_management/toc.rst:394
 msgid "Open the **Archive** folder."
@@ -3668,13 +3749,15 @@ msgstr "Cliquez avec le bouton droit sur l’élément."
 
 #: ../../basic_email_management/toc.rst:397 ../../mobile_apps/files_app.rst:76
 msgid "Select **Move**."
-msgstr ""
+msgstr "Sélectionnez **Move**."
 
 #: ../../basic_email_management/toc.rst:403
 msgid ""
 "Alternatively, you can also use the drag and drop functionality on the "
 "Archive folder"
 msgstr ""
+"Alternatively, you can also use the drag and drop functionality on the "
+"Archive folder"
 
 #: ../../basic_email_management/toc.rst:405
 msgid "Choose the destination folder and click the **Move** button."
@@ -3693,6 +3776,11 @@ msgid ""
 "introduced. If you do not see the Archive option in your mailbox, contact"
 " your system administrator or support team."
 msgstr ""
+"The Archive feature is available starting in Carbonio **26.3.0**. For some "
+"upgraded accounts, the feature may not appear if a personal folder named "
+"**Archive** already existed before the system Archive folder was introduced. "
+"If you do not see the Archive option in your mailbox, contact your system "
+"administrator or support team."
 
 #: ../../browsing_emails/toc.rst:7
 msgid "Browsing Emails"
@@ -3734,6 +3822,9 @@ msgid ""
 " main panel. Each email is listed separately, allowing you to view them "
 "one by one."
 msgstr ""
+"**Vue Message** : dans ce mode, les e‑mails sont affichés individuellement "
+"dans le panneau principal. Chaque e‑mail est listé séparément, vous "
+"permettant de les consulter un par un."
 
 #: ../../browsing_emails/toc.rst:27
 msgid ""
@@ -3742,6 +3833,10 @@ msgid ""
 "been replied to together, they will appear grouped as a single thread in "
 "your main panel."
 msgstr ""
+"**Vue Conversation** : en utilisant cette option, les e‑mails sont regroupés "
+"par fil. Si plusieurs e‑mails font partie d’une même conversation ou ont été "
+"répondus ensemble, ils apparaissent groupés en un seul fil dans le panneau "
+"principal."
 
 #: ../../browsing_emails/toc.rst:29
 msgid ""
@@ -3751,12 +3846,18 @@ msgid ""
 "horizontal, just by clicking on the **tab icon**, right beside the "
 "**sorting icon**."
 msgstr ""
+"Notez que sur les petits écrans, vous pouvez **redimensionner les colonnes** "
+"séparant la liste des e‑mails de l’aperçu. Vous pouvez également basculer "
+"facilement du mode vertical au mode horizontal en cliquant sur l’**icône "
+"d’onglet**, à côté de l’**icône de tri**."
 
 #: ../../browsing_emails/toc.rst:32
 msgid ""
 "These options allow you to have more space to preview the email and to "
 "choose the best layout for your email readability."
 msgstr ""
+"Ces options offrent davantage d’espace d’aperçu et vous permettent de "
+"choisir la disposition optimale pour la lisibilité des e‑mails."
 
 #: ../../browsing_emails/toc.rst:34
 msgid ""
@@ -3767,6 +3868,12 @@ msgid ""
 "to easily switch between the views. If you choose **no split** option, "
 "you can easily hide emails list."
 msgstr ""
+"Vous pouvez également redimensionner les colonnes séparant la liste des e‑"
+"mails de l’aperçu. De plus, vous pouvez basculer entre les dispositions "
+"verticale et horizontale : l’icône « changer de vue », située à droite de la "
+"barre d’en‑tête des e‑mails, met à jour la disposition selon le choix, "
+"facilitant le basculement. Si vous choisissez l’option **sans division**, "
+"vous pouvez masquer facilement la liste des e‑mails."
 
 #: ../../browsing_emails/toc.rst:37
 msgid ""
@@ -3774,10 +3881,13 @@ msgid ""
 "email at hand, with the chance to browse between emails simply clicking "
 "the navigation arrows in the header bar."
 msgstr ""
+"Ainsi, vous évitez les distractions de la barre latérale, vous concentrez "
+"sur l’e‑mail en cours et pouvez naviguer entre les e‑mails en cliquant "
+"simplement sur les flèches de navigation de la barre d’en‑tête."
 
 #: ../../browsing_emails/toc.rst:41
 msgid "Using Message View"
-msgstr ""
+msgstr "Utilisation de la Vue Message"
 
 #: ../../browsing_emails/toc.rst:43
 msgid ""
@@ -3787,6 +3897,11 @@ msgid ""
 "users must manually search for each reply separately from their email "
 "list, which can be cumbersome and time-consuming."
 msgstr ""
+"La vue message offre une approche simple de gestion des e‑mails. Les "
+"utilisateurs peuvent rapidement localiser un e‑mail dans leur boîte de "
+"réception et le lire directement dans le panneau principal. Cependant, pour "
+"les réponses, ils doivent rechercher manuellement chaque réponse dans la "
+"liste, ce qui peut être fastidieux et chronophage."
 
 #: ../../browsing_emails/toc.rst:45
 msgid ""
@@ -3798,6 +3913,12 @@ msgid ""
 " and want to maintain a linear workflow without getting overwhelmed by "
 "grouped conversations."
 msgstr ""
+"La vue message est utile aux utilisateurs qui préfèrent traiter les e‑mails "
+"un par un. Elle offre une présentation claire et ciblée pour chaque e‑mail, "
+"facilitant la gestion et la réponse sans distraction des autres messages du "
+"même fil. Ce mode convient aux utilisateurs qui reçoivent un volume modéré "
+"d’e‑mails et souhaitent un flux de travail linéaire sans être submergés par "
+"des conversations groupées."
 
 #: ../../browsing_emails/toc.rst:47
 msgid ""
@@ -3806,10 +3927,14 @@ msgid ""
 "replying to. But remember, you can only see those earlier messages if the"
 " person who replied did not delete them when they wrote their reply."
 msgstr ""
+"Lorsque vous lisez un e‑mail, un bouton **AFFICHER LE TEXTE COTÉ** apparaît. "
+"En cliquant dessus, vous pouvez voir les e‑mails précédents auxquels celui‑"
+"ci répond. Notez que vous ne verrez ces messages que si l’expéditeur n’a pas "
+"supprimé le texte lors de sa réponse."
 
 #: ../../browsing_emails/toc.rst:56
 msgid "Using Conversation View"
-msgstr ""
+msgstr "Utilisation de la Vue Conversation"
 
 #: ../../browsing_emails/toc.rst:58
 msgid ""
@@ -3821,6 +3946,13 @@ msgid ""
 "This action reveals all the replies nested underneath, allowing users to "
 "review the entire conversation in a single, organized view."
 msgstr ""
+"La vue conversation offre une méthode complète pour suivre les échanges d’e‑"
+"mail au sein d’un fil. Les utilisateurs accèdent facilement à un e‑mail et à "
+"ses réponses en sélectionnant le fil correspondant dans la liste du panneau "
+"principal. Pour trouver une réponse précise, il suffit d’étendre le fil en "
+"cliquant sur la flèche vers le bas à côté de l’e‑mail d’origine. Toutes les "
+"réponses imbriquées s’affichent, permettant de consulter la conversation "
+"entière dans une vue unique et organisée."
 
 #: ../../browsing_emails/toc.rst:60
 msgid ""
@@ -3832,12 +3964,20 @@ msgid ""
 "Sent and Trash folders remain unaffected by this action and are not "
 "moved."
 msgstr ""
+"Les conversations peuvent s’étendre sur plusieurs dossiers. Par exemple, une "
+"conversation peut se trouver dans la boîte de réception, une autre dans les "
+"éléments envoyés, et d’autres dans un dossier différent. Lorsque vous "
+"déplacez une conversation d’un dossier à un autre, tous les messages de "
+"cette conversation sont déplacés vers le nouveau dossier. Les messages des "
+"dossiers Sent et Trash ne sont pas affectés et restent à leur emplacement."
 
 #: ../../browsing_emails/toc.rst:62
 msgid ""
 "To initiate a new conversation thread, you need to compose a new email "
 "rather than replying to or forwarding an existing email."
 msgstr ""
+"Pour lancer un nouveau fil de conversation, vous devez rédiger un nouvel e‑"
+"mail au lieu de répondre ou de transférer un e‑mail existant."
 
 #: ../../browsing_emails/toc.rst:64
 msgid ""
@@ -3852,10 +3992,19 @@ msgid ""
 "users save time by reducing the need to search for related emails "
 "scattered throughout their inbox."
 msgstr ""
+"La vue conversation est avantageuse pour les utilisateurs qui échangent "
+"fréquemment des e‑mails avec plusieurs participants. Regrouper les e‑mails "
+"connexes en fils facilite le suivi du déroulement, du contexte et de "
+"l’évolution des discussions. Ce mode est particulièrement utile aux "
+"collaborateurs de projets, aux participants à des discussions de groupe ou "
+"aux interlocuteurs multiples, car il améliore l’organisation et la "
+"compréhension des interactions complexes. De plus, la vue conversation fait "
+"gagner du temps en réduisant la recherche d’e‑mails liés dispersés dans la "
+"boîte de réception."
 
 #: ../../browsing_emails/toc.rst:72
 msgid "Reading Email Header Security Information"
-msgstr ""
+msgstr "Lecture des informations de sécurité de l’en‑tête d’e‑mail"
 
 #: ../../browsing_emails/toc.rst:74
 msgid ""
@@ -3863,18 +4012,21 @@ msgid ""
 "header will display specific security and informational criteria. This "
 "includes notifications for:"
 msgstr ""
+"Vous recevrez désormais des notifications visuelles dans le corps du e‑mail "
+"et l’en‑tête affichera des critères de sécurité et d’information "
+"spécifiques. Cela comprend des notifications pour :"
 
 #: ../../browsing_emails/toc.rst:76
 msgid "External domain origins"
-msgstr ""
+msgstr "Origines de domaine externe"
 
 #: ../../browsing_emails/toc.rst:77
 msgid "Signatures, such as DMARC and DKIM"
-msgstr ""
+msgstr "Signatures, telles que DMARC et DKIM"
 
 #: ../../browsing_emails/toc.rst:78
 msgid "Confidentiality markers"
-msgstr ""
+msgstr "Marqueurs de confidentialité"
 
 #: ../../browsing_emails/toc.rst:79
 msgid "Distribution-list origins"
@@ -4139,6 +4291,12 @@ msgid ""
 "a 30-day window after deletion (unless your system administrator sets it "
 "otherwise). Beyond this period, the items will be permanently removed."
 msgstr ""
+"Vous pouvez également supprimer un e‑mail en le sélectionnant et en "
+"utilisant la touche de raccourci **Delete** sur votre clavier. Les e‑mails "
+"supprimés sont alors déplacés vers votre dossier Corbeille. Vous pouvez "
+"récupérer les éléments de la Corbeille dans un délai de 30 jours après la "
+"suppression (sauf si votre administrateur système en décide autrement). Au‑"
+"delà de cette période, les éléments sont définitivement supprimés."
 
 #: ../../browsing_emails/toc.rst:182
 msgid ""
@@ -4304,60 +4462,70 @@ msgid ""
 "A new tab will open in your browser displaying the email, along with a "
 "window for adjusting printer settings. Make any necessary adjustments."
 msgstr ""
+"Un nouvel onglet s'ouvrira dans votre navigateur affichant le courriel, "
+"ainsi qu’une fenêtre de réglage des paramètres d’impression. Effectuez les "
+"ajustements nécessaires."
 
 #: ../../browsing_emails/toc.rst:235
 msgid "Click the Print button to proceed with printing."
-msgstr ""
+msgstr "Cliquez sur le bouton Print pour lancer l’impression."
 
 #: ../../browsing_emails/toc.rst:243 ../../mobile_apps/mail_app.rst:132
 msgid "Actions on Multiple Emails at Once"
-msgstr ""
+msgstr "Actions sur plusieurs courriels simultanément"
 
 #: ../../browsing_emails/toc.rst:245
 msgid "To perform an action on multiple emails:"
-msgstr ""
+msgstr "Pour effectuer une action sur plusieurs courriels :"
 
 #: ../../browsing_emails/toc.rst:247
 msgid ""
 "Click on the check mark icon at the top left corner of your main panel to"
 " enter selection mode."
 msgstr ""
+"Cliquez sur l’icône coche en haut à gauche de votre panneau principal pour "
+"passer en mode sélection."
 
 #: ../../browsing_emails/toc.rst:248
 msgid "Select the empty circles beside each email you wish to choose."
-msgstr ""
+msgstr "Cochez les cercles vides à côté de chaque courriel à sélectionner."
 
 #: ../../browsing_emails/toc.rst:249
 msgid ""
 "Click on the three vertical dots icon at the top right corner of the "
 "email list."
 msgstr ""
+"Cliquez sur l’icône à trois points verticaux en haut à droite de la liste de "
+"courriels."
 
 #: ../../browsing_emails/toc.rst:250
 msgid "Choose the action you want to perform."
-msgstr ""
+msgstr "Choisissez l’action à exécuter."
 
 #: ../../browsing_emails/toc.rst:252
 msgid ""
 "The available actions for multiple emails include marking as unread, "
 "adding a flag, moving, and tagging."
 msgstr ""
+"Les actions disponibles pour plusieurs courriels sont : marquer comme non "
+"lu, ajouter un drapeau, déplacer et taguer."
 
 #: ../../browsing_emails/toc.rst:254
 msgid "To delete multiple emails at once:"
-msgstr ""
+msgstr "Pour supprimer plusieurs courriels d’un coup :"
 
 #: ../../browsing_emails/toc.rst:256
 msgid "Select multiple emails as described above."
-msgstr ""
+msgstr "Sélectionnez plusieurs courriels comme indiqué ci‑dessus."
 
 #: ../../browsing_emails/toc.rst:257
 msgid "Click on the trash icon at the top right corner of your email list."
 msgstr ""
+"Cliquez sur l’icône corbeille en haut à droite de votre liste de courriels."
 
 #: ../../browsing_emails/toc.rst:265
 msgid "Sorting Emails"
-msgstr ""
+msgstr "Tri des courriels"
 
 #: ../../browsing_emails/toc.rst:267
 msgid ""
@@ -4366,32 +4534,40 @@ msgid ""
 "unread status, importance, flagged status, presence of attachments, "
 "sender, date, and subject."
 msgstr ""
+"Le tri des courriels offre une grande utilité dans divers scénarios. Vous "
+"pouvez les classer selon le statut non lu, l’importance, le drapeau, la "
+"présence de pièces jointes, l’expéditeur, la date ou le sujet."
 
 #: ../../browsing_emails/toc.rst:269
 msgid ""
 "To initiate sorting, click on the **sorting icon** located in the top "
 "right corner of your email list."
 msgstr ""
+"Pour lancer le tri, cliquez sur l’**sorting icon** en haut à droite de votre "
+"liste de courriels."
 
 #: ../../browsing_emails/toc.rst:270
 msgid "Choose your preferred sorting criterion from the options provided."
-msgstr ""
+msgstr "Choisissez le critère de tri souhaité parmi les options."
 
 #: ../../browsing_emails/toc.rst:271
 msgid ""
 "Once selected, click on the sorting icon again to toggle between "
 "ascending and descending order as per your preference."
 msgstr ""
+"Une fois choisi, cliquez de nouveau sur l’**sorting icon** pour basculer "
+"entre ordre croissant et décroissant."
 
 #: ../../browsing_emails/toc.rst:273
 msgid ""
 "The default sorting mode automatically arranges emails based on their "
 "dates."
 msgstr ""
+"Le mode de tri par défaut classe automatiquement les courriels par date."
 
 #: ../../browsing_emails/toc.rst:282
 msgid "Emails date format"
-msgstr ""
+msgstr "Format de date des courriels"
 
 #: ../../browsing_emails/toc.rst:284
 msgid ""
@@ -4399,6 +4575,8 @@ msgid ""
 "current day, it will always be displayed with the full date and time, "
 "with the complete timestamp."
 msgstr ""
+"Pour plus de clarté, les courriels d’une date antérieure à aujourd’hui "
+"affichent toujours la date complète et l’heure, avec le timestamp complet."
 
 #: ../../browsing_emails/toc.rst:286
 msgid ""
@@ -4978,7 +5156,7 @@ msgstr "Partage d’agendas avec vos collègues"
 
 #: ../../calendars/toc.rst:191
 msgid "Share a Calendar Internally"
-msgstr ""
+msgstr "Partager un calendrier en interne"
 
 #: ../../calendars/toc.rst:193
 msgid "To share your calendar with your colleagues:"
@@ -4998,17 +5176,19 @@ msgstr "Dans le menu déroulant, choisissez **Share Calendar**."
 
 #: ../../calendars/toc.rst:198
 msgid "In the **Share with** field, select *Internal Users or Groups*."
-msgstr ""
+msgstr "Dans le champ **Share with**, sélectionnez *Internal Users or Groups*."
 
 #: ../../calendars/toc.rst:199
 msgid ""
 "Enter the email addresses of your colleagues in the **Recipients’ e-mail "
 "addresses** field."
 msgstr ""
+"Saisissez les adresses e‑mail de vos collègues dans le champ **Recipients’ e-"
+"mail addresses**."
 
 #: ../../calendars/toc.rst:200
 msgid "Select the desired **Role**."
-msgstr ""
+msgstr "Sélectionnez le **Role** souhaité."
 
 #: ../../calendars/toc.rst:201
 msgid "Click the **SHARE CALENDAR** button."
@@ -5016,79 +5196,92 @@ msgstr "Cliquez sur le bouton **SHARE CALENDAR**."
 
 #: ../../calendars/toc.rst:204
 msgid "Preventing Duplicate Shares (New Behavior)"
-msgstr ""
+msgstr "Empêcher les partages en double (nouveau comportement)"
 
 #: ../../calendars/toc.rst:206
 msgid ""
 "If a user tries to share the same calendar with the **same user** and the"
 " **same role** more than once, the system now:"
 msgstr ""
+"Si un utilisateur tente de partager le même calendrier avec le **same user** "
+"et le **same role** plus d’une fois, le système :"
 
 #: ../../calendars/toc.rst:208
 msgid "Displays a **warning icon** on the affected chips."
-msgstr ""
+msgstr "Affiche une **warning icon** sur les puces concernées."
 
 #: ../../calendars/toc.rst:209
 msgid "Shows an explanatory **error string** below the input."
-msgstr ""
+msgstr "Affiche une **error string** explicative sous le champ."
 
 #: ../../calendars/toc.rst:210
 msgid ""
 "Provides a **tooltip** on both the warning icon and the disabled "
 "**Confirm** button."
 msgstr ""
+"Fournit un **tooltip** sur l’icône d’avertissement et sur le bouton "
+"**Confirm** désactivé."
 
 #: ../../calendars/toc.rst:212
 msgid ""
 "If the role is changed for a user with whom the calendar was already "
 "shared, the action is allowed because the configuration differs."
 msgstr ""
+"Si le rôle est modifié pour un utilisateur avec qui le calendrier était déjà "
+"partagé, l’action est autorisée car la configuration diffère."
 
 #: ../../calendars/toc.rst:215
 msgid "Role Change Notifications (Improved Behavior)"
-msgstr ""
+msgstr "Notifications de changement de rôle (comportement amélioré)"
 
 #: ../../calendars/toc.rst:217
 msgid ""
 "Previously, changing the role of a shared user generated a new "
 "confirmation request and, once accepted, created a duplicate mount point."
 msgstr ""
+"Auparavant, modifier le rôle d’un utilisateur partagé générait une nouvelle "
+"demande de confirmation et, une fois acceptée, créait un point de montage en "
+"double."
 
 #: ../../calendars/toc.rst:219
 msgid "Now:"
-msgstr ""
+msgstr "À présent :"
 
 #: ../../calendars/toc.rst:221
 msgid "No confirmation request is generated."
-msgstr ""
+msgstr "Aucune demande de confirmation n’est générée."
 
 #: ../../calendars/toc.rst:222
 msgid ""
 "The user simply receives a **notification** informing them about the role"
 " change."
 msgstr ""
+"L’utilisateur reçoit simplement une **notification** l’informant du "
+"changement de rôle."
 
 #: ../../calendars/toc.rst:223
 msgid "No duplicate calendars appear in the secondary bar."
-msgstr ""
+msgstr "Aucun calendrier en double n’apparaît dans la barre secondaire."
 
 #: ../../calendars/toc.rst:226
 msgid "Sharing via URL"
-msgstr ""
+msgstr "Partage via URL"
 
 #: ../../calendars/toc.rst:230 ../../calendars/toc.rst:296
 msgid "Select **Calendar’s access share**."
-msgstr ""
+msgstr "Sélectionnez **partage d’accès du calendrier**."
 
 #: ../../calendars/toc.rst:231
 msgid "Choose either **ICS URL** or **OUTLOOK URL**."
-msgstr ""
+msgstr "Choisissez **ICS URL** ou **OUTLOOK URL**."
 
 #: ../../calendars/toc.rst:233
 msgid ""
 "The link is copied to your clipboard and can be pasted into an email or "
 "message."
 msgstr ""
+"Le lien est copié dans le presse‑papiers et peut être collé dans un e‑mail "
+"ou un message."
 
 #: ../../calendars/toc.rst:236
 msgid "Find Colleagues' Shared Calendars"
@@ -5096,33 +5289,35 @@ msgstr "Trouver les agendas partagés des collègues"
 
 #: ../../calendars/toc.rst:238
 msgid "To find and add shared calendars:"
-msgstr ""
+msgstr "Pour trouver et ajouter des calendriers partagés :"
 
 #: ../../calendars/toc.rst:240
 msgid "Select **Calendars** from the left sidebar."
-msgstr ""
+msgstr "Sélectionnez **Calendars** dans la barre latérale gauche."
 
 #: ../../calendars/toc.rst:241
 msgid "In the Navigation Panel, click the **FIND SHARES** button."
-msgstr ""
+msgstr "Dans le panneau de navigation, cliquez sur le bouton **FIND SHARES**."
 
 #: ../../calendars/toc.rst:242
 msgid ""
 "Begin typing your colleague’s email address and choose it from the "
 "suggestions."
 msgstr ""
+"Commencez à saisir l’adresse e‑mail de votre collègue et choisissez‑la parmi "
+"les suggestions."
 
 #: ../../calendars/toc.rst:243
 msgid "Select the shared calendar from the list."
-msgstr ""
+msgstr "Sélectionnez le calendrier partagé dans la liste."
 
 #: ../../calendars/toc.rst:244
 msgid "Click **ADD**."
-msgstr ""
+msgstr "Cliquez sur **ADD**."
 
 #: ../../calendars/toc.rst:246
 msgid "The shared calendar will appear in your list."
-msgstr ""
+msgstr "Le calendrier partagé apparaîtra dans votre liste."
 
 #: ../../calendars/toc.rst:249
 msgid "Sharing Calendars with External Users"
@@ -5133,6 +5328,9 @@ msgid ""
 "Zextras |product| allows calendars to be shared with users outside your "
 "domain. Public calendar shares are read-only and allow external users to:"
 msgstr ""
+"Zextras |product| permet de partager des calendriers avec des utilisateurs "
+"hors de votre domaine. Les partages publics de calendrier sont en lecture "
+"seule et permettent aux utilisateurs externes de :"
 
 #: ../../calendars/toc.rst:253
 msgid "View calendar events"
@@ -5140,11 +5338,11 @@ msgstr "Afficher les évènements de l’agenda"
 
 #: ../../calendars/toc.rst:254
 msgid "Subscribe via ICS"
-msgstr ""
+msgstr "S’abonner via ICS"
 
 #: ../../calendars/toc.rst:255
 msgid "Access without authentication"
-msgstr ""
+msgstr "Accéder sans authentification"
 
 #: ../../calendars/toc.rst:258
 msgid "Free/Busy Status Sharing"
@@ -5155,10 +5353,12 @@ msgid ""
 "Only availability information (free/busy) is exposed, without revealing "
 "event details."
 msgstr ""
+"Seules les informations de disponibilité (libre/occupé) sont exposées, sans "
+"révéler les détails des événements."
 
 #: ../../calendars/toc.rst:263
 msgid "How to Share a Calendar"
-msgstr ""
+msgstr "Comment partager un calendrier"
 
 #: ../../calendars/toc.rst:266
 msgid "Step 1: Configure Sharing"
@@ -5166,85 +5366,92 @@ msgstr "Étape 1 : Configurer le partage"
 
 #: ../../calendars/toc.rst:268
 msgid "Access *Carbonio Webmail → Calendars*."
-msgstr ""
+msgstr "Accédez à *Carbonio Webmail → Calendars*."
 
 #: ../../calendars/toc.rst:269
 msgid "Right-click on the desired calendar."
-msgstr ""
+msgstr "Cliquez droit sur le calendrier souhaité."
 
 #: ../../calendars/toc.rst:270
 msgid "Select **Edit calendar properties**."
-msgstr ""
+msgstr "Sélectionnez **Edit calendar properties**."
 
 #: ../../calendars/toc.rst:271
 msgid "Click **ADD SHARE**."
-msgstr ""
+msgstr "Cliquez sur **ADD SHARE**."
 
 #: ../../calendars/toc.rst:272
 msgid "Choose the share configuration."
-msgstr ""
+msgstr "Choisissez la configuration de partage."
 
 #: ../../calendars/toc.rst:275
 msgid "Share with Public: New Checkbox Interface"
-msgstr ""
+msgstr "Partage public : nouvelle interface à case à cocher"
 
 #: ../../calendars/toc.rst:277
 msgid ""
 "The *Share with public* option is now a **checkbox**, simplifying the "
 "process:"
 msgstr ""
+"L’option *Share with public* est maintenant une **case à cocher**, "
+"simplifiant le processus :"
 
 #: ../../calendars/toc.rst:279
 msgid "When checked, the calendar becomes publicly visible in read-only mode."
 msgstr ""
+"Lorsqu’elle est cochée, le calendrier devient visible publiquement en "
+"lecture seule."
 
 #: ../../calendars/toc.rst:280
 msgid "The entry **Public** appears in the share list as before."
-msgstr ""
+msgstr "L’entrée **Public** apparaît dans la liste de partage comme auparavant."
 
 #: ../../calendars/toc.rst:281
 msgid "Revoking the public share automatically **unchecks** the box."
-msgstr ""
+msgstr "La révocation du partage public décoche automatiquement la case."
 
 #: ../../calendars/toc.rst:283
 msgid ""
 "This improvement avoids errors that occurred when selecting the same "
 "option multiple times from a dropdown."
 msgstr ""
+"Cette amélioration évite les erreurs survenant lors de la sélection répétée "
+"de la même option dans un menu déroulant."
 
 #: ../../calendars/toc.rst:286
 msgid "Step 2: Obtain Sharing Links"
-msgstr ""
+msgstr "Étape 2 : obtenir les liens de partage"
 
 #: ../../calendars/toc.rst:288
 msgid "The system generates two URLs:"
-msgstr ""
+msgstr "Le système génère deux URL :"
 
 #: ../../calendars/toc.rst:290
 msgid ""
 "**ICS URL** — compatible with Google Calendar, Apple Calendar, "
 "Thunderbird."
 msgstr ""
+"**ICS URL** — compatible avec Google Calendar, Apple Calendar, Thunderbird."
 
 #: ../../calendars/toc.rst:291
 msgid "**Outlook WebDAV URL** — for Microsoft Outlook."
-msgstr ""
+msgstr "**Outlook WebDAV URL** — pour Microsoft Outlook."
 
 #: ../../calendars/toc.rst:293
 msgid "To access these links:"
-msgstr ""
+msgstr "Pour accéder à ces liens :"
 
 #: ../../calendars/toc.rst:295
 msgid "Right-click on the shared calendar."
-msgstr ""
+msgstr "Cliquez droit sur le calendrier partagé."
 
 #: ../../calendars/toc.rst:297
 msgid "Copy the desired link."
-msgstr ""
+msgstr "Copiez le lien souhaité."
 
 #: ../../calendars/toc.rst:300
 msgid "Free/Busy URL Format"
-msgstr ""
+msgstr "Format d’URL Free/Busy"
 
 #: ../../calendars/toc.rst:307
 msgid "How to Share Free/Busy Status"
@@ -5252,23 +5459,24 @@ msgstr "Comment partager le statut Libre/Occupé"
 
 #: ../../calendars/toc.rst:309
 msgid "Copy the ICS Free/Busy URL."
-msgstr ""
+msgstr "Copiez l’URL ICS Free/Busy."
 
 #: ../../calendars/toc.rst:310
 msgid "Share it with external users."
-msgstr ""
+msgstr "Partagez-le avec des utilisateurs externes."
 
 #: ../../calendars/toc.rst:311
 msgid "They can view availability without accessing event details."
 msgstr ""
+"Ils peuvent voir les disponibilités sans accéder aux détails des événements."
 
 #: ../../calendars/toc.rst:314
 msgid "Upcoming Improvements: Dedicated Sharing Modal"
-msgstr ""
+msgstr "Améliorations à venir : modal de partage dédié"
 
 #: ../../calendars/toc.rst:316
 msgid "To improve clarity and avoid stacked modals:"
-msgstr ""
+msgstr "Pour améliorer la clarté et éviter les modaux empilés :"
 
 #: ../../calendars/toc.rst:318
 msgid "The sharing process will be moved into a **single dedicated modal**."
@@ -5545,7 +5753,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:416
 msgid "Configure a CalDAV Client"
-msgstr ""
+msgstr "Configurer un client CalDAV"
 
 #: ../../calendars/toc.rst:418
 msgid ""
@@ -5554,6 +5762,10 @@ msgid ""
 "identical on any client; in the box at the end of this section we mention"
 " which are the differences."
 msgstr ""
+"Ajouter un calendrier |product| à votre client CalDAV préféré est simple et "
+"ne nécessite que quelques étapes. La procédure est quasi identique sur tout "
+"client ; dans le cadre à la fin de cette section, nous indiquons les "
+"différences."
 
 #: ../../calendars/toc.rst:423
 msgid ""
@@ -5562,20 +5774,25 @@ msgid ""
 "*mail.example.com*. In the remainder, replace these values with suitable "
 "ones."
 msgstr ""
+"Dans ce scénario, l’utilisateur *john.smith@example.com* souhaite configurer "
+"dans Mozilla Thunderbird un calendrier nommé *Calendar* sur le domaine "
+"*mail.example.com*. Dans la suite, remplacez ces valeurs par les appropriées."
 
 #: ../../calendars/toc.rst:428
 msgid "Step 1.  New Calendar"
-msgstr ""
+msgstr "Étape 1. Nouveau calendrier"
 
 #: ../../calendars/toc.rst:430
 msgid ""
 "On your client, go to the Calendar and select **New Calendar...**. Choose"
 " **On the Network**"
 msgstr ""
+"Dans votre client, accédez à Calendrier et sélectionnez **New Calendar...**. "
+"Choisissez **On the Network**"
 
 #: ../../calendars/toc.rst:437
 msgid "Step 2."
-msgstr ""
+msgstr "Étape 2."
 
 #: ../../calendars/toc.rst:439
 msgid ""
@@ -5583,22 +5800,26 @@ msgid ""
 "``https://<domain>/dav/username``, so "
 "*https://mail.example.com/dav/john.smith@example.com*"
 msgstr ""
+"Saisissez le **Username** et le **Location**, dont le format est ``https://"
+"<domain>/dav/username`` ; par exemple *https://mail.example.com/dav/"
+"john.smith@example.com*"
 
 #: ../../calendars/toc.rst:448
 msgid "Step 3."
-msgstr ""
+msgstr "Étape 3."
 
 #: ../../calendars/toc.rst:450
 msgid "You will be then presented a list, from which to choose *Calendar*."
 msgstr ""
+"Une liste vous sera alors présentée, d’où vous pourrez choisir *Calendar*."
 
 #: ../../calendars/toc.rst:452
 msgid "You are now done! the calendar will show up in the list of your client."
-msgstr ""
+msgstr "C’est terminé ! le calendrier apparaîtra dans la liste de votre client."
 
 #: ../../calendars/toc.rst:458 ../../contacts/toc.rst:353
 msgid "Other clients"
-msgstr ""
+msgstr "Autres clients"
 
 #: ../../calendars/toc.rst:460
 msgid ""
@@ -5609,6 +5830,11 @@ msgid ""
 "*https://mail.example.com/dav/john.smith@example.com/Calendar* as the "
 "URL."
 msgstr ""
+"CalDAV est un protocole standard ; les données nécessaires pour configurer "
+"un client sont un nom d’utilisateur, une URL et le nom d’un calendrier. La "
+"seule différence est que certains clients exigent que le nom du calendrier "
+"fasse partie de l’URL, auquel cas vous devrez fournir *https://"
+"mail.example.com/dav/john.smith@example.com/Calendar* comme URL."
 
 #: ../../chat/toc.rst:7
 msgid "Working with Chats"
@@ -7756,13 +7982,15 @@ msgstr "Exemple de fichier CSV"
 
 #: ../../contacts/toc.rst:314
 msgid "Configure a CardDav Client"
-msgstr ""
+msgstr "Configurer un client CardDAV"
 
 #: ../../contacts/toc.rst:316
 msgid ""
 "Adding a |product| address book to your favourite CardDAV client is "
 "straightforward and requires only a few steps."
 msgstr ""
+"Ajouter un carnet d’adresses |product| à votre client CardDAV préféré est "
+"simple et ne nécessite que quelques étapes."
 
 #: ../../contacts/toc.rst:319
 msgid ""
@@ -7770,10 +7998,13 @@ msgid ""
 "Mozilla's Thunderbird an address book from the domain *mail.example.com*."
 " In the remainder, replace these values with suitable ones."
 msgstr ""
+"Dans ce scénario, l’utilisateur *john.smith@example.com* souhaite importer "
+"dans Mozilla Thunderbird un carnet d’adresses depuis le domaine "
+"*mail.example.com*. Dans la suite, remplacez ces valeurs par les appropriées."
 
 #: ../../contacts/toc.rst:324
 msgid "Step 1. New Address book"
-msgstr ""
+msgstr "Étape 1. Nouveau carnet d'adresses"
 
 #: ../../contacts/toc.rst:326
 msgid ""
@@ -7782,32 +8013,42 @@ msgid ""
 "``https://<domain>/dav/username``, so "
 "*https://mail.example.com/dav/john.smith@example.com*"
 msgstr ""
+"Dans votre client, ouvrez le Calendrier et sélectionnez **New Address "
+"Book**, en renseignant le **Username** et le **Location**, au format "
+"``https://<domain>/dav/username``, par exemple *https://mail.example.com/dav/"
+"john.smith@example.com*"
 
 #: ../../contacts/toc.rst:335
 msgid "Step 2. Insert credentials"
-msgstr ""
+msgstr "Étape 2. Saisir les identifiants"
 
 #: ../../contacts/toc.rst:337
 msgid ""
 "Authenticate to |product| by inserting the username and password to "
 "access the address book."
 msgstr ""
+"Authentifiez-vous auprès de |product| en saisissant le nom d'utilisateur et "
+"le mot de passe pour accéder au carnet d'adresses."
 
 #: ../../contacts/toc.rst:344
 msgid "Step 3. Select Address Books"
-msgstr ""
+msgstr "Étape 3. Sélectionner les carnets d'adresses"
 
 #: ../../contacts/toc.rst:346
 msgid ""
 "You will be then presented a list, from which to choose the address books"
 " to import in the client."
 msgstr ""
+"Une liste vous sera alors présentée, vous permettant de choisir les carnets "
+"d'adresses à importer dans le client."
 
 #: ../../contacts/toc.rst:355
 msgid ""
 "You are now done! The imported address books will show up in the list of "
 "your client."
 msgstr ""
+"Terminé ! Les carnets d'adresses importés apparaîtront dans la liste de "
+"votre client."
 
 #: ../../files/toc.rst:7
 msgid "Working with Files"
@@ -8811,7 +9052,7 @@ msgstr ""
 
 #: ../../files/toc.rst:399
 msgid "**Public download links:**"
-msgstr ""
+msgstr "**Liens de téléchargement publics :**"
 
 #: ../../files/toc.rst:401
 msgid ""
@@ -8824,15 +9065,15 @@ msgstr ""
 
 #: ../../files/toc.rst:405
 msgid "Adding Collaborators to a File / Folder"
-msgstr ""
+msgstr "Ajouter des collaborateurs à un fichier / dossier"
 
 #: ../../files/toc.rst:407
 msgid "To add collaborators to a file or folder in Files:"
-msgstr ""
+msgstr "Pour ajouter des collaborateurs à un fichier ou dossier dans Fichiers :"
 
 #: ../../files/toc.rst:410 ../../files/toc.rst:426
 msgid "Click on the folder or folder to which you want to grant access."
-msgstr ""
+msgstr "Cliquez sur le dossier auquel vous souhaitez accorder l'accès."
 
 #: ../../files/toc.rst:412
 msgid ""
@@ -8840,12 +9081,17 @@ msgid ""
 "colleagues you wish to share the item with and select them from the "
 "suggestions."
 msgstr ""
+"Dans la section Collaborateurs, commencez à saisir les adresses e‑mail des "
+"collègues avec qui vous souhaitez partager l'élément et sélectionnez‑les "
+"dans les suggestions."
 
 #: ../../files/toc.rst:413
 msgid ""
 "Click on the eye icon next to the name of the colleague you have just "
 "inserted."
 msgstr ""
+"Cliquez sur l'icône œil à côté du nom du collaborateur que vous venez "
+"d'ajouter."
 
 #: ../../files/toc.rst:414
 msgid ""
@@ -8853,37 +9099,42 @@ msgid ""
 "from the menu. You can also decide whether this user can share the item "
 "with others by checking the **Sharing allowed checkbox**."
 msgstr ""
+"Choisissez le niveau d'accès à attribuer, tel que **Viewer** ou **Editor**, "
+"dans le menu. Vous pouvez également décider si cet utilisateur peut partager "
+"l'élément avec d'autres en cochant la case **Sharing allowed checkbox**."
 
 #: ../../files/toc.rst:415
 msgid "Click the **SHARE** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **SHARE**."
 
 #: ../../files/toc.rst:423
 msgid "Removing Collaborators from a File / Folder"
-msgstr ""
+msgstr "Supprimer des collaborateurs d'un fichier / dossier"
 
 #: ../../files/toc.rst:428
 msgid ""
 "In the Collaborators section, hover your mouse cursor over the name of "
 "the colleague. Small buttons will appear next to their name."
 msgstr ""
+"Dans la section Collaborateurs, survolez le nom du collaborateur avec la "
+"souris. De petits boutons apparaîtront à côté de son nom."
 
 #: ../../files/toc.rst:429
 msgid "Click on the **x** button to remove them from the list."
-msgstr ""
+msgstr "Cliquez sur le bouton **x** pour le retirer de la liste."
 
 #: ../../files/toc.rst:432
 msgid "Generating Collaboration Links for Colleagues"
-msgstr ""
+msgstr "Générer des liens de collaboration pour les collègues"
 
 #: ../../files/toc.rst:434
 msgid "To generate a collaboration link for your colleagues:"
-msgstr ""
+msgstr "Pour générer un lien de collaboration pour vos collègues :"
 
 #: ../../files/toc.rst:438 ../../files/toc.rst:452 ../../files/toc.rst:471
 #: ../../files/toc.rst:483 ../../files/toc.rst:496
 msgid "Navigate to the file or folder and click on it."
-msgstr ""
+msgstr "Accédez au fichier ou dossier et cliquez dessus."
 
 #: ../../files/toc.rst:442
 msgid ""
@@ -8895,26 +9146,35 @@ msgid ""
 "any doubts, please contact your system administrator. The public link has"
 " been extended to enhance security."
 msgstr ""
+"Vous pouvez copier le lien généré en cliquant dessus. Le lien est copié dans "
+"le presse‑papier et peut être collé n'importe où en cliquant droit et en "
+"sélectionnant **Paste**, ou en utilisant le raccourci clavier CTRL+V sous "
+"Windows ou Command+V sous macOS. Dans la version actuelle, vous pouvez "
+"générer jusqu'à 50 liens publics maximum par fichier à partager. En cas de "
+"doute, contactez votre administrateur système. Le lien public a été étendu "
+"pour renforcer la sécurité."
 
 #: ../../files/toc.rst:447
 msgid "Generating Public Download Links for External Users"
 msgstr ""
+"Générer des liens de téléchargement publics pour les utilisateurs externes"
 
 #: ../../files/toc.rst:449
 msgid "To generate a sharing link external user:"
-msgstr ""
+msgstr "Pour générer un lien de partage pour un utilisateur externe :"
 
 #: ../../files/toc.rst:466
 msgid "Extending the Expiration Date of a Public Access Link"
-msgstr ""
+msgstr "Prolonger la date d'expiration d'un lien d'accès public"
 
 #: ../../files/toc.rst:468
 msgid "To extend the expiration date for a public access link:"
-msgstr ""
+msgstr "Pour prolonger la date d'expiration d'un lien d'accès public :"
 
 #: ../../files/toc.rst:473
 msgid "Under the **Public download links** section, click on the **EDIT** button."
 msgstr ""
+"Dans la section **Public download links**, cliquez sur le bouton **EDIT**."
 
 #: ../../files/toc.rst:474
 msgid "Edit the expiration date."
@@ -9244,6 +9504,10 @@ msgid ""
 "system administrator. When enabled, accessing your webmail requires an "
 "additional verification step for enhanced security."
 msgstr ""
+"L'authentification à deux facteurs (2FA) est une fonctionnalité de sécurité "
+"activée par votre administrateur système. Lorsqu'elle est activée, l'accès à "
+"votre webmail nécessite une étape de vérification supplémentaire pour "
+"renforcer la sécurité."
 
 #: ../../get_started/toc.rst:33
 msgid ""
@@ -9253,20 +9517,29 @@ msgid ""
 "credentials to access your account and the necessary permissions to "
 "configure 2FA."
 msgstr ""
+"Avant de pouvoir vous connecter avec la 2FA, vous devez avoir configuré "
+"votre méthode de deuxième facteur dans les préférences de votre webmail. Si "
+"la configuration n’est pas encore terminée, vous pouvez demander à votre "
+"administrateur système les identifiants d'accès à votre compte ainsi que les "
+"autorisations nécessaires pour configurer la 2FA."
 
 #: ../../get_started/toc.rst:36
 msgid ""
 "Once you have access to your account and the required permissions, you "
 "can configure 2FA as described below."
 msgstr ""
+"Une fois l'accès à votre compte et les autorisations requis obtenus, vous "
+"pouvez configurer la 2FA comme indiqué ci‑dessous."
 
 #: ../../get_started/toc.rst:39
 msgid "1. Accessing 2FA Settings"
-msgstr ""
+msgstr "1. Accéder aux paramètres 2FA"
 
 #: ../../get_started/toc.rst:41
 msgid "Click the **gear icon** in the left sidebar of your webmail interface."
 msgstr ""
+"Cliquez sur l'**icône d'engrenage** dans la barre latérale gauche de votre "
+"interface webmail."
 
 #: ../../get_started/toc.rst:42
 msgid "Navigate to the **Auth** section."
@@ -9274,33 +9547,38 @@ msgstr "Accédez à la section **Auth**."
 
 #: ../../get_started/toc.rst:43
 msgid "Open **OTP Authentication** and click **NEW OTP**."
-msgstr ""
+msgstr "Ouvrez **OTP Authentication** et cliquez sur **NEW OTP**."
 
 #: ../../get_started/toc.rst:46
 msgid "2. Creating an OTP"
-msgstr ""
+msgstr "2. Créer un OTP"
 
 #: ../../get_started/toc.rst:48
 msgid "Insert a **label** to identify the new OTP (e.g., ``myOTP1``)."
-msgstr ""
+msgstr "Saisissez un **label** pour identifier le nouveau OTP (ex. ``myOTP1``)."
 
 #: ../../get_started/toc.rst:49
 msgid "Click **CREATE PASSWORD**."
-msgstr ""
+msgstr "Cliquez sur **CREATE PASSWORD**."
 
 #: ../../get_started/toc.rst:50
 msgid ""
 "After creation, you can complete the setup using one of the two available"
 " authentication methods:"
 msgstr ""
+"Après création, vous pouvez finaliser la configuration en utilisant l'une "
+"des deux méthodes d'authentification disponibles :"
 
 #: ../../get_started/toc.rst:52
 msgid "**Option A:** Scanning a **QR code** with an authenticator app."
 msgstr ""
+"**Option A :** Scanner un **QR code** avec une application "
+"d'authentification."
 
 #: ../../get_started/toc.rst:53
 msgid "**Option B:** Generating **PIN codes** for manual authentication."
 msgstr ""
+"**Option B :** Générer des **PIN codes** pour une authentification manuelle."
 
 #: ../../get_started/toc.rst:56
 msgid ""
@@ -9308,84 +9586,103 @@ msgid ""
 " factor will not be requested the next time you sign in. The duration of "
 "this trust is defined by your system administrator."
 msgstr ""
+"Vous pouvez choisir de faire confiance à votre environnement de connexion "
+"actuel afin que le second facteur ne soit pas demandé lors de votre "
+"prochaine connexion. La durée de cette confiance est définie par votre "
+"administrateur système."
 
 #: ../../get_started/toc.rst:59
 msgid "3. Option A — Using an Authenticator App"
-msgstr ""
+msgstr "3. Option A — Utilisation d’une Authenticator App"
 
 #: ../../get_started/toc.rst:61
 msgid ""
 "Install a supported authenticator app (e.g., **Google Authenticator** or "
 "**MS auth**) on your mobile device."
 msgstr ""
+"Installez une application d’authentification prise en charge (p. ex. "
+"**Google Authenticator** ou **MS auth**) sur votre appareil mobile."
 
 #: ../../get_started/toc.rst:62
 msgid "Open the app and press the **+** button."
-msgstr ""
+msgstr "Ouvrez l’application et appuyez sur le bouton **+**."
 
 #: ../../get_started/toc.rst:63
 msgid "Scan the **QR code** displayed in your webmail."
-msgstr ""
+msgstr "Scannez le **QR code** affiché dans votre webmail."
 
 #: ../../get_started/toc.rst:64
 msgid ""
 "The app will create an entry that generates a **temporary verification "
 "code**, refreshed every 30 seconds."
 msgstr ""
+"L’application créera une entrée qui génère un **temporary verification "
+"code**, rafraîchi toutes les 30 secondes."
 
 #: ../../get_started/toc.rst:67
 msgid "4. Option B — Using PIN Codes"
-msgstr ""
+msgstr "4. Option B — Utilisation de codes PIN"
 
 #: ../../get_started/toc.rst:69
 msgid ""
 "Select the option to generate **PIN codes** instead of scanning the QR "
 "code."
 msgstr ""
+"Sélectionnez l’option permettant de générer des **PIN codes** au lieu de "
+"scanner le QR code."
 
 #: ../../get_started/toc.rst:70
 msgid "A list of **12 single-use PINs** will be displayed."
-msgstr ""
+msgstr "Une liste de **12 PIN à usage unique** sera affichée."
 
 #: ../../get_started/toc.rst:71
 msgid "Print the list and keep it in a safe location."
-msgstr ""
+msgstr "Imprimez la liste et conservez‑la dans un endroit sûr."
 
 #: ../../get_started/toc.rst:72
 msgid ""
 "Each PIN can only be used **once** to complete the second-factor "
 "authentication."
 msgstr ""
+"Chaque PIN ne peut être utilisé **qu’une fois** pour terminer "
+"l’authentification à deux facteurs."
 
 #: ../../get_started/toc.rst:75
 msgid "5. Logging In with 2FA"
-msgstr ""
+msgstr "5. Connexion avec 2FA"
 
 #: ../../get_started/toc.rst:77
 msgid "Once 2FA is configured, follow these steps at each login:"
 msgstr ""
+"Une fois le 2FA configuré, suivez les étapes suivantes à chaque connexion :"
 
 #: ../../get_started/toc.rst:79
 msgid "> Enter your username and password;"
-msgstr ""
+msgstr "> Saisissez votre nom d’utilisateur et votre mot de passe ;"
 
 #: ../../get_started/toc.rst:81
 msgid ""
 "> When prompted for the second factor, choose your OTP credential (eg. "
 "myOTP1);"
 msgstr ""
+"> Lorsqu’on vous demande le deuxième facteur, choisissez votre **OTP "
+"credential** (p. ex. myOTP1) ;"
 
 #: ../../get_started/toc.rst:83
 msgid "> Open your authenticator app or use your next available PIN code;"
 msgstr ""
+"> Ouvrez votre Authenticator App ou utilisez le prochain **PIN code** "
+"disponible ;"
 
 #: ../../get_started/toc.rst:85
 msgid "> Insert the verification code or PIN into the login form;"
 msgstr ""
+"> Saisissez le code de vérification ou le PIN dans le formulaire de connexion"
+" ;"
 
 #: ../../get_started/toc.rst:87
 msgid "> Click LOGIN."
-msgstr ""
+msgstr "> Cliquez sur **LOGIN**."
 
 #: ../../get_started/toc.rst:91
 msgid "Using SAML to Sign In"
@@ -9905,7 +10202,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:242
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
-msgstr ""
+msgstr "Une fois satisfait(e), cliquez sur **SAVE** en haut à droite."
 
 #: ../../get_started/toc.rst:244
 msgid ""
@@ -9913,10 +10210,13 @@ msgid ""
 "leave the checkbox checked. Otherwise, adjust the font size manually "
 "using the slider."
 msgstr ""
+"Notez que si vous préférez le redimensionnement automatique selon "
+"l'appareil, laissez la case cochée. Sinon, ajustez la taille de la police "
+"manuellement avec le curseur."
 
 #: ../../get_started/toc.rst:252
 msgid "Changing Your Time Zone"
-msgstr ""
+msgstr "Modification du fuseau horaire"
 
 #: ../../get_started/toc.rst:254
 msgid ""
@@ -9926,34 +10226,46 @@ msgid ""
 " collaborating with colleagues across different countries and time zones."
 " To change your time zone, follow these steps:"
 msgstr ""
+"En tant qu'espace de travail numérique, |product| dépend de paramètres de "
+"fuseau horaire précis pour garantir des performances optimales des "
+"calendriers et d'autres fonctions telles que les e‑mails, assurant des "
+"horodatages exacts. Cela est particulièrement crucial lors de collaborations "
+"avec des collègues situés dans différents pays et fuseaux horaires. Pour "
+"modifier votre fuseau horaire, suivez les étapes ci‑dessous :"
 
 #: ../../get_started/toc.rst:258
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Time Zone** and choose your time zone."
 msgstr ""
+"Dans la section **Time Zone and Language**, sélectionnez le menu déroulant "
+"**Time Zone** et choisissez votre fuseau horaire."
 
 #: ../../get_started/toc.rst:259 ../../get_started/toc.rst:274
 msgid "Click **SAVE** in the top right corner."
-msgstr ""
+msgstr "Cliquez sur **SAVE** en haut à droite."
 
 #: ../../get_started/toc.rst:267
 msgid "Changing |product| Language"
-msgstr ""
+msgstr "Modification de la langue de |product|"
 
 #: ../../get_started/toc.rst:269
 msgid "To change your |product| web client language, follow these steps:"
 msgstr ""
+"Pour modifier la langue du client web |product|, suivez les étapes ci‑"
+"dessous :"
 
 #: ../../get_started/toc.rst:273
 msgid ""
 "Under the **Time Zone and Language** section select the dropdown menu for"
 " **Language** and choose your language."
 msgstr ""
+"Dans la section **Time Zone and Language**, sélectionnez le menu déroulant "
+"**Language** et choisissez votre langue."
 
 #: ../../get_started/toc.rst:277
 msgid "Accessing Multiple Accounts"
-msgstr ""
+msgstr "Accès à plusieurs comptes"
 
 #: ../../get_started/toc.rst:279
 msgid ""
@@ -9965,6 +10277,13 @@ msgid ""
 "can add these accounts and grant you access** to manage them via your "
 "main account."
 msgstr ""
+"Dans le client web |product|, vous avez accès à plusieurs comptes. Par "
+"exemple, vous disposez de votre compte personnel, ainsi que de deux comptes "
+"supplémentaires créés pour les tâches RH et les communications avec vos "
+"collègues sous l'adresse « hr@example.com », et un autre nommé «"
+" info@example.com » pour les communications externes de l'entreprise. **Seul "
+"votre administrateur système peut ajouter ces comptes et vous accorder "
+"l'accès** afin de les gérer via votre compte principal."
 
 #: ../../get_started/toc.rst:285
 msgid ""
@@ -9974,10 +10293,15 @@ msgid ""
 "a dropdown menu. From there, you can access the inbox and other folders "
 "within each account."
 msgstr ""
+"Ainsi, lorsque vous vous connectez à votre compte principal, ces deux "
+"comptes supplémentaires apparaissent sous celui‑ci. Pour y accéder, cliquez "
+"simplement sur la flèche descendante à côté de leurs noms pour ouvrir un "
+"menu déroulant. Vous pourrez alors accéder à la boîte de réception et aux "
+"autres dossiers de chaque compte."
 
 #: ../../index.rst:12
 msgid "Welcome to |product| User Documentation!"
-msgstr ""
+msgstr "Bienvenue dans la documentation utilisateur de |product| !"
 
 #: ../../index.rst:15
 msgid ""
@@ -9985,26 +10309,29 @@ msgid ""
 "digital workplace designed for secure communication and collaboration. "
 "The content is organised into the following sections:"
 msgstr ""
+"Ce portail contient les guides utilisateurs pour |product|, l’espace de "
+"travail numérique entièrement privé conçu pour une communication et une "
+"collaboration sécurisées. Le contenu est organisé en sections :"
 
 #: ../../index.rst:21
 msgid "Getting Started with Carbonio"
-msgstr ""
+msgstr "Premiers pas avec Carbonio"
 
 #: ../../index.rst:32
 msgid "Mails"
-msgstr ""
+msgstr "Mails"
 
 #: ../../index.rst:47
 msgid "Calendars & Productivity"
-msgstr ""
+msgstr "Calendriers & Productivité"
 
 #: ../../index.rst:61
 msgid "Files & Collaboration"
-msgstr ""
+msgstr "Fichiers & Collaboration"
 
 #: ../../index.rst:71
 msgid "Communication"
-msgstr ""
+msgstr "Communication"
 
 #: ../../index.rst:82
 msgid "Mobile Apps"
@@ -10019,14 +10346,17 @@ msgid ""
 "With the Carbonio Chats app, you can send instant messages, share files, "
 "and organize or join video meetings."
 msgstr ""
+"Avec l’application Carbonio Chats, vous pouvez envoyer des messages "
+"instantanés, partager des fichiers et organiser ou rejoindre des réunions "
+"vidéo."
 
 #: ../../mobile_apps/chat_app.rst:12
 msgid "Creating a New Chat"
-msgstr ""
+msgstr "Créer une nouvelle discussion"
 
 #: ../../mobile_apps/chat_app.rst:14
 msgid "To start a 1-to-1 conversation:"
-msgstr ""
+msgstr "Pour démarrer une conversation 1 à 1 :"
 
 #: ../../mobile_apps/chat_app.rst:16 ../../mobile_apps/chat_app.rst:104
 msgid "Tap **New chat** (plus icon)."
@@ -10121,85 +10451,89 @@ msgstr ""
 
 #: ../../mobile_apps/chat_app.rst:64
 msgid "Select **Forward**."
-msgstr ""
+msgstr "Sélectionner **Forward**."
 
 #: ../../mobile_apps/chat_app.rst:65
 msgid "Choose the recipient and send."
-msgstr ""
+msgstr "Choisissez le destinataire et envoyez."
 
 #: ../../mobile_apps/chat_app.rst:68
 msgid "Delete a Message"
-msgstr ""
+msgstr "Supprimer un message"
 
 #: ../../mobile_apps/chat_app.rst:71
 msgid "Select **Delete message**."
-msgstr ""
+msgstr "Sélectionner **Delete message**."
 
 #: ../../mobile_apps/chat_app.rst:72
 msgid "Confirm the action."
-msgstr ""
+msgstr "Confirmez l'action."
 
 #: ../../mobile_apps/chat_app.rst:76
 msgid ""
 "Deleting may be available only for a limited time (for example, within 5 "
 "minutes)."
 msgstr ""
+"La suppression peut n'être disponible que pendant une période limitée (par "
+"exemple, dans les 5 minutes)."
 
 #: ../../mobile_apps/chat_app.rst:79
 msgid "Mute Notifications for a Chat"
-msgstr ""
+msgstr "Désactiver les notifications d'une discussion"
 
 #: ../../mobile_apps/chat_app.rst:81
 msgid "To mute notifications for a specific chat or group:"
-msgstr ""
+msgstr "Pour désactiver les notifications d'une discussion ou d'un groupe :"
 
 #: ../../mobile_apps/chat_app.rst:83 ../../mobile_apps/chat_app.rst:94
 msgid "Open the chat/group."
-msgstr ""
+msgstr "Ouvrez la discussion/groupe."
 
 #: ../../mobile_apps/chat_app.rst:84
 msgid "Open **Chat info** (often an **i** icon or the chat name)."
 msgstr ""
+"Ouvrez **Chat info** (souvent l'icône **i** ou le nom de la discussion)."
 
 #: ../../mobile_apps/chat_app.rst:85
 msgid "Disable **Notifications**."
-msgstr ""
+msgstr "Désactivez **Notifications**."
 
 #: ../../mobile_apps/chat_app.rst:87
 msgid "To unmute, follow the same steps and re-enable notifications."
 msgstr ""
+"Pour réactiver, répétez les mêmes étapes et réactivez les notifications."
 
 #: ../../mobile_apps/chat_app.rst:90
 msgid "Clear Chat History"
-msgstr ""
+msgstr "Effacer l'historique de la discussion"
 
 #: ../../mobile_apps/chat_app.rst:92
 msgid "To clear the history of a chat/group:"
-msgstr ""
+msgstr "Pour effacer l'historique d'une discussion/groupe :"
 
 #: ../../mobile_apps/chat_app.rst:95
 msgid "Open **Chat info**."
-msgstr ""
+msgstr "Ouvrez **Chat info**."
 
 #: ../../mobile_apps/chat_app.rst:96
 msgid "Tap **Clear history**."
-msgstr ""
+msgstr "Appuyez sur **Clear history**."
 
 #: ../../mobile_apps/chat_app.rst:97 ../../mobile_apps/files_app.rst:53
 msgid "Confirm."
-msgstr ""
+msgstr "Confirmez."
 
 #: ../../mobile_apps/chat_app.rst:100
 msgid "Creating a New Group"
-msgstr ""
+msgstr "Créer un nouveau groupe"
 
 #: ../../mobile_apps/chat_app.rst:102
 msgid "To create a group chat:"
-msgstr ""
+msgstr "Pour créer une discussion de groupe :"
 
 #: ../../mobile_apps/chat_app.rst:105
 msgid "Select **Group conversation / Group chat**."
-msgstr ""
+msgstr "Sélectionnez **Group conversation / Group chat**."
 
 #: ../../mobile_apps/chat_app.rst:106
 msgid ""
@@ -10292,31 +10626,31 @@ msgstr ""
 
 #: ../../mobile_apps/chat_app.rst:149
 msgid "Select **Create Room**."
-msgstr ""
+msgstr "Sélectionnez **Create Room**."
 
 #: ../../mobile_apps/chat_app.rst:150
 msgid "Enter a room name."
-msgstr ""
+msgstr "Saisissez un nom de salle."
 
 #: ../../mobile_apps/chat_app.rst:151
 msgid "Tap **OK/Create**."
-msgstr ""
+msgstr "Appuyez sur **OK/Create**."
 
 #: ../../mobile_apps/chat_app.rst:153
 msgid "You can usually:"
-msgstr ""
+msgstr "Vous pouvez généralement :"
 
 #: ../../mobile_apps/chat_app.rst:155
 msgid "**Copy link** to invite participants."
-msgstr ""
+msgstr "**Copy link** pour inviter des participants."
 
 #: ../../mobile_apps/chat_app.rst:156
 msgid "**Join room** to enter."
-msgstr ""
+msgstr "**Join room** pour entrer."
 
 #: ../../mobile_apps/chat_app.rst:159
 msgid "Entering a Room"
-msgstr ""
+msgstr "Entrer dans une salle"
 
 #: ../../mobile_apps/chat_app.rst:161 ../../mobile_apps/chat_app.rst:168
 #: ../../mobile_apps/chat_app.rst:184
@@ -10325,47 +10659,47 @@ msgstr ""
 
 #: ../../mobile_apps/chat_app.rst:162 ../../mobile_apps/chat_app.rst:169
 msgid "Tap the room name."
-msgstr ""
+msgstr "Appuyez sur le nom de la salle."
 
 #: ../../mobile_apps/chat_app.rst:163
 msgid "Select **Join room**."
-msgstr ""
+msgstr "Sélectionnez **Join room**."
 
 #: ../../mobile_apps/chat_app.rst:166
 msgid "Inviting Members to a Room"
-msgstr ""
+msgstr "Inviter des membres à une salle"
 
 #: ../../mobile_apps/chat_app.rst:170
 msgid "Select **Copy link** and share it."
-msgstr ""
+msgstr "Sélectionnez **Copy link** et partagez‑le."
 
 #: ../../mobile_apps/chat_app.rst:173
 msgid "Starting a Video Call with One Person"
-msgstr ""
+msgstr "Démarrer un appel vidéo avec une personne"
 
 #: ../../mobile_apps/chat_app.rst:175
 msgid "Open a 1-to-1 chat with the colleague."
-msgstr ""
+msgstr "Ouvrez une discussion 1‑à‑1 avec le collègue."
 
 #: ../../mobile_apps/chat_app.rst:176
 msgid "Tap the camera icon to start a video call."
-msgstr ""
+msgstr "Appuyez sur l’icône caméra pour lancer un appel vidéo."
 
 #: ../../mobile_apps/chat_app.rst:180 ../../videomeeting/toc.rst:242
 msgid "Deleting a Meeting Room"
-msgstr ""
+msgstr "Supprimer une salle de réunion"
 
 #: ../../mobile_apps/chat_app.rst:182
 msgid "To delete a room (if you have permission):"
-msgstr ""
+msgstr "Pour supprimer une salle (si vous avez l’autorisation) :"
 
 #: ../../mobile_apps/chat_app.rst:185
 msgid "Open the room."
-msgstr ""
+msgstr "Ouvrez la salle."
 
 #: ../../mobile_apps/chat_app.rst:186
 msgid "Select **Delete Room**."
-msgstr ""
+msgstr "Sélectionnez **Delete Room**."
 
 #: ../../mobile_apps/files_app.rst:7
 msgid "Carbonio Files App"
@@ -10376,170 +10710,179 @@ msgid ""
 "With the Carbonio Files app, you can manage, share, and organize files "
 "and folders on the go."
 msgstr ""
+"Avec l’application Carbonio Files, vous pouvez gérer, partager et organiser "
+"des fichiers et dossiers en déplacement."
 
 #: ../../mobile_apps/files_app.rst:15
 msgid "Select **Folder**."
-msgstr ""
+msgstr "Sélectionnez **Folder**."
 
 #: ../../mobile_apps/files_app.rst:16
 msgid "Enter a folder name."
-msgstr ""
+msgstr "Saisissez un nom de dossier."
 
 #: ../../mobile_apps/files_app.rst:17
 msgid "Tap **Create**."
-msgstr ""
+msgstr "Appuyez sur **Create**."
 
 #: ../../mobile_apps/files_app.rst:19
 msgid ""
 "To create a folder inside another folder, open the destination folder "
 "first and repeat the steps above."
 msgstr ""
+"Pour créer un dossier dans un autre dossier, ouvrez d'abord le dossier de "
+"destination et répétez les étapes ci‑dessus."
 
 #: ../../mobile_apps/files_app.rst:22
 msgid "Uploading a File"
-msgstr ""
+msgstr "Téléversement d'un fichier"
 
 #: ../../mobile_apps/files_app.rst:24
 msgid "To upload a document:"
-msgstr ""
+msgstr "Pour téléverser un document :"
 
 #: ../../mobile_apps/files_app.rst:26
 msgid "Tap **Create/Upload** (plus icon)."
-msgstr ""
+msgstr "Appuyez sur **Create/Upload** (icône plus)."
 
 #: ../../mobile_apps/files_app.rst:27
 msgid "Select **Upload document** (or **Upload**)."
-msgstr ""
+msgstr "Sélectionnez **Upload document** (ou **Upload**)."
 
 #: ../../mobile_apps/files_app.rst:28
 msgid "Choose the file from your device."
-msgstr ""
+msgstr "Choisissez le fichier sur votre appareil."
 
 #: ../../mobile_apps/files_app.rst:30
 msgid "To monitor uploads (if available):"
-msgstr ""
+msgstr "Pour suivre les téléversements (si disponible) :"
 
 #: ../../mobile_apps/files_app.rst:32
 msgid "Open the app menu (often the menu icon)."
-msgstr ""
+msgstr "Ouvrez le menu de l’application (souvent l’icône de menu)."
 
 #: ../../mobile_apps/files_app.rst:33
 msgid "Select **Uploads** to view progress."
-msgstr ""
+msgstr "Sélectionnez **Uploads** pour voir la progression."
 
 #: ../../mobile_apps/files_app.rst:36
 msgid "Deleting a File or Folder"
-msgstr ""
+msgstr "Suppression d’un fichier ou d’un dossier"
 
 #: ../../mobile_apps/files_app.rst:38
 msgid "To delete an item:"
-msgstr ""
+msgstr "Pour supprimer un élément :"
 
 #: ../../mobile_apps/files_app.rst:40
 msgid "Navigate to the folder containing the item."
-msgstr ""
+msgstr "Accédez au dossier contenant l’élément."
 
 #: ../../mobile_apps/files_app.rst:41
 msgid "Tap **More options** (three-dots icon) next to the file/folder."
 msgstr ""
+"Appuyez sur **More options** (icône à trois points) à côté du fichier/"
+"dossier."
 
 #: ../../mobile_apps/files_app.rst:42
 msgid "Select **Delete**."
-msgstr ""
+msgstr "Sélectionnez **Delete**."
 
 #: ../../mobile_apps/files_app.rst:44
 msgid "Deleted items are moved to **Trash**."
-msgstr ""
+msgstr "Les éléments supprimés sont déplacés vers **Trash**."
 
 #: ../../mobile_apps/files_app.rst:47
 msgid "Delete permanently"
-msgstr ""
+msgstr "Supprimer définitivement"
 
 #: ../../mobile_apps/files_app.rst:49 ../../mobile_apps/files_app.rst:58
 msgid "Open **Trash**."
-msgstr ""
+msgstr "Ouvrez **Trash**."
 
 #: ../../mobile_apps/files_app.rst:50 ../../mobile_apps/files_app.rst:59
 msgid "Select **My elements** (if shown)."
-msgstr ""
+msgstr "Sélectionnez **My elements** (si affiché)."
 
 #: ../../mobile_apps/files_app.rst:51 ../../mobile_apps/files_app.rst:60
 #: ../../mobile_apps/files_app.rst:68 ../../mobile_apps/files_app.rst:75
 #: ../../mobile_apps/files_app.rst:82 ../../mobile_apps/files_app.rst:89
 msgid "Tap **More options** next to the item."
-msgstr ""
+msgstr "Appuyez sur **More options** à côté de l’élément."
 
 #: ../../mobile_apps/files_app.rst:52
 msgid "Select **Delete permanently**."
-msgstr ""
+msgstr "Sélectionnez **Delete permanently**."
 
 #: ../../mobile_apps/files_app.rst:56
 msgid "Restoring a Trashed File or Folder"
-msgstr ""
+msgstr "Restaurer un fichier ou dossier mis à la corbeille"
 
 #: ../../mobile_apps/files_app.rst:61
 msgid "Select **Restore**."
-msgstr ""
+msgstr "Sélectionnez **Restore**."
 
 #: ../../mobile_apps/files_app.rst:63
 msgid "The item returns to its original location."
-msgstr ""
+msgstr "L’élément revient à son emplacement d’origine."
 
 #: ../../mobile_apps/files_app.rst:66
 msgid "Renaming a File or Folder"
-msgstr ""
+msgstr "Renommer un fichier ou un dossier"
 
 #: ../../mobile_apps/files_app.rst:69
 msgid "Select **Rename**."
-msgstr ""
+msgstr "Sélectionnez **Rename**."
 
 #: ../../mobile_apps/files_app.rst:70
 msgid "Enter the new name and confirm."
-msgstr ""
+msgstr "Saisissez le nouveau nom et confirmez."
 
 #: ../../mobile_apps/files_app.rst:73
 msgid "Moving a File Between Folders"
-msgstr ""
+msgstr "Déplacer un fichier entre dossiers"
 
 #: ../../mobile_apps/files_app.rst:77 ../../mobile_apps/files_app.rst:84
 msgid "Choose the destination folder and confirm."
-msgstr ""
+msgstr "Choisissez le dossier de destination et confirmez."
 
 #: ../../mobile_apps/files_app.rst:83
 msgid "Select **Copy**."
-msgstr ""
+msgstr "Sélectionnez **Copy**."
 
 #: ../../mobile_apps/files_app.rst:90
 msgid "Select **Flag**."
-msgstr ""
+msgstr "Sélectionnez **Flag**."
 
 #: ../../mobile_apps/files_app.rst:92
 msgid "To remove the flag, repeat and select **Unflag**."
 msgstr ""
+"Pour retirer le drapeau, répétez l’opération et sélectionnez **Unflag**."
 
 #: ../../mobile_apps/files_app.rst:95
 msgid "Adding Collaborators to a File/Folder"
-msgstr ""
+msgstr "Ajouter des collaborateurs à un fichier/dossier"
 
 #: ../../mobile_apps/files_app.rst:97
 msgid "To share an item with colleagues:"
-msgstr ""
+msgstr "Pour partager un élément avec des collègues :"
 
 #: ../../mobile_apps/files_app.rst:99
 msgid "Tap **More options** next to the file/folder."
-msgstr ""
+msgstr "Appuyez sur **More options** à côté du fichier/dossier."
 
 #: ../../mobile_apps/files_app.rst:100
 msgid "Select **Add collaborators**."
-msgstr ""
+msgstr "Sélectionnez **Add collaborators**."
 
 #: ../../mobile_apps/files_app.rst:101
 msgid "Enter colleagues’ email addresses and select them from suggestions."
 msgstr ""
+"Saisissez les adresses e‑mail des collègues et choisissez‑les parmi les "
+"suggestions."
 
 #: ../../mobile_apps/files_app.rst:102
 msgid "Choose the permission level (for example: **Viewer**, **Editor**)."
-msgstr ""
+msgstr "Choisissez le niveau d’autorisation (par ex. : **Viewer**, **Editor**)."
 
 #: ../../mobile_apps/files_app.rst:103
 msgid ""
@@ -10664,141 +11007,164 @@ msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:60
 msgid "The current **mailbox quota usage**."
-msgstr ""
+msgstr "Utilisation actuelle du **mailbox quota usage**."
 
 #: ../../mobile_apps/mail_app.rst:61
 msgid "The installed **application version**."
-msgstr ""
+msgstr "Version de l'**application version** installée."
 
 #: ../../mobile_apps/mail_app.rst:69
 msgid "To compose and send a new email message, follow these steps:"
 msgstr ""
+"Pour rédiger et envoyer un nouveau message électronique, suivez ces étapes :"
 
 #: ../../mobile_apps/mail_app.rst:71
 msgid "Tap **Compose** (pen icon) to open a new message."
-msgstr ""
+msgstr "Appuyez sur **Compose** (icône stylo) pour ouvrir un nouveau message."
 
 #: ../../mobile_apps/mail_app.rst:72
 msgid ""
 "If multiple sending identities or personas are available, select the "
 "appropriate one from the **From** field."
 msgstr ""
+"Si plusieurs identités d'envoi ou personas sont disponibles, choisissez "
+"celle appropriée dans le champ **From**."
 
 #: ../../mobile_apps/mail_app.rst:73
 msgid "In the **To** field, enter one or more recipient email addresses."
 msgstr ""
+"Dans le champ **To**, saisissez une ou plusieurs adresses e-mail du "
+"destinataire."
 
 #: ../../mobile_apps/mail_app.rst:74
 msgid "Optionally, add additional recipients in the **Cc** or **Bcc** fields."
 msgstr ""
+"Facultativement, ajoutez d'autres destinataires dans les champs **Cc** ou "
+"**Bcc**."
 
 #: ../../mobile_apps/mail_app.rst:75
 msgid "Enter a subject in the **Subject** field."
-msgstr ""
+msgstr "Saisissez un objet dans le champ **Subject**."
 
 #: ../../mobile_apps/mail_app.rst:76
 msgid "Write the message content in the email body."
-msgstr ""
+msgstr "Rédigez le contenu du message dans le corps de l'e-mail."
 
 #: ../../mobile_apps/mail_app.rst:78
 msgid "While editing the message, additional options are available:"
 msgstr ""
+"Lors de la rédaction du message, des options supplémentaires sont "
+"disponibles :"
 
 #: ../../mobile_apps/mail_app.rst:80
 msgid "Use the **formatting toolbar** to customize the text appearance. You can:"
 msgstr ""
+"Utilisez la **formatting toolbar** pour personnaliser l'apparence du texte. "
+"Vous pouvez :"
 
 #: ../../mobile_apps/mail_app.rst:82
 msgid "Select a text style such as **Title**, **Subtitle**, or **Body text**."
 msgstr ""
+"Sélectionnez un style de texte tel que **Title**, **Subtitle** ou **Body "
+"text**."
 
 #: ../../mobile_apps/mail_app.rst:83
 msgid "Change the text color."
-msgstr ""
+msgstr "Modifiez la couleur du texte."
 
 #: ../../mobile_apps/mail_app.rst:84
 msgid ""
 "Apply text formatting options, including **bold**, *italic*, underline, "
 "and other supported styles."
 msgstr ""
+"Appliquez des options de mise en forme, y compris **bold**, *italic*, "
+"souligné et d'autres styles pris en charge."
 
 #: ../../mobile_apps/mail_app.rst:86
 msgid "Tap the **Attachment** (paperclip) icon to:"
-msgstr ""
+msgstr "Appuyez sur l'icône **Attachment** (trombone) pour :"
 
 #: ../../mobile_apps/mail_app.rst:88
 msgid "Take a photo and attach it to the message."
-msgstr ""
+msgstr "Prendre une photo et l'attacher au message."
 
 #: ../../mobile_apps/mail_app.rst:89
 msgid "Select one or more images from the device gallery."
-msgstr ""
+msgstr "Sélectionner une ou plusieurs images dans la galerie de l'appareil."
 
 #: ../../mobile_apps/mail_app.rst:90
 msgid "Choose a document from the device storage."
-msgstr ""
+msgstr "Choisir un document dans le stockage de l'appareil."
 
 #: ../../mobile_apps/mail_app.rst:91
 msgid "Add files from **Carbonio Files**, if available."
-msgstr ""
+msgstr "Ajouter des fichiers depuis **Carbonio Files**, si disponible."
 
 #: ../../mobile_apps/mail_app.rst:93
 msgid "Tap the **More options** (three-dot) icon to:"
-msgstr ""
+msgstr "Appuyez sur l'icône **More options** (trois points) pour :"
 
 #: ../../mobile_apps/mail_app.rst:95
 msgid "Save the message as a draft."
-msgstr ""
+msgstr "Enregistrer le message comme brouillon."
 
 #: ../../mobile_apps/mail_app.rst:96
 msgid ""
 "Schedule the message for delivery by selecting a date, time, and time "
 "zone."
 msgstr ""
+"Planifier l’envoi du message en sélectionnant une date, une heure et un "
+"fuseau horaire."
 
 #: ../../mobile_apps/mail_app.rst:97
 msgid "Set the message priority."
-msgstr ""
+msgstr "Définir la priorité du message."
 
 #: ../../mobile_apps/mail_app.rst:98
 msgid "Request a read receipt from the recipient."
-msgstr ""
+msgstr "Demander un accusé de lecture au destinataire."
 
 #: ../../mobile_apps/mail_app.rst:100
 msgid "When finished, tap **Send** (paper-plane icon) to send the message."
 msgstr ""
+"Une fois terminé, appuyez sur **Envoyer** (icône avion‑papier) pour "
+"transmettre le message."
 
 #: ../../mobile_apps/mail_app.rst:102
 msgid ""
 "After the message is sent, a copy of the email is automatically saved in "
 "the **Sent** folder."
 msgstr ""
+"Après l’envoi, une copie du courriel est automatiquement enregistrée dans le "
+"dossier **Envoyés**."
 
 #: ../../mobile_apps/mail_app.rst:108
 msgid "To reply to an email message, follow these steps:"
-msgstr ""
+msgstr "Pour répondre à un courriel, suivez les étapes :"
 
 #: ../../mobile_apps/mail_app.rst:110
 msgid "Open the email you want to respond to."
-msgstr ""
+msgstr "Ouvrez le courriel auquel vous souhaitez répondre."
 
 #: ../../mobile_apps/mail_app.rst:111
 msgid "Tap **More options** (three-dot icon)."
-msgstr ""
+msgstr "Appuyez sur **Plus d’options** (icône à trois points)."
 
 #: ../../mobile_apps/mail_app.rst:112
 msgid ""
 "Select **Reply** to respond to the sender only, or **Reply all** to "
 "respond to all recipients."
 msgstr ""
+"Choisissez **Répondre** pour répondre uniquement à l’expéditeur, ou "
+"**Répondre à tous** pour répondre à tous les destinataires."
 
 #: ../../mobile_apps/mail_app.rst:113
 msgid "Write your message."
-msgstr ""
+msgstr "Rédigez votre message."
 
 #: ../../mobile_apps/mail_app.rst:114
 msgid "Tap **Send** (paper-plane icon) to send the reply."
-msgstr ""
+msgstr "Appuyez sur **Envoyer** (icône avion‑papier) pour envoyer la réponse."
 
 #: ../../mobile_apps/mail_app.rst:116
 msgid ""
@@ -10806,40 +11172,53 @@ msgid ""
 "options available when composing a new email can be used. For more "
 "information, see :ref:`composing-a-new-email`."
 msgstr ""
+"Lors de la réponse, vous pouvez utiliser les mêmes options d’édition, de "
+"mise en forme, de pièces jointes et de message que lors de la rédaction d’un "
+"nouveau courriel. Pour plus d’informations, voir :ref:`composing-a-new-"
+"email`."
 
 #: ../../mobile_apps/mail_app.rst:118
 msgid "A copy of the sent reply is automatically saved in the **Sent** folder."
 msgstr ""
+"Une copie de la réponse envoyée est automatiquement enregistrée dans le "
+"dossier **Envoyés**."
 
 #: ../../mobile_apps/mail_app.rst:122
 msgid "Reply vs. Reply All"
-msgstr ""
+msgstr "Répondre vs. Répondre à tous"
 
 #: ../../mobile_apps/mail_app.rst:124
 msgid ""
 "The difference between **Reply** and **Reply all** is the recipients of "
 "your response:"
 msgstr ""
+"La différence entre **Répondre** et **Répondre à tous** réside dans les "
+"destinataires de votre réponse :"
 
 #: ../../mobile_apps/mail_app.rst:126
 msgid "**Reply** sends your response only to the original sender."
-msgstr ""
+msgstr "**Répondre** envoie votre réponse uniquement à l’expéditeur d’origine."
 
 #: ../../mobile_apps/mail_app.rst:127
 msgid ""
 "**Reply all** sends your response to the sender and to other recipients "
 "from the original email (typically added automatically in Cc)."
 msgstr ""
+"**Répondre à tous** envoie votre réponse à l’expéditeur et aux autres "
+"destinataires du courriel original (généralement ajoutés automatiquement en "
+"Cc)."
 
 #: ../../mobile_apps/mail_app.rst:129
 msgid ""
 "Use **Reply all** only when your response is relevant to everyone "
 "included in the original conversation."
 msgstr ""
+"Utilisez **Répondre à tous** uniquement lorsque votre réponse concerne tous "
+"les participants de la conversation initiale."
 
 #: ../../mobile_apps/mail_app.rst:134
 msgid "To perform actions on multiple emails:"
-msgstr ""
+msgstr "Pour appliquer des actions à plusieurs courriels :"
 
 #: ../../mobile_apps/mail_app.rst:136
 msgid "Tap and hold an email to enter **selection mode**."
@@ -10931,71 +11310,75 @@ msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:183
 msgid "Close the menu and send the email."
-msgstr ""
+msgstr "Fermez le menu et envoyez le courriel."
 
 #: ../../mobile_apps/mail_app.rst:188
 msgid "To save a draft while composing:"
-msgstr ""
+msgstr "Pour enregistrer un brouillon lors de la rédaction :"
 
 #: ../../mobile_apps/mail_app.rst:190
 msgid "Open **More options** (three-dots icon)."
-msgstr ""
+msgstr "Ouvrez **More options** (icône à trois points)."
 
 #: ../../mobile_apps/mail_app.rst:191
 msgid ""
 "Select **Save draft** (or simply exit the compose screen if the app "
 "autosaves drafts)."
 msgstr ""
+"Sélectionnez **Save draft** (ou quittez simplement l’écran de rédaction si "
+"l’application enregistre automatiquement les brouillons)."
 
 #: ../../mobile_apps/mail_app.rst:196
 msgid "Open the app menu (typically the menu icon)."
-msgstr ""
+msgstr "Ouvrez le menu de l’application (généralement l’icône de menu)."
 
 #: ../../mobile_apps/mail_app.rst:197
 msgid "Go to the **Drafts** folder."
-msgstr ""
+msgstr "Accédez au dossier **Drafts**."
 
 #: ../../mobile_apps/mail_app.rst:198
 msgid "Open the draft you want to send."
-msgstr ""
+msgstr "Ouvrez le brouillon que vous souhaitez envoyer."
 
 #: ../../mobile_apps/mail_app.rst:199
 msgid "Tap **Send**."
-msgstr ""
+msgstr "Appuyez sur **Send**."
 
 #: ../../mobile_apps/mail_app.rst:204
 msgid "To forward an email:"
-msgstr ""
+msgstr "Pour transférer un courriel :"
 
 #: ../../mobile_apps/mail_app.rst:206 ../../mobile_apps/mail_app.rst:216
 msgid "Open the email."
-msgstr ""
+msgstr "Ouvrez le courriel."
 
 #: ../../mobile_apps/mail_app.rst:207 ../../mobile_apps/mail_app.rst:217
 msgid "Tap **More options** (three-dots icon)."
-msgstr ""
+msgstr "Appuyez sur **More options** (icône à trois points)."
 
 #: ../../mobile_apps/mail_app.rst:208
 msgid "Select **Forward** (or **Forward conversation**, if shown)."
-msgstr ""
+msgstr "Sélectionnez **Forward** (ou **Forward conversation**, si affiché)."
 
 #: ../../mobile_apps/mail_app.rst:209 ../../mobile_apps/mail_app.rst:219
 msgid "Enter the recipient and tap **Send**."
-msgstr ""
+msgstr "Saisissez le destinataire et appuyez sur **Send**."
 
 #: ../../mobile_apps/mail_app.rst:214
 msgid "To redirect an email (if available):"
-msgstr ""
+msgstr "Pour rediriger un courriel (si disponible) :"
 
 #: ../../mobile_apps/mail_app.rst:218
 msgid "Select **Redirect**."
-msgstr ""
+msgstr "Sélectionnez **Redirect**."
 
 #: ../../mobile_apps/mail_app.rst:224
 msgid ""
 "**Forward** sends a copy of the message to someone else (often allowing "
 "you to add your own text)."
 msgstr ""
+"**Forward** envoie une copie du message à une autre personne (permet souvent "
+"d’ajouter votre texte)."
 
 #: ../../mobile_apps/mail_app.rst:225
 msgid ""
@@ -11003,6 +11386,9 @@ msgid ""
 "had been sent to them originally, making it easier for the new recipient "
 "to reply directly to the original sender."
 msgstr ""
+"**Redirect** redirige le message original vers un nouveau destinataire comme "
+"s’il lui avait été envoyé initialement, facilitant la réponse directe du "
+"nouveau destinataire à l’expéditeur d’origine."
 
 #: ../../mobile_apps/toc.rst:6
 msgid "Carbonio Mobile Applications"
@@ -11032,7 +11418,7 @@ msgstr "Table des matières"
 
 #: ../../search/toc.rst:7
 msgid "Working with Search"
-msgstr ""
+msgstr "Utilisation de la recherche"
 
 #: ../../search/toc.rst:9
 msgid ""
@@ -11041,6 +11427,10 @@ msgid ""
 "dates, time, URL, size, tags, read status, and file attachments. There "
 "are two types of searches available:"
 msgstr ""
+"La recherche dans le client web |product| vous permet de trouver des e‑"
+"mails, contacts, rendez‑vous et fichiers en utilisant des critères "
+"spécifiques tels que mots, dates, heure, URL, taille, tags, statut de "
+"lecture et pièces jointes. Deux types de recherche sont disponibles :"
 
 #: ../../search/toc.rst:11
 msgid ""
@@ -11049,6 +11439,10 @@ msgid ""
 "appointments, and files, based on the active feature selected from the "
 "left sidebar."
 msgstr ""
+"Recherche rapide : effectuée via la zone de recherche située dans la barre "
+"supérieure. Vous pouvez rechercher divers éléments — e‑mails, contacts, "
+"rendez‑vous et fichiers — selon la fonctionnalité active sélectionnée dans "
+"la barre latérale gauche."
 
 #: ../../search/toc.rst:12
 msgid ""
@@ -11056,16 +11450,21 @@ msgid ""
 "select from the left sidebar. This enables more complex searches using "
 "different filters such as date, time, subject, etc."
 msgstr ""
+"Recherche avancée : accessible via la fonction de recherche du volet gauche. "
+"Elle permet des recherches plus complexes en appliquant divers filtres comme "
+"la date, l’heure, le sujet, etc."
 
 #: ../../search/toc.rst:14
 msgid ""
 "These search capabilities provide efficient ways to locate and manage "
 "your data within the |product| web client."
 msgstr ""
+"Ces fonctions de recherche offrent des moyens efficaces de localiser et de "
+"gérer vos données dans le client web |product|."
 
 #: ../../search/toc.rst:18
 msgid "Using Quick Search for Different Items"
-msgstr ""
+msgstr "Utilisation de la recherche rapide pour différents éléments"
 
 #: ../../search/toc.rst:20
 msgid ""
@@ -11074,6 +11473,10 @@ msgid ""
 "appointments, and files, based on the active feature selected from the "
 "left sidebar."
 msgstr ""
+"Vous pouvez effectuer une recherche rapide à l’aide de la zone de recherche "
+"située dans la barre supérieure. Vous pouvez rechercher divers éléments, "
+"notamment les e‑mails, contacts, rendez‑vous et fichiers, en fonction de la "
+"fonctionnalité active sélectionnée dans le volet gauche."
 
 #: ../../search/toc.rst:26 ../../search/toc.rst:42
 msgid "To do so:"
@@ -11584,14 +11987,16 @@ msgid ""
 "Right-click on the task you want to mark as complete from the list of "
 "tasks."
 msgstr ""
+"Cliquez avec le bouton droit sur la tâche que vous souhaitez marquer comme "
+"terminée dans la liste des tâches."
 
 #: ../../tasks/toc.rst:60
 msgid "Select **Complete** from the drop-down menu."
-msgstr ""
+msgstr "Sélectionnez **Complete** dans le menu déroulant."
 
 #: ../../videomeeting/toc.rst:7
 msgid "Working with Video Meetings"
-msgstr ""
+msgstr "Utilisation des réunions vidéo"
 
 #: ../../videomeeting/toc.rst:13
 msgid ""
@@ -11602,10 +12007,17 @@ msgid ""
 "effortlessly start or join meetings, share screens, and record sessions, "
 "ensuring effective and streamlined collaboration."
 msgstr ""
+"Dans |product|, les réunions vidéo sont un outil essentiel pour faciliter "
+"une collaboration virtuelle fluide. Qu’il s’agisse de conversations "
+"individuelles ou de sessions de groupe, elles offrent un espace "
+"d’interactions en face à face, favorisant la communication en temps réel et "
+"renforçant le travail d’équipe. Les utilisateurs peuvent facilement démarrer "
+"ou rejoindre des réunions, partager leur écran et enregistrer les sessions, "
+"garantissant une collaboration efficace et rationalisée."
 
 #: ../../videomeeting/toc.rst:16
 msgid "Creating New Virtual Room"
-msgstr ""
+msgstr "Création d’une nouvelle salle virtuelle"
 
 #: ../../videomeeting/toc.rst:18
 msgid ""
@@ -11615,43 +12027,54 @@ msgid ""
 "topics you want to discuss so that the attendees are informed about the "
 "meeting agenda."
 msgstr ""
+"Toute personne disposant d’un compte sur |product| peut créer des salles "
+"virtuelles. Les salles virtuelles sont des espaces partagés où vous pouvez "
+"organiser des réunions vidéo et discuter via le chat. Vous pouvez les créer "
+"selon différents sujets que vous souhaitez aborder, afin que les "
+"participants soient informés de l’ordre du jour."
 
 #: ../../videomeeting/toc.rst:20
 msgid "To create a new room:"
-msgstr ""
+msgstr "Pour créer une nouvelle salle :"
 
 #: ../../videomeeting/toc.rst:22 ../../videomeeting/toc.rst:42
 #: ../../videomeeting/toc.rst:69 ../../videomeeting/toc.rst:82
 #: ../../videomeeting/toc.rst:94 ../../videomeeting/toc.rst:106
 #: ../../videomeeting/toc.rst:115 ../../videomeeting/toc.rst:246
 msgid "Select the Chats feature from your left sidebar."
-msgstr ""
+msgstr "Sélectionnez la fonction Chats dans la barre latérale gauche."
 
 #: ../../videomeeting/toc.rst:23
 msgid ""
 "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the "
 "list of chats. A new window appears."
 msgstr ""
+"Cliquez sur YOUR VIRTUAL ROOMS situé en bas à gauche, sous la liste des "
+"chats. Une nouvelle fenêtre s’affiche."
 
 #: ../../videomeeting/toc.rst:24
 msgid "Click on New Virtual Room's name*."
-msgstr ""
+msgstr "Cliquez sur le nom de New Virtual Room*."
 
 #: ../../videomeeting/toc.rst:25
 msgid "Insert a name for the room in the field and click on the checkmark icon."
 msgstr ""
+"Saisissez un nom pour la salle dans le champ et cliquez sur l’icône de coche."
 
 #: ../../videomeeting/toc.rst:26
 msgid ""
 "Choose the room's moderators, who will have the ability to manage the "
 "room."
 msgstr ""
+"Choisissez les modérateurs de la salle, qui auront la capacité de la gérer."
 
 #: ../../videomeeting/toc.rst:28
 msgid ""
 "Your room has been successfully created and will be accessible through "
 "the same YOUR VIRTUAL ROOMS button."
 msgstr ""
+"Votre salle a été créée avec succès et sera accessible via le même bouton "
+"YOUR VIRTUAL ROOMS."
 
 #: ../../videomeeting/toc.rst:30
 msgid ""
@@ -11662,10 +12085,16 @@ msgid ""
 " Windows or command+V on macOS. You can use the Arrow icon beside your "
 "room’s name to enter the room."
 msgstr ""
+"Vous pouvez utiliser l’icône de lien à côté du nom de votre salle pour "
+"copier son URL. En cliquant sur le bouton, le lien est copié dans le presse‑"
+"papier. Vous pouvez le coller n’importe où (par ex. dans un chat) en faisant "
+"un clic droit → Coller, ou avec le raccourci clavier Ctrl + V sous Windows "
+"ou ⌘ + V sous macOS. Vous pouvez utiliser l’icône flèche à côté du nom de "
+"votre salle pour y accéder."
 
 #: ../../videomeeting/toc.rst:35
 msgid "Managing Virtual Rooms"
-msgstr ""
+msgstr "Gestion des salles virtuelles"
 
 #: ../../videomeeting/toc.rst:37
 msgid ""
@@ -11676,10 +12105,18 @@ msgid ""
 "distinguish which of them are internal and which are external, marked as "
 "“Guest”."
 msgstr ""
+"Toute personne disposant d’un compte sur |product| peut créer des salles "
+"virtuelles. Vous pouvez utiliser votre salle pour inviter d’autres "
+"participants à des réunions, qu’il s’agisse de collègues ayant un compte sur "
+"le même système ou d’utilisateurs externes. Dans la liste des participants à "
+"la réunion vidéo, vous pourrez distinguer les internes des externes, ces "
+"derniers étant indiqués comme « Guest »."
 
 #: ../../videomeeting/toc.rst:40
 msgid "To access and enter your virtual room, follow these steps:"
 msgstr ""
+"Pour accéder à votre salle virtuelle et y entrer, suivez les étapes "
+"suivantes :"
 
 #: ../../videomeeting/toc.rst:43 ../../videomeeting/toc.rst:70
 #: ../../videomeeting/toc.rst:83 ../../videomeeting/toc.rst:95
@@ -11688,10 +12125,12 @@ msgid ""
 "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the "
 "list of chats to open your list of rooms."
 msgstr ""
+"Cliquez sur YOUR VIRTUAL ROOMS situé en bas à gauche, sous la liste des "
+"chats, pour ouvrir votre liste de salles."
 
 #: ../../videomeeting/toc.rst:44 ../../videomeeting/toc.rst:84
 msgid "You can use the Arrow icon beside the room’s name to enter it."
-msgstr ""
+msgstr "Utilisez l’icône flèche à côté du nom de la salle pour y entrer."
 
 #: ../../videomeeting/toc.rst:47
 msgid "Guest Entry Experience"
@@ -11730,37 +12169,39 @@ msgstr ""
 
 #: ../../videomeeting/toc.rst:65
 msgid "Editing Room Details"
-msgstr ""
+msgstr "Modification des détails de la salle"
 
 #: ../../videomeeting/toc.rst:67
 msgid "To edit the details of a room:"
-msgstr ""
+msgstr "Pour modifier les détails d’une room :"
 
 #: ../../videomeeting/toc.rst:71
 msgid "Click the three dots icon beside the room’s name."
-msgstr ""
+msgstr "Cliquez sur l’icône à trois points à côté du nom de la room."
 
 #: ../../videomeeting/toc.rst:72
 msgid "Choose EDIT."
-msgstr ""
+msgstr "Choisissez EDIT."
 
 #: ../../videomeeting/toc.rst:73
 msgid "Edit the room’s name and moderators."
-msgstr ""
+msgstr "Modifiez le nom et les modérateurs de la room."
 
 #: ../../videomeeting/toc.rst:74
 msgid "Click the button EDIT to save the changes."
-msgstr ""
+msgstr "Cliquez sur le bouton EDIT pour enregistrer les modifications."
 
 #: ../../videomeeting/toc.rst:78
 msgid "Entering A Virtual Room"
-msgstr ""
+msgstr "Entrer dans une room virtuelle"
 
 #: ../../videomeeting/toc.rst:80
 msgid ""
 "To enter a specific room, you need to have its link. To obtain the URL of"
 " a room, you can:"
 msgstr ""
+"Pour accéder à une room spécifique, vous devez disposer de son lien. Pour "
+"obtenir l’URL d’une room, vous pouvez :"
 
 #: ../../videomeeting/toc.rst:86
 msgid ""
@@ -11769,20 +12210,28 @@ msgid ""
 " into the address bar of a new browser tab and press Enter. This will "
 "direct you to the room."
 msgstr ""
+"Vous pouvez également copier le lien d’accès à la room dans le presse‑papier "
+"à l’aide de l’icône de lien à côté du nom de la room dans la liste. Collez‑"
+"le dans la barre d’adresse d’un nouvel onglet du navigateur et appuyez sur "
+"Entrée. Vous serez dirigé·e vers la room."
 
 #: ../../videomeeting/toc.rst:90
 msgid "Inviting Members to A Virtual Room"
-msgstr ""
+msgstr "Inviter des membres dans une room virtuelle"
 
 #: ../../videomeeting/toc.rst:92
 msgid ""
 "To invite other members to a room, you need to have its link. To obtain "
 "the URL of a room, you can:"
 msgstr ""
+"Pour inviter d’autres membres dans une room, vous devez disposer de son "
+"lien. Pour obtenir l’URL d’une room, vous pouvez :"
 
 #: ../../videomeeting/toc.rst:96 ../../videomeeting/toc.rst:117
 msgid "Click the link icon beside your room’s name to copy the room's link."
 msgstr ""
+"Cliquez sur l’icône de lien à côté du nom de votre room pour copier le lien "
+"de la room."
 
 #: ../../videomeeting/toc.rst:98 ../../videomeeting/toc.rst:119
 msgid ""
@@ -11793,28 +12242,35 @@ msgid ""
 "page from the address bar of your browser, then send it to your "
 "colleagues."
 msgstr ""
+"Le lien d’accès à la room sera copié dans le presse‑papier. Vous pouvez le "
+"coller n’importe où (par ex. dans un chat) en faisant un clic droit → "
+"Coller, ou avec le raccourci clavier CTRL+V sous Windows ou ⌘+V sous macOS. "
+"Vous pouvez également entrer dans votre room, copier l’URL depuis la barre "
+"d’adresse du navigateur, puis la transmettre à vos collègues."
 
 #: ../../videomeeting/toc.rst:102
 msgid "Holding A Video Call with A Member"
-msgstr ""
+msgstr "Organiser un appel vidéo avec un membre"
 
 #: ../../videomeeting/toc.rst:104
 msgid "To invite a colleague to a video call:"
-msgstr ""
+msgstr "Pour inviter un·e collègue à un appel vidéo :"
 
 #: ../../videomeeting/toc.rst:107
 msgid ""
 "From the list of chats, choose the colleague with whom you want to have "
 "the video call."
 msgstr ""
+"Dans la liste des discussions, sélectionnez le·la collègue avec qui vous "
+"souhaitez lancer l’appel vidéo."
 
 #: ../../videomeeting/toc.rst:108
 msgid "Click on the START MEETING button on top of the chat area."
-msgstr ""
+msgstr "Cliquez sur le bouton START MEETING en haut de la zone de chat."
 
 #: ../../videomeeting/toc.rst:111
 msgid "Holding A Video Meeting with Multiple Members"
-msgstr ""
+msgstr "Organiser une réunion vidéo avec plusieurs participants"
 
 #: ../../videomeeting/toc.rst:113
 msgid ""
@@ -11822,10 +12278,13 @@ msgid ""
 "do so, you need to send them the link to your personal room. To obtain "
 "your room's link:"
 msgstr ""
+"Vous pouvez utiliser votre room personnelle pour inviter d’autres "
+"participants à une réunion vidéo. Pour cela, envoyez‑leur le lien de votre "
+"room personnelle. Pour obtenir le lien de votre room :"
 
 #: ../../videomeeting/toc.rst:123
 msgid "Select Webcam and Microphone"
-msgstr ""
+msgstr "Sélectionner la webcam et le microphone"
 
 #: ../../videomeeting/toc.rst:125
 msgid ""
@@ -11834,10 +12293,15 @@ msgid ""
 "choose to turn the webcam and microphone on or off before joining the "
 "room. Once your selections are made, press ENTER to join the meeting."
 msgstr ""
+"Avant d’entrer dans la réunion vidéo, il vous sera demandé de choisir une "
+"webcam et un microphone parmi les options disponibles sur votre ordinateur. "
+"Vous pouvez également activer ou désactiver la webcam et le microphone avant "
+"de rejoindre la room. Une fois les paramètres définis, appuyez sur ENTRÉE "
+"pour rejoindre la réunion."
 
 #: ../../videomeeting/toc.rst:129
 msgid "Enable Webcam and Microphone"
-msgstr ""
+msgstr "Activer la webcam et le microphone"
 
 #: ../../videomeeting/toc.rst:131
 msgid ""
@@ -11847,6 +12311,11 @@ msgid ""
 "bar, simply move your mouse cursor to the bottom of the screen, and it "
 "will appear."
 msgstr ""
+"Lorsque vous êtes en réunion vidéo, vous pouvez activer ou désactiver votre "
+"webcam ou votre microphone. Voici comment : cliquez sur l’icône du "
+"microphone ou de la caméra dans la barre inférieure de la salle de réunion. "
+"Si la barre inférieure n’apparaît pas, déplacez simplement le curseur vers "
+"le bas de l’écran."
 
 #: ../../videomeeting/toc.rst:133
 msgid ""
@@ -11854,6 +12323,9 @@ msgid ""
 "Simply click on the arrow icon in the camera button, and then choose the "
 "option Apply Blur Effect."
 msgstr ""
+"Pendant une réunion vidéo, vous pouvez flouter votre arrière‑plan. Cliquez "
+"sur l’icône flèche du bouton caméra, puis sélectionnez « Appliquer l’effet "
+"de flou »."
 
 #: ../../videomeeting/toc.rst:135
 msgid ""
@@ -11862,14 +12334,18 @@ msgid ""
 "Background Image. You can upload your own image or choose one from the "
 "available options."
 msgstr ""
+"Vous pouvez également choisir une image d’arrière‑plan spécifique. Cliquez "
+"sur l’icône flèche du bouton caméra, puis sélectionnez « Appliquer l’image "
+"d’arrière‑plan ». Vous pouvez télécharger votre propre image ou en choisir "
+"une parmi les options disponibles."
 
 #: ../../videomeeting/toc.rst:139
 msgid "Recording a Video Meeting"
-msgstr ""
+msgstr "Enregistrement d’une réunion vidéo"
 
 #: ../../videomeeting/toc.rst:141
 msgid "When you are in a video meeting and want to record it:"
-msgstr ""
+msgstr "Lorsque vous êtes en réunion vidéo et souhaitez l’enregistrer :"
 
 #: ../../videomeeting/toc.rst:143
 msgid "Click the **arrow button** on the left side to open the chat box."
@@ -11924,21 +12400,23 @@ msgstr ""
 
 #: ../../videomeeting/toc.rst:158
 msgid "Adding New Members to a Video Meeting"
-msgstr ""
+msgstr "Ajout de nouveaux participants à une réunion vidéo"
 
 #: ../../videomeeting/toc.rst:160
 msgid ""
 "To add new members to an ongoing video meeting, you need to send them the"
 " link to access the room. Here is how:"
 msgstr ""
+"Pour ajouter de nouveaux participants à une réunion vidéo en cours, envoyez‑"
+"leur le lien d’accès à la salle. Voici comment :"
 
 #: ../../videomeeting/toc.rst:162
 msgid "Make sure you are in the meeting."
-msgstr ""
+msgstr "Assurez‑vous d’être dans la réunion."
 
 #: ../../videomeeting/toc.rst:163
 msgid "Copy the URL of the page from the address bar of your browser."
-msgstr ""
+msgstr "Copiez l’URL de la page depuis la barre d’adresse de votre navigateur."
 
 #: ../../videomeeting/toc.rst:165
 msgid ""
@@ -11947,10 +12425,14 @@ msgid ""
 "Paste, or by using the keyboard shortcut CTRL+V on Windows or command+V "
 "on macOS."
 msgstr ""
+"Le lien d’accès à votre salle est alors copié dans le presse‑papier. Vous "
+"pouvez le coller n’importe où (par ex. dans une discussion) en cliquant "
+"droit et en sélectionnant Coller, ou avec le raccourci clavier CTRL+V sous "
+"Windows ou ⌘+V sous macOS."
 
 #: ../../videomeeting/toc.rst:168
 msgid "Accessing Chat History During a Video Meeting"
-msgstr ""
+msgstr "Accès à l’historique de discussion pendant une réunion vidéo"
 
 #: ../../videomeeting/toc.rst:170
 msgid ""
@@ -11958,10 +12440,12 @@ msgid ""
 "meeting, simply click the arrow button on the left side to open the chat "
 "box."
 msgstr ""
+"Pour accéder à la zone de discussion de la salle où se déroule la réunion "
+"vidéo, cliquez simplement sur le bouton flèche à gauche."
 
 #: ../../videomeeting/toc.rst:173
 msgid "Sharing Screen During a Video Meeting"
-msgstr ""
+msgstr "Partage d’écran pendant une réunion vidéo"
 
 #: ../../videomeeting/toc.rst:175
 msgid ""
@@ -11973,10 +12457,16 @@ msgid ""
 "specific window. •       Entire screen. Select the desired option and "
 "then click Share."
 msgstr ""
+"Lorsque vous êtes en réunion vidéo, vous pouvez partager votre écran avec "
+"les participants. Voici comment : cliquez sur l’icône écran dans la barre "
+"inférieure de la salle de réunion. Si la barre inférieure n’apparaît pas, "
+"déplacez le curseur vers le bas de l’écran. Vous avez trois options : • "
+"L’onglet de votre navigateur. • Une fenêtre spécifique. • L’écran entier. "
+"Sélectionnez l’option souhaitée, puis cliquez sur « Partager »."
 
 #: ../../videomeeting/toc.rst:183
 msgid "Maximizing Video Meeting Screen"
-msgstr ""
+msgstr "Agrandir l’écran de la réunion vidéo"
 
 #: ../../videomeeting/toc.rst:185
 msgid ""
@@ -11985,10 +12475,13 @@ msgid ""
 " the meeting room, simply move your mouse cursor to the bottom of the "
 "screen, and it will appear."
 msgstr ""
+"Pour agrandir l’écran de la réunion vidéo, cliquez sur l’icône à double "
+"flèche située dans la barre inférieure. Si la barre inférieure n’est pas "
+"visible, déplacez le curseur vers le bas de l’écran."
 
 #: ../../videomeeting/toc.rst:188
 msgid "Cinema Mode Fullscreen Feature"
-msgstr ""
+msgstr "Fonction plein écran du mode cinéma"
 
 #: ../../videomeeting/toc.rst:190
 msgid ""
@@ -11996,6 +12489,9 @@ msgid ""
 "allowing you to focus on shared content or participants with an immersive"
 " fullscreen display."
 msgstr ""
+"Le mode cinéma offre une expérience de visualisation optimisée pendant les "
+"réunions, vous permettant de vous concentrer sur le contenu partagé ou les "
+"participants grâce à un affichage immersif plein écran."
 
 #: ../../videomeeting/toc.rst:192
 msgid ""
@@ -12004,6 +12500,10 @@ msgid ""
 "distractions * Optimize display during presentations or collaborative "
 "sessions"
 msgstr ""
+"Cette fonctionnalité vous permet de : * Visualiser les réunions en Cinema "
+"Mode pour une expérience plus immersive * Activer le mode plein écran pour "
+"éliminer les distractions de l’interface * Optimiser l’affichage lors de "
+"présentations ou de sessions collaboratives"
 
 #: ../../videomeeting/toc.rst:197
 msgid ""
@@ -12013,6 +12513,12 @@ msgid ""
 "Enable fullscreen: Activate fullscreen mode to maximize the viewing area "
 "and remove interface elements"
 msgstr ""
+"Pour utiliser les fonctionnalités Cinema Mode et plein écran, suivez ces "
+"étapes : * Rejoindre une réunion : entrer dans une réunion existante * "
+"Passer en vue Cinema : dans les options d’affichage, sélectionner le mode «"
+" Cinema » pour optimiser la disposition * Activer le plein écran : activer "
+"le mode plein écran pour maximiser la zone de visualisation et supprimer les "
+"éléments d’interface"
 
 #: ../../videomeeting/toc.rst:202
 msgid ""
@@ -12020,10 +12526,14 @@ msgid ""
 "cinema view, and hides the sidebar in other views. When full screen is "
 "activated in cinema view, left panel and carousel will be closed."
 msgstr ""
+"Le mode plein écran masque désormais automatiquement la barre latérale et le "
+"carrousel en vue cinema, et masque la barre latérale dans les autres vues. "
+"Lorsqu’il est activé en vue cinema, le panneau gauche et le carrousel sont "
+"fermés."
 
 #: ../../videomeeting/toc.rst:205
 msgid "Raise Hand Feature"
-msgstr ""
+msgstr "Fonction Levée de main"
 
 #: ../../videomeeting/toc.rst:207
 msgid ""
@@ -12031,64 +12541,76 @@ msgid ""
 " to speak through a structured queue system, promoting organized "
 "discussions and better meeting flow."
 msgstr ""
+"La fonction Levée de main permet aux participants de signaler leur souhait "
+"de prendre la parole via un système de file d’attente structuré, favorisant "
+"des discussions organisées et un meilleur déroulement de la réunion."
 
 #: ../../videomeeting/toc.rst:209
 msgid "How It Works for Participants:"
-msgstr ""
+msgstr "Fonctionnement pour les participants :"
 
 #: ../../videomeeting/toc.rst:211
 msgid "Raise hand to join speaking queue"
-msgstr ""
+msgstr "Lever la main pour rejoindre la file d’attente de parole"
 
 #: ../../videomeeting/toc.rst:212
 msgid "View real-time queue showing order, avatars, and usernames"
 msgstr ""
+"Afficher la file d’attente en temps réel avec l’ordre, les avatars et les "
+"noms d’utilisateur"
 
 #: ../../videomeeting/toc.rst:213
 msgid "Receive audio notifications when others raise hands"
-msgstr ""
+msgstr "Recevoir des notifications audio lorsque d’autres lèvent la main"
 
 #: ../../videomeeting/toc.rst:214
 msgid "Hand automatically lowers when speaking begins"
-msgstr ""
+msgstr "La main se baisse automatiquement dès le début de la prise de parole"
 
 #: ../../videomeeting/toc.rst:216
 msgid "Moderators"
-msgstr ""
+msgstr "Modérateurs"
 
 #: ../../videomeeting/toc.rst:218
 msgid "Access dedicated queue management panel"
-msgstr ""
+msgstr "Accéder au panneau dédié à la gestion de la file d’attente"
 
 #: ../../videomeeting/toc.rst:219
 msgid "Lower individual hands or clear entire queue"
-msgstr ""
+msgstr "Abaisser les mains individuelles ou vider la file d’attente complète"
 
 #: ../../videomeeting/toc.rst:220
 msgid "Actions sync across all moderators in real-time"
-msgstr ""
+msgstr "Les actions sont synchronisées en temps réel entre tous les modérateurs"
 
 #: ../../videomeeting/toc.rst:222
 msgid ""
 "This feature streamlines meeting participation by providing clear "
 "speaking order while giving moderators effective queue management tools."
 msgstr ""
+"Cette fonctionnalité simplifie la participation aux réunions en offrant un "
+"ordre de prise de parole clair tout en fournissant aux modérateurs des "
+"outils de gestion de file d’attente efficaces."
 
 #: ../../videomeeting/toc.rst:224
 msgid "To activate the Raise Hand feature during a video meeting:"
-msgstr ""
+msgstr "Pour activer la fonction Levée de main lors d’une réunion vidéo :"
 
 #: ../../videomeeting/toc.rst:226
 msgid "Click the hand icon on the bottom bar inside the meeting room."
 msgstr ""
+"Cliquez sur l’icône main dans la barre inférieure de la salle de réunion."
 
 #: ../../videomeeting/toc.rst:227
 msgid "When you will start speaking, your hand will be automatically lowered."
 msgstr ""
+"Lorsque vous commencerez à parler, votre main sera automatiquement abaissée."
 
 #: ../../videomeeting/toc.rst:228
 msgid "If you want to lower your hand manually, simply click the hand icon again."
 msgstr ""
+"Si vous souhaitez baisser votre main manuellement, cliquez simplement de "
+"nouveau sur l’icône main."
 
 #: ../../videomeeting/toc.rst:229
 msgid ""
@@ -12096,10 +12618,13 @@ msgid ""
 "participants by clicking on the hand icon next to their name in the "
 "Participants section of the chat box."
 msgstr ""
+"Si vous êtes modérateur, vous pouvez également baisser les mains des autres "
+"participants en cliquant sur l’icône main à côté de leur nom dans la section "
+"Participants de la boîte de discussion."
 
 #: ../../videomeeting/toc.rst:232
 msgid "Muting Participants During a Video Meeting"
-msgstr ""
+msgstr "Muter les participants lors d’une réunion vidéo"
 
 #: ../../videomeeting/toc.rst:234
 msgid ""
@@ -12108,48 +12633,55 @@ msgid ""
 "the attendee and click on the microphone icon located at the corner of "
 "their video feed."
 msgstr ""
+"En tant que modérateur d’une salle de réunion, vous pouvez mettre en "
+"sourdine le microphone d’un participant individuellement. Pour ce faire, "
+"survolez le flux vidéo du participant et cliquez sur l’icône microphone "
+"située dans le coin de son flux."
 
 #: ../../videomeeting/toc.rst:236 ../../videomeeting/toc.rst:256
 msgid "Click the arrow button on the left side to open the chat box."
 msgstr ""
+"Cliquez sur le bouton flèche à gauche pour ouvrir la zone de discussion."
 
 #: ../../videomeeting/toc.rst:237 ../../videomeeting/toc.rst:257
 msgid ""
 "Click the downward arrow next to the Participants section located at the "
 "top of the chat box."
 msgstr ""
+"Cliquez sur la flèche vers le bas à côté de la section Participants, située "
+"en haut de la zone de chat."
 
 #: ../../videomeeting/toc.rst:238
 msgid "Click the microphone icon next to the participant’s name."
-msgstr ""
+msgstr "Cliquez sur l’icône microphone à côté du nom du participant."
 
 #: ../../videomeeting/toc.rst:239
 msgid "Click MUTE FOR ALL to confirm."
-msgstr ""
+msgstr "Cliquez sur MUET POUR TOUS pour confirmer."
 
 #: ../../videomeeting/toc.rst:244
 msgid "To delete a meeting room:"
-msgstr ""
+msgstr "Pour supprimer une salle de réunion :"
 
 #: ../../videomeeting/toc.rst:248
 msgid "Click the trash icon beside the name of the room you want to delete."
-msgstr ""
+msgstr "Cliquez sur l’icône corbeille à côté du nom de la salle à supprimer."
 
 #: ../../videomeeting/toc.rst:249
 msgid "Click DELETE to confirm."
-msgstr ""
+msgstr "Cliquez sur SUPPRIMER pour confirmer."
 
 #: ../../videomeeting/toc.rst:252
 msgid "Adding Moderators to a Room"
-msgstr ""
+msgstr "Ajouter des modérateurs à une salle"
 
 #: ../../videomeeting/toc.rst:254
 msgid "To add a moderator to a meeting room:"
-msgstr ""
+msgstr "Pour ajouter un modérateur à une salle de réunion :"
 
 #: ../../videomeeting/toc.rst:258
 msgid "Click the crown icon next to the participant’s name."
-msgstr ""
+msgstr "Cliquez sur l’icône couronne à côté du nom du participant."
 
 #~ msgid "Set Email Retention and Disposal Policies for a Folder"
 #~ msgstr ""

@@ -369,8 +369,8 @@ You can archive an email or a conversation directly from the mail list.
 #. Select **Archive**.
 
 .. image:: /img/inbox-to-archive.png
-        :align: center
-        :width: 100%
+          :align: center
+          :width: 100%
 
 .. tip:: Alternatively, you can drag and drop one or multiple messages and conversations between folders, including the Archive folder
 

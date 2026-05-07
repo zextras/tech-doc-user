@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Carbonio User Guide 26.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 12:03+0200\n"
+"POT-Creation-Date: 2026-05-07 16:11+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1159,7 +1159,7 @@ msgstr ""
 msgid "The sender must have the recipient’s public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:626
+#: ../../advanced_email_management/toc.rst:632
 msgid "Email Encryption"
 msgstr ""
 
@@ -5100,7 +5100,7 @@ msgstr ""
 msgid "Filtering Your View"
 msgstr ""
 
-#: ../../contacts/toc.rst:220
+#: ../../contacts/toc.rst:224
 msgid "To manage what you see in Contacts:"
 msgstr ""
 

@@ -578,34 +578,38 @@ How S/MIME Signing Works in Carbonio
 Importing an S/MIME Certificate
 --------------------------------
 
-# Upload your personal certificate (containing a public and a private key) into Carbonio webmail via Settings → S/MIME Certificates (the system will ask to enter a password to protect the certificate. If one has already been set it will ask for the password).
-# Click Upload Certificate under Personal certificates for signing, encryption and decryption.
+1. Upload your personal certificate (containing a public and a private key) into Carbonio webmail via Settings → S/MIME Certificates (the system will ask to enter a password to protect the certificate. If one has already been set it will ask for the password).
+2. Click Upload Certificate under Personal certificates for signing, encryption and decryption.
 
 
 Signing an Email
 -----------------
 
-# When composing an email, select "Use certificate to sign (S/MIME)".
-# Carbonio uses the user’s private key to generate a digital signature.
-# The signature is attached to the email as a cryptographic hash.
-# The recipient can verify the signature using the sender’s public key.
+When composing an email, select "Use certificate to sign (S/MIME)".
+
+#. Carbonio uses the user's private key to generate a digital signature.
+#. The signature is attached to the email as a cryptographic hash.
+#. The recipient can verify the signature using the sender's public key.
 
 
 Verifying a Signed Email
 -------------------------
 
-# When you receive a signed email, the signature is displayed in the email header.
-# Click on the signature to view the certificate details.
-# The certificate details include the certificate issuer, the certificate validity period, and the certificate fingerprint.
-# The recipient can verify the signature using the sender’s public key.
+When you receive a signed email, the signature is displayed in the email header.
 
- If the signature is valid:
+#. Click on the signature to view the certificate details.
+#. The certificate details include the certificate issuer, the certificate validity period, and the certificate fingerprint.
+#. The recipient can verify the signature using the sender's public key.
 
-    * The recipient sees a signed email notification.
-    * It confirms the email hasn’t been modified and is truly from the claimed sender.
+  If the signature is valid:
 
-  If the signature is invalid or missing, the email might be tampered with or sent from an untrusted source.
-  The recipient should be cautious when interacting with such emails.
+  * The recipient sees a signed email notification.
+  * It confirms the email hasn't been modified and is truly from the claimed sender.
+
+  If the signature is invalid or missing: 
+
+  * The email might be tampered with or sent from an untrusted source.
+  * The recipient should be cautious when interacting with such emails.
 
 
 How S/MIME Encryption Works in Carbonio
@@ -614,30 +618,33 @@ How S/MIME Encryption Works in Carbonio
 Key Components
 --------------
 
-# Public Key: Used to encrypt the email. Stored in the recipient’s S/MIME certificate.
-# Private Key: Used to decrypt the email. Stored securely by the recipient.
-# Certificate Authority (CA): Issues S/MIME certificates to users.
+* **Public Key**: Used to encrypt the email. Stored in the recipient's S/MIME certificate.
+* **Private Key**: Used to decrypt the email. Stored securely by the recipient.
+* **Certificate Authority (CA)**: Issues S/MIME certificates to users.
 
 The Encryption Process
 ----------------------
 
-1. Sender Retrieves Recipient’s Public Key
-    * The sender must have the recipient’s public key.
+1. Sender Retrieves Recipient's Public Key
+
+* The sender must have the recipient's public key.
+
 2. Email Encryption
-    * The sender composes an email and selects  "Encrypt with S/MIME" 
-    * Sender email content is encrypted using the recipient’s public key.
-    * The email is sent in an encrypted format.
-    * Recipient Decrypts the Email
-      * When the recipient opens the email, its private key is used to decrypt the message.
-      * If the private key matches the encrypted data, the email is decrypted and displayed normally.
+
+* The sender composes an email and selects  "Encrypt with S/MIME" 
+* Sender email content is encrypted using the recipient's public key.
+* The email is sent in an encrypted format.
+* Recipient Decrypts the Email
+  * When the recipient opens the email, its private key is used to decrypt the message.
+  * If the private key matches the encrypted data, the email is decrypted and displayed normally.
 
 The recipient can only decrypt the email if they have the corresponding private key. This ensures that only the intended recipient can read the email.
 
 Requirements for S/MIME Encryption
------------------------------------
+----------------------------------
 
-# Both sender and recipient must have S/MIME certificates installed.
-# The recipient’s public key must be available to the sender.
+* Both sender and recipient must have S/MIME certificates installed.
+* The recipient's public key must be available to the sender.
 
 Uploading a Certificate in Carbonio Webmail
 -------------------------------------------
@@ -655,16 +662,16 @@ Uploading Recipient Certificate
 2. Click Save.
 
 Sending an Encrypted Email
-----------------------------
+--------------------------
 
 1. Compose a new email in Carbonio webmail.
 2. Select "Use certificate to encrypt (S/MIME)" before sending.
-3. The email will be encrypted using the recipient’s public key.
+3. The email will be encrypted using the recipient's public key.
 
 Receiving and Decrypting an Email
------------------------------------
+---------------------------------
 
-# If your private key is installed, Carbonio will automatically decrypt the message.
-# If not, you’ll see an "Unable to decrypt" error.
-# You can upload your private key to decrypt the message.
+* If your private key is installed, Carbonio will automatically decrypt the message.
+* If not, you'll see an "Unable to decrypt" error.
+* You can upload your private key to decrypt the message.
 

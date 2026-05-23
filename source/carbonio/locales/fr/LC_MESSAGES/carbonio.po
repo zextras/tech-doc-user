@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-05-07 12:03+0200\n"
-"PO-Revision-Date: 2026-05-07 14:17+0000\n"
+"PO-Revision-Date: 2026-05-24 11:52+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
@@ -10594,18 +10594,20 @@ msgid ""
 "Select at least two colleagues (groups require 3+ participants including "
 "you)."
 msgstr ""
+"Sélectionnez au moins deux collègues (les groupes nécessitent 3 + "
+"participants, vous compris)."
 
 #: ../../mobile_apps/chat_app.rst:107
 msgid "Tap **Next** (if shown)."
-msgstr ""
+msgstr "Appuyez sur **Next** (si affiché)."
 
 #: ../../mobile_apps/chat_app.rst:108
 msgid "Set a **group name** and optionally add an image."
-msgstr ""
+msgstr "Définissez un **nom de groupe** et ajoutez éventuellement une image."
 
 #: ../../mobile_apps/chat_app.rst:109
 msgid "Tap **Create** (or a checkmark icon)."
-msgstr ""
+msgstr "Appuyez sur **Create** (ou l’icône coche)."
 
 #: ../../mobile_apps/chat_app.rst:112
 msgid "Add Participants to a Group"
@@ -10613,30 +10615,32 @@ msgstr "Ajouter des participants à un groupe"
 
 #: ../../mobile_apps/chat_app.rst:114 ../../mobile_apps/chat_app.rst:126
 msgid "If you are a moderator:"
-msgstr ""
+msgstr "Si vous êtes modérateur :"
 
 #: ../../mobile_apps/chat_app.rst:116 ../../mobile_apps/chat_app.rst:128
 #: ../../mobile_apps/chat_app.rst:136
 msgid "Open the group."
-msgstr ""
+msgstr "Ouvrez le groupe."
 
 #: ../../mobile_apps/chat_app.rst:117
 msgid "Open **Group info** (i icon or group name)."
-msgstr ""
+msgstr "Ouvrez **Group info** (icône i ou nom du groupe)."
 
 #: ../../mobile_apps/chat_app.rst:118
 msgid "Tap **Invite participants**."
-msgstr ""
+msgstr "Appuyez sur **Invite participants**."
 
 #: ../../mobile_apps/chat_app.rst:119
 msgid "Select colleagues and confirm."
-msgstr ""
+msgstr "Sélectionnez des collègues et confirmez."
 
 #: ../../mobile_apps/chat_app.rst:121
 msgid ""
 "If available, you can enable **Show previous conversation history** so "
 "new members can see earlier messages."
 msgstr ""
+"Si disponible, vous pouvez activer **Show previous conversation history** "
+"afin que les nouveaux membres voient les messages précédents."
 
 #: ../../mobile_apps/chat_app.rst:124
 msgid "Remove Participants from a Group"
@@ -10644,39 +10648,40 @@ msgstr "Supprimer des participants d’un groupe"
 
 #: ../../mobile_apps/chat_app.rst:129 ../../mobile_apps/chat_app.rst:137
 msgid "Open **Group info**."
-msgstr ""
+msgstr "Ouvrez **Group info**."
 
 #: ../../mobile_apps/chat_app.rst:130
 msgid "Tap the participant’s name."
-msgstr ""
+msgstr "Appuyez sur le nom du participant."
 
 #: ../../mobile_apps/chat_app.rst:131
 msgid "Select **Remove from conversation**."
-msgstr ""
+msgstr "Sélectionnez **Remove from conversation**."
 
 #: ../../mobile_apps/chat_app.rst:134
 msgid "Leave a Group"
-msgstr ""
+msgstr "Quitter le groupe"
 
 #: ../../mobile_apps/chat_app.rst:138
 msgid "Tap **Leave** and confirm."
-msgstr ""
+msgstr "Appuyez sur **Leave** puis confirmez."
 
 #: ../../mobile_apps/chat_app.rst:142
 msgid "Creating a New Room"
-msgstr ""
+msgstr "Création d’une nouvelle salle"
 
 #: ../../mobile_apps/chat_app.rst:144
 msgid "Rooms are shared spaces used for video meetings and chat."
 msgstr ""
+"Les salles sont des espaces partagés pour les réunions vidéo et le chat."
 
 #: ../../mobile_apps/chat_app.rst:146
 msgid "To create a room:"
-msgstr ""
+msgstr "Pour créer une salle :"
 
 #: ../../mobile_apps/chat_app.rst:148 ../../mobile_apps/files_app.rst:14
 msgid "Tap **Create** (plus icon)."
-msgstr ""
+msgstr "Appuyez sur **Create** (icône plus)."
 
 #: ../../mobile_apps/chat_app.rst:149
 msgid "Select **Create Room**."
@@ -10709,7 +10714,7 @@ msgstr "Entrer dans une salle"
 #: ../../mobile_apps/chat_app.rst:161 ../../mobile_apps/chat_app.rst:168
 #: ../../mobile_apps/chat_app.rst:184
 msgid "Open the **Meetings** section/tab."
-msgstr ""
+msgstr "Ouvrez la section/onglet **Meetings**."
 
 #: ../../mobile_apps/chat_app.rst:162 ../../mobile_apps/chat_app.rst:169
 msgid "Tap the room name."

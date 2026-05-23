@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-07 12:03+0200\n"
-"PO-Revision-Date: 2026-05-07 14:17+0000\n"
+"PO-Revision-Date: 2026-05-24 11:52+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/gettext/>\n"
@@ -3562,6 +3562,11 @@ msgid ""
 " easier to keep your mailbox organized while still keeping important "
 "messages available for future reference."
 msgstr ""
+"The **Archive** feature in Carbonio allows you to quickly move emails and "
+"conversations out of your current folders without deleting them. Archived "
+"items are stored in a dedicated Archive system folder, making it easier to "
+"keep your mailbox organized while still keeping important messages available "
+"for future reference."
 
 #: ../../basic_email_management/toc.rst:357
 msgid ""
@@ -3569,19 +3574,22 @@ msgid ""
 " at once. The **Archive** folder behaves like the other system folders in"
 " Carbonio and can display the number of unread items it contains."
 msgstr ""
+"You can archive a single email, an entire conversation, or multiple items at "
+"once. The **Archive** folder behaves like the other system folders in "
+"Carbonio and can display the number of unread items it contains."
 
 #: ../../basic_email_management/toc.rst:360
 msgid "Archiving a Single Email or Conversation"
-msgstr ""
+msgstr "Archiving a Single Email or Conversation"
 
 #: ../../basic_email_management/toc.rst:362
 msgid "You can archive an email or a conversation directly from the mail list."
-msgstr ""
+msgstr "You can archive an email or a conversation directly from the mail list."
 
 #: ../../basic_email_management/toc.rst:364
 #: ../../basic_email_management/toc.rst:391
 msgid "**To do so:**"
-msgstr ""
+msgstr "To do so:"
 
 #: ../../basic_email_management/toc.rst:366
 #: ../../basic_email_management/toc.rst:393 ../../files/toc.rst:69
@@ -3607,6 +3615,8 @@ msgid ""
 "Alternatively, you can drag and drop one or multiple messages and "
 "conversations between folders, including the Archive folder"
 msgstr ""
+"Alternatively, you can drag and drop one or multiple messages and "
+"conversations between folders, including the Archive folder"
 
 #: ../../basic_email_management/toc.rst:377
 msgid ""
@@ -3614,6 +3624,9 @@ msgid ""
 "shows a confirmation message on the bottom left of the page after the "
 "operation is completed."
 msgstr ""
+"The selected item is immediately moved to the Archive folder. Carbonio shows "
+"a confirmation message on the bottom left of the page after the operation is "
+"completed."
 
 #: ../../basic_email_management/toc.rst:380
 msgid "Working with the Archive Folder"
@@ -3625,6 +3638,9 @@ msgid ""
 "automatically used to store archived emails and conversations. Like other"
 " system folders, it is part of the standard mailbox structure."
 msgstr ""
+"The **Archive** folder is a **system folder** in Carbonio. It is "
+"automatically used to store archived emails and conversations. Like other "
+"system folders, it is part of the standard mailbox structure."
 
 #: ../../basic_email_management/toc.rst:384
 msgid ""
@@ -3633,6 +3649,10 @@ msgid ""
 "conversations can still be managed like other mail items. For example, "
 "you can open them, move them, or empty the folder when needed."
 msgstr ""
+"When the Archive folder contains unread items, Carbonio can display an "
+"unread count badge next to the folder name. Archived emails and "
+"conversations can still be managed like other mail items. For example, you "
+"can open them, move them, or empty the folder when needed."
 
 #: ../../basic_email_management/toc.rst:387
 msgid "Restoring Archived Items"
@@ -3643,10 +3663,12 @@ msgid ""
 "If you want to move an archived email or conversation out of the Archive "
 "folder, you can use the Move action."
 msgstr ""
+"If you want to move an archived email or conversation out of the Archive "
+"folder, you can use the Move action."
 
 #: ../../basic_email_management/toc.rst:394
 msgid "Open the **Archive** folder."
-msgstr ""
+msgstr "Open the **Archive** folder."
 
 #: ../../basic_email_management/toc.rst:395
 msgid "Locate the email or conversation you want to restore."
@@ -3665,6 +3687,8 @@ msgid ""
 "Alternatively, you can also use the drag and drop functionality on the "
 "Archive folder"
 msgstr ""
+"Alternatively, you can also use the drag and drop functionality on the "
+"Archive folder"
 
 #: ../../basic_email_management/toc.rst:405
 msgid "Choose the destination folder and click the **Move** button."
@@ -3672,7 +3696,7 @@ msgstr "Scegli l'azione che desideri eseguire."
 
 #: ../../basic_email_management/toc.rst:411
 msgid "The selected item is moved to the folder you choose."
-msgstr ""
+msgstr "The selected item is moved to the folder you choose."
 
 #: ../../basic_email_management/toc.rst:415
 msgid ""
@@ -3682,6 +3706,11 @@ msgid ""
 "introduced. If you do not see the Archive option in your mailbox, contact"
 " your system administrator or support team."
 msgstr ""
+"The Archive feature is available starting in Carbonio **26.3.0**. For some "
+"upgraded accounts, the feature may not appear if a personal folder named "
+"**Archive** already existed before the system Archive folder was introduced. "
+"If you do not see the Archive option in your mailbox, contact your system "
+"administrator or support team."
 
 #: ../../browsing_emails/toc.rst:7
 msgid "Browsing Emails"
@@ -10305,30 +10334,32 @@ msgstr "Add Participants to a Group"
 
 #: ../../mobile_apps/chat_app.rst:114 ../../mobile_apps/chat_app.rst:126
 msgid "If you are a moderator:"
-msgstr ""
+msgstr "If you are a moderator:"
 
 #: ../../mobile_apps/chat_app.rst:116 ../../mobile_apps/chat_app.rst:128
 #: ../../mobile_apps/chat_app.rst:136
 msgid "Open the group."
-msgstr ""
+msgstr "Open the group."
 
 #: ../../mobile_apps/chat_app.rst:117
 msgid "Open **Group info** (i icon or group name)."
-msgstr ""
+msgstr "Open **Group info** (i icon or group name)."
 
 #: ../../mobile_apps/chat_app.rst:118
 msgid "Tap **Invite participants**."
-msgstr ""
+msgstr "Tap **Invite participants**."
 
 #: ../../mobile_apps/chat_app.rst:119
 msgid "Select colleagues and confirm."
-msgstr ""
+msgstr "Select colleagues and confirm."
 
 #: ../../mobile_apps/chat_app.rst:121
 msgid ""
 "If available, you can enable **Show previous conversation history** so "
 "new members can see earlier messages."
 msgstr ""
+"If available, you can enable **Show previous conversation history** so new "
+"members can see earlier messages."
 
 #: ../../mobile_apps/chat_app.rst:124
 msgid "Remove Participants from a Group"
@@ -10336,19 +10367,19 @@ msgstr "Remove Participants from a Group"
 
 #: ../../mobile_apps/chat_app.rst:129 ../../mobile_apps/chat_app.rst:137
 msgid "Open **Group info**."
-msgstr ""
+msgstr "Open **Group info**."
 
 #: ../../mobile_apps/chat_app.rst:130
 msgid "Tap the participant’s name."
-msgstr ""
+msgstr "Tap the participant’s name."
 
 #: ../../mobile_apps/chat_app.rst:131
 msgid "Select **Remove from conversation**."
-msgstr ""
+msgstr "Select **Remove from conversation**."
 
 #: ../../mobile_apps/chat_app.rst:134
 msgid "Leave a Group"
-msgstr ""
+msgstr "Leave a Group"
 
 #: ../../mobile_apps/chat_app.rst:138
 msgid "Tap **Leave** and confirm."
@@ -10360,15 +10391,15 @@ msgstr "Creare una nuova chat"
 
 #: ../../mobile_apps/chat_app.rst:144
 msgid "Rooms are shared spaces used for video meetings and chat."
-msgstr ""
+msgstr "Rooms are shared spaces used for video meetings and chat."
 
 #: ../../mobile_apps/chat_app.rst:146
 msgid "To create a room:"
-msgstr ""
+msgstr "To create a room:"
 
 #: ../../mobile_apps/chat_app.rst:148 ../../mobile_apps/files_app.rst:14
 msgid "Tap **Create** (plus icon)."
-msgstr ""
+msgstr "Tap **Create** (plus icon)."
 
 #: ../../mobile_apps/chat_app.rst:149
 msgid "Select **Create Room**."
@@ -10376,23 +10407,23 @@ msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/chat_app.rst:150
 msgid "Enter a room name."
-msgstr ""
+msgstr "Enter a room name."
 
 #: ../../mobile_apps/chat_app.rst:151
 msgid "Tap **OK/Create**."
-msgstr ""
+msgstr "Tap **OK/Create**."
 
 #: ../../mobile_apps/chat_app.rst:153
 msgid "You can usually:"
-msgstr ""
+msgstr "You can usually:"
 
 #: ../../mobile_apps/chat_app.rst:155
 msgid "**Copy link** to invite participants."
-msgstr ""
+msgstr "**Copy link** to invite participants."
 
 #: ../../mobile_apps/chat_app.rst:156
 msgid "**Join room** to enter."
-msgstr ""
+msgstr "**Join room** to enter."
 
 #: ../../mobile_apps/chat_app.rst:159
 msgid "Entering a Room"
@@ -10405,7 +10436,7 @@ msgstr "Under the **Recording** section, click **START**."
 
 #: ../../mobile_apps/chat_app.rst:162 ../../mobile_apps/chat_app.rst:169
 msgid "Tap the room name."
-msgstr ""
+msgstr "Tap the room name."
 
 #: ../../mobile_apps/chat_app.rst:163
 msgid "Select **Join room**."
@@ -10413,23 +10444,23 @@ msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/chat_app.rst:166
 msgid "Inviting Members to a Room"
-msgstr ""
+msgstr "Inviting Members to a Room"
 
 #: ../../mobile_apps/chat_app.rst:170
 msgid "Select **Copy link** and share it."
-msgstr ""
+msgstr "Select **Copy link** and share it."
 
 #: ../../mobile_apps/chat_app.rst:173
 msgid "Starting a Video Call with One Person"
-msgstr ""
+msgstr "Starting a Video Call with One Person"
 
 #: ../../mobile_apps/chat_app.rst:175
 msgid "Open a 1-to-1 chat with the colleague."
-msgstr ""
+msgstr "Open a 1-to-1 chat with the colleague."
 
 #: ../../mobile_apps/chat_app.rst:176
 msgid "Tap the camera icon to start a video call."
-msgstr ""
+msgstr "Tap the camera icon to start a video call."
 
 #: ../../mobile_apps/chat_app.rst:180 ../../videomeeting/toc.rst:242
 msgid "Deleting a Meeting Room"
@@ -10437,11 +10468,11 @@ msgstr "Deleting a Meeting Room"
 
 #: ../../mobile_apps/chat_app.rst:182
 msgid "To delete a room (if you have permission):"
-msgstr ""
+msgstr "To delete a room (if you have permission):"
 
 #: ../../mobile_apps/chat_app.rst:185
 msgid "Open the room."
-msgstr ""
+msgstr "Open the room."
 
 #: ../../mobile_apps/chat_app.rst:186
 msgid "Select **Delete Room**."
@@ -10456,6 +10487,8 @@ msgid ""
 "With the Carbonio Files app, you can manage, share, and organize files "
 "and folders on the go."
 msgstr ""
+"With the Carbonio Files app, you can manage, share, and organize files and "
+"folders on the go."
 
 #: ../../mobile_apps/files_app.rst:15
 msgid "Select **Folder**."
@@ -10467,13 +10500,15 @@ msgstr "Modifica di una cartella"
 
 #: ../../mobile_apps/files_app.rst:17
 msgid "Tap **Create**."
-msgstr ""
+msgstr "Tap **Create**."
 
 #: ../../mobile_apps/files_app.rst:19
 msgid ""
 "To create a folder inside another folder, open the destination folder "
 "first and repeat the steps above."
 msgstr ""
+"To create a folder inside another folder, open the destination folder first "
+"and repeat the steps above."
 
 #: ../../mobile_apps/files_app.rst:22
 msgid "Uploading a File"
@@ -10481,15 +10516,15 @@ msgstr "Contrassegnare un file"
 
 #: ../../mobile_apps/files_app.rst:24
 msgid "To upload a document:"
-msgstr ""
+msgstr "To upload a document:"
 
 #: ../../mobile_apps/files_app.rst:26
 msgid "Tap **Create/Upload** (plus icon)."
-msgstr ""
+msgstr "Tap **Create/Upload** (plus icon)."
 
 #: ../../mobile_apps/files_app.rst:27
 msgid "Select **Upload document** (or **Upload**)."
-msgstr ""
+msgstr "Select **Upload document** (or **Upload**)."
 
 #: ../../mobile_apps/files_app.rst:28
 msgid "Choose the file from your device."
@@ -10497,15 +10532,15 @@ msgstr "Seleziona la funzione File dal pannello laterale sinistro."
 
 #: ../../mobile_apps/files_app.rst:30
 msgid "To monitor uploads (if available):"
-msgstr ""
+msgstr "To monitor uploads (if available):"
 
 #: ../../mobile_apps/files_app.rst:32
 msgid "Open the app menu (often the menu icon)."
-msgstr ""
+msgstr "Open the app menu (often the menu icon)."
 
 #: ../../mobile_apps/files_app.rst:33
 msgid "Select **Uploads** to view progress."
-msgstr ""
+msgstr "Select **Uploads** to view progress."
 
 #: ../../mobile_apps/files_app.rst:36
 msgid "Deleting a File or Folder"
@@ -10521,7 +10556,7 @@ msgstr "Navigare nella cartella che contiene il file che desideri contrassegnare
 
 #: ../../mobile_apps/files_app.rst:41
 msgid "Tap **More options** (three-dots icon) next to the file/folder."
-msgstr ""
+msgstr "Tap **More options** (three-dots icon) next to the file/folder."
 
 #: ../../mobile_apps/files_app.rst:42
 msgid "Select **Delete**."
@@ -10529,7 +10564,7 @@ msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/files_app.rst:44
 msgid "Deleted items are moved to **Trash**."
-msgstr ""
+msgstr "Deleted items are moved to **Trash**."
 
 #: ../../mobile_apps/files_app.rst:47
 msgid "Delete permanently"
@@ -10537,7 +10572,7 @@ msgstr "Fai clic su **ELIMINA DEFINITIVAMENTE** per confermare."
 
 #: ../../mobile_apps/files_app.rst:49 ../../mobile_apps/files_app.rst:58
 msgid "Open **Trash**."
-msgstr ""
+msgstr "Open **Trash**."
 
 #: ../../mobile_apps/files_app.rst:50 ../../mobile_apps/files_app.rst:59
 msgid "Select **My elements** (if shown)."
@@ -10547,7 +10582,7 @@ msgstr "Seleziona **Elementi miei**."
 #: ../../mobile_apps/files_app.rst:68 ../../mobile_apps/files_app.rst:75
 #: ../../mobile_apps/files_app.rst:82 ../../mobile_apps/files_app.rst:89
 msgid "Tap **More options** next to the item."
-msgstr ""
+msgstr "Tap **More options** next to the item."
 
 #: ../../mobile_apps/files_app.rst:52
 msgid "Select **Delete permanently**."
@@ -10563,7 +10598,7 @@ msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/files_app.rst:63
 msgid "The item returns to its original location."
-msgstr ""
+msgstr "The item returns to its original location."
 
 #: ../../mobile_apps/files_app.rst:66
 msgid "Renaming a File or Folder"
@@ -10575,7 +10610,7 @@ msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/files_app.rst:70
 msgid "Enter the new name and confirm."
-msgstr ""
+msgstr "Enter the new name and confirm."
 
 #: ../../mobile_apps/files_app.rst:73
 msgid "Moving a File Between Folders"
@@ -10595,7 +10630,7 @@ msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/files_app.rst:92
 msgid "To remove the flag, repeat and select **Unflag**."
-msgstr ""
+msgstr "To remove the flag, repeat and select **Unflag**."
 
 #: ../../mobile_apps/files_app.rst:95
 msgid "Adding Collaborators to a File/Folder"
@@ -10607,7 +10642,7 @@ msgstr "Per condividere il tuo calendario con i colleghi:"
 
 #: ../../mobile_apps/files_app.rst:99
 msgid "Tap **More options** next to the file/folder."
-msgstr ""
+msgstr "Tap **More options** next to the file/folder."
 
 #: ../../mobile_apps/files_app.rst:100
 msgid "Select **Add collaborators**."
@@ -10615,25 +10650,27 @@ msgstr "**Collaborazione:**"
 
 #: ../../mobile_apps/files_app.rst:101
 msgid "Enter colleagues’ email addresses and select them from suggestions."
-msgstr ""
+msgstr "Enter colleagues’ email addresses and select them from suggestions."
 
 #: ../../mobile_apps/files_app.rst:102
 msgid "Choose the permission level (for example: **Viewer**, **Editor**)."
-msgstr ""
+msgstr "Choose the permission level (for example: **Viewer**, **Editor**)."
 
 #: ../../mobile_apps/files_app.rst:103
 msgid ""
 "If available, enable **Sharing allowed** to let collaborators share the "
 "item further."
 msgstr ""
+"If available, enable **Sharing allowed** to let collaborators share the item "
+"further."
 
 #: ../../mobile_apps/files_app.rst:104
 msgid "Optionally add a message, then tap **Send**."
-msgstr ""
+msgstr "Optionally add a message, then tap **Send**."
 
 #: ../../mobile_apps/mail_app.rst:7
 msgid "Carbonio Mail App"
-msgstr ""
+msgstr "Carbonio Mail App"
 
 #: ../../mobile_apps/mail_app.rst:9
 msgid ""
@@ -10668,7 +10705,7 @@ msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:18
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 #: ../../mobile_apps/mail_app.rst:20
 msgid ""
@@ -10703,7 +10740,7 @@ msgstr "**Log out** Sign out from the current account."
 
 #: ../../mobile_apps/mail_app.rst:34
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: ../../mobile_apps/mail_app.rst:36
 msgid "The **Settings** section allows customization of Mail and related modules:"
@@ -10758,7 +10795,7 @@ msgstr "**Sharing** Configure sharing options for mailbox items and folders."
 
 #: ../../mobile_apps/mail_app.rst:56
 msgid "Mailbox Quota and Version"
-msgstr ""
+msgstr "Mailbox Quota and Version"
 
 #: ../../mobile_apps/mail_app.rst:58
 msgid "At the bottom of the settings screen, the application displays:"
@@ -11148,7 +11185,7 @@ msgstr ""
 
 #: ../../mobile_apps/toc.rst:6
 msgid "Carbonio Mobile Applications"
-msgstr ""
+msgstr "Carbonio Mobile Applications"
 
 #: ../../mobile_apps/toc.rst:8
 msgid ""
@@ -11156,18 +11193,20 @@ msgid ""
 "devices. You can download them from the official stores using the links "
 "below."
 msgstr ""
+"The Carbonio mobile applications are available for Android and iOS devices. "
+"You can download them from the official stores using the links below."
 
 #: ../../mobile_apps/toc.rst:11
 msgid "**Android (Google Play Store)**"
-msgstr ""
+msgstr "**Android (Google Play Store)**"
 
 #: ../../mobile_apps/toc.rst:25
 msgid "**iOS (Apple App Store)**"
-msgstr ""
+msgstr "**iOS (Apple App Store)**"
 
 #: ../../mobile_apps/toc.rst:40
 msgid "Table of Contents"
-msgstr ""
+msgstr "Table of Contents"
 
 #: ../../search/toc.rst:7
 msgid "Working with Search"

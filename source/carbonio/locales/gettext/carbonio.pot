@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Carbonio User Guide 26.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 16:11+0200\n"
+"POT-Creation-Date: 2026-05-25 13:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -267,10 +267,10 @@ msgid "When you are away from the office, setting up an automatic reply can keep
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:126
-#: ../../get_started/toc.rst:213
-#: ../../get_started/toc.rst:238
-#: ../../get_started/toc.rst:257
-#: ../../get_started/toc.rst:272
+#: ../../get_started/toc.rst:214
+#: ../../get_started/toc.rst:239
+#: ../../get_started/toc.rst:258
+#: ../../get_started/toc.rst:273
 msgid "Select General Settings."
 msgstr ""
 
@@ -6590,7 +6590,7 @@ msgid "Introduction of |product| Web Client"
 msgstr ""
 
 #: ../../get_started/toc.rst:179
-msgid "When you log in to check your emails, the **|product| web client interface** greets you with the following components:"
+msgid "When you log in to check your emails, the |product| **web client interface** greets you with the following components:"
 msgstr ""
 
 #: ../../get_started/toc.rst:186
@@ -6605,154 +6605,158 @@ msgstr ""
 msgid "**Main Panel**: The central area displays your actual content related to the active feature you have selected from the left sidebar. For example, if you select “Mails” from the left sidebar, you will see your emails in this area; similarly, choosing “Calendars” will display your calendar events."
 msgstr ""
 
-#: ../../get_started/toc.rst:191
+#: ../../get_started/toc.rst:189
+msgid "**Storage Quota**: Displays your overall storage usage across Carbonio modules, including Mail, Files, and Chats. It shows the used space compared with the total available quota, together with a progress bar to help you quickly monitor your storage consumption."
+msgstr ""
+
+#: ../../get_started/toc.rst:192
 msgid "Using Browser Buttons to Navigate |product|"
 msgstr ""
 
-#: ../../get_started/toc.rst:193
+#: ../../get_started/toc.rst:194
 msgid "It is recommended to avoid using your browser’s navigation buttons too frequently, especially when you are in the middle of composing an email or a message. These buttons can inadvertently disrupt your work and cause you to lose what you are doing. So, proceed with caution."
 msgstr ""
 
-#: ../../get_started/toc.rst:195
+#: ../../get_started/toc.rst:196
 msgid "**Back Button**: You can use your browser’s back button to return to the previous page you were viewing on |product|."
 msgstr ""
 
-#: ../../get_started/toc.rst:196
+#: ../../get_started/toc.rst:197
 msgid "**Forward Button**: If you have gone back and want to revisit a page you just left, click the forward button."
 msgstr ""
 
-#: ../../get_started/toc.rst:197
+#: ../../get_started/toc.rst:198
 msgid "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. Clicking it restarts your session, which can be especially dangerous when composing a new email or a lengthy text message. You might lose your work."
 msgstr ""
 
-#: ../../get_started/toc.rst:200
+#: ../../get_started/toc.rst:201
 msgid "Account Personalization"
 msgstr ""
 
-#: ../../get_started/toc.rst:202
+#: ../../get_started/toc.rst:203
 msgid "Before you start using the |product| web client, take a moment to personalize your account. You can customize visual aspects such as the theme, as well as other account settings like your time zone. Most of these options are conveniently accessible in the **Settings** menu. To access it, simply click the gear icon on the left sidebar, and then select **General Settings**."
 msgstr ""
 
-#: ../../get_started/toc.rst:206
+#: ../../get_started/toc.rst:207
 msgid "Changing Theme"
 msgstr ""
 
-#: ../../get_started/toc.rst:208
+#: ../../get_started/toc.rst:209
 msgid "A theme in the |product| web client defines the color scheme used for its appearance. Currently, there are **two themes** available: **Dark mode** and **Light mode**. Here is how you can manage them:"
 msgstr ""
 
-#: ../../get_started/toc.rst:210
+#: ../../get_started/toc.rst:211
 msgid "To **activate Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:212
+#: ../../get_started/toc.rst:213
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:214
+#: ../../get_started/toc.rst:215
 msgid "Under **Theme Options**, open the dropdown menu."
 msgstr ""
 
-#: ../../get_started/toc.rst:215
+#: ../../get_started/toc.rst:216
 msgid "Click on **Enabled**."
 msgstr ""
 
-#: ../../get_started/toc.rst:216
+#: ../../get_started/toc.rst:217
 msgid "Click on the **SAVE** button located in the **top right corner** of the screen."
 msgstr ""
 
-#: ../../get_started/toc.rst:218
+#: ../../get_started/toc.rst:219
 msgid "To **disable Dark mode**, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:220
+#: ../../get_started/toc.rst:221
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr ""
 
-#: ../../get_started/toc.rst:222
+#: ../../get_started/toc.rst:223
 msgid "If you choose **Auto**, |product| will adapt to your **operating system’s default theme**. For example:"
 msgstr ""
 
-#: ../../get_started/toc.rst:224
+#: ../../get_started/toc.rst:225
 msgid "If your OS theme is dark, |product| will also be in dark mode."
 msgstr ""
 
-#: ../../get_started/toc.rst:225
+#: ../../get_started/toc.rst:226
 msgid "If your OS theme is light, |product| will match that as well."
 msgstr ""
 
-#: ../../get_started/toc.rst:233
+#: ../../get_started/toc.rst:234
 msgid "Changing Font Size"
 msgstr ""
 
-#: ../../get_started/toc.rst:235
+#: ../../get_started/toc.rst:236
 msgid "You can change the font size across all |product| web clients according to your preferences. To change the font size simply follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:237
-#: ../../get_started/toc.rst:256
-#: ../../get_started/toc.rst:271
+#: ../../get_started/toc.rst:238
+#: ../../get_started/toc.rst:257
+#: ../../get_started/toc.rst:272
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr ""
 
-#: ../../get_started/toc.rst:239
+#: ../../get_started/toc.rst:240
 msgid "Under the **Appearance** section, find the slider for adjusting the font size."
 msgstr ""
 
-#: ../../get_started/toc.rst:240
+#: ../../get_started/toc.rst:241
 msgid "If you want to manually control the font size, uncheck the option that says *Automatically resize the text size depending on the device*."
 msgstr ""
 
-#: ../../get_started/toc.rst:241
+#: ../../get_started/toc.rst:242
 msgid "Use the slider to set the font size to your preference. As you move the slider, you will see the results in the bottom box with some dummy text."
 msgstr ""
 
-#: ../../get_started/toc.rst:242
+#: ../../get_started/toc.rst:243
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:244
+#: ../../get_started/toc.rst:245
 msgid "Remember, if you prefer automatic resizing based on the device, you can leave the checkbox checked. Otherwise, adjust the font size manually using the slider."
 msgstr ""
 
-#: ../../get_started/toc.rst:252
+#: ../../get_started/toc.rst:253
 msgid "Changing Your Time Zone"
 msgstr ""
 
-#: ../../get_started/toc.rst:254
+#: ../../get_started/toc.rst:255
 msgid "As a digital workspace, |product| relies on precise time zone settings to ensure optimal performance for calendars and other features like emails, guaranteeing accurate timestamps. This becomes particularly crucial when collaborating with colleagues across different countries and time zones. To change your time zone, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:258
+#: ../../get_started/toc.rst:259
 msgid "Under the **Time Zone and Language** section select the dropdown menu for **Time Zone** and choose your time zone."
 msgstr ""
 
-#: ../../get_started/toc.rst:259
-#: ../../get_started/toc.rst:274
+#: ../../get_started/toc.rst:260
+#: ../../get_started/toc.rst:275
 msgid "Click **SAVE** in the top right corner."
 msgstr ""
 
-#: ../../get_started/toc.rst:267
+#: ../../get_started/toc.rst:268
 msgid "Changing |product| Language"
 msgstr ""
 
-#: ../../get_started/toc.rst:269
+#: ../../get_started/toc.rst:270
 msgid "To change your |product| web client language, follow these steps:"
 msgstr ""
 
-#: ../../get_started/toc.rst:273
+#: ../../get_started/toc.rst:274
 msgid "Under the **Time Zone and Language** section select the dropdown menu for **Language** and choose your language."
 msgstr ""
 
-#: ../../get_started/toc.rst:277
+#: ../../get_started/toc.rst:278
 msgid "Accessing Multiple Accounts"
 msgstr ""
 
-#: ../../get_started/toc.rst:279
+#: ../../get_started/toc.rst:280
 msgid "On the |product| web client, you have access to multiple accounts. Let's say you have your personal account, as well as two additional accounts created for HR tasks and communications with your colleagues under the name “hr@example.com”, and another one named “info@example.com” for external communications of the company. **Only your system administrator can add these accounts and grant you access** to manage them via your main account."
 msgstr ""
 
-#: ../../get_started/toc.rst:285
+#: ../../get_started/toc.rst:286
 msgid "So, when you sign into your main account, you will see these two additional accounts listed under your main account. To access these accounts, simply click on the downward arrow next to their names to open a dropdown menu. From there, you can access the inbox and other folders within each account."
 msgstr ""
 

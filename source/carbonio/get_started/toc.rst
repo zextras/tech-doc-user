@@ -176,7 +176,7 @@ Resetting a password becomes necessary when you want to update your existing pas
 Introduction of |product| Web Client
 ====================================
 
-When you log in to check your emails, the **|product| web client interface** greets you with the following components:
+When you log in to check your emails, the |product| **web client interface** greets you with the following components:
 
     .. image:: /img/interface.png
         :align: center
@@ -186,6 +186,7 @@ When you log in to check your emails, the **|product| web client interface** gre
 1.	**Left Sidebar**: This section provides navigation options and quick access to various features such as Mails, Calendars, Contacts, etc.
 2.	**Navigation Panel**: Here, you will find additional context related to the active feature you have selected from the left sidebar. For example, if you select “Mails” from the left sidebar, you will find access to your inboxes and email folders here.
 3.	**Main Panel**: The central area displays your actual content related to the active feature you have selected from the left sidebar. For example, if you select “Mails” from the left sidebar, you will see your emails in this area; similarly, choosing “Calendars” will display your calendar events.
+4.  **Storage Quota**: Displays your overall storage usage across Carbonio modules, including Mail, Files, and Chats. It shows the used space compared with the total available quota, together with a progress bar to help you quickly monitor your storage consumption.
 
 Using Browser Buttons to Navigate |product|
 ===========================================

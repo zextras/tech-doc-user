@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-05-07 12:03+0200\n"
-"PO-Revision-Date: 2026-05-24 11:52+0000\n"
+"PO-Revision-Date: 2026-05-26 15:52+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
@@ -6923,6 +6923,12 @@ msgid ""
 "inside the composing board and choosing the \"Add public link from Files "
 "option\"."
 msgstr ""
+"Lorsque vous devez joindre de gros fichiers à un e‑mail, vous pouvez "
+"rencontrer des limitations. Si vous atteignez la taille maximale définie par "
+"votre administrateur pour les pièces jointes, l’option « smart links » "
+"permet de convertir chaque pièce jointe en Smart Links en cliquant sur "
+"l’icône **paperclip** dans la zone de composition et en sélectionnant "
+"l’option « Add public link from Files »."
 
 #: ../../composing_emails/toc.rst:126
 msgid ""
@@ -7444,90 +7450,99 @@ msgid ""
 "Locate and right-click on the contact you wish to edit from the main "
 "panel."
 msgstr ""
+"Localisez et faites un clic droit sur le contact que vous souhaitez modifier "
+"depuis le panneau principal."
 
 #: ../../contacts/toc.rst:72
 msgid "Choose the tag you wish to assign to the contact from the drop-down menu."
-msgstr ""
+msgstr "Choisissez le tag à attribuer au contact dans le menu déroulant."
 
 #: ../../contacts/toc.rst:75
 msgid "Deleting a Contact"
-msgstr ""
+msgstr "Suppression d’un contact"
 
 #: ../../contacts/toc.rst:77
 msgid "To delete an existing contact:"
-msgstr ""
+msgstr "Pour supprimer un contact existant :"
 
 #: ../../contacts/toc.rst:81
 msgid ""
 "Locate and right-click on the contact you wish to delete from the main "
 "panel."
 msgstr ""
+"Localisez et faites un clic droit sur le contact que vous souhaitez "
+"supprimer depuis le panneau principal."
 
 #: ../../contacts/toc.rst:82
 msgid "Click on the **Delete** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **Delete**."
 
 #: ../../contacts/toc.rst:85
 msgid "Adding an Address Book"
-msgstr ""
+msgstr "Ajout d’un carnet d’adresses"
 
 #: ../../contacts/toc.rst:87
 msgid "To add an address book:"
-msgstr ""
+msgstr "Pour ajouter un carnet d’adresses :"
 
 #: ../../contacts/toc.rst:90
 msgid ""
 "In the Navigation Panel, right-click on the address book where you want "
 "to add the address book."
 msgstr ""
+"Dans le panneau de navigation, faites un clic droit sur le carnet d’adresses "
+"dans lequel vous souhaitez ajouter le nouveau carnet."
 
 #: ../../contacts/toc.rst:91
 msgid "Select **New address Book**. A new board will appear."
-msgstr ""
+msgstr "Sélectionnez **New address Book**. Un nouveau tableau apparaît."
 
 #: ../../contacts/toc.rst:92
 msgid "Add a name for the address book."
-msgstr ""
+msgstr "Saisissez un nom pour le carnet d’adresses."
 
 #: ../../contacts/toc.rst:100
 msgid "Moving a Contact Between Address Books"
-msgstr ""
+msgstr "Déplacement d’un contact entre carnets d’adresses"
 
 #: ../../contacts/toc.rst:102
 msgid "To move a contact between address books:"
-msgstr ""
+msgstr "Pour déplacer un contact entre carnets d’adresses :"
 
 #: ../../contacts/toc.rst:105
 msgid ""
 "In the Navigation Panel, click on the address book that contains the "
 "contact you wish to move."
 msgstr ""
+"Dans le panneau de navigation, cliquez sur le carnet d’adresses contenant le "
+"contact à déplacer."
 
 #: ../../contacts/toc.rst:106
 msgid "Right-click on the contact you wish to move."
-msgstr ""
+msgstr "Faites un clic droit sur le contact à déplacer."
 
 #: ../../contacts/toc.rst:107 ../../contacts/toc.rst:118
 #: ../../files/toc.rst:214
 msgid "Select **Move** from the drop-down menu. A new window appears."
 msgstr ""
+"Sélectionnez **Move** dans le menu déroulant. Une nouvelle fenêtre apparaît."
 
 #: ../../contacts/toc.rst:108
 msgid "Select the destination address book."
-msgstr ""
+msgstr "Sélectionnez le carnet d’adresses de destination."
 
 #: ../../contacts/toc.rst:109 ../../contacts/toc.rst:120
 #: ../../files/toc.rst:216
 msgid "Click the **MOVE** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **MOVE**."
 
 #: ../../contacts/toc.rst:112
 msgid "Moving an Address Book"
-msgstr ""
+msgstr "Déplacement d’un carnet d’adresses"
 
 #: ../../contacts/toc.rst:114
 msgid "To move an address book:"
-msgstr ""
+msgstr "Pour déplacer un carnet d’adresses :"
 
 #: ../../contacts/toc.rst:117
 msgid "In the Navigation Panel, right-click on the address book you wish to move."
@@ -10389,7 +10404,7 @@ msgstr "Communication"
 
 #: ../../index.rst:82
 msgid "Mobile Apps"
-msgstr ""
+msgstr "Applications mobiles"
 
 #: ../../mobile_apps/chat_app.rst:7
 msgid "Carbonio Chats App"
@@ -10446,7 +10461,7 @@ msgstr ""
 #: ../../mobile_apps/chat_app.rst:30 ../../mobile_apps/chat_app.rst:38
 #: ../../mobile_apps/mail_app.rst:149 ../../mobile_apps/mail_app.rst:156
 msgid "Tap **Attach** (paperclip icon)."
-msgstr ""
+msgstr "Appuyez sur **Joindre** (icône trombone)."
 
 #: ../../mobile_apps/chat_app.rst:31
 msgid "Select **Document** (or a similar option)."
@@ -10966,22 +10981,31 @@ msgid ""
 "messages, and perform common email operations directly from a mobile "
 "device."
 msgstr ""
+"L’application Carbonio Mail vous permet de lire, d’envoyer et d’organiser "
+"vos e‑mails en déplacement, vous donnant accès à votre boîte aux lettres, la "
+"gestion des messages et l’exécution des opérations courantes d’e‑mail "
+"directement depuis un appareil mobile."
 
 #: ../../mobile_apps/mail_app.rst:12
 msgid "Mail Settings"
-msgstr ""
+msgstr "Paramètres du courrier"
 
 #: ../../mobile_apps/mail_app.rst:14
 msgid ""
 "The Mail settings screen allows users to configure application behavior, "
 "mailbox preferences, and account-related options."
 msgstr ""
+"L’écran des paramètres du courrier permet aux utilisateurs de configurer le "
+"comportement de l’application, les préférences de la boîte aux lettres et "
+"les options liées au compte."
 
 #: ../../mobile_apps/mail_app.rst:16
 msgid ""
 "To access the settings, open the **navigation menu** (hamburger icon) "
 "from the main Mail screen and tap **Settings**."
 msgstr ""
+"Pour accéder aux paramètres, ouvrez le **navigation menu** (icône hamburger) "
+"depuis l’écran principal du courrier et appuyez sur **Settings**."
 
 #: ../../mobile_apps/mail_app.rst:18
 msgid "Information"
@@ -10992,26 +11016,32 @@ msgid ""
 "The **Information** section provides access to general application "
 "details:"
 msgstr ""
+"La section **Information** donne accès aux informations générales de "
+"l’application :"
 
 #: ../../mobile_apps/mail_app.rst:22
 msgid ""
 "**Notifications and sounds** Configure notification behavior and alert "
 "sounds for incoming messages."
 msgstr ""
+"**Notifications et sons** Configure le comportement des notifications et les "
+"sons d’alerte pour les messages entrants."
 
 #: ../../mobile_apps/mail_app.rst:25
 msgid "**License** View license information for the application."
-msgstr ""
+msgstr "**License** Consultez les informations de licence de l’application."
 
 #: ../../mobile_apps/mail_app.rst:28
 msgid ""
 "**Third-party licenses** Display licenses related to third-party "
 "components used by the application."
 msgstr ""
+"**Third-party licenses** Affiche les licences des composants tiers utilisés "
+"par l’application."
 
 #: ../../mobile_apps/mail_app.rst:31
 msgid "**Log out** Sign out from the current account."
-msgstr ""
+msgstr "**Log out** Déconnectez‑vous du compte actuel."
 
 #: ../../mobile_apps/mail_app.rst:34
 msgid "Settings"
@@ -11020,12 +11050,17 @@ msgstr "Paramètres"
 #: ../../mobile_apps/mail_app.rst:36
 msgid "The **Settings** section allows customization of Mail and related modules:"
 msgstr ""
+"La section **Settings** permet de personnaliser le courrier et les modules "
+"associés :"
 
 #: ../../mobile_apps/mail_app.rst:38
 msgid ""
 "**General** Configure general preferences such as theme, synchronization "
 "interval, search behavior, out-of-office settings, and trusted senders."
 msgstr ""
+"**General** Configure les préférences générales telles que le thème, "
+"l’intervalle de synchronisation, le comportement de recherche, les réponses "
+"automatiques et les expéditeurs de confiance."
 
 #: ../../mobile_apps/mail_app.rst:41
 msgid ""
@@ -11033,6 +11068,9 @@ msgid ""
 "account management, default email address, sent message settings, and "
 "delegated sending options."
 msgstr ""
+"**Account** Gérez les options liées au compte, y compris les signatures d’e‑"
+"mail, la gestion du compte, l’adresse e‑mail par défaut, les réglages des "
+"messages envoyés et les options d’envoi délégué."
 
 #: ../../mobile_apps/mail_app.rst:44
 msgid ""
@@ -11040,10 +11078,14 @@ msgid ""
 " view expansion, reading options, view type, and scheduled sending "
 "preferences."
 msgstr ""
+"**Email** Personnalisez le comportement des e‑mails, y compris les actions "
+"de glissement, l’expansion de la vue conversation, les options de lecture, "
+"le type d’affichage et les préférences d’envoi programmé."
 
 #: ../../mobile_apps/mail_app.rst:47
 msgid "**Contacts** Access and configure contact-related settings."
 msgstr ""
+"**Contacts** Accédez aux paramètres liés aux contacts et configurez‑les."
 
 #: ../../mobile_apps/mail_app.rst:50
 msgid ""
@@ -11051,10 +11093,15 @@ msgid ""
 " first day of the week, appointment postponement, and calendar "
 "synchronization."
 msgstr ""
+"**Calendar** Gérez les préférences du calendrier, comme la visibilité des "
+"rendez‑vous, le premier jour de la semaine, le report des rendez‑vous et la "
+"synchronisation du calendrier."
 
 #: ../../mobile_apps/mail_app.rst:53
 msgid "**Sharing** Configure sharing options for mailbox items and folders."
 msgstr ""
+"**Sharing** Configurez les options de partage des éléments et dossiers de la "
+"boîte aux lettres."
 
 #: ../../mobile_apps/mail_app.rst:56
 msgid "Mailbox Quota and Version"
@@ -11062,7 +11109,7 @@ msgstr "Quota et version de la boîte de réception"
 
 #: ../../mobile_apps/mail_app.rst:58
 msgid "At the bottom of the settings screen, the application displays:"
-msgstr ""
+msgstr "En bas de l’écran des paramètres, l’application affiche :"
 
 #: ../../mobile_apps/mail_app.rst:60
 msgid "The current **mailbox quota usage**."
@@ -11281,53 +11328,63 @@ msgstr "Pour appliquer des actions à plusieurs courriels :"
 
 #: ../../mobile_apps/mail_app.rst:136
 msgid "Tap and hold an email to enter **selection mode**."
-msgstr ""
+msgstr "Appuyez longuement sur un e‑mail pour activer le **mode sélection**."
 
 #: ../../mobile_apps/mail_app.rst:137
 msgid "Tap other emails to select them."
-msgstr ""
+msgstr "Appuyez sur d’autres e‑mails pour les sélectionner."
 
 #: ../../mobile_apps/mail_app.rst:138
 msgid "Tap **More options** (three-dots icon) or the available action buttons."
 msgstr ""
+"Appuyez sur **Plus d’options** (icône à trois points) ou sur les boutons "
+"d’action disponibles."
 
 #: ../../mobile_apps/mail_app.rst:139
 msgid ""
 "Choose the action you want (for example: mark as read/unread, flag, move,"
 " mark as spam, tag, delete)."
 msgstr ""
+"Choisissez l’action souhaitée (par ex. : marquer comme lu/non lu, signaler, "
+"déplacer, marquer comme indésirable, taguer, supprimer)."
 
 #: ../../mobile_apps/mail_app.rst:144
 msgid ""
 "While composing an email, you can attach files from your device, from "
 "Carbonio Files, or capture a photo/video (if supported)."
 msgstr ""
+"Lors de la rédaction d’un e‑mail, vous pouvez joindre des fichiers depuis "
+"votre appareil, depuis Carbonio Files, ou capturer une photo/vidéo (si pris "
+"en charge)."
 
 #: ../../mobile_apps/mail_app.rst:147
 msgid "Add an attachment from your device"
-msgstr ""
+msgstr "Ajouter une pièce jointe depuis votre appareil"
 
 #: ../../mobile_apps/mail_app.rst:150
 msgid ""
 "Choose an option such as **Take photo/video**, **Choose from gallery**, "
 "or **Browse/Document**."
 msgstr ""
+"Choisissez une option comme **Prendre photo/vidéo**, **Choisir dans la "
+"galerie** ou **Parcourir/Document**."
 
 #: ../../mobile_apps/mail_app.rst:151
 msgid "Select the file (or capture it) and confirm."
-msgstr ""
+msgstr "Sélectionnez le fichier (ou capturez‑le) et confirmez."
 
 #: ../../mobile_apps/mail_app.rst:154
 msgid "Add an attachment from Carbonio Files"
-msgstr ""
+msgstr "Ajouter une pièce jointe depuis Carbonio Files"
 
 #: ../../mobile_apps/mail_app.rst:157
 msgid "Select **Add from Files / Drive** (wording may vary)."
 msgstr ""
+"Sélectionnez **Ajouter depuis Files / Drive** (la formulation peut varier)."
 
 #: ../../mobile_apps/mail_app.rst:158
 msgid "Choose the file and confirm."
-msgstr ""
+msgstr "Choisissez le fichier et confirmez."
 
 #: ../../mobile_apps/mail_app.rst:162
 msgid ""
@@ -11336,36 +11393,43 @@ msgid ""
 "may not receive a warning if the recipient’s system blocks the "
 "attachment—so consider confirming receipt when it’s important."
 msgstr ""
+"Les pièces jointes sont un vecteur fréquent de virus. Les administrateurs "
+"peuvent bloquer certains types de fichiers (par ex. ``.exe`` ou ``.zip``). "
+"Dans certains cas, vous ne recevrez aucun avertissement si le système du "
+"destinataire bloque la pièce jointe — prévoyez donc de confirmer la "
+"réception lorsque c’est crucial."
 
 #: ../../mobile_apps/mail_app.rst:169
 msgid ""
 "If you have multiple identities/personas configured, you can choose which"
 " one to use when composing:"
 msgstr ""
+"Si plusieurs identités/personas sont configurés, vous pouvez choisir celle à "
+"utiliser lors de la rédaction :"
 
 #: ../../mobile_apps/mail_app.rst:171
 msgid "In the compose screen, tap the **From** field."
-msgstr ""
+msgstr "Dans l’écran de rédaction, appuyez sur le champ **De**."
 
 #: ../../mobile_apps/mail_app.rst:172
 msgid "Select the desired **identity/persona**."
-msgstr ""
+msgstr "Sélectionnez l’**identité/persona** souhaitée."
 
 #: ../../mobile_apps/mail_app.rst:174
 msgid "The recipient will see the selected identity/persona as the sender."
-msgstr ""
+msgstr "Le destinataire verra l’identité/persona sélectionnée comme expéditeur."
 
 #: ../../mobile_apps/mail_app.rst:179
 msgid "If available, you can request a read receipt:"
-msgstr ""
+msgstr "Si disponible, vous pouvez demander un accusé de lecture :"
 
 #: ../../mobile_apps/mail_app.rst:181
 msgid "While composing, open **More options** (three-dots icon)."
-msgstr ""
+msgstr "Lors de la rédaction, ouvrez **Plus d’options** (icône à trois points)."
 
 #: ../../mobile_apps/mail_app.rst:182
 msgid "Enable **Read receipt**."
-msgstr ""
+msgstr "Activez **Accusé de lecture**."
 
 #: ../../mobile_apps/mail_app.rst:183
 msgid "Close the menu and send the email."
@@ -12234,6 +12298,9 @@ msgid ""
 "are seamlessly taken to the waiting room, where a clear message informs "
 "them that the moderator will admit them shortly."
 msgstr ""
+"**Transition fluide** Après avoir cliqué sur **Ready to participate**, les "
+"invités sont immédiatement dirigés vers la salle d’attente, où un message "
+"clair indique que le modérateur les admettra sous peu."
 
 #: ../../videomeeting/toc.rst:65
 msgid "Editing Room Details"

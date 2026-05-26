@@ -249,19 +249,19 @@ Remember, if you prefer automatic resizing based on the device, you can leave th
             :width: 100%
 
 
-Changing Your Time Zone
-=======================
+Manage time zones in |product| for accurate collaboration
+========================================================
 
-As a digital workspace, |product| relies on precise time zone settings to ensure optimal performance for calendars and other features like emails, guaranteeing accurate timestamps. This becomes particularly crucial when collaborating with colleagues across different countries and time zones. To change your time zone, follow these steps:
+|product| relies on accurate time zone settings to ensure correct timestamps for calendars, emails, and other features.
 
-1.	Open the **Settings** (gear icon) from the left sidebar.
-2.	Select General Settings.
-3.	Under the **Time Zone and Language** section select the dropdown menu for **Time Zone** and choose your time zone.
-4.	Click **SAVE** in the top right corner.
+This is particularly important when collaborating across different countries and time zones.
+By default, |product| uses the time zone configured on your **operating system**.
 
-    .. image:: /img/time-zone.png
-            :align: center
-            :width: 100%
+To display a different time zone in the |product| interface, update your system’s time zone settings.
+
+|product| will then automatically apply the updated system time zone.
+
+
 
 
 Changing |product| Language

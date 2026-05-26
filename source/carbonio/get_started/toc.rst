@@ -250,7 +250,7 @@ Remember, if you prefer automatic resizing based on the device, you can leave th
 
 
 Manage time zones in |product| for accurate collaboration
-========================================================
+=========================================================
 
 |product| relies on accurate time zone settings to ensure correct timestamps for calendars, emails, and other features.
 

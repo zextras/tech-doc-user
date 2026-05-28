@@ -271,7 +271,7 @@ To change your |product| web client language, follow these steps:
 
 1.	Open the **Settings** (gear icon) from the left sidebar.
 2.	Select General Settings.
-3.	Under the **Time Zone and Language** section select the dropdown menu for **Language** and choose your language.
+3.	Under the **Language** section select the dropdown menu for **Language** and choose your language.
 4.	Click **SAVE** in the top right corner.
 
 Accessing Multiple Accounts

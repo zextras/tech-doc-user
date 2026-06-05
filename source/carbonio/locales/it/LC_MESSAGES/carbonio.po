@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-05 12:26+0200\n"
 "PO-Revision-Date: 2026-06-06 10:52+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -1894,15 +1894,19 @@ msgstr "Seleziona \"Usa certificato per firmare (S/MIME)\" prima di inviare."
 #: ../../advanced_email_management/toc.rst:590
 msgid "Carbonio uses the user's private key to generate a digital signature."
 msgstr ""
+"Carbonio utilizza la chiave privata dell'utente per generare una firma "
+"digitale."
 
 #: ../../advanced_email_management/toc.rst:591
 msgid "The signature is attached to the email as a cryptographic hash."
-msgstr ""
+msgstr "La firma è allegata all'email come hash crittografico."
 
 #: ../../advanced_email_management/toc.rst:592
 #: ../../advanced_email_management/toc.rst:602
 msgid "The recipient can verify the signature using the sender's public key."
 msgstr ""
+"Il destinatario può verificare la firma usando la chiave pubblica del "
+"mittente."
 
 #: ../../advanced_email_management/toc.rst:596
 msgid "Verifying a Signed Email"
@@ -1913,6 +1917,8 @@ msgid ""
 "When you receive a signed email, the signature is displayed in the email "
 "header."
 msgstr ""
+"Quando ricevi un'email firmata, la firma è visualizzata nell'intestazione "
+"dell'email."
 
 #: ../../advanced_email_management/toc.rst:600
 msgid "Click on the signature to view the certificate details."
@@ -1923,6 +1929,8 @@ msgid ""
 "The certificate details include the certificate issuer, the certificate "
 "validity period, and the certificate fingerprint."
 msgstr ""
+"I dettagli del certificato includono l'emittente, il periodo di validità e "
+"l'impronta del certificato."
 
 #: ../../advanced_email_management/toc.rst:604
 msgid "If the signature is valid:"
@@ -1947,10 +1955,12 @@ msgstr "Se la firma è valida:"
 #: ../../advanced_email_management/toc.rst:611
 msgid "The email might be tampered with or sent from an untrusted source."
 msgstr ""
+"L'email potrebbe essere stata modificata o inviata da una fonte non "
+"attendibile."
 
 #: ../../advanced_email_management/toc.rst:612
 msgid "The recipient should be cautious when interacting with such emails."
-msgstr ""
+msgstr "Il destinatario dovrebbe essere cauto nell'interagire con tali email."
 
 #: ../../advanced_email_management/toc.rst:616
 msgid "How S/MIME Encryption Works in Carbonio"
@@ -1965,16 +1975,21 @@ msgid ""
 "**Public Key**: Used to encrypt the email. Stored in the recipient's "
 "S/MIME certificate."
 msgstr ""
+"**Public Key**: usata per crittografare l'email. Conservata nel certificato "
+"S/MIME del destinatario."
 
 #: ../../advanced_email_management/toc.rst:622
 msgid ""
 "**Private Key**: Used to decrypt the email. Stored securely by the "
 "recipient."
 msgstr ""
+"**Private Key**: usata per decrittare l'email. Conservata in modo sicuro dal "
+"destinatario."
 
 #: ../../advanced_email_management/toc.rst:623
 msgid "**Certificate Authority (CA)**: Issues S/MIME certificates to users."
 msgstr ""
+"**Certificate Authority (CA)**: rilascia certificati S/MIME agli utenti."
 
 #: ../../advanced_email_management/toc.rst:626
 msgid "The Encryption Process"
@@ -2015,6 +2030,8 @@ msgid ""
 "When the recipient opens the email, its private key is used to decrypt "
 "the message."
 msgstr ""
+"Quando il destinatario apre l'email, la sua chiave privata viene usata per "
+"decrittare il messaggio."
 
 #: ../../advanced_email_management/toc.rst:640
 msgid ""
@@ -2119,14 +2136,16 @@ msgid ""
 "If your private key is installed, Carbonio will automatically decrypt the"
 " message."
 msgstr ""
+"Se la tua chiave privata è installata, Carbonio decritterà automaticamente "
+"il messaggio."
 
 #: ../../advanced_email_management/toc.rst:676
 msgid "If not, you'll see an \"Unable to decrypt\" error."
-msgstr ""
+msgstr "Altrimenti, verrà visualizzato un errore \"Unable to decrypt\"."
 
 #: ../../advanced_email_management/toc.rst:677
 msgid "You can upload your private key to decrypt the message."
-msgstr ""
+msgstr "Puoi caricare la tua chiave privata per decrittare il messaggio."
 
 #: ../../appointments/toc.rst:7
 msgid "Working with Appointments"
@@ -10230,6 +10249,10 @@ msgid ""
 "compared with the total available quota, together with a progress bar to "
 "help you quickly monitor your storage consumption."
 msgstr ""
+"**Storage Quota**: mostra l'utilizzo complessivo dello spazio su tutti i "
+"moduli di Carbonio, inclusi Mail, Files e Chats. Visualizza lo spazio usato "
+"rispetto al totale disponibile, con una barra di avanzamento per monitorare "
+"rapidamente il consumo."
 
 #: ../../get_started/toc.rst:192
 msgid "Using Browser Buttons to Navigate |product|"
@@ -10427,13 +10450,15 @@ msgstr ""
 
 #: ../../get_started/toc.rst:253
 msgid "Manage time zones in |product| for accurate collaboration"
-msgstr ""
+msgstr "Gestisci i fusi orari in |product| per una collaborazione accurata"
 
 #: ../../get_started/toc.rst:255
 msgid ""
 "|product| relies on accurate time zone settings to ensure correct "
 "timestamps for calendars, emails, and other features."
 msgstr ""
+"|product| si basa su impostazioni corrette del fuso orario per garantire "
+"timestamp precisi per calendari, email e altre funzionalità."
 
 #: ../../get_started/toc.rst:257
 msgid ""
@@ -10441,16 +10466,22 @@ msgid ""
 "countries and time zones. By default, |product| uses the time zone "
 "configured on your **operating system**."
 msgstr ""
+"Ciò è particolarmente importante quando si collabora tra paesi e fusi orari "
+"diversi. Per impostazione predefinita, |product| utilizza il fuso orario "
+"configurato sul tuo **operating system**."
 
 #: ../../get_started/toc.rst:260
 msgid ""
 "To display a different time zone in the |product| interface, update your "
 "system’s time zone settings."
 msgstr ""
+"Per visualizzare un fuso orario diverso nell'interfaccia |product|, aggiorna "
+"le impostazioni del fuso orario del tuo sistema."
 
 #: ../../get_started/toc.rst:262
 msgid "|product| will then automatically apply the updated system time zone."
 msgstr ""
+"|product| applicherà automaticamente il fuso orario di sistema aggiornato."
 
 #: ../../get_started/toc.rst:268
 msgid "Changing |product| Language"
@@ -12718,6 +12749,11 @@ msgid ""
 "saved in <folder name>” and includes the destination folder path, so the "
 "recording can be found quickly in Files."
 msgstr ""
+"Quando la registrazione di una riunione Chats viene salvata correttamente in "
+"Files, l'initiator della registrazione riceve una notifica automatica nel "
+"widget Files Notifications. La notifica viene mostrata come “<recording "
+"name> saved in <folder name>” e include il percorso della cartella di "
+"destinazione, così la registrazione può essere trovata rapidamente in Files."
 
 #: ../../videomeeting/toc.rst:163
 msgid ""
@@ -12725,6 +12761,9 @@ msgid ""
 "(settings icon) to distinguish it from user activity. The feature is "
 "enabled by default and requires no administrative configuration."
 msgstr ""
+"Questa notifica è generata dal sistema e utilizza il system avatar (settings "
+"icon) per distinguerla dall’attività dell’utente. La funzionalità è "
+"abilitata di default e non richiede alcuna configurazione amministrativa."
 
 #: ../../videomeeting/toc.rst:170
 msgid "Adding New Members to a Video Meeting"

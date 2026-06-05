@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Carbonio User Guide 26.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-25 13:12+0200\n"
+"POT-Creation-Date: 2026-06-05 12:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -269,7 +269,6 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:126
 #: ../../get_started/toc.rst:214
 #: ../../get_started/toc.rst:239
-#: ../../get_started/toc.rst:258
 #: ../../get_started/toc.rst:273
 msgid "Select General Settings."
 msgstr ""
@@ -1100,7 +1099,11 @@ msgid "Importing an S/MIME Certificate"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:581
-msgid "# Upload your personal certificate (containing a public and a private key) into Carbonio webmail via Settings → S/MIME Certificates (the system will ask to enter a password to protect the certificate. If one has already been set it will ask for the password). # Click Upload Certificate under Personal certificates for signing, encryption and decryption."
+msgid "Upload your personal certificate (containing a public and a private key) into Carbonio webmail via Settings → S/MIME Certificates (the system will ask to enter a password to protect the certificate. If one has already been set it will ask for the password)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:582
+msgid "Click Upload Certificate under Personal certificates for signing, encryption and decryption."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:586
@@ -1108,144 +1111,201 @@ msgid "Signing an Email"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:588
-msgid "# When composing an email, select \"Use certificate to sign (S/MIME)\". # Carbonio uses the user’s private key to generate a digital signature. # The signature is attached to the email as a cryptographic hash. # The recipient can verify the signature using the sender’s public key."
+msgid "When composing an email, select \"Use certificate to sign (S/MIME)\"."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:595
+#: ../../advanced_email_management/toc.rst:590
+msgid "Carbonio uses the user's private key to generate a digital signature."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:591
+msgid "The signature is attached to the email as a cryptographic hash."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:592
+#: ../../advanced_email_management/toc.rst:602
+msgid "The recipient can verify the signature using the sender's public key."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:596
 msgid "Verifying a Signed Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:597
-msgid "# When you receive a signed email, the signature is displayed in the email header. # Click on the signature to view the certificate details. # The certificate details include the certificate issuer, the certificate validity period, and the certificate fingerprint. # The recipient can verify the signature using the sender’s public key."
+#: ../../advanced_email_management/toc.rst:598
+msgid "When you receive a signed email, the signature is displayed in the email header."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:602
-msgid "If the signature is valid:"
+#: ../../advanced_email_management/toc.rst:600
+msgid "Click on the signature to view the certificate details."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:601
+msgid "The certificate details include the certificate issuer, the certificate validity period, and the certificate fingerprint."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:604
+msgid "If the signature is valid:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:606
 msgid "The recipient sees a signed email notification."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:605
-msgid "It confirms the email hasn’t been modified and is truly from the claimed sender."
+#: ../../advanced_email_management/toc.rst:607
+msgid "It confirms the email hasn't been modified and is truly from the claimed sender."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:607
-msgid "If the signature is invalid or missing, the email might be tampered with or sent from an untrusted source. The recipient should be cautious when interacting with such emails."
+#: ../../advanced_email_management/toc.rst:609
+msgid "If the signature is invalid or missing:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:611
+msgid "The email might be tampered with or sent from an untrusted source."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:612
+msgid "The recipient should be cautious when interacting with such emails."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:616
 msgid "How S/MIME Encryption Works in Carbonio"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:615
+#: ../../advanced_email_management/toc.rst:619
 msgid "Key Components"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:617
-msgid "# Public Key: Used to encrypt the email. Stored in the recipient’s S/MIME certificate. # Private Key: Used to decrypt the email. Stored securely by the recipient. # Certificate Authority (CA): Issues S/MIME certificates to users."
+#: ../../advanced_email_management/toc.rst:621
+msgid "**Public Key**: Used to encrypt the email. Stored in the recipient's S/MIME certificate."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:622
+msgid "**Private Key**: Used to decrypt the email. Stored securely by the recipient."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:623
+msgid "**Certificate Authority (CA)**: Issues S/MIME certificates to users."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:626
 msgid "The Encryption Process"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:624
-msgid "Sender Retrieves Recipient’s Public Key"
+#: ../../advanced_email_management/toc.rst:628
+msgid "Sender Retrieves Recipient's Public Key"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:625
-msgid "The sender must have the recipient’s public key."
+#: ../../advanced_email_management/toc.rst:630
+msgid "The sender must have the recipient's public key."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:632
 msgid "Email Encryption"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:627
+#: ../../advanced_email_management/toc.rst:634
 msgid "The sender composes an email and selects  \"Encrypt with S/MIME\""
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:628
-msgid "Sender email content is encrypted using the recipient’s public key."
+#: ../../advanced_email_management/toc.rst:635
+msgid "Sender email content is encrypted using the recipient's public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:629
+#: ../../advanced_email_management/toc.rst:636
 msgid "The email is sent in an encrypted format."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:630
-msgid "Recipient Decrypts the Email * When the recipient opens the email, its private key is used to decrypt the message. * If the private key matches the encrypted data, the email is decrypted and displayed normally."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:634
-msgid "The recipient can only decrypt the email if they have the corresponding private key. This ensures that only the intended recipient can read the email."
-msgstr ""
-
 #: ../../advanced_email_management/toc.rst:637
-msgid "Requirements for S/MIME Encryption"
+msgid "Recipient Decrypts the Email"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:639
-msgid "# Both sender and recipient must have S/MIME certificates installed. # The recipient’s public key must be available to the sender."
+msgid "When the recipient opens the email, its private key is used to decrypt the message."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:643
-msgid "Uploading a Certificate in Carbonio Webmail"
+#: ../../advanced_email_management/toc.rst:640
+msgid "If the private key matches the encrypted data, the email is decrypted and displayed normally."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:642
+msgid "The recipient can only decrypt the email if they have the corresponding private key. This ensures that only the intended recipient can read the email."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:645
-msgid "Go to Settings → S/MIME Certificates."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:646
-msgid "Click \"Upload Certificate\" under Personal certificates for signing, encryption and decryption."
+msgid "Requirements for S/MIME Encryption"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:647
-msgid "Select your PKCS#12 certificate file (.pfx or .p12)."
+msgid "Both sender and recipient must have S/MIME certificates installed."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:648
-msgid "Enter the certificate secret."
+msgid "The recipient's public key must be available to the sender."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:649
-#: ../../advanced_email_management/toc.rst:655
-msgid "Click Save."
+#: ../../advanced_email_management/toc.rst:651
+msgid "Uploading a Certificate in Carbonio Webmail"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:652
-msgid "Uploading Recipient Certificate"
+#: ../../advanced_email_management/toc.rst:653
+msgid "Go to Settings → S/MIME Certificates."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:654
-msgid "Click \"Upload Certificate\" under Recipients certificates for encryption"
+msgid "Click \"Upload Certificate\" under Personal certificates for signing, encryption and decryption."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:658
-msgid "Sending an Encrypted Email"
+#: ../../advanced_email_management/toc.rst:655
+msgid "Select your PKCS#12 certificate file (.pfx or .p12)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:656
+msgid "Enter the certificate secret."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:657
+#: ../../advanced_email_management/toc.rst:663
+msgid "Click Save."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:660
-msgid "Compose a new email in Carbonio webmail."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:661
-msgid "Select \"Use certificate to encrypt (S/MIME)\" before sending."
+msgid "Uploading Recipient Certificate"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:662
-msgid "The email will be encrypted using the recipient’s public key."
+msgid "Click \"Upload Certificate\" under Recipients certificates for encryption"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:665
+#: ../../advanced_email_management/toc.rst:666
+msgid "Sending an Encrypted Email"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:668
+msgid "Compose a new email in Carbonio webmail."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:669
+msgid "Select \"Use certificate to encrypt (S/MIME)\" before sending."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:670
+msgid "The email will be encrypted using the recipient's public key."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:673
 msgid "Receiving and Decrypting an Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:667
-msgid "# If your private key is installed, Carbonio will automatically decrypt the message. # If not, you’ll see an \"Unable to decrypt\" error. # You can upload your private key to decrypt the message."
+#: ../../advanced_email_management/toc.rst:675
+msgid "If your private key is installed, Carbonio will automatically decrypt the message."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:676
+msgid "If not, you'll see an \"Unable to decrypt\" error."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:677
+msgid "You can upload your private key to decrypt the message."
 msgstr ""
 
 #: ../../appointments/toc.rst:7
@@ -6694,7 +6754,6 @@ msgid "You can change the font size across all |product| web clients according t
 msgstr ""
 
 #: ../../get_started/toc.rst:238
-#: ../../get_started/toc.rst:257
 #: ../../get_started/toc.rst:272
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr ""
@@ -6720,20 +6779,23 @@ msgid "Remember, if you prefer automatic resizing based on the device, you can l
 msgstr ""
 
 #: ../../get_started/toc.rst:253
-msgid "Changing Your Time Zone"
+msgid "Manage time zones in |product| for accurate collaboration"
 msgstr ""
 
 #: ../../get_started/toc.rst:255
-msgid "As a digital workspace, |product| relies on precise time zone settings to ensure optimal performance for calendars and other features like emails, guaranteeing accurate timestamps. This becomes particularly crucial when collaborating with colleagues across different countries and time zones. To change your time zone, follow these steps:"
+msgid "|product| relies on accurate time zone settings to ensure correct timestamps for calendars, emails, and other features."
 msgstr ""
 
-#: ../../get_started/toc.rst:259
-msgid "Under the **Time Zone and Language** section select the dropdown menu for **Time Zone** and choose your time zone."
+#: ../../get_started/toc.rst:257
+msgid "This is particularly important when collaborating across different countries and time zones. By default, |product| uses the time zone configured on your **operating system**."
 msgstr ""
 
 #: ../../get_started/toc.rst:260
-#: ../../get_started/toc.rst:275
-msgid "Click **SAVE** in the top right corner."
+msgid "To display a different time zone in the |product| interface, update your system’s time zone settings."
+msgstr ""
+
+#: ../../get_started/toc.rst:262
+msgid "|product| will then automatically apply the updated system time zone."
 msgstr ""
 
 #: ../../get_started/toc.rst:268
@@ -6745,7 +6807,11 @@ msgid "To change your |product| web client language, follow these steps:"
 msgstr ""
 
 #: ../../get_started/toc.rst:274
-msgid "Under the **Time Zone and Language** section select the dropdown menu for **Language** and choose your language."
+msgid "Under the **Language** section select the dropdown menu for **Language** and choose your language."
+msgstr ""
+
+#: ../../get_started/toc.rst:275
+msgid "Click **SAVE** in the top right corner."
 msgstr ""
 
 #: ../../get_started/toc.rst:278
@@ -7136,7 +7202,7 @@ msgid "Tap the camera icon to start a video call."
 msgstr ""
 
 #: ../../mobile_apps/chat_app.rst:180
-#: ../../videomeeting/toc.rst:242
+#: ../../videomeeting/toc.rst:254
 msgid "Deleting a Meeting Room"
 msgstr ""
 
@@ -8134,7 +8200,7 @@ msgstr ""
 #: ../../videomeeting/toc.rst:94
 #: ../../videomeeting/toc.rst:106
 #: ../../videomeeting/toc.rst:115
-#: ../../videomeeting/toc.rst:246
+#: ../../videomeeting/toc.rst:258
 msgid "Select the Chats feature from your left sidebar."
 msgstr ""
 
@@ -8179,7 +8245,7 @@ msgstr ""
 #: ../../videomeeting/toc.rst:83
 #: ../../videomeeting/toc.rst:95
 #: ../../videomeeting/toc.rst:116
-#: ../../videomeeting/toc.rst:247
+#: ../../videomeeting/toc.rst:259
 msgid "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the list of chats to open your list of rooms."
 msgstr ""
 
@@ -8351,183 +8417,195 @@ msgid "If all meeting participants (including the person who started the recordi
 msgstr ""
 
 #: ../../videomeeting/toc.rst:158
-msgid "Adding New Members to a Video Meeting"
+msgid "Recording Saved Notifications"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:160
-msgid "To add new members to an ongoing video meeting, you need to send them the link to access the room. Here is how:"
-msgstr ""
-
-#: ../../videomeeting/toc.rst:162
-msgid "Make sure you are in the meeting."
+msgid "When a Chats meeting recording is successfully saved to Files, the recording initiator receives an automatic notification in the Files Notifications widget. The notification is displayed as “<recording name> saved in <folder name>” and includes the destination folder path, so the recording can be found quickly in Files."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:163
-msgid "Copy the URL of the page from the address bar of your browser."
-msgstr ""
-
-#: ../../videomeeting/toc.rst:165
-msgid "This will copy the link to access your room to your clipboard. You can paste it anywhere (such as in a chat) by right-clicking and selecting Paste, or by using the keyboard shortcut CTRL+V on Windows or command+V on macOS."
-msgstr ""
-
-#: ../../videomeeting/toc.rst:168
-msgid "Accessing Chat History During a Video Meeting"
+msgid "This notification is system-generated and uses the system avatar (settings icon) to distinguish it from user activity. The feature is enabled by default and requires no administrative configuration."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:170
-msgid "To access the chat box of the room where you are having the video meeting, simply click the arrow button on the left side to open the chat box."
+msgid "Adding New Members to a Video Meeting"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:173
-msgid "Sharing Screen During a Video Meeting"
+#: ../../videomeeting/toc.rst:172
+msgid "To add new members to an ongoing video meeting, you need to send them the link to access the room. Here is how:"
+msgstr ""
+
+#: ../../videomeeting/toc.rst:174
+msgid "Make sure you are in the meeting."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:175
-msgid "When you are in a video meeting, you can share your screen with attendees. Here is how: Click the screen icon on the bottom bar inside the meeting room. If you do not see the bottom bar, simply move your mouse cursor to the bottom of the screen, and it will appear. You have three options to choose from: •       Your browser tab. •       A specific window. •       Entire screen. Select the desired option and then click Share."
+msgid "Copy the URL of the page from the address bar of your browser."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:183
-msgid "Maximizing Video Meeting Screen"
+#: ../../videomeeting/toc.rst:177
+msgid "This will copy the link to access your room to your clipboard. You can paste it anywhere (such as in a chat) by right-clicking and selecting Paste, or by using the keyboard shortcut CTRL+V on Windows or command+V on macOS."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:180
+msgid "Accessing Chat History During a Video Meeting"
+msgstr ""
+
+#: ../../videomeeting/toc.rst:182
+msgid "To access the chat box of the room where you are having the video meeting, simply click the arrow button on the left side to open the chat box."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:185
-msgid "To maximize the video meeting screen, click on the icon with arrows inside located on the bottom bar. If you do not see the bottom bar inside the meeting room, simply move your mouse cursor to the bottom of the screen, and it will appear."
+msgid "Sharing Screen During a Video Meeting"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:188
-msgid "Cinema Mode Fullscreen Feature"
+#: ../../videomeeting/toc.rst:187
+msgid "When you are in a video meeting, you can share your screen with attendees. Here is how: Click the screen icon on the bottom bar inside the meeting room. If you do not see the bottom bar, simply move your mouse cursor to the bottom of the screen, and it will appear. You have three options to choose from: •       Your browser tab. •       A specific window. •       Entire screen. Select the desired option and then click Share."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:190
-msgid "Cinema Mode provides an optimized viewing experience during meetings, allowing you to focus on shared content or participants with an immersive fullscreen display."
-msgstr ""
-
-#: ../../videomeeting/toc.rst:192
-msgid "This feature enables you to: * View meetings in Cinema Mode for a more engaging experience * Activate fullscreen mode to eliminate interface distractions * Optimize display during presentations or collaborative sessions"
+#: ../../videomeeting/toc.rst:195
+msgid "Maximizing Video Meeting Screen"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:197
-msgid "To use the Cinema Mode and fullscreen features, follow these steps: * Join a meeting: Enter an existing meeting * Switch to Cinema view: In the view options, select \"Cinema\" mode to optimize the display layout * Enable fullscreen: Activate fullscreen mode to maximize the viewing area and remove interface elements"
+msgid "To maximize the video meeting screen, click on the icon with arrows inside located on the bottom bar. If you do not see the bottom bar inside the meeting room, simply move your mouse cursor to the bottom of the screen, and it will appear."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:200
+msgid "Cinema Mode Fullscreen Feature"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:202
-msgid "The full-screen mode now automatically hides the sidebar and carousel in cinema view, and hides the sidebar in other views. When full screen is activated in cinema view, left panel and carousel will be closed."
+msgid "Cinema Mode provides an optimized viewing experience during meetings, allowing you to focus on shared content or participants with an immersive fullscreen display."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:205
-msgid "Raise Hand Feature"
-msgstr ""
-
-#: ../../videomeeting/toc.rst:207
-msgid "The Raise Hand feature allows meeting participants to signal their desire to speak through a structured queue system, promoting organized discussions and better meeting flow."
+#: ../../videomeeting/toc.rst:204
+msgid "This feature enables you to: * View meetings in Cinema Mode for a more engaging experience * Activate fullscreen mode to eliminate interface distractions * Optimize display during presentations or collaborative sessions"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:209
-msgid "How It Works for Participants:"
-msgstr ""
-
-#: ../../videomeeting/toc.rst:211
-msgid "Raise hand to join speaking queue"
-msgstr ""
-
-#: ../../videomeeting/toc.rst:212
-msgid "View real-time queue showing order, avatars, and usernames"
-msgstr ""
-
-#: ../../videomeeting/toc.rst:213
-msgid "Receive audio notifications when others raise hands"
+msgid "To use the Cinema Mode and fullscreen features, follow these steps: * Join a meeting: Enter an existing meeting * Switch to Cinema view: In the view options, select \"Cinema\" mode to optimize the display layout * Enable fullscreen: Activate fullscreen mode to maximize the viewing area and remove interface elements"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:214
-msgid "Hand automatically lowers when speaking begins"
+msgid "The full-screen mode now automatically hides the sidebar and carousel in cinema view, and hides the sidebar in other views. When full screen is activated in cinema view, left panel and carousel will be closed."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:216
-msgid "Moderators"
-msgstr ""
-
-#: ../../videomeeting/toc.rst:218
-msgid "Access dedicated queue management panel"
+#: ../../videomeeting/toc.rst:217
+msgid "Raise Hand Feature"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:219
-msgid "Lower individual hands or clear entire queue"
+msgid "The Raise Hand feature allows meeting participants to signal their desire to speak through a structured queue system, promoting organized discussions and better meeting flow."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:220
-msgid "Actions sync across all moderators in real-time"
+#: ../../videomeeting/toc.rst:221
+msgid "How It Works for Participants:"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:222
-msgid "This feature streamlines meeting participation by providing clear speaking order while giving moderators effective queue management tools."
+#: ../../videomeeting/toc.rst:223
+msgid "Raise hand to join speaking queue"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:224
-msgid "To activate the Raise Hand feature during a video meeting:"
+msgid "View real-time queue showing order, avatars, and usernames"
+msgstr ""
+
+#: ../../videomeeting/toc.rst:225
+msgid "Receive audio notifications when others raise hands"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:226
-msgid "Click the hand icon on the bottom bar inside the meeting room."
-msgstr ""
-
-#: ../../videomeeting/toc.rst:227
-msgid "When you will start speaking, your hand will be automatically lowered."
+msgid "Hand automatically lowers when speaking begins"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:228
-msgid "If you want to lower your hand manually, simply click the hand icon again."
+msgid "Moderators"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:229
-msgid "If you are a moderator, you can also lower the hands of other participants by clicking on the hand icon next to their name in the Participants section of the chat box."
+#: ../../videomeeting/toc.rst:230
+msgid "Access dedicated queue management panel"
+msgstr ""
+
+#: ../../videomeeting/toc.rst:231
+msgid "Lower individual hands or clear entire queue"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:232
-msgid "Muting Participants During a Video Meeting"
+msgid "Actions sync across all moderators in real-time"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:234
-msgid "As the moderator of a meeting room, you can mute an attendee's microphone individually. To do so, simply hover your cursor over the video feed of the attendee and click on the microphone icon located at the corner of their video feed."
+msgid "This feature streamlines meeting participation by providing clear speaking order while giving moderators effective queue management tools."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:236
-#: ../../videomeeting/toc.rst:256
-msgid "Click the arrow button on the left side to open the chat box."
-msgstr ""
-
-#: ../../videomeeting/toc.rst:237
-#: ../../videomeeting/toc.rst:257
-msgid "Click the downward arrow next to the Participants section located at the top of the chat box."
+msgid "To activate the Raise Hand feature during a video meeting:"
 msgstr ""
 
 #: ../../videomeeting/toc.rst:238
-msgid "Click the microphone icon next to the participant’s name."
+msgid "Click the hand icon on the bottom bar inside the meeting room."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:239
-msgid "Click MUTE FOR ALL to confirm."
+msgid "When you will start speaking, your hand will be automatically lowered."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:240
+msgid "If you want to lower your hand manually, simply click the hand icon again."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:241
+msgid "If you are a moderator, you can also lower the hands of other participants by clicking on the hand icon next to their name in the Participants section of the chat box."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:244
-msgid "To delete a meeting room:"
+msgid "Muting Participants During a Video Meeting"
+msgstr ""
+
+#: ../../videomeeting/toc.rst:246
+msgid "As the moderator of a meeting room, you can mute an attendee's microphone individually. To do so, simply hover your cursor over the video feed of the attendee and click on the microphone icon located at the corner of their video feed."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:248
-msgid "Click the trash icon beside the name of the room you want to delete."
+#: ../../videomeeting/toc.rst:268
+msgid "Click the arrow button on the left side to open the chat box."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:249
+#: ../../videomeeting/toc.rst:269
+msgid "Click the downward arrow next to the Participants section located at the top of the chat box."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:250
+msgid "Click the microphone icon next to the participant’s name."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:251
+msgid "Click MUTE FOR ALL to confirm."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:256
+msgid "To delete a meeting room:"
+msgstr ""
+
+#: ../../videomeeting/toc.rst:260
+msgid "Click the trash icon beside the name of the room you want to delete."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:261
 msgid "Click DELETE to confirm."
 msgstr ""
 
-#: ../../videomeeting/toc.rst:252
+#: ../../videomeeting/toc.rst:264
 msgid "Adding Moderators to a Room"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:254
+#: ../../videomeeting/toc.rst:266
 msgid "To add a moderator to a meeting room:"
 msgstr ""
 
-#: ../../videomeeting/toc.rst:258
+#: ../../videomeeting/toc.rst:270
 msgid "Click the crown icon next to the participant’s name."
 msgstr ""

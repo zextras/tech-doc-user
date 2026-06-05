@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-05 12:26+0200\n"
-"PO-Revision-Date: 2026-05-07 10:07+0000\n"
+"PO-Revision-Date: 2026-06-06 10:52+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -1862,7 +1862,6 @@ msgid "Importing an S/MIME Certificate"
 msgstr "Importazione di un certificato S/MIME"
 
 #: ../../advanced_email_management/toc.rst:581
-#, fuzzy
 msgid ""
 "Upload your personal certificate (containing a public and a private key) "
 "into Carbonio webmail via Settings → S/MIME Certificates (the system will"
@@ -1870,14 +1869,13 @@ msgid ""
 "been set it will ask for the password)."
 msgstr ""
 "# Carica il certificato personale (contenente una chiave pubblica e una "
-"chiave privata) in Carbonio webmail tramite Impostazioni → Certificati "
-"S/MIME (il sistema chiederà di inserire una password per proteggere il "
-"certificato. Se ne è già stata impostata una, verrà richiesta la "
-"password). # Fai clic su Carica certificato sotto Certificati personali "
-"per la firma, la cifratura e la decifratura."
+"chiave privata) in Carbonio webmail tramite Impostazioni → Certificati S/"
+"MIME (il sistema chiederà di inserire una password per proteggere il "
+"certificato. Se ne è già stata impostata una, verrà richiesta la password). "
+"# Fai clic su Carica certificato sotto Certificati personali per la firma, "
+"la cifratura e la decifratura."
 
 #: ../../advanced_email_management/toc.rst:582
-#, fuzzy
 msgid ""
 "Click Upload Certificate under Personal certificates for signing, "
 "encryption and decryption."
@@ -1890,7 +1888,6 @@ msgid "Signing an Email"
 msgstr "Stampare un'Email"
 
 #: ../../advanced_email_management/toc.rst:588
-#, fuzzy
 msgid "When composing an email, select \"Use certificate to sign (S/MIME)\"."
 msgstr "Seleziona \"Usa certificato per firmare (S/MIME)\" prima di inviare."
 
@@ -1918,7 +1915,6 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:600
-#, fuzzy
 msgid "Click on the signature to view the certificate details."
 msgstr "Fai clic sui tre punti verticali."
 
@@ -1937,16 +1933,14 @@ msgid "The recipient sees a signed email notification."
 msgstr "Il destinatario vede una notifica di posta elettronica firmata."
 
 #: ../../advanced_email_management/toc.rst:607
-#, fuzzy
 msgid ""
 "It confirms the email hasn't been modified and is truly from the claimed "
 "sender."
 msgstr ""
-"Conferma che l'email non è stata modificata e proviene effettivamente dal"
-" mittente dichiarato."
+"Conferma che l'email non è stata modificata e proviene effettivamente dal "
+"mittente dichiarato."
 
 #: ../../advanced_email_management/toc.rst:609
-#, fuzzy
 msgid "If the signature is invalid or missing:"
 msgstr "Se la firma è valida:"
 
@@ -1987,12 +1981,10 @@ msgid "The Encryption Process"
 msgstr "Il Processo di Crittografia"
 
 #: ../../advanced_email_management/toc.rst:628
-#, fuzzy
 msgid "Sender Retrieves Recipient's Public Key"
 msgstr "Il Mittente recupera la chiave pubblica del destinatario"
 
 #: ../../advanced_email_management/toc.rst:630
-#, fuzzy
 msgid "The sender must have the recipient's public key."
 msgstr "Il mittente deve avere la chiave pubblica del destinatario."
 
@@ -2005,18 +1997,16 @@ msgid "The sender composes an email and selects  \"Encrypt with S/MIME\""
 msgstr "Il mittente compone un'e-mail e seleziona \"Cifra con S/MIME\""
 
 #: ../../advanced_email_management/toc.rst:635
-#, fuzzy
 msgid "Sender email content is encrypted using the recipient's public key."
 msgstr ""
-"Il contenuto dell'email del mittente è crittografato utilizzando la "
-"chiave pubblica del destinatario."
+"Il contenuto dell'email del mittente è crittografato utilizzando la chiave "
+"pubblica del destinatario."
 
 #: ../../advanced_email_management/toc.rst:636
 msgid "The email is sent in an encrypted format."
 msgstr "L'email viene inviata in formato crittografato."
 
 #: ../../advanced_email_management/toc.rst:637
-#, fuzzy
 msgid "Recipient Decrypts the Email"
 msgstr "Riceve e Decifrare una Email"
 
@@ -2027,14 +2017,13 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:640
-#, fuzzy
 msgid ""
 "If the private key matches the encrypted data, the email is decrypted and"
 " displayed normally."
 msgstr ""
-"Destinatario Decrittografa l'Email * Quando il destinatario apre l'email,"
-" la sua chiave privata viene utilizzata per decrittografare il messaggio."
-" * Se la chiave privata corrisponde ai dati crittografati, l'email viene "
+"Destinatario Decrittografa l'Email * Quando il destinatario apre l'email, la "
+"sua chiave privata viene utilizzata per decrittografare il messaggio. * Se "
+"la chiave privata corrisponde ai dati crittografati, l'email viene "
 "decrittografata e visualizzata normalmente."
 
 #: ../../advanced_email_management/toc.rst:642
@@ -2052,20 +2041,18 @@ msgid "Requirements for S/MIME Encryption"
 msgstr "Requisiti per la crittografia S/MIME"
 
 #: ../../advanced_email_management/toc.rst:647
-#, fuzzy
 msgid "Both sender and recipient must have S/MIME certificates installed."
 msgstr ""
-"# Sia il mittente che il destinatario devono avere installati i "
-"certificati S/MIME. # La chiave pubblica del destinatario deve essere "
-"disponibile al mittente."
+"# Sia il mittente che il destinatario devono avere installati i certificati "
+"S/MIME. # La chiave pubblica del destinatario deve essere disponibile al "
+"mittente."
 
 #: ../../advanced_email_management/toc.rst:648
-#, fuzzy
 msgid "The recipient's public key must be available to the sender."
 msgstr ""
-"# Sia il mittente che il destinatario devono avere installati i "
-"certificati S/MIME. # La chiave pubblica del destinatario deve essere "
-"disponibile al mittente."
+"# Sia il mittente che il destinatario devono avere installati i certificati "
+"S/MIME. # La chiave pubblica del destinatario deve essere disponibile al "
+"mittente."
 
 #: ../../advanced_email_management/toc.rst:651
 msgid "Uploading a Certificate in Carbonio Webmail"
@@ -2119,11 +2106,9 @@ msgid "Select \"Use certificate to encrypt (S/MIME)\" before sending."
 msgstr "Seleziona \"Usa certificato per firmare (S/MIME)\" prima di inviare."
 
 #: ../../advanced_email_management/toc.rst:670
-#, fuzzy
 msgid "The email will be encrypted using the recipient's public key."
 msgstr ""
-"L'email verrà crittografata utilizzando la chiave pubblica del "
-"destinatario."
+"L'email verrà crittografata utilizzando la chiave pubblica del destinatario."
 
 #: ../../advanced_email_management/toc.rst:673
 msgid "Receiving and Decrypting an Email"
@@ -10195,13 +10180,12 @@ msgid "Introduction of |product| Web Client"
 msgstr "Introduzione a |product| Webmail"
 
 #: ../../get_started/toc.rst:179
-#, fuzzy
 msgid ""
 "When you log in to check your emails, the |product| **web client "
 "interface** greets you with the following components:"
 msgstr ""
-"Quando esegui l'accesso per controllare le tue email, l'**interfaccia "
-"client web di Carbonio** ti accoglie con i seguenti componenti:"
+"Quando esegui l'accesso per controllare le tue email, l'**interfaccia client "
+"web di Carbonio** ti accoglie con i seguenti componenti:"
 
 #: ../../get_started/toc.rst:186
 msgid ""
@@ -10477,13 +10461,12 @@ msgid "To change your |product| web client language, follow these steps:"
 msgstr "Per cambiare la lingua del client web di |product|, segui questi passaggi:"
 
 #: ../../get_started/toc.rst:274
-#, fuzzy
 msgid ""
 "Under the **Language** section select the dropdown menu for **Language** "
 "and choose your language."
 msgstr ""
-"Nell'area **Impostazioni di base**, seleziona la lingua desiderata dal "
-"menu a discesa **Lingua** nella sezione **Fuso orario e lingua**."
+"Nell'area **Impostazioni di base**, seleziona la lingua desiderata dal menu "
+"a discesa **Lingua** nella sezione **Fuso orario e lingua**."
 
 #: ../../get_started/toc.rst:275
 msgid "Click **SAVE** in the top right corner."
@@ -12724,7 +12707,6 @@ msgstr ""
 "della persona che ha cliccato su **AVVIA REGISTRAZIONE**."
 
 #: ../../videomeeting/toc.rst:158
-#, fuzzy
 msgid "Recording Saved Notifications"
 msgstr "Silenzia notifiche di una chat"
 
@@ -15504,4 +15486,3 @@ msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 #~ " selezionare il menu a discesa per"
 #~ " **Fuso orario** e scegliere il "
 #~ "proprio fuso orario."
-

@@ -8,18 +8,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 12:03+0200\n"
+"POT-Creation-Date: 2026-06-05 12:26+0200\n"
 "PO-Revision-Date: 2026-05-07 10:07+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Italian <https://translate.zextras.tools/projects/"
-"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
+"Language-Team: Italian "
+"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
+"guide/it/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"Generated-By: Babel 2.18.0\n"
+"Generated-By: Babel 2.16.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
 msgid "Advanced Email Management"
@@ -420,9 +420,8 @@ msgstr ""
 "permetterà di informare colleghi e clienti sul tuo stato. Ecco come "
 "impostarla:"
 
-#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:213
-#: ../../get_started/toc.rst:238 ../../get_started/toc.rst:257
-#: ../../get_started/toc.rst:272
+#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:214
+#: ../../get_started/toc.rst:239 ../../get_started/toc.rst:273
 msgid "Select General Settings."
 msgstr "Seleziona Impostazioni Generali."
 
@@ -1863,13 +1862,12 @@ msgid "Importing an S/MIME Certificate"
 msgstr "Importazione di un certificato S/MIME"
 
 #: ../../advanced_email_management/toc.rst:581
+#, fuzzy
 msgid ""
-"# Upload your personal certificate (containing a public and a private "
-"key) into Carbonio webmail via Settings → S/MIME Certificates (the system"
-" will ask to enter a password to protect the certificate. If one has "
-"already been set it will ask for the password). # Click Upload "
-"Certificate under Personal certificates for signing, encryption and "
-"decryption."
+"Upload your personal certificate (containing a public and a private key) "
+"into Carbonio webmail via Settings → S/MIME Certificates (the system will"
+" ask to enter a password to protect the certificate. If one has already "
+"been set it will ask for the password)."
 msgstr ""
 "# Carica il certificato personale (contenente una chiave pubblica e una "
 "chiave privata) in Carbonio webmail tramite Impostazioni → Certificati "
@@ -1878,130 +1876,168 @@ msgstr ""
 "password). # Fai clic su Carica certificato sotto Certificati personali "
 "per la firma, la cifratura e la decifratura."
 
+#: ../../advanced_email_management/toc.rst:582
+#, fuzzy
+msgid ""
+"Click Upload Certificate under Personal certificates for signing, "
+"encryption and decryption."
+msgstr ""
+"Fare clic su \"Carica certificato\" sotto Certificati Personali per la "
+"firma, la crittografia e la decrittografia."
+
 #: ../../advanced_email_management/toc.rst:586
 msgid "Signing an Email"
 msgstr "Stampare un'Email"
 
 #: ../../advanced_email_management/toc.rst:588
-msgid ""
-"# When composing an email, select \"Use certificate to sign (S/MIME)\". #"
-" Carbonio uses the user’s private key to generate a digital signature. # "
-"The signature is attached to the email as a cryptographic hash. # The "
-"recipient can verify the signature using the sender’s public key."
-msgstr ""
-"# Quando si compone un'e-mail, selezionare \"Usa certificato per firmare "
-"(S/MIME)\". # Carbonio utilizza la chiave privata dell'utente per "
-"generare una firma digitale. # La firma viene allegata all'e-mail come "
-"hash crittografico. # Il destinatario può verificare la firma utilizzando"
-" la chiave pubblica del mittente."
+#, fuzzy
+msgid "When composing an email, select \"Use certificate to sign (S/MIME)\"."
+msgstr "Seleziona \"Usa certificato per firmare (S/MIME)\" prima di inviare."
 
-#: ../../advanced_email_management/toc.rst:595
+#: ../../advanced_email_management/toc.rst:590
+msgid "Carbonio uses the user's private key to generate a digital signature."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:591
+msgid "The signature is attached to the email as a cryptographic hash."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:592
+#: ../../advanced_email_management/toc.rst:602
+msgid "The recipient can verify the signature using the sender's public key."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:596
 msgid "Verifying a Signed Email"
 msgstr "Verificare email firmate"
 
-#: ../../advanced_email_management/toc.rst:597
+#: ../../advanced_email_management/toc.rst:598
 msgid ""
-"# When you receive a signed email, the signature is displayed in the "
-"email header. # Click on the signature to view the certificate details. #"
-" The certificate details include the certificate issuer, the certificate "
-"validity period, and the certificate fingerprint. # The recipient can "
-"verify the signature using the sender’s public key."
+"When you receive a signed email, the signature is displayed in the email "
+"header."
 msgstr ""
-"# Quando si riceve un'e-mail firmata, la firma è visualizzata "
-"nell'intestazione dell'e-mail. # Fare clic sulla firma per visualizzare i"
-" dettagli del certificato. # I dettagli del certificato includono l'ente "
-"emittente del certificato, il periodo di validità del certificato e "
-"l'impronta del certificato. # Il destinatario può verificare la firma "
-"utilizzando la chiave pubblica del mittente."
 
-#: ../../advanced_email_management/toc.rst:602
+#: ../../advanced_email_management/toc.rst:600
+#, fuzzy
+msgid "Click on the signature to view the certificate details."
+msgstr "Fai clic sui tre punti verticali."
+
+#: ../../advanced_email_management/toc.rst:601
+msgid ""
+"The certificate details include the certificate issuer, the certificate "
+"validity period, and the certificate fingerprint."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:604
 msgid "If the signature is valid:"
 msgstr "Se la firma è valida:"
 
-#: ../../advanced_email_management/toc.rst:604
+#: ../../advanced_email_management/toc.rst:606
 msgid "The recipient sees a signed email notification."
 msgstr "Il destinatario vede una notifica di posta elettronica firmata."
 
-#: ../../advanced_email_management/toc.rst:605
+#: ../../advanced_email_management/toc.rst:607
+#, fuzzy
 msgid ""
-"It confirms the email hasn’t been modified and is truly from the claimed "
+"It confirms the email hasn't been modified and is truly from the claimed "
 "sender."
 msgstr ""
 "Conferma che l'email non è stata modificata e proviene effettivamente dal"
 " mittente dichiarato."
 
-#: ../../advanced_email_management/toc.rst:607
-msgid ""
-"If the signature is invalid or missing, the email might be tampered with "
-"or sent from an untrusted source. The recipient should be cautious when "
-"interacting with such emails."
+#: ../../advanced_email_management/toc.rst:609
+#, fuzzy
+msgid "If the signature is invalid or missing:"
+msgstr "Se la firma è valida:"
+
+#: ../../advanced_email_management/toc.rst:611
+msgid "The email might be tampered with or sent from an untrusted source."
 msgstr ""
-"Se la firma è invalida o mancante, l'email potrebbe essere stata "
-"manomessa o inviata da una fonte non attendibile. Il destinatario "
-"dovrebbe essere cauto nell'interagire con tali email."
 
 #: ../../advanced_email_management/toc.rst:612
+msgid "The recipient should be cautious when interacting with such emails."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:616
 msgid "How S/MIME Encryption Works in Carbonio"
 msgstr "Funzionamento della crittografia S/MIME in Carbonio"
 
-#: ../../advanced_email_management/toc.rst:615
+#: ../../advanced_email_management/toc.rst:619
 msgid "Key Components"
 msgstr "Componenti Chiave"
 
-#: ../../advanced_email_management/toc.rst:617
+#: ../../advanced_email_management/toc.rst:621
 msgid ""
-"# Public Key: Used to encrypt the email. Stored in the recipient’s S/MIME"
-" certificate. # Private Key: Used to decrypt the email. Stored securely "
-"by the recipient. # Certificate Authority (CA): Issues S/MIME "
-"certificates to users."
+"**Public Key**: Used to encrypt the email. Stored in the recipient's "
+"S/MIME certificate."
 msgstr ""
-"# Chiave pubblica: utilizzata per crittografare l'e-mail. Memorizzata nel"
-" certificato S/MIME del destinatario. # Chiave privata: utilizzata per "
-"decrittografare l'e-mail. Memorizzata in modo sicuro dal destinatario. # "
-"Autorità di certificazione (CA): rilascia certificati S/MIME agli utenti."
 
 #: ../../advanced_email_management/toc.rst:622
+msgid ""
+"**Private Key**: Used to decrypt the email. Stored securely by the "
+"recipient."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:623
+msgid "**Certificate Authority (CA)**: Issues S/MIME certificates to users."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:626
 msgid "The Encryption Process"
 msgstr "Il Processo di Crittografia"
 
-#: ../../advanced_email_management/toc.rst:624
-msgid "Sender Retrieves Recipient’s Public Key"
+#: ../../advanced_email_management/toc.rst:628
+#, fuzzy
+msgid "Sender Retrieves Recipient's Public Key"
 msgstr "Il Mittente recupera la chiave pubblica del destinatario"
 
-#: ../../advanced_email_management/toc.rst:625
-msgid "The sender must have the recipient’s public key."
+#: ../../advanced_email_management/toc.rst:630
+#, fuzzy
+msgid "The sender must have the recipient's public key."
 msgstr "Il mittente deve avere la chiave pubblica del destinatario."
 
-#: ../../advanced_email_management/toc.rst:626
+#: ../../advanced_email_management/toc.rst:632
 msgid "Email Encryption"
 msgstr "Notifica di Arrivo Email"
 
-#: ../../advanced_email_management/toc.rst:627
+#: ../../advanced_email_management/toc.rst:634
 msgid "The sender composes an email and selects  \"Encrypt with S/MIME\""
 msgstr "Il mittente compone un'e-mail e seleziona \"Cifra con S/MIME\""
 
-#: ../../advanced_email_management/toc.rst:628
-msgid "Sender email content is encrypted using the recipient’s public key."
+#: ../../advanced_email_management/toc.rst:635
+#, fuzzy
+msgid "Sender email content is encrypted using the recipient's public key."
 msgstr ""
 "Il contenuto dell'email del mittente è crittografato utilizzando la "
 "chiave pubblica del destinatario."
 
-#: ../../advanced_email_management/toc.rst:629
+#: ../../advanced_email_management/toc.rst:636
 msgid "The email is sent in an encrypted format."
 msgstr "L'email viene inviata in formato crittografato."
 
-#: ../../advanced_email_management/toc.rst:630
+#: ../../advanced_email_management/toc.rst:637
+#, fuzzy
+msgid "Recipient Decrypts the Email"
+msgstr "Riceve e Decifrare una Email"
+
+#: ../../advanced_email_management/toc.rst:639
 msgid ""
-"Recipient Decrypts the Email * When the recipient opens the email, its "
-"private key is used to decrypt the message. * If the private key matches "
-"the encrypted data, the email is decrypted and displayed normally."
+"When the recipient opens the email, its private key is used to decrypt "
+"the message."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:640
+#, fuzzy
+msgid ""
+"If the private key matches the encrypted data, the email is decrypted and"
+" displayed normally."
 msgstr ""
 "Destinatario Decrittografa l'Email * Quando il destinatario apre l'email,"
 " la sua chiave privata viene utilizzata per decrittografare il messaggio."
 " * Se la chiave privata corrisponde ai dati crittografati, l'email viene "
 "decrittografata e visualizzata normalmente."
 
-#: ../../advanced_email_management/toc.rst:634
+#: ../../advanced_email_management/toc.rst:642
 msgid ""
 "The recipient can only decrypt the email if they have the corresponding "
 "private key. This ensures that only the intended recipient can read the "
@@ -2011,28 +2047,35 @@ msgstr ""
 "privata corrispondente. Ciò garantisce che solo il destinatario previsto "
 "possa leggere l'email."
 
-#: ../../advanced_email_management/toc.rst:637
+#: ../../advanced_email_management/toc.rst:645
 msgid "Requirements for S/MIME Encryption"
 msgstr "Requisiti per la crittografia S/MIME"
 
-#: ../../advanced_email_management/toc.rst:639
-msgid ""
-"# Both sender and recipient must have S/MIME certificates installed. # "
-"The recipient’s public key must be available to the sender."
+#: ../../advanced_email_management/toc.rst:647
+#, fuzzy
+msgid "Both sender and recipient must have S/MIME certificates installed."
 msgstr ""
 "# Sia il mittente che il destinatario devono avere installati i "
 "certificati S/MIME. # La chiave pubblica del destinatario deve essere "
 "disponibile al mittente."
 
-#: ../../advanced_email_management/toc.rst:643
+#: ../../advanced_email_management/toc.rst:648
+#, fuzzy
+msgid "The recipient's public key must be available to the sender."
+msgstr ""
+"# Sia il mittente che il destinatario devono avere installati i "
+"certificati S/MIME. # La chiave pubblica del destinatario deve essere "
+"disponibile al mittente."
+
+#: ../../advanced_email_management/toc.rst:651
 msgid "Uploading a Certificate in Carbonio Webmail"
 msgstr "Caricamento di un certificato in Carbonio Webmail"
 
-#: ../../advanced_email_management/toc.rst:645
+#: ../../advanced_email_management/toc.rst:653
 msgid "Go to Settings → S/MIME Certificates."
 msgstr "Vai a Impostazioni → Certificati S/MIME."
 
-#: ../../advanced_email_management/toc.rst:646
+#: ../../advanced_email_management/toc.rst:654
 msgid ""
 "Click \"Upload Certificate\" under Personal certificates for signing, "
 "encryption and decryption."
@@ -2040,61 +2083,65 @@ msgstr ""
 "Fare clic su \"Carica certificato\" sotto Certificati Personali per la "
 "firma, la crittografia e la decrittografia."
 
-#: ../../advanced_email_management/toc.rst:647
+#: ../../advanced_email_management/toc.rst:655
 msgid "Select your PKCS#12 certificate file (.pfx or .p12)."
 msgstr "Seleziona il file del certificato PKCS#12 (.pfx o .p12)."
 
-#: ../../advanced_email_management/toc.rst:648
+#: ../../advanced_email_management/toc.rst:656
 msgid "Enter the certificate secret."
 msgstr "Inserisci il segreto del certificato."
 
-#: ../../advanced_email_management/toc.rst:649
-#: ../../advanced_email_management/toc.rst:655
+#: ../../advanced_email_management/toc.rst:657
+#: ../../advanced_email_management/toc.rst:663
 msgid "Click Save."
 msgstr "Clicca su Salva."
 
-#: ../../advanced_email_management/toc.rst:652
+#: ../../advanced_email_management/toc.rst:660
 msgid "Uploading Recipient Certificate"
 msgstr "Caricamento del Certificato del Destinatario"
 
-#: ../../advanced_email_management/toc.rst:654
+#: ../../advanced_email_management/toc.rst:662
 msgid "Click \"Upload Certificate\" under Recipients certificates for encryption"
 msgstr ""
 "Fai clic su \"Carica certificato\" sotto i certificati dei Destinatari "
 "per la crittografia"
 
-#: ../../advanced_email_management/toc.rst:658
+#: ../../advanced_email_management/toc.rst:666
 msgid "Sending an Encrypted Email"
 msgstr "Inviare un'Email in Bozza"
 
-#: ../../advanced_email_management/toc.rst:660
+#: ../../advanced_email_management/toc.rst:668
 msgid "Compose a new email in Carbonio webmail."
 msgstr "Componi un nuovo messaggio di posta in Carbonio webmail."
 
-#: ../../advanced_email_management/toc.rst:661
+#: ../../advanced_email_management/toc.rst:669
 msgid "Select \"Use certificate to encrypt (S/MIME)\" before sending."
 msgstr "Seleziona \"Usa certificato per firmare (S/MIME)\" prima di inviare."
 
-#: ../../advanced_email_management/toc.rst:662
-msgid "The email will be encrypted using the recipient’s public key."
+#: ../../advanced_email_management/toc.rst:670
+#, fuzzy
+msgid "The email will be encrypted using the recipient's public key."
 msgstr ""
 "L'email verrà crittografata utilizzando la chiave pubblica del "
 "destinatario."
 
-#: ../../advanced_email_management/toc.rst:665
+#: ../../advanced_email_management/toc.rst:673
 msgid "Receiving and Decrypting an Email"
 msgstr "Riceve e Decifrare una Email"
 
-#: ../../advanced_email_management/toc.rst:667
+#: ../../advanced_email_management/toc.rst:675
 msgid ""
-"# If your private key is installed, Carbonio will automatically decrypt "
-"the message. # If not, you’ll see an \"Unable to decrypt\" error. # You "
-"can upload your private key to decrypt the message."
+"If your private key is installed, Carbonio will automatically decrypt the"
+" message."
 msgstr ""
-"# Se la tua chiave privata è installata, Carbonio decifrerà "
-"automaticamente il messaggio. # In caso contrario, verrà visualizzato un "
-"errore \"Impossibile decifrare\". # Puoi caricare la tua chiave privata "
-"per decifrare il messaggio."
+
+#: ../../advanced_email_management/toc.rst:676
+msgid "If not, you'll see an \"Unable to decrypt\" error."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:677
+msgid "You can upload your private key to decrypt the message."
+msgstr ""
 
 #: ../../appointments/toc.rst:7
 msgid "Working with Appointments"
@@ -3700,8 +3747,8 @@ msgstr ""
 "La funzione **Archivio** in Carbonio consente di spostare rapidamente "
 "email e conversazioni dalle cartelle correnti senza eliminarle. Gli "
 "elementi archiviati vengono conservati in una cartella di sistema "
-"dedicata chiamata Archivio, rendendo più semplice mantenere la casella "
-"di posta organizzata pur tenendo i messaggi importanti disponibili per "
+"dedicata chiamata Archivio, rendendo più semplice mantenere la casella di"
+" posta organizzata pur tenendo i messaggi importanti disponibili per "
 "riferimenti futuri."
 
 #: ../../basic_email_management/toc.rst:357
@@ -3721,7 +3768,9 @@ msgstr "Archiviare una Singola Email o Conversazione"
 
 #: ../../basic_email_management/toc.rst:362
 msgid "You can archive an email or a conversation directly from the mail list."
-msgstr "È possibile archiviare un'email o una conversazione direttamente dall'elenco delle mail."
+msgstr ""
+"È possibile archiviare un'email o una conversazione direttamente "
+"dall'elenco delle mail."
 
 #: ../../basic_email_management/toc.rst:364
 #: ../../basic_email_management/toc.rst:391
@@ -7935,7 +7984,7 @@ msgstr "I tuoi contatti personali e altre cartelle rimangono privati."
 msgid "Filtering Your View"
 msgstr "Filtrare la tua vista"
 
-#: ../../contacts/toc.rst:220
+#: ../../contacts/toc.rst:224
 msgid "To manage what you see in Contacts:"
 msgstr "Per assegnare un tag a un contatto esistente:"
 
@@ -10146,8 +10195,9 @@ msgid "Introduction of |product| Web Client"
 msgstr "Introduzione a |product| Webmail"
 
 #: ../../get_started/toc.rst:179
+#, fuzzy
 msgid ""
-"When you log in to check your emails, the **|product| web client "
+"When you log in to check your emails, the |product| **web client "
 "interface** greets you with the following components:"
 msgstr ""
 "Quando esegui l'accesso per controllare le tue email, l'**interfaccia "
@@ -10189,11 +10239,19 @@ msgstr ""
 "analogamente, la scelta di \"Calendari\" visualizzerà gli eventi del tuo "
 "calendario."
 
-#: ../../get_started/toc.rst:191
+#: ../../get_started/toc.rst:189
+msgid ""
+"**Storage Quota**: Displays your overall storage usage across Carbonio "
+"modules, including Mail, Files, and Chats. It shows the used space "
+"compared with the total available quota, together with a progress bar to "
+"help you quickly monitor your storage consumption."
+msgstr ""
+
+#: ../../get_started/toc.rst:192
 msgid "Using Browser Buttons to Navigate |product|"
 msgstr "Usare i Comandi del Browser per Navigare |product|"
 
-#: ../../get_started/toc.rst:193
+#: ../../get_started/toc.rst:194
 msgid ""
 "It is recommended to avoid using your browser’s navigation buttons too "
 "frequently, especially when you are in the middle of composing an email "
@@ -10206,7 +10264,7 @@ msgstr ""
 "involontariamente il tuo lavoro e farti perdere ciò che stavi facendo. "
 "Pertanto, procedi con cautela."
 
-#: ../../get_started/toc.rst:195
+#: ../../get_started/toc.rst:196
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on |product|."
@@ -10214,7 +10272,7 @@ msgstr ""
 "**Tasto Indietro**: puoi utilizzare il tasto indietro del tuo browser per"
 " tornare alla pagina precedente che stavi visualizzando su |product|."
 
-#: ../../get_started/toc.rst:196
+#: ../../get_started/toc.rst:197
 msgid ""
 "**Forward Button**: If you have gone back and want to revisit a page you "
 "just left, click the forward button."
@@ -10222,7 +10280,7 @@ msgstr ""
 "**Tasto \"Avanti\"**: Se sei tornato indietro e desideri tornare a una "
 "pagina che hai appena lasciato, clicca sul pulsante \"Avanti\"."
 
-#: ../../get_started/toc.rst:197
+#: ../../get_started/toc.rst:198
 msgid ""
 "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
 "Clicking it restarts your session, which can be especially dangerous when"
@@ -10234,11 +10292,11 @@ msgstr ""
 "particolarmente pericoloso quando stai componendo un nuovo messaggio di "
 "posta elettronica o un testo lungo. Potresti perdere il tuo lavoro."
 
-#: ../../get_started/toc.rst:200
+#: ../../get_started/toc.rst:201
 msgid "Account Personalization"
 msgstr "Personalizzazione dell'Account"
 
-#: ../../get_started/toc.rst:202
+#: ../../get_started/toc.rst:203
 msgid ""
 "Before you start using the |product| web client, take a moment to "
 "personalize your account. You can customize visual aspects such as the "
@@ -10254,11 +10312,11 @@ msgstr ""
 "dell'ingranaggio nella barra dei menu a sinistra, quindi seleziona "
 "**Impostazioni generali**."
 
-#: ../../get_started/toc.rst:206
+#: ../../get_started/toc.rst:207
 msgid "Changing Theme"
 msgstr "Cambiare il Tema"
 
-#: ../../get_started/toc.rst:208
+#: ../../get_started/toc.rst:209
 msgid ""
 "A theme in the |product| web client defines the color scheme used for its"
 " appearance. Currently, there are **two themes** available: **Dark mode**"
@@ -10268,25 +10326,25 @@ msgstr ""
 "utilizzato per il suo aspetto. Attualmente sono disponibili **due temi**:"
 " **Tema scuro** e **Tema chiaro**. Ecco come puoi gestirli:"
 
-#: ../../get_started/toc.rst:210
+#: ../../get_started/toc.rst:211
 msgid "To **activate Dark mode**, follow these steps:"
 msgstr "Per **attivare la modalità scura**, segui questi passaggi:"
 
-#: ../../get_started/toc.rst:212
+#: ../../get_started/toc.rst:213
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
 "Vai a **Impostazioni** (icona dell'ingranaggio) dalla barra menu a "
 "sinistra."
 
-#: ../../get_started/toc.rst:214
+#: ../../get_started/toc.rst:215
 msgid "Under **Theme Options**, open the dropdown menu."
 msgstr "Sotto **Opzioni tema**, apri il menu a tendina."
 
-#: ../../get_started/toc.rst:215
+#: ../../get_started/toc.rst:216
 msgid "Click on **Enabled**."
 msgstr "Fai clic su **Abilitato**."
 
-#: ../../get_started/toc.rst:216
+#: ../../get_started/toc.rst:217
 msgid ""
 "Click on the **SAVE** button located in the **top right corner** of the "
 "screen."
@@ -10294,17 +10352,17 @@ msgstr ""
 "Fai clic su **SALVA** posizionato nell'**angolo in alto a destra** dello "
 "schermo."
 
-#: ../../get_started/toc.rst:218
+#: ../../get_started/toc.rst:219
 msgid "To **disable Dark mode**, follow these steps:"
 msgstr "Per **disabilitare la modalità scura**, segui questi passaggi:"
 
-#: ../../get_started/toc.rst:220
+#: ../../get_started/toc.rst:221
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr ""
 "Fai clic su **Disabilitato** nel medesimo menu a tendina e fai clic su "
 "**SALVA**."
 
-#: ../../get_started/toc.rst:222
+#: ../../get_started/toc.rst:223
 msgid ""
 "If you choose **Auto**, |product| will adapt to your **operating system’s"
 " default theme**. For example:"
@@ -10312,23 +10370,23 @@ msgstr ""
 "Se scegli **Auto**, |product| si adatterà al **tema predefinito del tuo "
 "sistema operativo**. Ad esempio:"
 
-#: ../../get_started/toc.rst:224
+#: ../../get_started/toc.rst:225
 msgid "If your OS theme is dark, |product| will also be in dark mode."
 msgstr ""
 "Se il tema del tuo sistema operativo è scuro, anche |product| sarà in "
 "modalità scura."
 
-#: ../../get_started/toc.rst:225
+#: ../../get_started/toc.rst:226
 msgid "If your OS theme is light, |product| will match that as well."
 msgstr ""
 "Se il tema del tuo sistema operativo è chiaro, |product| si adatterà di "
 "conseguenza."
 
-#: ../../get_started/toc.rst:233
+#: ../../get_started/toc.rst:234
 msgid "Changing Font Size"
 msgstr "Modificare le Dimensioni dei Caratteri"
 
-#: ../../get_started/toc.rst:235
+#: ../../get_started/toc.rst:236
 msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
@@ -10337,14 +10395,13 @@ msgstr ""
 " preferenze. Per modificare la dimensione del carattere segui questi "
 "passaggi:"
 
-#: ../../get_started/toc.rst:237 ../../get_started/toc.rst:256
-#: ../../get_started/toc.rst:271
+#: ../../get_started/toc.rst:238 ../../get_started/toc.rst:272
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr ""
 "Apri le **Impostazioni** (icona dell'ingranaggio) dalla barra dei menu a "
 "sinistra."
 
-#: ../../get_started/toc.rst:239
+#: ../../get_started/toc.rst:240
 msgid ""
 "Under the **Appearance** section, find the slider for adjusting the font "
 "size."
@@ -10352,7 +10409,7 @@ msgstr ""
 "Nella sezione **Aspetto**, trascina il cursore per regolare la dimensione"
 " del font."
 
-#: ../../get_started/toc.rst:240
+#: ../../get_started/toc.rst:241
 msgid ""
 "If you want to manually control the font size, uncheck the option that "
 "says *Automatically resize the text size depending on the device*."
@@ -10361,7 +10418,7 @@ msgstr ""
 "l'opzione che dice *Ridimensiona automaticamente le dimensioni del testo "
 "a seconda del dispositivo*."
 
-#: ../../get_started/toc.rst:241
+#: ../../get_started/toc.rst:242
 msgid ""
 "Use the slider to set the font size to your preference. As you move the "
 "slider, you will see the results in the bottom box with some dummy text."
@@ -10369,11 +10426,11 @@ msgstr ""
 "Mentre sposti il cursore sulla barra, vedrai i risultati nella casella "
 "inferiore, che mostrerà un testo di esempio."
 
-#: ../../get_started/toc.rst:242
+#: ../../get_started/toc.rst:243
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr "Una volta soddisfatto, fai clic su **SALVA** nell'angolo in alto a destra."
 
-#: ../../get_started/toc.rst:244
+#: ../../get_started/toc.rst:245
 msgid ""
 "Remember, if you prefer automatic resizing based on the device, you can "
 "leave the checkbox checked. Otherwise, adjust the font size manually "
@@ -10384,58 +10441,59 @@ msgstr ""
 "contrario, regolare manualmente la dimensione del carattere usando il "
 "cursore."
 
-#: ../../get_started/toc.rst:252
-msgid "Changing Your Time Zone"
-msgstr "Cambiare il Fuso Orario"
-
-#: ../../get_started/toc.rst:254
-msgid ""
-"As a digital workspace, |product| relies on precise time zone settings to"
-" ensure optimal performance for calendars and other features like emails,"
-" guaranteeing accurate timestamps. This becomes particularly crucial when"
-" collaborating with colleagues across different countries and time zones."
-" To change your time zone, follow these steps:"
+#: ../../get_started/toc.rst:253
+msgid "Manage time zones in |product| for accurate collaboration"
 msgstr ""
-"|product| si affida alle impostazioni precise del fuso orario per "
-"garantire prestazioni ottimali per i calendari e altre funzionalità come "
-"le email, garantendo un tracciamento dei tempi accurato. Ciò diventa "
-"particolarmente importante quando si collabora con colleghi in diversi "
-"paesi e fusi orari. Per cambiare il tuo fuso orario, segui questi "
-"passaggi:"
 
-#: ../../get_started/toc.rst:258
+#: ../../get_started/toc.rst:255
 msgid ""
-"Under the **Time Zone and Language** section select the dropdown menu for"
-" **Time Zone** and choose your time zone."
+"|product| relies on accurate time zone settings to ensure correct "
+"timestamps for calendars, emails, and other features."
 msgstr ""
-"Nella sezione **Fuso orario e lingua** selezionare il menu a discesa per "
-"**Fuso orario** e scegliere il proprio fuso orario."
 
-#: ../../get_started/toc.rst:259 ../../get_started/toc.rst:274
-msgid "Click **SAVE** in the top right corner."
-msgstr "Fai clic su **SALVA** nell'angolo in alto a destra."
+#: ../../get_started/toc.rst:257
+msgid ""
+"This is particularly important when collaborating across different "
+"countries and time zones. By default, |product| uses the time zone "
+"configured on your **operating system**."
+msgstr ""
 
-#: ../../get_started/toc.rst:267
+#: ../../get_started/toc.rst:260
+msgid ""
+"To display a different time zone in the |product| interface, update your "
+"system’s time zone settings."
+msgstr ""
+
+#: ../../get_started/toc.rst:262
+msgid "|product| will then automatically apply the updated system time zone."
+msgstr ""
+
+#: ../../get_started/toc.rst:268
 msgid "Changing |product| Language"
 msgstr "Cambiare la Lingua di |product|"
 
-#: ../../get_started/toc.rst:269
+#: ../../get_started/toc.rst:270
 msgid "To change your |product| web client language, follow these steps:"
 msgstr "Per cambiare la lingua del client web di |product|, segui questi passaggi:"
 
-#: ../../get_started/toc.rst:273
+#: ../../get_started/toc.rst:274
+#, fuzzy
 msgid ""
-"Under the **Time Zone and Language** section select the dropdown menu for"
-" **Language** and choose your language."
+"Under the **Language** section select the dropdown menu for **Language** "
+"and choose your language."
 msgstr ""
 "Nell'area **Impostazioni di base**, seleziona la lingua desiderata dal "
 "menu a discesa **Lingua** nella sezione **Fuso orario e lingua**."
 
-#: ../../get_started/toc.rst:277
+#: ../../get_started/toc.rst:275
+msgid "Click **SAVE** in the top right corner."
+msgstr "Fai clic su **SALVA** nell'angolo in alto a destra."
+
+#: ../../get_started/toc.rst:278
 msgid "Accessing Multiple Accounts"
 msgstr "Accedere a più Account"
 
-#: ../../get_started/toc.rst:279
+#: ../../get_started/toc.rst:280
 msgid ""
 "On the |product| web client, you have access to multiple accounts. Let's "
 "say you have your personal account, as well as two additional accounts "
@@ -10452,7 +10510,7 @@ msgstr ""
 "sistema può aggiungere questi account e concederti l'accesso per gestirli"
 " dal tuo account principale**."
 
-#: ../../get_started/toc.rst:285
+#: ../../get_started/toc.rst:286
 msgid ""
 "So, when you sign into your main account, you will see these two "
 "additional accounts listed under your main account. To access these "
@@ -10862,7 +10920,7 @@ msgstr "Apri una chat 1-to-1 con il collega."
 msgid "Tap the camera icon to start a video call."
 msgstr "Tocca l'icona della fotocamera per avviare una videochiamata."
 
-#: ../../mobile_apps/chat_app.rst:180 ../../videomeeting/toc.rst:242
+#: ../../mobile_apps/chat_app.rst:180 ../../videomeeting/toc.rst:254
 msgid "Deleting a Meeting Room"
 msgstr "Eliminazione di una sala riunioni"
 
@@ -12290,7 +12348,7 @@ msgstr "Per creare una nuova stanza:"
 #: ../../videomeeting/toc.rst:22 ../../videomeeting/toc.rst:42
 #: ../../videomeeting/toc.rst:69 ../../videomeeting/toc.rst:82
 #: ../../videomeeting/toc.rst:94 ../../videomeeting/toc.rst:106
-#: ../../videomeeting/toc.rst:115 ../../videomeeting/toc.rst:246
+#: ../../videomeeting/toc.rst:115 ../../videomeeting/toc.rst:258
 msgid "Select the Chats feature from your left sidebar."
 msgstr "Seleziona la funzione di Chat dalla barra laterale sinistra."
 
@@ -12370,7 +12428,7 @@ msgstr "Per accedere ed entrare nella tua stanza virtuale, segui questi passaggi
 
 #: ../../videomeeting/toc.rst:43 ../../videomeeting/toc.rst:70
 #: ../../videomeeting/toc.rst:83 ../../videomeeting/toc.rst:95
-#: ../../videomeeting/toc.rst:116 ../../videomeeting/toc.rst:247
+#: ../../videomeeting/toc.rst:116 ../../videomeeting/toc.rst:259
 msgid ""
 "Click YOUR VIRTUAL ROOMS located at the bottom left corner beneath the "
 "list of chats to open your list of rooms."
@@ -12666,10 +12724,31 @@ msgstr ""
 "della persona che ha cliccato su **AVVIA REGISTRAZIONE**."
 
 #: ../../videomeeting/toc.rst:158
+#, fuzzy
+msgid "Recording Saved Notifications"
+msgstr "Silenzia notifiche di una chat"
+
+#: ../../videomeeting/toc.rst:160
+msgid ""
+"When a Chats meeting recording is successfully saved to Files, the "
+"recording initiator receives an automatic notification in the Files "
+"Notifications widget. The notification is displayed as “<recording name> "
+"saved in <folder name>” and includes the destination folder path, so the "
+"recording can be found quickly in Files."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:163
+msgid ""
+"This notification is system-generated and uses the system avatar "
+"(settings icon) to distinguish it from user activity. The feature is "
+"enabled by default and requires no administrative configuration."
+msgstr ""
+
+#: ../../videomeeting/toc.rst:170
 msgid "Adding New Members to a Video Meeting"
 msgstr "Aggiunta di nuovi membri a una riunione video"
 
-#: ../../videomeeting/toc.rst:160
+#: ../../videomeeting/toc.rst:172
 msgid ""
 "To add new members to an ongoing video meeting, you need to send them the"
 " link to access the room. Here is how:"
@@ -12677,15 +12756,15 @@ msgstr ""
 "Per aggiungere nuovi membri a una riunione video in corso, è necessario "
 "inviar loro il link per accedere alla stanza. Ecco come:"
 
-#: ../../videomeeting/toc.rst:162
+#: ../../videomeeting/toc.rst:174
 msgid "Make sure you are in the meeting."
 msgstr "Assicurati di essere in riunione."
 
-#: ../../videomeeting/toc.rst:163
+#: ../../videomeeting/toc.rst:175
 msgid "Copy the URL of the page from the address bar of your browser."
 msgstr "Copia l'URL della pagina dalla barra degli indirizzi del browser."
 
-#: ../../videomeeting/toc.rst:165
+#: ../../videomeeting/toc.rst:177
 msgid ""
 "This will copy the link to access your room to your clipboard. You can "
 "paste it anywhere (such as in a chat) by right-clicking and selecting "
@@ -12697,11 +12776,11 @@ msgstr ""
 "selezionando Incolla, oppure utilizzando il taglio keyboard CTRL+V su "
 "Windows o command+V su macOS."
 
-#: ../../videomeeting/toc.rst:168
+#: ../../videomeeting/toc.rst:180
 msgid "Accessing Chat History During a Video Meeting"
 msgstr "Accesso alla Cronologia Chat Durante un Incontro Video"
 
-#: ../../videomeeting/toc.rst:170
+#: ../../videomeeting/toc.rst:182
 msgid ""
 "To access the chat box of the room where you are having the video "
 "meeting, simply click the arrow button on the left side to open the chat "
@@ -12711,11 +12790,11 @@ msgstr ""
 "video, basta cliccare sul pulsante a freccia sul lato sinistro per aprire"
 " la chat."
 
-#: ../../videomeeting/toc.rst:173
+#: ../../videomeeting/toc.rst:185
 msgid "Sharing Screen During a Video Meeting"
 msgstr "Condivisione dello schermo durante un incontro in video"
 
-#: ../../videomeeting/toc.rst:175
+#: ../../videomeeting/toc.rst:187
 msgid ""
 "When you are in a video meeting, you can share your screen with "
 "attendees. Here is how: Click the screen icon on the bottom bar inside "
@@ -12733,11 +12812,11 @@ msgstr ""
 "del browser. • Una finestra specifica. • Schermo intero. Seleziona "
 "l'opzione desiderata e quindi fai clic su Condividi."
 
-#: ../../videomeeting/toc.rst:183
+#: ../../videomeeting/toc.rst:195
 msgid "Maximizing Video Meeting Screen"
 msgstr "Ottimizzazione dello schermo di riunione video"
 
-#: ../../videomeeting/toc.rst:185
+#: ../../videomeeting/toc.rst:197
 msgid ""
 "To maximize the video meeting screen, click on the icon with arrows "
 "inside located on the bottom bar. If you do not see the bottom bar inside"
@@ -12750,11 +12829,11 @@ msgstr ""
 "semplicemente il cursore del mouse verso il basso dello schermo ed essa "
 "apparirà."
 
-#: ../../videomeeting/toc.rst:188
+#: ../../videomeeting/toc.rst:200
 msgid "Cinema Mode Fullscreen Feature"
 msgstr "Funzionalità Modalità Cinema a schermo intero"
 
-#: ../../videomeeting/toc.rst:190
+#: ../../videomeeting/toc.rst:202
 msgid ""
 "Cinema Mode provides an optimized viewing experience during meetings, "
 "allowing you to focus on shared content or participants with an immersive"
@@ -12764,7 +12843,7 @@ msgstr ""
 "durante le riunioni, consentendoti di concentrarti sul contenuto "
 "condiviso o sui partecipanti con un display a schermo intero immersivo."
 
-#: ../../videomeeting/toc.rst:192
+#: ../../videomeeting/toc.rst:204
 msgid ""
 "This feature enables you to: * View meetings in Cinema Mode for a more "
 "engaging experience * Activate fullscreen mode to eliminate interface "
@@ -12777,7 +12856,7 @@ msgstr ""
 "Ottimizzare la visualizzazione durante le presentazioni o le sessioni di "
 "collaborazione"
 
-#: ../../videomeeting/toc.rst:197
+#: ../../videomeeting/toc.rst:209
 msgid ""
 "To use the Cinema Mode and fullscreen features, follow these steps: * "
 "Join a meeting: Enter an existing meeting * Switch to Cinema view: In the"
@@ -12793,7 +12872,7 @@ msgstr ""
 "schermo intero per massimizzare l'area di visualizzazione e rimuovere gli"
 " elementi dell'interfaccia"
 
-#: ../../videomeeting/toc.rst:202
+#: ../../videomeeting/toc.rst:214
 msgid ""
 "The full-screen mode now automatically hides the sidebar and carousel in "
 "cinema view, and hides the sidebar in other views. When full screen is "
@@ -12804,11 +12883,11 @@ msgstr ""
 "altre viste. Quando lo schermo intero è attivato in vista cinema, il "
 "pannello sinistro e il carosello saranno chiusi."
 
-#: ../../videomeeting/toc.rst:205
+#: ../../videomeeting/toc.rst:217
 msgid "Raise Hand Feature"
 msgstr "Funzionalità Alza la Mano"
 
-#: ../../videomeeting/toc.rst:207
+#: ../../videomeeting/toc.rst:219
 msgid ""
 "The Raise Hand feature allows meeting participants to signal their desire"
 " to speak through a structured queue system, promoting organized "
@@ -12819,45 +12898,45 @@ msgstr ""
 "strutturato, promuovendo discussioni organizzate e un miglior flusso di "
 "riunione."
 
-#: ../../videomeeting/toc.rst:209
+#: ../../videomeeting/toc.rst:221
 msgid "How It Works for Participants:"
 msgstr "Come Funziona per i Partecipanti:"
 
-#: ../../videomeeting/toc.rst:211
+#: ../../videomeeting/toc.rst:223
 msgid "Raise hand to join speaking queue"
 msgstr "Alza la mano per unirti alla coda di parlanti"
 
-#: ../../videomeeting/toc.rst:212
+#: ../../videomeeting/toc.rst:224
 msgid "View real-time queue showing order, avatars, and usernames"
 msgstr ""
 "Visualizza la coda in tempo reale che mostra l'ordine, gli avatar e gli "
 "username"
 
-#: ../../videomeeting/toc.rst:213
+#: ../../videomeeting/toc.rst:225
 msgid "Receive audio notifications when others raise hands"
 msgstr "Ricezione di Notifiche su un altro Indirizzo Email"
 
-#: ../../videomeeting/toc.rst:214
+#: ../../videomeeting/toc.rst:226
 msgid "Hand automatically lowers when speaking begins"
 msgstr "La mano si abbassa automaticamente quando inizia la parlata"
 
-#: ../../videomeeting/toc.rst:216
+#: ../../videomeeting/toc.rst:228
 msgid "Moderators"
 msgstr "Moderatori"
 
-#: ../../videomeeting/toc.rst:218
+#: ../../videomeeting/toc.rst:230
 msgid "Access dedicated queue management panel"
 msgstr "Accedi al pannello dedicato di gestione della coda"
 
-#: ../../videomeeting/toc.rst:219
+#: ../../videomeeting/toc.rst:231
 msgid "Lower individual hands or clear entire queue"
 msgstr "Abbassa le mani individuali o pulisci l'intera coda"
 
-#: ../../videomeeting/toc.rst:220
+#: ../../videomeeting/toc.rst:232
 msgid "Actions sync across all moderators in real-time"
 msgstr "Le azioni vengono sincronizzate in tempo reale tra tutti i moderatori"
 
-#: ../../videomeeting/toc.rst:222
+#: ../../videomeeting/toc.rst:234
 msgid ""
 "This feature streamlines meeting participation by providing clear "
 "speaking order while giving moderators effective queue management tools."
@@ -12866,27 +12945,27 @@ msgstr ""
 "ordine di parola chiaro e offrendo ai moderatori strumenti di gestione "
 "efficaci della coda."
 
-#: ../../videomeeting/toc.rst:224
+#: ../../videomeeting/toc.rst:236
 msgid "To activate the Raise Hand feature during a video meeting:"
 msgstr "Attivazione della funzione Alza la mano durante una riunione virtuale"
 
-#: ../../videomeeting/toc.rst:226
+#: ../../videomeeting/toc.rst:238
 msgid "Click the hand icon on the bottom bar inside the meeting room."
 msgstr ""
 "Fai clic sull'icona della mano nella barra inferiore all'interno della "
 "sala riunioni."
 
-#: ../../videomeeting/toc.rst:227
+#: ../../videomeeting/toc.rst:239
 msgid "When you will start speaking, your hand will be automatically lowered."
 msgstr "Quando inizierai a parlare, la tua mano sarà automaticamente abbassata."
 
-#: ../../videomeeting/toc.rst:228
+#: ../../videomeeting/toc.rst:240
 msgid "If you want to lower your hand manually, simply click the hand icon again."
 msgstr ""
 "Se si desidera abbassare manualmente la mano, basta fare clic sull'icona "
 "della mano di nuovo."
 
-#: ../../videomeeting/toc.rst:229
+#: ../../videomeeting/toc.rst:241
 msgid ""
 "If you are a moderator, you can also lower the hands of other "
 "participants by clicking on the hand icon next to their name in the "
@@ -12896,11 +12975,11 @@ msgstr ""
 "partecipanti facendo clic sull'icona della mano accanto al loro nome "
 "nella sezione Partecipanti della chat box."
 
-#: ../../videomeeting/toc.rst:232
+#: ../../videomeeting/toc.rst:244
 msgid "Muting Participants During a Video Meeting"
 msgstr "Silenzia dei partecipanti durante una riunione video"
 
-#: ../../videomeeting/toc.rst:234
+#: ../../videomeeting/toc.rst:246
 msgid ""
 "As the moderator of a meeting room, you can mute an attendee's microphone"
 " individually. To do so, simply hover your cursor over the video feed of "
@@ -12912,13 +12991,13 @@ msgstr ""
 " del cursore sul feed video del partecipante e fare clic sull'icona del "
 "microfono situata nell'angolo del feed video del partecipante."
 
-#: ../../videomeeting/toc.rst:236 ../../videomeeting/toc.rst:256
+#: ../../videomeeting/toc.rst:248 ../../videomeeting/toc.rst:268
 msgid "Click the arrow button on the left side to open the chat box."
 msgstr ""
 "Clicca sul pulsante con la freccia sul lato sinistro per aprire la "
 "finestra di chat."
 
-#: ../../videomeeting/toc.rst:237 ../../videomeeting/toc.rst:257
+#: ../../videomeeting/toc.rst:249 ../../videomeeting/toc.rst:269
 msgid ""
 "Click the downward arrow next to the Participants section located at the "
 "top of the chat box."
@@ -12926,37 +13005,37 @@ msgstr ""
 "Clicca sulla freccia discendente accanto alla sezione Partecipanti "
 "posizionata in alto nella chat box."
 
-#: ../../videomeeting/toc.rst:238
+#: ../../videomeeting/toc.rst:250
 msgid "Click the microphone icon next to the participant’s name."
 msgstr "Cliccare sull'icona del microfono accanto al nome del partecipante."
 
-#: ../../videomeeting/toc.rst:239
+#: ../../videomeeting/toc.rst:251
 msgid "Click MUTE FOR ALL to confirm."
 msgstr "Fai clic su DISATTIVA TUTTO per confermare."
 
-#: ../../videomeeting/toc.rst:244
+#: ../../videomeeting/toc.rst:256
 msgid "To delete a meeting room:"
 msgstr "Per eliminare una sala riunioni:"
 
-#: ../../videomeeting/toc.rst:248
+#: ../../videomeeting/toc.rst:260
 msgid "Click the trash icon beside the name of the room you want to delete."
 msgstr ""
 "Fai clic sull'icona del cestino accanto al nome della stanza che desideri"
 " eliminare."
 
-#: ../../videomeeting/toc.rst:249
+#: ../../videomeeting/toc.rst:261
 msgid "Click DELETE to confirm."
 msgstr "Fai clic su ELIMINA per confermare."
 
-#: ../../videomeeting/toc.rst:252
+#: ../../videomeeting/toc.rst:264
 msgid "Adding Moderators to a Room"
 msgstr "AggiungereModeratori a una Stanza"
 
-#: ../../videomeeting/toc.rst:254
+#: ../../videomeeting/toc.rst:266
 msgid "To add a moderator to a meeting room:"
 msgstr "Per aggiungere un moderatore a una sala riunione:"
 
-#: ../../videomeeting/toc.rst:258
+#: ../../videomeeting/toc.rst:270
 msgid "Click the crown icon next to the participant’s name."
 msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
@@ -15298,3 +15377,131 @@ msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 
 #~ msgid "Select **Reset link**."
 #~ msgstr "Seleziona **Auth**."
+
+#~ msgid ""
+#~ "# When composing an email, select "
+#~ "\"Use certificate to sign (S/MIME)\". #"
+#~ " Carbonio uses the user’s private key"
+#~ " to generate a digital signature. #"
+#~ " The signature is attached to the "
+#~ "email as a cryptographic hash. # "
+#~ "The recipient can verify the signature"
+#~ " using the sender’s public key."
+#~ msgstr ""
+#~ "# Quando si compone un'e-mail, "
+#~ "selezionare \"Usa certificato per firmare "
+#~ "(S/MIME)\". # Carbonio utilizza la "
+#~ "chiave privata dell'utente per generare "
+#~ "una firma digitale. # La firma "
+#~ "viene allegata all'e-mail come hash "
+#~ "crittografico. # Il destinatario può "
+#~ "verificare la firma utilizzando la "
+#~ "chiave pubblica del mittente."
+
+#~ msgid ""
+#~ "# When you receive a signed email,"
+#~ " the signature is displayed in the"
+#~ " email header. # Click on the "
+#~ "signature to view the certificate "
+#~ "details. # The certificate details "
+#~ "include the certificate issuer, the "
+#~ "certificate validity period, and the "
+#~ "certificate fingerprint. # The recipient "
+#~ "can verify the signature using the "
+#~ "sender’s public key."
+#~ msgstr ""
+#~ "# Quando si riceve un'e-mail firmata,"
+#~ " la firma è visualizzata nell'intestazione"
+#~ " dell'e-mail. # Fare clic sulla firma"
+#~ " per visualizzare i dettagli del "
+#~ "certificato. # I dettagli del "
+#~ "certificato includono l'ente emittente del "
+#~ "certificato, il periodo di validità del"
+#~ " certificato e l'impronta del certificato."
+#~ " # Il destinatario può verificare la"
+#~ " firma utilizzando la chiave pubblica "
+#~ "del mittente."
+
+#~ msgid ""
+#~ "If the signature is invalid or "
+#~ "missing, the email might be tampered "
+#~ "with or sent from an untrusted "
+#~ "source. The recipient should be cautious"
+#~ " when interacting with such emails."
+#~ msgstr ""
+#~ "Se la firma è invalida o mancante,"
+#~ " l'email potrebbe essere stata manomessa"
+#~ " o inviata da una fonte non "
+#~ "attendibile. Il destinatario dovrebbe essere"
+#~ " cauto nell'interagire con tali email."
+
+#~ msgid ""
+#~ "# Public Key: Used to encrypt the"
+#~ " email. Stored in the recipient’s "
+#~ "S/MIME certificate. # Private Key: Used"
+#~ " to decrypt the email. Stored "
+#~ "securely by the recipient. # Certificate"
+#~ " Authority (CA): Issues S/MIME certificates"
+#~ " to users."
+#~ msgstr ""
+#~ "# Chiave pubblica: utilizzata per "
+#~ "crittografare l'e-mail. Memorizzata nel "
+#~ "certificato S/MIME del destinatario. # "
+#~ "Chiave privata: utilizzata per decrittografare"
+#~ " l'e-mail. Memorizzata in modo sicuro "
+#~ "dal destinatario. # Autorità di "
+#~ "certificazione (CA): rilascia certificati "
+#~ "S/MIME agli utenti."
+
+#~ msgid ""
+#~ "# If your private key is "
+#~ "installed, Carbonio will automatically decrypt"
+#~ " the message. # If not, you’ll "
+#~ "see an \"Unable to decrypt\" error. "
+#~ "# You can upload your private key"
+#~ " to decrypt the message."
+#~ msgstr ""
+#~ "# Se la tua chiave privata è "
+#~ "installata, Carbonio decifrerà automaticamente "
+#~ "il messaggio. # In caso contrario, "
+#~ "verrà visualizzato un errore \"Impossibile "
+#~ "decifrare\". # Puoi caricare la tua "
+#~ "chiave privata per decifrare il "
+#~ "messaggio."
+
+#~ msgid "Changing Your Time Zone"
+#~ msgstr "Cambiare il Fuso Orario"
+
+#~ msgid ""
+#~ "As a digital workspace, |product| relies"
+#~ " on precise time zone settings to "
+#~ "ensure optimal performance for calendars "
+#~ "and other features like emails, "
+#~ "guaranteeing accurate timestamps. This becomes"
+#~ " particularly crucial when collaborating "
+#~ "with colleagues across different countries "
+#~ "and time zones. To change your "
+#~ "time zone, follow these steps:"
+#~ msgstr ""
+#~ "|product| si affida alle impostazioni "
+#~ "precise del fuso orario per garantire"
+#~ " prestazioni ottimali per i calendari "
+#~ "e altre funzionalità come le email, "
+#~ "garantendo un tracciamento dei tempi "
+#~ "accurato. Ciò diventa particolarmente "
+#~ "importante quando si collabora con "
+#~ "colleghi in diversi paesi e fusi "
+#~ "orari. Per cambiare il tuo fuso "
+#~ "orario, segui questi passaggi:"
+
+#~ msgid ""
+#~ "Under the **Time Zone and Language** "
+#~ "section select the dropdown menu for "
+#~ "**Time Zone** and choose your time "
+#~ "zone."
+#~ msgstr ""
+#~ "Nella sezione **Fuso orario e lingua**"
+#~ " selezionare il menu a discesa per"
+#~ " **Fuso orario** e scegliere il "
+#~ "proprio fuso orario."
+

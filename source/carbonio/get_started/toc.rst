@@ -161,7 +161,8 @@ Changing Your Password
 
 Resetting a password becomes necessary when you want to update your existing password due to security reasons or any other relevant factors. To change your password, you must be logged into your account. You can change your password in two ways: through **Settings** or directly via the **User Account** menu.
 
-Option 1: Changing Password via Settings
+**Option 1: Changing Password via Settings**
+
 1.	Log into your account.
 2.	Click on the **settings** (gear icon) located in the left sidebar.
 3.	Select **Auth**.
@@ -173,7 +174,8 @@ Option 1: Changing Password via Settings
         :align: center
         :width: 100%
 
-Option 2: Changing Password via User Account Menu
+**Option 2: Changing Password via User Account Menu**
+
 1.	Click the **User icon** in the top‑right corner.
 2.	Select the **Change password** option.
 3.  You will be taken directly to the **Auth section in Settings**, which is dedicated to password changes.

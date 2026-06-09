@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-09 14:03+0200\n"
 "PO-Revision-Date: 2026-06-10 12:52+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -10171,7 +10171,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:164
 msgid "**Option 1: Changing Password via Settings**"
-msgstr ""
+msgstr "**Opzione 1: Modifica password tramite Impostazioni**"
 
 #: ../../get_started/toc.rst:166
 msgid "Log into your account."
@@ -10201,7 +10201,7 @@ msgstr "Fai clic sul tasto **CAMBIA PASSWORD**."
 
 #: ../../get_started/toc.rst:177
 msgid "**Option 2: Changing Password via User Account Menu**"
-msgstr ""
+msgstr "**Opzione 2: Modifica password tramite menu Account utente**"
 
 #: ../../get_started/toc.rst:179
 msgid "Click the **User icon** in the top‑right corner."
@@ -10216,6 +10216,8 @@ msgid ""
 "You will be taken directly to the **Auth section in Settings**, which is "
 "dedicated to password changes."
 msgstr ""
+"Verrai portato direttamente alla **sezione Auth in Settings**, dedicata alla "
+"modifica della password."
 
 #: ../../get_started/toc.rst:182
 msgid "Enter your current password and then your new password."
@@ -10230,6 +10232,8 @@ msgid ""
 "You will receive a confirmation message indicating that your password has"
 " been successfully changed."
 msgstr ""
+"Riceverai un messaggio di conferma che indica che la password è stata "
+"modificata con successo."
 
 #: ../../get_started/toc.rst:192
 msgid "Introduction of |product| Web Client"

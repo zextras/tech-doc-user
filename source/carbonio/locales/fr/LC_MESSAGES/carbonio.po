@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-06-09 14:03+0200\n"
 "PO-Revision-Date: 2026-06-10 12:52+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
@@ -10087,7 +10087,7 @@ msgstr ""
 
 #: ../../get_started/toc.rst:164
 msgid "**Option 1: Changing Password via Settings**"
-msgstr ""
+msgstr "**Option 1 : Modification du mot de passe via les paramètres**"
 
 #: ../../get_started/toc.rst:166
 msgid "Log into your account."
@@ -10120,6 +10120,7 @@ msgstr "Cliquez sur le bouton **CHANGE PASSWORD**."
 #: ../../get_started/toc.rst:177
 msgid "**Option 2: Changing Password via User Account Menu**"
 msgstr ""
+"**Option 2 : Modification du mot de passe via le menu du compte utilisateur**"
 
 #: ../../get_started/toc.rst:179
 msgid "Click the **User icon** in the top‑right corner."
@@ -10134,6 +10135,8 @@ msgid ""
 "You will be taken directly to the **Auth section in Settings**, which is "
 "dedicated to password changes."
 msgstr ""
+"Vous serez dirigé directement vers la **section Auth dans Settings**, dédiée "
+"aux changements de mot de passe."
 
 #: ../../get_started/toc.rst:182
 msgid "Enter your current password and then your new password."
@@ -10149,6 +10152,8 @@ msgid ""
 "You will receive a confirmation message indicating that your password has"
 " been successfully changed."
 msgstr ""
+"Vous recevrez un message de confirmation indiquant que votre mot de passe a "
+"été modifié avec succès."
 
 #: ../../get_started/toc.rst:192
 msgid "Introduction of |product| Web Client"
@@ -10553,15 +10558,15 @@ msgstr "Pour démarrer une conversation 1 à 1 :"
 
 #: ../../mobile_apps/chat_app.rst:16 ../../mobile_apps/chat_app.rst:104
 msgid "Tap **New chat** (plus icon)."
-msgstr ""
+msgstr "Appuyez sur **New chat** (icône +)."
 
 #: ../../mobile_apps/chat_app.rst:17
 msgid "Select **Single conversation / Private chat**."
-msgstr ""
+msgstr "Sélectionnez **Single conversation / Private chat**."
 
 #: ../../mobile_apps/chat_app.rst:18
 msgid "Search for a colleague by name and select them."
-msgstr ""
+msgstr "Recherchez un collègue par nom et sélectionnez‑le."
 
 #: ../../mobile_apps/chat_app.rst:20
 msgid ""
@@ -10569,18 +10574,21 @@ msgid ""
 "message in the text box and tap **Send**. You can also add emojis and "
 "attachments."
 msgstr ""
+"La conversation apparaît dans votre liste de chats. Dans un chat, saisissez "
+"votre message dans la zone de texte et appuyez sur **Send**. Vous pouvez "
+"également ajouter des emojis et des pièces jointes."
 
 #: ../../mobile_apps/chat_app.rst:24
 msgid "Sending Files in Chats"
-msgstr ""
+msgstr "Envoi de fichiers dans les chats"
 
 #: ../../mobile_apps/chat_app.rst:27
 msgid "Send a file from your device"
-msgstr ""
+msgstr "Envoyer un fichier depuis votre appareil"
 
 #: ../../mobile_apps/chat_app.rst:29 ../../mobile_apps/chat_app.rst:37
 msgid "Open the chat."
-msgstr ""
+msgstr "Ouvrez le chat."
 
 #: ../../mobile_apps/chat_app.rst:30 ../../mobile_apps/chat_app.rst:38
 #: ../../mobile_apps/mail_app.rst:149 ../../mobile_apps/mail_app.rst:156
@@ -10589,58 +10597,60 @@ msgstr "Appuyez sur **Joindre** (icône trombone)."
 
 #: ../../mobile_apps/chat_app.rst:31
 msgid "Select **Document** (or a similar option)."
-msgstr ""
+msgstr "Sélectionnez **Document** (ou une option similaire)."
 
 #: ../../mobile_apps/chat_app.rst:32 ../../mobile_apps/chat_app.rst:40
 msgid "Choose the file and tap **Send**."
-msgstr ""
+msgstr "Choisissez le fichier et appuyez sur **Send**."
 
 #: ../../mobile_apps/chat_app.rst:35
 msgid "Send a file from Carbonio Files"
-msgstr ""
+msgstr "Envoyer un fichier depuis Carbonio Files"
 
 #: ../../mobile_apps/chat_app.rst:39
 msgid "Select **Drive / Files** (wording may vary)."
-msgstr ""
+msgstr "Sélectionnez **Drive / Files** (la formulation peut varier)."
 
 #: ../../mobile_apps/chat_app.rst:43
 msgid "Edit a Message"
-msgstr ""
+msgstr "Modifier un message"
 
 #: ../../mobile_apps/chat_app.rst:45 ../../mobile_apps/chat_app.rst:56
 #: ../../mobile_apps/chat_app.rst:63 ../../mobile_apps/chat_app.rst:70
 msgid "Tap and hold the message."
-msgstr ""
+msgstr "Appuyez longuement sur le message."
 
 #: ../../mobile_apps/chat_app.rst:46
 msgid "Select **Edit**."
-msgstr ""
+msgstr "Sélectionnez **Edit**."
 
 #: ../../mobile_apps/chat_app.rst:47
 msgid "Update the message and send."
-msgstr ""
+msgstr "Mettez à jour le message et envoyez‑le."
 
 #: ../../mobile_apps/chat_app.rst:51
 msgid ""
 "Editing may be available only for a limited time (for example, within 5 "
 "minutes)."
 msgstr ""
+"La modification n’est disponible que pendant une période limitée (par ex., "
+"5 minutes)."
 
 #: ../../mobile_apps/chat_app.rst:54
 msgid "Reply to a Message"
-msgstr ""
+msgstr "Répondre à un message"
 
 #: ../../mobile_apps/chat_app.rst:57
 msgid "Select **Reply**."
-msgstr ""
+msgstr "Sélectionnez **Reply**."
 
 #: ../../mobile_apps/chat_app.rst:58
 msgid "Write your reply and send."
-msgstr ""
+msgstr "Rédigez votre réponse et envoyez‑la."
 
 #: ../../mobile_apps/chat_app.rst:61
 msgid "Forward a Message"
-msgstr ""
+msgstr "Transférer un message"
 
 #: ../../mobile_apps/chat_app.rst:64
 msgid "Select **Forward**."

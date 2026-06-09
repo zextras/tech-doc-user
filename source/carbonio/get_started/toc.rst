@@ -185,7 +185,7 @@ Resetting a password becomes necessary when you want to update your existing pas
    
     .. image:: /img/change-password-user.png
         :align: center
-        :width: 80%
+        :width: 60%
 
 
 Introduction of |product| Web Client

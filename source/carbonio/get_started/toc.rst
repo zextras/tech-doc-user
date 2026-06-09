@@ -159,7 +159,9 @@ The error will prompt you to **contact your system administrator**. In this scen
 Changing Your Password
 ======================
 
-Resetting a password becomes necessary when you want to update your existing password due to security reasons or any other relevant factors. To change your password, you must be logged into your account. Here are the steps to change your password:
+Resetting a password becomes necessary when you want to update your existing password due to security reasons or any other relevant factors. To change your password, you must be logged into your account. You can change your password in two ways: through **Settings** or directly via the **User Account** menu.
+
+**Option 1: Changing Password via Settings**
 
 1.	Log into your account.
 2.	Click on the **settings** (gear icon) located in the left sidebar.
@@ -171,6 +173,19 @@ Resetting a password becomes necessary when you want to update your existing pas
     .. image:: /img/change-password.png
         :align: center
         :width: 100%
+
+**Option 2: Changing Password via User Account Menu**
+
+1.	Click the **User icon** in the top‑right corner.
+2.	Select the **Change password** option.
+3.  You will be taken directly to the **Auth section in Settings**, which is dedicated to password changes.
+4.  Enter your current password and then your new password.
+5.  Click the **CHANGE PASSWORD** button to confirm.
+6.  You will receive a confirmation message indicating that your password has been successfully changed.
+   
+    .. image:: /img/change-password-user.png
+        :align: center
+        :width: 60%
 
 
 Introduction of |product| Web Client

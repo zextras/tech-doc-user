@@ -183,9 +183,9 @@ Resetting a password becomes necessary when you want to update your existing pas
 5.  Click the **CHANGE PASSWORD** button to confirm.
 6.  You will receive a confirmation message indicating that your password has been successfully changed.
    
-    .. image:: /img/change-password_user.png
+    .. image:: /img/change-password-user.png
         :align: center
-        :width: 100%
+        :width: 80%
 
 
 Introduction of |product| Web Client

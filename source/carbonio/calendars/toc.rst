@@ -310,37 +310,6 @@ How to Share Free/Busy Status
 2. Share it with external users.
 3. They can view availability without accessing event details.
 
-Upcoming Improvements: Dedicated Sharing Modal
-===============================================
-
-To improve clarity and avoid stacked modals:
-
-- The sharing process will be moved into a **single dedicated modal**.
-- A new dedicated entry in the contextual menu will open the sharing modal.
-- The **Edit Calendar** modal will remain separate and no longer include sharing options.
-- This ensures a faster, simpler, and more intuitive workflow.
-
-
-Security & Privacy
-
-#. External users cannot edit calendars - all shared calendars are read-only
-#. Free/Busy sharing provides view-only access to availability
-#. No sensitive data (event details) is shared with Free/Busy status
-#. Sharing settings can be modified at any time
-
-Use Cases
-
-Partner collaboration: Share availability with business partners
-Vendor coordination: Allow vendors to check your schedule
-External meeting scheduling: Enable external users to find available time slots
-
-Supported Clients
-
-Google Calendar
-Apple Calendar
-Microsoft Outlook
-Thunderbird
-Any calendar application supporting ICS/iCal format
 
 Creating Calendar Groups
 ========================

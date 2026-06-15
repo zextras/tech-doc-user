@@ -325,9 +325,9 @@ How to subscribe using a URL
 #. Access **Carbonio Webmail** → **Calendars**.
 #. Right-click **Calendar**, then select **Add external calendars**.
 
-  .. image:: /img/add-external-calendars.png
+  .. image:: /img/add-external-calendar.png
                 :align: center
-                :width: 100%
+                :width: 70%
 
 #. In **Type**, select **ICS** from the drop-down list.
 #. In **Calendar URL**, enter the **ICS URL** of the calendar you want to subscribe to.
@@ -342,7 +342,7 @@ How to subscribe using a URL
 
   .. image:: /img/config-ics-calendar.png
                 :align: center
-                :width: 100%
+                :width: 70%
 
 
 If the URL is valid, the calendar appears in your list as a subscribed calendar.
@@ -352,13 +352,13 @@ Subscribed calendar vs. ICS import
 
 A **subscribed calendar** differs from a traditional **ICS import**:
 
-Subscribed calendar
+**Subscribed calendar**
 
 * Connects to an external ICS source via URL.
 * Stays synchronized with the source over time.
 * Updates automatically without repeated imports.
 
-ICS import
+**ICS import**
 
 * Adds calendar data as a one-time import.
 * Does not stay connected to the external source.
@@ -400,7 +400,7 @@ These indicators help distinguish subscribed content from personal or imported c
 Read-only behavior
 ------------------
 
-Subscribed calendars are **read-only**. This means:
+Subscribed calendars are read-only. This means:
 
 * You cannot create new events in a subscribed calendar.
 * You cannot edit or delete events in the subscribed calendar.
@@ -426,7 +426,7 @@ Duplicate subscription restrictions
 Availability
 ------------
 
-This feature is available **without administrative configuration**. No setup is required to enable subscribed ICS calendars for users.
+This feature is available without administrative configuration. No setup is required to enable subscribed ICS calendars for users.
 
 Creating Calendar Groups
 ========================

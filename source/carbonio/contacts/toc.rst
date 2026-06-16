@@ -45,6 +45,9 @@ To add a new contact to your contact list:
 #.	Under the **Destination address book section**, choose the address book where you want the contact to be saved.
 #.	Click the **SAVE** button in the top right corner of the board.
 
+**NOTE**: Fields marked with an asterisk (*) are mandatory.
+
+
   .. image:: /img/add-contact.png
                   :align: center
                   :width: 100%
@@ -189,6 +192,8 @@ To use your contact group:
 1.	Begin typing its name in the **To** field while composing a new email. As you type, the contact group name will appear as a suggestion.
 2.	Click on the contact group, and it will automatically populate the **To** field with all the addresses included in the contact group.
 
+**NOTE**: Fields marked with an asterisk (*) are mandatory. 
+
   .. image:: /img/contact-group.png
                     :align: center
                     :width: 100%
@@ -200,14 +205,14 @@ You can share your address book with your colleagues or external users. This all
 How to Share a Contact Group and open Contacts:
 
 #. Go to your Contacts section in the app.
-#. Create or Select a Group.
-#. To create: click “New Group”, add contacts, and assign it to a folder.
+#. Create or Select a **Group**.
+#. To create: click **New Group**, add contacts, and assign it to a folder.
 #. To share an existing group: make sure it’s placed in a folder you can share.
 #. Place Group in a Folder:
 #. Move the group to a specific folder - or create a new one just for it.
 #. This allows you to share only what’s inside that folder.
 #. Share the Folder:
-#. Right-click the folder - “Share”.
+#. Right-click the folder - **Share**.
 #. Choose the users and set their permission level:
 #. Can View
 #. Can Edit

@@ -45,7 +45,8 @@ To add a new contact to your contact list:
 #.	Under the **Destination address book section**, choose the address book where you want the contact to be saved.
 #.	Click the **SAVE** button in the top right corner of the board.
 
-**NOTE**: Fields marked with an asterisk (*) are mandatory.
+.. note:: 
+   Fields marked with an asterisk (``*``) are mandatory.
 
 
   .. image:: /img/add-contact.png
@@ -192,7 +193,8 @@ To use your contact group:
 1.	Begin typing its name in the **To** field while composing a new email. As you type, the contact group name will appear as a suggestion.
 2.	Click on the contact group, and it will automatically populate the **To** field with all the addresses included in the contact group.
 
-**NOTE**: Fields marked with an asterisk (*) are mandatory. 
+.. note:: 
+   Fields marked with an asterisk (``*``) are mandatory.
 
   .. image:: /img/contact-group.png
                     :align: center

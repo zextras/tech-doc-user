@@ -48,8 +48,7 @@ To add a new contact to your contact list:
 .. note:: 
    Fields marked with an asterisk (``*``) are mandatory.
 
-
-  .. image:: /img/add-contact.png
+.. image:: /img/add-contact.png
                   :align: center
                   :width: 100%
 
@@ -196,7 +195,7 @@ To use your contact group:
 .. note:: 
    Fields marked with an asterisk (``*``) are mandatory.
 
-  .. image:: /img/contact-group.png
+.. image:: /img/contact-group.png
                     :align: center
                     :width: 100%
 

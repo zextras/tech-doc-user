@@ -402,10 +402,10 @@ This section allows you to generate different links for a file or folder, enabli
 
 Shared Files and Storage Quotas
 -------------------------------
-When a file is shared, storage consumption and edit activity are attributed to the owner of the file. 
-If the owner exceeds their storage quota, the file remains available to collaborators but opens in read-only mode. 
-In this state, collaborators cannot modify the document, save changes, or create new versions until the owner is back within quota. 
-Once the owner’s storage usage is reduced below the quota limit, the document automatically becomes editable again for all collaborators. 
+When a file is shared, storage consumption and edit activity are attributed to the owner of the file.
+If the owner exceeds their storage quota, the file remains available to collaborators but opens in read-only mode.
+In this state, collaborators cannot modify the document, save changes, or create new versions until the owner is back within quota.
+Once the owner's storage usage is reduced below the quota limit, the document automatically becomes editable again for all collaborators.
 This behavior is applied automatically and does not require any additional configuration or service restart.
 
 

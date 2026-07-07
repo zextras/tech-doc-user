@@ -154,6 +154,18 @@ When you are in a video meeting and want to record it:
    who clicked **START RECORDING**.
 
 
+Recording Saved Notifications
+=============================
+
+When a Chats meeting recording is successfully saved to Files, the recording initiator receives an automatic notification in the Files Notifications widget.
+The notification is displayed as “<recording name> saved in <folder name>” and includes the destination folder path, so the recording can be found quickly in Files.
+
+This notification is system-generated and uses the system avatar (settings icon) to distinguish it from user activity. The feature is enabled by default and requires no administrative configuration.
+
+.. image:: /img/record-save-notification.png
+            :align: center
+            :width: 100%
+
 Adding New Members to a Video Meeting
 =============================================
 

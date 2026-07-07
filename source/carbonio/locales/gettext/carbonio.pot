@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Carbonio User Guide 26.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-09 14:03+0200\n"
+"POT-Creation-Date: 2026-07-07 12:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -426,8 +426,8 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:211
 #: ../../chat/toc.rst:25
-#: ../../files/toc.rst:35
 #: ../../files/toc.rst:45
+#: ../../files/toc.rst:55
 #: ../../tasks/toc.rst:26
 msgid "Click **CREATE**."
 msgstr ""
@@ -1348,16 +1348,15 @@ msgstr ""
 #: ../../calendars/toc.rst:103
 #: ../../calendars/toc.rst:115
 #: ../../calendars/toc.rst:127
-#: ../../calendars/toc.rst:350
-#: ../../calendars/toc.rst:386
-#: ../../calendars/toc.rst:397
-#: ../../calendars/toc.rst:410
+#: ../../calendars/toc.rst:436
+#: ../../calendars/toc.rst:472
+#: ../../calendars/toc.rst:483
+#: ../../calendars/toc.rst:496
 msgid "Select the **Calendars** from your left sidebar."
 msgstr ""
 
 #: ../../appointments/toc.rst:26
 #: ../../appointments/toc.rst:155
-#: ../../contacts/toc.rst:43
 #: ../../tasks/toc.rst:21
 msgid "Click on the **NEW** button located on the top bar. A new board will appear."
 msgstr ""
@@ -1550,7 +1549,7 @@ msgid "Right-click on the appointment displayed on your timetable."
 msgstr ""
 
 #: ../../appointments/toc.rst:105
-#: ../../files/toc.rst:100
+#: ../../files/toc.rst:110
 #: ../../tasks/toc.rst:50
 msgid "Select **Delete** from the drop-down menu."
 msgstr ""
@@ -2113,7 +2112,7 @@ msgid "Insert email addresses you want to share the selected folder with, and as
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:218
-#: ../../contacts/toc.rst:143
+#: ../../contacts/toc.rst:146
 msgid "Tick the *Send notification about this share* checkbox and add a note for the message."
 msgstr ""
 
@@ -2121,9 +2120,9 @@ msgstr ""
 #: ../../basic_email_management/toc.rst:275
 #: ../../basic_email_management/toc.rst:291
 #: ../../basic_email_management/toc.rst:309
-#: ../../contacts/toc.rst:144
-#: ../../contacts/toc.rst:238
-#: ../../contacts/toc.rst:259
+#: ../../contacts/toc.rst:147
+#: ../../contacts/toc.rst:246
+#: ../../contacts/toc.rst:267
 msgid "Click the **SHARE FOLDER** button."
 msgstr ""
 
@@ -2188,7 +2187,7 @@ msgid "**Manager**: Can view and edit the content of the shared folder, create n
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:258
-#: ../../contacts/toc.rst:244
+#: ../../contacts/toc.rst:252
 msgid "**Admin**: Has full control, including viewing, editing, adding, removing, accepting, declining, and administering content."
 msgstr ""
 
@@ -2238,7 +2237,7 @@ msgid "If you share folders with external users, whoever has the link to your fo
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:289
-#: ../../contacts/toc.rst:256
+#: ../../contacts/toc.rst:264
 msgid "From the Share with field, select Public (view only, no password required)."
 msgstr ""
 
@@ -2290,7 +2289,7 @@ msgid "Under the Sharing of this folder section, click **REVOKE**."
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:320
-#: ../../files/toc.rst:486
+#: ../../files/toc.rst:506
 msgid "Click the **REVOKE** button to confirm."
 msgstr ""
 
@@ -2331,7 +2330,7 @@ msgid "Check the shared folder you want to add from the available shared items l
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:346
-#: ../../contacts/toc.rst:272
+#: ../../contacts/toc.rst:280
 msgid "Click the **ADD** button."
 msgstr ""
 
@@ -2362,7 +2361,7 @@ msgstr ""
 
 #: ../../basic_email_management/toc.rst:366
 #: ../../basic_email_management/toc.rst:393
-#: ../../files/toc.rst:69
+#: ../../files/toc.rst:79
 msgid "Select **Mails** from the left sidebar."
 msgstr ""
 
@@ -3109,7 +3108,7 @@ msgid "Set the color of the calendar."
 msgstr ""
 
 #: ../../calendars/toc.rst:66
-#: ../../contacts/toc.rst:93
+#: ../../contacts/toc.rst:96
 msgid "Click the **CREATE** button."
 msgstr ""
 
@@ -3179,7 +3178,7 @@ msgid "Select **Delete calendar** from the drop-down menu (this option is unavai
 msgstr ""
 
 #: ../../calendars/toc.rst:106
-#: ../../contacts/toc.rst:166
+#: ../../contacts/toc.rst:169
 msgid "Click the **DELETE** button to confirm."
 msgstr ""
 
@@ -3574,264 +3573,420 @@ msgstr ""
 msgid "They can view availability without accessing event details."
 msgstr ""
 
-#: ../../calendars/toc.rst:314
-msgid "Upcoming Improvements: Dedicated Sharing Modal"
-msgstr ""
-
 #: ../../calendars/toc.rst:316
-msgid "To improve clarity and avoid stacked modals:"
+msgid "Subscribe to an external calendar using an ICS URL"
 msgstr ""
 
 #: ../../calendars/toc.rst:318
-msgid "The sharing process will be moved into a **single dedicated modal**."
-msgstr ""
-
-#: ../../calendars/toc.rst:319
-msgid "A new dedicated entry in the contextual menu will open the sharing modal."
+msgid "Carbonio Webmail allows you to subscribe to external calendars by using an ICS URL. Once subscribed, the calendar is synchronized automatically, ensuring that the latest updates from the source calendar are reflected in Carbonio Webmail."
 msgstr ""
 
 #: ../../calendars/toc.rst:320
-msgid "The **Edit Calendar** modal will remain separate and no longer include sharing options."
+msgid "Subscribed calendars are read-only and are suitable for users who need ongoing access to an external calendar without performing repeated imports."
 msgstr ""
 
-#: ../../calendars/toc.rst:321
-msgid "This ensures a faster, simpler, and more intuitive workflow."
+#: ../../calendars/toc.rst:323
+msgid "How to subscribe using a URL"
 msgstr ""
 
-#: ../../calendars/toc.rst:324
-msgid "Security & Privacy"
+#: ../../calendars/toc.rst:325
+msgid "Access **Carbonio Webmail** → **Calendars**."
 msgstr ""
 
 #: ../../calendars/toc.rst:326
-msgid "External users cannot edit calendars - all shared calendars are read-only"
+msgid "Right-click **Calendar**, then select **Add external calendars**."
 msgstr ""
 
-#: ../../calendars/toc.rst:327
-msgid "Free/Busy sharing provides view-only access to availability"
-msgstr ""
-
-#: ../../calendars/toc.rst:328
-msgid "No sensitive data (event details) is shared with Free/Busy status"
-msgstr ""
-
-#: ../../calendars/toc.rst:329
-msgid "Sharing settings can be modified at any time"
-msgstr ""
-
-#: ../../calendars/toc.rst:331
-msgid "Use Cases"
+#: ../../calendars/toc.rst:332
+msgid "In **Type**, select **ICS** from the drop-down list."
 msgstr ""
 
 #: ../../calendars/toc.rst:333
-msgid "Partner collaboration: Share availability with business partners Vendor coordination: Allow vendors to check your schedule External meeting scheduling: Enable external users to find available time slots"
+msgid "In **Calendar URL**, enter the **ICS URL** of the calendar you want to subscribe to."
 msgstr ""
 
 #: ../../calendars/toc.rst:337
-msgid "Supported Clients"
+msgid "Enter a valid URL that links directly to an ``.ics`` calendar file."
 msgstr ""
 
 #: ../../calendars/toc.rst:339
-msgid "Google Calendar Apple Calendar Microsoft Outlook Thunderbird Any calendar application supporting ICS/iCal format"
+msgid "Enter the calendar name."
 msgstr ""
 
-#: ../../calendars/toc.rst:346
-msgid "Creating Calendar Groups"
+#: ../../calendars/toc.rst:340
+msgid "Choose a color in **Select Color**."
+msgstr ""
+
+#: ../../calendars/toc.rst:341
+msgid "Click **Add**."
 msgstr ""
 
 #: ../../calendars/toc.rst:348
-msgid "You also have the option to create calendar groups, making it easier to search for certain shared calendars. To do this, simply:"
+msgid "If the URL is valid, the calendar appears in your list as a subscribed calendar."
 msgstr ""
 
 #: ../../calendars/toc.rst:351
-msgid "Click on **Create New Group** button."
-msgstr ""
-
-#: ../../calendars/toc.rst:352
-msgid "Enter the name of the group in the proper field of the new modal that appears."
+msgid "Subscribed calendar vs. ICS import"
 msgstr ""
 
 #: ../../calendars/toc.rst:353
-msgid "Select the calendars you wish to add to the group from the list, by simply searching for them."
-msgstr ""
-
-#: ../../calendars/toc.rst:354
-msgid "Click the **+** button, to add them all."
+msgid "A **subscribed calendar** differs from a traditional **ICS import**:"
 msgstr ""
 
 #: ../../calendars/toc.rst:355
-msgid "Click the **REMOVE** button, if you have to remove some of them."
+msgid "**Subscribed calendar**"
 msgstr ""
 
-#: ../../calendars/toc.rst:356
-msgid "Click the **CREATE GROUP** button."
+#: ../../calendars/toc.rst:357
+msgid "Connects to an external ICS source via URL."
 msgstr ""
 
 #: ../../calendars/toc.rst:358
-msgid "Now you can switch on and off the group everytime you need to see all the calendars of the users in that group."
+msgid "Stays synchronized with the source over time."
+msgstr ""
+
+#: ../../calendars/toc.rst:359
+msgid "Updates automatically without repeated imports."
 msgstr ""
 
 #: ../../calendars/toc.rst:361
-msgid "Editing Calendar Groups"
+msgid "**ICS import**"
 msgstr ""
 
 #: ../../calendars/toc.rst:363
-msgid "To edit a calendar group, follow these steps:"
+msgid "Adds calendar data as a one-time import."
+msgstr ""
+
+#: ../../calendars/toc.rst:364
+msgid "Does not stay connected to the external source."
 msgstr ""
 
 #: ../../calendars/toc.rst:365
-msgid "Right-click on the group you want to edit."
-msgstr ""
-
-#: ../../calendars/toc.rst:366
-msgid "Select **Edit Group** option."
+msgid "Changes to the source calendar do not update automatically."
 msgstr ""
 
 #: ../../calendars/toc.rst:367
-msgid "Make the necessary changes to the group name or the calendars included in the group."
+msgid "Use a subscription for ongoing updates. Use import for a static copy."
 msgstr ""
 
-#: ../../calendars/toc.rst:368
-msgid "Click the **SAVE CHANGES** button."
+#: ../../calendars/toc.rst:370
+msgid "Synchronization behavior"
 msgstr ""
 
-#: ../../calendars/toc.rst:371
-msgid "Deleting Calendar Groups"
+#: ../../calendars/toc.rst:372
+msgid "Subscribed calendars synchronize automatically every **12 hours**."
 msgstr ""
 
 #: ../../calendars/toc.rst:373
-msgid "To delete a calendar group, simply:"
-msgstr ""
-
-#: ../../calendars/toc.rst:375
-msgid "Right-click on the group you want to delete."
+msgid "Changes made to the external ICS calendar are periodically fetched and shown in your subscribed calendar."
 msgstr ""
 
 #: ../../calendars/toc.rst:376
-msgid "Select **Delete permanently** option."
-msgstr ""
-
-#: ../../calendars/toc.rst:377
-msgid "Confirm that you want to delete the group, by clicking on the red button **DELETE PERMANENTLY**"
+msgid "Manual synchronization"
 msgstr ""
 
 #: ../../calendars/toc.rst:378
-msgid "The group will be permanently deleted."
+msgid "You can also trigger synchronization manually:"
 msgstr ""
 
-#: ../../calendars/toc.rst:382
-msgid "Remove a Colleague's Shared Calendars from Your List"
+#: ../../calendars/toc.rst:380
+msgid "Locate the subscribed calendar in your list."
 msgstr ""
 
-#: ../../calendars/toc.rst:384
-msgid "To remove a colleague’s shared calendar from your calendars list:"
+#: ../../calendars/toc.rst:381
+msgid "Right-click the calendar and select **Sync**."
 msgstr ""
 
-#: ../../calendars/toc.rst:387
-msgid "From the Navigation Panel, right-click on the calendar you wish to remove."
+#: ../../calendars/toc.rst:383
+msgid "This forces an immediate update from the external ICS source."
+msgstr ""
+
+#: ../../calendars/toc.rst:386
+msgid "Delete a calendar"
 msgstr ""
 
 #: ../../calendars/toc.rst:388
-msgid "From the drop-down menu select **Remove shared calendar**."
+msgid "If you remove a calendar and want to add another calendar with the same name, you must first permanently delete the original calendar."
+msgstr ""
+
+#: ../../calendars/toc.rst:391
+msgid "Visual indicators"
 msgstr ""
 
 #: ../../calendars/toc.rst:393
-msgid "Import an ICS File as New Calendar"
+msgid "Subscribed calendars and their events are visually distinct from other calendar items."
 msgstr ""
 
 #: ../../calendars/toc.rst:395
-msgid "You can import a calendar in .ics format directly to your |product| web client calendar. To do so:"
+msgid "**Subscribed calendars** have a dedicated indicator in the calendar list."
+msgstr ""
+
+#: ../../calendars/toc.rst:396
+msgid "**Events from subscribed calendars** display a visual marker, indicating that they come from an external subscription."
 msgstr ""
 
 #: ../../calendars/toc.rst:398
-msgid "In the Navigation Panel, right-click on \"Calendar\" and select the voice \"New Calendar\": this step is not mandatory, but recommended to avoid mixing existing calendars with the imported one."
-msgstr ""
-
-#: ../../calendars/toc.rst:399
-msgid "Choose the name and settings of the new calendar that will contain the imported data and save it."
-msgstr ""
-
-#: ../../calendars/toc.rst:400
-msgid "Right-click on the new calendar and select the \"Import ICS file\" option."
+msgid "These indicators help distinguish subscribed content from personal or imported calendars."
 msgstr ""
 
 #: ../../calendars/toc.rst:401
-msgid "Select the .ics file containing the calendar, stored on your computer."
-msgstr ""
-
-#: ../../calendars/toc.rst:402
-msgid "Click **Open** and **Import**."
+msgid "Read-only behavior"
 msgstr ""
 
 #: ../../calendars/toc.rst:403
-msgid "Refresh the page to get the updated calendar view."
+msgid "Subscribed calendars are read-only. This means:"
+msgstr ""
+
+#: ../../calendars/toc.rst:405
+msgid "You cannot create new events in a subscribed calendar."
 msgstr ""
 
 #: ../../calendars/toc.rst:406
-msgid "Export an ICS File as New Calendar"
+msgid "You cannot edit or delete events in the subscribed calendar."
 msgstr ""
 
-#: ../../calendars/toc.rst:408
-msgid "You can also export a calendar in .ics format directly from your |product| web client calendar. To do so:"
+#: ../../calendars/toc.rst:407
+msgid "Make changes only in the original external calendar source."
 msgstr ""
 
-#: ../../calendars/toc.rst:411
-msgid "In the Navigation Panel, right-click on \"Calendar\" you want to export."
+#: ../../calendars/toc.rst:410
+msgid "URL validation and duplicate subscriptions"
 msgstr ""
 
 #: ../../calendars/toc.rst:412
-msgid "Select the \"Export ICS file\" option."
+msgid "The system validates the URL when you subscribe to an external calendar."
 msgstr ""
 
-#: ../../calendars/toc.rst:413
-msgid "The download will start in a while, find you .ics file in your download folder."
+#: ../../calendars/toc.rst:415
+msgid "URL requirements"
 msgstr ""
 
-#: ../../calendars/toc.rst:416
-msgid "Configure a CalDAV Client"
+#: ../../calendars/toc.rst:417
+msgid "The URL must be a valid ICS feed URL."
 msgstr ""
 
 #: ../../calendars/toc.rst:418
-msgid "Adding a |product| calendar to your favourite CalDAV client is straightforward and requires only a few steps. The procedure is almost identical on any client; in the box at the end of this section we mention which are the differences."
+msgid "Invalid or unsupported URLs cannot be subscribed to."
+msgstr ""
+
+#: ../../calendars/toc.rst:421
+msgid "Duplicate subscription restrictions"
 msgstr ""
 
 #: ../../calendars/toc.rst:423
-msgid "In this scenario, the user *john.smith@example.com* wants to configure in Mozilla's Thunderbird a calendar called *Calendar* on the domain *mail.example.com*. In the remainder, replace these values with suitable ones."
+msgid "You cannot subscribe to the same external calendar URL more than once."
 msgstr ""
 
-#: ../../calendars/toc.rst:428
-msgid "Step 1.  New Calendar"
+#: ../../calendars/toc.rst:424
+msgid "If a calendar is already subscribed, the system prevents duplicate subscriptions."
 msgstr ""
 
-#: ../../calendars/toc.rst:430
-msgid "On your client, go to the Calendar and select **New Calendar...**. Choose **On the Network**"
+#: ../../calendars/toc.rst:427
+msgid "Availability"
+msgstr ""
+
+#: ../../calendars/toc.rst:429
+msgid "This feature is available without administrative configuration. No setup is required to enable subscribed ICS calendars for users."
+msgstr ""
+
+#: ../../calendars/toc.rst:432
+msgid "Creating Calendar Groups"
+msgstr ""
+
+#: ../../calendars/toc.rst:434
+msgid "You also have the option to create calendar groups, making it easier to search for certain shared calendars. To do this, simply:"
 msgstr ""
 
 #: ../../calendars/toc.rst:437
-msgid "Step 2."
+msgid "Click on **Create New Group** button."
+msgstr ""
+
+#: ../../calendars/toc.rst:438
+msgid "Enter the name of the group in the proper field of the new modal that appears."
 msgstr ""
 
 #: ../../calendars/toc.rst:439
-msgid "Provide the **Username** and the **Location**, which has format ``https://<domain>/dav/username``, so *https://mail.example.com/dav/john.smith@example.com*"
+msgid "Select the calendars you wish to add to the group from the list, by simply searching for them."
 msgstr ""
 
-#: ../../calendars/toc.rst:448
-msgid "Step 3."
+#: ../../calendars/toc.rst:440
+msgid "Click the **+** button, to add them all."
 msgstr ""
 
-#: ../../calendars/toc.rst:450
-msgid "You will be then presented a list, from which to choose *Calendar*."
+#: ../../calendars/toc.rst:441
+msgid "Click the **REMOVE** button, if you have to remove some of them."
+msgstr ""
+
+#: ../../calendars/toc.rst:442
+msgid "Click the **CREATE GROUP** button."
+msgstr ""
+
+#: ../../calendars/toc.rst:444
+msgid "Now you can switch on and off the group everytime you need to see all the calendars of the users in that group."
+msgstr ""
+
+#: ../../calendars/toc.rst:447
+msgid "Editing Calendar Groups"
+msgstr ""
+
+#: ../../calendars/toc.rst:449
+msgid "To edit a calendar group, follow these steps:"
+msgstr ""
+
+#: ../../calendars/toc.rst:451
+msgid "Right-click on the group you want to edit."
 msgstr ""
 
 #: ../../calendars/toc.rst:452
+msgid "Select **Edit Group** option."
+msgstr ""
+
+#: ../../calendars/toc.rst:453
+msgid "Make the necessary changes to the group name or the calendars included in the group."
+msgstr ""
+
+#: ../../calendars/toc.rst:454
+msgid "Click the **SAVE CHANGES** button."
+msgstr ""
+
+#: ../../calendars/toc.rst:457
+msgid "Deleting Calendar Groups"
+msgstr ""
+
+#: ../../calendars/toc.rst:459
+msgid "To delete a calendar group, simply:"
+msgstr ""
+
+#: ../../calendars/toc.rst:461
+msgid "Right-click on the group you want to delete."
+msgstr ""
+
+#: ../../calendars/toc.rst:462
+msgid "Select **Delete permanently** option."
+msgstr ""
+
+#: ../../calendars/toc.rst:463
+msgid "Confirm that you want to delete the group, by clicking on the red button **DELETE PERMANENTLY**"
+msgstr ""
+
+#: ../../calendars/toc.rst:464
+msgid "The group will be permanently deleted."
+msgstr ""
+
+#: ../../calendars/toc.rst:468
+msgid "Remove a Colleague's Shared Calendars from Your List"
+msgstr ""
+
+#: ../../calendars/toc.rst:470
+msgid "To remove a colleague’s shared calendar from your calendars list:"
+msgstr ""
+
+#: ../../calendars/toc.rst:473
+msgid "From the Navigation Panel, right-click on the calendar you wish to remove."
+msgstr ""
+
+#: ../../calendars/toc.rst:474
+msgid "From the drop-down menu select **Remove shared calendar**."
+msgstr ""
+
+#: ../../calendars/toc.rst:479
+msgid "Import an ICS File as New Calendar"
+msgstr ""
+
+#: ../../calendars/toc.rst:481
+msgid "You can import a calendar in .ics format directly to your |product| web client calendar. To do so:"
+msgstr ""
+
+#: ../../calendars/toc.rst:484
+msgid "In the Navigation Panel, right-click on \"Calendar\" and select the voice \"New Calendar\": this step is not mandatory, but recommended to avoid mixing existing calendars with the imported one."
+msgstr ""
+
+#: ../../calendars/toc.rst:485
+msgid "Choose the name and settings of the new calendar that will contain the imported data and save it."
+msgstr ""
+
+#: ../../calendars/toc.rst:486
+msgid "Right-click on the new calendar and select the \"Import ICS file\" option."
+msgstr ""
+
+#: ../../calendars/toc.rst:487
+msgid "Select the .ics file containing the calendar, stored on your computer."
+msgstr ""
+
+#: ../../calendars/toc.rst:488
+msgid "Click **Open** and **Import**."
+msgstr ""
+
+#: ../../calendars/toc.rst:489
+msgid "Refresh the page to get the updated calendar view."
+msgstr ""
+
+#: ../../calendars/toc.rst:492
+msgid "Export an ICS File as New Calendar"
+msgstr ""
+
+#: ../../calendars/toc.rst:494
+msgid "You can also export a calendar in .ics format directly from your |product| web client calendar. To do so:"
+msgstr ""
+
+#: ../../calendars/toc.rst:497
+msgid "In the Navigation Panel, right-click on \"Calendar\" you want to export."
+msgstr ""
+
+#: ../../calendars/toc.rst:498
+msgid "Select the \"Export ICS file\" option."
+msgstr ""
+
+#: ../../calendars/toc.rst:499
+msgid "The download will start in a while, find you .ics file in your download folder."
+msgstr ""
+
+#: ../../calendars/toc.rst:502
+msgid "Configure a CalDAV Client"
+msgstr ""
+
+#: ../../calendars/toc.rst:504
+msgid "Adding a |product| calendar to your favourite CalDAV client is straightforward and requires only a few steps. The procedure is almost identical on any client; in the box at the end of this section we mention which are the differences."
+msgstr ""
+
+#: ../../calendars/toc.rst:509
+msgid "In this scenario, the user *john.smith@example.com* wants to configure in Mozilla's Thunderbird a calendar called *Calendar* on the domain *mail.example.com*. In the remainder, replace these values with suitable ones."
+msgstr ""
+
+#: ../../calendars/toc.rst:514
+msgid "Step 1.  New Calendar"
+msgstr ""
+
+#: ../../calendars/toc.rst:516
+msgid "On your client, go to the Calendar and select **New Calendar...**. Choose **On the Network**"
+msgstr ""
+
+#: ../../calendars/toc.rst:523
+msgid "Step 2."
+msgstr ""
+
+#: ../../calendars/toc.rst:525
+msgid "Provide the **Username** and the **Location**, which has format ``https://<domain>/dav/username``, so *https://mail.example.com/dav/john.smith@example.com*"
+msgstr ""
+
+#: ../../calendars/toc.rst:534
+msgid "Step 3."
+msgstr ""
+
+#: ../../calendars/toc.rst:536
+msgid "You will be then presented a list, from which to choose *Calendar*."
+msgstr ""
+
+#: ../../calendars/toc.rst:538
 msgid "You are now done! the calendar will show up in the list of your client."
 msgstr ""
 
-#: ../../calendars/toc.rst:458
-#: ../../contacts/toc.rst:353
+#: ../../calendars/toc.rst:544
+#: ../../contacts/toc.rst:361
 msgid "Other clients"
 msgstr ""
 
-#: ../../calendars/toc.rst:460
+#: ../../calendars/toc.rst:546
 msgid "CalDAV is a standard protocol and therefore the data required to set up a client are a username, an URL, and the name of a calendar. The only difference is that some client requires that the calendar's name be part of the URL, so you might need to provide *https://mail.example.com/dav/john.smith@example.com/Calendar* as the URL."
 msgstr ""
 
@@ -4742,578 +4897,582 @@ msgstr ""
 msgid "Working with Contacts"
 msgstr ""
 
-#: ../../contacts/toc.rst:13
-msgid "Managing your contacts is essential for staying connected and organized. In this section, we will guide you through the features and functionalities of the Contacts module in our webmail platform. Whether you are keeping track of personal connections, professional networks, or client relationships, |product| makes it easy to store, organize, and access your contacts effortlessly."
+#: ../../contacts/toc.rst:9
+msgid "Managing your contacts is essential for staying connected and organized. This section explains the features and functionalities of the Contacts module in the webmail platform. Whether you are keeping track of personal connections, professional networks, or client relationships, |product| makes it easy to store, organize, and access your contacts effortlessly."
 msgstr ""
 
-#: ../../contacts/toc.rst:16
-msgid "Accessing Your Contact Book"
+#: ../../contacts/toc.rst:17
+msgid "Accessing Contact Book"
 msgstr ""
 
-#: ../../contacts/toc.rst:18
-msgid "In your contacts section, you will find two primary address books:"
-msgstr ""
-
-#: ../../contacts/toc.rst:20
-msgid "**Contacts**: This address book contains individuals you have added manually, representing your existing connections."
+#: ../../contacts/toc.rst:19
+msgid "In the contacts section, you will find two primary address books:"
 msgstr ""
 
 #: ../../contacts/toc.rst:21
+msgid "**Contacts**: This address book contains individuals you have added manually, representing your existing connections."
+msgstr ""
+
+#: ../../contacts/toc.rst:22
 msgid "**Emailed Contacts**: This address book contains individuals with whom you have correspondence via email."
 msgstr ""
 
-#: ../../contacts/toc.rst:23
+#: ../../contacts/toc.rst:24
 msgid "To access your existing **Contacts list**:"
 msgstr ""
 
-#: ../../contacts/toc.rst:25
-#: ../../contacts/toc.rst:32
-msgid "From the left sidebar click on the **Contacts** section."
-msgstr ""
-
 #: ../../contacts/toc.rst:26
-msgid "In the Navigation Panel, click on the **Contacts** address book."
+msgid "From the left sidebar click the **Contacts**."
 msgstr ""
 
-#: ../../contacts/toc.rst:28
+#: ../../contacts/toc.rst:27
+msgid "In the Navigation Panel, click the **Contacts** address book."
+msgstr ""
+
+#: ../../contacts/toc.rst:29
 msgid "Once selected, you will be presented with a list of all your contacts. Initially, this section might appear empty if you have not added any contacts yet. However, you can easily add contacts at any time in the future to populate this list."
 msgstr ""
 
-#: ../../contacts/toc.rst:30
+#: ../../contacts/toc.rst:31
 msgid "To access emailed contacts:"
 msgstr ""
 
 #: ../../contacts/toc.rst:33
-msgid "In the Navigation Panel, click on the **Emailed Contacts** address book."
+msgid "From the left sidebar click the **Contacts** section."
 msgstr ""
 
-#: ../../contacts/toc.rst:35
+#: ../../contacts/toc.rst:34
+msgid "In the Navigation Panel, click the **Emailed Contacts** address book."
+msgstr ""
+
+#: ../../contacts/toc.rst:36
 msgid "Once selected, you will be presented with a list of all addresses with whom you have corresponded via email. Initially, this section might appear empty if you have not had any correspondence yet."
 msgstr ""
 
-#: ../../contacts/toc.rst:38
+#: ../../contacts/toc.rst:39
 msgid "Adding a New Contact"
 msgstr ""
 
-#: ../../contacts/toc.rst:40
+#: ../../contacts/toc.rst:41
 msgid "To add a new contact to your contact list:"
 msgstr ""
 
-#: ../../contacts/toc.rst:42
-#: ../../contacts/toc.rst:57
-#: ../../contacts/toc.rst:69
-#: ../../contacts/toc.rst:79
-#: ../../contacts/toc.rst:89
-#: ../../contacts/toc.rst:104
-#: ../../contacts/toc.rst:116
-#: ../../contacts/toc.rst:127
-#: ../../contacts/toc.rst:138
-#: ../../contacts/toc.rst:152
-#: ../../contacts/toc.rst:163
-#: ../../contacts/toc.rst:176
-#: ../../contacts/toc.rst:233
-#: ../../contacts/toc.rst:254
-#: ../../contacts/toc.rst:268
-#: ../../contacts/toc.rst:281
-#: ../../contacts/toc.rst:294
+#: ../../contacts/toc.rst:43
+#: ../../contacts/toc.rst:60
+#: ../../contacts/toc.rst:72
+#: ../../contacts/toc.rst:82
+#: ../../contacts/toc.rst:92
+#: ../../contacts/toc.rst:107
+#: ../../contacts/toc.rst:119
+#: ../../contacts/toc.rst:130
+#: ../../contacts/toc.rst:141
+#: ../../contacts/toc.rst:155
+#: ../../contacts/toc.rst:166
+#: ../../contacts/toc.rst:179
+#: ../../contacts/toc.rst:241
+#: ../../contacts/toc.rst:262
+#: ../../contacts/toc.rst:276
+#: ../../contacts/toc.rst:289
+#: ../../contacts/toc.rst:302
 msgid "Select the **Contacts** from your left sidebar."
 msgstr ""
 
 #: ../../contacts/toc.rst:44
-#: ../../contacts/toc.rst:60
-msgid "Enter the contact’s information."
+msgid "Click the **NEW** button located on the top bar. A new board will appear."
 msgstr ""
 
 #: ../../contacts/toc.rst:45
-msgid "Under the **Destination address book section**, choose the address book where you want the contact to be saved."
+#: ../../contacts/toc.rst:63
+msgid "Enter the contact’s information."
 msgstr ""
 
 #: ../../contacts/toc.rst:46
+msgid "Under the **Destination address book section**, choose the address book where you want the contact to be saved."
+msgstr ""
+
+#: ../../contacts/toc.rst:47
 msgid "Click the **SAVE** button in the top right corner of the board."
 msgstr ""
 
-#: ../../contacts/toc.rst:53
+#: ../../contacts/toc.rst:50
+#: ../../contacts/toc.rst:196
+msgid "Fields marked with an asterisk (``*``) are mandatory."
+msgstr ""
+
+#: ../../contacts/toc.rst:56
 msgid "Editing a Contact"
 msgstr ""
 
-#: ../../contacts/toc.rst:55
+#: ../../contacts/toc.rst:58
 msgid "To edit an existing contact:"
 msgstr ""
 
-#: ../../contacts/toc.rst:58
-#: ../../contacts/toc.rst:70
-#: ../../contacts/toc.rst:80
+#: ../../contacts/toc.rst:61
+#: ../../contacts/toc.rst:73
+#: ../../contacts/toc.rst:83
 msgid "In the Navigation Panel, select the address book that contains the contact you wish to edit."
 msgstr ""
 
-#: ../../contacts/toc.rst:59
-msgid "Locate and click on the contact you wish to edit from the main panel."
+#: ../../contacts/toc.rst:62
+msgid "Locate and click the contact you wish to edit from the main panel."
 msgstr ""
 
-#: ../../contacts/toc.rst:61
+#: ../../contacts/toc.rst:64
 msgid "Click the **EDIT** button in the top right corner of the main panel."
 msgstr ""
 
-#: ../../contacts/toc.rst:62
+#: ../../contacts/toc.rst:65
 msgid "Edit the information and click the **SAVE** button."
 msgstr ""
 
-#: ../../contacts/toc.rst:65
+#: ../../contacts/toc.rst:68
 msgid "Assigning a Tag to a Contact"
 msgstr ""
 
-#: ../../contacts/toc.rst:67
+#: ../../contacts/toc.rst:70
 msgid "To assign a tag to an existing contact:"
 msgstr ""
 
-#: ../../contacts/toc.rst:71
-msgid "Locate and right-click on the contact you wish to edit from the main panel."
-msgstr ""
-
-#: ../../contacts/toc.rst:72
-msgid "Choose the tag you wish to assign to the contact from the drop-down menu."
+#: ../../contacts/toc.rst:74
+msgid "Locate and right-click the contact you want to edit from the main panel."
 msgstr ""
 
 #: ../../contacts/toc.rst:75
+msgid "Choose the tag you wish to assign to the contact from the drop-down menu."
+msgstr ""
+
+#: ../../contacts/toc.rst:78
 msgid "Deleting a Contact"
 msgstr ""
 
-#: ../../contacts/toc.rst:77
+#: ../../contacts/toc.rst:80
 msgid "To delete an existing contact:"
 msgstr ""
 
-#: ../../contacts/toc.rst:81
-msgid "Locate and right-click on the contact you wish to delete from the main panel."
-msgstr ""
-
-#: ../../contacts/toc.rst:82
-msgid "Click on the **Delete** button."
+#: ../../contacts/toc.rst:84
+msgid "Locate and right-click the contact you wish to delete from the main panel."
 msgstr ""
 
 #: ../../contacts/toc.rst:85
+msgid "Click the **Delete** button."
+msgstr ""
+
+#: ../../contacts/toc.rst:88
 msgid "Adding an Address Book"
 msgstr ""
 
-#: ../../contacts/toc.rst:87
+#: ../../contacts/toc.rst:90
 msgid "To add an address book:"
 msgstr ""
 
-#: ../../contacts/toc.rst:90
-msgid "In the Navigation Panel, right-click on the address book where you want to add the address book."
+#: ../../contacts/toc.rst:93
+msgid "In the Navigation Panel, right-click the address book where you want to add the address book."
 msgstr ""
 
-#: ../../contacts/toc.rst:91
+#: ../../contacts/toc.rst:94
 msgid "Select **New address Book**. A new board will appear."
 msgstr ""
 
-#: ../../contacts/toc.rst:92
+#: ../../contacts/toc.rst:95
 msgid "Add a name for the address book."
 msgstr ""
 
-#: ../../contacts/toc.rst:100
+#: ../../contacts/toc.rst:103
 msgid "Moving a Contact Between Address Books"
 msgstr ""
 
-#: ../../contacts/toc.rst:102
+#: ../../contacts/toc.rst:105
 msgid "To move a contact between address books:"
 msgstr ""
 
-#: ../../contacts/toc.rst:105
-msgid "In the Navigation Panel, click on the address book that contains the contact you wish to move."
-msgstr ""
-
-#: ../../contacts/toc.rst:106
-msgid "Right-click on the contact you wish to move."
-msgstr ""
-
-#: ../../contacts/toc.rst:107
-#: ../../contacts/toc.rst:118
-#: ../../files/toc.rst:214
-msgid "Select **Move** from the drop-down menu. A new window appears."
-msgstr ""
-
 #: ../../contacts/toc.rst:108
-msgid "Select the destination address book."
+msgid "In the Navigation Panel, click the address book that contains the contact you wish to move."
 msgstr ""
 
 #: ../../contacts/toc.rst:109
-#: ../../contacts/toc.rst:120
-#: ../../files/toc.rst:216
-msgid "Click the **MOVE** button."
+msgid "Right-click the contact you want to move."
+msgstr ""
+
+#: ../../contacts/toc.rst:110
+#: ../../contacts/toc.rst:121
+#: ../../files/toc.rst:224
+msgid "Select **Move** from the drop-down menu. A new window appears."
+msgstr ""
+
+#: ../../contacts/toc.rst:111
+msgid "Select the destination address book."
 msgstr ""
 
 #: ../../contacts/toc.rst:112
+#: ../../contacts/toc.rst:123
+#: ../../files/toc.rst:226
+msgid "Click the **MOVE** button."
+msgstr ""
+
+#: ../../contacts/toc.rst:115
 msgid "Moving an Address Book"
 msgstr ""
 
-#: ../../contacts/toc.rst:114
+#: ../../contacts/toc.rst:117
 msgid "To move an address book:"
 msgstr ""
 
-#: ../../contacts/toc.rst:117
-msgid "In the Navigation Panel, right-click on the address book you wish to move."
+#: ../../contacts/toc.rst:120
+msgid "In the Navigation Panel, right-click the address book you wish to move."
 msgstr ""
 
-#: ../../contacts/toc.rst:119
+#: ../../contacts/toc.rst:122
 msgid "Select the destination."
 msgstr ""
 
-#: ../../contacts/toc.rst:123
+#: ../../contacts/toc.rst:126
 msgid "Editing an Address Book"
 msgstr ""
 
-#: ../../contacts/toc.rst:125
+#: ../../contacts/toc.rst:128
 msgid "To edit an address book:"
 msgstr ""
 
-#: ../../contacts/toc.rst:128
-#: ../../contacts/toc.rst:139
-#: ../../contacts/toc.rst:153
-msgid "In the Navigation Panel, right-click on the address book you wish to edit."
+#: ../../contacts/toc.rst:131
+#: ../../contacts/toc.rst:142
+#: ../../contacts/toc.rst:156
+msgid "In the Navigation Panel, right-click the address book you wish to edit."
 msgstr ""
 
-#: ../../contacts/toc.rst:129
-#: ../../contacts/toc.rst:140
-#: ../../contacts/toc.rst:154
+#: ../../contacts/toc.rst:132
+#: ../../contacts/toc.rst:143
+#: ../../contacts/toc.rst:157
 msgid "Select **Edit address book** from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../contacts/toc.rst:130
+#: ../../contacts/toc.rst:133
 msgid "Make the desired changes."
 msgstr ""
 
-#: ../../contacts/toc.rst:131
-#: ../../contacts/toc.rst:156
+#: ../../contacts/toc.rst:134
+#: ../../contacts/toc.rst:159
 msgid "Click the **EDIT** button."
 msgstr ""
 
-#: ../../contacts/toc.rst:134
+#: ../../contacts/toc.rst:137
 msgid "Sharing an Address Book"
 msgstr ""
 
-#: ../../contacts/toc.rst:136
+#: ../../contacts/toc.rst:139
 msgid "To share an address book:"
 msgstr ""
 
-#: ../../contacts/toc.rst:141
-msgid "Click on **ADD SHARE** button."
+#: ../../contacts/toc.rst:144
+msgid "Click the **ADD SHARE** button."
 msgstr ""
 
-#: ../../contacts/toc.rst:142
+#: ../../contacts/toc.rst:145
 msgid "Insert email addresses you want to share the address book with, and assign them the role."
 msgstr ""
 
-#: ../../contacts/toc.rst:148
+#: ../../contacts/toc.rst:151
 msgid "Assigning a Color to an Address Book"
 msgstr ""
 
-#: ../../contacts/toc.rst:150
+#: ../../contacts/toc.rst:153
 msgid "To assign a color to an address book:"
 msgstr ""
 
-#: ../../contacts/toc.rst:155
+#: ../../contacts/toc.rst:158
 msgid "Select the desired color from the **Select Color field**."
 msgstr ""
 
-#: ../../contacts/toc.rst:159
+#: ../../contacts/toc.rst:162
 msgid "Deleting an Address Book"
 msgstr ""
 
-#: ../../contacts/toc.rst:161
+#: ../../contacts/toc.rst:164
 msgid "To delete an address book:"
 msgstr ""
 
-#: ../../contacts/toc.rst:164
-msgid "In the Navigation Panel, right-click on the address book you wish to delete."
+#: ../../contacts/toc.rst:167
+msgid "In the Navigation Panel, right-click the address book you wish to delete."
 msgstr ""
 
-#: ../../contacts/toc.rst:165
+#: ../../contacts/toc.rst:168
 msgid "Select **Delete address book** from the drop-down menu."
 msgstr ""
 
-#: ../../contacts/toc.rst:169
+#: ../../contacts/toc.rst:172
 msgid "Creating a Contact Group"
 msgstr ""
 
-#: ../../contacts/toc.rst:171
+#: ../../contacts/toc.rst:174
 msgid "Contact groups consist of a collection of email addresses sourced from your contacts. They serve as a practical solution, particularly when frequently emailing multiple recipients. By creating a group for such individuals, you streamline the process, allowing you to insert the entire group at once rather than adding each address individually when composing emails."
 msgstr ""
 
-#: ../../contacts/toc.rst:174
+#: ../../contacts/toc.rst:177
 msgid "To create a contact group:"
 msgstr ""
 
-#: ../../contacts/toc.rst:177
-#: ../../files/toc.rst:32
+#: ../../contacts/toc.rst:180
 #: ../../files/toc.rst:42
-#: ../../files/toc.rst:162
-#: ../../files/toc.rst:173
+#: ../../files/toc.rst:52
+#: ../../files/toc.rst:172
+#: ../../files/toc.rst:183
 msgid "From the top bar, click the **downward arrow** next to the **NEW** button."
 msgstr ""
 
-#: ../../contacts/toc.rst:178
+#: ../../contacts/toc.rst:181
 msgid "Select the **New Contact group** from the drop-down menu. A new board will appear."
 msgstr ""
 
-#: ../../contacts/toc.rst:179
+#: ../../contacts/toc.rst:182
 msgid "Insert a name for the contact group in the **Group name** field."
 msgstr ""
 
-#: ../../contacts/toc.rst:180
+#: ../../contacts/toc.rst:183
 msgid "Insert addresses you wish to add to this group by writing them under the **Address list** section."
 msgstr ""
 
-#: ../../contacts/toc.rst:181
+#: ../../contacts/toc.rst:184
 msgid "Press the + button to add the address to the group."
 msgstr ""
 
-#: ../../contacts/toc.rst:182
-#: ../../files/toc.rst:74
+#: ../../contacts/toc.rst:185
+#: ../../files/toc.rst:84
 msgid "Click the **SAVE** button."
 msgstr ""
 
-#: ../../contacts/toc.rst:185
+#: ../../contacts/toc.rst:188
 msgid "Using a Contact Group"
 msgstr ""
 
-#: ../../contacts/toc.rst:187
+#: ../../contacts/toc.rst:190
 msgid "To use your contact group:"
 msgstr ""
 
-#: ../../contacts/toc.rst:189
+#: ../../contacts/toc.rst:192
 msgid "Begin typing its name in the **To** field while composing a new email. As you type, the contact group name will appear as a suggestion."
 msgstr ""
 
-#: ../../contacts/toc.rst:190
-msgid "Click on the contact group, and it will automatically populate the **To** field with all the addresses included in the contact group."
-msgstr ""
-
-#: ../../contacts/toc.rst:197
-msgid "Sharing a Contact List"
-msgstr ""
-
-#: ../../contacts/toc.rst:199
-msgid "You can share your address book with your colleagues or external users. This allows them to view and access the contacts you have stored in your address book. How to Share a Contact Group and open Contacts:"
+#: ../../contacts/toc.rst:193
+msgid "Click the contact group, and it will automatically populate the **To** field with all the addresses included in the contact group."
 msgstr ""
 
 #: ../../contacts/toc.rst:202
-msgid "Go to your Contacts section in the app."
-msgstr ""
-
-#: ../../contacts/toc.rst:203
-msgid "Create or Select a Group."
+msgid "Sharing a Contact List"
 msgstr ""
 
 #: ../../contacts/toc.rst:204
-msgid "To create: click “New Group”, add contacts, and assign it to a folder."
-msgstr ""
-
-#: ../../contacts/toc.rst:205
-msgid "To share an existing group: make sure it’s placed in a folder you can share."
-msgstr ""
-
-#: ../../contacts/toc.rst:206
-msgid "Place Group in a Folder:"
+msgid "You can share your address book with colleagues or external users so they can view and access the contacts stored in it."
 msgstr ""
 
 #: ../../contacts/toc.rst:207
-msgid "Move the group to a specific folder - or create a new one just for it."
-msgstr ""
-
-#: ../../contacts/toc.rst:208
-msgid "This allows you to share only what’s inside that folder."
+msgid "How to Share a Contact Group"
 msgstr ""
 
 #: ../../contacts/toc.rst:209
-msgid "Share the Folder:"
+msgid "Go to the **Contacts** section in the app."
 msgstr ""
 
 #: ../../contacts/toc.rst:210
-msgid "Right-click the folder - “Share”."
+msgid "Create a new group or select an existing **Group**."
 msgstr ""
 
 #: ../../contacts/toc.rst:211
-msgid "Choose the users and set their permission level:"
+msgid "To create a group, click **New Group**, add contacts, and assign the group to a folder."
 msgstr ""
 
 #: ../../contacts/toc.rst:212
-msgid "Can View"
+msgid "To share an existing group, make sure it is stored in a folder that you can share."
 msgstr ""
 
 #: ../../contacts/toc.rst:213
-msgid "Can Edit"
+msgid "Move the group to a specific folder, or create a new folder just for that group."
 msgstr ""
 
 #: ../../contacts/toc.rst:214
-msgid "Confirm Shared Content:"
+msgid "This lets you share only the contents of that folder."
 msgstr ""
 
 #: ../../contacts/toc.rst:215
-msgid "The user will only see the contacts and groups inside that folder."
+msgid "Right-click the folder and select **Share**."
 msgstr ""
 
 #: ../../contacts/toc.rst:216
-msgid "Your personal contacts and other folders remain private."
+msgid "Choose the users you want to share with and set their permission level:"
 msgstr ""
 
 #: ../../contacts/toc.rst:218
-msgid "Filtering Your View"
+msgid "**Can View**"
 msgstr ""
 
-#: ../../contacts/toc.rst:224
-msgid "To manage what you see in Contacts:"
+#: ../../contacts/toc.rst:219
+msgid "**Can Edit**"
 msgstr ""
 
 #: ../../contacts/toc.rst:221
-msgid "Use the View Filter to display:"
+msgid "Confirm the shared content."
 msgstr ""
 
 #: ../../contacts/toc.rst:222
-msgid "Only Contacts"
+msgid "Users will only see the contacts and groups inside that folder."
 msgstr ""
 
 #: ../../contacts/toc.rst:223
-msgid "Only Groups"
-msgstr ""
-
-#: ../../contacts/toc.rst:224
-msgid "Both"
+msgid "Your personal contacts and other folders will remain private."
 msgstr ""
 
 #: ../../contacts/toc.rst:226
-msgid "This helps you focus on what matters."
+msgid "Filtering Your View"
 msgstr ""
 
-#: ../../contacts/toc.rst:229
-msgid "Share a Contact List with Your Colleagues"
+#: ../../contacts/toc.rst:228
+msgid "To control what you see in **Contacts**, use the **View Filter** to display:"
+msgstr ""
+
+#: ../../contacts/toc.rst:230
+msgid "**Only Contacts**"
 msgstr ""
 
 #: ../../contacts/toc.rst:231
-#: ../../contacts/toc.rst:266
-msgid "To find and add your colleagues’ contact list:"
+msgid "**Only Groups**"
+msgstr ""
+
+#: ../../contacts/toc.rst:232
+msgid "**Both**"
 msgstr ""
 
 #: ../../contacts/toc.rst:234
-#: ../../contacts/toc.rst:255
-msgid "In the Navigation Panel, right-click on the address book you wish to share. A new window appears."
-msgstr ""
-
-#: ../../contacts/toc.rst:235
-msgid "From the Share with field, select Internal Users or Groups."
-msgstr ""
-
-#: ../../contacts/toc.rst:236
-msgid "Enter the email addresses of your colleagues with whom you wish to share the address book into the **Recipients’ e-mail addresses** field."
+msgid "This helps you focus on the items that matter most."
 msgstr ""
 
 #: ../../contacts/toc.rst:237
-#: ../../contacts/toc.rst:258
-msgid "Select the role from the **Role** field (read below to know which role to choose)."
+msgid "Share a Contact List with Your Colleagues"
 msgstr ""
 
-#: ../../contacts/toc.rst:240
-msgid "There are three different roles you can choose in step 5:"
+#: ../../contacts/toc.rst:239
+#: ../../contacts/toc.rst:274
+msgid "To find and add your colleagues’ contact list:"
 msgstr ""
 
 #: ../../contacts/toc.rst:242
-msgid "**Viewer**: Can read the contents of the address book but cannot make changes to the content."
+#: ../../contacts/toc.rst:263
+msgid "In the Navigation Panel, right-click the address book you wish to share. A new window appears."
 msgstr ""
 
 #: ../../contacts/toc.rst:243
-msgid "**Manager**: Can view and edit the content of the address book."
+msgid "From the Share with field, select Internal Users or Groups."
 msgstr ""
 
-#: ../../contacts/toc.rst:246
-msgid "Your shared address book will be accessible in the **Shared Address Books** section."
+#: ../../contacts/toc.rst:244
+msgid "Enter the email addresses of your colleagues with whom you wish to share the address book into the **Recipients’ e-mail addresses** field."
 msgstr ""
 
-#: ../../contacts/toc.rst:249
-msgid "Share a Contact List with External Users"
+#: ../../contacts/toc.rst:245
+#: ../../contacts/toc.rst:266
+msgid "Select the role from the **Role** field (read below to know which role to choose)."
+msgstr ""
+
+#: ../../contacts/toc.rst:248
+msgid "There are three different roles you can choose in step 5:"
+msgstr ""
+
+#: ../../contacts/toc.rst:250
+msgid "**Viewer**: Can read the contents of the address book but cannot make changes to the content."
 msgstr ""
 
 #: ../../contacts/toc.rst:251
-msgid "If you share an address book with external users, whoever has the link to your address book can access it. To share an address book with external users:"
+msgid "**Manager**: Can view and edit the content of the address book."
+msgstr ""
+
+#: ../../contacts/toc.rst:254
+msgid "Your shared address book will be accessible in the **Shared Address Books** section."
 msgstr ""
 
 #: ../../contacts/toc.rst:257
+msgid "Share a Contact List with External Users"
+msgstr ""
+
+#: ../../contacts/toc.rst:259
+msgid "If you share an address book with external users, whoever has the link to your address book can access it. To share an address book with external users:"
+msgstr ""
+
+#: ../../contacts/toc.rst:265
 msgid "Enter the email addresses with whom you wish to share the address book into the **Recipients’ e-mail addresses** field."
 msgstr ""
 
-#: ../../contacts/toc.rst:261
+#: ../../contacts/toc.rst:269
 msgid "This action will send an email to external users granting them access to your address book."
 msgstr ""
 
-#: ../../contacts/toc.rst:264
+#: ../../contacts/toc.rst:272
 msgid "Add Colleagues' Shared Contact Lists"
 msgstr ""
 
-#: ../../contacts/toc.rst:269
+#: ../../contacts/toc.rst:277
 msgid "In the Navigation Panel, click the downward arrow next to the **Shared Address Books** section."
 msgstr ""
 
-#: ../../contacts/toc.rst:270
+#: ../../contacts/toc.rst:278
 msgid "Under the **Shared Address Books** section, click the **FIND SHARES** button. A new window appears."
 msgstr ""
 
-#: ../../contacts/toc.rst:271
+#: ../../contacts/toc.rst:279
 msgid "Select the contact list shared with you from the list."
 msgstr ""
 
-#: ../../contacts/toc.rst:274
+#: ../../contacts/toc.rst:282
 msgid "Their shared contact list will appear in your **Shared Address Books** section."
 msgstr ""
 
-#: ../../contacts/toc.rst:277
+#: ../../contacts/toc.rst:285
 msgid "Export an Address Book as a CSV File"
 msgstr ""
 
-#: ../../contacts/toc.rst:279
+#: ../../contacts/toc.rst:287
 msgid "You can export and store your address book on your computer in CSV (comma-separated values) format. To do so:"
 msgstr ""
 
-#: ../../contacts/toc.rst:282
-msgid "In the Navigation Panel, right-click on the address book you wish to export."
+#: ../../contacts/toc.rst:290
+msgid "In the Navigation Panel, right-click the address book you wish to export."
 msgstr ""
 
-#: ../../contacts/toc.rst:283
+#: ../../contacts/toc.rst:291
 msgid "Select **Export csv file** from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../contacts/toc.rst:284
+#: ../../contacts/toc.rst:292
 msgid "Select the destination folder to save the CSV file on your computer."
 msgstr ""
 
-#: ../../contacts/toc.rst:285
+#: ../../contacts/toc.rst:293
 msgid "Click **Save**."
 msgstr ""
 
-#: ../../contacts/toc.rst:290
+#: ../../contacts/toc.rst:298
 msgid "Import a CSV File as an Address Book"
 msgstr ""
 
-#: ../../contacts/toc.rst:292
+#: ../../contacts/toc.rst:300
 msgid "You can import the stored address book on your computer in CSV (comma-separated values) format to your |product| web client. To do so:"
 msgstr ""
 
-#: ../../contacts/toc.rst:295
+#: ../../contacts/toc.rst:303
 msgid "In the Navigation Panel, right-click on the address book you wish to import data in."
 msgstr ""
 
-#: ../../contacts/toc.rst:296
+#: ../../contacts/toc.rst:304
 msgid "Select **Import csv file** from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../contacts/toc.rst:297
+#: ../../contacts/toc.rst:305
 msgid "Select the csv file containing the address book information stored on your computer."
 msgstr ""
 
-#: ../../contacts/toc.rst:298
-#: ../../files/toc.rst:60
-#: ../../files/toc.rst:273
+#: ../../contacts/toc.rst:306
+#: ../../files/toc.rst:70
+#: ../../files/toc.rst:283
 msgid "Click **Open**."
 msgstr ""
 
-#: ../../contacts/toc.rst:300
+#: ../../contacts/toc.rst:308
 msgid "The files to be imported must have the following format."
 msgstr ""
 
@@ -5321,43 +5480,43 @@ msgstr ""
 msgid "Example CSV file"
 msgstr ""
 
-#: ../../contacts/toc.rst:314
+#: ../../contacts/toc.rst:322
 msgid "Configure a CardDav Client"
 msgstr ""
 
-#: ../../contacts/toc.rst:316
+#: ../../contacts/toc.rst:324
 msgid "Adding a |product| address book to your favourite CardDAV client is straightforward and requires only a few steps."
 msgstr ""
 
-#: ../../contacts/toc.rst:319
+#: ../../contacts/toc.rst:327
 msgid "In this scenario, the user *john.smith@example.com* wants to import in Mozilla's Thunderbird an address book from the domain *mail.example.com*. In the remainder, replace these values with suitable ones."
 msgstr ""
 
-#: ../../contacts/toc.rst:324
+#: ../../contacts/toc.rst:332
 msgid "Step 1. New Address book"
 msgstr ""
 
-#: ../../contacts/toc.rst:326
+#: ../../contacts/toc.rst:334
 msgid "On your client, go to the Calendar and select **New Address Book**, providing the **Username** and the **Location**, which has format ``https://<domain>/dav/username``, so *https://mail.example.com/dav/john.smith@example.com*"
 msgstr ""
 
-#: ../../contacts/toc.rst:335
+#: ../../contacts/toc.rst:343
 msgid "Step 2. Insert credentials"
 msgstr ""
 
-#: ../../contacts/toc.rst:337
+#: ../../contacts/toc.rst:345
 msgid "Authenticate to |product| by inserting the username and password to access the address book."
 msgstr ""
 
-#: ../../contacts/toc.rst:344
+#: ../../contacts/toc.rst:352
 msgid "Step 3. Select Address Books"
 msgstr ""
 
-#: ../../contacts/toc.rst:346
+#: ../../contacts/toc.rst:354
 msgid "You will be then presented a list, from which to choose the address books to import in the client."
 msgstr ""
 
-#: ../../contacts/toc.rst:355
+#: ../../contacts/toc.rst:363
 msgid "You are now done! The imported address books will show up in the list of your client."
 msgstr ""
 
@@ -5366,938 +5525,966 @@ msgid "Working with Files"
 msgstr ""
 
 #: ../../files/toc.rst:13
-msgid "Files is designed to simplify your file management needs. The Files offers a user-friendly platform for uploading, creating, and organizing your digital documents. Whether you are collaborating with colleagues or simply keeping your files in order, Files allows you to effortlessly share and manage your documents and images. With its intuitive interface, you can easily create multiple folders, upload files from your computer, save email attachments, and even generate new documents. When you click on the Files icon, you will access to the Files module view: you can choose the grid layout button on the top-right of list header to switch the view from list mode to the grid mode. By choosing this mode you will see all the files and folders as thumbnails, instead of the vertical list."
+msgid "Files is designed to simplify your file management needs. The Files offers a user-friendly platform for uploading, creating, and organizing your digital documents."
 msgstr ""
 
-#: ../../files/toc.rst:17
-msgid "Using multiple |product| windows : when using two or more open browser's tabs or windows to access **Files**, some of the operations you carry out on one of the windows is not immediately reflected in the other. To make sure that all the windows are synchronised, you need to click the account icon (rightmost icon on the top right corner of the GUI) to open the menu, then click *Update view*. In this way, you force the browser to reload and update its cache to include the latest changes on **Files**."
+#: ../../files/toc.rst:16
+msgid "Whether you are collaborating with colleagues or simply keeping your files in order, Files allows you to effortlessly share and manage your documents and images."
+msgstr ""
+
+#: ../../files/toc.rst:19
+msgid "With its intuitive interface, you can easily create multiple folders, upload files from your computer, save email attachments, and even generate new documents."
+msgstr ""
+
+#: ../../files/toc.rst:22
+msgid "When you click on the Files icon, you will access to the Files module view: you can choose the grid layout button on the top-right of list header to switch the view from list mode to the grid mode. By choosing this mode you will see all the files and folders as thumbnails, instead of the vertical list."
 msgstr ""
 
 #: ../../files/toc.rst:27
+msgid "Using multiple |product| windows : when using two or more open browser's tabs or windows to access **Files**, some of the operations you carry out on one of the windows is not immediately reflected in the other. To make sure that all the windows are synchronised, you need to click the account icon (rightmost icon on the top right corner of the GUI) to open the menu, then click *Update view*. In this way, you force the browser to reload and update its cache to include the latest changes on **Files**."
+msgstr ""
+
+#: ../../files/toc.rst:37
 #: ../../mobile_apps/files_app.rst:12
 msgid "Creating a Folder"
 msgstr ""
 
-#: ../../files/toc.rst:29
+#: ../../files/toc.rst:39
 msgid "To create a folder in Files:"
 msgstr ""
 
-#: ../../files/toc.rst:31
-#: ../../files/toc.rst:97
-#: ../../files/toc.rst:117
-#: ../../files/toc.rst:130
-#: ../../files/toc.rst:142
-#: ../../files/toc.rst:160
-#: ../../files/toc.rst:171
-#: ../../files/toc.rst:194
-#: ../../files/toc.rst:225
-#: ../../files/toc.rst:237
-#: ../../files/toc.rst:255
-#: ../../files/toc.rst:267
-#: ../../files/toc.rst:280
-#: ../../files/toc.rst:296
-#: ../../files/toc.rst:308
-#: ../../files/toc.rst:323
-#: ../../files/toc.rst:337
-#: ../../files/toc.rst:353
-#: ../../files/toc.rst:364
-#: ../../files/toc.rst:470
-#: ../../files/toc.rst:482
-#: ../../files/toc.rst:495
-#: ../../files/toc.rst:540
+#: ../../files/toc.rst:41
+#: ../../files/toc.rst:107
+#: ../../files/toc.rst:127
+#: ../../files/toc.rst:140
+#: ../../files/toc.rst:152
+#: ../../files/toc.rst:170
+#: ../../files/toc.rst:181
+#: ../../files/toc.rst:204
+#: ../../files/toc.rst:235
+#: ../../files/toc.rst:247
+#: ../../files/toc.rst:265
+#: ../../files/toc.rst:277
+#: ../../files/toc.rst:290
+#: ../../files/toc.rst:306
+#: ../../files/toc.rst:318
+#: ../../files/toc.rst:333
+#: ../../files/toc.rst:347
+#: ../../files/toc.rst:363
+#: ../../files/toc.rst:374
+#: ../../files/toc.rst:490
+#: ../../files/toc.rst:502
+#: ../../files/toc.rst:515
+#: ../../files/toc.rst:560
 msgid "Select the **Files feature** from your left sidebar."
 msgstr ""
 
-#: ../../files/toc.rst:33
 #: ../../files/toc.rst:43
+#: ../../files/toc.rst:53
 msgid "Select **New Folder** from the drop-down menu. A new board will appear."
 msgstr ""
 
-#: ../../files/toc.rst:34
 #: ../../files/toc.rst:44
+#: ../../files/toc.rst:54
 msgid "Insert a name for the folder."
 msgstr ""
 
-#: ../../files/toc.rst:37
+#: ../../files/toc.rst:47
 msgid "The new folder is displayed in the main panel among the list of files and folders."
 msgstr ""
 
-#: ../../files/toc.rst:39
+#: ../../files/toc.rst:49
 msgid "If you wish to create a new folder within another folder, simply:"
 msgstr ""
 
-#: ../../files/toc.rst:41
+#: ../../files/toc.rst:51
 msgid "Navigate to the folder where you intend to create a new folder."
 msgstr ""
 
-#: ../../files/toc.rst:52
+#: ../../files/toc.rst:62
 msgid "Adding a File from Your Computer"
 msgstr ""
 
-#: ../../files/toc.rst:54
+#: ../../files/toc.rst:64
 msgid "To upload document files from your computer:"
 msgstr ""
 
-#: ../../files/toc.rst:56
-#: ../../files/toc.rst:211
-#: ../../files/toc.rst:386
-#: ../../files/toc.rst:409
-#: ../../files/toc.rst:425
-#: ../../files/toc.rst:436
-#: ../../files/toc.rst:451
+#: ../../files/toc.rst:66
+#: ../../files/toc.rst:221
+#: ../../files/toc.rst:396
+#: ../../files/toc.rst:429
+#: ../../files/toc.rst:445
+#: ../../files/toc.rst:456
+#: ../../files/toc.rst:471
 msgid "Select the **Files** feature from your left sidebar."
 msgstr ""
 
-#: ../../files/toc.rst:57
+#: ../../files/toc.rst:67
 msgid "Navigate to the folder where you intend to upload the file."
 msgstr ""
 
-#: ../../files/toc.rst:58
+#: ../../files/toc.rst:68
 msgid "From the top bar, click the **NEW** button. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:59
+#: ../../files/toc.rst:69
 msgid "Select a file from the window."
 msgstr ""
 
-#: ../../files/toc.rst:62
+#: ../../files/toc.rst:72
 msgid "You can monitor the progress of the uploading process through the **Uploads section**, which is visible in the Navigation Panel."
 msgstr ""
 
-#: ../../files/toc.rst:65
+#: ../../files/toc.rst:75
 msgid "Adding a File from Your Email Attachments"
 msgstr ""
 
-#: ../../files/toc.rst:67
+#: ../../files/toc.rst:77
 msgid "You have the option to save attachment files from your emails directly to your Files. To do so:"
 msgstr ""
 
-#: ../../files/toc.rst:70
+#: ../../files/toc.rst:80
 msgid "Select the email that contains the attachment you want to save."
 msgstr ""
 
-#: ../../files/toc.rst:71
+#: ../../files/toc.rst:81
 msgid "On the right, you will see the email text and attachments. Hover your mouse cursor over the attachment you want to save without clicking."
 msgstr ""
 
-#: ../../files/toc.rst:72
+#: ../../files/toc.rst:82
 msgid "Three buttons appear on the right side of the attachment. Click the left button with the Files icon. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:73
+#: ../../files/toc.rst:83
 msgid "Select the folder where you want to save the attachment."
 msgstr ""
 
-#: ../../files/toc.rst:81
+#: ../../files/toc.rst:91
 msgid "Downloading a File on Your Computer"
 msgstr ""
 
-#: ../../files/toc.rst:83
+#: ../../files/toc.rst:93
 msgid "To download a file on your computer:"
 msgstr ""
 
-#: ../../files/toc.rst:85
+#: ../../files/toc.rst:95
 msgid "Select the Files feature from your left sidebar."
 msgstr ""
 
-#: ../../files/toc.rst:86
+#: ../../files/toc.rst:96
 msgid "Navigate to the folder that contains the file you want to download."
 msgstr ""
 
-#: ../../files/toc.rst:87
-#: ../../files/toc.rst:144
-#: ../../files/toc.rst:213
-#: ../../files/toc.rst:227
-#: ../../files/toc.rst:239
-#: ../../files/toc.rst:339
+#: ../../files/toc.rst:97
+#: ../../files/toc.rst:154
+#: ../../files/toc.rst:223
+#: ../../files/toc.rst:237
+#: ../../files/toc.rst:249
+#: ../../files/toc.rst:349
 msgid "Right-click on the file."
 msgstr ""
 
-#: ../../files/toc.rst:88
+#: ../../files/toc.rst:98
 msgid "Select Download from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:89
+#: ../../files/toc.rst:99
 msgid "Select the folder on your computer where you want to download the file."
 msgstr ""
 
-#: ../../files/toc.rst:90
+#: ../../files/toc.rst:100
 msgid "Click the Save button."
 msgstr ""
 
-#: ../../files/toc.rst:93
+#: ../../files/toc.rst:103
 msgid "Deleting a File or a Folder"
 msgstr ""
 
-#: ../../files/toc.rst:95
+#: ../../files/toc.rst:105
 msgid "To delete a file or folder from your Files:"
 msgstr ""
 
-#: ../../files/toc.rst:98
+#: ../../files/toc.rst:108
 msgid "Navigate to the folder or folder that contains the item you want to delete."
 msgstr ""
 
-#: ../../files/toc.rst:99
-#: ../../files/toc.rst:132
+#: ../../files/toc.rst:109
+#: ../../files/toc.rst:142
 msgid "Right-click on the item."
 msgstr ""
 
-#: ../../files/toc.rst:102
+#: ../../files/toc.rst:112
 msgid "Your file or folder will be automatically moved to your Trash folder. You can locate the Trash folder from the Navigation Panel."
 msgstr ""
 
-#: ../../files/toc.rst:104
+#: ../../files/toc.rst:114
 msgid "If you want to remove the file permanently:"
 msgstr ""
 
-#: ../../files/toc.rst:106
-#: ../../files/toc.rst:118
+#: ../../files/toc.rst:116
+#: ../../files/toc.rst:128
 msgid "Click on the downward arrow next to the **Trash folder**."
 msgstr ""
 
-#: ../../files/toc.rst:107
-#: ../../files/toc.rst:119
+#: ../../files/toc.rst:117
+#: ../../files/toc.rst:129
 msgid "Select **My items**."
 msgstr ""
 
-#: ../../files/toc.rst:108
+#: ../../files/toc.rst:118
 msgid "On the Main Panel, right-click on the item you want to remove permanently."
 msgstr ""
 
-#: ../../files/toc.rst:109
+#: ../../files/toc.rst:119
 msgid "Select **Delete permanently** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:110
+#: ../../files/toc.rst:120
 msgid "Click **DELETE PERMANENTLY** to confirm."
 msgstr ""
 
-#: ../../files/toc.rst:113
+#: ../../files/toc.rst:123
 msgid "Restoring a Trashed File or a Folder"
 msgstr ""
 
-#: ../../files/toc.rst:115
+#: ../../files/toc.rst:125
 msgid "Deleting files and folders moves them into your Trash folder. You can access them there and restore them if needed."
 msgstr ""
 
-#: ../../files/toc.rst:120
+#: ../../files/toc.rst:130
 msgid "On the Main Panel, right-click on the item you want to restore."
 msgstr ""
 
-#: ../../files/toc.rst:121
+#: ../../files/toc.rst:131
 msgid "Select **Restore** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:123
+#: ../../files/toc.rst:133
 msgid "The restored item is automatically moved back to its original location before deletion."
 msgstr ""
 
-#: ../../files/toc.rst:126
+#: ../../files/toc.rst:136
 msgid "Renaming a File or a Folder"
 msgstr ""
 
-#: ../../files/toc.rst:128
+#: ../../files/toc.rst:138
 msgid "To rename a file or folder:"
 msgstr ""
 
-#: ../../files/toc.rst:131
+#: ../../files/toc.rst:141
 msgid "Navigate to the folder that contains the item you want to rename."
 msgstr ""
 
-#: ../../files/toc.rst:133
+#: ../../files/toc.rst:143
 msgid "Select **Rename** from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:134
+#: ../../files/toc.rst:144
 msgid "Edit the name."
 msgstr ""
 
-#: ../../files/toc.rst:135
+#: ../../files/toc.rst:145
 msgid "Click the **RENAME** button."
 msgstr ""
 
-#: ../../files/toc.rst:138
+#: ../../files/toc.rst:148
 msgid "Viewing a File"
 msgstr ""
 
-#: ../../files/toc.rst:140
+#: ../../files/toc.rst:150
 msgid "To view a file stored in your Files:"
 msgstr ""
 
-#: ../../files/toc.rst:143
+#: ../../files/toc.rst:153
 msgid "Navigate to the folder that contains the file you want to view."
 msgstr ""
 
-#: ../../files/toc.rst:145
+#: ../../files/toc.rst:155
 msgid "Select **Preview** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:147
+#: ../../files/toc.rst:157
 msgid "Double-clicking on the file will also open them for previewing purposes, but for editable formats including DOCX, XLSX, PPTX, ODT, ODS, and ODP, they will be opened in another tab in your browser. In this scenario, ensure that you refrain from editing the file, as it is in an editable mode and accidental deletions or additions may occur."
 msgstr ""
 
-#: ../../files/toc.rst:149
+#: ../../files/toc.rst:159
 msgid "You can only preview most of the frequent file formats such as PDF, DOCX, XLSX, PPTX, ODT, ODS, and ODP, as well as image files like PNG, JPG, etc. You can also preview a video, by simply double clicking a video file or open it with preview action: if the browser support that mime type, the video is played directly on the browser. For unsupported files, you can download them to your computer and open them with specific applications."
 msgstr ""
 
-#: ../../files/toc.rst:154
+#: ../../files/toc.rst:164
 msgid "Creating a File"
 msgstr ""
 
-#: ../../files/toc.rst:156
+#: ../../files/toc.rst:166
 msgid "You can use Files to create specific files including text documents, spreadsheets, and presentation files."
 msgstr ""
 
-#: ../../files/toc.rst:158
+#: ../../files/toc.rst:168
 msgid "To create a text document:"
 msgstr ""
 
-#: ../../files/toc.rst:161
-#: ../../files/toc.rst:172
+#: ../../files/toc.rst:171
+#: ../../files/toc.rst:182
 msgid "Navigate to the folder where you want to create the file."
 msgstr ""
 
-#: ../../files/toc.rst:163
+#: ../../files/toc.rst:173
 msgid "Select **New document** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:164
+#: ../../files/toc.rst:174
 msgid "Select the file format choosing either OpenDocument (.odt) or Microsoft (.docx) from the menu. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:165
-#: ../../files/toc.rst:176
+#: ../../files/toc.rst:175
+#: ../../files/toc.rst:186
 msgid "Insert a name for the file."
 msgstr ""
 
-#: ../../files/toc.rst:167
-#: ../../files/toc.rst:178
+#: ../../files/toc.rst:177
+#: ../../files/toc.rst:188
 msgid "You will find the created file in the Main Panel among the list of files and folders."
 msgstr ""
 
-#: ../../files/toc.rst:169
+#: ../../files/toc.rst:179
 msgid "To create a spreadsheet:"
 msgstr ""
 
-#: ../../files/toc.rst:174
+#: ../../files/toc.rst:184
 msgid "Select **New spreadsheet** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:175
+#: ../../files/toc.rst:185
 msgid "Select the file format choosing either OpenDocument (.ods) or Microsoft (.xlsx) from the menu. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:180
+#: ../../files/toc.rst:190
 msgid "You can double-click on it to open the editor in another browser tab and begin editing the file online."
 msgstr ""
 
-#: ../../files/toc.rst:182
+#: ../../files/toc.rst:192
 msgid "The main difference between OpenDocument and Microsoft files lies in their file formats and the software used to create and edit them. OpenDocument files (.odt, .ods, .odp) adhere to an open standard and are compatible with open-source office suites like LibreOffice."
 msgstr ""
 
-#: ../../files/toc.rst:184
+#: ../../files/toc.rst:194
 msgid "In contrast, Microsoft files (.docx, .xlsx, .pptx) are created with Microsoft Office software. From a user perspective, OpenDocument files offer greater compatibility across different platforms and software suites, while Microsoft files are more commonly used in professional settings due to the widespread use of Microsoft Office."
 msgstr ""
 
-#: ../../files/toc.rst:186
+#: ../../files/toc.rst:196
 msgid "Users typically choose between them based on software preference and collaboration requirements."
 msgstr ""
 
-#: ../../files/toc.rst:189
+#: ../../files/toc.rst:199
 msgid "Editing a File Online"
 msgstr ""
 
-#: ../../files/toc.rst:191
+#: ../../files/toc.rst:201
 msgid "In Files, you can edit certain documents online, including formats like DOCX, XLSX, PPTX, ODT, ODS, and ODP. When you double-click them, they will open in another tab in your browser for editing."
 msgstr ""
 
-#: ../../files/toc.rst:195
-#: ../../files/toc.rst:212
+#: ../../files/toc.rst:205
+#: ../../files/toc.rst:222
 msgid "Navigate to the folder that contains the file you want to edit."
 msgstr ""
 
-#: ../../files/toc.rst:196
+#: ../../files/toc.rst:206
 msgid "Double-click on the file."
 msgstr ""
 
-#: ../../files/toc.rst:198
+#: ../../files/toc.rst:208
 msgid "A new tab will open in your browser for editing."
 msgstr ""
 
-#: ../../files/toc.rst:200
+#: ../../files/toc.rst:210
 msgid "For text documents, you have various options for editing, including text formatting such as font styles, sizes, and colors. Additionally, you can add images, tables, and other objects to enhance the document's content."
 msgstr ""
 
-#: ../../files/toc.rst:202
+#: ../../files/toc.rst:212
 msgid "In spreadsheets, you can edit cell contents, apply formatting to cells, rows, and columns, and perform calculations using built-in functions. You can also insert charts, graphs, and other visual elements to present data effectively."
 msgstr ""
 
-#: ../../files/toc.rst:204
+#: ../../files/toc.rst:214
 msgid "In presentation files, you can edit slide content, including text, images, and shapes. You have options to apply formatting to text, adjust slide layouts, and incorporate multimedia elements like videos and audio clips. Additionally, you can add animations and transitions to enhance the visual appeal of your presentation."
 msgstr ""
 
-#: ../../files/toc.rst:207
+#: ../../files/toc.rst:217
 msgid "Moving a File between Folders"
 msgstr ""
 
-#: ../../files/toc.rst:209
+#: ../../files/toc.rst:219
 msgid "To move a file to another folder:"
 msgstr ""
 
-#: ../../files/toc.rst:215
+#: ../../files/toc.rst:225
 msgid "Select the folder where you want to move the file."
 msgstr ""
 
-#: ../../files/toc.rst:218
+#: ../../files/toc.rst:228
 msgid "Alternatively, you can drag and drop files into different folders, or the parent folder displayed on the folder path at the top of the Main Panel, above the list of files and folders."
 msgstr ""
 
-#: ../../files/toc.rst:221
+#: ../../files/toc.rst:231
 #: ../../mobile_apps/files_app.rst:80
 msgid "Copying a File"
 msgstr ""
 
-#: ../../files/toc.rst:223
+#: ../../files/toc.rst:233
 msgid "To copy a file and create a duplicate in another folder:"
 msgstr ""
 
-#: ../../files/toc.rst:226
+#: ../../files/toc.rst:236
 msgid "Navigate to the folder that contains the file you want to copy."
 msgstr ""
 
-#: ../../files/toc.rst:228
+#: ../../files/toc.rst:238
 msgid "Select **Copy** from the drop-down menu. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:229
+#: ../../files/toc.rst:239
 msgid "Choose the destination folder where you want to copy the file."
 msgstr ""
 
-#: ../../files/toc.rst:230
+#: ../../files/toc.rst:240
 msgid "Click the **COPY** button."
 msgstr ""
 
-#: ../../files/toc.rst:233
+#: ../../files/toc.rst:243
 #: ../../mobile_apps/files_app.rst:87
 msgid "Flagging a File"
 msgstr ""
 
-#: ../../files/toc.rst:235
+#: ../../files/toc.rst:245
 msgid "To flag a file for future reference and make it stand out, you can:"
 msgstr ""
 
-#: ../../files/toc.rst:238
+#: ../../files/toc.rst:248
 msgid "Navigate to the folder that contains the file you want to flag."
 msgstr ""
 
-#: ../../files/toc.rst:240
+#: ../../files/toc.rst:250
 msgid "Select **Flag** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:242
+#: ../../files/toc.rst:252
 msgid "To remove the flag from the file, you can follow the same process and select **Unflag**."
 msgstr ""
 
-#: ../../files/toc.rst:245
+#: ../../files/toc.rst:255
 msgid "Managing File Versioning"
 msgstr ""
 
-#: ../../files/toc.rst:251
+#: ../../files/toc.rst:261
 msgid "File versioning enables you to manage changes to your documents in Files. Each time you modify and save a file, the version number automatically updates. The most recent version number is visible in the file document list."
 msgstr ""
 
-#: ../../files/toc.rst:253
+#: ../../files/toc.rst:263
 msgid "To view the history of the file, you can follow these steps:"
 msgstr ""
 
-#: ../../files/toc.rst:256
+#: ../../files/toc.rst:266
 msgid "Navigate to the folder that contains the file you want to check."
 msgstr ""
 
-#: ../../files/toc.rst:257
-#: ../../files/toc.rst:269
-#: ../../files/toc.rst:282
-#: ../../files/toc.rst:298
-#: ../../files/toc.rst:310
-#: ../../files/toc.rst:325
-#: ../../files/toc.rst:355
-#: ../../files/toc.rst:366
+#: ../../files/toc.rst:267
+#: ../../files/toc.rst:279
+#: ../../files/toc.rst:292
+#: ../../files/toc.rst:308
+#: ../../files/toc.rst:320
+#: ../../files/toc.rst:335
+#: ../../files/toc.rst:365
+#: ../../files/toc.rst:376
 msgid "Select the file."
 msgstr ""
 
-#: ../../files/toc.rst:258
+#: ../../files/toc.rst:268
 msgid "On the right side of the Main Panel, you will find three tabs. Click **Versioning**."
 msgstr ""
 
-#: ../../files/toc.rst:260
+#: ../../files/toc.rst:270
 msgid "Under the **Current version**, you will find the last modified status of the file, and under **Older versions** you will find all previous versions, if they exist."
 msgstr ""
 
-#: ../../files/toc.rst:263
+#: ../../files/toc.rst:273
 msgid "Updating a File with a New Version"
 msgstr ""
 
-#: ../../files/toc.rst:265
+#: ../../files/toc.rst:275
 msgid "To update a file with a new version, follow these steps:"
 msgstr ""
 
-#: ../../files/toc.rst:268
-#: ../../files/toc.rst:281
-#: ../../files/toc.rst:297
-#: ../../files/toc.rst:309
-#: ../../files/toc.rst:324
-#: ../../files/toc.rst:338
-#: ../../files/toc.rst:354
-#: ../../files/toc.rst:365
-#: ../../files/toc.rst:437
+#: ../../files/toc.rst:278
+#: ../../files/toc.rst:291
+#: ../../files/toc.rst:307
+#: ../../files/toc.rst:319
+#: ../../files/toc.rst:334
+#: ../../files/toc.rst:348
+#: ../../files/toc.rst:364
+#: ../../files/toc.rst:375
+#: ../../files/toc.rst:457
 msgid "Navigate to the folder that contains the file."
 msgstr ""
 
-#: ../../files/toc.rst:270
-#: ../../files/toc.rst:283
-#: ../../files/toc.rst:299
-#: ../../files/toc.rst:311
-#: ../../files/toc.rst:326
+#: ../../files/toc.rst:280
+#: ../../files/toc.rst:293
+#: ../../files/toc.rst:309
+#: ../../files/toc.rst:321
+#: ../../files/toc.rst:336
 msgid "On the right side of the Main Panel, click **Versioning**."
 msgstr ""
 
-#: ../../files/toc.rst:271
+#: ../../files/toc.rst:281
 msgid "Click the **UPLOAD VERSION** button. A new window appears."
 msgstr ""
 
-#: ../../files/toc.rst:272
+#: ../../files/toc.rst:282
 msgid "Choose the new version of the file from the opened window."
 msgstr ""
 
-#: ../../files/toc.rst:276
+#: ../../files/toc.rst:286
 msgid "Restore a File to a Previous Version"
 msgstr ""
 
-#: ../../files/toc.rst:278
+#: ../../files/toc.rst:288
 msgid "To restore a file to a previous version:"
 msgstr ""
 
-#: ../../files/toc.rst:284
+#: ../../files/toc.rst:294
 msgid "Under the **Old versions** section, click on the **three vertical dots** next to the version you want to restore."
 msgstr ""
 
-#: ../../files/toc.rst:285
+#: ../../files/toc.rst:295
 msgid "Select **Clone as current** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:287
+#: ../../files/toc.rst:297
 msgid "This will update the current version based on the cloned version, and the previous version will be added to the list of older versions."
 msgstr ""
 
-#: ../../files/toc.rst:290
+#: ../../files/toc.rst:300
 msgid "Keep a Version of a File Forever"
 msgstr ""
 
-#: ../../files/toc.rst:292
+#: ../../files/toc.rst:302
 msgid "Setting a version as **Keep this version forever**, will prevent that specific version from being deleted, even if a purge of all versions is performed."
 msgstr ""
 
-#: ../../files/toc.rst:294
+#: ../../files/toc.rst:304
 msgid "To set a version as Keep this version forever:"
 msgstr ""
 
-#: ../../files/toc.rst:300
+#: ../../files/toc.rst:310
 msgid "Under the **Old versions** section, click on the **three vertical dots** next to the version you want to keep forever."
 msgstr ""
 
-#: ../../files/toc.rst:301
+#: ../../files/toc.rst:311
 msgid "Select **Keep this version forever** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:304
+#: ../../files/toc.rst:314
 msgid "Delete Version History of a File"
 msgstr ""
 
-#: ../../files/toc.rst:306
+#: ../../files/toc.rst:316
 msgid "To delete the version history of a file:"
 msgstr ""
 
-#: ../../files/toc.rst:312
+#: ../../files/toc.rst:322
 msgid "Click the **PURGE ALL VERSIONS** button."
 msgstr ""
 
-#: ../../files/toc.rst:314
+#: ../../files/toc.rst:324
 msgid "This will delete all versions of the file, keeping the current version."
 msgstr ""
 
-#: ../../files/toc.rst:316
+#: ../../files/toc.rst:326
 msgid "In case a version is set to **Keep forever**, purging all versions will not affect that particular version. To remove these versions as well you need to first click on the **three vertical dots** next to the version and select **Remove keep forever**."
 msgstr ""
 
-#: ../../files/toc.rst:319
+#: ../../files/toc.rst:329
 msgid "Delete a Specific Version of a File"
 msgstr ""
 
-#: ../../files/toc.rst:321
+#: ../../files/toc.rst:331
 msgid "To delete a specific version of a file:"
 msgstr ""
 
-#: ../../files/toc.rst:327
+#: ../../files/toc.rst:337
 msgid "Under the **Old versions** section, click on the **three vertical dots** next to the version you want to delete."
 msgstr ""
 
-#: ../../files/toc.rst:328
+#: ../../files/toc.rst:338
 msgid "Click **Delete version** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:330
+#: ../../files/toc.rst:340
 msgid "If a version is set to **Keep forever**, the delete button will be disabled. You need to remove this version from **Keep forever** before performing the deletion. To remove these versions as well you need to first click on the three vertical dots next to the version and select **Remove keep forever**."
 msgstr ""
 
-#: ../../files/toc.rst:333
+#: ../../files/toc.rst:343
 msgid "Sending a File as an Email Attachment"
 msgstr ""
 
-#: ../../files/toc.rst:335
+#: ../../files/toc.rst:345
 msgid "You can send files stored in your Files as attachments via email to your colleagues. To do so:"
 msgstr ""
 
-#: ../../files/toc.rst:340
+#: ../../files/toc.rst:350
 msgid "Select **Send via e-mail** from the drop-down menu."
 msgstr ""
 
-#: ../../files/toc.rst:341
+#: ../../files/toc.rst:351
 msgid "A new compose board will appear which includes the file as an attachment."
 msgstr ""
 
-#: ../../files/toc.rst:342
+#: ../../files/toc.rst:352
 msgid "Complete composing your email and click **SEND**."
 msgstr ""
 
-#: ../../files/toc.rst:345
+#: ../../files/toc.rst:355
 msgid "Sending an Email with a Link to a File"
 msgstr ""
 
-#: ../../files/toc.rst:347
+#: ../../files/toc.rst:357
 msgid "Instead of sending the file as an attachment, you can opt to send an email with a link to a file stored in your Files. This can be particularly useful, especially for large files."
 msgstr ""
 
-#: ../../files/toc.rst:349
+#: ../../files/toc.rst:359
 msgid "However, the procedure differs for colleagues who have accounts on the same system as you and for external users with no account on the system."
 msgstr ""
 
-#: ../../files/toc.rst:351
+#: ../../files/toc.rst:361
 msgid "To send the link to your colleagues:"
 msgstr ""
 
-#: ../../files/toc.rst:356
-#: ../../files/toc.rst:367
+#: ../../files/toc.rst:366
+#: ../../files/toc.rst:377
 msgid "On the right side of the Main Panel, you will find three tabs. Click **Sharing**."
 msgstr ""
 
-#: ../../files/toc.rst:357
-#: ../../files/toc.rst:440
+#: ../../files/toc.rst:367
+#: ../../files/toc.rst:460
 msgid "Under the **Collaboration links** section, click on the **GENERATE LINK** button next to either **Read and Share** or **Write and Share** depending on the privileges you want to grant to the recipient."
 msgstr ""
 
-#: ../../files/toc.rst:358
-#: ../../files/toc.rst:371
-#: ../../files/toc.rst:458
-#: ../../files/toc.rst:502
+#: ../../files/toc.rst:368
+#: ../../files/toc.rst:381
+#: ../../files/toc.rst:478
+#: ../../files/toc.rst:522
 msgid "Copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS."
 msgstr ""
 
-#: ../../files/toc.rst:360
-#: ../../files/toc.rst:373
+#: ../../files/toc.rst:370
+#: ../../files/toc.rst:383
 msgid "You can send this link while composing a new email and include it inside the message."
 msgstr ""
 
-#: ../../files/toc.rst:362
+#: ../../files/toc.rst:372
 msgid "To send the link to external collaborators:"
 msgstr ""
 
-#: ../../files/toc.rst:368
-#: ../../files/toc.rst:454
-#: ../../files/toc.rst:498
+#: ../../files/toc.rst:378
+#: ../../files/toc.rst:474
+#: ../../files/toc.rst:518
 msgid "Under the **Public download links** section, click on the **ADD LINK** button."
 msgstr ""
 
-#: ../../files/toc.rst:369
-#: ../../files/toc.rst:455
-#: ../../files/toc.rst:499
+#: ../../files/toc.rst:379
+#: ../../files/toc.rst:475
+#: ../../files/toc.rst:519
 msgid "Insert a description for the link and an expiration date."
 msgstr ""
 
-#: ../../files/toc.rst:370
-#: ../../files/toc.rst:456
-#: ../../files/toc.rst:501
+#: ../../files/toc.rst:380
+#: ../../files/toc.rst:476
+#: ../../files/toc.rst:521
 msgid "Click the **GENERATE LINK** button on the right."
 msgstr ""
 
-#: ../../files/toc.rst:376
+#: ../../files/toc.rst:386
 msgid "Sharing Files and Folders"
 msgstr ""
 
-#: ../../files/toc.rst:378
+#: ../../files/toc.rst:388
 msgid "One of the most important and useful features of Files is its sharing capabilities. Sharing allows you to grant others access to files and folders. You can specify which items to share, and the level of access granted. When you invite a user to share, they have the option to accept or decline the invitation."
 msgstr ""
 
-#: ../../files/toc.rst:384
+#: ../../files/toc.rst:394
 msgid "To manage sharing properties of a file or folder:"
 msgstr ""
 
-#: ../../files/toc.rst:387
+#: ../../files/toc.rst:397
 msgid "Click on the folder or file you want to share."
 msgstr ""
 
-#: ../../files/toc.rst:388
-#: ../../files/toc.rst:411
-#: ../../files/toc.rst:427
-#: ../../files/toc.rst:439
-#: ../../files/toc.rst:453
-#: ../../files/toc.rst:472
-#: ../../files/toc.rst:484
-#: ../../files/toc.rst:497
+#: ../../files/toc.rst:398
+#: ../../files/toc.rst:431
+#: ../../files/toc.rst:447
+#: ../../files/toc.rst:459
+#: ../../files/toc.rst:473
+#: ../../files/toc.rst:492
+#: ../../files/toc.rst:504
+#: ../../files/toc.rst:517
 msgid "On the right side of the Main Panel, you will find different tabs. Click **Sharing**."
 msgstr ""
 
-#: ../../files/toc.rst:389
+#: ../../files/toc.rst:399
 msgid "Under the **Collaborators**, **Collaboration links**, and **Public download links** sections, you can manage various sharing properties."
 msgstr ""
 
-#: ../../files/toc.rst:391
+#: ../../files/toc.rst:401
 msgid "**Collaboration:**"
 msgstr ""
 
-#: ../../files/toc.rst:393
+#: ../../files/toc.rst:403
 msgid "This section enables you to include multiple colleagues for collaboration on a file or folder, granting them different privileges such as the ability to view, download, share, and edit the file."
 msgstr ""
 
-#: ../../files/toc.rst:395
+#: ../../files/toc.rst:405
 msgid "**Collaboration links:**"
 msgstr ""
 
-#: ../../files/toc.rst:397
+#: ../../files/toc.rst:407
 msgid "This section allows you to generate different links for a file or folder, enabling you to send these links to colleagues. Those with accounts on the same system (i.e., your colleagues) can use the links to access or edit the file or folder based on the privileges you grant them by generating the respective links."
 msgstr ""
 
-#: ../../files/toc.rst:399
+#: ../../files/toc.rst:409
 msgid "**Public download links:**"
 msgstr ""
 
-#: ../../files/toc.rst:401
+#: ../../files/toc.rst:411
 msgid "This section allows you to generate different links for a file or folder, enabling you to send these links to external users. The generated link provides access for anyone with the link to view and download the content of the file or folder. It is now also possible for external users to download the entire folder as a compressed ZIP archive."
 msgstr ""
 
-#: ../../files/toc.rst:405
-msgid "Adding Collaborators to a File / Folder"
-msgstr ""
-
-#: ../../files/toc.rst:407
-msgid "To add collaborators to a file or folder in Files:"
-msgstr ""
-
-#: ../../files/toc.rst:410
-#: ../../files/toc.rst:426
-msgid "Click on the folder or folder to which you want to grant access."
-msgstr ""
-
-#: ../../files/toc.rst:412
-msgid "In the Collaborators section, begin entering the email addresses of the colleagues you wish to share the item with and select them from the suggestions."
-msgstr ""
-
-#: ../../files/toc.rst:413
-msgid "Click on the eye icon next to the name of the colleague you have just inserted."
-msgstr ""
-
 #: ../../files/toc.rst:414
-msgid "Choose the access level you want to give, like **Viewer** or **Editor**, from the menu. You can also decide whether this user can share the item with others by checking the **Sharing allowed checkbox**."
+msgid "Shared Files and Storage Quotas"
 msgstr ""
 
 #: ../../files/toc.rst:415
-msgid "Click the **SHARE** button."
+msgid "When a file is shared, storage consumption and edit activity are attributed to the **owner** of the file."
 msgstr ""
 
-#: ../../files/toc.rst:423
-msgid "Removing Collaborators from a File / Folder"
+#: ../../files/toc.rst:417
+msgid "If the owner exceeds their storage quota, the file remains available to collaborators but opens in **read-only** mode."
 msgstr ""
 
-#: ../../files/toc.rst:428
-msgid "In the Collaborators section, hover your mouse cursor over the name of the colleague. Small buttons will appear next to their name."
+#: ../../files/toc.rst:420
+msgid "In this state, collaborators cannot modify the document, save changes, or create new versions until the owner is back within quota. Once the owner's storage usage is reduced below the quota limit, the document automatically becomes editable again for all collaborators."
 msgstr ""
 
-#: ../../files/toc.rst:429
-msgid "Click on the **x** button to remove them from the list."
+#: ../../files/toc.rst:425
+msgid "Adding Collaborators to a File / Folder"
+msgstr ""
+
+#: ../../files/toc.rst:427
+msgid "To add collaborators to a file or folder in Files:"
+msgstr ""
+
+#: ../../files/toc.rst:430
+#: ../../files/toc.rst:446
+msgid "Click on the folder or folder to which you want to grant access."
 msgstr ""
 
 #: ../../files/toc.rst:432
-msgid "Generating Collaboration Links for Colleagues"
+msgid "In the Collaborators section, begin entering the email addresses of the colleagues you wish to share the item with and select them from the suggestions."
+msgstr ""
+
+#: ../../files/toc.rst:433
+msgid "Click on the eye icon next to the name of the colleague you have just inserted."
 msgstr ""
 
 #: ../../files/toc.rst:434
-msgid "To generate a collaboration link for your colleagues:"
+msgid "Choose the access level you want to give, like **Viewer** or **Editor**, from the menu. You can also decide whether this user can share the item with others by checking the **Sharing allowed checkbox**."
 msgstr ""
 
-#: ../../files/toc.rst:438
-#: ../../files/toc.rst:452
-#: ../../files/toc.rst:471
-#: ../../files/toc.rst:483
-#: ../../files/toc.rst:496
-msgid "Navigate to the file or folder and click on it."
+#: ../../files/toc.rst:435
+msgid "Click the **SHARE** button."
 msgstr ""
 
-#: ../../files/toc.rst:442
-msgid "You can copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS. In the current release, you can generate up to a maximum of 50 public links for each file you want to share. If you have any doubts, please contact your system administrator. The public link has been extended to enhance security."
+#: ../../files/toc.rst:443
+msgid "Removing Collaborators from a File / Folder"
 msgstr ""
 
-#: ../../files/toc.rst:447
-msgid "Generating Public Download Links for External Users"
+#: ../../files/toc.rst:448
+msgid "In the Collaborators section, hover your mouse cursor over the name of the colleague. Small buttons will appear next to their name."
 msgstr ""
 
 #: ../../files/toc.rst:449
+msgid "Click on the **x** button to remove them from the list."
+msgstr ""
+
+#: ../../files/toc.rst:452
+msgid "Generating Collaboration Links for Colleagues"
+msgstr ""
+
+#: ../../files/toc.rst:454
+msgid "To generate a collaboration link for your colleagues:"
+msgstr ""
+
+#: ../../files/toc.rst:458
+#: ../../files/toc.rst:472
+#: ../../files/toc.rst:491
+#: ../../files/toc.rst:503
+#: ../../files/toc.rst:516
+msgid "Navigate to the file or folder and click on it."
+msgstr ""
+
+#: ../../files/toc.rst:462
+msgid "You can copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS. In the current release, you can generate up to a maximum of 50 public links for each file you want to share. If you have any doubts, please contact your system administrator. The public link has been extended to enhance security."
+msgstr ""
+
+#: ../../files/toc.rst:467
+msgid "Generating Public Download Links for External Users"
+msgstr ""
+
+#: ../../files/toc.rst:469
 msgid "To generate a sharing link external user:"
 msgstr ""
 
-#: ../../files/toc.rst:466
+#: ../../files/toc.rst:486
 msgid "Extending the Expiration Date of a Public Access Link"
 msgstr ""
 
-#: ../../files/toc.rst:468
+#: ../../files/toc.rst:488
 msgid "To extend the expiration date for a public access link:"
 msgstr ""
 
-#: ../../files/toc.rst:473
+#: ../../files/toc.rst:493
 msgid "Under the **Public download links** section, click on the **EDIT** button."
 msgstr ""
 
-#: ../../files/toc.rst:474
+#: ../../files/toc.rst:494
 msgid "Edit the expiration date."
 msgstr ""
 
-#: ../../files/toc.rst:475
+#: ../../files/toc.rst:495
 msgid "Click the **EDIT LINK** button on the right."
 msgstr ""
 
-#: ../../files/toc.rst:478
+#: ../../files/toc.rst:498
 msgid "Revoking Public Access Links"
 msgstr ""
 
-#: ../../files/toc.rst:480
+#: ../../files/toc.rst:500
 msgid "To revoke a public access link:"
 msgstr ""
 
-#: ../../files/toc.rst:485
+#: ../../files/toc.rst:505
 msgid "Under the **Public download links** section, click on the **REVOKE** button."
 msgstr ""
 
-#: ../../files/toc.rst:489
+#: ../../files/toc.rst:509
 msgid "Access Code Protection for Public File Links"
 msgstr ""
 
-#: ../../files/toc.rst:491
+#: ../../files/toc.rst:511
 msgid "Access Code Protection adds an additional security layer to public file download links, allowing you to restrict access with a generated code that recipients must enter before downloading files."
 msgstr ""
 
-#: ../../files/toc.rst:493
+#: ../../files/toc.rst:513
 msgid "To enable access code protection for a public download link:"
 msgstr ""
 
-#: ../../files/toc.rst:500
+#: ../../files/toc.rst:520
 msgid "Enable the **Access code protection** toggle."
 msgstr ""
 
-#: ../../files/toc.rst:505
+#: ../../files/toc.rst:525
 msgid "For You (File Owner)"
 msgstr ""
 
-#: ../../files/toc.rst:507
+#: ../../files/toc.rst:527
 msgid "Enable access code protection when creating public download links View, copy, or regenerate the access code as needed Share both the link and access code with your intended recipients"
 msgstr ""
 
-#: ../../files/toc.rst:511
+#: ../../files/toc.rst:531
 msgid "For Your Recipients"
 msgstr ""
 
-#: ../../files/toc.rst:513
+#: ../../files/toc.rst:533
 msgid "Click the protected public link you shared Enter the access code in the modal prompt Proceed with file download once correct code is provided"
 msgstr ""
 
-#: ../../files/toc.rst:518
+#: ../../files/toc.rst:538
 msgid "Notifications for Shared Items in Files"
 msgstr ""
 
-#: ../../files/toc.rst:520
+#: ../../files/toc.rst:540
 msgid "The Notifications feature keeps you informed about important events in your shared folders, alerting you when files or folders are shared with you or when items are added to or removed from shared folders. How It Works for You:"
 msgstr ""
 
-#: ../../files/toc.rst:523
+#: ../../files/toc.rst:543
 msgid "Receive notifications when files or folders are shared with you"
 msgstr ""
 
-#: ../../files/toc.rst:524
+#: ../../files/toc.rst:544
 msgid "Get alerts when items are added to or removed from your shared folders"
 msgstr ""
 
-#: ../../files/toc.rst:525
+#: ../../files/toc.rst:545
 msgid "See a notification badge on the Files module icon when new events occur"
 msgstr ""
 
-#: ../../files/toc.rst:526
+#: ../../files/toc.rst:546
 msgid "View new notifications highlighted in blue within the Notifications widget"
 msgstr ""
 
-#: ../../files/toc.rst:527
+#: ../../files/toc.rst:547
 msgid "Badges automatically clear when you open the widget"
 msgstr ""
 
-#: ../../files/toc.rst:528
+#: ../../files/toc.rst:548
 msgid "Notifications refresh automatically and persist even if original data changes"
 msgstr ""
 
-#: ../../files/toc.rst:530
+#: ../../files/toc.rst:550
 msgid "What You'll Be Notified About:"
 msgstr ""
 
-#: ../../files/toc.rst:532
+#: ../../files/toc.rst:552
 msgid "New items added to shared folders"
 msgstr ""
 
-#: ../../files/toc.rst:533
+#: ../../files/toc.rst:553
 msgid "Files or folders shared with you"
 msgstr ""
 
-#: ../../files/toc.rst:534
+#: ../../files/toc.rst:554
 msgid "Items removed from shared folders"
 msgstr ""
 
-#: ../../files/toc.rst:535
+#: ../../files/toc.rst:555
 msgid "Empty state message when no notifications are present"
 msgstr ""
 
-#: ../../files/toc.rst:537
+#: ../../files/toc.rst:557
 msgid "This feature ensures you stay updated on all shared folder activity, making collaboration more efficient by keeping you informed of important file changes. To view your notifications:"
 msgstr ""
 
-#: ../../files/toc.rst:541
+#: ../../files/toc.rst:561
 msgid "Click on the **Notifications** icon located in the top right corner of the Files module."
 msgstr ""
 
-#: ../../files/toc.rst:542
+#: ../../files/toc.rst:562
 msgid "A pop-up window will appear, displaying all your notifications related to shared items in Files."
 msgstr ""
 
-#: ../../files/toc.rst:543
+#: ../../files/toc.rst:563
 msgid "You can click on any notification to view the details, such as the file or folder name, the action taken, and the date of the event."
 msgstr ""
 
-#: ../../files/toc.rst:547
+#: ../../files/toc.rst:567
 msgid "Exceeding Files quota limit"
 msgstr ""
 
-#: ../../files/toc.rst:549
+#: ../../files/toc.rst:569
 msgid "If you overcome the quota limit for **Files**, documents will be opened in *read-only mode*: this will also be enforced by a label that appears on the bottom of the opened document. This behaviour holds also for shared documents: if the document is open by another user who has write access on your document, the second user will also see the *Read-only* label on the bottom of the document so he will not be able to save changes made to the document."
 msgstr ""
 
-#: ../../files/toc.rst:557
+#: ../../files/toc.rst:577
 msgid "While editing a shared document, if the file quota limit is reached or changed, a warning message will appear on saving. You can still proceed by downloading the document and saving your changes locally."
 msgstr ""
 
-#: ../../files/toc.rst:559
+#: ../../files/toc.rst:579
 msgid "For the **Files** quota limitation, you should contact your system administrator."
 msgstr ""
 

@@ -10,8 +10,18 @@
                 :align: center
                 :width: 100%
               
-Files is designed to simplify your file management needs. The Files offers a user-friendly platform for uploading, creating, and organizing your digital documents. Whether you are collaborating with colleagues or simply keeping your files in order, Files allows you to effortlessly share and manage your documents and images. With its intuitive interface, you can easily create multiple folders, upload files from your computer, save email attachments, and even generate new documents.
-When you click on the Files icon, you will access to the Files module view: you can choose the grid layout button on the top-right of list header to switch the view from list mode to the grid mode. By choosing this mode you will see all the files and folders as thumbnails, instead of the vertical list.
+Files is designed to simplify your file management needs. The Files offers a user-friendly platform for
+uploading, creating, and organizing your digital documents.
+
+Whether you are collaborating with colleagues or simply keeping your files in order, Files allows you
+to effortlessly share and manage your documents and images.
+
+With its intuitive interface, you can easily create multiple folders, upload files from your computer, save email
+attachments, and even generate new documents.
+
+When you click on the Files icon, you will access to the Files module view: you can choose the grid layout button
+on the top-right of list header to switch the view from list mode to the grid mode. By choosing this mode you will
+see all the files and folders as thumbnails, instead of the vertical list.
 
 
 .. note:: Using multiple |product| windows : when using two or more open browser's tabs or windows to access
@@ -402,11 +412,13 @@ This section allows you to generate different links for a file or folder, enabli
 
 Shared Files and Storage Quotas
 -------------------------------
-When a file is shared, storage consumption and edit activity are attributed to the owner of the file.
-If the owner exceeds their storage quota, the file remains available to collaborators but opens in read-only mode.
-In this state, collaborators cannot modify the document, save changes, or create new versions until the owner is back within quota.
-Once the owner's storage usage is reduced below the quota limit, the document automatically becomes editable again for all collaborators.
-This behavior is applied automatically and does not require any additional configuration or service restart.
+When a file is shared, storage consumption and edit activity are attributed to the **owner** of the file.
+
+If the owner exceeds their storage quota, the file remains available to collaborators but opens in **read-only** mode.
+
+.. note::
+  In this state, collaborators cannot modify the document, save changes, or create new versions until the owner is back within quota.
+  Once the owner's storage usage is reduced below the quota limit, the document automatically becomes editable again for all collaborators.
 
 
 Adding Collaborators to a File / Folder

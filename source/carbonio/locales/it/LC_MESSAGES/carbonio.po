@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-07 12:51+0200\n"
 "PO-Revision-Date: 2026-07-08 11:52+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -5642,7 +5642,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:316
 msgid "Subscribe to an external calendar using an ICS URL"
-msgstr ""
+msgstr "Iscriviti a un calendario esterno usando un URL ICS"
 
 #: ../../calendars/toc.rst:318
 msgid ""
@@ -5651,6 +5651,10 @@ msgid ""
 "ensuring that the latest updates from the source calendar are reflected "
 "in Carbonio Webmail."
 msgstr ""
+"Carbonio Webmail consente di iscriversi a calendari esterni tramite un "
+"URL ICS. Dopo l'iscrizione, il calendario viene sincronizzato "
+"automaticamente, garantendo che gli ultimi aggiornamenti dal calendario di "
+"origine siano visualizzati in Carbonio Webmail."
 
 #: ../../calendars/toc.rst:320
 msgid ""
@@ -5658,10 +5662,13 @@ msgid ""
 "ongoing access to an external calendar without performing repeated "
 "imports."
 msgstr ""
+"I calendari iscritti sono in sola lettura e sono adatti agli utenti che "
+"necessitano di accesso continuo a un calendario esterno senza eseguire "
+"importazioni ripetute."
 
 #: ../../calendars/toc.rst:323
 msgid "How to subscribe using a URL"
-msgstr ""
+msgstr "Come iscriversi usando un URL"
 
 #: ../../calendars/toc.rst:325
 msgid "Access **Carbonio Webmail** → **Calendars**."
@@ -5680,10 +5687,13 @@ msgid ""
 "In **Calendar URL**, enter the **ICS URL** of the calendar you want to "
 "subscribe to."
 msgstr ""
+"Nel campo **Calendar URL**, inserisci l'**ICS URL** del calendario a cui "
+"desideri iscriverti."
 
 #: ../../calendars/toc.rst:337
 msgid "Enter a valid URL that links directly to an ``.ics`` calendar file."
 msgstr ""
+"Inserisci un URL valido che punti direttamente a un file calendario ``.ics``."
 
 #: ../../calendars/toc.rst:339
 msgid "Enter the calendar name."
@@ -5702,58 +5712,65 @@ msgid ""
 "If the URL is valid, the calendar appears in your list as a subscribed "
 "calendar."
 msgstr ""
+"Se l'URL è valido, il calendario appare nella tua lista come calendario "
+"iscritto."
 
 #: ../../calendars/toc.rst:351
 msgid "Subscribed calendar vs. ICS import"
-msgstr ""
+msgstr "Calendario iscritto vs. importazione ICS"
 
 #: ../../calendars/toc.rst:353
 msgid "A **subscribed calendar** differs from a traditional **ICS import**:"
 msgstr ""
+"Un **calendario iscritto** differisce da una tradizionale "
+"**importazione ICS**:"
 
 #: ../../calendars/toc.rst:355
 msgid "**Subscribed calendar**"
-msgstr ""
+msgstr "**Calendario iscritto**"
 
 #: ../../calendars/toc.rst:357
 msgid "Connects to an external ICS source via URL."
-msgstr ""
+msgstr "Si collega a una fonte esterna ICS tramite URL."
 
 #: ../../calendars/toc.rst:358
 msgid "Stays synchronized with the source over time."
-msgstr ""
+msgstr "Rimane sincronizzato con la fonte nel tempo."
 
 #: ../../calendars/toc.rst:359
 msgid "Updates automatically without repeated imports."
-msgstr ""
+msgstr "Aggiorna automaticamente senza importazioni ripetute."
 
 #: ../../calendars/toc.rst:361
 msgid "**ICS import**"
-msgstr ""
+msgstr "**Importazione ICS**"
 
 #: ../../calendars/toc.rst:363
 msgid "Adds calendar data as a one-time import."
-msgstr ""
+msgstr "Aggiunge i dati del calendario come importazione una tantum."
 
 #: ../../calendars/toc.rst:364
 msgid "Does not stay connected to the external source."
-msgstr ""
+msgstr "Non rimane connesso alla fonte esterna."
 
 #: ../../calendars/toc.rst:365
 msgid "Changes to the source calendar do not update automatically."
 msgstr ""
+"Le modifiche al calendario di origine non vengono aggiornate automaticamente."
 
 #: ../../calendars/toc.rst:367
 msgid "Use a subscription for ongoing updates. Use import for a static copy."
 msgstr ""
+"Utilizza un’iscrizione per aggiornamenti continui. Usa l’importazione per "
+"una copia statica."
 
 #: ../../calendars/toc.rst:370
 msgid "Synchronization behavior"
-msgstr ""
+msgstr "Comportamento della sincronizzazione"
 
 #: ../../calendars/toc.rst:372
 msgid "Subscribed calendars synchronize automatically every **12 hours**."
-msgstr ""
+msgstr "I calendari iscritti si sincronizzano automaticamente ogni **12 ore**."
 
 #: ../../calendars/toc.rst:373
 msgid ""
@@ -5872,16 +5889,21 @@ msgid ""
 "If a calendar is already subscribed, the system prevents duplicate "
 "subscriptions."
 msgstr ""
+"Se un calendario è già sottoscritto, il sistema impedisce iscrizioni "
+"duplicate."
 
 #: ../../calendars/toc.rst:427
 msgid "Availability"
-msgstr ""
+msgstr "Disponibilità"
 
 #: ../../calendars/toc.rst:429
 msgid ""
 "This feature is available without administrative configuration. No setup "
 "is required to enable subscribed ICS calendars for users."
 msgstr ""
+"Questa funzionalità è disponibile senza configurazione amministrativa. Non è "
+"necessaria alcuna impostazione per abilitare i calendari ICS sottoscritti "
+"per gli utenti."
 
 #: ../../calendars/toc.rst:432
 msgid "Creating Calendar Groups"
@@ -7751,7 +7773,7 @@ msgstr ""
 
 #: ../../contacts/toc.rst:50 ../../contacts/toc.rst:196
 msgid "Fields marked with an asterisk (``*``) are mandatory."
-msgstr ""
+msgstr "I campi contrassegnati da asterisco (``*``) sono obbligatori."
 
 #: ../../contacts/toc.rst:56
 msgid "Editing a Contact"
@@ -8156,6 +8178,8 @@ msgid ""
 "To control what you see in **Contacts**, use the **View Filter** to "
 "display:"
 msgstr ""
+"Per controllare ciò che vedi in **Contatti**, utilizza il **Filtro "
+"visualizzazione** per mostrare:"
 
 #: ../../contacts/toc.rst:230
 msgid "**Only Contacts**"
@@ -8455,6 +8479,9 @@ msgid ""
 "offers a user-friendly platform for uploading, creating, and organizing "
 "your digital documents."
 msgstr ""
+"Files è progettato per semplificare la gestione dei file. Files offre una "
+"piattaforma intuitiva per caricare, creare e organizzare i documenti "
+"digitali."
 
 #: ../../files/toc.rst:16
 msgid ""
@@ -8462,6 +8489,8 @@ msgid ""
 "files in order, Files allows you to effortlessly share and manage your "
 "documents and images."
 msgstr ""
+"Che tu collabori con i colleghi o semplicemente organizzi i tuoi file, Files "
+"consente di condividere e gestire documenti e immagini senza sforzo."
 
 #: ../../files/toc.rst:19
 msgid ""
@@ -8469,6 +8498,9 @@ msgid ""
 "upload files from your computer, save email attachments, and even "
 "generate new documents."
 msgstr ""
+"Grazie all’interfaccia intuitiva, puoi creare facilmente più cartelle, "
+"caricare file dal computer, salvare allegati email e persino generare nuovi "
+"documenti."
 
 #: ../../files/toc.rst:22
 msgid ""
@@ -8478,6 +8510,11 @@ msgid ""
 "this mode you will see all the files and folders as thumbnails, instead "
 "of the vertical list."
 msgstr ""
+"Facendo clic sull’icona Files, accedi alla vista del modulo Files: puoi "
+"selezionare il pulsante layout a griglia in alto a destra dell’intestazione "
+"elenco per passare dalla modalità elenco a quella a griglia. In questa "
+"modalità i file e le cartelle vengono visualizzati come miniature, anziché "
+"in lista verticale."
 
 #: ../../files/toc.rst:27
 msgid ""
@@ -9455,12 +9492,16 @@ msgid ""
 "When a file is shared, storage consumption and edit activity are "
 "attributed to the **owner** of the file."
 msgstr ""
+"Quando un file è condiviso, il consumo di spazio e le attività di modifica "
+"sono attribuiti al **proprietario** del file."
 
 #: ../../files/toc.rst:417
 msgid ""
 "If the owner exceeds their storage quota, the file remains available to "
 "collaborators but opens in **read-only** mode."
 msgstr ""
+"Se il proprietario supera la quota di spazio, il file rimane disponibile per "
+"i collaboratori ma si apre in modalità **sola lettura**."
 
 #: ../../files/toc.rst:420
 msgid ""
@@ -9469,6 +9510,11 @@ msgid ""
 "owner's storage usage is reduced below the quota limit, the document "
 "automatically becomes editable again for all collaborators."
 msgstr ""
+"In questo stato, i collaboratori non possono modificare il documento, "
+"salvare modifiche o creare nuove versioni finché il proprietario non rientra "
+"nella quota. Quando l’utilizzo di spazio del proprietario scende al di sotto "
+"del limite, il documento diventa nuovamente modificabile per tutti i "
+"collaboratori."
 
 #: ../../files/toc.rst:425
 msgid "Adding Collaborators to a File / Folder"

@@ -428,6 +428,38 @@ Availability
 
 This feature is available without administrative configuration. No setup is required to enable subscribed ICS calendars for users.
 
+Add a CalDAV external calendar
+==============================
+The **Add external calendars** feature allows you to connect a calendar from an external **CalDAV** service to Zextras. 
+Once added, the external calendar appears alongside your existing calendars, making it easier to view and manage all your events in one place.
+Added calendars are read-only and sync automatically at regular intervals. You can add a calendar from an external CalDAV service to view it alongside your other calendars.
+
+To add an external calendar:
+----------------------------
+1. Open **Calendar**.
+2. Click **Add external calendars**.
+3. In **Type**, select **CalDAV**.
+4. In **Host address**, enter the CalDAV server address provided by your calendar service.
+   
+   * Example: calendar.example.com
+   * In some cases, you may need to enter the full CalDAV URL.
+  
+5. In **Calendars’ name**, enter a name to help you identify the calendar source.
+6. Enter your **Username**.
+7. Enter your **Password**.
+8. If the server does not require login credentials, enable **This host does not require credentials**.
+9. Click **Add**.
+
+.. image:: /img/caldav-external-calendar.png
+                :align: center
+                :width: 70%
+                
+.. note::
+
+   - Added calendars are read-only. 
+   - Calendars sync automatically every 12 hours.
+
+
 Creating Calendar Groups
 ========================
 

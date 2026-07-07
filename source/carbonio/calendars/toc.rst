@@ -310,37 +310,155 @@ How to Share Free/Busy Status
 2. Share it with external users.
 3. They can view availability without accessing event details.
 
-Upcoming Improvements: Dedicated Sharing Modal
-===============================================
+.. _subscribe-external-calendar-ics-url:
 
-To improve clarity and avoid stacked modals:
+Subscribe to an external calendar using an ICS URL
+===================================================
 
-- The sharing process will be moved into a **single dedicated modal**.
-- A new dedicated entry in the contextual menu will open the sharing modal.
-- The **Edit Calendar** modal will remain separate and no longer include sharing options.
-- This ensures a faster, simpler, and more intuitive workflow.
+Carbonio Webmail allows you to subscribe to external calendars by using an ICS URL. Once subscribed, the calendar is synchronized automatically, ensuring that the latest updates from the source calendar are reflected in Carbonio Webmail.
+
+Subscribed calendars are read-only and are suitable for users who need ongoing access to an external calendar without performing repeated imports.
+
+How to subscribe using a URL
+-----------------------------
+
+#. Access **Carbonio Webmail** → **Calendars**.
+#. Right-click **Calendar**, then select **Add external calendars**.
+
+  .. image:: /img/add-external-calendar.png
+                :align: center
+                :width: 70%
+
+#. In **Type**, select **ICS** from the drop-down list.
+#. In **Calendar URL**, enter the **ICS URL** of the calendar you want to subscribe to.
+
+   .. note::
+
+      Enter a valid URL that links directly to an ``.ics`` calendar file.
+
+#. Enter the calendar name.
+#. Choose a color in **Select Color**.
+#. Click **Add**.
+
+  .. image:: /img/config-ics-calendar.png
+                :align: center
+                :width: 70%
 
 
-Security & Privacy
+If the URL is valid, the calendar appears in your list as a subscribed calendar.
 
-#. External users cannot edit calendars - all shared calendars are read-only
-#. Free/Busy sharing provides view-only access to availability
-#. No sensitive data (event details) is shared with Free/Busy status
-#. Sharing settings can be modified at any time
+Subscribed calendar vs. ICS import
+-----------------------------------
 
-Use Cases
+A **subscribed calendar** differs from a traditional **ICS import**:
 
-Partner collaboration: Share availability with business partners
-Vendor coordination: Allow vendors to check your schedule
-External meeting scheduling: Enable external users to find available time slots
+**Subscribed calendar**
 
-Supported Clients
+* Connects to an external ICS source via URL.
+* Stays synchronized with the source over time.
+* Updates automatically without repeated imports.
 
-Google Calendar
-Apple Calendar
-Microsoft Outlook
-Thunderbird
-Any calendar application supporting ICS/iCal format
+**ICS import**
+
+* Adds calendar data as a one-time import.
+* Does not stay connected to the external source.
+* Changes to the source calendar do not update automatically.
+
+Use a subscription for ongoing updates. Use import for a static copy.
+
+Synchronization behavior
+------------------------
+
+* Subscribed calendars synchronize automatically every **12 hours**.
+* Changes made to the external ICS calendar are periodically fetched and shown in your subscribed calendar.
+
+Manual synchronization
+----------------------
+
+You can also trigger synchronization manually:
+
+#. Locate the subscribed calendar in your list.
+#. Right-click the calendar and select **Sync**.
+
+This forces an immediate update from the external ICS source.
+
+Delete a calendar
+-----------------
+
+If you remove a calendar and want to add another calendar with the same name, you must first permanently delete the original calendar.
+
+Visual indicators
+------------------
+
+Subscribed calendars and their events are visually distinct from other calendar items.
+
+* **Subscribed calendars** have a dedicated indicator in the calendar list.
+* **Events from subscribed calendars** display a visual marker, indicating that they come from an external subscription.
+
+These indicators help distinguish subscribed content from personal or imported calendars.
+
+Read-only behavior
+------------------
+
+Subscribed calendars are read-only. This means:
+
+* You cannot create new events in a subscribed calendar.
+* You cannot edit or delete events in the subscribed calendar.
+* Make changes only in the original external calendar source.
+
+URL validation and duplicate subscriptions
+------------------------------------------
+
+The system validates the URL when you subscribe to an external calendar.
+
+URL requirements
+~~~~~~~~~~~~~~~~~
+
+* The URL must be a valid ICS feed URL.
+* Invalid or unsupported URLs cannot be subscribed to.
+
+Duplicate subscription restrictions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* You cannot subscribe to the same external calendar URL more than once.
+* If a calendar is already subscribed, the system prevents duplicate subscriptions.
+
+Availability
+------------
+
+This feature is available without administrative configuration. No setup is required to enable subscribed ICS calendars for users.
+
+Add a CalDAV external calendar
+==============================
+The **Add external calendars** feature allows you to connect a calendar from an external **CalDAV** service to Zextras. 
+Once added, the external calendar appears alongside your existing calendars, making it easier to view and manage all your events in one place.
+Added calendars are read-only and sync automatically at regular intervals. You can add a calendar from an external CalDAV service to view it alongside your other calendars.
+
+To add an external calendar:
+----------------------------
+1. Open **Calendar**.
+2. Click **Add external calendars**.
+3. In **Type**, select **CalDAV**.
+4. In **Host address**, enter the CalDAV server address provided by your calendar service.
+   
+   * Example: calendar.example.com
+   * In some cases, you may need to enter the full CalDAV URL.
+  
+5. In **Calendars’ name**, enter a name to help you identify the calendar source.
+6. Enter your **Username**.
+7. Enter your **Password**.
+8. If the server does not require login credentials, enable **This host does not require credentials**.
+9. Click **Add**.
+
+.. image:: /img/caldav-external-calendar.png
+                :align: center
+                :width: 70%
+                
+.. note::
+
+   - Added calendars are read-only. 
+   - Calendars sync automatically every 12 hours.
+
 
 Creating Calendar Groups
 ========================

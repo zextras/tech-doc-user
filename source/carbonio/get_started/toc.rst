@@ -159,7 +159,9 @@ The error will prompt you to **contact your system administrator**. In this scen
 Changing Your Password
 ======================
 
-Resetting a password becomes necessary when you want to update your existing password due to security reasons or any other relevant factors. To change your password, you must be logged into your account. Here are the steps to change your password:
+Resetting a password becomes necessary when you want to update your existing password due to security reasons or any other relevant factors. To change your password, you must be logged into your account. You can change your password in two ways: through **Settings** or directly via the **User Account** menu.
+
+**Option 1: Changing Password via Settings**
 
 1.	Log into your account.
 2.	Click on the **settings** (gear icon) located in the left sidebar.
@@ -172,11 +174,24 @@ Resetting a password becomes necessary when you want to update your existing pas
         :align: center
         :width: 100%
 
+**Option 2: Changing Password via User Account Menu**
+
+1.	Click the **User icon** in the top‑right corner.
+2.	Select the **Change password** option.
+3.  You will be taken directly to the **Auth section in Settings**, which is dedicated to password changes.
+4.  Enter your current password and then your new password.
+5.  Click the **CHANGE PASSWORD** button to confirm.
+6.  You will receive a confirmation message indicating that your password has been successfully changed.
+   
+    .. image:: /img/change-password-user.png
+        :align: center
+        :width: 60%
+
 
 Introduction of |product| Web Client
 ====================================
 
-When you log in to check your emails, the **|product| web client interface** greets you with the following components:
+When you log in to check your emails, the |product| **web client interface** greets you with the following components:
 
     .. image:: /img/interface.png
         :align: center
@@ -186,6 +201,7 @@ When you log in to check your emails, the **|product| web client interface** gre
 1.	**Left Sidebar**: This section provides navigation options and quick access to various features such as Mails, Calendars, Contacts, etc.
 2.	**Navigation Panel**: Here, you will find additional context related to the active feature you have selected from the left sidebar. For example, if you select “Mails” from the left sidebar, you will find access to your inboxes and email folders here.
 3.	**Main Panel**: The central area displays your actual content related to the active feature you have selected from the left sidebar. For example, if you select “Mails” from the left sidebar, you will see your emails in this area; similarly, choosing “Calendars” will display your calendar events.
+4.  **Storage Quota**: Displays your overall storage usage across Carbonio modules, including Mail, Files, and Chats. It shows the used space compared with the total available quota, together with a progress bar to help you quickly monitor your storage consumption.
 
 Using Browser Buttons to Navigate |product|
 ===========================================
@@ -248,19 +264,19 @@ Remember, if you prefer automatic resizing based on the device, you can leave th
             :width: 100%
 
 
-Changing Your Time Zone
-=======================
+Manage time zones in |product| for accurate collaboration
+=========================================================
 
-As a digital workspace, |product| relies on precise time zone settings to ensure optimal performance for calendars and other features like emails, guaranteeing accurate timestamps. This becomes particularly crucial when collaborating with colleagues across different countries and time zones. To change your time zone, follow these steps:
+|product| relies on accurate time zone settings to ensure correct timestamps for calendars, emails, and other features.
 
-1.	Open the **Settings** (gear icon) from the left sidebar.
-2.	Select General Settings.
-3.	Under the **Time Zone and Language** section select the dropdown menu for **Time Zone** and choose your time zone.
-4.	Click **SAVE** in the top right corner.
+This is particularly important when collaborating across different countries and time zones.
+By default, |product| uses the time zone configured on your **operating system**.
 
-    .. image:: /img/time-zone.png
-            :align: center
-            :width: 100%
+To display a different time zone in the |product| interface, update your system’s time zone settings.
+
+|product| will then automatically apply the updated system time zone.
+
+
 
 
 Changing |product| Language
@@ -270,7 +286,7 @@ To change your |product| web client language, follow these steps:
 
 1.	Open the **Settings** (gear icon) from the left sidebar.
 2.	Select General Settings.
-3.	Under the **Time Zone and Language** section select the dropdown menu for **Language** and choose your language.
+3.	Under the **Language** section select the dropdown menu for **Language** and choose your language.
 4.	Click **SAVE** in the top right corner.
 
 Accessing Multiple Accounts

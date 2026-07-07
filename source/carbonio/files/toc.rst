@@ -400,6 +400,14 @@ This section allows you to generate different links for a file or folder, enabli
 
 This section allows you to generate different links for a file or folder, enabling you to send these links to external users. The generated link provides access for anyone with the link to view and download the content of the file or folder. It is now also possible for external users to download the entire folder as a compressed ZIP archive.
 
+Shared Files and Storage Quotas
+-------------------------------
+When a file is shared, storage consumption and edit activity are attributed to the owner of the file. 
+If the owner exceeds their storage quota, the file remains available to collaborators but opens in read-only mode. 
+In this state, collaborators cannot modify the document, save changes, or create new versions until the owner is back within quota. 
+Once the owner’s storage usage is reduced below the quota limit, the document automatically becomes editable again for all collaborators. 
+This behavior is applied automatically and does not require any additional configuration or service restart.
+
 
 Adding Collaborators to a File / Folder
 =======================================

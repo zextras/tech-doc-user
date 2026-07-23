@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-07-07 12:51+0200\n"
-"PO-Revision-Date: 2026-07-08 11:52+0000\n"
+"PO-Revision-Date: 2026-07-24 11:52+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
@@ -5668,6 +5668,8 @@ msgid ""
 "Changes made to the external ICS calendar are periodically fetched and "
 "shown in your subscribed calendar."
 msgstr ""
+"Les modifications apportées au calendrier ICS externe sont récupérées "
+"périodiquement et affichées dans votre calendrier abonné."
 
 #: ../../calendars/toc.rst:376
 msgid "Manual synchronization"
@@ -5675,7 +5677,7 @@ msgstr "Notification d’e‑mail"
 
 #: ../../calendars/toc.rst:378
 msgid "You can also trigger synchronization manually:"
-msgstr ""
+msgstr "Vous pouvez également déclencher la synchronisation manuellement :"
 
 #: ../../calendars/toc.rst:380
 msgid "Locate the subscribed calendar in your list."
@@ -5689,7 +5691,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:383
 msgid "This forces an immediate update from the external ICS source."
-msgstr ""
+msgstr "Cela force une mise à jour immédiate depuis la source ICS externe."
 
 #: ../../calendars/toc.rst:386
 msgid "Delete a calendar"
@@ -5700,60 +5702,77 @@ msgid ""
 "If you remove a calendar and want to add another calendar with the same "
 "name, you must first permanently delete the original calendar."
 msgstr ""
+"Si vous supprimez un calendrier et souhaitez en ajouter un autre avec le "
+"même nom, vous devez d’abord supprimer de façon permanente le calendrier "
+"d’origine."
 
 #: ../../calendars/toc.rst:391
 msgid "Visual indicators"
-msgstr ""
+msgstr "Indicateurs visuels"
 
 #: ../../calendars/toc.rst:393
 msgid ""
 "Subscribed calendars and their events are visually distinct from other "
 "calendar items."
 msgstr ""
+"Les calendriers abonnés et leurs événements sont visuellement distincts des "
+"autres éléments du calendrier."
 
 #: ../../calendars/toc.rst:395
 msgid "**Subscribed calendars** have a dedicated indicator in the calendar list."
 msgstr ""
+"**Calendriers abonnés** disposent d’un indicateur dédié dans la liste des "
+"calendriers."
 
 #: ../../calendars/toc.rst:396
 msgid ""
 "**Events from subscribed calendars** display a visual marker, indicating "
 "that they come from an external subscription."
 msgstr ""
+"**Événements provenant de calendriers abonnés** affichent un marqueur "
+"visuel, indiquant qu’ils proviennent d’une abonnement externe."
 
 #: ../../calendars/toc.rst:398
 msgid ""
 "These indicators help distinguish subscribed content from personal or "
 "imported calendars."
 msgstr ""
+"Ces indicateurs permettent de différencier le contenu abonné des calendriers "
+"personnels ou importés."
 
 #: ../../calendars/toc.rst:401
 msgid "Read-only behavior"
-msgstr ""
+msgstr "Comportement en lecture seule"
 
 #: ../../calendars/toc.rst:403
 msgid "Subscribed calendars are read-only. This means:"
-msgstr ""
+msgstr "Les calendriers abonnés sont en lecture seule. Cela signifie :"
 
 #: ../../calendars/toc.rst:405
 msgid "You cannot create new events in a subscribed calendar."
 msgstr ""
+"Vous ne pouvez pas créer de nouveaux événements dans un calendrier abonné."
 
 #: ../../calendars/toc.rst:406
 msgid "You cannot edit or delete events in the subscribed calendar."
 msgstr ""
+"Vous ne pouvez pas modifier ou supprimer des événements dans le calendrier "
+"abonné."
 
 #: ../../calendars/toc.rst:407
 msgid "Make changes only in the original external calendar source."
 msgstr ""
+"Apportez les modifications uniquement dans la source du calendrier externe "
+"d’origine."
 
 #: ../../calendars/toc.rst:410
 msgid "URL validation and duplicate subscriptions"
-msgstr ""
+msgstr "Validation d’URL et abonnements en double"
 
 #: ../../calendars/toc.rst:412
 msgid "The system validates the URL when you subscribe to an external calendar."
 msgstr ""
+"Le système valide l’URL lors de votre abonnement à un calendrier externe."
 
 #: ../../calendars/toc.rst:415
 msgid "URL requirements"
@@ -5761,19 +5780,21 @@ msgstr "Requirements for S/MIME"
 
 #: ../../calendars/toc.rst:417
 msgid "The URL must be a valid ICS feed URL."
-msgstr ""
+msgstr "L’URL doit être une URL de flux ICS valide."
 
 #: ../../calendars/toc.rst:418
 msgid "Invalid or unsupported URLs cannot be subscribed to."
-msgstr ""
+msgstr "Les URL invalides ou non prises en charge ne peuvent pas être abonnées."
 
 #: ../../calendars/toc.rst:421
 msgid "Duplicate subscription restrictions"
-msgstr ""
+msgstr "Restrictions d’abonnement en double"
 
 #: ../../calendars/toc.rst:423
 msgid "You cannot subscribe to the same external calendar URL more than once."
 msgstr ""
+"Vous ne pouvez pas vous abonner plusieurs fois à la même URL de calendrier "
+"externe."
 
 #: ../../calendars/toc.rst:424
 msgid ""

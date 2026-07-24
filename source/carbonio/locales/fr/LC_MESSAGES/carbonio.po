@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-07-07 12:51+0200\n"
-"PO-Revision-Date: 2026-06-10 12:52+0000\n"
+"PO-Revision-Date: 2026-07-24 11:52+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Language-Team: French <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
-"Language-Team: French "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/fr/>\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -5531,7 +5531,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:316
 msgid "Subscribe to an external calendar using an ICS URL"
-msgstr ""
+msgstr "S'abonner à un calendrier externe via une URL ICS"
 
 #: ../../calendars/toc.rst:318
 msgid ""
@@ -5540,6 +5540,10 @@ msgid ""
 "ensuring that the latest updates from the source calendar are reflected "
 "in Carbonio Webmail."
 msgstr ""
+"Carbonio Webmail vous permet de vous abonner à des calendriers externes en "
+"utilisant une URL ICS. Une fois abonné, le calendrier est synchronisé "
+"automatiquement, garantissant que les dernières mises à jour du calendrier "
+"source soient reflétées dans Carbonio Webmail."
 
 #: ../../calendars/toc.rst:320
 msgid ""
@@ -5547,23 +5551,23 @@ msgid ""
 "ongoing access to an external calendar without performing repeated "
 "imports."
 msgstr ""
+"Les calendriers abonnés sont en lecture seule et conviennent aux "
+"utilisateurs qui ont besoin d’un accès continu à un calendrier externe sans "
+"réaliser d’importations répétées."
 
 #: ../../calendars/toc.rst:323
 msgid "How to subscribe using a URL"
-msgstr ""
+msgstr "Comment s’abonner via une URL"
 
 #: ../../calendars/toc.rst:325
-#, fuzzy
 msgid "Access **Carbonio Webmail** → **Calendars**."
 msgstr "Accédez à *Carbonio Webmail → Calendars*."
 
 #: ../../calendars/toc.rst:326
-#, fuzzy
 msgid "Right-click **Calendar**, then select **Add external calendars**."
 msgstr "Cliquez droit sur le calendrier partagé."
 
 #: ../../calendars/toc.rst:332
-#, fuzzy
 msgid "In **Type**, select **ICS** from the drop-down list."
 msgstr "Sélectionnez **Edit** dans le menu déroulant."
 
@@ -5572,23 +5576,24 @@ msgid ""
 "In **Calendar URL**, enter the **ICS URL** of the calendar you want to "
 "subscribe to."
 msgstr ""
+"Dans **Calendar URL**, saisissez l’**ICS URL** du calendrier auquel vous "
+"souhaitez vous abonner."
 
 #: ../../calendars/toc.rst:337
 msgid "Enter a valid URL that links directly to an ``.ics`` calendar file."
 msgstr ""
+"Saisissez une URL valide pointant directement vers un fichier de calendrier "
+"``.ics``."
 
 #: ../../calendars/toc.rst:339
-#, fuzzy
 msgid "Enter the calendar name."
 msgstr "Saisissez un nom de dossier."
 
 #: ../../calendars/toc.rst:340
-#, fuzzy
 msgid "Choose a color in **Select Color**."
 msgstr "Choisissez une couleur dans le champ **Calendar color**."
 
 #: ../../calendars/toc.rst:341
-#, fuzzy
 msgid "Click **Add**."
 msgstr "Cliquez sur **ADD**."
 
@@ -5597,92 +5602,98 @@ msgid ""
 "If the URL is valid, the calendar appears in your list as a subscribed "
 "calendar."
 msgstr ""
+"Si l’URL est valide, le calendrier apparaît dans votre liste en tant que "
+"calendrier abonné."
 
 #: ../../calendars/toc.rst:351
 msgid "Subscribed calendar vs. ICS import"
-msgstr ""
+msgstr "Calendrier abonné vs. import ICS"
 
 #: ../../calendars/toc.rst:353
 msgid "A **subscribed calendar** differs from a traditional **ICS import**:"
-msgstr ""
+msgstr "Un **calendrier abonné** diffère d’un **import ICS** traditionnel :"
 
 #: ../../calendars/toc.rst:355
 msgid "**Subscribed calendar**"
-msgstr ""
+msgstr "**Calendrier abonné**"
 
 #: ../../calendars/toc.rst:357
 msgid "Connects to an external ICS source via URL."
-msgstr ""
+msgstr "Se connecte à une source externe ICS via une URL."
 
 #: ../../calendars/toc.rst:358
 msgid "Stays synchronized with the source over time."
-msgstr ""
+msgstr "Reste synchronisé avec la source dans le temps."
 
 #: ../../calendars/toc.rst:359
 msgid "Updates automatically without repeated imports."
-msgstr ""
+msgstr "Se met à jour automatiquement sans importations répétées."
 
 #: ../../calendars/toc.rst:361
 msgid "**ICS import**"
-msgstr ""
+msgstr "**Import ICS**"
 
 #: ../../calendars/toc.rst:363
 msgid "Adds calendar data as a one-time import."
-msgstr ""
+msgstr "Ajoute les données du calendrier lors d’un import unique."
 
 #: ../../calendars/toc.rst:364
 msgid "Does not stay connected to the external source."
-msgstr ""
+msgstr "Ne reste pas connecté à la source externe."
 
 #: ../../calendars/toc.rst:365
 msgid "Changes to the source calendar do not update automatically."
 msgstr ""
+"Les modifications du calendrier source ne sont pas mises à jour "
+"automatiquement."
 
 #: ../../calendars/toc.rst:367
 msgid "Use a subscription for ongoing updates. Use import for a static copy."
 msgstr ""
+"Utilisez un abonnement pour des mises à jour continues. Utilisez l’import "
+"pour une copie statique."
 
 #: ../../calendars/toc.rst:370
 msgid "Synchronization behavior"
-msgstr ""
+msgstr "Comportement de synchronisation"
 
 #: ../../calendars/toc.rst:372
 msgid "Subscribed calendars synchronize automatically every **12 hours**."
 msgstr ""
+"Les calendriers abonnés se synchronisent automatiquement toutes les "
+"**12 heures**."
 
 #: ../../calendars/toc.rst:373
 msgid ""
 "Changes made to the external ICS calendar are periodically fetched and "
 "shown in your subscribed calendar."
 msgstr ""
+"Les modifications apportées au calendrier ICS externe sont récupérées "
+"périodiquement et affichées dans votre calendrier abonné."
 
 #: ../../calendars/toc.rst:376
-#, fuzzy
 msgid "Manual synchronization"
 msgstr "Notification d’e‑mail"
 
 #: ../../calendars/toc.rst:378
 msgid "You can also trigger synchronization manually:"
-msgstr ""
+msgstr "Vous pouvez également déclencher la synchronisation manuellement :"
 
 #: ../../calendars/toc.rst:380
-#, fuzzy
 msgid "Locate the subscribed calendar in your list."
 msgstr "Le calendrier partagé apparaîtra dans votre liste."
 
 #: ../../calendars/toc.rst:381
-#, fuzzy
 msgid "Right-click the calendar and select **Sync**."
 msgstr ""
-"Cliquez droit sur le nouveau calendrier et choisissez l’option « Import "
-"ICS file »."
+"Cliquez droit sur le nouveau calendrier et choisissez l’option « Import ICS "
+"file »."
 
 #: ../../calendars/toc.rst:383
 msgid "This forces an immediate update from the external ICS source."
-msgstr ""
+msgstr "Cela force une mise à jour immédiate depuis la source ICS externe."
 
 #: ../../calendars/toc.rst:386
-#, fuzzy
 msgid "Delete a calendar"
 msgstr "Pour supprimer un calendrier :"
 
@@ -5691,97 +5702,119 @@ msgid ""
 "If you remove a calendar and want to add another calendar with the same "
 "name, you must first permanently delete the original calendar."
 msgstr ""
+"Si vous supprimez un calendrier et souhaitez en ajouter un autre avec le "
+"même nom, vous devez d’abord supprimer de façon permanente le calendrier "
+"d’origine."
 
 #: ../../calendars/toc.rst:391
 msgid "Visual indicators"
-msgstr ""
+msgstr "Indicateurs visuels"
 
 #: ../../calendars/toc.rst:393
 msgid ""
 "Subscribed calendars and their events are visually distinct from other "
 "calendar items."
 msgstr ""
+"Les calendriers abonnés et leurs événements sont visuellement distincts des "
+"autres éléments du calendrier."
 
 #: ../../calendars/toc.rst:395
 msgid "**Subscribed calendars** have a dedicated indicator in the calendar list."
 msgstr ""
+"**Calendriers abonnés** disposent d’un indicateur dédié dans la liste des "
+"calendriers."
 
 #: ../../calendars/toc.rst:396
 msgid ""
 "**Events from subscribed calendars** display a visual marker, indicating "
 "that they come from an external subscription."
 msgstr ""
+"**Événements provenant de calendriers abonnés** affichent un marqueur "
+"visuel, indiquant qu’ils proviennent d’une abonnement externe."
 
 #: ../../calendars/toc.rst:398
 msgid ""
 "These indicators help distinguish subscribed content from personal or "
 "imported calendars."
 msgstr ""
+"Ces indicateurs permettent de différencier le contenu abonné des calendriers "
+"personnels ou importés."
 
 #: ../../calendars/toc.rst:401
 msgid "Read-only behavior"
-msgstr ""
+msgstr "Comportement en lecture seule"
 
 #: ../../calendars/toc.rst:403
 msgid "Subscribed calendars are read-only. This means:"
-msgstr ""
+msgstr "Les calendriers abonnés sont en lecture seule. Cela signifie :"
 
 #: ../../calendars/toc.rst:405
 msgid "You cannot create new events in a subscribed calendar."
 msgstr ""
+"Vous ne pouvez pas créer de nouveaux événements dans un calendrier abonné."
 
 #: ../../calendars/toc.rst:406
 msgid "You cannot edit or delete events in the subscribed calendar."
 msgstr ""
+"Vous ne pouvez pas modifier ou supprimer des événements dans le calendrier "
+"abonné."
 
 #: ../../calendars/toc.rst:407
 msgid "Make changes only in the original external calendar source."
 msgstr ""
+"Apportez les modifications uniquement dans la source du calendrier externe "
+"d’origine."
 
 #: ../../calendars/toc.rst:410
 msgid "URL validation and duplicate subscriptions"
-msgstr ""
+msgstr "Validation d’URL et abonnements en double"
 
 #: ../../calendars/toc.rst:412
 msgid "The system validates the URL when you subscribe to an external calendar."
 msgstr ""
+"Le système valide l’URL lors de votre abonnement à un calendrier externe."
 
 #: ../../calendars/toc.rst:415
-#, fuzzy
 msgid "URL requirements"
 msgstr "Requirements for S/MIME"
 
 #: ../../calendars/toc.rst:417
 msgid "The URL must be a valid ICS feed URL."
-msgstr ""
+msgstr "L’URL doit être une URL de flux ICS valide."
 
 #: ../../calendars/toc.rst:418
 msgid "Invalid or unsupported URLs cannot be subscribed to."
-msgstr ""
+msgstr "Les URL invalides ou non prises en charge ne peuvent pas être abonnées."
 
 #: ../../calendars/toc.rst:421
 msgid "Duplicate subscription restrictions"
-msgstr ""
+msgstr "Restrictions d’abonnement en double"
 
 #: ../../calendars/toc.rst:423
 msgid "You cannot subscribe to the same external calendar URL more than once."
 msgstr ""
+"Vous ne pouvez pas vous abonner plusieurs fois à la même URL de calendrier "
+"externe."
 
 #: ../../calendars/toc.rst:424
 msgid ""
 "If a calendar is already subscribed, the system prevents duplicate "
 "subscriptions."
 msgstr ""
+"Si un agenda est déjà abonné, le système empêche les abonnements en double."
 
 #: ../../calendars/toc.rst:427
 msgid "Availability"
-msgstr ""
+msgstr "Disponibilité"
 
 #: ../../calendars/toc.rst:429
 msgid ""
 "This feature is available without administrative configuration. No setup "
 "is required to enable subscribed ICS calendars for users."
 msgstr ""
+"Cette fonctionnalité est disponible sans configuration administrative. Aucun "
+"paramétrage n’est nécessaire pour activer les agendas ICS abonnés pour les "
+"utilisateurs."
 
 #: ../../calendars/toc.rst:432
 msgid "Creating Calendar Groups"
@@ -7521,7 +7554,6 @@ msgid "Working with Contacts"
 msgstr "Gestion des contacts"
 
 #: ../../contacts/toc.rst:9
-#, fuzzy
 msgid ""
 "Managing your contacts is essential for staying connected and organized. "
 "This section explains the features and functionalities of the Contacts "
@@ -7532,20 +7564,17 @@ msgstr ""
 "Gérer vos contacts est essentiel pour rester connecté et organisé. Dans "
 "cette section, nous vous guidons à travers les fonctionnalités du module "
 "Contacts de notre plateforme webmail. Que vous suiviez des relations "
-"personnelles, professionnelles ou clients, |product| facilite le "
-"stockage, l’organisation et l’accès à vos contacts en toute simplicité."
+"personnelles, professionnelles ou clients, |product| facilite le stockage, "
+"l’organisation et l’accès à vos contacts en toute simplicité."
 
 #: ../../contacts/toc.rst:17
-#, fuzzy
 msgid "Accessing Contact Book"
 msgstr "Accéder à votre carnet d’adresses"
 
 #: ../../contacts/toc.rst:19
-#, fuzzy
 msgid "In the contacts section, you will find two primary address books:"
 msgstr ""
-"Dans la section Contacts, vous trouverez deux carnets d’adresses "
-"principaux :"
+"Dans la section Contacts, vous trouverez deux carnets d’adresses principaux :"
 
 #: ../../contacts/toc.rst:21
 msgid ""
@@ -7568,16 +7597,13 @@ msgid "To access your existing **Contacts list**:"
 msgstr "Pour accéder à votre **liste de contacts** existante :"
 
 #: ../../contacts/toc.rst:26
-#, fuzzy
 msgid "From the left sidebar click the **Contacts**."
 msgstr "Dans la barre latérale gauche, cliquez sur la section **Contacts**."
 
 #: ../../contacts/toc.rst:27
-#, fuzzy
 msgid "In the Navigation Panel, click the **Contacts** address book."
 msgstr ""
-"Dans le panneau de navigation, cliquez sur le carnet d'adresses "
-"**Contacts**."
+"Dans le panneau de navigation, cliquez sur le carnet d'adresses **Contacts**."
 
 #: ../../contacts/toc.rst:29
 msgid ""
@@ -7595,16 +7621,14 @@ msgid "To access emailed contacts:"
 msgstr "Pour accéder aux contacts par e‑mail :"
 
 #: ../../contacts/toc.rst:33
-#, fuzzy
 msgid "From the left sidebar click the **Contacts** section."
 msgstr "Dans la barre latérale gauche, cliquez sur la section **Contacts**."
 
 #: ../../contacts/toc.rst:34
-#, fuzzy
 msgid "In the Navigation Panel, click the **Emailed Contacts** address book."
 msgstr ""
-"Dans le panneau de navigation, cliquez sur le carnet d'adresses **Emailed"
-" Contacts**."
+"Dans le panneau de navigation, cliquez sur le carnet d'adresses **Emailed "
+"Contacts**."
 
 #: ../../contacts/toc.rst:36
 msgid ""
@@ -7637,7 +7661,6 @@ msgid "Select the **Contacts** from your left sidebar."
 msgstr "Sélectionnez **Contacts** dans la barre latérale gauche."
 
 #: ../../contacts/toc.rst:44
-#, fuzzy
 msgid "Click the **NEW** button located on the top bar. A new board will appear."
 msgstr ""
 "Cliquez sur le bouton **NEW** situé dans la barre supérieure. Un nouveau "
@@ -7661,7 +7684,7 @@ msgstr "Cliquez sur le bouton **SAVE** en haut à droite du tableau."
 
 #: ../../contacts/toc.rst:50 ../../contacts/toc.rst:196
 msgid "Fields marked with an asterisk (``*``) are mandatory."
-msgstr ""
+msgstr "Les champs marqués d’un astérisque (``*``) sont obligatoires."
 
 #: ../../contacts/toc.rst:56
 msgid "Editing a Contact"
@@ -7681,7 +7704,6 @@ msgstr ""
 "contenant le contact à modifier."
 
 #: ../../contacts/toc.rst:62
-#, fuzzy
 msgid "Locate and click the contact you wish to edit from the main panel."
 msgstr "Repérez et cliquez sur le contact à modifier dans le panneau principal."
 
@@ -7702,11 +7724,10 @@ msgid "To assign a tag to an existing contact:"
 msgstr "Pour assigner une étiquette à un contact existant :"
 
 #: ../../contacts/toc.rst:74
-#, fuzzy
 msgid "Locate and right-click the contact you want to edit from the main panel."
 msgstr ""
-"Localisez et faites un clic droit sur le contact que vous souhaitez "
-"modifier depuis le panneau principal."
+"Localisez et faites un clic droit sur le contact que vous souhaitez modifier "
+"depuis le panneau principal."
 
 #: ../../contacts/toc.rst:75
 msgid "Choose the tag you wish to assign to the contact from the drop-down menu."
@@ -7721,14 +7742,12 @@ msgid "To delete an existing contact:"
 msgstr "Pour supprimer un contact existant :"
 
 #: ../../contacts/toc.rst:84
-#, fuzzy
 msgid "Locate and right-click the contact you wish to delete from the main panel."
 msgstr ""
 "Localisez et faites un clic droit sur le contact que vous souhaitez "
 "supprimer depuis le panneau principal."
 
 #: ../../contacts/toc.rst:85
-#, fuzzy
 msgid "Click the **Delete** button."
 msgstr "Cliquez sur le bouton **Delete**."
 
@@ -7741,13 +7760,12 @@ msgid "To add an address book:"
 msgstr "Pour ajouter un carnet d’adresses :"
 
 #: ../../contacts/toc.rst:93
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click the address book where you want to "
 "add the address book."
 msgstr ""
-"Dans le panneau de navigation, faites un clic droit sur le carnet "
-"d’adresses dans lequel vous souhaitez ajouter le nouveau carnet."
+"Dans le panneau de navigation, faites un clic droit sur le carnet d’adresses "
+"dans lequel vous souhaitez ajouter le nouveau carnet."
 
 #: ../../contacts/toc.rst:94
 msgid "Select **New address Book**. A new board will appear."
@@ -7766,16 +7784,14 @@ msgid "To move a contact between address books:"
 msgstr "Pour déplacer un contact entre carnets d’adresses :"
 
 #: ../../contacts/toc.rst:108
-#, fuzzy
 msgid ""
 "In the Navigation Panel, click the address book that contains the contact"
 " you wish to move."
 msgstr ""
-"Dans le panneau de navigation, cliquez sur le carnet d’adresses contenant"
-" le contact à déplacer."
+"Dans le panneau de navigation, cliquez sur le carnet d’adresses contenant le "
+"contact à déplacer."
 
 #: ../../contacts/toc.rst:109
-#, fuzzy
 msgid "Right-click the contact you want to move."
 msgstr "Faites un clic droit sur le contact à déplacer."
 
@@ -7804,11 +7820,10 @@ msgid "To move an address book:"
 msgstr "Pour déplacer un carnet d’adresses :"
 
 #: ../../contacts/toc.rst:120
-#, fuzzy
 msgid "In the Navigation Panel, right-click the address book you wish to move."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet"
-" d'adresses que vous souhaitez déplacer."
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
+"d'adresses que vous souhaitez déplacer."
 
 #: ../../contacts/toc.rst:122
 msgid "Select the destination."
@@ -7824,11 +7839,10 @@ msgstr "Pour modifier un carnet d'adresses :"
 
 #: ../../contacts/toc.rst:131 ../../contacts/toc.rst:142
 #: ../../contacts/toc.rst:156
-#, fuzzy
 msgid "In the Navigation Panel, right-click the address book you wish to edit."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet"
-" d'adresses que vous souhaitez modifier."
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
+"d'adresses que vous souhaitez modifier."
 
 #: ../../contacts/toc.rst:132 ../../contacts/toc.rst:143
 #: ../../contacts/toc.rst:157
@@ -7856,7 +7870,6 @@ msgid "To share an address book:"
 msgstr "Pour partager un carnet d'adresses :"
 
 #: ../../contacts/toc.rst:144
-#, fuzzy
 msgid "Click the **ADD SHARE** button."
 msgstr "Click the ADD SHARE button."
 
@@ -7889,11 +7902,10 @@ msgid "To delete an address book:"
 msgstr "Pour supprimer un carnet d'adresses :"
 
 #: ../../contacts/toc.rst:167
-#, fuzzy
 msgid "In the Navigation Panel, right-click the address book you wish to delete."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet"
-" d'adresses que vous souhaitez supprimer."
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
+"d'adresses que vous souhaitez supprimer."
 
 #: ../../contacts/toc.rst:168
 msgid "Select **Delete address book** from the drop-down menu."
@@ -7975,7 +7987,6 @@ msgstr ""
 "nouvel e‑mail. Le nom du groupe apparaît alors en suggestion."
 
 #: ../../contacts/toc.rst:193
-#, fuzzy
 msgid ""
 "Click the contact group, and it will automatically populate the **To** "
 "field with all the addresses included in the contact group."
@@ -7988,42 +7999,35 @@ msgid "Sharing a Contact List"
 msgstr "Partage d’une liste de contacts"
 
 #: ../../contacts/toc.rst:204
-#, fuzzy
 msgid ""
 "You can share your address book with colleagues or external users so they"
 " can view and access the contacts stored in it."
 msgstr ""
 "Vous pouvez partager votre carnet d’adresses avec vos collègues ou des "
-"utilisateurs externes. Ils peuvent ainsi consulter et accéder aux "
-"contacts stockés. Comment partager un groupe de contacts et ouvrir les "
-"Contacts :"
+"utilisateurs externes. Ils peuvent ainsi consulter et accéder aux contacts "
+"stockés. Comment partager un groupe de contacts et ouvrir les Contacts :"
 
 #: ../../contacts/toc.rst:207
-#, fuzzy
 msgid "How to Share a Contact Group"
 msgstr "Pour créer un groupe de contacts :"
 
 #: ../../contacts/toc.rst:209
-#, fuzzy
 msgid "Go to the **Contacts** section in the app."
 msgstr "Accédez à la section Contacts de l’application."
 
 #: ../../contacts/toc.rst:210
-#, fuzzy
 msgid "Create a new group or select an existing **Group**."
 msgstr "Créer ou sélectionner un groupe."
 
 #: ../../contacts/toc.rst:211
-#, fuzzy
 msgid ""
 "To create a group, click **New Group**, add contacts, and assign the "
 "group to a folder."
 msgstr ""
-"Pour créer : cliquez sur « New Group », ajoutez des contacts et "
-"affectez‑les à un dossier."
+"Pour créer : cliquez sur « New Group », ajoutez des contacts et affectez‑les "
+"à un dossier."
 
 #: ../../contacts/toc.rst:212
-#, fuzzy
 msgid ""
 "To share an existing group, make sure it is stored in a folder that you "
 "can share."
@@ -8032,53 +8036,43 @@ msgstr ""
 "dossier partageable."
 
 #: ../../contacts/toc.rst:213
-#, fuzzy
 msgid ""
 "Move the group to a specific folder, or create a new folder just for that"
 " group."
 msgstr ""
-"Déplacez le groupe vers un dossier spécifique – ou créez‑en un nouveau "
-"dédié."
+"Déplacez le groupe vers un dossier spécifique – ou créez‑en un nouveau dédié."
 
 #: ../../contacts/toc.rst:214
-#, fuzzy
 msgid "This lets you share only the contents of that folder."
 msgstr "Cela vous permet de ne partager que le contenu de ce dossier."
 
 #: ../../contacts/toc.rst:215
-#, fuzzy
 msgid "Right-click the folder and select **Share**."
 msgstr "Cliquez avec le bouton droit sur le dossier – « Partager »."
 
 #: ../../contacts/toc.rst:216
-#, fuzzy
 msgid "Choose the users you want to share with and set their permission level:"
-msgstr "Sélectionnez les utilisateurs et définissez leur niveau d’autorisation :"
+msgstr ""
+"Sélectionnez les utilisateurs et définissez leur niveau d’autorisation :"
 
 #: ../../contacts/toc.rst:218
-#, fuzzy
 msgid "**Can View**"
 msgstr "Lecture"
 
 #: ../../contacts/toc.rst:219
-#, fuzzy
 msgid "**Can Edit**"
 msgstr "Modification"
 
 #: ../../contacts/toc.rst:221
-#, fuzzy
 msgid "Confirm the shared content."
 msgstr "Confirmer le contenu partagé :"
 
 #: ../../contacts/toc.rst:222
-#, fuzzy
 msgid "Users will only see the contacts and groups inside that folder."
 msgstr ""
-"L’utilisateur ne verra que les contacts et groupes contenus dans ce "
-"dossier."
+"L’utilisateur ne verra que les contacts et groupes contenus dans ce dossier."
 
 #: ../../contacts/toc.rst:223
-#, fuzzy
 msgid "Your personal contacts and other folders will remain private."
 msgstr "Vos contacts personnels et les autres dossiers restent privés."
 
@@ -8091,24 +8085,22 @@ msgid ""
 "To control what you see in **Contacts**, use the **View Filter** to "
 "display:"
 msgstr ""
+"Pour contrôler ce qui s’affiche dans **Contacts**, utilisez le **Filtre "
+"d’affichage** pour afficher :"
 
 #: ../../contacts/toc.rst:230
-#, fuzzy
 msgid "**Only Contacts**"
 msgstr "Contacts uniquement"
 
 #: ../../contacts/toc.rst:231
-#, fuzzy
 msgid "**Only Groups**"
 msgstr "Groupes uniquement"
 
 #: ../../contacts/toc.rst:232
-#, fuzzy
 msgid "**Both**"
 msgstr "Les deux"
 
 #: ../../contacts/toc.rst:234
-#, fuzzy
 msgid "This helps you focus on the items that matter most."
 msgstr "Cela vous aide à vous concentrer sur l’essentiel."
 
@@ -8121,13 +8113,12 @@ msgid "To find and add your colleagues’ contact list:"
 msgstr "Pour rechercher et ajouter la liste de contacts de vos collègues :"
 
 #: ../../contacts/toc.rst:242 ../../contacts/toc.rst:263
-#, fuzzy
 msgid ""
 "In the Navigation Panel, right-click the address book you wish to share. "
 "A new window appears."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet"
-" d’adresses à partager. Une nouvelle fenêtre s’affiche."
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
+"d’adresses à partager. Une nouvelle fenêtre s’affiche."
 
 #: ../../contacts/toc.rst:243
 msgid "From the Share with field, select Internal Users or Groups."
@@ -8252,11 +8243,10 @@ msgstr ""
 "faire :"
 
 #: ../../contacts/toc.rst:290
-#, fuzzy
 msgid "In the Navigation Panel, right-click the address book you wish to export."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet"
-" d’adresses que vous souhaitez exporter."
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
+"d’adresses que vous souhaitez exporter."
 
 #: ../../contacts/toc.rst:291
 msgid "Select **Export csv file** from the drop-down menu. A new window appears."
@@ -8402,6 +8392,9 @@ msgid ""
 "offers a user-friendly platform for uploading, creating, and organizing "
 "your digital documents."
 msgstr ""
+"Files est conçu pour simplifier vos besoins de gestion de fichiers. Files "
+"propose une plateforme conviviale pour télécharger, créer et organiser vos "
+"documents numériques."
 
 #: ../../files/toc.rst:16
 msgid ""
@@ -8409,6 +8402,9 @@ msgid ""
 "files in order, Files allows you to effortlessly share and manage your "
 "documents and images."
 msgstr ""
+"Que vous collaboriez avec des collègues ou que vous organisiez simplement "
+"vos fichiers, Files vous permet de partager et de gérer vos documents et "
+"images en toute simplicité."
 
 #: ../../files/toc.rst:19
 msgid ""
@@ -8416,6 +8412,9 @@ msgid ""
 "upload files from your computer, save email attachments, and even "
 "generate new documents."
 msgstr ""
+"Grâce à son interface intuitive, vous pouvez créer facilement plusieurs "
+"dossiers, télécharger des fichiers depuis votre ordinateur, sauvegarder les "
+"pièces jointes d’e‑mail et même générer de nouveaux documents."
 
 #: ../../files/toc.rst:22
 msgid ""
@@ -8425,6 +8424,11 @@ msgid ""
 "this mode you will see all the files and folders as thumbnails, instead "
 "of the vertical list."
 msgstr ""
+"En cliquant sur l’icône Files, vous accédez à la vue du module Files : vous "
+"pouvez sélectionner le bouton de mise en page grille en haut à droite de "
+"l’en-tête de liste pour passer du mode liste au mode grille. Dans ce mode, "
+"vous voyez tous les fichiers et dossiers sous forme de vignettes, au lieu "
+"d’une liste verticale."
 
 #: ../../files/toc.rst:27
 msgid ""
@@ -9413,7 +9417,6 @@ msgstr ""
 "dossier complet sous forme d’archive ZIP compressée."
 
 #: ../../files/toc.rst:414
-#, fuzzy
 msgid "Shared Files and Storage Quotas"
 msgstr "Partage de fichiers et dossiers"
 
@@ -9422,12 +9425,16 @@ msgid ""
 "When a file is shared, storage consumption and edit activity are "
 "attributed to the **owner** of the file."
 msgstr ""
+"Lorsqu’un fichier est partagé, la consommation de stockage et l’activité "
+"d’édition sont attribuées au **propriétaire** du fichier."
 
 #: ../../files/toc.rst:417
 msgid ""
 "If the owner exceeds their storage quota, the file remains available to "
 "collaborators but opens in **read-only** mode."
 msgstr ""
+"Si le propriétaire dépasse son quota de stockage, le fichier reste "
+"accessible aux collaborateurs mais s’ouvre en mode **lecture‑seule**."
 
 #: ../../files/toc.rst:420
 msgid ""
@@ -9436,6 +9443,11 @@ msgid ""
 "owner's storage usage is reduced below the quota limit, the document "
 "automatically becomes editable again for all collaborators."
 msgstr ""
+"Dans cet état, les collaborateurs ne peuvent pas modifier le document, "
+"enregistrer des modifications ou créer de nouvelles versions tant que le "
+"propriétaire n’est pas revenu dans les limites du quota. Une fois l’usage du "
+"stockage du propriétaire réduit en dessous du quota, le document redevient "
+"automatiquement modifiable pour tous les collaborateurs."
 
 #: ../../files/toc.rst:425
 msgid "Adding Collaborators to a File / Folder"
@@ -14365,4 +14377,3 @@ msgstr "Cliquez sur l’icône couronne à côté du nom du participant."
 #~ "Dans ce mode, les fichiers et "
 #~ "dossiers apparaissent sous forme de "
 #~ "vignettes plutôt qu’en liste verticale."
-

@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-07-27 13:27+0200\n"
 "PO-Revision-Date: 2026-07-28 11:52+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
@@ -5819,7 +5819,7 @@ msgstr ""
 
 #: ../../calendars/toc.rst:432
 msgid "Add a CalDAV external calendar"
-msgstr ""
+msgstr "Ajouter un calendrier externe CalDAV"
 
 #: ../../calendars/toc.rst:433
 msgid ""
@@ -5831,6 +5831,13 @@ msgid ""
 "from an external CalDAV service to view it alongside your other "
 "calendars."
 msgstr ""
+"La fonction **Add external calendars** vous permet de connecter un "
+"calendrier d’un service **CalDAV** externe à Zextras. Une fois ajouté, le "
+"calendrier externe apparaît avec vos calendriers existants, facilitant la "
+"visualisation et la gestion de tous vos événements en un seul endroit. Les "
+"calendriers ajoutés sont en lecture seule et se synchronisent "
+"automatiquement à intervalles réguliers. Vous pouvez ajouter un calendrier "
+"d’un service CalDAV externe pour le visualiser avec vos autres calendriers."
 
 #: ../../calendars/toc.rst:438
 msgid "To add an external calendar:"
@@ -5853,14 +5860,17 @@ msgid ""
 "In **Host address**, enter the CalDAV server address provided by your "
 "calendar service."
 msgstr ""
+"Dans **Host address**, saisissez l’adresse du serveur CalDAV fournie par "
+"votre service de calendrier."
 
 #: ../../calendars/toc.rst:444
 msgid "Example: calendar.example.com"
-msgstr ""
+msgstr "Exemple : calendar.example.com"
 
 #: ../../calendars/toc.rst:445
 msgid "In some cases, you may need to enter the full CalDAV URL."
 msgstr ""
+"Dans certains cas, il peut être nécessaire de saisir l’URL CalDAV complète."
 
 #: ../../calendars/toc.rst:447
 msgid ""
@@ -5883,10 +5893,12 @@ msgid ""
 "If the server does not require login credentials, enable **This host does"
 " not require credentials**."
 msgstr ""
+"Si le serveur ne nécessite pas d’identifiants, activez **This host does not "
+"require credentials**."
 
 #: ../../calendars/toc.rst:459
 msgid "Added calendars are read-only."
-msgstr ""
+msgstr "Les calendriers ajoutés sont en lecture seule."
 
 #: ../../calendars/toc.rst:460
 msgid "Calendars sync automatically every 12 hours."
@@ -10155,7 +10167,7 @@ msgstr "> Cliquez sur **LOGIN**."
 
 #: ../../get_started/toc.rst:90
 msgid "Using 2FA from Untrusted Networks"
-msgstr ""
+msgstr "Utilisation de la 2FA depuis des réseaux non fiables"
 
 #: ../../get_started/toc.rst:92
 msgid ""
@@ -10166,6 +10178,12 @@ msgid ""
 "include your home Wi-Fi, public hotspots, or any network outside your "
 "organization's trusted corporate environment."
 msgstr ""
+"Pour renforcer la sécurité, Carbonio peut exiger l’authentification à deux "
+"facteurs (2FA) spécifiquement lorsque vous vous connectez depuis un "
+"**untrusted network**. Le caractère fiable ou non d’un réseau dépend de la "
+"configuration définie par votre administrateur. Des exemples de réseaux non "
+"fiables comprennent votre Wi‑Fi domestique, les points d’accès publics ou "
+"tout réseau extérieur à l’environnement d’entreprise approuvé."
 
 #: ../../get_started/toc.rst:97
 msgid "How it Works"
@@ -10176,6 +10194,8 @@ msgid ""
 "When you log in from an untrusted network, the system checks if you have "
 "a second-factor authenticator (OTP) configured."
 msgstr ""
+"Lorsque vous vous connectez depuis un réseau non fiable, le système vérifie "
+"si un authentificateur à deuxième facteur (OTP) est configuré."
 
 #: ../../get_started/toc.rst:101
 msgid ""
@@ -10183,6 +10203,9 @@ msgid ""
 "your username, password, and the 6-digit code from your authenticator "
 "app."
 msgstr ""
+"**If you already have 2FA configured:** Vous serez invité à saisir votre nom "
+"d’utilisateur, votre mot de passe et le code à 6 chiffres de votre "
+"application d’authentification."
 
 #: ../../get_started/toc.rst:102
 msgid ""
@@ -10190,6 +10213,9 @@ msgid ""
 "security policy, you will either be guided through a setup wizard or "
 "asked to contact your administrator."
 msgstr ""
+"**If you have NOT configured 2FA:** Selon la politique de sécurité de votre "
+"organisation, vous serez soit guidé par un assistant de configuration, soit "
+"invité à contacter votre administrateur."
 
 #: ../../get_started/toc.rst:105
 msgid "Setting Up 2FA Remotely"
@@ -10200,6 +10226,9 @@ msgid ""
 "If your administrator allows remote enrollment, you can set up your 2FA "
 "directly from the login screen via the **2FA Setup Wizard**:"
 msgstr ""
+"Si votre administrateur autorise l’inscription à distance, vous pouvez "
+"configurer votre 2FA directement depuis l’écran de connexion via l’**2FA "
+"Setup Wizard** :"
 
 #: ../../get_started/toc.rst:109
 msgid ""
@@ -10207,32 +10236,41 @@ msgid ""
 "scan the QR code displayed on your screen or, if you can’t scan the QR "
 "code, enter the secret code directly into the application."
 msgstr ""
+"**Scan the QR Code:** Ouvrez votre application d’authentification préférée "
+"et scannez le QR code affiché à l’écran ou, si vous ne pouvez pas le "
+"scanner, saisissez le code secret directement dans l’application."
 
 #: ../../get_started/toc.rst:111
 msgid ""
 "**Verify:** Enter the 6-digit verification code generated by the app to "
 "link it to your account."
 msgstr ""
+"**Verify:** Saisissez le code de vérification à 6 chiffres généré par "
+"l’application pour le lier à votre compte."
 
 #: ../../get_started/toc.rst:112
 msgid "**Login:** Once verified, you will be granted access to your account."
-msgstr ""
+msgstr "**Login:** Une fois vérifié, vous obtiendrez l’accès à votre compte."
 
 #: ../../get_started/toc.rst:115
 msgid "Understanding the Grace Period"
-msgstr ""
+msgstr "Comprendre la période de grâce"
 
 #: ../../get_started/toc.rst:117
 msgid ""
 "If your organization has enabled a **grace period**, you can temporarily "
 "access your account before 2FA becomes mandatory."
 msgstr ""
+"Si votre organisation a activé une **grace period**, vous pouvez accéder "
+"temporairement à votre compte avant que la 2FA ne devienne obligatoire."
 
 #: ../../get_started/toc.rst:119
 msgid ""
 "The **2FA Setup Wizard** is displayed each time you sign in until you "
 "complete the setup."
 msgstr ""
+"L’**2FA Setup Wizard** s’affiche à chaque connexion jusqu’à ce que vous "
+"terminiez la configuration."
 
 #: ../../get_started/toc.rst:120
 msgid ""
@@ -10241,12 +10279,18 @@ msgid ""
 "in from an untrusted network and will need to contact your system "
 "administrator for assistance."
 msgstr ""
+"Vous devez terminer la configuration avant l’expiration de la période de "
+"grâce. Si la période se termine sans que la 2FA ne soit configurée, vous ne "
+"pourrez plus vous connecter depuis un réseau non fiable et devrez contacter "
+"votre administrateur système pour obtenir de l’aide."
 
 #: ../../get_started/toc.rst:123
 msgid ""
 "Always complete the 2FA setup as soon as possible to avoid losing access "
 "when the grace period ends."
 msgstr ""
+"Terminez toujours la configuration de la 2FA dès que possible afin d'éviter "
+"de perdre l'accès à la fin de la période de grâce."
 
 #: ../../get_started/toc.rst:126
 msgid ""
@@ -10255,6 +10299,10 @@ msgid ""
 "username, password, and a one-time passcode (OTP) generated by your "
 "authenticator app."
 msgstr ""
+"À moins qu'une période de grâce ne soit définie, vous devez terminer la "
+"configuration de la 2FA avant de pouvoir vous connecter. Après cela, chaque "
+"connexion requiert votre nom d'utilisateur, votre mot de passe et un code à "
+"usage unique (OTP) généré par votre application d'authentification."
 
 #: ../../get_started/toc.rst:131
 msgid "Using SAML to Sign In"

@@ -76,15 +76,15 @@ Once you have access to your account and the required permissions, you can confi
 
 Once 2FA is configured, follow these steps at each login:
 
-    > Enter your username and password;
+    #. Enter your username and password
 
-    > When prompted for the second factor, choose your OTP credential (eg. myOTP1);
+    #. When prompted for the second factor, choose your OTP credential (eg. "myOTP1")
 
-    > Open your authenticator app or use your next available PIN code;
+    #. Open your authenticator app or use your next available PIN code
 
-    > Insert the verification code or PIN into the login form;
+    #. Insert the verification code or PIN into the login form
 
-    > Click LOGIN.
+    #. Click LOGIN
 
 Using 2FA from Untrusted Networks
 =================================

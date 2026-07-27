@@ -7,17 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2026-07-07 12:51+0200\n"
+"POT-Creation-Date: 2026-07-27 13:27+0200\n"
 "PO-Revision-Date: 2026-07-08 11:52+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
-"Language-Team: French <https://translate.zextras.tools/projects/"
-"documentation/carbonio-user-guide/fr/>\n"
 "Language: fr\n"
+"Language-Team: French "
+"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
+"guide/fr/>\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -418,8 +418,8 @@ msgstr ""
 "Lorsque vous êtes absent du bureau, configurer une réponse automatique "
 "informe vos collègues et clients. Voici comment procéder :"
 
-#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:229
-#: ../../get_started/toc.rst:254 ../../get_started/toc.rst:288
+#: ../../advanced_email_management/toc.rst:126 ../../get_started/toc.rst:269
+#: ../../get_started/toc.rst:294 ../../get_started/toc.rst:328
 msgid "Select General Settings."
 msgstr "Sélectionnez Paramètres généraux."
 
@@ -2141,8 +2141,8 @@ msgstr "Pour créer un nouveau rendez‑vous :"
 #: ../../calendars/toc.rst:42 ../../calendars/toc.rst:61
 #: ../../calendars/toc.rst:92 ../../calendars/toc.rst:103
 #: ../../calendars/toc.rst:115 ../../calendars/toc.rst:127
-#: ../../calendars/toc.rst:436 ../../calendars/toc.rst:472
-#: ../../calendars/toc.rst:483 ../../calendars/toc.rst:496
+#: ../../calendars/toc.rst:468 ../../calendars/toc.rst:504
+#: ../../calendars/toc.rst:515 ../../calendars/toc.rst:528
 msgid "Select the **Calendars** from your left sidebar."
 msgstr "Sélectionnez **Calendars** dans la barre latérale gauche."
 
@@ -5540,10 +5540,10 @@ msgid ""
 "ensuring that the latest updates from the source calendar are reflected "
 "in Carbonio Webmail."
 msgstr ""
-"Carbonio Webmail vous permet de vous abonner à des calendriers externes en "
-"utilisant une URL ICS. Une fois abonné, le calendrier est synchronisé "
-"automatiquement, garantissant que les dernières mises à jour du calendrier "
-"source soient reflétées dans Carbonio Webmail."
+"Carbonio Webmail vous permet de vous abonner à des calendriers externes "
+"en utilisant une URL ICS. Une fois abonné, le calendrier est synchronisé "
+"automatiquement, garantissant que les dernières mises à jour du "
+"calendrier source soient reflétées dans Carbonio Webmail."
 
 #: ../../calendars/toc.rst:320
 msgid ""
@@ -5552,8 +5552,8 @@ msgid ""
 "imports."
 msgstr ""
 "Les calendriers abonnés sont en lecture seule et conviennent aux "
-"utilisateurs qui ont besoin d’un accès continu à un calendrier externe sans "
-"réaliser d’importations répétées."
+"utilisateurs qui ont besoin d’un accès continu à un calendrier externe "
+"sans réaliser d’importations répétées."
 
 #: ../../calendars/toc.rst:323
 msgid "How to subscribe using a URL"
@@ -5582,8 +5582,8 @@ msgstr ""
 #: ../../calendars/toc.rst:337
 msgid "Enter a valid URL that links directly to an ``.ics`` calendar file."
 msgstr ""
-"Saisissez une URL valide pointant directement vers un fichier de calendrier "
-"``.ics``."
+"Saisissez une URL valide pointant directement vers un fichier de "
+"calendrier ``.ics``."
 
 #: ../../calendars/toc.rst:339
 msgid "Enter the calendar name."
@@ -5593,7 +5593,7 @@ msgstr "Saisissez un nom de dossier."
 msgid "Choose a color in **Select Color**."
 msgstr "Choisissez une couleur dans le champ **Calendar color**."
 
-#: ../../calendars/toc.rst:341
+#: ../../calendars/toc.rst:341 ../../calendars/toc.rst:451
 msgid "Click **Add**."
 msgstr "Cliquez sur **ADD**."
 
@@ -5650,8 +5650,8 @@ msgstr ""
 #: ../../calendars/toc.rst:367
 msgid "Use a subscription for ongoing updates. Use import for a static copy."
 msgstr ""
-"Utilisez un abonnement pour des mises à jour continues. Utilisez l’import "
-"pour une copie statique."
+"Utilisez un abonnement pour des mises à jour continues. Utilisez l’import"
+" pour une copie statique."
 
 #: ../../calendars/toc.rst:370
 msgid "Synchronization behavior"
@@ -5660,8 +5660,8 @@ msgstr "Comportement de synchronisation"
 #: ../../calendars/toc.rst:372
 msgid "Subscribed calendars synchronize automatically every **12 hours**."
 msgstr ""
-"Les calendriers abonnés se synchronisent automatiquement toutes les "
-"**12 heures**."
+"Les calendriers abonnés se synchronisent automatiquement toutes les **12 "
+"heures**."
 
 #: ../../calendars/toc.rst:373
 msgid ""
@@ -5684,8 +5684,8 @@ msgstr "Le calendrier partagé apparaîtra dans votre liste."
 #: ../../calendars/toc.rst:381
 msgid "Right-click the calendar and select **Sync**."
 msgstr ""
-"Cliquez droit sur le nouveau calendrier et choisissez l’option « Import ICS "
-"file »."
+"Cliquez droit sur le nouveau calendrier et choisissez l’option « Import "
+"ICS file »."
 
 #: ../../calendars/toc.rst:383
 msgid "This forces an immediate update from the external ICS source."
@@ -5780,7 +5780,8 @@ msgid ""
 "If a calendar is already subscribed, the system prevents duplicate "
 "subscriptions."
 msgstr ""
-"Si un agenda est déjà abonné, le système empêche les abonnements en double."
+"Si un agenda est déjà abonné, le système empêche les abonnements en "
+"double."
 
 #: ../../calendars/toc.rst:427
 msgid "Availability"
@@ -5791,15 +5792,100 @@ msgid ""
 "This feature is available without administrative configuration. No setup "
 "is required to enable subscribed ICS calendars for users."
 msgstr ""
-"Cette fonctionnalité est disponible sans configuration administrative. Aucun "
-"paramétrage n’est nécessaire pour activer les agendas ICS abonnés pour les "
-"utilisateurs."
+"Cette fonctionnalité est disponible sans configuration administrative. "
+"Aucun paramétrage n’est nécessaire pour activer les agendas ICS abonnés "
+"pour les utilisateurs."
 
 #: ../../calendars/toc.rst:432
+msgid "Add a CalDAV external calendar"
+msgstr ""
+
+#: ../../calendars/toc.rst:433
+msgid ""
+"The **Add external calendars** feature allows you to connect a calendar "
+"from an external **CalDAV** service to Zextras. Once added, the external "
+"calendar appears alongside your existing calendars, making it easier to "
+"view and manage all your events in one place. Added calendars are read-"
+"only and sync automatically at regular intervals. You can add a calendar "
+"from an external CalDAV service to view it alongside your other "
+"calendars."
+msgstr ""
+
+#: ../../calendars/toc.rst:438
+#, fuzzy
+msgid "To add an external calendar:"
+msgstr "Pour supprimer un calendrier :"
+
+#: ../../calendars/toc.rst:439
+#, fuzzy
+msgid "Open **Calendar**."
+msgstr "Sélectionnez **Calendars**."
+
+#: ../../calendars/toc.rst:440
+#, fuzzy
+msgid "Click **Add external calendars**."
+msgstr "Cliquez droit sur le calendrier partagé."
+
+#: ../../calendars/toc.rst:441
+#, fuzzy
+msgid "In **Type**, select **CalDAV**."
+msgstr "Sélectionnez **Calendars**."
+
+#: ../../calendars/toc.rst:442
+msgid ""
+"In **Host address**, enter the CalDAV server address provided by your "
+"calendar service."
+msgstr ""
+
+#: ../../calendars/toc.rst:444
+msgid "Example: calendar.example.com"
+msgstr ""
+
+#: ../../calendars/toc.rst:445
+msgid "In some cases, you may need to enter the full CalDAV URL."
+msgstr ""
+
+#: ../../calendars/toc.rst:447
+#, fuzzy
+msgid ""
+"In **Calendars’ name**, enter a name to help you identify the calendar "
+"source."
+msgstr ""
+"Dans **Calendar URL**, saisissez l’**ICS URL** du calendrier auquel vous "
+"souhaitez vous abonner."
+
+#: ../../calendars/toc.rst:448
+#, fuzzy
+msgid "Enter your **Username**."
+msgstr "Saisissez votre nom d'utilisateur."
+
+#: ../../calendars/toc.rst:449
+#, fuzzy
+msgid "Enter your **Password**."
+msgstr "Modifier votre mot de passe"
+
+#: ../../calendars/toc.rst:450
+msgid ""
+"If the server does not require login credentials, enable **This host does"
+" not require credentials**."
+msgstr ""
+
+#: ../../calendars/toc.rst:459
+msgid "Added calendars are read-only."
+msgstr ""
+
+#: ../../calendars/toc.rst:460
+#, fuzzy
+msgid "Calendars sync automatically every 12 hours."
+msgstr ""
+"Les calendriers abonnés se synchronisent automatiquement toutes les **12 "
+"heures**."
+
+#: ../../calendars/toc.rst:464
 msgid "Creating Calendar Groups"
 msgstr "Creating Calendar Groups"
 
-#: ../../calendars/toc.rst:434
+#: ../../calendars/toc.rst:466
 msgid ""
 "You also have the option to create calendar groups, making it easier to "
 "search for certain shared calendars. To do this, simply:"
@@ -5807,11 +5893,11 @@ msgstr ""
 "You also have the option to create calendar groups, making it easier to "
 "search for certain shared calendars. To do this, simply:"
 
-#: ../../calendars/toc.rst:437
+#: ../../calendars/toc.rst:469
 msgid "Click on **Create New Group** button."
 msgstr "Click on **Create New Group** button."
 
-#: ../../calendars/toc.rst:438
+#: ../../calendars/toc.rst:470
 msgid ""
 "Enter the name of the group in the proper field of the new modal that "
 "appears."
@@ -5819,7 +5905,7 @@ msgstr ""
 "Enter the name of the group in the proper field of the new modal that "
 "appears."
 
-#: ../../calendars/toc.rst:439
+#: ../../calendars/toc.rst:471
 msgid ""
 "Select the calendars you wish to add to the group from the list, by "
 "simply searching for them."
@@ -5827,19 +5913,19 @@ msgstr ""
 "Select the calendars you wish to add to the group from the list, by "
 "simply searching for them."
 
-#: ../../calendars/toc.rst:440
+#: ../../calendars/toc.rst:472
 msgid "Click the **+** button, to add them all."
 msgstr "Click the **+** button, to add them all."
 
-#: ../../calendars/toc.rst:441
+#: ../../calendars/toc.rst:473
 msgid "Click the **REMOVE** button, if you have to remove some of them."
 msgstr "Click the **REMOVE** button, if you have to remove some of them."
 
-#: ../../calendars/toc.rst:442
+#: ../../calendars/toc.rst:474
 msgid "Click the **CREATE GROUP** button."
 msgstr "Click the **CREATE GROUP** button."
 
-#: ../../calendars/toc.rst:444
+#: ../../calendars/toc.rst:476
 msgid ""
 "Now you can switch on and off the group everytime you need to see all the"
 " calendars of the users in that group."
@@ -5847,23 +5933,23 @@ msgstr ""
 "Now you can switch on and off the group everytime you need to see all the"
 " calendars of the users in that group."
 
-#: ../../calendars/toc.rst:447
+#: ../../calendars/toc.rst:479
 msgid "Editing Calendar Groups"
 msgstr "Editing Calendar Groups"
 
-#: ../../calendars/toc.rst:449
+#: ../../calendars/toc.rst:481
 msgid "To edit a calendar group, follow these steps:"
 msgstr "To edit a calendar group, follow these steps:"
 
-#: ../../calendars/toc.rst:451
+#: ../../calendars/toc.rst:483
 msgid "Right-click on the group you want to edit."
 msgstr "Right-click on the group you want to edit."
 
-#: ../../calendars/toc.rst:452
+#: ../../calendars/toc.rst:484
 msgid "Select **Edit Group** option."
 msgstr "Select **Edit Group** option."
 
-#: ../../calendars/toc.rst:453
+#: ../../calendars/toc.rst:485
 msgid ""
 "Make the necessary changes to the group name or the calendars included in"
 " the group."
@@ -5871,27 +5957,27 @@ msgstr ""
 "Apportez les modifications nécessaires au nom du groupe ou aux "
 "calendriers inclus dans le groupe."
 
-#: ../../calendars/toc.rst:454
+#: ../../calendars/toc.rst:486
 msgid "Click the **SAVE CHANGES** button."
 msgstr "Cliquez sur le bouton **SAVE CHANGES**."
 
-#: ../../calendars/toc.rst:457
+#: ../../calendars/toc.rst:489
 msgid "Deleting Calendar Groups"
 msgstr "Suppression des groupes de calendriers"
 
-#: ../../calendars/toc.rst:459
+#: ../../calendars/toc.rst:491
 msgid "To delete a calendar group, simply:"
 msgstr "Pour supprimer un groupe de calendriers, procédez ainsi :"
 
-#: ../../calendars/toc.rst:461
+#: ../../calendars/toc.rst:493
 msgid "Right-click on the group you want to delete."
 msgstr "Cliquez droit sur le groupe à supprimer."
 
-#: ../../calendars/toc.rst:462
+#: ../../calendars/toc.rst:494
 msgid "Select **Delete permanently** option."
 msgstr "Sélectionnez l’option **Delete permanently**."
 
-#: ../../calendars/toc.rst:463
+#: ../../calendars/toc.rst:495
 msgid ""
 "Confirm that you want to delete the group, by clicking on the red button "
 "**DELETE PERMANENTLY**"
@@ -5899,33 +5985,33 @@ msgstr ""
 "Confirmez la suppression du groupe en cliquant sur le bouton rouge "
 "**DELETE PERMANENTLY**."
 
-#: ../../calendars/toc.rst:464
+#: ../../calendars/toc.rst:496
 msgid "The group will be permanently deleted."
 msgstr "Le groupe sera supprimé définitivement."
 
-#: ../../calendars/toc.rst:468
+#: ../../calendars/toc.rst:500
 msgid "Remove a Colleague's Shared Calendars from Your List"
 msgstr "Supprimer les calendriers partagés d’un collègue de votre liste"
 
-#: ../../calendars/toc.rst:470
+#: ../../calendars/toc.rst:502
 msgid "To remove a colleague’s shared calendar from your calendars list:"
 msgstr ""
 "Pour retirer le calendrier partagé d’un collègue de votre liste de "
 "calendriers :"
 
-#: ../../calendars/toc.rst:473
+#: ../../calendars/toc.rst:505
 msgid "From the Navigation Panel, right-click on the calendar you wish to remove."
 msgstr "Dans le panneau de navigation, cliquez droit sur le calendrier à retirer."
 
-#: ../../calendars/toc.rst:474
+#: ../../calendars/toc.rst:506
 msgid "From the drop-down menu select **Remove shared calendar**."
 msgstr "Dans le menu déroulant, choisissez **Remove shared calendar**."
 
-#: ../../calendars/toc.rst:479
+#: ../../calendars/toc.rst:511
 msgid "Import an ICS File as New Calendar"
 msgstr "Importer un fichier ICS comme nouveau calendrier"
 
-#: ../../calendars/toc.rst:481
+#: ../../calendars/toc.rst:513
 msgid ""
 "You can import a calendar in .ics format directly to your |product| web "
 "client calendar. To do so:"
@@ -5933,7 +6019,7 @@ msgstr ""
 "Vous pouvez importer un calendrier au format .ics directement dans le "
 "calendrier client web |product|. Pour cela :"
 
-#: ../../calendars/toc.rst:484
+#: ../../calendars/toc.rst:516
 msgid ""
 "In the Navigation Panel, right-click on \"Calendar\" and select the voice"
 " \"New Calendar\": this step is not mandatory, but recommended to avoid "
@@ -5944,7 +6030,7 @@ msgstr ""
 "elle est recommandée pour éviter de mélanger les calendriers existants "
 "avec celui importé."
 
-#: ../../calendars/toc.rst:485
+#: ../../calendars/toc.rst:517
 msgid ""
 "Choose the name and settings of the new calendar that will contain the "
 "imported data and save it."
@@ -5952,31 +6038,31 @@ msgstr ""
 "Définissez le nom et les paramètres du nouveau calendrier qui contiendra "
 "les données importées, puis enregistrez-le."
 
-#: ../../calendars/toc.rst:486
+#: ../../calendars/toc.rst:518
 msgid "Right-click on the new calendar and select the \"Import ICS file\" option."
 msgstr ""
 "Cliquez droit sur le nouveau calendrier et choisissez l’option « Import "
 "ICS file »."
 
-#: ../../calendars/toc.rst:487
+#: ../../calendars/toc.rst:519
 msgid "Select the .ics file containing the calendar, stored on your computer."
 msgstr ""
 "Sélectionnez le fichier .ics contenant le calendrier, stocké sur votre "
 "ordinateur."
 
-#: ../../calendars/toc.rst:488
+#: ../../calendars/toc.rst:520
 msgid "Click **Open** and **Import**."
 msgstr "Cliquez sur **Open** puis **Import**."
 
-#: ../../calendars/toc.rst:489
+#: ../../calendars/toc.rst:521
 msgid "Refresh the page to get the updated calendar view."
 msgstr "Actualisez la page pour afficher le calendrier mis à jour."
 
-#: ../../calendars/toc.rst:492
+#: ../../calendars/toc.rst:524
 msgid "Export an ICS File as New Calendar"
 msgstr "Exporter un fichier ICS en tant que nouveau calendrier"
 
-#: ../../calendars/toc.rst:494
+#: ../../calendars/toc.rst:526
 msgid ""
 "You can also export a calendar in .ics format directly from your "
 "|product| web client calendar. To do so:"
@@ -5984,17 +6070,17 @@ msgstr ""
 "Vous pouvez également exporter un calendrier au format .ics directement "
 "depuis le calendrier de votre client web |product|. Pour ce faire :"
 
-#: ../../calendars/toc.rst:497
+#: ../../calendars/toc.rst:529
 msgid "In the Navigation Panel, right-click on \"Calendar\" you want to export."
 msgstr ""
 "Dans le panneau de navigation, cliquez avec le bouton droit sur le « "
 "Calendrier » à exporter."
 
-#: ../../calendars/toc.rst:498
+#: ../../calendars/toc.rst:530
 msgid "Select the \"Export ICS file\" option."
 msgstr "Sélectionnez l’option « Exporter le fichier ICS »."
 
-#: ../../calendars/toc.rst:499
+#: ../../calendars/toc.rst:531
 msgid ""
 "The download will start in a while, find you .ics file in your download "
 "folder."
@@ -6002,11 +6088,11 @@ msgstr ""
 "Le téléchargement démarre sous peu ; retrouvez le fichier .ics dans votre"
 " dossier de téléchargements."
 
-#: ../../calendars/toc.rst:502
+#: ../../calendars/toc.rst:534
 msgid "Configure a CalDAV Client"
 msgstr "Configurer un client CalDAV"
 
-#: ../../calendars/toc.rst:504
+#: ../../calendars/toc.rst:536
 msgid ""
 "Adding a |product| calendar to your favourite CalDAV client is "
 "straightforward and requires only a few steps. The procedure is almost "
@@ -6018,7 +6104,7 @@ msgstr ""
 " tout client ; dans le cadre à la fin de cette section, nous indiquons "
 "les différences."
 
-#: ../../calendars/toc.rst:509
+#: ../../calendars/toc.rst:541
 msgid ""
 "In this scenario, the user *john.smith@example.com* wants to configure in"
 " Mozilla's Thunderbird a calendar called *Calendar* on the domain "
@@ -6030,11 +6116,11 @@ msgstr ""
 " domaine *mail.example.com*. Dans la suite, remplacez ces valeurs par les"
 " appropriées."
 
-#: ../../calendars/toc.rst:514
+#: ../../calendars/toc.rst:546
 msgid "Step 1.  New Calendar"
 msgstr "Étape 1. Nouveau calendrier"
 
-#: ../../calendars/toc.rst:516
+#: ../../calendars/toc.rst:548
 msgid ""
 "On your client, go to the Calendar and select **New Calendar...**. Choose"
 " **On the Network**"
@@ -6042,11 +6128,11 @@ msgstr ""
 "Dans votre client, accédez à Calendrier et sélectionnez **New "
 "Calendar...**. Choisissez **On the Network**"
 
-#: ../../calendars/toc.rst:523
+#: ../../calendars/toc.rst:555
 msgid "Step 2."
 msgstr "Étape 2."
 
-#: ../../calendars/toc.rst:525
+#: ../../calendars/toc.rst:557
 msgid ""
 "Provide the **Username** and the **Location**, which has format "
 "``https://<domain>/dav/username``, so "
@@ -6056,23 +6142,23 @@ msgstr ""
 "``https://<domain>/dav/username`` ; par exemple "
 "*https://mail.example.com/dav/john.smith@example.com*"
 
-#: ../../calendars/toc.rst:534
+#: ../../calendars/toc.rst:566
 msgid "Step 3."
 msgstr "Étape 3."
 
-#: ../../calendars/toc.rst:536
+#: ../../calendars/toc.rst:568
 msgid "You will be then presented a list, from which to choose *Calendar*."
 msgstr "Une liste vous sera alors présentée, d’où vous pourrez choisir *Calendar*."
 
-#: ../../calendars/toc.rst:538
+#: ../../calendars/toc.rst:570
 msgid "You are now done! the calendar will show up in the list of your client."
 msgstr "C’est terminé ! le calendrier apparaîtra dans la liste de votre client."
 
-#: ../../calendars/toc.rst:544 ../../contacts/toc.rst:361
+#: ../../calendars/toc.rst:576 ../../contacts/toc.rst:361
 msgid "Other clients"
 msgstr "Autres clients"
 
-#: ../../calendars/toc.rst:546
+#: ../../calendars/toc.rst:578
 msgid ""
 "CalDAV is a standard protocol and therefore the data required to set up a"
 " client are a username, an URL, and the name of a calendar. The only "
@@ -7543,8 +7629,8 @@ msgstr ""
 "Gérer vos contacts est essentiel pour rester connecté et organisé. Dans "
 "cette section, nous vous guidons à travers les fonctionnalités du module "
 "Contacts de notre plateforme webmail. Que vous suiviez des relations "
-"personnelles, professionnelles ou clients, |product| facilite le stockage, "
-"l’organisation et l’accès à vos contacts en toute simplicité."
+"personnelles, professionnelles ou clients, |product| facilite le "
+"stockage, l’organisation et l’accès à vos contacts en toute simplicité."
 
 #: ../../contacts/toc.rst:17
 msgid "Accessing Contact Book"
@@ -7553,7 +7639,8 @@ msgstr "Accéder à votre carnet d’adresses"
 #: ../../contacts/toc.rst:19
 msgid "In the contacts section, you will find two primary address books:"
 msgstr ""
-"Dans la section Contacts, vous trouverez deux carnets d’adresses principaux :"
+"Dans la section Contacts, vous trouverez deux carnets d’adresses "
+"principaux :"
 
 #: ../../contacts/toc.rst:21
 msgid ""
@@ -7582,7 +7669,8 @@ msgstr "Dans la barre latérale gauche, cliquez sur la section **Contacts**."
 #: ../../contacts/toc.rst:27
 msgid "In the Navigation Panel, click the **Contacts** address book."
 msgstr ""
-"Dans le panneau de navigation, cliquez sur le carnet d'adresses **Contacts**."
+"Dans le panneau de navigation, cliquez sur le carnet d'adresses "
+"**Contacts**."
 
 #: ../../contacts/toc.rst:29
 msgid ""
@@ -7606,8 +7694,8 @@ msgstr "Dans la barre latérale gauche, cliquez sur la section **Contacts**."
 #: ../../contacts/toc.rst:34
 msgid "In the Navigation Panel, click the **Emailed Contacts** address book."
 msgstr ""
-"Dans le panneau de navigation, cliquez sur le carnet d'adresses **Emailed "
-"Contacts**."
+"Dans le panneau de navigation, cliquez sur le carnet d'adresses **Emailed"
+" Contacts**."
 
 #: ../../contacts/toc.rst:36
 msgid ""
@@ -7705,8 +7793,8 @@ msgstr "Pour assigner une étiquette à un contact existant :"
 #: ../../contacts/toc.rst:74
 msgid "Locate and right-click the contact you want to edit from the main panel."
 msgstr ""
-"Localisez et faites un clic droit sur le contact que vous souhaitez modifier "
-"depuis le panneau principal."
+"Localisez et faites un clic droit sur le contact que vous souhaitez "
+"modifier depuis le panneau principal."
 
 #: ../../contacts/toc.rst:75
 msgid "Choose the tag you wish to assign to the contact from the drop-down menu."
@@ -7743,8 +7831,8 @@ msgid ""
 "In the Navigation Panel, right-click the address book where you want to "
 "add the address book."
 msgstr ""
-"Dans le panneau de navigation, faites un clic droit sur le carnet d’adresses "
-"dans lequel vous souhaitez ajouter le nouveau carnet."
+"Dans le panneau de navigation, faites un clic droit sur le carnet "
+"d’adresses dans lequel vous souhaitez ajouter le nouveau carnet."
 
 #: ../../contacts/toc.rst:94
 msgid "Select **New address Book**. A new board will appear."
@@ -7767,8 +7855,8 @@ msgid ""
 "In the Navigation Panel, click the address book that contains the contact"
 " you wish to move."
 msgstr ""
-"Dans le panneau de navigation, cliquez sur le carnet d’adresses contenant le "
-"contact à déplacer."
+"Dans le panneau de navigation, cliquez sur le carnet d’adresses contenant"
+" le contact à déplacer."
 
 #: ../../contacts/toc.rst:109
 msgid "Right-click the contact you want to move."
@@ -7801,8 +7889,8 @@ msgstr "Pour déplacer un carnet d’adresses :"
 #: ../../contacts/toc.rst:120
 msgid "In the Navigation Panel, right-click the address book you wish to move."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
-"d'adresses que vous souhaitez déplacer."
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet"
+" d'adresses que vous souhaitez déplacer."
 
 #: ../../contacts/toc.rst:122
 msgid "Select the destination."
@@ -7820,8 +7908,8 @@ msgstr "Pour modifier un carnet d'adresses :"
 #: ../../contacts/toc.rst:156
 msgid "In the Navigation Panel, right-click the address book you wish to edit."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
-"d'adresses que vous souhaitez modifier."
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet"
+" d'adresses que vous souhaitez modifier."
 
 #: ../../contacts/toc.rst:132 ../../contacts/toc.rst:143
 #: ../../contacts/toc.rst:157
@@ -7883,8 +7971,8 @@ msgstr "Pour supprimer un carnet d'adresses :"
 #: ../../contacts/toc.rst:167
 msgid "In the Navigation Panel, right-click the address book you wish to delete."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
-"d'adresses que vous souhaitez supprimer."
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet"
+" d'adresses que vous souhaitez supprimer."
 
 #: ../../contacts/toc.rst:168
 msgid "Select **Delete address book** from the drop-down menu."
@@ -7983,8 +8071,9 @@ msgid ""
 " can view and access the contacts stored in it."
 msgstr ""
 "Vous pouvez partager votre carnet d’adresses avec vos collègues ou des "
-"utilisateurs externes. Ils peuvent ainsi consulter et accéder aux contacts "
-"stockés. Comment partager un groupe de contacts et ouvrir les Contacts :"
+"utilisateurs externes. Ils peuvent ainsi consulter et accéder aux "
+"contacts stockés. Comment partager un groupe de contacts et ouvrir les "
+"Contacts :"
 
 #: ../../contacts/toc.rst:207
 msgid "How to Share a Contact Group"
@@ -8003,8 +8092,8 @@ msgid ""
 "To create a group, click **New Group**, add contacts, and assign the "
 "group to a folder."
 msgstr ""
-"Pour créer : cliquez sur « New Group », ajoutez des contacts et affectez‑les "
-"à un dossier."
+"Pour créer : cliquez sur « New Group », ajoutez des contacts et "
+"affectez‑les à un dossier."
 
 #: ../../contacts/toc.rst:212
 msgid ""
@@ -8019,7 +8108,8 @@ msgid ""
 "Move the group to a specific folder, or create a new folder just for that"
 " group."
 msgstr ""
-"Déplacez le groupe vers un dossier spécifique – ou créez‑en un nouveau dédié."
+"Déplacez le groupe vers un dossier spécifique – ou créez‑en un nouveau "
+"dédié."
 
 #: ../../contacts/toc.rst:214
 msgid "This lets you share only the contents of that folder."
@@ -8031,8 +8121,7 @@ msgstr "Cliquez avec le bouton droit sur le dossier – « Partager »."
 
 #: ../../contacts/toc.rst:216
 msgid "Choose the users you want to share with and set their permission level:"
-msgstr ""
-"Sélectionnez les utilisateurs et définissez leur niveau d’autorisation :"
+msgstr "Sélectionnez les utilisateurs et définissez leur niveau d’autorisation :"
 
 #: ../../contacts/toc.rst:218
 msgid "**Can View**"
@@ -8049,7 +8138,8 @@ msgstr "Confirmer le contenu partagé :"
 #: ../../contacts/toc.rst:222
 msgid "Users will only see the contacts and groups inside that folder."
 msgstr ""
-"L’utilisateur ne verra que les contacts et groupes contenus dans ce dossier."
+"L’utilisateur ne verra que les contacts et groupes contenus dans ce "
+"dossier."
 
 #: ../../contacts/toc.rst:223
 msgid "Your personal contacts and other folders will remain private."
@@ -8096,8 +8186,8 @@ msgid ""
 "In the Navigation Panel, right-click the address book you wish to share. "
 "A new window appears."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
-"d’adresses à partager. Une nouvelle fenêtre s’affiche."
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet"
+" d’adresses à partager. Une nouvelle fenêtre s’affiche."
 
 #: ../../contacts/toc.rst:243
 msgid "From the Share with field, select Internal Users or Groups."
@@ -8224,8 +8314,8 @@ msgstr ""
 #: ../../contacts/toc.rst:290
 msgid "In the Navigation Panel, right-click the address book you wish to export."
 msgstr ""
-"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet "
-"d’adresses que vous souhaitez exporter."
+"Dans le panneau de navigation, cliquez avec le bouton droit sur le carnet"
+" d’adresses que vous souhaitez exporter."
 
 #: ../../contacts/toc.rst:291
 msgid "Select **Export csv file** from the drop-down menu. A new window appears."
@@ -8371,9 +8461,9 @@ msgid ""
 "offers a user-friendly platform for uploading, creating, and organizing "
 "your digital documents."
 msgstr ""
-"Files est conçu pour simplifier vos besoins de gestion de fichiers. Files "
-"propose une plateforme conviviale pour télécharger, créer et organiser vos "
-"documents numériques."
+"Files est conçu pour simplifier vos besoins de gestion de fichiers. Files"
+" propose une plateforme conviviale pour télécharger, créer et organiser "
+"vos documents numériques."
 
 #: ../../files/toc.rst:16
 msgid ""
@@ -8381,9 +8471,9 @@ msgid ""
 "files in order, Files allows you to effortlessly share and manage your "
 "documents and images."
 msgstr ""
-"Que vous collaboriez avec des collègues ou que vous organisiez simplement "
-"vos fichiers, Files vous permet de partager et de gérer vos documents et "
-"images en toute simplicité."
+"Que vous collaboriez avec des collègues ou que vous organisiez simplement"
+" vos fichiers, Files vous permet de partager et de gérer vos documents et"
+" images en toute simplicité."
 
 #: ../../files/toc.rst:19
 msgid ""
@@ -8392,8 +8482,8 @@ msgid ""
 "generate new documents."
 msgstr ""
 "Grâce à son interface intuitive, vous pouvez créer facilement plusieurs "
-"dossiers, télécharger des fichiers depuis votre ordinateur, sauvegarder les "
-"pièces jointes d’e‑mail et même générer de nouveaux documents."
+"dossiers, télécharger des fichiers depuis votre ordinateur, sauvegarder "
+"les pièces jointes d’e‑mail et même générer de nouveaux documents."
 
 #: ../../files/toc.rst:22
 msgid ""
@@ -8403,11 +8493,11 @@ msgid ""
 "this mode you will see all the files and folders as thumbnails, instead "
 "of the vertical list."
 msgstr ""
-"En cliquant sur l’icône Files, vous accédez à la vue du module Files : vous "
-"pouvez sélectionner le bouton de mise en page grille en haut à droite de "
-"l’en-tête de liste pour passer du mode liste au mode grille. Dans ce mode, "
-"vous voyez tous les fichiers et dossiers sous forme de vignettes, au lieu "
-"d’une liste verticale."
+"En cliquant sur l’icône Files, vous accédez à la vue du module Files : "
+"vous pouvez sélectionner le bouton de mise en page grille en haut à "
+"droite de l’en-tête de liste pour passer du mode liste au mode grille. "
+"Dans ce mode, vous voyez tous les fichiers et dossiers sous forme de "
+"vignettes, au lieu d’une liste verticale."
 
 #: ../../files/toc.rst:27
 msgid ""
@@ -9424,9 +9514,9 @@ msgid ""
 msgstr ""
 "Dans cet état, les collaborateurs ne peuvent pas modifier le document, "
 "enregistrer des modifications ou créer de nouvelles versions tant que le "
-"propriétaire n’est pas revenu dans les limites du quota. Une fois l’usage du "
-"stockage du propriétaire réduit en dessous du quota, le document redevient "
-"automatiquement modifiable pour tous les collaborateurs."
+"propriétaire n’est pas revenu dans les limites du quota. Une fois l’usage"
+" du stockage du propriétaire réduit en dessous du quota, le document "
+"redevient automatiquement modifiable pour tous les collaborateurs."
 
 #: ../../files/toc.rst:425
 msgid "Adding Collaborators to a File / Folder"
@@ -10023,38 +10113,148 @@ msgstr ""
 " :"
 
 #: ../../get_started/toc.rst:79
-msgid "> Enter your username and password;"
+#, fuzzy
+msgid "Enter your username and password"
 msgstr "> Saisissez votre nom d’utilisateur et votre mot de passe ;"
 
 #: ../../get_started/toc.rst:81
+#, fuzzy
 msgid ""
-"> When prompted for the second factor, choose your OTP credential (eg. "
-"myOTP1);"
+"When prompted for the second factor, choose your OTP credential (eg. "
+"\"myOTP1\")"
 msgstr ""
 "> Lorsqu’on vous demande le deuxième facteur, choisissez votre **OTP "
 "credential** (p. ex. myOTP1) ;"
 
 #: ../../get_started/toc.rst:83
-msgid "> Open your authenticator app or use your next available PIN code;"
+#, fuzzy
+msgid "Open your authenticator app or use your next available PIN code"
 msgstr ""
 "> Ouvrez votre Authenticator App ou utilisez le prochain **PIN code** "
 "disponible ;"
 
 #: ../../get_started/toc.rst:85
-msgid "> Insert the verification code or PIN into the login form;"
+#, fuzzy
+msgid "Insert the verification code or PIN into the login form"
 msgstr ""
 "> Saisissez le code de vérification ou le PIN dans le formulaire de "
 "connexion ;"
 
 #: ../../get_started/toc.rst:87
-msgid "> Click LOGIN."
+#, fuzzy
+msgid "Click LOGIN"
 msgstr "> Cliquez sur **LOGIN**."
 
-#: ../../get_started/toc.rst:91
+#: ../../get_started/toc.rst:90
+msgid "Using 2FA from Untrusted Networks"
+msgstr ""
+
+#: ../../get_started/toc.rst:92
+msgid ""
+"To enhance security, Carbonio can require Two-Factor Authentication (2FA)"
+" specifically when you sign in from an **untrusted network**. Whether a "
+"network is considered trusted or untrusted depends on how your "
+"administrator has configured the system. Examples of untrusted networks "
+"include your home Wi-Fi, public hotspots, or any network outside your "
+"organization's trusted corporate environment."
+msgstr ""
+
+#: ../../get_started/toc.rst:97
+#, fuzzy
+msgid "How it Works"
+msgstr "Fonctionnement"
+
+#: ../../get_started/toc.rst:99
+msgid ""
+"When you log in from an untrusted network, the system checks if you have "
+"a second-factor authenticator (OTP) configured."
+msgstr ""
+
+#: ../../get_started/toc.rst:101
+msgid ""
+"**If you already have 2FA configured:** You will be prompted to enter "
+"your username, password, and the 6-digit code from your authenticator "
+"app."
+msgstr ""
+
+#: ../../get_started/toc.rst:102
+msgid ""
+"**If you have NOT configured 2FA:** Depending on your organization's "
+"security policy, you will either be guided through a setup wizard or "
+"asked to contact your administrator."
+msgstr ""
+
+#: ../../get_started/toc.rst:105
+#, fuzzy
+msgid "Setting Up 2FA Remotely"
+msgstr "Configuration des filtres de courriel"
+
+#: ../../get_started/toc.rst:107
+msgid ""
+"If your administrator allows remote enrollment, you can set up your 2FA "
+"directly from the login screen via the **2FA Setup Wizard**:"
+msgstr ""
+
+#: ../../get_started/toc.rst:109
+msgid ""
+"**Scan the QR Code:** Open your preferred authenticator app and either "
+"scan the QR code displayed on your screen or, if you can’t scan the QR "
+"code, enter the secret code directly into the application."
+msgstr ""
+
+#: ../../get_started/toc.rst:111
+msgid ""
+"**Verify:** Enter the 6-digit verification code generated by the app to "
+"link it to your account."
+msgstr ""
+
+#: ../../get_started/toc.rst:112
+msgid "**Login:** Once verified, you will be granted access to your account."
+msgstr ""
+
+#: ../../get_started/toc.rst:115
+msgid "Understanding the Grace Period"
+msgstr ""
+
+#: ../../get_started/toc.rst:117
+msgid ""
+"If your organization has enabled a **grace period**, you can temporarily "
+"access your account before 2FA becomes mandatory."
+msgstr ""
+
+#: ../../get_started/toc.rst:119
+msgid ""
+"The **2FA Setup Wizard** is displayed each time you sign in until you "
+"complete the setup."
+msgstr ""
+
+#: ../../get_started/toc.rst:120
+msgid ""
+"You must complete the setup before the grace period expires. If the "
+"period ends and you have not configured 2FA, you will be unable to sign "
+"in from an untrusted network and will need to contact your system "
+"administrator for assistance."
+msgstr ""
+
+#: ../../get_started/toc.rst:123
+msgid ""
+"Always complete the 2FA setup as soon as possible to avoid losing access "
+"when the grace period ends."
+msgstr ""
+
+#: ../../get_started/toc.rst:126
+msgid ""
+"Unless a grace period is configured, you must complete the 2FA setup "
+"before you can sign in. After setup, every sign-in requires your "
+"username, password, and a one-time passcode (OTP) generated by your "
+"authenticator app."
+msgstr ""
+
+#: ../../get_started/toc.rst:131
 msgid "Using SAML to Sign In"
 msgstr "Utilisation de SAML pour se connecter"
 
-#: ../../get_started/toc.rst:93
+#: ../../get_started/toc.rst:133
 msgid ""
 "**SAML** stands for **Security Assertion Markup Language**. It is like a "
 "secret handshake between different websites and apps to make sure you are"
@@ -10066,7 +10266,7 @@ msgstr ""
 "pour garantir votre identité. Imaginez‑le comme un passeport spécial qui "
 "vous ouvre plusieurs accès sans clé distincte pour chaque porte."
 
-#: ../../get_started/toc.rst:95
+#: ../../get_started/toc.rst:135
 msgid ""
 "You have generally two ways to use SAML functionality to sign in to your "
 "|product| account:"
@@ -10074,21 +10274,21 @@ msgstr ""
 "Vous disposez généralement de deux méthodes pour utiliser SAML afin de "
 "vous connecter à votre compte |product| :"
 
-#: ../../get_started/toc.rst:97
+#: ../../get_started/toc.rst:137
 msgid "First Flow:"
 msgstr "Premier flux :"
 
-#: ../../get_started/toc.rst:99
+#: ../../get_started/toc.rst:139
 msgid "When logging in to |product| webmail, look for the **LOGIN SAML** button."
 msgstr ""
 "Lors de la connexion au webmail |product|, recherchez le bouton **LOGIN "
 "SAML**."
 
-#: ../../get_started/toc.rst:100
+#: ../../get_started/toc.rst:140
 msgid "Click it, and it will automatically sign you into your webmail."
 msgstr "Cliquez dessus, et il vous connectera automatiquement à votre webmail."
 
-#: ../../get_started/toc.rst:101
+#: ../../get_started/toc.rst:141
 msgid ""
 "Important: You must already be logged into your **identity provider "
 "service** (like Okta or other services provided by your system "
@@ -10098,7 +10298,7 @@ msgstr ""
 "service** (ex. Okta ou autre service fourni par votre administrateur "
 "système)."
 
-#: ../../get_started/toc.rst:102
+#: ../../get_started/toc.rst:142
 msgid ""
 "If you are not sure how to log into your identity provider, reach out to "
 "your **system administrator** for assistance."
@@ -10106,11 +10306,11 @@ msgstr ""
 "Si vous ne savez pas comment vous connecter à votre identity provider, "
 "contactez votre **system administrator** pour obtenir de l’aide."
 
-#: ../../get_started/toc.rst:104
+#: ../../get_started/toc.rst:144
 msgid "Second Flow:"
 msgstr "Deuxième flux :"
 
-#: ../../get_started/toc.rst:106
+#: ../../get_started/toc.rst:146
 msgid ""
 "First, log in to your **identity provider service** (e.g., Okta or other "
 "services provided by your system administrator)."
@@ -10118,13 +10318,13 @@ msgstr ""
 "Tout d’abord, connectez‑vous à votre **identity provider service** (ex. "
 "Okta ou autre service fourni par votre administrateur système)."
 
-#: ../../get_started/toc.rst:107
+#: ../../get_started/toc.rst:147
 msgid "Once you are logged in there, simply click on the **|product| mail app**."
 msgstr ""
 "Une fois connecté, cliquez simplement sur l’application **|product| mail "
 "app**."
 
-#: ../../get_started/toc.rst:108
+#: ../../get_started/toc.rst:148
 msgid ""
 "SAML will seamlessly take you to your webmail without requiring you to "
 "insert your credentials."
@@ -10132,11 +10332,11 @@ msgstr ""
 "SAML vous dirigera directement vers votre webmail sans vous demander de "
 "saisir vos identifiants."
 
-#: ../../get_started/toc.rst:112
+#: ../../get_started/toc.rst:152
 msgid "Signing Out"
 msgstr "Déconnexion"
 
-#: ../../get_started/toc.rst:114
+#: ../../get_started/toc.rst:154
 msgid ""
 "To ensure the security of your |product| web client, it is essential to "
 "sign out when you are away from your computer. Here are two "
@@ -10146,11 +10346,11 @@ msgstr ""
 " de vous déconnecter en vous éloignant de votre ordinateur. Voici deux "
 "méthodes simples pour vous déconnecter :"
 
-#: ../../get_started/toc.rst:116
+#: ../../get_started/toc.rst:156
 msgid "Using the Account Icon:"
 msgstr "Utilisation de l'icône de compte :"
 
-#: ../../get_started/toc.rst:118
+#: ../../get_started/toc.rst:158
 msgid ""
 "Click on the account icon located in the top-right corner of the webmail "
 "interface."
@@ -10158,29 +10358,29 @@ msgstr ""
 "Cliquez sur l'icône de compte située dans le coin supérieur droit de "
 "l'interface webmail."
 
-#: ../../get_started/toc.rst:119
+#: ../../get_started/toc.rst:159
 msgid "Select the **Logout** button."
 msgstr "Sélectionnez le bouton **Logout**."
 
-#: ../../get_started/toc.rst:120
+#: ../../get_started/toc.rst:160
 msgid "You will be securely signed out."
 msgstr "Vous serez déconnecté en toute sécurité."
 
-#: ../../get_started/toc.rst:122
+#: ../../get_started/toc.rst:162
 msgid "Via General Settings:"
 msgstr "Via les paramètres généraux :"
 
-#: ../../get_started/toc.rst:124
+#: ../../get_started/toc.rst:164
 msgid "Click the **gear icon** on the left sidebar panel to access settings."
 msgstr ""
 "Cliquez sur l'**icône d'engrenage** du panneau latéral gauche pour "
 "accéder aux paramètres."
 
-#: ../../get_started/toc.rst:125
+#: ../../get_started/toc.rst:165
 msgid "Navigate to General Settings."
 msgstr "Accédez aux paramètres généraux."
 
-#: ../../get_started/toc.rst:126
+#: ../../get_started/toc.rst:166
 msgid ""
 "In the **Account** section, click the **LOGOUT** button, and you will be "
 "successfully logged out."
@@ -10188,7 +10388,7 @@ msgstr ""
 "Dans la section **Account**, cliquez sur le bouton **LOGOUT** pour vous "
 "déconnecter."
 
-#: ../../get_started/toc.rst:128
+#: ../../get_started/toc.rst:168
 msgid ""
 "For security purposes, your system administrator might set a maximum "
 "duration for your login session."
@@ -10196,7 +10396,7 @@ msgstr ""
 "Pour des raisons de sécurité, votre administrateur système peut définir "
 "une durée maximale pour votre session."
 
-#: ../../get_started/toc.rst:130
+#: ../../get_started/toc.rst:170
 msgid ""
 "When your session is about to expire, you will be notified in advance "
 "through the bottom left bar, which will display the remaining time: 10 "
@@ -10210,11 +10410,11 @@ msgstr ""
 "lien vers la page de connexion. Connectez‑vous de nouveau comme "
 "d'habitude pour reprendre votre travail."
 
-#: ../../get_started/toc.rst:134
+#: ../../get_started/toc.rst:174
 msgid "In Case of Forgetting Your Password"
 msgstr "En cas d'oubli du mot de passe"
 
-#: ../../get_started/toc.rst:136
+#: ../../get_started/toc.rst:176
 msgid ""
 "To start the password recovery procedure, you need to enter the recovery "
 "address in the **Auth** panel, in the **Settings** section. "
@@ -10226,7 +10426,7 @@ msgstr ""
 "également demander à l'administrateur de configurer un e‑mail de "
 "récupération pour votre compte."
 
-#: ../../get_started/toc.rst:138
+#: ../../get_started/toc.rst:178
 msgid ""
 "If in the Auth panel - Settings section - you do not see the field to set"
 " a recovery address, it means that the administrator has not enabled your"
@@ -10236,23 +10436,23 @@ msgstr ""
 "Settings, cela signifie que l'administrateur n'a pas activé la "
 "récupération pour votre compte."
 
-#: ../../get_started/toc.rst:140
+#: ../../get_started/toc.rst:180
 msgid "If you forgot your password, follow these steps:"
 msgstr "Si vous avez oublié votre mot de passe, suivez les étapes suivantes :"
 
-#: ../../get_started/toc.rst:147
+#: ../../get_started/toc.rst:187
 msgid "Click on the **Forget Password?** Button, from the login page."
 msgstr "Cliquez sur le bouton **Forget Password?** depuis la page de connexion."
 
-#: ../../get_started/toc.rst:148
+#: ../../get_started/toc.rst:188
 msgid "Enter your username."
 msgstr "Saisissez votre nom d'utilisateur."
 
-#: ../../get_started/toc.rst:149
+#: ../../get_started/toc.rst:189
 msgid "You will receive an email at your recovery email address."
 msgstr "Vous recevrez un e‑mail à votre adresse de récupération."
 
-#: ../../get_started/toc.rst:150
+#: ../../get_started/toc.rst:190
 msgid ""
 "A temporary **validation code**, that expires in twenty-four hours, will "
 "be sent to the recovery e-mail address."
@@ -10260,13 +10460,13 @@ msgstr ""
 "Un **code de validation** temporaire, valide pendant 24 heures, sera "
 "envoyé à l’adresse de récupération."
 
-#: ../../get_started/toc.rst:151
+#: ../../get_started/toc.rst:191
 msgid "Copy it and insert it, then click the :bdg-primary:`VALIDATE CODE` button."
 msgstr ""
 "Copiez‑le, collez‑le, puis cliquez sur le bouton :bdg-primary:`VALIDATE "
 "CODE`."
 
-#: ../../get_started/toc.rst:152
+#: ../../get_started/toc.rst:192
 msgid ""
 "If the code is validated, you can :bdg-primary-line:`CONTINUE WITH YOUR "
 "SESSION`, access your mailbox and then add a new password in the "
@@ -10277,7 +10477,7 @@ msgstr ""
 "passe dans le module Settings, où vous pouvez également modifier "
 "l’adresse de récupération."
 
-#: ../../get_started/toc.rst:154
+#: ../../get_started/toc.rst:194
 msgid ""
 "If your system administrator has not configured a recovery email for your"
 " account, or you have not inserted your own recovery email address, when "
@@ -10290,7 +10490,7 @@ msgstr ""
 "votre nom d’utilisateur pour recevoir l’e‑mail de récupération de mot de "
 "passe, un message d’erreur s’affichera."
 
-#: ../../get_started/toc.rst:156
+#: ../../get_started/toc.rst:196
 msgid ""
 "The error will prompt you to **contact your system administrator**. In "
 "this scenario, **the only way to log into your account** is by seeking "
@@ -10300,11 +10500,11 @@ msgstr ""
 "ce cas, **la seule façon de vous connecter** est de demander l’assistance"
 " de votre administrateur système."
 
-#: ../../get_started/toc.rst:160
+#: ../../get_started/toc.rst:200
 msgid "Changing Your Password"
 msgstr "Modifier votre mot de passe"
 
-#: ../../get_started/toc.rst:162
+#: ../../get_started/toc.rst:202
 msgid ""
 "Resetting a password becomes necessary when you want to update your "
 "existing password due to security reasons or any other relevant factors. "
@@ -10317,53 +10517,53 @@ msgstr ""
 "motifs pertinents. Pour changer votre mot de passe, vous devez être "
 "connecté à votre compte. Voici les étapes à suivre :"
 
-#: ../../get_started/toc.rst:164
+#: ../../get_started/toc.rst:204
 msgid "**Option 1: Changing Password via Settings**"
 msgstr "**Option 1 : Modification du mot de passe via les paramètres**"
 
-#: ../../get_started/toc.rst:166
+#: ../../get_started/toc.rst:206
 msgid "Log into your account."
 msgstr "Connectez‑vous à votre compte."
 
-#: ../../get_started/toc.rst:167
+#: ../../get_started/toc.rst:207
 msgid "Click on the **settings** (gear icon) located in the left sidebar."
 msgstr ""
 "Cliquez sur **Paramètres** (icône d’engrenage) dans la barre latérale "
 "gauche."
 
-#: ../../get_started/toc.rst:168
+#: ../../get_started/toc.rst:208
 msgid "Select **Auth**."
 msgstr "Sélectionnez **Auth**."
 
-#: ../../get_started/toc.rst:169
+#: ../../get_started/toc.rst:209
 msgid "Click on Change Password."
 msgstr "Cliquez sur Change Password."
 
-#: ../../get_started/toc.rst:170
+#: ../../get_started/toc.rst:210
 msgid "Enter your **old password** along with your new password."
 msgstr ""
 "Saisissez votre **ancien mot de passe** ainsi que votre nouveau mot de "
 "passe."
 
-#: ../../get_started/toc.rst:171
+#: ../../get_started/toc.rst:211
 msgid "Click the **CHANGE PASSWORD** button."
 msgstr "Cliquez sur le bouton **CHANGE PASSWORD**."
 
-#: ../../get_started/toc.rst:177
+#: ../../get_started/toc.rst:217
 msgid "**Option 2: Changing Password via User Account Menu**"
 msgstr ""
 "**Option 2 : Modification du mot de passe via le menu du compte "
 "utilisateur**"
 
-#: ../../get_started/toc.rst:179
+#: ../../get_started/toc.rst:219
 msgid "Click the **User icon** in the top‑right corner."
 msgstr "Cliquez sur le bouton ENREGISTRER en haut à droite."
 
-#: ../../get_started/toc.rst:180
+#: ../../get_started/toc.rst:220
 msgid "Select the **Change password** option."
 msgstr "Cliquez sur le bouton **CHANGE PASSWORD**."
 
-#: ../../get_started/toc.rst:181
+#: ../../get_started/toc.rst:221
 msgid ""
 "You will be taken directly to the **Auth section in Settings**, which is "
 "dedicated to password changes."
@@ -10371,17 +10571,17 @@ msgstr ""
 "Vous serez dirigé directement vers la **section Auth dans Settings**, "
 "dédiée aux changements de mot de passe."
 
-#: ../../get_started/toc.rst:182
+#: ../../get_started/toc.rst:222
 msgid "Enter your current password and then your new password."
 msgstr ""
 "Saisissez votre **ancien mot de passe** ainsi que votre nouveau mot de "
 "passe."
 
-#: ../../get_started/toc.rst:183
+#: ../../get_started/toc.rst:223
 msgid "Click the **CHANGE PASSWORD** button to confirm."
 msgstr "Cliquez sur le bouton **CHANGE PASSWORD**."
 
-#: ../../get_started/toc.rst:184
+#: ../../get_started/toc.rst:224
 msgid ""
 "You will receive a confirmation message indicating that your password has"
 " been successfully changed."
@@ -10389,11 +10589,11 @@ msgstr ""
 "Vous recevrez un message de confirmation indiquant que votre mot de passe"
 " a été modifié avec succès."
 
-#: ../../get_started/toc.rst:192
+#: ../../get_started/toc.rst:232
 msgid "Introduction of |product| Web Client"
 msgstr "Introduction du client Web |product|"
 
-#: ../../get_started/toc.rst:194
+#: ../../get_started/toc.rst:234
 msgid ""
 "When you log in to check your emails, the |product| **web client "
 "interface** greets you with the following components:"
@@ -10401,7 +10601,7 @@ msgstr ""
 "Lorsque vous vous connectez pour consulter vos e‑mails, l’**interface web"
 " client |product|** vous présente les composants suivants :"
 
-#: ../../get_started/toc.rst:201
+#: ../../get_started/toc.rst:241
 msgid ""
 "**Left Sidebar**: This section provides navigation options and quick "
 "access to various features such as Mails, Calendars, Contacts, etc."
@@ -10410,7 +10610,7 @@ msgstr ""
 " et un accès rapide à diverses fonctionnalités telles que Courriels, "
 "Calendriers, Contacts, etc."
 
-#: ../../get_started/toc.rst:202
+#: ../../get_started/toc.rst:242
 msgid ""
 "**Navigation Panel**: Here, you will find additional context related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -10423,7 +10623,7 @@ msgstr ""
 "gauche, vous accéderez ici à vos boîtes de réception et dossiers de "
 "courriel."
 
-#: ../../get_started/toc.rst:203
+#: ../../get_started/toc.rst:243
 msgid ""
 "**Main Panel**: The central area displays your actual content related to "
 "the active feature you have selected from the left sidebar. For example, "
@@ -10437,7 +10637,7 @@ msgstr ""
 "cette zone ; de même, choisir « Calendars » affichera vos événements de "
 "calendrier."
 
-#: ../../get_started/toc.rst:204
+#: ../../get_started/toc.rst:244
 msgid ""
 "**Storage Quota**: Displays your overall storage usage across Carbonio "
 "modules, including Mail, Files, and Chats. It shows the used space "
@@ -10449,11 +10649,11 @@ msgstr ""
 "Il indique l'espace utilisé par rapport au quota total, avec une barre de"
 " progression pour suivre rapidement votre consommation."
 
-#: ../../get_started/toc.rst:207
+#: ../../get_started/toc.rst:247
 msgid "Using Browser Buttons to Navigate |product|"
 msgstr "Utilisation des boutons du navigateur pour naviguer |product|"
 
-#: ../../get_started/toc.rst:209
+#: ../../get_started/toc.rst:249
 msgid ""
 "It is recommended to avoid using your browser’s navigation buttons too "
 "frequently, especially when you are in the middle of composing an email "
@@ -10465,7 +10665,7 @@ msgstr ""
 " boutons peuvent interrompre involontairement votre travail et entraîner "
 "une perte de données. Procédez donc avec prudence."
 
-#: ../../get_started/toc.rst:211
+#: ../../get_started/toc.rst:251
 msgid ""
 "**Back Button**: You can use your browser’s back button to return to the "
 "previous page you were viewing on |product|."
@@ -10473,7 +10673,7 @@ msgstr ""
 "**Bouton Retour** : Vous pouvez utiliser le bouton Retour de votre "
 "navigateur pour revenir à la page précédente affichée sur |product|."
 
-#: ../../get_started/toc.rst:212
+#: ../../get_started/toc.rst:252
 msgid ""
 "**Forward Button**: If you have gone back and want to revisit a page you "
 "just left, click the forward button."
@@ -10481,7 +10681,7 @@ msgstr ""
 "**Bouton Avance** : Si vous êtes revenu en arrière et souhaitez revisiter"
 " la page que vous venez de quitter, cliquez sur le bouton Avance."
 
-#: ../../get_started/toc.rst:213
+#: ../../get_started/toc.rst:253
 msgid ""
 "**Avoid Reload/Refresh**: Be cautious with the reload or refresh button. "
 "Clicking it restarts your session, which can be especially dangerous when"
@@ -10494,11 +10694,11 @@ msgstr ""
 " d’un nouveau courriel ou d’un long texte. Vous risquez de perdre votre "
 "travail."
 
-#: ../../get_started/toc.rst:216
+#: ../../get_started/toc.rst:256
 msgid "Account Personalization"
 msgstr "Personnalisation du compte"
 
-#: ../../get_started/toc.rst:218
+#: ../../get_started/toc.rst:258
 msgid ""
 "Before you start using the |product| web client, take a moment to "
 "personalize your account. You can customize visual aspects such as the "
@@ -10514,11 +10714,11 @@ msgstr ""
 "**Settings**. Pour y accéder, cliquez sur l’icône d’engrenage dans la "
 "barre latérale gauche, puis choisissez **General Settings**."
 
-#: ../../get_started/toc.rst:222
+#: ../../get_started/toc.rst:262
 msgid "Changing Theme"
 msgstr "Modification du thème"
 
-#: ../../get_started/toc.rst:224
+#: ../../get_started/toc.rst:264
 msgid ""
 "A theme in the |product| web client defines the color scheme used for its"
 " appearance. Currently, there are **two themes** available: **Dark mode**"
@@ -10528,25 +10728,25 @@ msgstr ""
 "son apparence. Actuellement, il existe **two themes** : **Dark mode** et "
 "**Light mode**. Voici comment les gérer :"
 
-#: ../../get_started/toc.rst:226
+#: ../../get_started/toc.rst:266
 msgid "To **activate Dark mode**, follow these steps:"
 msgstr "Pour **activer Dark mode**, suivez ces étapes :"
 
-#: ../../get_started/toc.rst:228
+#: ../../get_started/toc.rst:268
 msgid "Go to **Settings** (gear icon) from the left sidebar."
 msgstr ""
 "Accédez à **Settings** (icône d’engrenage) depuis la barre latérale "
 "gauche."
 
-#: ../../get_started/toc.rst:230
+#: ../../get_started/toc.rst:270
 msgid "Under **Theme Options**, open the dropdown menu."
 msgstr "Sous **Theme Options**, ouvrez le menu déroulant."
 
-#: ../../get_started/toc.rst:231
+#: ../../get_started/toc.rst:271
 msgid "Click on **Enabled**."
 msgstr "Cliquez sur **Enabled**."
 
-#: ../../get_started/toc.rst:232
+#: ../../get_started/toc.rst:272
 msgid ""
 "Click on the **SAVE** button located in the **top right corner** of the "
 "screen."
@@ -10554,17 +10754,17 @@ msgstr ""
 "Cliquez sur le bouton **SAVE** situé dans le **top right corner** de "
 "l’écran."
 
-#: ../../get_started/toc.rst:234
+#: ../../get_started/toc.rst:274
 msgid "To **disable Dark mode**, follow these steps:"
 msgstr "Pour **désactiver Dark mode**, suivez ces étapes :"
 
-#: ../../get_started/toc.rst:236
+#: ../../get_started/toc.rst:276
 msgid "Click on **Disabled** in the same dropdown menu and click **SAVE**."
 msgstr ""
 "Cliquez sur **Disabled** dans le même menu déroulant, puis cliquez sur "
 "**SAVE**."
 
-#: ../../get_started/toc.rst:238
+#: ../../get_started/toc.rst:278
 msgid ""
 "If you choose **Auto**, |product| will adapt to your **operating system’s"
 " default theme**. For example:"
@@ -10572,19 +10772,19 @@ msgstr ""
 "Si vous choisissez **Auto**, |product| s’adaptera au **operating system’s"
 " default theme**. Exemple :"
 
-#: ../../get_started/toc.rst:240
+#: ../../get_started/toc.rst:280
 msgid "If your OS theme is dark, |product| will also be in dark mode."
 msgstr "Si le thème de votre OS est sombre, |product| sera également en dark mode."
 
-#: ../../get_started/toc.rst:241
+#: ../../get_started/toc.rst:281
 msgid "If your OS theme is light, |product| will match that as well."
 msgstr "Si le thème de votre OS est clair, |product| le reproduira également."
 
-#: ../../get_started/toc.rst:249
+#: ../../get_started/toc.rst:289
 msgid "Changing Font Size"
 msgstr "Modification de la taille de police"
 
-#: ../../get_started/toc.rst:251
+#: ../../get_started/toc.rst:291
 msgid ""
 "You can change the font size across all |product| web clients according "
 "to your preferences. To change the font size simply follow these steps:"
@@ -10593,11 +10793,11 @@ msgstr ""
 "|product| selon vos préférences. Pour ce faire, suivez simplement ces "
 "étapes :"
 
-#: ../../get_started/toc.rst:253 ../../get_started/toc.rst:287
+#: ../../get_started/toc.rst:293 ../../get_started/toc.rst:327
 msgid "Open the **Settings** (gear icon) from the left sidebar."
 msgstr "Ouvrez **Settings** (icône d’engrenage) depuis la barre latérale gauche."
 
-#: ../../get_started/toc.rst:255
+#: ../../get_started/toc.rst:295
 msgid ""
 "Under the **Appearance** section, find the slider for adjusting the font "
 "size."
@@ -10605,7 +10805,7 @@ msgstr ""
 "Dans la section **Appearance**, localisez le curseur de réglage de la "
 "taille de police."
 
-#: ../../get_started/toc.rst:256
+#: ../../get_started/toc.rst:296
 msgid ""
 "If you want to manually control the font size, uncheck the option that "
 "says *Automatically resize the text size depending on the device*."
@@ -10613,7 +10813,7 @@ msgstr ""
 "Si vous souhaitez contrôler manuellement la taille de police, décochez "
 "l’option *Automatically resize the text size depending on the device*."
 
-#: ../../get_started/toc.rst:257
+#: ../../get_started/toc.rst:297
 msgid ""
 "Use the slider to set the font size to your preference. As you move the "
 "slider, you will see the results in the bottom box with some dummy text."
@@ -10622,11 +10822,11 @@ msgstr ""
 "déplaçant, vous verrez le résultat dans la zone inférieure avec du texte "
 "factice."
 
-#: ../../get_started/toc.rst:258
+#: ../../get_started/toc.rst:298
 msgid "Once you are satisfied, click **SAVE** in the top right corner."
 msgstr "Une fois satisfait(e), cliquez sur **SAVE** en haut à droite."
 
-#: ../../get_started/toc.rst:260
+#: ../../get_started/toc.rst:300
 msgid ""
 "Remember, if you prefer automatic resizing based on the device, you can "
 "leave the checkbox checked. Otherwise, adjust the font size manually "
@@ -10636,11 +10836,11 @@ msgstr ""
 "l'appareil, laissez la case cochée. Sinon, ajustez la taille de la police"
 " manuellement avec le curseur."
 
-#: ../../get_started/toc.rst:268
+#: ../../get_started/toc.rst:308
 msgid "Manage time zones in |product| for accurate collaboration"
 msgstr "Gestion des fuseaux horaires dans |product| pour une collaboration précise"
 
-#: ../../get_started/toc.rst:270
+#: ../../get_started/toc.rst:310
 msgid ""
 "|product| relies on accurate time zone settings to ensure correct "
 "timestamps for calendars, emails, and other features."
@@ -10649,7 +10849,7 @@ msgstr ""
 "d’assurer des horodatages corrects pour les agendas, les courriels et "
 "autres fonctions."
 
-#: ../../get_started/toc.rst:272
+#: ../../get_started/toc.rst:312
 msgid ""
 "This is particularly important when collaborating across different "
 "countries and time zones. By default, |product| uses the time zone "
@@ -10659,7 +10859,7 @@ msgstr ""
 "pays et fuseaux horaires. Par défaut, |product| utilise le fuseau horaire"
 " configuré dans votre **système d’exploitation**."
 
-#: ../../get_started/toc.rst:275
+#: ../../get_started/toc.rst:315
 msgid ""
 "To display a different time zone in the |product| interface, update your "
 "system’s time zone settings."
@@ -10667,23 +10867,23 @@ msgstr ""
 "Pour afficher un autre fuseau horaire dans l’interface |product|, "
 "modifiez les réglages de fuseau horaire de votre système."
 
-#: ../../get_started/toc.rst:277
+#: ../../get_started/toc.rst:317
 msgid "|product| will then automatically apply the updated system time zone."
 msgstr ""
 "|product| appliquera alors automatiquement le fuseau horaire système mis "
 "à jour."
 
-#: ../../get_started/toc.rst:283
+#: ../../get_started/toc.rst:323
 msgid "Changing |product| Language"
 msgstr "Modification de la langue de |product|"
 
-#: ../../get_started/toc.rst:285
+#: ../../get_started/toc.rst:325
 msgid "To change your |product| web client language, follow these steps:"
 msgstr ""
 "Pour modifier la langue du client web |product|, suivez les étapes "
 "ci‑dessous :"
 
-#: ../../get_started/toc.rst:289
+#: ../../get_started/toc.rst:329
 msgid ""
 "Under the **Language** section select the dropdown menu for **Language** "
 "and choose your language."
@@ -10691,15 +10891,15 @@ msgstr ""
 "Dans la section **Time Zone and Language**, sélectionnez le menu "
 "déroulant **Language** et choisissez votre langue."
 
-#: ../../get_started/toc.rst:290
+#: ../../get_started/toc.rst:330
 msgid "Click **SAVE** in the top right corner."
 msgstr "Cliquez sur **SAVE** en haut à droite."
 
-#: ../../get_started/toc.rst:293
+#: ../../get_started/toc.rst:333
 msgid "Accessing Multiple Accounts"
 msgstr "Accès à plusieurs comptes"
 
-#: ../../get_started/toc.rst:295
+#: ../../get_started/toc.rst:335
 msgid ""
 "On the |product| web client, you have access to multiple accounts. Let's "
 "say you have your personal account, as well as two additional accounts "
@@ -10717,7 +10917,7 @@ msgstr ""
 "**Seul votre administrateur système peut ajouter ces comptes et vous "
 "accorder l'accès** afin de les gérer via votre compte principal."
 
-#: ../../get_started/toc.rst:301
+#: ../../get_started/toc.rst:341
 msgid ""
 "So, when you sign into your main account, you will see these two "
 "additional accounts listed under your main account. To access these "
@@ -14356,3 +14556,4 @@ msgstr "Cliquez sur l’icône couronne à côté du nom du participant."
 #~ "Dans ce mode, les fichiers et "
 #~ "dossiers apparaissent sous forme de "
 #~ "vignettes plutôt qu’en liste verticale."
+

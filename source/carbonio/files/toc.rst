@@ -577,3 +577,109 @@ to save changes made to the document.
 While editing a shared document, if the file quota limit is reached or changed, a warning message will appear on saving. You can still proceed by downloading the document and saving your changes locally.
 
 .. note:: For the **Files** quota limitation, you should contact your system administrator.
+
+Transfer Ownership of a File or Folder
+======================================
+
+The **Transfer ownership** feature allows a file or folder owner to permanently transfer ownership of one or more items to another user.  
+After the transfer, the selected user becomes the new owner of the items, while the previous owner remains a collaborator with editing permissions.
+
+Before you begin
+----------------
+
+- Ownership transfer is permanent and cannot be undone.
+- Items located in the Trash cannot be transferred.
+- Existing collaborators and shared links are preserved.
+- After the transfer, the previous owner remains a collaborator with editing and writing permissions.
+- The recipient cannot refuse the transfer.
+
+How to transfer ownership 
+-------------------------
+
+You can initiate a transfer from several locations in the **Files** module:
+
+* Right‑click a file or folder.
+* Right‑click multiple selected items.
+* Click the “**More**” icon (⋯) after selecting several items.
+* Use the action menu in the item‑details panel.
+
+Transferring ownership
+----------------------  
+1. Open the **Files** module.  
+2. Select one or more files or folders.  
+3. Click **Transfer ownership**.  
+4. In the **Transfer ownership** dialog, search for and select the new owner.  
+5. Wait for the quota check to complete.  
+6. Click **Transfer**.  
+
+A confirmation message is displayed once the transfer finishes successfully.
+
+Transfer‑ownership dialog
+-------------------------
+In the dialog you can:
+
+* Search for a user by typing their name or e‑mail address.  
+* Select only one recipient.  
+* Remove the selected recipient before confirming the transfer.
+
+The **Transfer** button remains disabled until a valid recipient is chosen.
+
+  .. image:: /img/transfer-ownership.png
+                :align: center
+                :width: 60%
+
+You can close the dialog by:
+
+* Clicking **Cancel**.  
+* Clicking the **Close** icon.  
+* Clicking outside the dialog.
+
+Quota verification
+------------------
+Before the transfer completes, Carbonio checks that the recipient has enough
+available quota to receive the selected items.  
+The dialog shows:
+
+* A quota warning if the receiver does not have sufficient space.  
+* A confirmation message when the quota check succeeds.
+
+Outcome after the transfer
+--------------------------
+After the transfer:
+
+* The chosen user becomes the new owner of the items.  
+* The previous owner remains a collaborator with editing permissions.  
+* Existing collaborators and shared links stay unchanged.
+
+On the recipient’s account:
+
+* A notification badge appears in the **Files** module.  
+* A badge also appears in the **Notifications** panel.  
+* The recipient receives a message such as:  
+  ``john.smith@example.com transferred ownership of items to you. You’ll find them in folder john.smith@example.com.``  
+* A folder named after the previous owner’s e‑mail address is created and contains the transferred items.
+  
+    .. image:: /img/transfer-ownership-notification.png
+                :align: center
+                :width: 60%
+
+              
+Where transferred items appear
+------------------------------
+Initially, the transferred items may appear in the recipient’s *Files* view with the original owner’s name.
+After a page refresh, the items appear under **Shared with me** as a system folder labeled with the previous owner’s e‑mail address.
+
+The folder behaves like any standard folder: all normal file and folder actions are still available.
+If the same user receives several ownership transfers from the same owner at different times,
+Carbonio creates separate folders with unique names, example:
+
+* `john.smith@example.com`  
+* `john.smith@example.com (1)`
+
+This avoids naming conflicts and keeps each transfer independent.
+
+Limitations
+-----------
+* Ownership transfer is not available for items in the Trash.  
+* Because the change is permanent, review the selected items and recipient carefully before confirming the transfer.
+

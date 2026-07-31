@@ -656,7 +656,7 @@ On the recipient’s account:
 * A notification badge appears in the **Files** module.  
 * A badge also appears in the **Notifications** panel.  
 * The recipient receives a message such as:  
-  ``john.smith@example.com transferred ownership of items to you. You’ll find them in folder john.smith@example.com.``  
+  ``johnn@example.com transferred ownership of items to you. You’ll find them in folder johnn@example.com.``  
 * A folder named after the previous owner’s e‑mail address is created and contains the transferred items.
   
     .. image:: /img/transfer-ownership-notification.png
@@ -673,8 +673,8 @@ The folder behaves like any standard folder: all normal file and folder actions 
 If the same user receives several ownership transfers from the same owner at different times,
 Carbonio creates separate folders with unique names, example:
 
-* `john.smith@example.com`  
-* `john.smith@example.com (1)`
+* `johnn@example.com`  
+* `johnn@example.com (1)`
 
 This avoids naming conflicts and keeps each transfer independent.
 

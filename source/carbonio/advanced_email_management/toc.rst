@@ -117,6 +117,85 @@ Here is how to do it:
           :align: center
           :width: 100%
 
+
+Allowed and Blocked Senders list
+=================================
+
+The **Allowed senders list** and **Blocked senders list** let you control how incoming e‑mail is handled for your mailbox.
+
+* Add trusted senders to the **Allowed senders list** to ensure that their messages bypass the spam filter and are delivered directly to your inbox.
+* Add unwanted senders to the **Blocked senders list** to automatically move their messages to the spam folder.
+
+Access the allowed and blocked senders lists
+--------------------------------------------
+
+To manage your allowed and blocked senders:
+
+#. Open **Settings**.
+#. Select **Mails** from the left navigation menu.
+#. Scroll to the **Allowed senders list** and **Blocked senders list** sections.
+
+The **Mail settings** page contains separate sections for **Trusted addresses**, **Allowed senders list**, and **Blocked senders list**.
+ 
+  .. image:: /img/allowed-sender-list.png
+          :align: center
+          :width: 100%
+
+Add an allowed sender
+---------------------
+
+Add an e‑mail address to the **Allowed senders list** to **always** allow messages from that sender.
+
+#. Open **Settings** > **Mails**.
+#. In the **Allowed senders list** section, enter the sender’s e‑mail address.
+#. Click **ADD**.
+
+The address is added immediately, and future messages from that sender bypass the spam filter and are delivered directly to your inbox.
+
+Example:
+--------
+
+Add john.smith@example.com to the Allowed senders list. Future messages from john.smith@example.com are delivered directly to your inbox.
+
+Add a blocked sender
+-----------------------
+
+Add an e‑mail address to the **Blocked senders list** to automatically move messages from that sender to the Spam folder.
+
+#. Open **Settings** > **Mails**.
+#. In the **Blocked senders list** section, enter the sender’s e‑mail address.
+#. Click **ADD**.
+
+The address is added immediately, and future messages from that sender are automatically moved to the Spam folder.
+
+Example:
+--------
+  
+Add spam@example.com to the Blocked senders list. Future messages from spam@example.com are automatically moved to Spam.
+
+Remove a sender
+-----------------
+
+You can remove any address from either list.
+
+#. Open **Settings** > **Mails**.
+#. Locate the address in the **Allowed senders list** or **Blocked senders list**.
+#. Remove the address from the list.
+
+The change takes effect immediately for future incoming messages.
+
+E‑mail address validation
+-------------------------
+
+Carbonio validates e‑mail addresses before adding them to a list.
+
+**Valid examples**
+
+* alice@example.com  
+* notifications@company.org  
+
+Invalid addresses cannot be added.
+
 Creating an Out-of-Office Email
 ===============================
 

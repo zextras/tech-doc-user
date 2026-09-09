@@ -43,5 +43,6 @@ You can download them from the official stores using the links below.
       :maxdepth: 1
 
       mail_app
-      chat_app
+      chat_legacy
+      chats_app
       files_app

@@ -35,8 +35,9 @@ Send a File from Your Device
 2. Tap **Attach** (paperclip icon).
 
 .. image:: /img/new-chat-attach-file.png
+                  :class: bordered-image
                   :align: center
-                  :width: 60%
+                  :width: 35%
 
 3. Select **Choose file** option.
 4. Select the file you want to share.
@@ -51,8 +52,9 @@ Send a File from Carbonio Files
 4. Choose a permission: viewer, editor, or sharing allowed.
 
 .. image:: /img/new-chat-permission.png
+                  :class: bordered-image
                   :align: center
-                  :width: 60%
+                  :width: 40%
 
 5. Tap **Save**.
 
@@ -129,6 +131,7 @@ To pin a message:
 2. Select **Pin message**.
 
 .. image:: /img/new-chat-pin-view.png
+                  :class: bordered-image
                   :align: center
                   :width: 60%
 
@@ -178,6 +181,7 @@ You can mute notifications for an individual chat or group when you do not want 
 3. Tap **Mute notifications**.
 
 .. image:: /img/new-chat-mute.png
+                  :class: bordered-image
                   :align: center
                   :width: 60%
 
@@ -301,6 +305,7 @@ Settings
 The **Settings** screen lets you manage account preferences, meeting options, and logout.
 
 .. image:: /img/new-chats-settings.png
+                  :class: bordered-image
                   :align: center
                   :width: 60%
 

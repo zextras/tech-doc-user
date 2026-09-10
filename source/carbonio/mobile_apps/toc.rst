@@ -16,11 +16,16 @@ You can download them from the official stores using the links below.
 
 - .. raw:: html
 
-     <a href="https://play.google.com/store/apps/details?id=com.zextras.files" target="_blank">Carbonio Chats</a>
+     <a href="https://play.google.com/store/apps/details?id=com.zextras.wscollaborationmobile" target="_blank">Carbonio Chats</a>
 
 - .. raw:: html
 
      <a href="https://play.google.com/store/apps/details?id=com.zextras.iris" target="_blank">Carbonio Files</a>
+
+- .. raw:: html
+
+     <a href="https://play.google.com/store/apps/details?id=com.zextras.chats" target="_blank">Carbonio Legacy Chats</a>
+     
 
 **iOS (Apple App Store)**
 
@@ -30,12 +35,16 @@ You can download them from the official stores using the links below.
 
 - .. raw:: html
 
-     <a href="https://apps.apple.com/us/app/carbonio-chats/id6448905333" target="_blank">Carbonio Chats</a>
+     <a href=" https://testflight.apple.com/join/hdEsNyMN" target="_blank">Carbonio Chats</a>
 
 - .. raw:: html
 
      <a href="https://apps.apple.com/it/app/carbonio-files/id1606750406" target="_blank">Carbonio Files</a>
 
+
+- .. raw:: html
+
+     <a href=" https://apps.apple.com/it/app/carbonio-chats/id6448905333" target="_blank">Carbonio Legacy Chats</a>
 
 .. card:: Table of Contents
 

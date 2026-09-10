@@ -17,8 +17,9 @@ You can start a private one-to-one conversation with a colleague.
 5. Enter your message in the text box and tap **Send**.
 
 .. image:: /img/new-chats.png
-                  :align: center
-                  :width: 60%
+   :class: bordered-image
+   :align: center
+   :width: 40%
 
 You can also add emojis, attachments, and other supported content.
 
@@ -252,6 +253,7 @@ Video Meetings and Rooms
 Carbonio Chats also provides shared rooms for chat and video meetings. Rooms can be used as persistent spaces where participants can communicate and join meetings using a shared link.
 
 .. image:: /img/new-chats-meetings.png
+                  :class: bordered-image
                   :align: center
                   :width: 60%
 

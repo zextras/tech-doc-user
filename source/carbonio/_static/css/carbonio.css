@@ -4,6 +4,8 @@
  * SPDX-License-Identifier: CC-BY-NC-SA-4.0
  */
 
+@import url("common.css");
+
 a.bordered-image {
 border: none;
 padding: 0;

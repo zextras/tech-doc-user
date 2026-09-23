@@ -163,6 +163,35 @@ Add an attachment from Carbonio Files
    (for example ``.exe`` or ``.zip``). In some cases you may not receive a warning if the
    recipient’s system blocks the attachment—so consider confirming receipt when it’s important.
 
+Related large-attachment behavior
+---------------------------------
+
+The same size limitation can affect e-mails created in the **Carbonio Mail
+Android application**. Previously, when an attachment exceeded the applicable
+limit, the message could return to the **Drafts** folder without an error,
+warning, upload status, or retry option.
+
+Size-limit failures should be communicated clearly rather than silently
+returning the message to Drafts. Attachments within the limits configured on
+the Carbonio server can continue through the normal sending process.
+
+Example
+-------
+
+Suppose a file is approximately **35.98 MB**. Its raw size is not the only
+value considered when determining whether it can be attached. The application
+also accounts for the overhead introduced when the attachment is encoded for
+e-mail transmission.
+
+If the estimated attachment size exceeds the configured maximum, you see this message:
+
+    This file is too large to attach. Open a new e-mail and use Add from Files
+    to share it as a Smart Link instead.
+
+You can acknowledge the warning and share the file using
+**Add from Files → Smart Link** rather than attempting to send it as an
+attachment.
+
 Send an Email from a Different Account or Persona
 --------------------------------------------------
 

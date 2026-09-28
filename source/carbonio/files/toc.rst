@@ -351,6 +351,83 @@ You can send files stored in your Files as attachments via email to your colleag
 #.	A new compose board will appear which includes the file as an attachment.
 #.	Complete composing your email and click **SEND**.
 
+
+Send via E-mail for Large Files
+===============================
+
+When you share files from **Files & Docs**, Carbonio checks whether the selected
+file can be sent as an email attachment before opening the composer.
+
+Attachment size check
+---------------------
+
+When you select **Send via e-mail** for a file from **Files**, Carbonio estimates
+the size of the resulting email attachment.
+
+The estimate accounts for the **encoding overhead** required to include the file
+in an email message, rather than comparing only the file's original size. Carbonio
+then compares the estimated attachment size with the **maximum attachment size
+configured on the Carbonio server**.
+
+A file that appears to be within the configured limit may still exceed it after
+encoding overhead is taken into account.
+
+If the estimated size is within the applicable limit, the normal email
+composition flow can continue. If it exceeds the limit, Carbonio prevents the
+attachment from being sent and displays a warning explaining the problem and
+available alternative.
+
+Large-file warning
+------------------
+
+When the selected file is too large to send as a conventional email attachment,
+the previous generic **Something went wrong** notification is replaced with
+this message:
+
+**This file is too large to attach. Open a new e-mail and use Add from Filesto share it as a Smart Link instead**.
+
+.. image:: /img/large-file-warning.png
+              :class: bordered-image
+              :align: center
+              :width: 100%
+
+The warning is displayed as a **warning snackbar**.
+
+Warning behavior
+~~~~~~~~~~~~~~~~
+
+The warning snackbar stays visible and does not disappear automatically. It
+includes an **OK** action and can be dismissed only by selecting **OK**. It
+remains visible so users have time to read the reason for the failure and the
+instructions for sharing the file another way.
+
+How to share an oversized file
+------------------------------
+
+If a file cannot be sent as an attachment:
+
+#. Select **OK** on the warning.
+#. Open a **new e-mail**.
+#. Use **Add from Files**.
+
+   .. image:: /img/add-from-files.png
+                :class: bordered-image
+                :align: left
+                :width: 80%
+
+#. Select the file you want to share.
+#. The file is shared as a **Smart Link** instead of being uploaded as a
+   conventional email attachment.
+
+   .. image:: /img/smart-link-confirmation.png
+                :class: bordered-image
+                :align: left
+                :width: 80%
+
+Using a Smart Link lets users share a large file without exceeding the email
+attachment-size limit.
+
+
 Sending an Email with a Link to a File
 ======================================
 
@@ -387,9 +464,10 @@ Sharing Files and Folders
 
 One of the most important and useful features of Files is its sharing capabilities. Sharing allows you to grant others access to files and folders. You can specify which items to share, and the level of access granted. When you invite a user to share, they have the option to accept or decline the invitation.
 
-  .. image:: /img/share-files.png
+  .. image:: /img/add-from-files.png
+                :class: bordered-image
                 :align: center
-                :width: 100%
+                :width: 80%
 
 To manage sharing properties of a file or folder:
 

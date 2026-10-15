@@ -351,6 +351,83 @@ You can send files stored in your Files as attachments via email to your colleag
 #.	A new compose board will appear which includes the file as an attachment.
 #.	Complete composing your email and click **SEND**.
 
+
+Send via E-mail for Large Files
+===============================
+
+When you share files from **Files & Docs**, Carbonio checks whether the selected
+file can be sent as an email attachment before opening the composer.
+
+Attachment size check
+---------------------
+
+When you select **Send via e-mail** for a file from **Files**, Carbonio estimates
+the size of the resulting email attachment.
+
+The estimate accounts for the **encoding overhead** required to include the file
+in an email message, rather than comparing only the file's original size. Carbonio
+then compares the estimated attachment size with the **maximum attachment size
+configured on the Carbonio server**.
+
+A file that appears to be within the configured limit may still exceed it after
+encoding overhead is taken into account.
+
+If the estimated size is within the applicable limit, the normal email
+composition flow can continue. If it exceeds the limit, Carbonio prevents the
+attachment from being sent and displays a warning explaining the problem and
+available alternative.
+
+Large-file warning
+------------------
+
+When the selected file is too large to send as a conventional email attachment,
+the previous generic **Something went wrong** notification is replaced with
+this message:
+
+**This file is too large to attach. Open a new e-mail and use Add from Filesto share it as a Smart Link instead**.
+
+.. image:: /img/large-file-warning.png
+              :class: bordered-image
+              :align: center
+              :width: 100%
+
+The warning is displayed as a **warning snackbar**.
+
+Warning behavior
+~~~~~~~~~~~~~~~~
+
+The warning snackbar stays visible and does not disappear automatically. It
+includes an **OK** action and can be dismissed only by selecting **OK**. It
+remains visible so users have time to read the reason for the failure and the
+instructions for sharing the file another way.
+
+How to share an oversized file
+------------------------------
+
+If a file cannot be sent as an attachment:
+
+#. Select **OK** on the warning.
+#. Open a **new e-mail**.
+#. Use **Add from Files**.
+
+   .. image:: /img/add-from-files.png
+                :class: bordered-image
+                :align: left
+                :width: 80%
+
+#. Select the file you want to share.
+#. The file is shared as a **Smart Link** instead of being uploaded as a
+   conventional email attachment.
+
+   .. image:: /img/smart-link-confirmation.png
+                :class: bordered-image
+                :align: left
+                :width: 80%
+
+Using a Smart Link lets users share a large file without exceeding the email
+attachment-size limit.
+
+
 Sending an Email with a Link to a File
 ======================================
 
@@ -387,9 +464,10 @@ Sharing Files and Folders
 
 One of the most important and useful features of Files is its sharing capabilities. Sharing allows you to grant others access to files and folders. You can specify which items to share, and the level of access granted. When you invite a user to share, they have the option to accept or decline the invitation.
 
-  .. image:: /img/share-files.png
+  .. image:: /img/add-from-files.png
+                :class: bordered-image
                 :align: center
-                :width: 100%
+                :width: 80%
 
 To manage sharing properties of a file or folder:
 
@@ -577,3 +655,109 @@ to save changes made to the document.
 While editing a shared document, if the file quota limit is reached or changed, a warning message will appear on saving. You can still proceed by downloading the document and saving your changes locally.
 
 .. note:: For the **Files** quota limitation, you should contact your system administrator.
+
+Transfer Ownership of a File or Folder
+======================================
+
+The **Transfer ownership** feature allows a file or folder owner to permanently transfer ownership of one or more items to another user.  
+After the transfer, the selected user becomes the new owner of the items, while the previous owner remains a collaborator with editing permissions.
+
+Before you begin
+----------------
+
+- Ownership transfer is permanent and cannot be undone.
+- Items located in the Trash cannot be transferred.
+- Existing collaborators and shared links are preserved.
+- After the transfer, the previous owner remains a collaborator with editing and writing permissions.
+- The recipient cannot refuse the transfer.
+
+How to transfer ownership 
+-------------------------
+
+You can initiate a transfer from several locations in the **Files** module:
+
+* Right‑click a file or folder.
+* Right‑click multiple selected items.
+* Click the “**More**” icon (⋯) after selecting several items.
+* Use the action menu in the item‑details panel.
+
+Transferring ownership
+----------------------  
+1. Open the **Files** module.  
+2. Select one or more files or folders.  
+3. Click **Transfer ownership**.  
+4. In the **Transfer ownership** dialog, search for and select the new owner.  
+5. Wait for the quota check to complete.  
+6. Click **Transfer**.  
+
+A confirmation message is displayed once the transfer finishes successfully.
+
+Transfer‑ownership dialog
+-------------------------
+In the dialog you can:
+
+* Search for a user by typing their name or e‑mail address.  
+* Select only one recipient.  
+* Remove the selected recipient before confirming the transfer.
+
+The **Transfer** button remains disabled until a valid recipient is chosen.
+
+  .. image:: /img/transfer-ownership.png
+                :align: center
+                :width: 60%
+
+You can close the dialog by:
+
+* Clicking **Cancel**.  
+* Clicking the **Close** icon.  
+* Clicking outside the dialog.
+
+Quota verification
+------------------
+Before the transfer completes, Carbonio checks that the recipient has enough
+available quota to receive the selected items.  
+The dialog shows:
+
+* A quota warning if the receiver does not have sufficient space.  
+* A confirmation message when the quota check succeeds.
+
+Outcome after the transfer
+--------------------------
+After the transfer:
+
+* The chosen user becomes the new owner of the items.  
+* The previous owner remains a collaborator with editing permissions.  
+* Existing collaborators and shared links stay unchanged.
+
+On the recipient’s account:
+
+* A notification badge appears in the **Files** module.  
+* A badge also appears in the **Notifications** panel.  
+* The recipient receives a message such as:  
+  ``johnn@example.com transferred ownership of items to you. You’ll find them in folder johnn@example.com.``  
+* A folder named after the previous owner’s e‑mail address is created and contains the transferred items.
+  
+    .. image:: /img/transfer-ownership-notification.png
+                :align: center
+                :width: 60%
+
+              
+Where transferred items appear
+------------------------------
+Initially, the transferred items may appear in the recipient’s *Files* view with the original owner’s name.
+After a page refresh, the items appear under **Shared with me** as a system folder labeled with the previous owner’s e‑mail address.
+
+The folder behaves like any standard folder: all normal file and folder actions are still available.
+If the same user receives several ownership transfers from the same owner at different times,
+Carbonio creates separate folders with unique names, example:
+
+* `johnn@example.com`  
+* `johnn@example.com (1)`
+
+This avoids naming conflicts and keeps each transfer independent.
+
+Limitations
+-----------
+* Ownership transfer is not available for items in the Trash.  
+* Because the change is permanent, review the selected items and recipient carefully before confirming the transfer.
+

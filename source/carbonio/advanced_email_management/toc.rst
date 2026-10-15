@@ -498,6 +498,52 @@ To assign each identity/persona a signature:
 
 You can effortlessly switch between identities/personas by selecting them from the top-left corner of the composing board, automatically applying the respective signatures assigned to each identity/persona.
 
+
+Automatic Sender and Signature Selection in Shared Mailboxes
+============================================================
+When composing emails from shared mailbox folders, Carbonio automatically selects the correct sender account and applies the corresponding signature (provided a persona linked to that account has been created). This reduces manual steps and prevents errors such as sending from the wrong account or omitting the signature.
+
+.. note::
+
+   You must create a persona for each signature. Each sender identity (persona) can have its own signature. If you don't create a persona for a shared account, the signature won't be inserted automatically.
+
+
+1. Automatic Sender Identity Selection
+======================================
+
+When you compose a **new email** or **appointment** from a folder in a **shared mailbox**, the system detects the correct sender identity based on:
+
+* The **folder** you are composing from.
+* The **shared mailbox** associated with that folder.
+* The **permissions** assigned to your account.
+
+The **From** field (for emails) is pre-filled with the correct persona.
+
+
+2. Automatic Signature Application
+==================================
+
+* You need to create a persona for every signature. Each sender identity (persona) can have an associated **signature**.
+* The system automatically applies the correct signature based on the selected persona.
+* If no signature is associated with the persona, no signature is applied.
+
+
+How It Works
+============
+
+Composing a New Email from a Shared Mailbox Folder
+--------------------------------------------------
+
+1. Open a folder in a **shared mailbox**.
+2. Click **New Message** to compose an email.
+3. The system automatically:
+
+   * Pre-fills the **From** field with the persona corresponding to the shared mailbox address.
+   * Applies the **signature** associated with that persona (if available).
+
+4. Review the email and send it—no manual adjustments are needed.
+
+
 Changing Signature While Composing An Email
 ===========================================
 

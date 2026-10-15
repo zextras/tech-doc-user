@@ -3,8 +3,8 @@
 
 .. _carbonio-chat-app:
 
-Carbonio Chats App
-===================
+Carbonio Chats Legacy
+=====================
 
 With the Carbonio Chats app, you can send instant messages, share files, and organize or join video meetings.
 

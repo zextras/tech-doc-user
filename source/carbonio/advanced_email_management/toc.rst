@@ -117,6 +117,85 @@ Here is how to do it:
           :align: center
           :width: 100%
 
+
+Allowed and Blocked Senders list
+=================================
+
+The **Allowed senders list** and **Blocked senders list** let you control how incoming e‑mail is handled for your mailbox.
+
+* Add trusted senders to the **Allowed senders list** to ensure that their messages bypass the spam filter and are delivered directly to your inbox.
+* Add unwanted senders to the **Blocked senders list** to automatically move their messages to the spam folder.
+
+Access the allowed and blocked senders lists
+--------------------------------------------
+
+To manage your allowed and blocked senders:
+
+#. Open **Settings**.
+#. Select **Mails** from the left navigation menu.
+#. Scroll to the **Allowed senders list** and **Blocked senders list** sections.
+
+The **Mail settings** page contains separate sections for **Trusted addresses**, **Allowed senders list**, and **Blocked senders list**.
+ 
+  .. image:: /img/allowed-sender-list.png
+          :align: center
+          :width: 100%
+
+Add an allowed sender
+---------------------
+
+Add an e‑mail address to the **Allowed senders list** to **always** allow messages from that sender.
+
+#. Open **Settings** > **Mails**.
+#. In the **Allowed senders list** section, enter the sender’s e‑mail address.
+#. Click **ADD**.
+
+The address is added immediately, and future messages from that sender bypass the spam filter and are delivered directly to your inbox.
+
+Example:
+--------
+
+Add john.smith@example.com to the Allowed senders list. Future messages from john.smith@example.com are delivered directly to your inbox.
+
+Add a blocked sender
+-----------------------
+
+Add an e‑mail address to the **Blocked senders list** to automatically move messages from that sender to the Spam folder.
+
+#. Open **Settings** > **Mails**.
+#. In the **Blocked senders list** section, enter the sender’s e‑mail address.
+#. Click **ADD**.
+
+The address is added immediately, and future messages from that sender are automatically moved to the Spam folder.
+
+Example:
+--------
+  
+Add spam@example.com to the Blocked senders list. Future messages from spam@example.com are automatically moved to Spam.
+
+Remove a sender
+-----------------
+
+You can remove any address from either list.
+
+#. Open **Settings** > **Mails**.
+#. Locate the address in the **Allowed senders list** or **Blocked senders list**.
+#. Remove the address from the list.
+
+The change takes effect immediately for future incoming messages.
+
+E‑mail address validation
+-------------------------
+
+Carbonio validates e‑mail addresses before adding them to a list.
+
+**Valid examples**
+
+* alice@example.com  
+* notifications@company.org  
+
+Invalid addresses cannot be added.
+
 Creating an Out-of-Office Email
 ===============================
 
@@ -418,6 +497,52 @@ To assign each identity/persona a signature:
 #.	Click **SAVE** from the top-right corner.
 
 You can effortlessly switch between identities/personas by selecting them from the top-left corner of the composing board, automatically applying the respective signatures assigned to each identity/persona.
+
+
+Automatic Sender and Signature Selection in Shared Mailboxes
+============================================================
+When composing emails from shared mailbox folders, Carbonio automatically selects the correct sender account and applies the corresponding signature (provided a persona linked to that account has been created). This reduces manual steps and prevents errors such as sending from the wrong account or omitting the signature.
+
+.. note::
+
+   You must create a persona for each signature. Each sender identity (persona) can have its own signature. If you don't create a persona for a shared account, the signature won't be inserted automatically.
+
+
+1. Automatic Sender Identity Selection
+======================================
+
+When you compose a **new email** or **appointment** from a folder in a **shared mailbox**, the system detects the correct sender identity based on:
+
+* The **folder** you are composing from.
+* The **shared mailbox** associated with that folder.
+* The **permissions** assigned to your account.
+
+The **From** field (for emails) is pre-filled with the correct persona.
+
+
+2. Automatic Signature Application
+==================================
+
+* You need to create a persona for every signature. Each sender identity (persona) can have an associated **signature**.
+* The system automatically applies the correct signature based on the selected persona.
+* If no signature is associated with the persona, no signature is applied.
+
+
+How It Works
+============
+
+Composing a New Email from a Shared Mailbox Folder
+--------------------------------------------------
+
+1. Open a folder in a **shared mailbox**.
+2. Click **New Message** to compose an email.
+3. The system automatically:
+
+   * Pre-fills the **From** field with the persona corresponding to the shared mailbox address.
+   * Applies the **signature** associated with that persona (if available).
+
+4. Review the email and send it—no manual adjustments are needed.
+
 
 Changing Signature While Composing An Email
 ===========================================

@@ -622,7 +622,7 @@ To switch personas, follow these steps:
 #.	Choose your preferred persona from the menu.
 
 Set Up a Persona and Signature for a Shared Mailbox
-=======================================================
+===================================================
 
 When you have delegated read/write access to a shared mailbox, you can create a dedicated signature for messages sent from that mailbox. To configure a signature for a shared mailbox, you must first create a **persona** associated with the shared mailbox. The persona identifies the shared mailbox as the sender identity and provides the context in which the mailbox-specific signature can be configured and used.
 

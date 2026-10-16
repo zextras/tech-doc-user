@@ -383,6 +383,115 @@ The **Archive** folder is a **system folder** in Carbonio. It is automatically u
 
 When the Archive folder contains unread items, Carbonio can display an unread count badge next to the folder name. Archived emails and conversations can still be managed like other mail items. For example, you can open them, move them, or empty the folder when needed.
 
+Mail Folder Import and Export
+=============================
+
+The **Mail Folder Import and Export** feature allows you to archive email folders in supported formats (TGZ, ZIP) and import previously exported folders back into your mailbox. This functionality is accessible directly from the folder tree context menu.
+
+
+How to Import a Mail Folder
+===========================
+
+1. Navigate to the folder tree in your mail client.
+2. Right-click the folder where you want to import emails.
+3. Select **Import Archive** to open the file format picker dialog.
+
+.. image:: /img/import-export.png
+          :class: bordered-image
+          :align: center
+          :width: 80%
+
+4. Choose the archive file containing the emails you want to import in a supported format (TGZ or ZIP).
+5. Confirm the import to import the emails into the selected folder.
+
+.. image:: /img/import-format.png
+          :class: bordered-image
+          :align: center
+          :width: 80%
+
+
+How to Export a Mail Folder
+===========================
+
+1. Navigate to the folder tree in your mail client.
+2. **Right-click on** the folder you want to export.
+3. Choose **Export Archive** from the Context Menu.
+   An export dialog will appear.
+4. **Select the Archive Format**
+   Choose one of the supported formats:
+
+   * **TGZ** (Tarball + Gzip compression)
+   * **ZIP** (Standard ZIP compression)
+
+   .. image:: /img/export-format.png
+          :class: bordered-image
+          :align: center
+          :width: 80%
+
+5. Confirm the export, and the system will generate the archive file for download.
+
+
+.. note::
+
+   **What If Import/Export Is Not Enabled?**
+
+   If the **Import** or **Export** option is not available in the context menu, it may be due to **Administrator restrictions** (feature disabled for your account).
+
+
+Enable mailbox import and export
+================================
+
+To enable Import or Export option:
+
+1. In the **Carbonio Admin Panel**, go to **COS**.
+2. Select the required **Class of Service (COS)**.
+3. In the left pane, select **Features**.
+4. In the **Mail** section, enable the following options:
+
+   * **Allow user to import external mailbox**
+   * **Allow user to export their mailbox**
+
+      .. image:: /img/enable-import-cos.png
+          :class: bordered-image
+          :align: center
+          :width: 80%
+
+5. Save the changes.
+
+These options allow users assigned to the selected COS to **import an external mailbox** and **export their mailbox**.
+
+
+Enable mailbox import and export for an account
+================================================
+
+One more way is from directly enabling it from the Account configuration:
+
+1. In the **Carbonio Admin Panel**, go to **Domains**.
+2. Select the required domain.
+3. Select **Accounts** and click the account for which you want to enable mailbox import and export.
+4. In the account details pane, select the **Configuration** tab.
+5. Scroll down to the **Features** section.
+6. Under **Mail**, enable the following options:
+
+   * **Allow user to import external mailbox**
+   * **Allow user to export their mailbox**
+
+   .. image:: /img/enable-import-config.png
+          :class: bordered-image
+          :align: center
+          :width: 80%
+
+7. Save the changes.
+
+The selected user can now **import an external mailbox** and **export their mailbox**.
+
+
+Best Practices
+==============
+
+* Check storage space before exporting large folders.
+* Use ZIP for compatibility if unsure which format to choose.
+
 Restoring Archived Items
 ========================
 

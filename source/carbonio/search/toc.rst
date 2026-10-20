@@ -63,7 +63,6 @@ Filters for refining search results vary depending on the category you select in
 •	**Size larger than (MB)**: Search for emails with a size larger than a specified number in MB.
 •	**Sent before**: Search for emails sent before the specified date.
 •	**Sent after**: Search for emails sent after the specified date.
-•	**Sent on**: Search for emails sent exactly on the specified date.
 •	**Tag**: Search for emails or contacts that have a specific tag.
 •	**Is contained in**: Limit the search to selected folders.
 
@@ -87,6 +86,10 @@ Advanced Search Syntax
 **Search Language Structure**: Conducting content searches slightly differs from text-match searches or typical word-processing features such as Find.
 
 **Keywords**: If you know where to search for your item, you can enter keywords followed by a colon and the search item in the search text box. For example, "in:inbox".
+
+.. warning::
+
+   The Advanced Search feature currently supports searches in English only.
 
 **Options:**
 

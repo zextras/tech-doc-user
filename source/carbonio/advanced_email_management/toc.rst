@@ -633,7 +633,7 @@ Example
 Suppose Mary (mary@example.com) has delegated full read/write access to the shared mailbox hr@example.com. When she sends messages from that mailbox, they should use the HR department signature.
 
 Account, Persona, and Signature Relationship
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In this setup, Mary is the delegated user, hr@example.com is the shared mailbox, the **HR Mailbox** persona represents that sender identity, and the **HR signature** is applied to messages sent through the persona.
 

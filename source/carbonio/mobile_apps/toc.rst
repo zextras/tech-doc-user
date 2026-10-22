@@ -55,3 +55,4 @@ You can download them from the official stores using the links below.
       chat_legacy
       chats_app
       files_app
+      app_authentication

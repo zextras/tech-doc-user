@@ -35,7 +35,7 @@ You can download them from the official stores using the links below.
 
 - .. raw:: html
 
-     <a href=" https://testflight.apple.com/join/hdEsNyMN" target="_blank">Carbonio Chats</a>
+     <a href="https://apps.apple.com/it/app/carbonio-chats/id6758104639" target="_blank">Carbonio Chats</a>
 
 - .. raw:: html
 

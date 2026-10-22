@@ -132,7 +132,7 @@ When you are in a video meeting, you can also turn your webcam or microphone on 
 
 During a video meeting, you have the chance to blur your background. Simply click on the arrow icon in the camera button, and then choose the option Apply Blur Effect.
 
-You also have the chance to choose a specific background image. Click on the arrow icon in the camera button, and then choose the option Apply Background Image. You can upload your own image or choose one from the available options.
+You also have the chance to choose a specific background image. Click on the arrow icon in the camera button, and then choose the option Apply Background Image. You can choose one from the available options.
 
 
 Recording a Video Meeting

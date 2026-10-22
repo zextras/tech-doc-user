@@ -383,6 +383,67 @@ The **Archive** folder is a **system folder** in Carbonio. It is automatically u
 
 When the Archive folder contains unread items, Carbonio can display an unread count badge next to the folder name. Archived emails and conversations can still be managed like other mail items. For example, you can open them, move them, or empty the folder when needed.
 
+Mail Folder Import and Export
+=============================
+
+The **Mail Folder Import and Export** feature allows you to archive email folders in supported formats (TGZ, ZIP) and import previously exported folders back into your mailbox. This functionality is accessible directly from the folder tree context menu.
+
+
+How to Import a Mail Folder
+===========================
+
+1. Navigate to the folder tree in your mail client.
+2. Right-click the folder where you want to import emails.
+3. Select **Import Archive** to open the file format picker dialog.
+
+.. image:: /img/import-export.png
+          :class: bordered-image
+          :align: center
+          :width: 80%
+
+4. Choose the archive file containing the emails you want to import in a supported format (TGZ or ZIP).
+5. Confirm the import to import the emails into the selected folder.
+
+.. image:: /img/import-format.png
+          :class: bordered-image
+          :align: center
+          :width: 80%
+
+
+How to Export a Mail Folder
+===========================
+
+1. Navigate to the folder tree in your mail client.
+2. **Right-click on** the folder you want to export.
+3. Choose **Export Archive** from the Context Menu.
+   An export dialog will appear.
+4. **Select the Archive Format**
+   Choose one of the supported formats:
+
+   * **TGZ** (Tarball + Gzip compression)
+   * **ZIP** (Standard ZIP compression)
+
+   .. image:: /img/export-format.png
+          :class: bordered-image
+          :align: center
+          :width: 80%
+
+5. Confirm the export, and the system will generate the archive file for download.
+
+
+.. note::
+
+   **What If Import/Export Is Not Enabled?**
+
+   If the **Import** or **Export** option is not available in the context menu, it may be due to **Administrator restrictions** (feature disabled for your account).
+
+
+Best Practices
+==============
+
+* Check storage space before exporting large folders.
+* Use ZIP for compatibility if unsure which format to choose.
+
 Restoring Archived Items
 ========================
 

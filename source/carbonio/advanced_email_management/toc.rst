@@ -621,20 +621,125 @@ To switch personas, follow these steps:
 #.	Click on your email address located at the **top left corner** of the composing board when composing your email.
 #.	Choose your preferred persona from the menu.
 
-Creating Personas
-=================
+Set Up a Persona and Signature for a Shared Mailbox
+===================================================
 
-To create a new persona alongside your default one:
+When you have delegated read/write access to a shared mailbox, you can create a dedicated signature for messages sent from that mailbox. To configure a signature for a shared mailbox, you must first create a **persona** associated with the shared mailbox. The persona identifies the shared mailbox as the sender identity and provides the context in which the mailbox-specific signature can be configured and used.
 
-#.	Click on the **Settings** (gear icon) in the left sidebar.
-#.	Select **Accounts**.
-#.	Under the Accounts list section, click **ADD PERSONA**.
-#.	Under the **Persona Settings** section, choose a name for the added persona.
-#.	Click **SAVE** from the top-right corner.
 
-  .. image:: /img/personas.png
+Example
+=======
+
+Suppose Mary (mary@example.com) has delegated full read/write access to the shared mailbox hr@example.com. When she sends messages from that mailbox, they should use the HR department signature.
+
+Account, Persona, and Signature Relationship
+============================================
+
+In this setup, Mary is the delegated user, hr@example.com is the shared mailbox, the **HR Mailbox** persona represents that sender identity, and the **HR signature** is applied to messages sent through the persona.
+
+
+Configure a Shared Mailbox Persona and Signature
+================================================
+
+The Persona feature allows you to create different professional identities or roles for sending emails. Each persona can be associated with a specific email account, making it easier to switch between roles when composing and sending messages.
+
+
+1. Create a Persona for the Shared Mailbox
+-------------------------------------------
+
+1. Log in to your **primary account** (example, mary@example.com) in the Carbonio Webmail UI.
+2. Click the **gear icon (⚙️) Settings** in the left-bottom corner.
+3. In the left sidebar, navigate to **Accounts**.
+4. In the **Accounts list**, click **Add Persona**.
+5. Configure the persona with the following details:
+
+   * **Persona Name**: A descriptive name (example, HR Mailbox).
+   * **From Address**: Select the shared mailbox (example, hr@example.com) from the dropdown.
+   * **Reply-To Address**: (Optional) Set to the shared mailbox if replies should go there.
+   * **Choose Account**: Similar to address account details will be available in dropdown.
+
+6. Click **Save**.
+
+  .. image:: /img/add-persona.png
+              :class: bordered-image
               :align: center
               :width: 100%
+
+
+2. Create a Signature for the Persona
+--------------------------------------
+
+1. In the **Settings** menu, navigate to **Mails** > **Signatures**.
+2. Click **Add Signature**.
+3. Configure the signature with the following details:
+
+   * **Signature Name**: A descriptive name (example, HR Signature).
+   * **Signature Content**: Enter the text or HTML for the signature (example, contact details for the HR team).
+
+4. Click **Save**.
+   
+  .. image:: /img/configure-signature-persona.png
+              :class: bordered-image
+              :align: center
+              :width: 100%
+
+
+3. Assign Signatures to Accounts and Personas
+----------------------------------------------
+
+The Signature Usage section allows you to associate a specific email signature with an account or persona. This ensures that the appropriate signature is automatically used when sending new messages, replying, or forwarding emails.
+
+From **Settings** → **Mails**, locate the **Signatures Usage** section.
+
+1. Use the Default Signature for Personal Emails
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Default account is configured with:
+
+* New Messages: me
+* Replies & Forwards: me
+
+This means the signature named **me** is used for both new emails and replies/forwards.
+
+2. Apply the HR Signature to New Shared Mailbox Messages
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The HR Mailbox has a different configuration:
+
+* New Messages: HR Signature
+* Replies & Forwards: No signature
+
+The dropdown shows the available signatures:
+
+* No signature
+* me
+* HR Signature
+
+Here, HR Signature is selected for New Messages.
+
+When the **HR Persona** is linked to the **HR Mailbox**, its signature settings are automatically applied. New emails sent using the **HR Persona** include the **HR Signature**, while replies and forwards are sent without a signature.
+
+  .. image:: /img/signature-usage.png
+              :class: bordered-image
+              :align: center
+              :width: 100%
+
+
+4. Send Email from the Shared Mailbox Persona
+----------------------------------------------
+
+1. Click **New** to create a new email.
+2. In the **From** field, click the dropdown and select the persona (example, HR Mailbox).
+
+   * The **From** address will automatically update to the shared mailbox (example, hr@example.com).
+   * The signature associated with the persona will be inserted into the email.
+  
+.. image:: /img/new-email-persona.png
+              :class: bordered-image
+              :align: center
+              :width: 100%
+
+After selecting the **HR Mailbox** persona, compose and send the message as usual. The email is sent from the shared mailbox address, and the configured **HR Signature** is inserted automatically for new messages according to the signature usage settings.
 
 Removing Personas
 =================

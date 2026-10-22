@@ -14,7 +14,7 @@ Generate Authentication Credentials
 .. image:: /img/mobile-apps.png
               :class: bordered-image
               :align: center
-              :width: 100%
+              :width: 80%
 
 3. Click **NEW AUTHENTICATION +**.
 4. Enter a description for the authentication credential to identify it.
@@ -24,7 +24,7 @@ Generate Authentication Credentials
 .. image:: /img/new-authentication.png
               :class: bordered-image
               :align: center
-              :width: 100%
+              :width: 80%
 
 7. Click **DONE** to complete the process.
 

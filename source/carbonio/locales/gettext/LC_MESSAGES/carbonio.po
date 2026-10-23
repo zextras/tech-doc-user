@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-23 11:18+0200\n"
-"PO-Revision-Date: 2026-07-28 11:52+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"PO-Revision-Date: 2026-10-23 09:32+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/gettext/>\n"
 "Language: gettext\n"
-"Language-Team: gettext (generated) "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/gettext/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -420,12 +421,10 @@ msgid "To manage your allowed and blocked senders:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:134
-#, fuzzy
 msgid "Open **Settings**."
 msgstr "Open **Trash**."
 
 #: ../../advanced_email_management/toc.rst:135
-#, fuzzy
 msgid "Select **Mails** from the left navigation menu."
 msgstr "Select **Mails** from the left sidebar."
 
@@ -458,7 +457,6 @@ msgid "Open **Settings** > **Mails**."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:150
-#, fuzzy
 msgid ""
 "In the **Allowed senders list** section, enter the sender’s e‑mail "
 "address."
@@ -498,7 +496,6 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:166
-#, fuzzy
 msgid ""
 "In the **Blocked senders list** section, enter the sender’s e‑mail "
 "address."
@@ -517,7 +514,6 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:177
-#, fuzzy
 msgid "Remove a sender"
 msgstr "To delete a signature:"
 
@@ -532,7 +528,6 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:183
-#, fuzzy
 msgid "Remove the address from the list."
 msgstr "Chọn chế độ xem mong muốn từ menu thả xuống."
 
@@ -541,7 +536,6 @@ msgid "The change takes effect immediately for future incoming messages."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:188
-#, fuzzy
 msgid "E‑mail address validation"
 msgstr "Email Delegations"
 
@@ -554,17 +548,14 @@ msgid "**Valid examples**"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:194
-#, fuzzy
 msgid "alice@example.com"
 msgstr "Example: calendar.example.com"
 
 #: ../../advanced_email_management/toc.rst:195
-#, fuzzy
 msgid "notifications@company.org"
 msgstr "Silenzia le notifiche di una chat"
 
 #: ../../advanced_email_management/toc.rst:197
-#, fuzzy
 msgid "Invalid addresses cannot be added."
 msgstr "Invalid or unsupported URLs cannot be subscribed to."
 
@@ -1588,7 +1579,6 @@ msgid "How It Works"
 msgstr "How It Works"
 
 #: ../../advanced_email_management/toc.rst:535
-#, fuzzy
 msgid "Composing a New Email from a Shared Mailbox Folder"
 msgstr "Editing the Roles for a Shared Email Folder"
 
@@ -1597,7 +1587,6 @@ msgid "Open a folder in a **shared mailbox**."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:538
-#, fuzzy
 msgid "Click **New Message** to compose an email."
 msgstr "Click **ADD NEW MEMBERS** to confirm."
 
@@ -1865,7 +1854,6 @@ msgstr ""
 
 #: ../../advanced_email_management/toc.rst:631
 #: ../../mobile_apps/mail_app.rst:179
-#, fuzzy
 msgid "Example"
 msgstr "Example:"
 
@@ -1877,7 +1865,6 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:636
-#, fuzzy
 msgid "Account, Persona, and Signature Relationship"
 msgstr "Account Personalization"
 
@@ -1911,17 +1898,14 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:651
-#, fuzzy
 msgid "Click the **gear icon (⚙️) Settings** in the left-bottom corner."
 msgstr "Click on the **gear icon** in the left panel."
 
 #: ../../advanced_email_management/toc.rst:652
-#, fuzzy
 msgid "In the left sidebar, navigate to **Accounts**."
 msgstr "From the left sidebar click on the **Contacts** section."
 
 #: ../../advanced_email_management/toc.rst:653
-#, fuzzy
 msgid "In the **Accounts list**, click **Add Persona**."
 msgstr "Under the Accounts list section, click **ADD PERSONA**."
 
@@ -1957,7 +1941,6 @@ msgid "Click **Save**."
 msgstr "Clicca su **Salva**."
 
 #: ../../advanced_email_management/toc.rst:670
-#, fuzzy
 msgid "2. Create a Signature for the Persona"
 msgstr "To create a signature:"
 
@@ -1966,12 +1949,10 @@ msgid "In the **Settings** menu, navigate to **Mails** > **Signatures**."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:673
-#, fuzzy
 msgid "Click **Add Signature**."
 msgstr "Clicca su **Salva**."
 
 #: ../../advanced_email_management/toc.rst:674
-#, fuzzy
 msgid "Configure the signature with the following details:"
 msgstr "Click on the three vertical dots."
 
@@ -1986,7 +1967,6 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:688
-#, fuzzy
 msgid "3. Assign Signatures to Accounts and Personas"
 msgstr "Assign signatures per identity/persona"
 
@@ -2011,7 +1991,6 @@ msgid "The Default account is configured with:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:699
-#, fuzzy
 msgid "New Messages: me"
 msgstr "Using Message View"
 
@@ -2046,7 +2025,6 @@ msgid "The dropdown shows the available signatures:"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:714
-#, fuzzy
 msgid "No signature"
 msgstr "Using Signatures"
 
@@ -2055,7 +2033,6 @@ msgid "me"
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:716
-#, fuzzy
 msgid "HR Signature"
 msgstr "Using Signatures"
 
@@ -2072,12 +2049,10 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:729
-#, fuzzy
 msgid "4. Send Email from the Shared Mailbox Persona"
 msgstr "Send an Email from a Different Account or Persona"
 
 #: ../../advanced_email_management/toc.rst:731
-#, fuzzy
 msgid "Click **New** to create a new email."
 msgstr "Click **EDIT** to confirm the change."
 
@@ -2094,11 +2069,10 @@ msgid ""
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:735
-#, fuzzy
 msgid "The signature associated with the persona will be inserted into the email."
 msgstr ""
-"Tutti i messaggi con il tag selezionato verranno visualizzati nel "
-"Pannello principale."
+"Tutti i messaggi con il tag selezionato verranno visualizzati nel Pannello "
+"principale."
 
 #: ../../advanced_email_management/toc.rst:742
 msgid ""
@@ -4252,18 +4226,15 @@ msgid ""
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:393
-#, fuzzy
 msgid "How to Import a Mail Folder"
 msgstr "To create a new folder:"
 
 #: ../../basic_email_management/toc.rst:395
 #: ../../basic_email_management/toc.rst:416
-#, fuzzy
 msgid "Navigate to the folder tree in your mail client."
 msgstr "Navigate to the file or folder and click on it."
 
 #: ../../basic_email_management/toc.rst:396
-#, fuzzy
 msgid "Right-click the folder where you want to import emails."
 msgstr "Select the folder where you want to move the file."
 
@@ -4282,17 +4253,14 @@ msgid "Confirm the import to import the emails into the selected folder."
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:414
-#, fuzzy
 msgid "How to Export a Mail Folder"
 msgstr "To create a new folder:"
 
 #: ../../basic_email_management/toc.rst:417
-#, fuzzy
 msgid "**Right-click on** the folder you want to export."
 msgstr "Right-click on the group you want to edit."
 
 #: ../../basic_email_management/toc.rst:418
-#, fuzzy
 msgid ""
 "Choose **Export Archive** from the Context Menu. An export dialog will "
 "appear."
@@ -9723,7 +9691,6 @@ msgid "Complete composing your email and click **SEND**."
 msgstr "Complete composing your email and click **SEND**."
 
 #: ../../files/toc.rst:356
-#, fuzzy
 msgid "Send via E-mail for Large Files"
 msgstr "Send a file from Carbonio Files"
 
@@ -9735,7 +9702,6 @@ msgid ""
 msgstr ""
 
 #: ../../files/toc.rst:362
-#, fuzzy
 msgid "Attachment size check"
 msgstr "Allegati"
 
@@ -9789,7 +9755,6 @@ msgid "The warning is displayed as a **warning snackbar**."
 msgstr ""
 
 #: ../../files/toc.rst:397
-#, fuzzy
 msgid "Warning behavior"
 msgstr "Synchronization behavior"
 
@@ -9802,32 +9767,26 @@ msgid ""
 msgstr ""
 
 #: ../../files/toc.rst:405
-#, fuzzy
 msgid "How to share an oversized file"
 msgstr "Fai clic destro sul file."
 
 #: ../../files/toc.rst:407
-#, fuzzy
 msgid "If a file cannot be sent as an attachment:"
 msgstr "Sending a File as an Email Attachment"
 
 #: ../../files/toc.rst:409
-#, fuzzy
 msgid "Select **OK** on the warning."
 msgstr "Select **Copy link** and share it."
 
 #: ../../files/toc.rst:410
-#, fuzzy
 msgid "Open a **new e-mail**."
 msgstr "Open the email."
 
 #: ../../files/toc.rst:411
-#, fuzzy
 msgid "Use **Add from Files**."
 msgstr "Select Add from Files."
 
 #: ../../files/toc.rst:418 ../../mobile_apps/chats_app.rst:43
-#, fuzzy
 msgid "Select the file you want to share."
 msgstr "Select the filter you want to apply from the list."
 
@@ -10374,7 +10333,6 @@ msgstr ""
 "administrator."
 
 #: ../../files/toc.rst:660
-#, fuzzy
 msgid "Transfer Ownership of a File or Folder"
 msgstr "To manage sharing properties of a file or folder:"
 
@@ -10388,7 +10346,6 @@ msgid ""
 msgstr ""
 
 #: ../../files/toc.rst:666
-#, fuzzy
 msgid "Before you begin"
 msgstr "For Your Recipients"
 
@@ -10425,12 +10382,10 @@ msgid ""
 msgstr ""
 
 #: ../../files/toc.rst:679
-#, fuzzy
 msgid "Right‑click a file or folder."
 msgstr "Right-click on a folder."
 
 #: ../../files/toc.rst:680
-#, fuzzy
 msgid "Right‑click multiple selected items."
 msgstr "Fai clic con il tasto destro sull'elemento."
 
@@ -10439,7 +10394,6 @@ msgid "Click the “**More**” icon (⋯) after selecting several items."
 msgstr ""
 
 #: ../../files/toc.rst:682
-#, fuzzy
 msgid "Use the action menu in the item‑details panel."
 msgstr "Fare clic sul pulsante **INVIA** per inviare l'email."
 
@@ -10448,17 +10402,14 @@ msgid "Transferring ownership"
 msgstr ""
 
 #: ../../files/toc.rst:686
-#, fuzzy
 msgid "Open the **Files** module."
 msgstr "Open the **Archive** folder."
 
 #: ../../files/toc.rst:687
-#, fuzzy
 msgid "Select one or more files or folders."
 msgstr "Eliminazione di un file o cartella"
 
 #: ../../files/toc.rst:688
-#, fuzzy
 msgid "Click **Transfer ownership**."
 msgstr "Click **NEW GROUP**."
 
@@ -10471,7 +10422,6 @@ msgid "Wait for the quota check to complete."
 msgstr ""
 
 #: ../../files/toc.rst:691
-#, fuzzy
 msgid "Click **Transfer**."
 msgstr "Clicca su **Salva**."
 
@@ -10486,7 +10436,6 @@ msgid "Transfer‑ownership dialog"
 msgstr ""
 
 #: ../../files/toc.rst:697
-#, fuzzy
 msgid "In the dialog you can:"
 msgstr "Using the Account Icon:"
 
@@ -10495,7 +10444,6 @@ msgid "Search for a user by typing their name or e‑mail address."
 msgstr ""
 
 #: ../../files/toc.rst:700
-#, fuzzy
 msgid "Select only one recipient."
 msgstr "Select Show original."
 
@@ -10514,22 +10462,18 @@ msgid "You can close the dialog by:"
 msgstr ""
 
 #: ../../files/toc.rst:711
-#, fuzzy
 msgid "Clicking **Cancel**."
 msgstr "Clicca su **Salva**."
 
 #: ../../files/toc.rst:712
-#, fuzzy
 msgid "Clicking the **Close** icon."
 msgstr "Click the **SAVE** button."
 
 #: ../../files/toc.rst:713
-#, fuzzy
 msgid "Clicking outside the dialog."
 msgstr "Fate clic sul pulsante MODIFICA."
 
 #: ../../files/toc.rst:716
-#, fuzzy
 msgid "Quota verification"
 msgstr "Silenzia le notifiche di una chat"
 
@@ -10568,12 +10512,10 @@ msgid "Existing collaborators and shared links stay unchanged."
 msgstr ""
 
 #: ../../files/toc.rst:732
-#, fuzzy
 msgid "On the recipient’s account:"
 msgstr "Choose the recipient and send."
 
 #: ../../files/toc.rst:734
-#, fuzzy
 msgid "A notification badge appears in the **Files** module."
 msgstr "See a notification badge on the Files module icon when new events occur"
 
@@ -10627,7 +10569,6 @@ msgid "This avoids naming conflicts and keeps each transfer independent."
 msgstr ""
 
 #: ../../files/toc.rst:760
-#, fuzzy
 msgid "Limitations"
 msgstr "Information"
 
@@ -11734,7 +11675,6 @@ msgid "Mobile Apps"
 msgstr "Mobile Apps"
 
 #: ../../mobile_apps/chat_legacy.rst:7
-#, fuzzy
 msgid "Carbonio Chats Legacy"
 msgstr "Carbonio Chats App"
 
@@ -12115,7 +12055,6 @@ msgid "Select **Delete Room**."
 msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/chats_app.rst:2
-#, fuzzy
 msgid "Carbonio Chats"
 msgstr "Carbonio Chats App"
 
@@ -12147,17 +12086,14 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:15
-#, fuzzy
 msgid "Search for users by name and select them."
 msgstr "Per cercare un collega nella tua lista dei chat:"
 
 #: ../../mobile_apps/chats_app.rst:16
-#, fuzzy
 msgid "The new chat opens and is added to your chat list."
 msgstr "Now this group is added to your list."
 
 #: ../../mobile_apps/chats_app.rst:17
-#, fuzzy
 msgid "Enter your message in the text box and tap **Send**."
 msgstr "Enter the recipient and tap **Send**."
 
@@ -12172,12 +12108,10 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:32
-#, fuzzy
 msgid "Send a File from Your Device"
 msgstr "Aggiungere un file dal computer"
 
 #: ../../mobile_apps/chats_app.rst:42
-#, fuzzy
 msgid "Select **Choose file** option."
 msgstr "Select **Edit Group** option."
 
@@ -12187,17 +12121,14 @@ msgid "Tap **Send**."
 msgstr "Tap **Send**."
 
 #: ../../mobile_apps/chats_app.rst:47
-#, fuzzy
 msgid "Send a File from Carbonio Files"
 msgstr "Send a file from Carbonio Files"
 
 #: ../../mobile_apps/chats_app.rst:49
-#, fuzzy
 msgid "Open the **Files** app."
 msgstr "Open the **Archive** folder."
 
 #: ../../mobile_apps/chats_app.rst:50
-#, fuzzy
 msgid "Tap the **three dots** next to the file you want."
 msgstr "Tap **More options** next to the file/folder."
 
@@ -12210,7 +12141,6 @@ msgid "Choose a permission: viewer, editor, or sharing allowed."
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:59
-#, fuzzy
 msgid "Tap **Save**."
 msgstr "Tap **Send**."
 
@@ -12231,27 +12161,22 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:68
-#, fuzzy
 msgid "Open the content you want to share."
 msgstr "Scegli l'azione che desideri eseguire."
 
 #: ../../mobile_apps/chats_app.rst:69
-#, fuzzy
 msgid "Tap the device's **Share** option."
 msgstr "Click the **SHARE** button."
 
 #: ../../mobile_apps/chats_app.rst:70
-#, fuzzy
 msgid "Select **Carbonio Chats**."
 msgstr "Select **Calendars**."
 
 #: ../../mobile_apps/chats_app.rst:71
-#, fuzzy
 msgid "Select the conversation or recipient."
 msgstr "Select **Single conversation / Private chat**."
 
 #: ../../mobile_apps/chats_app.rst:72
-#, fuzzy
 msgid "Confirm and send the content."
 msgstr "Confirm Shared Content:"
 
@@ -12268,12 +12193,10 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:83
-#, fuzzy
 msgid "Update the message."
 msgstr "Modifica il messaggio e premi invio."
 
 #: ../../mobile_apps/chats_app.rst:84
-#, fuzzy
 msgid "Send the updated message."
 msgstr "Per eliminare"
 
@@ -12291,7 +12214,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:96
-#, fuzzy
 msgid "Enter your response."
 msgstr "Enter your username."
 
@@ -12308,17 +12230,14 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:108
-#, fuzzy
 msgid "Select the recipient or conversation."
 msgstr "Select **Remove from conversation**."
 
 #: ../../mobile_apps/chats_app.rst:109
-#, fuzzy
 msgid "Send the message."
 msgstr "Tap and hold the message."
 
 #: ../../mobile_apps/chats_app.rst:114
-#, fuzzy
 msgid "To remove a message:"
 msgstr "Per rispondere a un messaggio:"
 
@@ -12330,7 +12249,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:124
-#, fuzzy
 msgid "Pin Important Messages"
 msgstr "Per modificare un messaggio:"
 
@@ -12343,17 +12261,14 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:128
-#, fuzzy
 msgid "To pin a message:"
 msgstr "Per modificare un messaggio:"
 
 #: ../../mobile_apps/chats_app.rst:131
-#, fuzzy
 msgid "Select **Pin message**."
 msgstr "Per eliminare"
 
 #: ../../mobile_apps/chats_app.rst:139
-#, fuzzy
 msgid "Confirm the action if prompted."
 msgstr "Confirm the action."
 
@@ -12371,7 +12286,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:147
-#, fuzzy
 msgid "View Reactions"
 msgstr "How to create actions:"
 
@@ -12382,7 +12296,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:152
-#, fuzzy
 msgid "Select **View reactions**."
 msgstr "Select **Accounts**."
 
@@ -12405,7 +12318,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:161
-#, fuzzy
 msgid "Search Conversations"
 msgstr "Using Conversation View"
 
@@ -12416,12 +12328,10 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:165
-#, fuzzy
 msgid "To search for a user:"
 msgstr "To set a color for a calendar:"
 
 #: ../../mobile_apps/chats_app.rst:167
-#, fuzzy
 msgid "Open the **Search** option."
 msgstr "Open the **Archive** folder."
 
@@ -12450,19 +12360,16 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:179 ../../mobile_apps/chats_app.rst:195
-#, fuzzy
 msgid "Open the chat or group."
 msgstr "Open the chat/group."
 
 #: ../../mobile_apps/chats_app.rst:180
-#, fuzzy
 msgid ""
 "Open **Chat info** or **Group info** by tapping the information icon or "
 "chat name."
 msgstr "Open **Chat info** (often an **i** icon or the chat name)."
 
 #: ../../mobile_apps/chats_app.rst:181
-#, fuzzy
 msgid "Tap **Mute notifications**."
 msgstr "Silenzia le notifiche di una chat"
 
@@ -12479,7 +12386,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:196
-#, fuzzy
 msgid "Open **Chat info** or **Group info**."
 msgstr "Open **Group info**."
 
@@ -12496,22 +12402,18 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:209
-#, fuzzy
 msgid "Select **New Group** chat."
 msgstr "Select **Edit Group** option."
 
 #: ../../mobile_apps/chats_app.rst:210 ../../mobile_apps/chats_app.rst:226
-#, fuzzy
 msgid "Select the colleagues you want to add."
 msgstr "Select the folder where you want to move the file."
 
 #: ../../mobile_apps/chats_app.rst:211
-#, fuzzy
 msgid "Tap **Next**."
 msgstr "Tap **Create**."
 
 #: ../../mobile_apps/chats_app.rst:212
-#, fuzzy
 msgid "Enter a **Group Name**."
 msgstr "Enter a room name."
 
@@ -12537,23 +12439,20 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:224
-#, fuzzy
 msgid "Open **Group info** by tapping the information icon or group name."
 msgstr "Open **Group info** (i icon or group name)."
 
 #: ../../mobile_apps/chats_app.rst:227
-#, fuzzy
 msgid "Confirm the selection."
 msgstr "Confirm the action."
 
 #: ../../mobile_apps/chats_app.rst:229
-#, fuzzy
 msgid ""
 "If supported, you can enable **Show previous conversation history** so "
 "that newly added participants can access earlier messages."
 msgstr ""
-"If available, you can enable **Show previous conversation history** so "
-"new members can see earlier messages."
+"If available, you can enable **Show previous conversation history** so new "
+"members can see earlier messages."
 
 #: ../../mobile_apps/chats_app.rst:234
 msgid ""
@@ -12562,27 +12461,22 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:238
-#, fuzzy
 msgid "Tap the participant's name."
 msgstr "Tap the participant’s name."
 
 #: ../../mobile_apps/chats_app.rst:240
-#, fuzzy
 msgid "Confirm the action, if prompted."
 msgstr "Confirm the action."
 
 #: ../../mobile_apps/chats_app.rst:245
-#, fuzzy
 msgid "To leave a group conversation:"
 msgstr "To start a 1-to-1 conversation:"
 
 #: ../../mobile_apps/chats_app.rst:249
-#, fuzzy
 msgid "Tap **Leave**."
 msgstr "Tap **Create**."
 
 #: ../../mobile_apps/chats_app.rst:250
-#, fuzzy
 msgid "Confirm that you want to leave the group."
 msgstr "Scegli l'azione che desideri eseguire."
 
@@ -12593,7 +12487,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:255
-#, fuzzy
 msgid "Video Meetings and Rooms"
 msgstr "Deleting a Meeting Room"
 
@@ -12609,7 +12502,6 @@ msgid "In the **Meetings** tab, tap the plus icon."
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:270
-#, fuzzy
 msgid "Enter a name for the room."
 msgstr "Inserire un nome per la cartella."
 
@@ -12618,7 +12510,6 @@ msgid "Depending on your permissions, you can use the room to:"
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:275
-#, fuzzy
 msgid "Start or join video meetings."
 msgstr "Recording a Video Meeting"
 
@@ -12627,40 +12518,33 @@ msgid "Communicate with participants through chat."
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:277
-#, fuzzy
 msgid "Copy the room link and share it with other participants."
 msgstr "**Copy link** to invite participants."
 
 #: ../../mobile_apps/chats_app.rst:282
-#, fuzzy
 msgid "To join an existing room:"
 msgstr "To edit an existing task:"
 
 #: ../../mobile_apps/chats_app.rst:284 ../../mobile_apps/chats_app.rst:295
 #: ../../mobile_apps/chats_app.rst:379
-#, fuzzy
 msgid "Open the **Meetings** section or tab."
 msgstr "Under the **Recording** section, click **START**."
 
 #: ../../mobile_apps/chats_app.rst:285
-#, fuzzy
 msgid "Select the room you want to enter."
 msgstr "Select the filter you want to delete from the list."
 
 #: ../../mobile_apps/chats_app.rst:286
-#, fuzzy
 msgid "Tap **Join room**."
 msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/chats_app.rst:288
-#, fuzzy
 msgid ""
 "You can then participate in the room's chat or join an active video "
 "meeting."
 msgstr "Muting Participants During a Video Meeting"
 
 #: ../../mobile_apps/chats_app.rst:291
-#, fuzzy
 msgid "Inviting Participants to a Room"
 msgstr "Inviting Members to a Room"
 
@@ -12669,17 +12553,14 @@ msgid "You can invite participants by sharing the room link."
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:296
-#, fuzzy
 msgid "Select the room."
 msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/chats_app.rst:297
-#, fuzzy
 msgid "Tap **Copy link**."
 msgstr "Seleziona **Elementi miei**."
 
 #: ../../mobile_apps/chats_app.rst:298
-#, fuzzy
 msgid "Share the link with the intended participants."
 msgstr "**Copy link** to invite participants."
 
@@ -12704,7 +12585,6 @@ msgid "Theme"
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:315
-#, fuzzy
 msgid "Tap **Theme**."
 msgstr "Tap **Create**."
 
@@ -12713,17 +12593,14 @@ msgid "Select or change the application theme."
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:319
-#, fuzzy
 msgid "Meeting"
 msgstr "Settings"
 
 #: ../../mobile_apps/chats_app.rst:321
-#, fuzzy
 msgid "Tap **Meeting**."
 msgstr "Tap **Send**."
 
 #: ../../mobile_apps/chats_app.rst:322
-#, fuzzy
 msgid "Open the meeting configuration screen."
 msgstr "Choose the share configuration."
 
@@ -12732,7 +12609,6 @@ msgid "Logout"
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:327
-#, fuzzy
 msgid "Tap **Logout**."
 msgstr "Tap **OK/Create**."
 
@@ -12745,12 +12621,10 @@ msgid "You can start a video call directly from a one-to-one conversation."
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:335
-#, fuzzy
 msgid "Open the chat with the colleague."
 msgstr "Open a 1-to-1 chat with the colleague."
 
 #: ../../mobile_apps/chats_app.rst:336
-#, fuzzy
 msgid "Tap the **Camera** icon."
 msgstr "Tap **Create** (plus icon)."
 
@@ -12798,7 +12672,6 @@ msgid "To use Picture-in-Picture:"
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:357
-#, fuzzy
 msgid "Join a video meeting."
 msgstr "Recording a Video Meeting"
 
@@ -12848,12 +12721,10 @@ msgid "If you have the required permissions, you can delete a meeting room."
 msgstr ""
 
 #: ../../mobile_apps/chats_app.rst:380
-#, fuzzy
 msgid "Open the room you want to delete."
 msgstr "Scegli l'azione che desideri eseguire."
 
 #: ../../mobile_apps/chats_app.rst:382
-#, fuzzy
 msgid "Confirm the deletion, if prompted."
 msgstr "Confirm the action."
 
@@ -14072,7 +13943,6 @@ msgstr ""
 "attachments. Example: size: 1MB."
 
 #: ../../search/toc.rst:111
-#, fuzzy
 msgid ""
 "**Smaller**: Specifies emails based on their total size, including "
 "attachments. Example: smaller: 1MB."
@@ -14081,7 +13951,6 @@ msgstr ""
 "attachments. Example: smaller:1MB."
 
 #: ../../search/toc.rst:112
-#, fuzzy
 msgid ""
 "**Larger**: Specifies emails based on their total size, including "
 "attachments. Example: larger: 1MB."
@@ -14090,13 +13959,11 @@ msgstr ""
 "attachments. Example: smaller:1MB."
 
 #: ../../search/toc.rst:113
-#, fuzzy
 msgid ""
 "**Tag**: Finds messages tagged with a specified tag. Example: tag: "
 "important."
 msgstr ""
-"**Tag**: Finds messages tagged with a specified tag. Example: "
-"tag:important."
+"**Tag**: Finds messages tagged with a specified tag. Example: tag:important."
 
 #: ../../search/toc.rst:115
 msgid ""
@@ -14575,16 +14442,15 @@ msgstr ""
 "option Apply Blur Effect."
 
 #: ../../videomeeting/toc.rst:135
-#, fuzzy
 msgid ""
 "You also have the chance to choose a specific background image. Click on "
 "the arrow icon in the camera button, and then choose the option Apply "
 "Background Image. You can choose one from the available options."
 msgstr ""
-"You also have the chance to choose a specific background image. Click on "
-"the arrow icon in the camera button, and then choose the option Apply "
-"Background Image. You can upload your own image or choose one from the "
-"available options."
+"You also have the chance to choose a specific background image. Click on the "
+"arrow icon in the camera button, and then choose the option Apply Background "
+"Image. You can upload your own image or choose one from the available "
+"options."
 
 #: ../../videomeeting/toc.rst:139
 msgid "Recording a Video Meeting"
@@ -17033,4 +16899,3 @@ msgstr "Click the crown icon next to the participant’s name."
 
 #~ msgid "**Sent on**: Search for emails sent exactly on the specified date."
 #~ msgstr "**Sent on**: Search for emails sent exactly on the specified date."
-

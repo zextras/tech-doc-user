@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Carbonio User Guide 26.6\n"
+"Project-Id-Version: Carbonio User Guide 26.9\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-27 13:27+0200\n"
+"POT-Creation-Date: 2026-10-23 11:18+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,7 +35,7 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:16
 #: ../../advanced_email_management/toc.rst:49
 #: ../../advanced_email_management/toc.rst:110
-#: ../../advanced_email_management/toc.rst:125
+#: ../../advanced_email_management/toc.rst:204
 msgid "Click on the Settings (gear icon) in the left sidebar."
 msgstr ""
 
@@ -56,7 +56,7 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:20
 #: ../../advanced_email_management/toc.rst:52
 #: ../../advanced_email_management/toc.rst:114
-#: ../../advanced_email_management/toc.rst:131
+#: ../../advanced_email_management/toc.rst:210
 msgid "Click the SAVE button in the top right corner."
 msgstr ""
 
@@ -73,21 +73,20 @@ msgid "You can customize whether you are notified when you receive new emails. T
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:33
-#: ../../advanced_email_management/toc.rst:145
-#: ../../advanced_email_management/toc.rst:158
-#: ../../advanced_email_management/toc.rst:202
-#: ../../advanced_email_management/toc.rst:261
-#: ../../advanced_email_management/toc.rst:300
-#: ../../advanced_email_management/toc.rst:315
-#: ../../advanced_email_management/toc.rst:328
-#: ../../advanced_email_management/toc.rst:339
-#: ../../advanced_email_management/toc.rst:369
-#: ../../advanced_email_management/toc.rst:391
-#: ../../advanced_email_management/toc.rst:402
-#: ../../advanced_email_management/toc.rst:415
-#: ../../advanced_email_management/toc.rst:451
-#: ../../advanced_email_management/toc.rst:504
-#: ../../advanced_email_management/toc.rst:519
+#: ../../advanced_email_management/toc.rst:224
+#: ../../advanced_email_management/toc.rst:237
+#: ../../advanced_email_management/toc.rst:281
+#: ../../advanced_email_management/toc.rst:340
+#: ../../advanced_email_management/toc.rst:379
+#: ../../advanced_email_management/toc.rst:394
+#: ../../advanced_email_management/toc.rst:407
+#: ../../advanced_email_management/toc.rst:418
+#: ../../advanced_email_management/toc.rst:448
+#: ../../advanced_email_management/toc.rst:470
+#: ../../advanced_email_management/toc.rst:481
+#: ../../advanced_email_management/toc.rst:494
+#: ../../advanced_email_management/toc.rst:576
+#: ../../advanced_email_management/toc.rst:749
 #: ../../calendars/toc.rst:24
 #: ../../calendars/toc.rst:140
 #: ../../calendars/toc.rst:156
@@ -96,18 +95,18 @@ msgid "Click on the **Settings** (gear icon) in the left sidebar."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:34
-#: ../../advanced_email_management/toc.rst:146
-#: ../../advanced_email_management/toc.rst:159
-#: ../../advanced_email_management/toc.rst:203
-#: ../../advanced_email_management/toc.rst:262
-#: ../../advanced_email_management/toc.rst:301
-#: ../../advanced_email_management/toc.rst:316
-#: ../../advanced_email_management/toc.rst:329
-#: ../../advanced_email_management/toc.rst:340
-#: ../../advanced_email_management/toc.rst:370
-#: ../../advanced_email_management/toc.rst:392
-#: ../../advanced_email_management/toc.rst:403
-#: ../../advanced_email_management/toc.rst:416
+#: ../../advanced_email_management/toc.rst:225
+#: ../../advanced_email_management/toc.rst:238
+#: ../../advanced_email_management/toc.rst:282
+#: ../../advanced_email_management/toc.rst:341
+#: ../../advanced_email_management/toc.rst:380
+#: ../../advanced_email_management/toc.rst:395
+#: ../../advanced_email_management/toc.rst:408
+#: ../../advanced_email_management/toc.rst:419
+#: ../../advanced_email_management/toc.rst:449
+#: ../../advanced_email_management/toc.rst:471
+#: ../../advanced_email_management/toc.rst:482
+#: ../../advanced_email_management/toc.rst:495
 msgid "Select **Mails**."
 msgstr ""
 
@@ -124,8 +123,8 @@ msgid "Check the box for the **Play audio hint when new notification appears** i
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:38
-#: ../../advanced_email_management/toc.rst:149
-#: ../../advanced_email_management/toc.rst:162
+#: ../../advanced_email_management/toc.rst:228
+#: ../../advanced_email_management/toc.rst:241
 msgid "Click the **SAVE** button in the top right corner."
 msgstr ""
 
@@ -258,173 +257,315 @@ msgstr ""
 msgid "Click the Add button to add the address or domain to the trusted list."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:121
-msgid "Creating an Out-of-Office Email"
+#: ../../advanced_email_management/toc.rst:122
+msgid "Allowed and Blocked Senders list"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:123
-msgid "When you are away from the office, setting up an automatic reply can keep colleagues and clients informed. Here is how to set it up:"
+#: ../../advanced_email_management/toc.rst:124
+msgid "The **Allowed senders list** and **Blocked senders list** let you control how incoming e‑mail is handled for your mailbox."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:126
+msgid "Add trusted senders to the **Allowed senders list** to ensure that their messages bypass the spam filter and are delivered directly to your inbox."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:127
+msgid "Add unwanted senders to the **Blocked senders list** to automatically move their messages to the spam folder."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:130
+msgid "Access the allowed and blocked senders lists"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:132
+msgid "To manage your allowed and blocked senders:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:134
+msgid "Open **Settings**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:135
+msgid "Select **Mails** from the left navigation menu."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:136
+msgid "Scroll to the **Allowed senders list** and **Blocked senders list** sections."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:138
+msgid "The **Mail settings** page contains separate sections for **Trusted addresses**, **Allowed senders list**, and **Blocked senders list**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:145
+msgid "Add an allowed sender"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:147
+msgid "Add an e‑mail address to the **Allowed senders list** to **always** allow messages from that sender."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:149
+#: ../../advanced_email_management/toc.rst:165
+#: ../../advanced_email_management/toc.rst:181
+msgid "Open **Settings** > **Mails**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:150
+msgid "In the **Allowed senders list** section, enter the sender’s e‑mail address."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:151
+#: ../../advanced_email_management/toc.rst:167
+#: ../../calendars/toc.rst:244
+msgid "Click **ADD**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:153
+msgid "The address is added immediately, and future messages from that sender bypass the spam filter and are delivered directly to your inbox."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:156
+#: ../../advanced_email_management/toc.rst:172
+#: ../../advanced_email_management/toc.rst:336
+msgid "Example:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:158
+msgid "Add john.smith@example.com to the Allowed senders list. Future messages from john.smith@example.com are delivered directly to your inbox."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:161
+msgid "Add a blocked sender"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:163
+msgid "Add an e‑mail address to the **Blocked senders list** to automatically move messages from that sender to the Spam folder."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:166
+msgid "In the **Blocked senders list** section, enter the sender’s e‑mail address."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:169
+msgid "The address is added immediately, and future messages from that sender are automatically moved to the Spam folder."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:174
+msgid "Add spam@example.com to the Blocked senders list. Future messages from spam@example.com are automatically moved to Spam."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:177
+msgid "Remove a sender"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:179
+msgid "You can remove any address from either list."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:182
+msgid "Locate the address in the **Allowed senders list** or **Blocked senders list**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:183
+msgid "Remove the address from the list."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:185
+msgid "The change takes effect immediately for future incoming messages."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:188
+msgid "E‑mail address validation"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:190
+msgid "Carbonio validates e‑mail addresses before adding them to a list."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:192
+msgid "**Valid examples**"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:194
+msgid "alice@example.com"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:195
+msgid "notifications@company.org"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:197
+msgid "Invalid addresses cannot be added."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:200
+msgid "Creating an Out-of-Office Email"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:202
+msgid "When you are away from the office, setting up an automatic reply can keep colleagues and clients informed. Here is how to set it up:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:205
 #: ../../get_started/toc.rst:269
 #: ../../get_started/toc.rst:294
 #: ../../get_started/toc.rst:328
 msgid "Select General Settings."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:127
+#: ../../advanced_email_management/toc.rst:206
 msgid "Under Out of Office Settings, select Send auto-replies from the first drop-down menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:128
+#: ../../advanced_email_management/toc.rst:207
 msgid "In the Auto-Reply Message field, type the message you would like to be sent out while you are away."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:129
+#: ../../advanced_email_management/toc.rst:208
 msgid "Select the recipient from the External Senders field."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:130
+#: ../../advanced_email_management/toc.rst:209
 msgid "Under Time Period select Send auto-replies during the following period and select the dates."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:133
+#: ../../advanced_email_management/toc.rst:212
 msgid "If you prefer to send the out-of-office email only during specific hours of the day, you can customize the interval by selecting All Day and then specifying the desired time frame by choosing the start and end hours."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:140
+#: ../../advanced_email_management/toc.rst:219
 msgid "Showing Emails in HTML or Plain Text Format"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:142
+#: ../../advanced_email_management/toc.rst:221
 msgid "You can view email messages in two formats, HTML, or plain text. HTML messages can have text formatting, numbering, bullets, colored backgrounds, and links, which can make messages easier to read. Plain text messages can always be read by other email clients. Plain text does not support any text formatting, styles, links, or images. You can view a message in plain-text mode even if it contains HTML. The HTML tags are displayed in the body of the message in the plain text view."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:147
+#: ../../advanced_email_management/toc.rst:226
 msgid "Under Displaying Messages, click on the Display mail field."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:148
+#: ../../advanced_email_management/toc.rst:227
 msgid "From the drop-down menu, select **As HTML** or **As text**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:152
+#: ../../advanced_email_management/toc.rst:231
 msgid "Configuring Read Receipts Behavior"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:154
+#: ../../advanced_email_management/toc.rst:233
 msgid "When sending messages to other |product| users, you can choose to request a return receipt, which notifies you when the recipient opens your email. However, for this feature to function, the recipient must have the read receipt feature enabled or manually accept it as soon as they open the email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:156
+#: ../../advanced_email_management/toc.rst:235
 msgid "To enable the read receipt feature:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:160
+#: ../../advanced_email_management/toc.rst:239
 msgid "Under **Receiving Messages**, click on the **Read Receipt** field."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:161
+#: ../../advanced_email_management/toc.rst:240
 msgid "Select **Always send a read receipt**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:164
+#: ../../advanced_email_management/toc.rst:243
 msgid "Alternatively, you can choose the option **Never send a read receipt** to ensure it is never sent automatically or select **Ask me** so that you are prompted each time you open an email with a read receipt request, giving you the choice to send it or not."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:171
+#: ../../advanced_email_management/toc.rst:250
 msgid "Setting Up Email Filters"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:173
+#: ../../advanced_email_management/toc.rst:252
 msgid "You can effectively manage your inbox by utilizing email filters. These filters allow you to set up actions, such as organizing incoming and outgoing emails into specific folders."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:175
+#: ../../advanced_email_management/toc.rst:254
 msgid "A filter consists of specific conditions paired with corresponding actions."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:177
+#: ../../advanced_email_management/toc.rst:256
 msgid "When an email satisfies the specified conditions, the designated actions are triggered."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:179
+#: ../../advanced_email_management/toc.rst:258
 msgid "Conditions can encompass various criteria, such as the subject, sender, or date of the email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:180
+#: ../../advanced_email_management/toc.rst:259
 msgid "Actions may include moving, tagging, or redirecting the emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:182
+#: ../../advanced_email_management/toc.rst:261
 msgid "Some examples are:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:184
+#: ../../advanced_email_management/toc.rst:263
 msgid "Automatically moving incoming emails into designated folders. For instance, emails from your supervisor can be automatically routed to your \"Management Directives\" folder upon arrival."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:185
+#: ../../advanced_email_management/toc.rst:264
 msgid "Tag specific emails for easy identification. For example, emails from the corporate events mailing list can be labeled with an \"Events\" tag."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:186
+#: ../../advanced_email_management/toc.rst:265
 msgid "Redirect or delete emails based on predefined criteria. For instance, all emails from a specific sender can be forwarded or moved to the Trash folder."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:187
+#: ../../advanced_email_management/toc.rst:266
 msgid "Assign importance flags to specific emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:189
+#: ../../advanced_email_management/toc.rst:268
 msgid "Filters are applied sequentially, following the order in which they are listed in your settings. You retain the flexibility to modify the order of filters as needed."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:192
+#: ../../advanced_email_management/toc.rst:271
 msgid "Creating a Filter"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:198
+#: ../../advanced_email_management/toc.rst:277
 msgid "You can configure filters independently for incoming and outgoing emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:200
+#: ../../advanced_email_management/toc.rst:279
 msgid "To create a filter for **incoming** or **outgoing emails**:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:204
+#: ../../advanced_email_management/toc.rst:283
 msgid "Under **Filters**, choose either **Incoming Message Filters** or **Outgoing Message Filters** depending on whether you intend to create a filter for emails you receive or emails you send, respectively."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:205
-#: ../../advanced_email_management/toc.rst:264
+#: ../../advanced_email_management/toc.rst:284
+#: ../../advanced_email_management/toc.rst:343
 msgid "Click **CREATE**. A new window appears."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:206
+#: ../../advanced_email_management/toc.rst:285
 msgid "Insert a name for your filter in the **Filter Name** field (e.g., junk mail)"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:207
-#: ../../advanced_email_management/toc.rst:266
+#: ../../advanced_email_management/toc.rst:286
+#: ../../advanced_email_management/toc.rst:345
 msgid "Ensure to mark the **Active filter** checkbox so the filter becomes operational immediately upon its creation."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:208
+#: ../../advanced_email_management/toc.rst:287
 msgid "Under the **Conditions** section, select the proper options for the logic of your filter. Press the + button if you need to add more conditions (please refer to the section below titled **How to create conditions** for guidance on setting up the necessary criteria)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:209
+#: ../../advanced_email_management/toc.rst:288
 msgid "Under the **Actions** section, choose the appropriate action to be taken if the filter conditions are met. Press the **+** button if you need to add more actions (please refer to the section below titled **How to create actions** for guidance on setting up the necessary criteria)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:210
-#: ../../advanced_email_management/toc.rst:274
+#: ../../advanced_email_management/toc.rst:289
+#: ../../advanced_email_management/toc.rst:353
 msgid "Check or uncheck the **Do not process additional filters** checkbox to determine whether this filter rule, when its conditions are met, will prevent the execution of any other rules. Enabling this option means that once this filter’s conditions are satisfied, the system will not evaluate any other filters."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:211
+#: ../../advanced_email_management/toc.rst:290
 #: ../../chat/toc.rst:25
 #: ../../files/toc.rst:45
 #: ../../files/toc.rst:55
@@ -432,879 +573,1141 @@ msgstr ""
 msgid "Click **CREATE**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:213
+#: ../../advanced_email_management/toc.rst:292
 msgid "You can locate your filter under **Active Filters**, indicating that it is already operational and will be applied to incoming emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:215
+#: ../../advanced_email_management/toc.rst:294
 msgid "If you did not select the **Active filter** on step 6, you will find the filter under the **Available Filters**. To activate it, simply select it and click **ADD**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:217
+#: ../../advanced_email_management/toc.rst:296
 msgid "How to create conditions:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:219
+#: ../../advanced_email_management/toc.rst:298
 msgid "Under the **Conditions** section, you can configure various fields. These fields determine the conditions that must be met for your email filter to execute the specified action."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:221
+#: ../../advanced_email_management/toc.rst:300
 msgid "**If field**: In this field, you can specify whether **Any** or **All** conditions need to be matched for the filter rule to be executed."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:223
+#: ../../advanced_email_management/toc.rst:302
 msgid "**First field**: This field contains multiple values. i.e."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:225
+#: ../../advanced_email_management/toc.rst:304
 msgid "**From**: Specifies the sender's email address."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:226
+#: ../../advanced_email_management/toc.rst:305
 msgid "**To**: Specifies the recipient's email address."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:227
+#: ../../advanced_email_management/toc.rst:306
 msgid "**Cc**: Specifies the email addresses listed in the \"Cc\" field."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:228
+#: ../../advanced_email_management/toc.rst:307
 msgid "**To** or **Cc**: Specifies email addresses in either the \"To\" or \"Cc\" fields."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:229
+#: ../../advanced_email_management/toc.rst:308
 msgid "**Subject**: Specifies keywords or phrases found in the email subject."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:230
+#: ../../advanced_email_management/toc.rst:309
 msgid "**Message**: Specifies email properties, such as those involved in conversations I've participated in."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:231
+#: ../../advanced_email_management/toc.rst:310
 msgid "**Size**: Specifies the size of the email in kilobytes."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:232
+#: ../../advanced_email_management/toc.rst:311
 msgid "**Date**: Specifies the date the email was sent or received."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:233
+#: ../../advanced_email_management/toc.rst:312
 msgid "**Body**: Specifies specific content within the email body."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:234
+#: ../../advanced_email_management/toc.rst:313
 msgid "**Attachment**: Specifies the presence or absence of attachments."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:235
+#: ../../advanced_email_management/toc.rst:314
 msgid "**Read Receipt**: Specifies whether a read receipt has been requested or received."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:236
+#: ../../advanced_email_management/toc.rst:315
 msgid "**Address In**: Specifies specific addresses (e.g., sender, or recipient) that exist in the contacts or frequent emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:237
+#: ../../advanced_email_management/toc.rst:316
 msgid "**Calendar**: Specifies events or calendar-related information within the email, such as whether the invitation has been replied to."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:238
+#: ../../advanced_email_management/toc.rst:317
 msgid "**Social**: Specifies social media-related content within the email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:239
+#: ../../advanced_email_management/toc.rst:318
 msgid "**Header Named**: Specifies a custom email header name."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:241
+#: ../../advanced_email_management/toc.rst:320
 msgid "You can choose anything among these values and your next field values will appear accordingly."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:243
+#: ../../advanced_email_management/toc.rst:322
 msgid "**Second field**: Depending on the value of the first field, you will get to choose values for this field. Let me give you an example. If you choose From as a value in the first field, then in this field you will get the following values to choose. (i.e. Matches Exactly, Does Not Match Exactly, Contains, Does Not Contain, Matches Wildcard Condition, Does Not Match Wildcard Condition). But if you choose Size as a value in the first field, then you will get Under, Not Under, Over, and Not Over as selectable values in this field. Similarly, for all other values of the first field, you will get a different set of values for this field."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:245
+#: ../../advanced_email_management/toc.rst:324
 msgid "Depending on the First field and second field, you may get additional fields with different values."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:247
+#: ../../advanced_email_management/toc.rst:326
 msgid "How to create actions:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:249
+#: ../../advanced_email_management/toc.rst:328
 msgid "Under the Action section, you can configure various fields. These fields determine the actions to be taken if the specified conditions are met. Actions have a few paths to set such as:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:251
+#: ../../advanced_email_management/toc.rst:330
 msgid "**Discard**: Moves the email into the Junk folder."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:252
+#: ../../advanced_email_management/toc.rst:331
 msgid "**Move Into Folder**: Transfers the email to a specified folder."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:253
+#: ../../advanced_email_management/toc.rst:332
 msgid "**Mark As**: Marks the email as read or flagged."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:254
+#: ../../advanced_email_management/toc.rst:333
 msgid "**Tag With**: Assigns a tag to the email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:255
+#: ../../advanced_email_management/toc.rst:334
 msgid "**Redirect To Address**: Redirects the email to the specified email address."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:257
-msgid "Example:"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:259
+#: ../../advanced_email_management/toc.rst:338
 msgid "Let's implement a filter to automatically move incoming emails containing the keywords 'Drug' and 'Violence' into the Trash folder."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:263
+#: ../../advanced_email_management/toc.rst:342
 msgid "Under Filters, choose **Incoming Message Filters**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:265
+#: ../../advanced_email_management/toc.rst:344
 msgid "Insert a name for your filter in the **Filter Name** field (e.g., drug junk mail)"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:267
+#: ../../advanced_email_management/toc.rst:346
 msgid "Under the **Conditions** section, select **Any**. We set it to match any condition, meaning if either 'Drug' or 'Violence' is found in the email, it will be moved to the junk folder."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:268
+#: ../../advanced_email_management/toc.rst:347
 msgid "In the first field, select **Body**, in the second field, select **Contains**, and lastly in the third field, write *Violence* to specify that any email containing the word 'Violence' in its body should trigger the filter."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:269
+#: ../../advanced_email_management/toc.rst:348
 msgid "Click on the **+** button to add another condition."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:270
+#: ../../advanced_email_management/toc.rst:349
 msgid "In the first field, select **Body**, in the second field, select **Contains**, and lastly in the third field, write *Drug* to specify that any email containing the word 'Drug' in its body should trigger the filter."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:271
+#: ../../advanced_email_management/toc.rst:350
 msgid "Under the **Actions** section, choose **Move Into Folder**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:272
+#: ../../advanced_email_management/toc.rst:351
 msgid "Click **BROWSE**, and a new window appears."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:273
+#: ../../advanced_email_management/toc.rst:352
 msgid "Select your Trash folder and click **CHOOSE**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:275
+#: ../../advanced_email_management/toc.rst:354
 msgid "Click CREATE."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:282
+#: ../../advanced_email_management/toc.rst:361
 msgid "Activating/Deactivating a Filter"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:284
+#: ../../advanced_email_management/toc.rst:363
 msgid "When creating a filter, you have the option to mark the **Active filter** checkbox. If selected, your filter will be placed in the Active Filters section; otherwise, it will be listed under **Available Filters**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:286
+#: ../../advanced_email_management/toc.rst:365
 msgid "Active Filters are operational and will be applied to emails automatically. Conversely, filters kept in the Available Filters section are inactive but can be retained for future use. You have the flexibility to move them into the Active Filters section whenever needed."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:288
+#: ../../advanced_email_management/toc.rst:367
 msgid "To move a filter from the Active Filters to the Available Filters, simply select the filter you want to deactivate and click on the **REMOVE** button. This action will transfer the filter to the Available Filters section, where it will remain inactive until reactivated."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:289
+#: ../../advanced_email_management/toc.rst:368
 msgid "To move a filter from the Available Filters to the Active Filters, simply select the filter you want to activate and click on the **ADD** button. This action will transfer the filter to the Available Filters section, where it will remain active until deactivated."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:292
+#: ../../advanced_email_management/toc.rst:371
 msgid "Applying a Filter to Existing Emails"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:294
+#: ../../advanced_email_management/toc.rst:373
 msgid "Active Filters are automatically applied to new emails, whereas for managing existing emails, you may need to manually apply a filter. For instance, you can create a filter to move all emails containing the word 'Violence' into the junk folder to tidy up your inbox."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:296
+#: ../../advanced_email_management/toc.rst:375
 msgid "This manual application allows you to organize existing emails according to your preferences."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:298
+#: ../../advanced_email_management/toc.rst:377
 msgid "To apply a filter to existing emails, follow these steps:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:302
-#: ../../advanced_email_management/toc.rst:341
+#: ../../advanced_email_management/toc.rst:381
+#: ../../advanced_email_management/toc.rst:420
 msgid "Under Filters, choose **Incoming Message Filters** or **Outgoing Message Filters**, depending on where your filter is located."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:303
+#: ../../advanced_email_management/toc.rst:382
 msgid "Select the filter you want to apply from the list."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:304
+#: ../../advanced_email_management/toc.rst:383
 msgid "Click **APPLY**. A new window will appear."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:305
+#: ../../advanced_email_management/toc.rst:384
 msgid "From the drop-down menu, select the folder you want the filter to be applied to."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:306
+#: ../../advanced_email_management/toc.rst:385
 msgid "Click **APPLY** to confirm and execute the filter on existing emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:308
+#: ../../advanced_email_management/toc.rst:387
 msgid "Note: To avoid server overload, the standard configuration prevents a filter from being applied on a folder with more than 10.000 items."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:311
+#: ../../advanced_email_management/toc.rst:390
 msgid "Editing a Filter"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:313
+#: ../../advanced_email_management/toc.rst:392
 msgid "To edit an existing filter, follow these steps:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:317
-#: ../../advanced_email_management/toc.rst:330
+#: ../../advanced_email_management/toc.rst:396
+#: ../../advanced_email_management/toc.rst:409
 msgid "Under Filters, choose Incoming **Message Filters** or **Outgoing Message Filters**, depending on where your filter is located."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:318
+#: ../../advanced_email_management/toc.rst:397
 msgid "Select the filter you want to edit from the list."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:319
+#: ../../advanced_email_management/toc.rst:398
 msgid "Click **EDIT**. A new window will appear."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:320
+#: ../../advanced_email_management/toc.rst:399
 msgid "Perform your edits, ensuring the filter is set up according to your preferences."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:321
+#: ../../advanced_email_management/toc.rst:400
 msgid "Click **SAVE** to confirm and apply the changes."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:324
+#: ../../advanced_email_management/toc.rst:403
 msgid "Deleting a Filter"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:326
+#: ../../advanced_email_management/toc.rst:405
 msgid "To delete an existing filter, follow these steps:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:331
+#: ../../advanced_email_management/toc.rst:410
 msgid "Select the filter you want to delete from the list."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:332
+#: ../../advanced_email_management/toc.rst:411
 msgid "Click **DELETE**. A new window will appear; click **DELETE** again to confirm and remove the selected filter."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:335
+#: ../../advanced_email_management/toc.rst:414
 msgid "Change Filter Order"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:337
+#: ../../advanced_email_management/toc.rst:416
 msgid "The order of filters determines their application. You have the freedom to adjust the order of filters at any point to influence their priority in processing emails. To change the order:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:342
+#: ../../advanced_email_management/toc.rst:421
 msgid "Select a filter whose order you want to modify."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:343
+#: ../../advanced_email_management/toc.rst:422
 msgid "Click the downward or upward arrow to adjust the position of the selected filter, thereby changing its order in the list."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:346
+#: ../../advanced_email_management/toc.rst:425
 msgid "Account Signatures"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:348
+#: ../../advanced_email_management/toc.rst:427
 msgid "Incorporating an automatic signature at the end of your emails is a common practice. A signature typically comprises your name along with any supplementary text. If you are utilizing a **rich text editor**, you have the flexibility to format your signature, insert URLs for links, and include graphics. It is also feasible to create multiple signatures to suit various contexts. For instance, you might opt for a formal signature tailored for correspondence with clients, while reserving an informal one for communication with friends. Moreover, if you manage multiple email identities, often referred to as personas, you can devise distinct signatures and allocate them to specific addresses."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:352
+#: ../../advanced_email_management/toc.rst:431
 msgid "Using Signatures"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:354
+#: ../../advanced_email_management/toc.rst:433
 msgid "To ensure that signatures appear in your email, you must switch to the **rich text editor** while composing."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:356
+#: ../../advanced_email_management/toc.rst:435
 msgid "Follow these steps to toggle the rich text editor on:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:358
+#: ../../advanced_email_management/toc.rst:437
 msgid "Click on the **three vertical dots** located in the top-right corner of the compose board."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:359
+#: ../../advanced_email_management/toc.rst:438
 msgid "Select **Enable rich text editor** from the menu that appears."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:361
+#: ../../advanced_email_management/toc.rst:440
 msgid "When a signature is set, it will be visible at the end of the email you are composing. Additionally, you can effortlessly switch between identities /personas by selecting them from the top-left corner of the composing board, automatically applying the respective signatures assigned to each identity/persona."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:365
+#: ../../advanced_email_management/toc.rst:444
 msgid "Creating Signatures"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:367
+#: ../../advanced_email_management/toc.rst:446
 msgid "To create a signature:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:371
+#: ../../advanced_email_management/toc.rst:450
 msgid "Under the **Signatures** section, click **ADD SIGNATURE**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:372
+#: ../../advanced_email_management/toc.rst:451
 msgid "Provide a name for the signature in the designated field."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:373
+#: ../../advanced_email_management/toc.rst:452
 msgid "Utilize the rich text editor on the right side to compose your signature."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:374
-#: ../../advanced_email_management/toc.rst:395
-#: ../../advanced_email_management/toc.rst:406
-#: ../../advanced_email_management/toc.rst:418
-#: ../../advanced_email_management/toc.rst:457
-#: ../../advanced_email_management/toc.rst:508
+#: ../../advanced_email_management/toc.rst:453
+#: ../../advanced_email_management/toc.rst:474
+#: ../../advanced_email_management/toc.rst:485
+#: ../../advanced_email_management/toc.rst:497
+#: ../../advanced_email_management/toc.rst:582
 msgid "Click **SAVE** from the top-right corner."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:376
+#: ../../advanced_email_management/toc.rst:455
 msgid "Anything composed in this section will automatically append to the end of your email as shown in the following example::"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:387
+#: ../../advanced_email_management/toc.rst:466
 msgid "Editing Signatures"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:389
+#: ../../advanced_email_management/toc.rst:468
 msgid "To edit a signature:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:393
+#: ../../advanced_email_management/toc.rst:472
 msgid "Under the **Signatures** section, click on the signature you want to edit."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:394
+#: ../../advanced_email_management/toc.rst:473
 msgid "Utilize the rich text editor on the right side to edit your signature."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:398
+#: ../../advanced_email_management/toc.rst:477
 msgid "Removing Signatures"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:400
+#: ../../advanced_email_management/toc.rst:479
 msgid "To remove a signature:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:404
+#: ../../advanced_email_management/toc.rst:483
 msgid "Under the **Signatures section**, click on the signature you want to remove."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:405
+#: ../../advanced_email_management/toc.rst:484
 msgid "Hover your mouse cursor over the signature name. A red button labeled **DELETE** will appear. Click on it, and the signature will be removed."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:409
+#: ../../advanced_email_management/toc.rst:488
 msgid "Assign Different Signatures to Different Identities / Personas"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:411
+#: ../../advanced_email_management/toc.rst:490
 msgid "You can personalize each account persona or identity with a unique signature. This ensures that when selecting an identity/persona while composing an email, the appropriate signature is automatically applied."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:413
+#: ../../advanced_email_management/toc.rst:492
 msgid "To assign each identity/persona a signature:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:417
+#: ../../advanced_email_management/toc.rst:496
 msgid "In the Signatures Usage section, choose a signature for each persona/identity from the dropdown menu provided."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:420
+#: ../../advanced_email_management/toc.rst:499
 msgid "You can effortlessly switch between identities/personas by selecting them from the top-left corner of the composing board, automatically applying the respective signatures assigned to each identity/persona."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:423
-msgid "Changing Signature While Composing An Email"
+#: ../../advanced_email_management/toc.rst:503
+msgid "Automatic Sender and Signature Selection in Shared Mailboxes"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:425
-msgid "If you have set two or more signatures, you can easily switch between them, while you are writing an email."
+#: ../../advanced_email_management/toc.rst:504
+msgid "When composing emails from shared mailbox folders, Carbonio automatically selects the correct sender account and applies the corresponding signature (provided a persona linked to that account has been created). This reduces manual steps and prevents errors such as sending from the wrong account or omitting the signature."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:427
-msgid "Just click on the **feather pen icon** on top of the composing tab and choose the one you want to use, between the different options in the list, based on the existing signatures. You can also choose *Do not use a signature* option, if you want to completely remove the signature from the current email."
+#: ../../advanced_email_management/toc.rst:508
+msgid "You must create a persona for each signature. Each sender identity (persona) can have its own signature. If you don't create a persona for a shared account, the signature won't be inserted automatically."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:435
-msgid "Email Delegations"
+#: ../../advanced_email_management/toc.rst:512
+msgid "1. Automatic Sender Identity Selection"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:437
-msgid "You can permit others to send emails on your behalf. When someone sends an email on your behalf, the recipient sees both your name and the sender's name. It is important to note that this is not the same as sharing your entire inbox. The sender operates from their email account when sending emails on your behalf, with your name selected from the From field drop-down menu as the sender."
+#: ../../advanced_email_management/toc.rst:514
+msgid "When you compose a **new email** or **appointment** from a folder in a **shared mailbox**, the system detects the correct sender identity based on:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:439
-msgid "Similarly, if you have been delegated permission to send emails on behalf of someone else, you can do so with their email address as the sender. In this case, the From address will display both your email address and the person you are representing. When you have been given authorization to send an email to that person, their email address appears in the menu, without including your address in the email."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:441
-msgid "Email delegation can be particularly useful in scenarios where you need someone else to handle your email correspondence on your behalf, such as when you are out of the office or managing multiple responsibilities. It allows for efficient management of emails without the need for direct access to your inbox, streamlining communication processes. This feature is especially handy for executives, assistants, or team members who need to act on behalf of others while maintaining clarity about the sender's identity."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:445
-msgid "Delegating Others to Send Emails on Your Behalf"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:447
-msgid "You can authorize others to send messages on your behalf. When they do so, your name and email address appear as the sender, even though the message is dispatched from the delegate's inbox."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:449
-msgid "To set this up:"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:452
-#: ../../advanced_email_management/toc.rst:505
-#: ../../advanced_email_management/toc.rst:520
-msgid "Select **Accounts**."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:453
-msgid "In the Delegates section, click **ADD DELEGATE**."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:454
-msgid "Enter the email address of the person you are authorizing; this should be an internal user's address like one of your colleagues."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:455
-msgid "Choose the permissions you wish to grant, and then click **OK**."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:456
-msgid "Choose Save a copy of sent messages to my Sent folder from the list, if you want to get a copy of the email sent by the delegate. Otherwise, you can choose different options based on your preferences."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:459
-msgid "An email notification will be sent to the designated person, informing them of their newly acquired delegate permissions."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:466
-msgid "Sending Email on Behalf of Someone Else"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:468
-msgid "If you have been granted delegate permissions for another person, you can send emails on their behalf. While composing an email, click on the top-left corner where your account name is displayed. From there, you can select your email address, as well as any other identities or personas you may have, and the person you are representing. If you have been permitted to send messages as that individual, their email address will be available in the menu. When selected, your address will be omitted from the email."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:477
-msgid "Account Personas"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:479
-msgid "When sending emails, each email is associated with an email account. By default, your primary identity is tied to your account name when setting up your email account. However, you have the option to create additional email identities known as personas, which can be used to manage different types of emails."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:481
-msgid "For instance, you might establish one persona for your sales correspondence and another for personal emails."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:483
-#: ../../advanced_email_management/toc.rst:488
-msgid "If you have multiple personas or external accounts linked, you can choose the specific persona you wish to utilize when sending an email."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:486
-msgid "Using Personas"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:490
-msgid "You can send emails from different personas while composing a message."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:492
-msgid "The recipient will see the username aligned with the selected persona as the sender of the emails."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:494
-msgid "To switch personas, follow these steps:"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:496
-msgid "Click on your email address located at the **top left corner** of the composing board when composing your email."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:497
-msgid "Choose your preferred persona from the menu."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:500
-msgid "Creating Personas"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:502
-msgid "To create a new persona alongside your default one:"
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:506
-msgid "Under the Accounts list section, click **ADD PERSONA**."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:507
-msgid "Under the **Persona Settings** section, choose a name for the added persona."
-msgstr ""
-
-#: ../../advanced_email_management/toc.rst:515
-msgid "Removing Personas"
+#: ../../advanced_email_management/toc.rst:516
+msgid "The **folder** you are composing from."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:517
-msgid "To remove a persona:"
+msgid "The **shared mailbox** associated with that folder."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:521
-msgid "Under the Accounts list section, select the persona you wish to remove."
+#: ../../advanced_email_management/toc.rst:518
+msgid "The **permissions** assigned to your account."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:522
-msgid "Click **DELETE**, and then **DELETE PERMANENTLY** to confirm."
+#: ../../advanced_email_management/toc.rst:520
+msgid "The **From** field (for emails) is pre-filled with the correct persona."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:525
-msgid "Set Disposal Policies for a Folder"
+#: ../../advanced_email_management/toc.rst:524
+msgid "2. Automatic Signature Application"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:526
+msgid "You need to create a persona for every signature. Each sender identity (persona) can have an associated **signature**."
 msgstr ""
 
 #: ../../advanced_email_management/toc.rst:527
+msgid "The system automatically applies the correct signature based on the selected persona."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:528
+msgid "If no signature is associated with the persona, no signature is applied."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:532
+#: ../../chat/toc.rst:250
+msgid "How It Works"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:535
+msgid "Composing a New Email from a Shared Mailbox Folder"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:537
+msgid "Open a folder in a **shared mailbox**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:538
+msgid "Click **New Message** to compose an email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:539
+msgid "The system automatically:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:541
+msgid "Pre-fills the **From** field with the persona corresponding to the shared mailbox address."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:542
+msgid "Applies the **signature** associated with that persona (if available)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:544
+msgid "Review the email and send it—no manual adjustments are needed."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:548
+msgid "Changing Signature While Composing An Email"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:550
+msgid "If you have set two or more signatures, you can easily switch between them, while you are writing an email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:552
+msgid "Just click on the **feather pen icon** on top of the composing tab and choose the one you want to use, between the different options in the list, based on the existing signatures. You can also choose *Do not use a signature* option, if you want to completely remove the signature from the current email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:560
+msgid "Email Delegations"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:562
+msgid "You can permit others to send emails on your behalf. When someone sends an email on your behalf, the recipient sees both your name and the sender's name. It is important to note that this is not the same as sharing your entire inbox. The sender operates from their email account when sending emails on your behalf, with your name selected from the From field drop-down menu as the sender."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:564
+msgid "Similarly, if you have been delegated permission to send emails on behalf of someone else, you can do so with their email address as the sender. In this case, the From address will display both your email address and the person you are representing. When you have been given authorization to send an email to that person, their email address appears in the menu, without including your address in the email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:566
+msgid "Email delegation can be particularly useful in scenarios where you need someone else to handle your email correspondence on your behalf, such as when you are out of the office or managing multiple responsibilities. It allows for efficient management of emails without the need for direct access to your inbox, streamlining communication processes. This feature is especially handy for executives, assistants, or team members who need to act on behalf of others while maintaining clarity about the sender's identity."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:570
+msgid "Delegating Others to Send Emails on Your Behalf"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:572
+msgid "You can authorize others to send messages on your behalf. When they do so, your name and email address appear as the sender, even though the message is dispatched from the delegate's inbox."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:574
+msgid "To set this up:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:577
+#: ../../advanced_email_management/toc.rst:750
+msgid "Select **Accounts**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:578
+msgid "In the Delegates section, click **ADD DELEGATE**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:579
+msgid "Enter the email address of the person you are authorizing; this should be an internal user's address like one of your colleagues."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:580
+msgid "Choose the permissions you wish to grant, and then click **OK**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:581
+msgid "Choose Save a copy of sent messages to my Sent folder from the list, if you want to get a copy of the email sent by the delegate. Otherwise, you can choose different options based on your preferences."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:584
+msgid "An email notification will be sent to the designated person, informing them of their newly acquired delegate permissions."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:591
+msgid "Sending Email on Behalf of Someone Else"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:593
+msgid "If you have been granted delegate permissions for another person, you can send emails on their behalf. While composing an email, click on the top-left corner where your account name is displayed. From there, you can select your email address, as well as any other identities or personas you may have, and the person you are representing. If you have been permitted to send messages as that individual, their email address will be available in the menu. When selected, your address will be omitted from the email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:602
+msgid "Account Personas"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:604
+msgid "When sending emails, each email is associated with an email account. By default, your primary identity is tied to your account name when setting up your email account. However, you have the option to create additional email identities known as personas, which can be used to manage different types of emails."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:606
+msgid "For instance, you might establish one persona for your sales correspondence and another for personal emails."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:608
+#: ../../advanced_email_management/toc.rst:613
+msgid "If you have multiple personas or external accounts linked, you can choose the specific persona you wish to utilize when sending an email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:611
+msgid "Using Personas"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:615
+msgid "You can send emails from different personas while composing a message."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:617
+msgid "The recipient will see the username aligned with the selected persona as the sender of the emails."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:619
+msgid "To switch personas, follow these steps:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:621
+msgid "Click on your email address located at the **top left corner** of the composing board when composing your email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:622
+msgid "Choose your preferred persona from the menu."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:625
+msgid "Set Up a Persona and Signature for a Shared Mailbox"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:627
+msgid "When you have delegated read/write access to a shared mailbox, you can create a dedicated signature for messages sent from that mailbox. To configure a signature for a shared mailbox, you must first create a **persona** associated with the shared mailbox. The persona identifies the shared mailbox as the sender identity and provides the context in which the mailbox-specific signature can be configured and used."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:631
+#: ../../mobile_apps/mail_app.rst:179
+msgid "Example"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:633
+msgid "Suppose Mary (mary@example.com) has delegated full read/write access to the shared mailbox hr@example.com. When she sends messages from that mailbox, they should use the HR department signature."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:636
+msgid "Account, Persona, and Signature Relationship"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:638
+msgid "In this setup, Mary is the delegated user, hr@example.com is the shared mailbox, the **HR Mailbox** persona represents that sender identity, and the **HR signature** is applied to messages sent through the persona."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:642
+msgid "Configure a Shared Mailbox Persona and Signature"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:644
+msgid "The Persona feature allows you to create different professional identities or roles for sending emails. Each persona can be associated with a specific email account, making it easier to switch between roles when composing and sending messages."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:648
+msgid "1. Create a Persona for the Shared Mailbox"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:650
+msgid "Log in to your **primary account** (example, mary@example.com) in the Carbonio Webmail UI."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:651
+msgid "Click the **gear icon (⚙️) Settings** in the left-bottom corner."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:652
+msgid "In the left sidebar, navigate to **Accounts**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:653
+msgid "In the **Accounts list**, click **Add Persona**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:654
+msgid "Configure the persona with the following details:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:656
+msgid "**Persona Name**: A descriptive name (example, HR Mailbox)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:657
+msgid "**From Address**: Select the shared mailbox (example, hr@example.com) from the dropdown."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:658
+msgid "**Reply-To Address**: (Optional) Set to the shared mailbox if replies should go there."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:659
+msgid "**Choose Account**: Similar to address account details will be available in dropdown."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:661
+#: ../../advanced_email_management/toc.rst:679
+#: ../../contacts/toc.rst:293
+msgid "Click **Save**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:670
+msgid "2. Create a Signature for the Persona"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:672
+msgid "In the **Settings** menu, navigate to **Mails** > **Signatures**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:673
+msgid "Click **Add Signature**."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:674
+msgid "Configure the signature with the following details:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:676
+msgid "**Signature Name**: A descriptive name (example, HR Signature)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:677
+msgid "**Signature Content**: Enter the text or HTML for the signature (example, contact details for the HR team)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:688
+msgid "3. Assign Signatures to Accounts and Personas"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:690
+msgid "The Signature Usage section allows you to associate a specific email signature with an account or persona. This ensures that the appropriate signature is automatically used when sending new messages, replying, or forwarding emails."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:692
+msgid "From **Settings** → **Mails**, locate the **Signatures Usage** section."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:695
+msgid "1. Use the Default Signature for Personal Emails"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:697
+msgid "The Default account is configured with:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:699
+msgid "New Messages: me"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:700
+msgid "Replies & Forwards: me"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:702
+msgid "This means the signature named **me** is used for both new emails and replies/forwards."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:705
+msgid "2. Apply the HR Signature to New Shared Mailbox Messages"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:707
+msgid "The HR Mailbox has a different configuration:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:709
+msgid "New Messages: HR Signature"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:710
+msgid "Replies & Forwards: No signature"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:712
+msgid "The dropdown shows the available signatures:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:714
+msgid "No signature"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:715
+msgid "me"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:716
+msgid "HR Signature"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:718
+msgid "Here, HR Signature is selected for New Messages."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:720
+msgid "When the **HR Persona** is linked to the **HR Mailbox**, its signature settings are automatically applied. New emails sent using the **HR Persona** include the **HR Signature**, while replies and forwards are sent without a signature."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:729
+msgid "4. Send Email from the Shared Mailbox Persona"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:731
+msgid "Click **New** to create a new email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:732
+msgid "In the **From** field, click the dropdown and select the persona (example, HR Mailbox)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:734
+msgid "The **From** address will automatically update to the shared mailbox (example, hr@example.com)."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:735
+msgid "The signature associated with the persona will be inserted into the email."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:742
+msgid "After selecting the **HR Mailbox** persona, compose and send the message as usual. The email is sent from the shared mailbox address, and the configured **HR Signature** is inserted automatically for new messages according to the signature usage settings."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:745
+msgid "Removing Personas"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:747
+msgid "To remove a persona:"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:751
+msgid "Under the Accounts list section, select the persona you wish to remove."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:752
+msgid "Click **DELETE**, and then **DELETE PERMANENTLY** to confirm."
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:755
+msgid "Set Disposal Policies for a Folder"
+msgstr ""
+
+#: ../../advanced_email_management/toc.rst:757
 msgid "The email **disposal policy** dictates that emails residing in a specified folder and surpassing the disposal threshold will undergo automated cleanup and deletion without requiring manual intervention."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:529
+#: ../../advanced_email_management/toc.rst:759
 msgid "To enable and set a **disposal policy** for a folder:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:531
+#: ../../advanced_email_management/toc.rst:761
 #: ../../basic_email_management/toc.rst:22
 #: ../../basic_email_management/toc.rst:34
 #: ../../basic_email_management/toc.rst:64
 msgid "From the left sidebar click on the **Mails** section."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:532
+#: ../../advanced_email_management/toc.rst:762
 msgid "In the Navigation Panel, right-click on the folder for which you wish to set its disposal policy."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:533
+#: ../../advanced_email_management/toc.rst:763
 msgid "From the dropdown menu, select **Edit**. A new window appears."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:534
+#: ../../advanced_email_management/toc.rst:764
 msgid "Click the downward arrow next to the **Retention policy** section."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:535
+#: ../../advanced_email_management/toc.rst:765
 msgid "Tick the box labeled Enable Message Disposal."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:536
+#: ../../advanced_email_management/toc.rst:766
 msgid "Enter a numerical value in the **Disposal Threshold** field and choose the appropriate unit of time (such as days, weeks, etc.) from the adjacent dropdown menu."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:537
+#: ../../advanced_email_management/toc.rst:767
 #: ../../tasks/toc.rst:41
 msgid "Click **EDIT**."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:539
+#: ../../advanced_email_management/toc.rst:769
 msgid "After clicking EDIT, the disposal policy will be applied to the specified folder, triggering automated cleanup and deletion for emails surpassing the disposal threshold."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:543
+#: ../../advanced_email_management/toc.rst:773
 msgid "S/MIME signed emails"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:545
+#: ../../advanced_email_management/toc.rst:775
 msgid "If you don't see these options, it means that your administrator has not enabled them. Please contact your administrator for more information."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:547
+#: ../../advanced_email_management/toc.rst:777
 msgid "S/MIME (Secure/Multipurpose Internet Mail Extensions) is a standard for public key encryption and signing of MIME data. It is used to secure email communications and is supported by most email clients. S/MIME provides a way to encrypt email messages and digitally sign them. When you digitally sign an email, you are adding a digital signature to the message. This signature is unique to you and is used to verify that the email has not been tampered with and that it was sent by you."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:550
+#: ../../advanced_email_management/toc.rst:780
 msgid "Difference between Signing and Encryption"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:552
+#: ../../advanced_email_management/toc.rst:782
 msgid "**Signing**: When you sign an email, you are adding a digital signature to the message. This signature is unique to you and is used to verify that the email has not been tampered with and that it was sent by you. **Encryption**: When you encrypt an email, you are scrambling the contents of the message so that only the intended recipient can read it. This ensures that the email is secure and cannot be read by anyone else."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:556
+#: ../../advanced_email_management/toc.rst:786
 msgid "Requirements for S/MIME"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:558
+#: ../../advanced_email_management/toc.rst:788
 msgid "To use S/MIME, you need:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:560
+#: ../../advanced_email_management/toc.rst:790
 msgid "A valid S/MIME certificate (X.509 format) issued by a trusted Certificate Authority (CA)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:561
+#: ../../advanced_email_management/toc.rst:791
 msgid "Carbonio webmail (S/MIME is not available in Carbonio Community Edition, it only allows to show that the email is digitally signed)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:562
+#: ../../advanced_email_management/toc.rst:792
 msgid "A compatible email client (Another user with Carbonio webmail, Outlook,  Thunderbird --to check--,  others?)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:565
+#: ../../advanced_email_management/toc.rst:795
 msgid "Obtaining an S/MIME Certificate"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:567
+#: ../../advanced_email_management/toc.rst:797
 msgid "You need an S/MIME certificate issued by a trusted Certificate Authority (CA).Popular CAs include: Sectigo (Comodo); DigiCert; GlobalSign; Actalis; Entrust; GoDaddy; Thawte; VeriSign; and others."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:569
+#: ../../advanced_email_management/toc.rst:799
 msgid "To obtain an S/MIME certificate: 1. Go to the website of a trusted CA. 2. Request an S/MIME certificate from a CA. 3. Download the certificate in PKCS#12 format (.p12 or .pfx). 4. Note the password used to export the private key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:576
+#: ../../advanced_email_management/toc.rst:806
 msgid "How S/MIME Signing Works in Carbonio"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:579
+#: ../../advanced_email_management/toc.rst:809
 msgid "Importing an S/MIME Certificate"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:581
+#: ../../advanced_email_management/toc.rst:811
 msgid "Upload your personal certificate (containing a public and a private key) into Carbonio webmail via Settings → S/MIME Certificates (the system will ask to enter a password to protect the certificate. If one has already been set it will ask for the password)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:582
+#: ../../advanced_email_management/toc.rst:812
 msgid "Click Upload Certificate under Personal certificates for signing, encryption and decryption."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:586
+#: ../../advanced_email_management/toc.rst:816
 msgid "Signing an Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:588
+#: ../../advanced_email_management/toc.rst:818
 msgid "When composing an email, select \"Use certificate to sign (S/MIME)\"."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:590
+#: ../../advanced_email_management/toc.rst:820
 msgid "Carbonio uses the user's private key to generate a digital signature."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:591
+#: ../../advanced_email_management/toc.rst:821
 msgid "The signature is attached to the email as a cryptographic hash."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:592
-#: ../../advanced_email_management/toc.rst:602
+#: ../../advanced_email_management/toc.rst:822
+#: ../../advanced_email_management/toc.rst:832
 msgid "The recipient can verify the signature using the sender's public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:596
+#: ../../advanced_email_management/toc.rst:826
 msgid "Verifying a Signed Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:598
+#: ../../advanced_email_management/toc.rst:828
 msgid "When you receive a signed email, the signature is displayed in the email header."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:600
+#: ../../advanced_email_management/toc.rst:830
 msgid "Click on the signature to view the certificate details."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:601
+#: ../../advanced_email_management/toc.rst:831
 msgid "The certificate details include the certificate issuer, the certificate validity period, and the certificate fingerprint."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:604
+#: ../../advanced_email_management/toc.rst:834
 msgid "If the signature is valid:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:606
+#: ../../advanced_email_management/toc.rst:836
 msgid "The recipient sees a signed email notification."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:607
+#: ../../advanced_email_management/toc.rst:837
 msgid "It confirms the email hasn't been modified and is truly from the claimed sender."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:609
+#: ../../advanced_email_management/toc.rst:839
 msgid "If the signature is invalid or missing:"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:611
+#: ../../advanced_email_management/toc.rst:841
 msgid "The email might be tampered with or sent from an untrusted source."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:612
+#: ../../advanced_email_management/toc.rst:842
 msgid "The recipient should be cautious when interacting with such emails."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:616
+#: ../../advanced_email_management/toc.rst:846
 msgid "How S/MIME Encryption Works in Carbonio"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:619
+#: ../../advanced_email_management/toc.rst:849
 msgid "Key Components"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:621
+#: ../../advanced_email_management/toc.rst:851
 msgid "**Public Key**: Used to encrypt the email. Stored in the recipient's S/MIME certificate."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:622
+#: ../../advanced_email_management/toc.rst:852
 msgid "**Private Key**: Used to decrypt the email. Stored securely by the recipient."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:623
+#: ../../advanced_email_management/toc.rst:853
 msgid "**Certificate Authority (CA)**: Issues S/MIME certificates to users."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:626
+#: ../../advanced_email_management/toc.rst:856
 msgid "The Encryption Process"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:628
+#: ../../advanced_email_management/toc.rst:858
 msgid "Sender Retrieves Recipient's Public Key"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:630
+#: ../../advanced_email_management/toc.rst:860
 msgid "The sender must have the recipient's public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:632
+#: ../../advanced_email_management/toc.rst:862
 msgid "Email Encryption"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:634
+#: ../../advanced_email_management/toc.rst:864
 msgid "The sender composes an email and selects  \"Encrypt with S/MIME\""
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:635
+#: ../../advanced_email_management/toc.rst:865
 msgid "Sender email content is encrypted using the recipient's public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:636
+#: ../../advanced_email_management/toc.rst:866
 msgid "The email is sent in an encrypted format."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:637
+#: ../../advanced_email_management/toc.rst:867
 msgid "Recipient Decrypts the Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:639
+#: ../../advanced_email_management/toc.rst:869
 msgid "When the recipient opens the email, its private key is used to decrypt the message."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:640
+#: ../../advanced_email_management/toc.rst:870
 msgid "If the private key matches the encrypted data, the email is decrypted and displayed normally."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:642
+#: ../../advanced_email_management/toc.rst:872
 msgid "The recipient can only decrypt the email if they have the corresponding private key. This ensures that only the intended recipient can read the email."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:645
+#: ../../advanced_email_management/toc.rst:875
 msgid "Requirements for S/MIME Encryption"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:647
+#: ../../advanced_email_management/toc.rst:877
 msgid "Both sender and recipient must have S/MIME certificates installed."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:648
+#: ../../advanced_email_management/toc.rst:878
 msgid "The recipient's public key must be available to the sender."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:651
+#: ../../advanced_email_management/toc.rst:881
 msgid "Uploading a Certificate in Carbonio Webmail"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:653
+#: ../../advanced_email_management/toc.rst:883
 msgid "Go to Settings → S/MIME Certificates."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:654
+#: ../../advanced_email_management/toc.rst:884
 msgid "Click \"Upload Certificate\" under Personal certificates for signing, encryption and decryption."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:655
+#: ../../advanced_email_management/toc.rst:885
 msgid "Select your PKCS#12 certificate file (.pfx or .p12)."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:656
+#: ../../advanced_email_management/toc.rst:886
 msgid "Enter the certificate secret."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:657
-#: ../../advanced_email_management/toc.rst:663
+#: ../../advanced_email_management/toc.rst:887
+#: ../../advanced_email_management/toc.rst:893
 msgid "Click Save."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:660
+#: ../../advanced_email_management/toc.rst:890
 msgid "Uploading Recipient Certificate"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:662
+#: ../../advanced_email_management/toc.rst:892
 msgid "Click \"Upload Certificate\" under Recipients certificates for encryption"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:666
+#: ../../advanced_email_management/toc.rst:896
 msgid "Sending an Encrypted Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:668
+#: ../../advanced_email_management/toc.rst:898
 msgid "Compose a new email in Carbonio webmail."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:669
+#: ../../advanced_email_management/toc.rst:899
 msgid "Select \"Use certificate to encrypt (S/MIME)\" before sending."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:670
+#: ../../advanced_email_management/toc.rst:900
 msgid "The email will be encrypted using the recipient's public key."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:673
+#: ../../advanced_email_management/toc.rst:903
 msgid "Receiving and Decrypting an Email"
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:675
+#: ../../advanced_email_management/toc.rst:905
 msgid "If your private key is installed, Carbonio will automatically decrypt the message."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:676
+#: ../../advanced_email_management/toc.rst:906
 msgid "If not, you'll see an \"Unable to decrypt\" error."
 msgstr ""
 
-#: ../../advanced_email_management/toc.rst:677
+#: ../../advanced_email_management/toc.rst:907
 msgid "You can upload your private key to decrypt the message."
 msgstr ""
 
@@ -2289,7 +2692,7 @@ msgid "Under the Sharing of this folder section, click **REVOKE**."
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:320
-#: ../../files/toc.rst:506
+#: ../../files/toc.rst:584
 msgid "Click the **REVOKE** button to confirm."
 msgstr ""
 
@@ -2355,12 +2758,12 @@ msgid "You can archive an email or a conversation directly from the mail list."
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:364
-#: ../../basic_email_management/toc.rst:391
+#: ../../basic_email_management/toc.rst:452
 msgid "**To do so:**"
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:366
-#: ../../basic_email_management/toc.rst:393
+#: ../../basic_email_management/toc.rst:454
 #: ../../files/toc.rst:79
 msgid "Select **Mails** from the left sidebar."
 msgstr ""
@@ -2398,43 +2801,124 @@ msgid "When the Archive folder contains unread items, Carbonio can display an un
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:387
-msgid "Restoring Archived Items"
+msgid "Mail Folder Import and Export"
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:389
-msgid "If you want to move an archived email or conversation out of the Archive folder, you can use the Move action."
+msgid "The **Mail Folder Import and Export** feature allows you to archive email folders in supported formats (TGZ, ZIP) and import previously exported folders back into your mailbox. This functionality is accessible directly from the folder tree context menu."
 msgstr ""
 
-#: ../../basic_email_management/toc.rst:394
-msgid "Open the **Archive** folder."
+#: ../../basic_email_management/toc.rst:393
+msgid "How to Import a Mail Folder"
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:395
-msgid "Locate the email or conversation you want to restore."
+#: ../../basic_email_management/toc.rst:416
+msgid "Navigate to the folder tree in your mail client."
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:396
-msgid "Right-click the item."
+msgid "Right-click the folder where you want to import emails."
 msgstr ""
 
 #: ../../basic_email_management/toc.rst:397
+msgid "Select **Import Archive** to open the file format picker dialog."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:404
+msgid "Choose the archive file containing the emails you want to import in a supported format (TGZ or ZIP)."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:405
+msgid "Confirm the import to import the emails into the selected folder."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:414
+msgid "How to Export a Mail Folder"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:417
+msgid "**Right-click on** the folder you want to export."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:418
+msgid "Choose **Export Archive** from the Context Menu. An export dialog will appear."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:420
+msgid "**Select the Archive Format** Choose one of the supported formats:"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:423
+msgid "**TGZ** (Tarball + Gzip compression)"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:424
+msgid "**ZIP** (Standard ZIP compression)"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:431
+msgid "Confirm the export, and the system will generate the archive file for download."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:436
+msgid "**What If Import/Export Is Not Enabled?**"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:438
+msgid "If the **Import** or **Export** option is not available in the context menu, it may be due to **Administrator restrictions** (feature disabled for your account)."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:442
+msgid "Best Practices"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:444
+msgid "Check storage space before exporting large folders."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:445
+msgid "Use ZIP for compatibility if unsure which format to choose."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:448
+msgid "Restoring Archived Items"
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:450
+msgid "If you want to move an archived email or conversation out of the Archive folder, you can use the Move action."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:455
+msgid "Open the **Archive** folder."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:456
+msgid "Locate the email or conversation you want to restore."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:457
+msgid "Right-click the item."
+msgstr ""
+
+#: ../../basic_email_management/toc.rst:458
 #: ../../mobile_apps/files_app.rst:76
 msgid "Select **Move**."
 msgstr ""
 
-#: ../../basic_email_management/toc.rst:403
+#: ../../basic_email_management/toc.rst:464
 msgid "Alternatively, you can also use the drag and drop functionality on the Archive folder"
 msgstr ""
 
-#: ../../basic_email_management/toc.rst:405
+#: ../../basic_email_management/toc.rst:466
 msgid "Choose the destination folder and click the **Move** button."
 msgstr ""
 
-#: ../../basic_email_management/toc.rst:411
+#: ../../basic_email_management/toc.rst:472
 msgid "The selected item is moved to the folder you choose."
 msgstr ""
 
-#: ../../basic_email_management/toc.rst:415
+#: ../../basic_email_management/toc.rst:476
 msgid "The Archive feature is available starting in Carbonio **26.3.0**. For some upgraded accounts, the feature may not appear if a personal folder named **Archive** already existed before the system Archive folder was introduced. If you do not see the Archive option in your mailbox, contact your system administrator or support team."
 msgstr ""
 
@@ -3435,10 +3919,6 @@ msgstr ""
 
 #: ../../calendars/toc.rst:243
 msgid "Select the shared calendar from the list."
-msgstr ""
-
-#: ../../calendars/toc.rst:244
-msgid "Click **ADD**."
 msgstr ""
 
 #: ../../calendars/toc.rst:246
@@ -4496,10 +4976,6 @@ msgstr ""
 msgid "Message Search allows you to quickly find specific messages, dates, or content in any conversation without needing to scroll through long chat histories. Simply enter a keyword, select a result, and jump directly to the corresponding message, which is visually highlighted for easier reference."
 msgstr ""
 
-#: ../../chat/toc.rst:250
-msgid "How It Works"
-msgstr ""
-
 #: ../../chat/toc.rst:252
 msgid "A search icon is available in the header of every conversation. Clicking it opens a search panel on the right side of the interface. Type your keyword (for example, *meeting*) and press **Enter** or click the **Search** button. All messages containing the keyword are displayed in a chronological list, with the most recent results shown first."
 msgstr ""
@@ -4751,7 +5227,7 @@ msgid "To remove an attachment from the email you are composing, simply click on
 msgstr ""
 
 #: ../../composing_emails/toc.rst:134
-#: ../../mobile_apps/mail_app.rst:167
+#: ../../mobile_apps/mail_app.rst:196
 msgid "Send an Email from a Different Account or Persona"
 msgstr ""
 
@@ -4780,7 +5256,7 @@ msgid "Choose your preferred identity or persona from the menu."
 msgstr ""
 
 #: ../../composing_emails/toc.rst:153
-#: ../../mobile_apps/mail_app.rst:177
+#: ../../mobile_apps/mail_app.rst:206
 msgid "Request a Read Receipt"
 msgstr ""
 
@@ -4826,7 +5302,7 @@ msgid "Important emails will be indicated by a red upward arrow in front of the 
 msgstr ""
 
 #: ../../composing_emails/toc.rst:183
-#: ../../mobile_apps/mail_app.rst:186
+#: ../../mobile_apps/mail_app.rst:215
 msgid "Save an Email as a Draft"
 msgstr ""
 
@@ -4847,7 +5323,7 @@ msgid "Your email will be saved in the **Draft** folder accessible from your nav
 msgstr ""
 
 #: ../../composing_emails/toc.rst:193
-#: ../../mobile_apps/mail_app.rst:194
+#: ../../mobile_apps/mail_app.rst:223
 msgid "Send a Drafted Email"
 msgstr ""
 
@@ -4911,7 +5387,7 @@ msgid "This option is ideal for situations where your response is relevant to ev
 msgstr ""
 
 #: ../../composing_emails/toc.rst:227
-#: ../../mobile_apps/mail_app.rst:202
+#: ../../mobile_apps/mail_app.rst:231
 msgid "Forwarding an Email"
 msgstr ""
 
@@ -4929,7 +5405,7 @@ msgid "A new composing board will appear, allowing you to address new recipients
 msgstr ""
 
 #: ../../composing_emails/toc.rst:238
-#: ../../mobile_apps/mail_app.rst:212
+#: ../../mobile_apps/mail_app.rst:241
 msgid "Redirecting an Email"
 msgstr ""
 
@@ -4942,7 +5418,7 @@ msgid "From the menu that appears, select **Redirect**."
 msgstr ""
 
 #: ../../composing_emails/toc.rst:249
-#: ../../mobile_apps/mail_app.rst:222
+#: ../../mobile_apps/mail_app.rst:251
 msgid "Forward vs. Redirect"
 msgstr ""
 
@@ -5503,10 +5979,6 @@ msgstr ""
 msgid "Select the destination folder to save the CSV file on your computer."
 msgstr ""
 
-#: ../../contacts/toc.rst:293
-msgid "Click **Save**."
-msgstr ""
-
 #: ../../contacts/toc.rst:298
 msgid "Import a CSV File as an Address Book"
 msgstr ""
@@ -5631,12 +6103,12 @@ msgstr ""
 #: ../../files/toc.rst:318
 #: ../../files/toc.rst:333
 #: ../../files/toc.rst:347
-#: ../../files/toc.rst:363
-#: ../../files/toc.rst:374
-#: ../../files/toc.rst:490
-#: ../../files/toc.rst:502
-#: ../../files/toc.rst:515
-#: ../../files/toc.rst:560
+#: ../../files/toc.rst:440
+#: ../../files/toc.rst:451
+#: ../../files/toc.rst:568
+#: ../../files/toc.rst:580
+#: ../../files/toc.rst:593
+#: ../../files/toc.rst:638
 msgid "Select the **Files feature** from your left sidebar."
 msgstr ""
 
@@ -5672,11 +6144,11 @@ msgstr ""
 
 #: ../../files/toc.rst:66
 #: ../../files/toc.rst:221
-#: ../../files/toc.rst:396
-#: ../../files/toc.rst:429
-#: ../../files/toc.rst:445
-#: ../../files/toc.rst:456
-#: ../../files/toc.rst:471
+#: ../../files/toc.rst:474
+#: ../../files/toc.rst:507
+#: ../../files/toc.rst:523
+#: ../../files/toc.rst:534
+#: ../../files/toc.rst:549
 msgid "Select the **Files** feature from your left sidebar."
 msgstr ""
 
@@ -6052,8 +6524,8 @@ msgstr ""
 #: ../../files/toc.rst:308
 #: ../../files/toc.rst:320
 #: ../../files/toc.rst:335
-#: ../../files/toc.rst:365
-#: ../../files/toc.rst:376
+#: ../../files/toc.rst:442
+#: ../../files/toc.rst:453
 msgid "Select the file."
 msgstr ""
 
@@ -6079,9 +6551,9 @@ msgstr ""
 #: ../../files/toc.rst:319
 #: ../../files/toc.rst:334
 #: ../../files/toc.rst:348
-#: ../../files/toc.rst:364
-#: ../../files/toc.rst:375
-#: ../../files/toc.rst:457
+#: ../../files/toc.rst:441
+#: ../../files/toc.rst:452
+#: ../../files/toc.rst:535
 msgid "Navigate to the folder that contains the file."
 msgstr ""
 
@@ -6201,352 +6673,657 @@ msgstr ""
 msgid "Complete composing your email and click **SEND**."
 msgstr ""
 
-#: ../../files/toc.rst:355
-msgid "Sending an Email with a Link to a File"
+#: ../../files/toc.rst:356
+msgid "Send via E-mail for Large Files"
 msgstr ""
 
-#: ../../files/toc.rst:357
-msgid "Instead of sending the file as an attachment, you can opt to send an email with a link to a file stored in your Files. This can be particularly useful, especially for large files."
+#: ../../files/toc.rst:358
+msgid "When you share files from **Files & Docs**, Carbonio checks whether the selected file can be sent as an email attachment before opening the composer."
 msgstr ""
 
-#: ../../files/toc.rst:359
-msgid "However, the procedure differs for colleagues who have accounts on the same system as you and for external users with no account on the system."
+#: ../../files/toc.rst:362
+msgid "Attachment size check"
 msgstr ""
 
-#: ../../files/toc.rst:361
-msgid "To send the link to your colleagues:"
-msgstr ""
-
-#: ../../files/toc.rst:366
-#: ../../files/toc.rst:377
-msgid "On the right side of the Main Panel, you will find three tabs. Click **Sharing**."
+#: ../../files/toc.rst:364
+msgid "When you select **Send via e-mail** for a file from **Files**, Carbonio estimates the size of the resulting email attachment."
 msgstr ""
 
 #: ../../files/toc.rst:367
-#: ../../files/toc.rst:460
-msgid "Under the **Collaboration links** section, click on the **GENERATE LINK** button next to either **Read and Share** or **Write and Share** depending on the privileges you want to grant to the recipient."
-msgstr ""
-
-#: ../../files/toc.rst:368
-#: ../../files/toc.rst:381
-#: ../../files/toc.rst:478
-#: ../../files/toc.rst:522
-msgid "Copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS."
-msgstr ""
-
-#: ../../files/toc.rst:370
-#: ../../files/toc.rst:383
-msgid "You can send this link while composing a new email and include it inside the message."
+msgid "The estimate accounts for the **encoding overhead** required to include the file in an email message, rather than comparing only the file's original size. Carbonio then compares the estimated attachment size with the **maximum attachment size configured on the Carbonio server**."
 msgstr ""
 
 #: ../../files/toc.rst:372
-msgid "To send the link to external collaborators:"
+msgid "A file that appears to be within the configured limit may still exceed it after encoding overhead is taken into account."
 msgstr ""
 
-#: ../../files/toc.rst:378
-#: ../../files/toc.rst:474
-#: ../../files/toc.rst:518
-msgid "Under the **Public download links** section, click on the **ADD LINK** button."
+#: ../../files/toc.rst:375
+msgid "If the estimated size is within the applicable limit, the normal email composition flow can continue. If it exceeds the limit, Carbonio prevents the attachment from being sent and displays a warning explaining the problem and available alternative."
 msgstr ""
 
-#: ../../files/toc.rst:379
-#: ../../files/toc.rst:475
-#: ../../files/toc.rst:519
-msgid "Insert a description for the link and an expiration date."
+#: ../../files/toc.rst:381
+msgid "Large-file warning"
 msgstr ""
 
-#: ../../files/toc.rst:380
-#: ../../files/toc.rst:476
-#: ../../files/toc.rst:521
-msgid "Click the **GENERATE LINK** button on the right."
+#: ../../files/toc.rst:383
+msgid "When the selected file is too large to send as a conventional email attachment, the previous generic **Something went wrong** notification is replaced with this message:"
 msgstr ""
 
-#: ../../files/toc.rst:386
-msgid "Sharing Files and Folders"
-msgstr ""
-
-#: ../../files/toc.rst:388
-msgid "One of the most important and useful features of Files is its sharing capabilities. Sharing allows you to grant others access to files and folders. You can specify which items to share, and the level of access granted. When you invite a user to share, they have the option to accept or decline the invitation."
+#: ../../files/toc.rst:387
+msgid "**This file is too large to attach. Open a new e-mail and use Add from Filesto share it as a Smart Link instead**."
 msgstr ""
 
 #: ../../files/toc.rst:394
-msgid "To manage sharing properties of a file or folder:"
+msgid "The warning is displayed as a **warning snackbar**."
 msgstr ""
 
 #: ../../files/toc.rst:397
-msgid "Click on the folder or file you want to share."
-msgstr ""
-
-#: ../../files/toc.rst:398
-#: ../../files/toc.rst:431
-#: ../../files/toc.rst:447
-#: ../../files/toc.rst:459
-#: ../../files/toc.rst:473
-#: ../../files/toc.rst:492
-#: ../../files/toc.rst:504
-#: ../../files/toc.rst:517
-msgid "On the right side of the Main Panel, you will find different tabs. Click **Sharing**."
+msgid "Warning behavior"
 msgstr ""
 
 #: ../../files/toc.rst:399
-msgid "Under the **Collaborators**, **Collaboration links**, and **Public download links** sections, you can manage various sharing properties."
-msgstr ""
-
-#: ../../files/toc.rst:401
-msgid "**Collaboration:**"
-msgstr ""
-
-#: ../../files/toc.rst:403
-msgid "This section enables you to include multiple colleagues for collaboration on a file or folder, granting them different privileges such as the ability to view, download, share, and edit the file."
+msgid "The warning snackbar stays visible and does not disappear automatically. It includes an **OK** action and can be dismissed only by selecting **OK**. It remains visible so users have time to read the reason for the failure and the instructions for sharing the file another way."
 msgstr ""
 
 #: ../../files/toc.rst:405
-msgid "**Collaboration links:**"
+msgid "How to share an oversized file"
 msgstr ""
 
 #: ../../files/toc.rst:407
-msgid "This section allows you to generate different links for a file or folder, enabling you to send these links to colleagues. Those with accounts on the same system (i.e., your colleagues) can use the links to access or edit the file or folder based on the privileges you grant them by generating the respective links."
+msgid "If a file cannot be sent as an attachment:"
 msgstr ""
 
 #: ../../files/toc.rst:409
-msgid "**Public download links:**"
+msgid "Select **OK** on the warning."
+msgstr ""
+
+#: ../../files/toc.rst:410
+msgid "Open a **new e-mail**."
 msgstr ""
 
 #: ../../files/toc.rst:411
-msgid "This section allows you to generate different links for a file or folder, enabling you to send these links to external users. The generated link provides access for anyone with the link to view and download the content of the file or folder. It is now also possible for external users to download the entire folder as a compressed ZIP archive."
+msgid "Use **Add from Files**."
 msgstr ""
 
-#: ../../files/toc.rst:414
-msgid "Shared Files and Storage Quotas"
+#: ../../files/toc.rst:418
+#: ../../mobile_apps/chats_app.rst:43
+msgid "Select the file you want to share."
 msgstr ""
 
-#: ../../files/toc.rst:415
-msgid "When a file is shared, storage consumption and edit activity are attributed to the **owner** of the file."
-msgstr ""
-
-#: ../../files/toc.rst:417
-msgid "If the owner exceeds their storage quota, the file remains available to collaborators but opens in **read-only** mode."
-msgstr ""
-
-#: ../../files/toc.rst:420
-msgid "In this state, collaborators cannot modify the document, save changes, or create new versions until the owner is back within quota. Once the owner's storage usage is reduced below the quota limit, the document automatically becomes editable again for all collaborators."
-msgstr ""
-
-#: ../../files/toc.rst:425
-msgid "Adding Collaborators to a File / Folder"
+#: ../../files/toc.rst:419
+msgid "The file is shared as a **Smart Link** instead of being uploaded as a conventional email attachment."
 msgstr ""
 
 #: ../../files/toc.rst:427
-msgid "To add collaborators to a file or folder in Files:"
-msgstr ""
-
-#: ../../files/toc.rst:430
-#: ../../files/toc.rst:446
-msgid "Click on the folder or folder to which you want to grant access."
+msgid "Using a Smart Link lets users share a large file without exceeding the email attachment-size limit."
 msgstr ""
 
 #: ../../files/toc.rst:432
-msgid "In the Collaborators section, begin entering the email addresses of the colleagues you wish to share the item with and select them from the suggestions."
-msgstr ""
-
-#: ../../files/toc.rst:433
-msgid "Click on the eye icon next to the name of the colleague you have just inserted."
+msgid "Sending an Email with a Link to a File"
 msgstr ""
 
 #: ../../files/toc.rst:434
-msgid "Choose the access level you want to give, like **Viewer** or **Editor**, from the menu. You can also decide whether this user can share the item with others by checking the **Sharing allowed checkbox**."
+msgid "Instead of sending the file as an attachment, you can opt to send an email with a link to a file stored in your Files. This can be particularly useful, especially for large files."
 msgstr ""
 
-#: ../../files/toc.rst:435
-msgid "Click the **SHARE** button."
+#: ../../files/toc.rst:436
+msgid "However, the procedure differs for colleagues who have accounts on the same system as you and for external users with no account on the system."
+msgstr ""
+
+#: ../../files/toc.rst:438
+msgid "To send the link to your colleagues:"
 msgstr ""
 
 #: ../../files/toc.rst:443
-msgid "Removing Collaborators from a File / Folder"
+#: ../../files/toc.rst:454
+msgid "On the right side of the Main Panel, you will find three tabs. Click **Sharing**."
 msgstr ""
 
-#: ../../files/toc.rst:448
-msgid "In the Collaborators section, hover your mouse cursor over the name of the colleague. Small buttons will appear next to their name."
+#: ../../files/toc.rst:444
+#: ../../files/toc.rst:538
+msgid "Under the **Collaboration links** section, click on the **GENERATE LINK** button next to either **Read and Share** or **Write and Share** depending on the privileges you want to grant to the recipient."
+msgstr ""
+
+#: ../../files/toc.rst:445
+#: ../../files/toc.rst:458
+#: ../../files/toc.rst:556
+#: ../../files/toc.rst:600
+msgid "Copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS."
+msgstr ""
+
+#: ../../files/toc.rst:447
+#: ../../files/toc.rst:460
+msgid "You can send this link while composing a new email and include it inside the message."
 msgstr ""
 
 #: ../../files/toc.rst:449
-msgid "Click on the **x** button to remove them from the list."
+msgid "To send the link to external collaborators:"
 msgstr ""
 
-#: ../../files/toc.rst:452
-msgid "Generating Collaboration Links for Colleagues"
+#: ../../files/toc.rst:455
+#: ../../files/toc.rst:552
+#: ../../files/toc.rst:596
+msgid "Under the **Public download links** section, click on the **ADD LINK** button."
 msgstr ""
 
-#: ../../files/toc.rst:454
-msgid "To generate a collaboration link for your colleagues:"
+#: ../../files/toc.rst:456
+#: ../../files/toc.rst:553
+#: ../../files/toc.rst:597
+msgid "Insert a description for the link and an expiration date."
 msgstr ""
 
-#: ../../files/toc.rst:458
+#: ../../files/toc.rst:457
+#: ../../files/toc.rst:554
+#: ../../files/toc.rst:599
+msgid "Click the **GENERATE LINK** button on the right."
+msgstr ""
+
+#: ../../files/toc.rst:463
+msgid "Sharing Files and Folders"
+msgstr ""
+
+#: ../../files/toc.rst:465
+msgid "One of the most important and useful features of Files is its sharing capabilities. Sharing allows you to grant others access to files and folders. You can specify which items to share, and the level of access granted. When you invite a user to share, they have the option to accept or decline the invitation."
+msgstr ""
+
 #: ../../files/toc.rst:472
-#: ../../files/toc.rst:491
-#: ../../files/toc.rst:503
-#: ../../files/toc.rst:516
-msgid "Navigate to the file or folder and click on it."
+msgid "To manage sharing properties of a file or folder:"
 msgstr ""
 
-#: ../../files/toc.rst:462
-msgid "You can copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS. In the current release, you can generate up to a maximum of 50 public links for each file you want to share. If you have any doubts, please contact your system administrator. The public link has been extended to enhance security."
+#: ../../files/toc.rst:475
+msgid "Click on the folder or file you want to share."
 msgstr ""
 
-#: ../../files/toc.rst:467
-msgid "Generating Public Download Links for External Users"
+#: ../../files/toc.rst:476
+#: ../../files/toc.rst:509
+#: ../../files/toc.rst:525
+#: ../../files/toc.rst:537
+#: ../../files/toc.rst:551
+#: ../../files/toc.rst:570
+#: ../../files/toc.rst:582
+#: ../../files/toc.rst:595
+msgid "On the right side of the Main Panel, you will find different tabs. Click **Sharing**."
 msgstr ""
 
-#: ../../files/toc.rst:469
-msgid "To generate a sharing link external user:"
+#: ../../files/toc.rst:477
+msgid "Under the **Collaborators**, **Collaboration links**, and **Public download links** sections, you can manage various sharing properties."
 msgstr ""
 
-#: ../../files/toc.rst:486
-msgid "Extending the Expiration Date of a Public Access Link"
+#: ../../files/toc.rst:479
+msgid "**Collaboration:**"
 msgstr ""
 
-#: ../../files/toc.rst:488
-msgid "To extend the expiration date for a public access link:"
+#: ../../files/toc.rst:481
+msgid "This section enables you to include multiple colleagues for collaboration on a file or folder, granting them different privileges such as the ability to view, download, share, and edit the file."
+msgstr ""
+
+#: ../../files/toc.rst:483
+msgid "**Collaboration links:**"
+msgstr ""
+
+#: ../../files/toc.rst:485
+msgid "This section allows you to generate different links for a file or folder, enabling you to send these links to colleagues. Those with accounts on the same system (i.e., your colleagues) can use the links to access or edit the file or folder based on the privileges you grant them by generating the respective links."
+msgstr ""
+
+#: ../../files/toc.rst:487
+msgid "**Public download links:**"
+msgstr ""
+
+#: ../../files/toc.rst:489
+msgid "This section allows you to generate different links for a file or folder, enabling you to send these links to external users. The generated link provides access for anyone with the link to view and download the content of the file or folder. It is now also possible for external users to download the entire folder as a compressed ZIP archive."
+msgstr ""
+
+#: ../../files/toc.rst:492
+msgid "Shared Files and Storage Quotas"
 msgstr ""
 
 #: ../../files/toc.rst:493
-msgid "Under the **Public download links** section, click on the **EDIT** button."
-msgstr ""
-
-#: ../../files/toc.rst:494
-msgid "Edit the expiration date."
+msgid "When a file is shared, storage consumption and edit activity are attributed to the **owner** of the file."
 msgstr ""
 
 #: ../../files/toc.rst:495
-msgid "Click the **EDIT LINK** button on the right."
+msgid "If the owner exceeds their storage quota, the file remains available to collaborators but opens in **read-only** mode."
 msgstr ""
 
 #: ../../files/toc.rst:498
-msgid "Revoking Public Access Links"
+msgid "In this state, collaborators cannot modify the document, save changes, or create new versions until the owner is back within quota. Once the owner's storage usage is reduced below the quota limit, the document automatically becomes editable again for all collaborators."
 msgstr ""
 
-#: ../../files/toc.rst:500
-msgid "To revoke a public access link:"
+#: ../../files/toc.rst:503
+msgid "Adding Collaborators to a File / Folder"
 msgstr ""
 
 #: ../../files/toc.rst:505
-msgid "Under the **Public download links** section, click on the **REVOKE** button."
+msgid "To add collaborators to a file or folder in Files:"
 msgstr ""
 
-#: ../../files/toc.rst:509
-msgid "Access Code Protection for Public File Links"
+#: ../../files/toc.rst:508
+#: ../../files/toc.rst:524
+msgid "Click on the folder or folder to which you want to grant access."
+msgstr ""
+
+#: ../../files/toc.rst:510
+msgid "In the Collaborators section, begin entering the email addresses of the colleagues you wish to share the item with and select them from the suggestions."
 msgstr ""
 
 #: ../../files/toc.rst:511
-msgid "Access Code Protection adds an additional security layer to public file download links, allowing you to restrict access with a generated code that recipients must enter before downloading files."
+msgid "Click on the eye icon next to the name of the colleague you have just inserted."
+msgstr ""
+
+#: ../../files/toc.rst:512
+msgid "Choose the access level you want to give, like **Viewer** or **Editor**, from the menu. You can also decide whether this user can share the item with others by checking the **Sharing allowed checkbox**."
 msgstr ""
 
 #: ../../files/toc.rst:513
-msgid "To enable access code protection for a public download link:"
+msgid "Click the **SHARE** button."
 msgstr ""
 
-#: ../../files/toc.rst:520
-msgid "Enable the **Access code protection** toggle."
+#: ../../files/toc.rst:521
+msgid "Removing Collaborators from a File / Folder"
 msgstr ""
 
-#: ../../files/toc.rst:525
-msgid "For You (File Owner)"
+#: ../../files/toc.rst:526
+msgid "In the Collaborators section, hover your mouse cursor over the name of the colleague. Small buttons will appear next to their name."
 msgstr ""
 
 #: ../../files/toc.rst:527
-msgid "Enable access code protection when creating public download links View, copy, or regenerate the access code as needed Share both the link and access code with your intended recipients"
+msgid "Click on the **x** button to remove them from the list."
 msgstr ""
 
-#: ../../files/toc.rst:531
-msgid "For Your Recipients"
+#: ../../files/toc.rst:530
+msgid "Generating Collaboration Links for Colleagues"
 msgstr ""
 
-#: ../../files/toc.rst:533
-msgid "Click the protected public link you shared Enter the access code in the modal prompt Proceed with file download once correct code is provided"
+#: ../../files/toc.rst:532
+msgid "To generate a collaboration link for your colleagues:"
 msgstr ""
 
-#: ../../files/toc.rst:538
-msgid "Notifications for Shared Items in Files"
+#: ../../files/toc.rst:536
+#: ../../files/toc.rst:550
+#: ../../files/toc.rst:569
+#: ../../files/toc.rst:581
+#: ../../files/toc.rst:594
+msgid "Navigate to the file or folder and click on it."
 msgstr ""
 
 #: ../../files/toc.rst:540
-msgid "The Notifications feature keeps you informed about important events in your shared folders, alerting you when files or folders are shared with you or when items are added to or removed from shared folders. How It Works for You:"
-msgstr ""
-
-#: ../../files/toc.rst:543
-msgid "Receive notifications when files or folders are shared with you"
-msgstr ""
-
-#: ../../files/toc.rst:544
-msgid "Get alerts when items are added to or removed from your shared folders"
+msgid "You can copy the generated link by clicking on it. The link will be saved to your clipboard and can be pasted anywhere by right-clicking and selecting **Paste**, or by using the keyboard shortcut CTRL+V on Windows or Command+V on macOS. In the current release, you can generate up to a maximum of 50 public links for each file you want to share. If you have any doubts, please contact your system administrator. The public link has been extended to enhance security."
 msgstr ""
 
 #: ../../files/toc.rst:545
-msgid "See a notification badge on the Files module icon when new events occur"
-msgstr ""
-
-#: ../../files/toc.rst:546
-msgid "View new notifications highlighted in blue within the Notifications widget"
+msgid "Generating Public Download Links for External Users"
 msgstr ""
 
 #: ../../files/toc.rst:547
+msgid "To generate a sharing link external user:"
+msgstr ""
+
+#: ../../files/toc.rst:564
+msgid "Extending the Expiration Date of a Public Access Link"
+msgstr ""
+
+#: ../../files/toc.rst:566
+msgid "To extend the expiration date for a public access link:"
+msgstr ""
+
+#: ../../files/toc.rst:571
+msgid "Under the **Public download links** section, click on the **EDIT** button."
+msgstr ""
+
+#: ../../files/toc.rst:572
+msgid "Edit the expiration date."
+msgstr ""
+
+#: ../../files/toc.rst:573
+msgid "Click the **EDIT LINK** button on the right."
+msgstr ""
+
+#: ../../files/toc.rst:576
+msgid "Revoking Public Access Links"
+msgstr ""
+
+#: ../../files/toc.rst:578
+msgid "To revoke a public access link:"
+msgstr ""
+
+#: ../../files/toc.rst:583
+msgid "Under the **Public download links** section, click on the **REVOKE** button."
+msgstr ""
+
+#: ../../files/toc.rst:587
+msgid "Access Code Protection for Public File Links"
+msgstr ""
+
+#: ../../files/toc.rst:589
+msgid "Access Code Protection adds an additional security layer to public file download links, allowing you to restrict access with a generated code that recipients must enter before downloading files."
+msgstr ""
+
+#: ../../files/toc.rst:591
+msgid "To enable access code protection for a public download link:"
+msgstr ""
+
+#: ../../files/toc.rst:598
+msgid "Enable the **Access code protection** toggle."
+msgstr ""
+
+#: ../../files/toc.rst:603
+msgid "For You (File Owner)"
+msgstr ""
+
+#: ../../files/toc.rst:605
+msgid "Enable access code protection when creating public download links View, copy, or regenerate the access code as needed Share both the link and access code with your intended recipients"
+msgstr ""
+
+#: ../../files/toc.rst:609
+msgid "For Your Recipients"
+msgstr ""
+
+#: ../../files/toc.rst:611
+msgid "Click the protected public link you shared Enter the access code in the modal prompt Proceed with file download once correct code is provided"
+msgstr ""
+
+#: ../../files/toc.rst:616
+msgid "Notifications for Shared Items in Files"
+msgstr ""
+
+#: ../../files/toc.rst:618
+msgid "The Notifications feature keeps you informed about important events in your shared folders, alerting you when files or folders are shared with you or when items are added to or removed from shared folders. How It Works for You:"
+msgstr ""
+
+#: ../../files/toc.rst:621
+msgid "Receive notifications when files or folders are shared with you"
+msgstr ""
+
+#: ../../files/toc.rst:622
+msgid "Get alerts when items are added to or removed from your shared folders"
+msgstr ""
+
+#: ../../files/toc.rst:623
+msgid "See a notification badge on the Files module icon when new events occur"
+msgstr ""
+
+#: ../../files/toc.rst:624
+msgid "View new notifications highlighted in blue within the Notifications widget"
+msgstr ""
+
+#: ../../files/toc.rst:625
 msgid "Badges automatically clear when you open the widget"
 msgstr ""
 
-#: ../../files/toc.rst:548
+#: ../../files/toc.rst:626
 msgid "Notifications refresh automatically and persist even if original data changes"
 msgstr ""
 
-#: ../../files/toc.rst:550
+#: ../../files/toc.rst:628
 msgid "What You'll Be Notified About:"
 msgstr ""
 
-#: ../../files/toc.rst:552
+#: ../../files/toc.rst:630
 msgid "New items added to shared folders"
 msgstr ""
 
-#: ../../files/toc.rst:553
+#: ../../files/toc.rst:631
 msgid "Files or folders shared with you"
 msgstr ""
 
-#: ../../files/toc.rst:554
+#: ../../files/toc.rst:632
 msgid "Items removed from shared folders"
 msgstr ""
 
-#: ../../files/toc.rst:555
+#: ../../files/toc.rst:633
 msgid "Empty state message when no notifications are present"
 msgstr ""
 
-#: ../../files/toc.rst:557
+#: ../../files/toc.rst:635
 msgid "This feature ensures you stay updated on all shared folder activity, making collaboration more efficient by keeping you informed of important file changes. To view your notifications:"
 msgstr ""
 
-#: ../../files/toc.rst:561
+#: ../../files/toc.rst:639
 msgid "Click on the **Notifications** icon located in the top right corner of the Files module."
 msgstr ""
 
-#: ../../files/toc.rst:562
+#: ../../files/toc.rst:640
 msgid "A pop-up window will appear, displaying all your notifications related to shared items in Files."
 msgstr ""
 
-#: ../../files/toc.rst:563
+#: ../../files/toc.rst:641
 msgid "You can click on any notification to view the details, such as the file or folder name, the action taken, and the date of the event."
 msgstr ""
 
-#: ../../files/toc.rst:567
+#: ../../files/toc.rst:645
 msgid "Exceeding Files quota limit"
 msgstr ""
 
-#: ../../files/toc.rst:569
+#: ../../files/toc.rst:647
 msgid "If you overcome the quota limit for **Files**, documents will be opened in *read-only mode*: this will also be enforced by a label that appears on the bottom of the opened document. This behaviour holds also for shared documents: if the document is open by another user who has write access on your document, the second user will also see the *Read-only* label on the bottom of the document so he will not be able to save changes made to the document."
 msgstr ""
 
-#: ../../files/toc.rst:577
+#: ../../files/toc.rst:655
 msgid "While editing a shared document, if the file quota limit is reached or changed, a warning message will appear on saving. You can still proceed by downloading the document and saving your changes locally."
 msgstr ""
 
-#: ../../files/toc.rst:579
+#: ../../files/toc.rst:657
 msgid "For the **Files** quota limitation, you should contact your system administrator."
+msgstr ""
+
+#: ../../files/toc.rst:660
+msgid "Transfer Ownership of a File or Folder"
+msgstr ""
+
+#: ../../files/toc.rst:662
+msgid "The **Transfer ownership** feature allows a file or folder owner to permanently transfer ownership of one or more items to another user. After the transfer, the selected user becomes the new owner of the items, while the previous owner remains a collaborator with editing permissions."
+msgstr ""
+
+#: ../../files/toc.rst:666
+msgid "Before you begin"
+msgstr ""
+
+#: ../../files/toc.rst:668
+msgid "Ownership transfer is permanent and cannot be undone."
+msgstr ""
+
+#: ../../files/toc.rst:669
+msgid "Items located in the Trash cannot be transferred."
+msgstr ""
+
+#: ../../files/toc.rst:670
+msgid "Existing collaborators and shared links are preserved."
+msgstr ""
+
+#: ../../files/toc.rst:671
+msgid "After the transfer, the previous owner remains a collaborator with editing and writing permissions."
+msgstr ""
+
+#: ../../files/toc.rst:672
+msgid "The recipient cannot refuse the transfer."
+msgstr ""
+
+#: ../../files/toc.rst:675
+msgid "How to transfer ownership"
+msgstr ""
+
+#: ../../files/toc.rst:677
+msgid "You can initiate a transfer from several locations in the **Files** module:"
+msgstr ""
+
+#: ../../files/toc.rst:679
+msgid "Right‑click a file or folder."
+msgstr ""
+
+#: ../../files/toc.rst:680
+msgid "Right‑click multiple selected items."
+msgstr ""
+
+#: ../../files/toc.rst:681
+msgid "Click the “**More**” icon (⋯) after selecting several items."
+msgstr ""
+
+#: ../../files/toc.rst:682
+msgid "Use the action menu in the item‑details panel."
+msgstr ""
+
+#: ../../files/toc.rst:685
+msgid "Transferring ownership"
+msgstr ""
+
+#: ../../files/toc.rst:686
+msgid "Open the **Files** module."
+msgstr ""
+
+#: ../../files/toc.rst:687
+msgid "Select one or more files or folders."
+msgstr ""
+
+#: ../../files/toc.rst:688
+msgid "Click **Transfer ownership**."
+msgstr ""
+
+#: ../../files/toc.rst:689
+msgid "In the **Transfer ownership** dialog, search for and select the new owner."
+msgstr ""
+
+#: ../../files/toc.rst:690
+msgid "Wait for the quota check to complete."
+msgstr ""
+
+#: ../../files/toc.rst:691
+msgid "Click **Transfer**."
+msgstr ""
+
+#: ../../files/toc.rst:693
+msgid "A confirmation message is displayed once the transfer finishes successfully."
+msgstr ""
+
+#: ../../files/toc.rst:696
+msgid "Transfer‑ownership dialog"
+msgstr ""
+
+#: ../../files/toc.rst:697
+msgid "In the dialog you can:"
+msgstr ""
+
+#: ../../files/toc.rst:699
+msgid "Search for a user by typing their name or e‑mail address."
+msgstr ""
+
+#: ../../files/toc.rst:700
+msgid "Select only one recipient."
+msgstr ""
+
+#: ../../files/toc.rst:701
+msgid "Remove the selected recipient before confirming the transfer."
+msgstr ""
+
+#: ../../files/toc.rst:703
+msgid "The **Transfer** button remains disabled until a valid recipient is chosen."
+msgstr ""
+
+#: ../../files/toc.rst:709
+msgid "You can close the dialog by:"
+msgstr ""
+
+#: ../../files/toc.rst:711
+msgid "Clicking **Cancel**."
+msgstr ""
+
+#: ../../files/toc.rst:712
+msgid "Clicking the **Close** icon."
+msgstr ""
+
+#: ../../files/toc.rst:713
+msgid "Clicking outside the dialog."
+msgstr ""
+
+#: ../../files/toc.rst:716
+msgid "Quota verification"
+msgstr ""
+
+#: ../../files/toc.rst:717
+msgid "Before the transfer completes, Carbonio checks that the recipient has enough available quota to receive the selected items. The dialog shows:"
+msgstr ""
+
+#: ../../files/toc.rst:721
+msgid "A quota warning if the receiver does not have sufficient space."
+msgstr ""
+
+#: ../../files/toc.rst:722
+msgid "A confirmation message when the quota check succeeds."
+msgstr ""
+
+#: ../../files/toc.rst:725
+msgid "Outcome after the transfer"
+msgstr ""
+
+#: ../../files/toc.rst:726
+msgid "After the transfer:"
+msgstr ""
+
+#: ../../files/toc.rst:728
+msgid "The chosen user becomes the new owner of the items."
+msgstr ""
+
+#: ../../files/toc.rst:729
+msgid "The previous owner remains a collaborator with editing permissions."
+msgstr ""
+
+#: ../../files/toc.rst:730
+msgid "Existing collaborators and shared links stay unchanged."
+msgstr ""
+
+#: ../../files/toc.rst:732
+msgid "On the recipient’s account:"
+msgstr ""
+
+#: ../../files/toc.rst:734
+msgid "A notification badge appears in the **Files** module."
+msgstr ""
+
+#: ../../files/toc.rst:735
+msgid "A badge also appears in the **Notifications** panel."
+msgstr ""
+
+#: ../../files/toc.rst:736
+msgid "The recipient receives a message such as: ``johnn@example.com transferred ownership of items to you. You’ll find them in folder johnn@example.com.``"
+msgstr ""
+
+#: ../../files/toc.rst:738
+msgid "A folder named after the previous owner’s e‑mail address is created and contains the transferred items."
+msgstr ""
+
+#: ../../files/toc.rst:746
+msgid "Where transferred items appear"
+msgstr ""
+
+#: ../../files/toc.rst:747
+msgid "Initially, the transferred items may appear in the recipient’s *Files* view with the original owner’s name. After a page refresh, the items appear under **Shared with me** as a system folder labeled with the previous owner’s e‑mail address."
+msgstr ""
+
+#: ../../files/toc.rst:750
+msgid "The folder behaves like any standard folder: all normal file and folder actions are still available. If the same user receives several ownership transfers from the same owner at different times, Carbonio creates separate folders with unique names, example:"
+msgstr ""
+
+#: ../../files/toc.rst:754
+msgid "`johnn@example.com`"
+msgstr ""
+
+#: ../../files/toc.rst:755
+msgid "`johnn@example.com (1)`"
+msgstr ""
+
+#: ../../files/toc.rst:757
+msgid "This avoids naming conflicts and keeps each transfer independent."
+msgstr ""
+
+#: ../../files/toc.rst:760
+msgid "Limitations"
+msgstr ""
+
+#: ../../files/toc.rst:761
+msgid "Ownership transfer is not available for items in the Trash."
+msgstr ""
+
+#: ../../files/toc.rst:762
+msgid "Because the change is permanent, review the selected items and recipient carefully before confirming the transfer."
 msgstr ""
 
 #: ../../get_started/toc.rst:7
@@ -7206,364 +7983,988 @@ msgstr ""
 msgid "Mobile Apps"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:7
-msgid "Carbonio Chats App"
+#: ../../mobile_apps/chat_legacy.rst:7
+msgid "Carbonio Chats Legacy"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:9
+#: ../../mobile_apps/chat_legacy.rst:9
 msgid "With the Carbonio Chats app, you can send instant messages, share files, and organize or join video meetings."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:12
+#: ../../mobile_apps/chat_legacy.rst:12
+#: ../../mobile_apps/chats_app.rst:9
 msgid "Creating a New Chat"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:14
+#: ../../mobile_apps/chat_legacy.rst:14
 msgid "To start a 1-to-1 conversation:"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:16
-#: ../../mobile_apps/chat_app.rst:104
+#: ../../mobile_apps/chat_legacy.rst:16
+#: ../../mobile_apps/chat_legacy.rst:104
+#: ../../mobile_apps/chats_app.rst:13
+#: ../../mobile_apps/chats_app.rst:208
 msgid "Tap **New chat** (plus icon)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:17
+#: ../../mobile_apps/chat_legacy.rst:17
 msgid "Select **Single conversation / Private chat**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:18
+#: ../../mobile_apps/chat_legacy.rst:18
 msgid "Search for a colleague by name and select them."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:20
+#: ../../mobile_apps/chat_legacy.rst:20
 msgid "The conversation will appear in your chat list. In a chat, type your message in the text box and tap **Send**. You can also add emojis and attachments."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:24
+#: ../../mobile_apps/chat_legacy.rst:24
+#: ../../mobile_apps/chats_app.rst:27
 msgid "Sending Files in Chats"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:27
+#: ../../mobile_apps/chat_legacy.rst:27
 msgid "Send a file from your device"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:29
-#: ../../mobile_apps/chat_app.rst:37
+#: ../../mobile_apps/chat_legacy.rst:29
+#: ../../mobile_apps/chat_legacy.rst:37
+#: ../../mobile_apps/chats_app.rst:34
 msgid "Open the chat."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:30
-#: ../../mobile_apps/chat_app.rst:38
+#: ../../mobile_apps/chat_legacy.rst:30
+#: ../../mobile_apps/chat_legacy.rst:38
+#: ../../mobile_apps/chats_app.rst:35
 #: ../../mobile_apps/mail_app.rst:149
 #: ../../mobile_apps/mail_app.rst:156
 msgid "Tap **Attach** (paperclip icon)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:31
+#: ../../mobile_apps/chat_legacy.rst:31
 msgid "Select **Document** (or a similar option)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:32
-#: ../../mobile_apps/chat_app.rst:40
+#: ../../mobile_apps/chat_legacy.rst:32
+#: ../../mobile_apps/chat_legacy.rst:40
 msgid "Choose the file and tap **Send**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:35
+#: ../../mobile_apps/chat_legacy.rst:35
 msgid "Send a file from Carbonio Files"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:39
+#: ../../mobile_apps/chat_legacy.rst:39
 msgid "Select **Drive / Files** (wording may vary)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:43
+#: ../../mobile_apps/chat_legacy.rst:43
+#: ../../mobile_apps/chats_app.rst:77
 msgid "Edit a Message"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:45
-#: ../../mobile_apps/chat_app.rst:56
-#: ../../mobile_apps/chat_app.rst:63
-#: ../../mobile_apps/chat_app.rst:70
+#: ../../mobile_apps/chat_legacy.rst:45
+#: ../../mobile_apps/chat_legacy.rst:56
+#: ../../mobile_apps/chat_legacy.rst:63
+#: ../../mobile_apps/chat_legacy.rst:70
+#: ../../mobile_apps/chats_app.rst:81
+#: ../../mobile_apps/chats_app.rst:94
+#: ../../mobile_apps/chats_app.rst:106
+#: ../../mobile_apps/chats_app.rst:116
+#: ../../mobile_apps/chats_app.rst:130
+#: ../../mobile_apps/chats_app.rst:151
 msgid "Tap and hold the message."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:46
+#: ../../mobile_apps/chat_legacy.rst:46
+#: ../../mobile_apps/chats_app.rst:82
 msgid "Select **Edit**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:47
+#: ../../mobile_apps/chat_legacy.rst:47
 msgid "Update the message and send."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:51
+#: ../../mobile_apps/chat_legacy.rst:51
 msgid "Editing may be available only for a limited time (for example, within 5 minutes)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:54
+#: ../../mobile_apps/chat_legacy.rst:54
+#: ../../mobile_apps/chats_app.rst:90
 msgid "Reply to a Message"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:57
+#: ../../mobile_apps/chat_legacy.rst:57
+#: ../../mobile_apps/chats_app.rst:95
 msgid "Select **Reply**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:58
+#: ../../mobile_apps/chat_legacy.rst:58
 msgid "Write your reply and send."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:61
+#: ../../mobile_apps/chat_legacy.rst:61
+#: ../../mobile_apps/chats_app.rst:102
 msgid "Forward a Message"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:64
+#: ../../mobile_apps/chat_legacy.rst:64
+#: ../../mobile_apps/chats_app.rst:107
 msgid "Select **Forward**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:65
+#: ../../mobile_apps/chat_legacy.rst:65
 msgid "Choose the recipient and send."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:68
+#: ../../mobile_apps/chat_legacy.rst:68
+#: ../../mobile_apps/chats_app.rst:112
 msgid "Delete a Message"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:71
+#: ../../mobile_apps/chat_legacy.rst:71
+#: ../../mobile_apps/chats_app.rst:117
 msgid "Select **Delete message**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:72
+#: ../../mobile_apps/chat_legacy.rst:72
+#: ../../mobile_apps/chats_app.rst:118
+#: ../../mobile_apps/chats_app.rst:198
 msgid "Confirm the action."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:76
+#: ../../mobile_apps/chat_legacy.rst:76
 msgid "Deleting may be available only for a limited time (for example, within 5 minutes)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:79
+#: ../../mobile_apps/chat_legacy.rst:79
+#: ../../mobile_apps/chats_app.rst:175
 msgid "Mute Notifications for a Chat"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:81
+#: ../../mobile_apps/chat_legacy.rst:81
 msgid "To mute notifications for a specific chat or group:"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:83
-#: ../../mobile_apps/chat_app.rst:94
+#: ../../mobile_apps/chat_legacy.rst:83
+#: ../../mobile_apps/chat_legacy.rst:94
 msgid "Open the chat/group."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:84
+#: ../../mobile_apps/chat_legacy.rst:84
 msgid "Open **Chat info** (often an **i** icon or the chat name)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:85
+#: ../../mobile_apps/chat_legacy.rst:85
 msgid "Disable **Notifications**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:87
+#: ../../mobile_apps/chat_legacy.rst:87
 msgid "To unmute, follow the same steps and re-enable notifications."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:90
+#: ../../mobile_apps/chat_legacy.rst:90
+#: ../../mobile_apps/chats_app.rst:191
 msgid "Clear Chat History"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:92
+#: ../../mobile_apps/chat_legacy.rst:92
 msgid "To clear the history of a chat/group:"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:95
+#: ../../mobile_apps/chat_legacy.rst:95
 msgid "Open **Chat info**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:96
+#: ../../mobile_apps/chat_legacy.rst:96
+#: ../../mobile_apps/chats_app.rst:197
 msgid "Tap **Clear history**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:97
+#: ../../mobile_apps/chat_legacy.rst:97
 #: ../../mobile_apps/files_app.rst:53
 msgid "Confirm."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:100
+#: ../../mobile_apps/chat_legacy.rst:100
+#: ../../mobile_apps/chats_app.rst:204
 msgid "Creating a New Group"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:102
+#: ../../mobile_apps/chat_legacy.rst:102
 msgid "To create a group chat:"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:105
+#: ../../mobile_apps/chat_legacy.rst:105
 msgid "Select **Group conversation / Group chat**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:106
+#: ../../mobile_apps/chat_legacy.rst:106
 msgid "Select at least two colleagues (groups require 3+ participants including you)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:107
+#: ../../mobile_apps/chat_legacy.rst:107
 msgid "Tap **Next** (if shown)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:108
+#: ../../mobile_apps/chat_legacy.rst:108
 msgid "Set a **group name** and optionally add an image."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:109
+#: ../../mobile_apps/chat_legacy.rst:109
 msgid "Tap **Create** (or a checkmark icon)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:112
+#: ../../mobile_apps/chat_legacy.rst:112
+#: ../../mobile_apps/chats_app.rst:219
 msgid "Add Participants to a Group"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:114
-#: ../../mobile_apps/chat_app.rst:126
+#: ../../mobile_apps/chat_legacy.rst:114
+#: ../../mobile_apps/chat_legacy.rst:126
 msgid "If you are a moderator:"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:116
-#: ../../mobile_apps/chat_app.rst:128
-#: ../../mobile_apps/chat_app.rst:136
+#: ../../mobile_apps/chat_legacy.rst:116
+#: ../../mobile_apps/chat_legacy.rst:128
+#: ../../mobile_apps/chat_legacy.rst:136
+#: ../../mobile_apps/chats_app.rst:223
+#: ../../mobile_apps/chats_app.rst:236
+#: ../../mobile_apps/chats_app.rst:247
 msgid "Open the group."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:117
+#: ../../mobile_apps/chat_legacy.rst:117
 msgid "Open **Group info** (i icon or group name)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:118
+#: ../../mobile_apps/chat_legacy.rst:118
+#: ../../mobile_apps/chats_app.rst:225
 msgid "Tap **Invite participants**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:119
+#: ../../mobile_apps/chat_legacy.rst:119
 msgid "Select colleagues and confirm."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:121
+#: ../../mobile_apps/chat_legacy.rst:121
 msgid "If available, you can enable **Show previous conversation history** so new members can see earlier messages."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:124
+#: ../../mobile_apps/chat_legacy.rst:124
+#: ../../mobile_apps/chats_app.rst:232
 msgid "Remove Participants from a Group"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:129
-#: ../../mobile_apps/chat_app.rst:137
+#: ../../mobile_apps/chat_legacy.rst:129
+#: ../../mobile_apps/chat_legacy.rst:137
+#: ../../mobile_apps/chats_app.rst:237
+#: ../../mobile_apps/chats_app.rst:248
 msgid "Open **Group info**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:130
+#: ../../mobile_apps/chat_legacy.rst:130
 msgid "Tap the participant’s name."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:131
+#: ../../mobile_apps/chat_legacy.rst:131
+#: ../../mobile_apps/chats_app.rst:239
 msgid "Select **Remove from conversation**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:134
+#: ../../mobile_apps/chat_legacy.rst:134
+#: ../../mobile_apps/chats_app.rst:243
 msgid "Leave a Group"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:138
+#: ../../mobile_apps/chat_legacy.rst:138
 msgid "Tap **Leave** and confirm."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:142
+#: ../../mobile_apps/chat_legacy.rst:142
+#: ../../mobile_apps/chats_app.rst:265
 msgid "Creating a New Room"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:144
+#: ../../mobile_apps/chat_legacy.rst:144
 msgid "Rooms are shared spaces used for video meetings and chat."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:146
+#: ../../mobile_apps/chat_legacy.rst:146
+#: ../../mobile_apps/chats_app.rst:267
 msgid "To create a room:"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:148
+#: ../../mobile_apps/chat_legacy.rst:148
 #: ../../mobile_apps/files_app.rst:14
 msgid "Tap **Create** (plus icon)."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:149
+#: ../../mobile_apps/chat_legacy.rst:149
 msgid "Select **Create Room**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:150
+#: ../../mobile_apps/chat_legacy.rst:150
 msgid "Enter a room name."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:151
+#: ../../mobile_apps/chat_legacy.rst:151
 msgid "Tap **OK/Create**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:153
+#: ../../mobile_apps/chat_legacy.rst:153
 msgid "You can usually:"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:155
+#: ../../mobile_apps/chat_legacy.rst:155
 msgid "**Copy link** to invite participants."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:156
+#: ../../mobile_apps/chat_legacy.rst:156
 msgid "**Join room** to enter."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:159
+#: ../../mobile_apps/chat_legacy.rst:159
+#: ../../mobile_apps/chats_app.rst:280
 msgid "Entering a Room"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:161
-#: ../../mobile_apps/chat_app.rst:168
-#: ../../mobile_apps/chat_app.rst:184
+#: ../../mobile_apps/chat_legacy.rst:161
+#: ../../mobile_apps/chat_legacy.rst:168
+#: ../../mobile_apps/chat_legacy.rst:184
 msgid "Open the **Meetings** section/tab."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:162
-#: ../../mobile_apps/chat_app.rst:169
+#: ../../mobile_apps/chat_legacy.rst:162
+#: ../../mobile_apps/chat_legacy.rst:169
 msgid "Tap the room name."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:163
+#: ../../mobile_apps/chat_legacy.rst:163
 msgid "Select **Join room**."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:166
+#: ../../mobile_apps/chat_legacy.rst:166
 msgid "Inviting Members to a Room"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:170
+#: ../../mobile_apps/chat_legacy.rst:170
 msgid "Select **Copy link** and share it."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:173
+#: ../../mobile_apps/chat_legacy.rst:173
+#: ../../mobile_apps/chats_app.rst:331
 msgid "Starting a Video Call with One Person"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:175
+#: ../../mobile_apps/chat_legacy.rst:175
 msgid "Open a 1-to-1 chat with the colleague."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:176
+#: ../../mobile_apps/chat_legacy.rst:176
 msgid "Tap the camera icon to start a video call."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:180
+#: ../../mobile_apps/chat_legacy.rst:180
+#: ../../mobile_apps/chats_app.rst:375
 #: ../../videomeeting/toc.rst:254
 msgid "Deleting a Meeting Room"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:182
+#: ../../mobile_apps/chat_legacy.rst:182
 msgid "To delete a room (if you have permission):"
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:185
+#: ../../mobile_apps/chat_legacy.rst:185
 msgid "Open the room."
 msgstr ""
 
-#: ../../mobile_apps/chat_app.rst:186
+#: ../../mobile_apps/chat_legacy.rst:186
+#: ../../mobile_apps/chats_app.rst:381
 msgid "Select **Delete Room**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:2
+msgid "Carbonio Chats"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:4
+msgid "The **Carbonio Chats** app provides a fast and convenient way to communicate and collaborate from your mobile device. You can use it to exchange instant messages, share files, search conversations, organize group chats, and participate in video meetings."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:6
+msgid "The app also provides enhanced capabilities designed to make everyday communication more efficient, including message pinning, instant conversation search, direct sharing from other apps, improved meeting moderation, Picture-in-Picture on Android, and greater resilience when network conditions change."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:11
+msgid "You can start a private one-to-one conversation with a colleague."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:14
+msgid "Select **New Group** to create a group or **Single conversation** for one person."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:15
+msgid "Search for users by name and select them."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:16
+msgid "The new chat opens and is added to your chat list."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:17
+msgid "Enter your message in the text box and tap **Send**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:24
+msgid "You can also add emojis, attachments, and other supported content."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:29
+msgid "Carbonio Chats lets you share files from your mobile device or from Carbonio Files."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:32
+msgid "Send a File from Your Device"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:42
+msgid "Select **Choose file** option."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:44
+#: ../../mobile_apps/chats_app.rst:97
+#: ../../mobile_apps/mail_app.rst:228
+msgid "Tap **Send**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:47
+msgid "Send a File from Carbonio Files"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:49
+msgid "Open the **Files** app."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:50
+msgid "Tap the **three dots** next to the file you want."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:51
+#: ../../mobile_apps/files_app.rst:100
+msgid "Select **Add collaborators**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:52
+msgid "Choose a permission: viewer, editor, or sharing allowed."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:59
+msgid "Tap **Save**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:62
+msgid "Share Content Directly from Other Apps"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:64
+msgid "On supported devices, you can share content with Carbonio Chats directly from another application without first opening the Chats app."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:66
+msgid "For example, you can share a document, image, link, or other supported content from the application where you are viewing it:"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:68
+msgid "Open the content you want to share."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:69
+msgid "Tap the device's **Share** option."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:70
+msgid "Select **Carbonio Chats**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:71
+msgid "Select the conversation or recipient."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:72
+msgid "Confirm and send the content."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:74
+msgid "This provides a faster way to share information with colleagues while working in other applications."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:79
+msgid "You can edit a message after sending it, when message editing is supported."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:83
+msgid "Update the message."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:84
+msgid "Send the updated message."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:87
+msgid "Message editing may be available only for a limited period after the message is sent. The available time limit may vary depending on the application or server configuration."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:92
+msgid "Replying to a specific message helps keep conversations organized and provides context for your response."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:96
+msgid "Enter your response."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:99
+msgid "The reply is linked to the original message so that participants can easily understand which message you are responding to."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:104
+msgid "You can forward a message to another conversation when you need to share existing information with another colleague or group."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:108
+msgid "Select the recipient or conversation."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:109
+msgid "Send the message."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:114
+msgid "To remove a message:"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:121
+msgid "Message deletion may be available only for a limited period after the message is sent. The available time limit may vary depending on the application or server configuration."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:124
+msgid "Pin Important Messages"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:126
+msgid "Message pinning allows you to keep important information easily accessible within a conversation. You can use pinned messages for important decisions, instructions, links, or other information that participants may need to refer to later."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:128
+msgid "To pin a message:"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:131
+msgid "Select **Pin message**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:139
+msgid "Confirm the action if prompted."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:141
+msgid "To access pinned messages, open the relevant conversation and use the conversation's pinned-message or information section."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:144
+msgid "The exact options available may vary by conversation type and your permissions. You can unpin a message by tapping the pin icon on the pinned message."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:147
+msgid "View Reactions"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:149
+msgid "You can view the reactions added to a message to see how participants responded."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:152
+msgid "Select **View reactions**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:153
+msgid "Review the available emoji reactions and the participants who selected each one."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:155
+msgid "To close the reaction details, tap outside the list or use the back option on your device."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:158
+msgid "The reactions available and the participants shown may vary depending on the conversation and your permissions."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:161
+msgid "Search Conversations"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:163
+msgid "Instant user search helps you quickly find a specific person and view their conversations without scrolling through conversation history."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:165
+msgid "To search for a user:"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:167
+msgid "Open the **Search** option."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:168
+msgid "Enter the user's name or other identifying information."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:169
+msgid "Review the matching user results."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:170
+msgid "Select a user to view their conversations and messages."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:172
+msgid "Use the user's full name or other specific details when possible to find the right person more quickly."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:177
+msgid "You can mute notifications for an individual chat or group when you do not want to receive notifications for every new message."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:179
+#: ../../mobile_apps/chats_app.rst:195
+msgid "Open the chat or group."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:180
+msgid "Open **Chat info** or **Group info** by tapping the information icon or chat name."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:181
+msgid "Tap **Mute notifications**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:188
+msgid "To receive notifications again, open the same settings and **Unmute notifications**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:193
+msgid "You can clear the local conversation history when this option is available."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:196
+msgid "Open **Chat info** or **Group info**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:201
+msgid "Clearing chat history may affect only the history displayed on your device and may not delete messages for other participants."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:206
+msgid "Group conversations allow multiple colleagues to communicate in a shared chat."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:209
+msgid "Select **New Group** chat."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:210
+#: ../../mobile_apps/chats_app.rst:226
+msgid "Select the colleagues you want to add."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:211
+msgid "Tap **Next**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:212
+msgid "Enter a **Group Name**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:213
+msgid "Optionally enter a group description."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:214
+#: ../../mobile_apps/chats_app.rst:271
+#: ../../mobile_apps/files_app.rst:17
+msgid "Tap **Create**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:216
+msgid "A group requires at least three participants, including you. The maximum is 300."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:221
+msgid "If you have moderator permissions, you can add colleagues to an existing group."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:224
+msgid "Open **Group info** by tapping the information icon or group name."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:227
+msgid "Confirm the selection."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:229
+msgid "If supported, you can enable **Show previous conversation history** so that newly added participants can access earlier messages."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:234
+msgid "If you have moderator permissions, you can remove a participant from a group."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:238
+msgid "Tap the participant's name."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:240
+msgid "Confirm the action, if prompted."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:245
+msgid "To leave a group conversation:"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:249
+msgid "Tap **Leave**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:250
+msgid "Confirm that you want to leave the group."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:252
+msgid "After leaving, you will no longer participate in the group conversation unless you are invited again."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:255
+msgid "Video Meetings and Rooms"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:257
+msgid "Carbonio Chats also provides shared rooms for chat and video meetings. Rooms can be used as persistent spaces where participants can communicate and join meetings using a shared link."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:269
+msgid "In the **Meetings** tab, tap the plus icon."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:270
+msgid "Enter a name for the room."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:273
+msgid "Depending on your permissions, you can use the room to:"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:275
+msgid "Start or join video meetings."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:276
+msgid "Communicate with participants through chat."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:277
+msgid "Copy the room link and share it with other participants."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:282
+msgid "To join an existing room:"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:284
+#: ../../mobile_apps/chats_app.rst:295
+#: ../../mobile_apps/chats_app.rst:379
+msgid "Open the **Meetings** section or tab."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:285
+msgid "Select the room you want to enter."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:286
+msgid "Tap **Join room**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:288
+msgid "You can then participate in the room's chat or join an active video meeting."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:291
+msgid "Inviting Participants to a Room"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:293
+msgid "You can invite participants by sharing the room link."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:296
+msgid "Select the room."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:297
+msgid "Tap **Copy link**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:298
+msgid "Share the link with the intended participants."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:300
+msgid "Participants can use the shared link to access the room, subject to the room's access and permission settings."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:303
+#: ../../mobile_apps/mail_app.rst:34
+msgid "Settings"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:305
+msgid "The **Settings** screen lets you manage account preferences, meeting options, and logout."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:313
+msgid "Theme"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:315
+msgid "Tap **Theme**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:316
+msgid "Select or change the application theme."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:319
+msgid "Meeting"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:321
+msgid "Tap **Meeting**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:322
+msgid "Open the meeting configuration screen."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:325
+msgid "Logout"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:327
+msgid "Tap **Logout**."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:328
+msgid "You will be logged out and returned to the login screen."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:333
+msgid "You can start a video call directly from a one-to-one conversation."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:335
+msgid "Open the chat with the colleague."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:336
+msgid "Tap the **Camera** icon."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:337
+msgid "Wait for the participant to accept the call."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:339
+msgid "Once connected, you can use the available meeting controls during the call."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:342
+msgid "Enhanced Meeting Moderation"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:344
+msgid "Meeting moderators have access to additional controls to help manage participants and maintain an organized meeting. Depending on the meeting configuration and your permissions, moderation controls may include managing participants and controlling how participants interact during the meeting."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:348
+msgid "Available moderation controls can vary depending on your role, meeting type, and server configuration."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:351
+msgid "Picture-in-Picture on Android"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:353
+msgid "On supported Android devices, Picture-in-Picture (PiP) allows you to continue viewing a video meeting while using other applications."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:355
+msgid "To use Picture-in-Picture:"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:357
+msgid "Join a video meeting."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:358
+msgid "Leave the meeting view or use the device's Home action."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:359
+msgid "If supported, the meeting continues in a floating PiP window."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:360
+msgid "Use the floating window to continue viewing the meeting while accessing other applications."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:363
+msgid "Picture-in-Picture availability depends on the Android version, device capabilities, and application support."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:366
+msgid "Improved Network Resilience During Meetings"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:368
+msgid "Carbonio Chats is designed to provide a more reliable meeting experience when network conditions fluctuate. When the network connection becomes temporarily unstable, the application can better handle changes in connectivity, helping reduce interruptions during meetings. This is particularly useful when moving between Wi-Fi and mobile networks or when working in areas with inconsistent connectivity."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:372
+msgid "The quality of a meeting still depends on the available network connection. Severe or prolonged connectivity problems may affect audio, video, or the ability to remain connected."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:377
+msgid "If you have the required permissions, you can delete a meeting room."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:380
+msgid "Open the room you want to delete."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:382
+msgid "Confirm the deletion, if prompted."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:385
+msgid "Deleting a room may affect other participants who use the room. Make sure the room is no longer required before deleting it."
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:388
+msgid "A More Connected Mobile Experience"
+msgstr ""
+
+#: ../../mobile_apps/chats_app.rst:390
+msgid "With these capabilities, Carbonio Chats provides more than basic mobile messaging. You can quickly find important information, keep key messages accessible, share content from other applications, collaborate in groups, and participate in meetings with improved flexibility and reliability. The new React Native-based architecture provides the foundation for these capabilities and enables Carbonio Chats to evolve more quickly as new communication and collaboration requirements emerge."
 msgstr ""
 
 #: ../../mobile_apps/files_app.rst:7
@@ -7580,10 +8981,6 @@ msgstr ""
 
 #: ../../mobile_apps/files_app.rst:16
 msgid "Enter a folder name."
-msgstr ""
-
-#: ../../mobile_apps/files_app.rst:17
-msgid "Tap **Create**."
 msgstr ""
 
 #: ../../mobile_apps/files_app.rst:19
@@ -7730,10 +9127,6 @@ msgstr ""
 msgid "Tap **More options** next to the file/folder."
 msgstr ""
 
-#: ../../mobile_apps/files_app.rst:100
-msgid "Select **Add collaborators**."
-msgstr ""
-
 #: ../../mobile_apps/files_app.rst:101
 msgid "Enter colleagues’ email addresses and select them from suggestions."
 msgstr ""
@@ -7792,10 +9185,6 @@ msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:31
 msgid "**Log out** Sign out from the current account."
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:34
-msgid "Settings"
 msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:36
@@ -8042,102 +9431,126 @@ msgstr ""
 msgid "Attachments are a common way viruses spread. Administrators may block certain file types (for example ``.exe`` or ``.zip``). In some cases you may not receive a warning if the recipient’s system blocks the attachment—so consider confirming receipt when it’s important."
 msgstr ""
 
+#: ../../mobile_apps/mail_app.rst:167
+msgid "Related large-attachment behavior"
+msgstr ""
+
 #: ../../mobile_apps/mail_app.rst:169
-msgid "If you have multiple identities/personas configured, you can choose which one to use when composing:"
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:171
-msgid "In the compose screen, tap the **From** field."
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:172
-msgid "Select the desired **identity/persona**."
+msgid "The same size limitation can affect e-mails created in the **Carbonio Mail Android application**. Previously, when an attachment exceeded the applicable limit, the message could return to the **Drafts** folder without an error, warning, upload status, or retry option."
 msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:174
-msgid "The recipient will see the selected identity/persona as the sender."
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:179
-msgid "If available, you can request a read receipt:"
+msgid "Size-limit failures should be communicated clearly rather than silently returning the message to Drafts. Attachments within the limits configured on the Carbonio server can continue through the normal sending process."
 msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:181
-msgid "While composing, open **More options** (three-dots icon)."
+msgid "Suppose a file is approximately **35.98 MB**. Its raw size is not the only value considered when determining whether it can be attached. The application also accounts for the overhead introduced when the attachment is encoded for e-mail transmission."
 msgstr ""
 
-#: ../../mobile_apps/mail_app.rst:182
-msgid "Enable **Read receipt**."
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:183
-msgid "Close the menu and send the email."
+#: ../../mobile_apps/mail_app.rst:186
+msgid "If the estimated attachment size exceeds the configured maximum, you see this message:"
 msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:188
-msgid "To save a draft while composing:"
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:190
-msgid "Open **More options** (three-dots icon)."
+msgid "This file is too large to attach. Open a new e-mail and use Add from Files to share it as a Smart Link instead."
 msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:191
-msgid "Select **Save draft** (or simply exit the compose screen if the app autosaves drafts)."
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:196
-msgid "Open the app menu (typically the menu icon)."
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:197
-msgid "Go to the **Drafts** folder."
+msgid "You can acknowledge the warning and share the file using **Add from Files → Smart Link** rather than attempting to send it as an attachment."
 msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:198
-msgid "Open the draft you want to send."
+msgid "If you have multiple identities/personas configured, you can choose which one to use when composing:"
 msgstr ""
 
-#: ../../mobile_apps/mail_app.rst:199
-msgid "Tap **Send**."
+#: ../../mobile_apps/mail_app.rst:200
+msgid "In the compose screen, tap the **From** field."
 msgstr ""
 
-#: ../../mobile_apps/mail_app.rst:204
-msgid "To forward an email:"
+#: ../../mobile_apps/mail_app.rst:201
+msgid "Select the desired **identity/persona**."
 msgstr ""
 
-#: ../../mobile_apps/mail_app.rst:206
-#: ../../mobile_apps/mail_app.rst:216
-msgid "Open the email."
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:207
-#: ../../mobile_apps/mail_app.rst:217
-msgid "Tap **More options** (three-dots icon)."
+#: ../../mobile_apps/mail_app.rst:203
+msgid "The recipient will see the selected identity/persona as the sender."
 msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:208
-msgid "Select **Forward** (or **Forward conversation**, if shown)."
+msgid "If available, you can request a read receipt:"
 msgstr ""
 
-#: ../../mobile_apps/mail_app.rst:209
+#: ../../mobile_apps/mail_app.rst:210
+msgid "While composing, open **More options** (three-dots icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:211
+msgid "Enable **Read receipt**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:212
+msgid "Close the menu and send the email."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:217
+msgid "To save a draft while composing:"
+msgstr ""
+
 #: ../../mobile_apps/mail_app.rst:219
-msgid "Enter the recipient and tap **Send**."
+msgid "Open **More options** (three-dots icon)."
 msgstr ""
 
-#: ../../mobile_apps/mail_app.rst:214
-msgid "To redirect an email (if available):"
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:218
-msgid "Select **Redirect**."
-msgstr ""
-
-#: ../../mobile_apps/mail_app.rst:224
-msgid "**Forward** sends a copy of the message to someone else (often allowing you to add your own text)."
+#: ../../mobile_apps/mail_app.rst:220
+msgid "Select **Save draft** (or simply exit the compose screen if the app autosaves drafts)."
 msgstr ""
 
 #: ../../mobile_apps/mail_app.rst:225
+msgid "Open the app menu (typically the menu icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:226
+msgid "Go to the **Drafts** folder."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:227
+msgid "Open the draft you want to send."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:233
+msgid "To forward an email:"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:235
+#: ../../mobile_apps/mail_app.rst:245
+msgid "Open the email."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:236
+#: ../../mobile_apps/mail_app.rst:246
+msgid "Tap **More options** (three-dots icon)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:237
+msgid "Select **Forward** (or **Forward conversation**, if shown)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:238
+#: ../../mobile_apps/mail_app.rst:248
+msgid "Enter the recipient and tap **Send**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:243
+msgid "To redirect an email (if available):"
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:247
+msgid "Select **Redirect**."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:253
+msgid "**Forward** sends a copy of the message to someone else (often allowing you to add your own text)."
+msgstr ""
+
+#: ../../mobile_apps/mail_app.rst:254
 msgid "**Redirect** reroutes the original message to a new recipient as if it had been sent to them originally, making it easier for the new recipient to reply directly to the original sender."
 msgstr ""
 
@@ -8153,11 +9566,11 @@ msgstr ""
 msgid "**Android (Google Play Store)**"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:25
+#: ../../mobile_apps/toc.rst:30
 msgid "**iOS (Apple App Store)**"
 msgstr ""
 
-#: ../../mobile_apps/toc.rst:40
+#: ../../mobile_apps/toc.rst:49
 msgid "Table of Contents"
 msgstr ""
 
@@ -8299,134 +9712,134 @@ msgid "**Sent after**: Search for emails sent after the specified date."
 msgstr ""
 
 #: ../../search/toc.rst:66
-msgid "**Sent on**: Search for emails sent exactly on the specified date."
-msgstr ""
-
-#: ../../search/toc.rst:67
 msgid "**Tag**: Search for emails or contacts that have a specific tag."
 msgstr ""
 
-#: ../../search/toc.rst:68
+#: ../../search/toc.rst:67
 msgid "**Is contained in**: Limit the search to selected folders."
 msgstr ""
 
-#: ../../search/toc.rst:71
+#: ../../search/toc.rst:70
 msgid "Advanced Search Syntax"
 msgstr ""
 
-#: ../../search/toc.rst:73
+#: ../../search/toc.rst:72
 msgid "**Syntax**: You can search for various items such as words, names, phone numbers, or domain names. However, when conducting content searches, it is essential to follow certain rules."
 msgstr ""
 
-#: ../../search/toc.rst:75
+#: ../../search/toc.rst:74
 msgid "**Exact Text Match**: When searching for phrases, each word within the phrase must be an exact match. No spelling variants are allowed. For instance, a search for \"apple\" will not match with \"apples\"."
 msgstr ""
 
-#: ../../search/toc.rst:77
+#: ../../search/toc.rst:76
 msgid "**Case Sensitivity**: Searches are not case-sensitive. \"Cat\", \"cat\", and \"CAT\" are all treated as the same."
 msgstr ""
 
-#: ../../search/toc.rst:79
+#: ../../search/toc.rst:78
 msgid "**Special Characters**: Certain special characters cannot be used in search text."
 msgstr ""
 
-#: ../../search/toc.rst:81
+#: ../../search/toc.rst:80
 msgid "**Wildcards**: The asterisk (*) can be used as a wildcard after a prefix to broaden search results. For example, searching for \"choc\" retrieves items with words like \"chocolate\", \"chocoholic\", etc."
 msgstr ""
 
-#: ../../search/toc.rst:83
+#: ../../search/toc.rst:82
 msgid "**Attachments**: System-readable file attachments are also included in searches. These are files that can be converted to HTML, such as PDF documents and text files."
 msgstr ""
 
-#: ../../search/toc.rst:85
+#: ../../search/toc.rst:84
 msgid "**Contacts in Address Books**: When searching for contacts, the entire word or number string must be entered. For instance, to search contacts by email address, the full address as it appears in the contact entry must be used. It is not possible to search solely by domain."
 msgstr ""
 
-#: ../../search/toc.rst:87
+#: ../../search/toc.rst:86
 msgid "**Search Language Structure**: Conducting content searches slightly differs from text-match searches or typical word-processing features such as Find."
 msgstr ""
 
-#: ../../search/toc.rst:89
+#: ../../search/toc.rst:88
 msgid "**Keywords**: If you know where to search for your item, you can enter keywords followed by a colon and the search item in the search text box. For example, \"in:inbox\"."
 msgstr ""
 
-#: ../../search/toc.rst:91
-msgid "**Options:**"
-msgstr ""
-
-#: ../../search/toc.rst:93
-msgid "**Content**: Specifies text that must be present in the message. Example: content:important."
+#: ../../search/toc.rst:92
+msgid "The Advanced Search feature currently supports searches in English only."
 msgstr ""
 
 #: ../../search/toc.rst:94
-msgid "**From**: Specifies a sender's name or email address. Example: from:\"john.doe\"."
-msgstr ""
-
-#: ../../search/toc.rst:95
-msgid "**To**: Similar to \"From:\", but for recipients in the To: header. Example: to:\"jane.smith\"."
+msgid "**Options:**"
 msgstr ""
 
 #: ../../search/toc.rst:96
-msgid "**CC**: Similar to \"From:\", but for recipients in the Cc: header. Example: cc:\"Manager\"."
+msgid "**Content**: Specifies text that must be present in the message. Example: content:important."
 msgstr ""
 
 #: ../../search/toc.rst:97
-msgid "**Subject**: Specifies text that must appear in the subject header. Example: subject:meeting."
+msgid "**From**: Specifies a sender's name or email address. Example: from:\"john.doe\"."
 msgstr ""
 
 #: ../../search/toc.rst:98
-msgid "**In**: Specifies a folder. Example: in:sent."
+msgid "**To**: Similar to \"From:\", but for recipients in the To: header. Example: to:\"jane.smith\"."
 msgstr ""
 
 #: ../../search/toc.rst:99
-msgid "**Has**: Specifies an attribute that the message must have. Example: has:attachment."
+msgid "**CC**: Similar to \"From:\", but for recipients in the Cc: header. Example: cc:\"Manager\"."
 msgstr ""
 
 #: ../../search/toc.rst:100
-msgid "**Filename**: Specifies an attachment file name. Example: filename:report.pdf."
+msgid "**Subject**: Specifies text that must appear in the subject header. Example: subject:meeting."
 msgstr ""
 
 #: ../../search/toc.rst:101
-msgid "**Type**: Specifies a search within attachments of a specified type. Example: type:excel."
+msgid "**In**: Specifies a folder. Example: in:sent."
 msgstr ""
 
 #: ../../search/toc.rst:102
-msgid "**Attachment**: Specifies any item with a certain type of attachment. Example: attachment:word."
+msgid "**Has**: Specifies an attribute that the message must have. Example: has:attachment."
 msgstr ""
 
 #: ../../search/toc.rst:103
-msgid "**Is**: Searches for messages with a specific status. Example: is:unread."
+msgid "**Filename**: Specifies an attachment file name. Example: filename:report.pdf."
 msgstr ""
 
 #: ../../search/toc.rst:104
-msgid "**Date**: Specifies a date. Example: date:02/20/2024."
+msgid "**Type**: Specifies a search within attachments of a specified type. Example: type:excel."
 msgstr ""
 
 #: ../../search/toc.rst:105
-msgid "**After**: Specifies mail sent after a certain date. Example: after:01/01/2024."
+msgid "**Attachment**: Specifies any item with a certain type of attachment. Example: attachment:word."
 msgstr ""
 
 #: ../../search/toc.rst:106
-msgid "**Before**: Specifies mail sent before a certain date. Example: before:03/01/2024."
+msgid "**Is**: Searches for messages with a specific status. Example: is:unread."
 msgstr ""
 
 #: ../../search/toc.rst:107
-msgid "**Size**: Specifies emails based on their total size, including attachments. Example: size: 1MB."
+msgid "**Date**: Specifies a date. Example: date:02/20/2024."
 msgstr ""
 
 #: ../../search/toc.rst:108
-msgid "**Smaller**: Specifies emails based on their total size, including attachments. Example: smaller:1MB."
+msgid "**After**: Specifies mail sent after a certain date. Example: after:01/01/2024."
 msgstr ""
 
 #: ../../search/toc.rst:109
-msgid "**Larger**: Specifies emails based on their total size, including attachments. Example: smaller:1MB."
+msgid "**Before**: Specifies mail sent before a certain date. Example: before:03/01/2024."
 msgstr ""
 
 #: ../../search/toc.rst:110
-msgid "**Tag**: Finds messages tagged with a specified tag. Example: tag:important."
+msgid "**Size**: Specifies emails based on their total size, including attachments. Example: size: 1MB."
+msgstr ""
+
+#: ../../search/toc.rst:111
+msgid "**Smaller**: Specifies emails based on their total size, including attachments. Example: smaller: 1MB."
 msgstr ""
 
 #: ../../search/toc.rst:112
+msgid "**Larger**: Specifies emails based on their total size, including attachments. Example: larger: 1MB."
+msgstr ""
+
+#: ../../search/toc.rst:113
+msgid "**Tag**: Finds messages tagged with a specified tag. Example: tag: important."
+msgstr ""
+
+#: ../../search/toc.rst:115
 msgid "**Wildcards**: The asterisk (*) after a prefix serves as a wildcard to find content with words having similar spellings. For instance, \"dog\" retrieves items with words like \"doggy\", \"doghouse\", etc. Note: Double-byte asterisk signs in search queries are ignored during the search."
 msgstr ""
 
@@ -8725,7 +10138,7 @@ msgid "During a video meeting, you have the chance to blur your background. Simp
 msgstr ""
 
 #: ../../videomeeting/toc.rst:135
-msgid "You also have the chance to choose a specific background image. Click on the arrow icon in the camera button, and then choose the option Apply Background Image. You can upload your own image or choose one from the available options."
+msgid "You also have the chance to choose a specific background image. Click on the arrow icon in the camera button, and then choose the option Apply Background Image. You can choose one from the available options."
 msgstr ""
 
 #: ../../videomeeting/toc.rst:139

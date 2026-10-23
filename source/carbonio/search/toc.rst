@@ -112,8 +112,6 @@ Advanced Search Syntax
 •	**Larger**: Specifies emails based on their total size, including attachments. Example: larger: 1MB.
 •	**Tag**: Finds messages tagged with a specified tag. Example: tag: important.
 
-**Wildcards**: The asterisk (*) after a prefix serves as a wildcard to find content with words having similar spellings. For instance, "dog" retrieves items with words like "doggy", "doghouse", etc. Note: Double-byte asterisk signs in search queries are ignored during the search.
-
 
 
 

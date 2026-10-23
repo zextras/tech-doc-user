@@ -51,8 +51,9 @@ You can download them from the official stores using the links below.
    .. toctree::
       :maxdepth: 1
 
+      app_authentication
       mail_app
       chat_legacy
       chats_app
       files_app
-      app_authentication
+      

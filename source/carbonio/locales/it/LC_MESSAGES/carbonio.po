@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-27 13:27+0200\n"
-"PO-Revision-Date: 2026-08-24 11:52+0000\n"
-"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"PO-Revision-Date: 2026-10-23 09:11+0000\n"
+"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -12566,31 +12566,31 @@ msgid ""
 "**Content**: Specifies text that must be present in the message. Example:"
 " content:important."
 msgstr ""
-"**Contenuto**: Specifica il testo che deve essere presente nel messaggio."
-" Esempio: contenuto:importante."
+"**Content**: Specifica il testo che deve essere presente nel messaggio. "
+"Esempio: content:importante."
 
 #: ../../search/toc.rst:94
 msgid ""
 "**From**: Specifies a sender's name or email address. Example: "
 "from:\"john.doe\"."
 msgstr ""
-"**Da**: Specifica il nome o l'indirizzo email del mittente. Esempio: "
-"da:\"mario.rossi\"."
+"**From**: Specifica il nome o l'indirizzo email del mittente. Esempio: "
+"from:\"mario.rossi\"."
 
 #: ../../search/toc.rst:95
 msgid ""
 "**To**: Similar to \"From:\", but for recipients in the To: header. "
 "Example: to:\"jane.smith\"."
 msgstr ""
-"**A**: Simile a \"Da:\", ma per i destinatari nell'intestazione A:. "
-"Esempio: a:\"mario.rossi\"."
+"**To**: Simile a \"From:\", ma per i destinatari nell'intestazione A:. "
+"Esempio: to:\"mario.rossi\"."
 
 #: ../../search/toc.rst:96
 msgid ""
 "**CC**: Similar to \"From:\", but for recipients in the Cc: header. "
 "Example: cc:\"Manager\"."
 msgstr ""
-"**CC**: Simile a \"Da:\", ma per i destinatari nell'intestazione Cc:. "
+"**CC**: Simile a \"From:\", ma per i destinatari nell'intestazione Cc:. "
 "Esempio: cc:\"Manager\"."
 
 #: ../../search/toc.rst:97
@@ -12598,8 +12598,8 @@ msgid ""
 "**Subject**: Specifies text that must appear in the subject header. "
 "Example: subject:meeting."
 msgstr ""
-"**Oggetto**: Specifica il testo che deve comparire nell'oggetto "
-"dell'email. Esempio: oggetto:riunione."
+"**Subject**: Specifica il testo che deve comparire nell'oggetto dell'email. "
+"Esempio: subject:riunione."
 
 #: ../../search/toc.rst:98
 msgid "**In**: Specifies a folder. Example: in:sent."
@@ -12610,80 +12610,81 @@ msgid ""
 "**Has**: Specifies an attribute that the message must have. Example: "
 "has:attachment."
 msgstr ""
-"**Ha**: Specifica un attributo che il messaggio deve avere. Esempio: "
-"ha:allegato."
+"**Has**: Specifica un attributo che il messaggio deve avere. Esempio: "
+"has:allegato."
 
 #: ../../search/toc.rst:100
 msgid ""
 "**Filename**: Specifies an attachment file name. Example: "
 "filename:report.pdf."
 msgstr ""
-"**Nome file**: Specifica il nome intero di un file allegato. Esempio: "
-"nome file: report.pdf."
+"**Filename**: Specifica il nome intero di un file allegato. Esempio: "
+"filename: report.pdf."
 
 #: ../../search/toc.rst:101
 msgid ""
 "**Type**: Specifies a search within attachments of a specified type. "
 "Example: type:excel."
 msgstr ""
-"**Tipo**: Specifica una ricerca tra gli allegati di un tipo specifico. "
-"Esempio: tipo:excel."
+"**Type**: Specifica una ricerca tra gli allegati di un tipo specifico. "
+"Esempio: type:excel."
 
 #: ../../search/toc.rst:102
 msgid ""
 "**Attachment**: Specifies any item with a certain type of attachment. "
 "Example: attachment:word."
 msgstr ""
-"**Allegato**: Specifica qualsiasi elemento con un determinato tipo di "
-"allegato. Esempio: allegato:word."
+"**Attachment**: Specifica qualsiasi elemento con un determinato tipo di "
+"allegato. Esempio: attachment:word."
 
 #: ../../search/toc.rst:103
 msgid "**Is**: Searches for messages with a specific status. Example: is:unread."
-msgstr "**È**: Cerca messaggi con uno stato specifico. Ad esempio: è:non_letto."
+msgstr ""
+"**Is**: Cerca messaggi con uno stato specifico. Ad esempio: is:non_letto."
 
 #: ../../search/toc.rst:104
 msgid "**Date**: Specifies a date. Example: date:02/20/2024."
-msgstr "**Data**: Specifica una data. Esempio: date:20/02/2024."
+msgstr "**Date**: Specifica una data. Esempio: date:20/02/2024."
 
 #: ../../search/toc.rst:105
 msgid ""
 "**After**: Specifies mail sent after a certain date. Example: "
 "after:01/01/2024."
 msgstr ""
-"**Dopo**: Specifica la posta inviata dopo una data specifica. Esempio: "
-"dopo:01/01/2024."
+"**After**: Specifica la posta inviata dopo una data specifica. Esempio: "
+"after:01/01/2024."
 
 #: ../../search/toc.rst:106
 msgid ""
 "**Before**: Specifies mail sent before a certain date. Example: "
 "before:03/01/2024."
 msgstr ""
-"**Prima di**: Specifica la posta inviata prima di una data specifica. "
-"Esempio: prima di:03/01/2024."
+"**Before**: Specifica la posta inviata prima di una data specifica. Esempio: "
+"before:03/01/2024."
 
 #: ../../search/toc.rst:107
 msgid ""
 "**Size**: Specifies emails based on their total size, including "
 "attachments. Example: size: 1MB."
 msgstr ""
-"**Dimensione**: Specifica le email in base alla loro dimensione totale, "
-"inclusi gli allegati. Esempio: dimensione: 1MB."
+"**Size**: Specifica le email in base alla loro dimensione totale, inclusi "
+"gli allegati. Esempio: size: 1MB."
 
 #: ../../search/toc.rst:108
 msgid ""
 "**Smaller**: Specifies emails based on their total size, including "
 "attachments. Example: smaller:1MB."
 msgstr ""
-"**Minore di**: Specifica le email in base alle loro dimensioni totali, "
-"incluse le allegati. Esempio: minore_di:1MB."
+"**Smaller**: Specifica le email in base alle loro dimensioni totali, incluse "
+"le allegati. Esempio: smaller:1MB."
 
 #: ../../search/toc.rst:109
 msgid ""
 "**Larger**: Specifies emails based on their total size, including "
 "attachments. Example: smaller:1MB."
 msgstr ""
-"**Più grande di**: Specifica le email in base alla loro dimensione "
-"totale, inclusi gli allegati. Esempio: maggiore_di:1MB."
+"**Larger**: Specifica le email in base alla loro dimensione totale, inclusi "
+"gli allegati. Esempio: larger:1MB."
 
 #: ../../search/toc.rst:110
 msgid ""

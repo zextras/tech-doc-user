@@ -271,7 +271,7 @@ This feature significantly improves navigation within chats, letting you find in
 
 
 View and Manage Shared Chat Files
-====================================================
+=================================
 
 The **Media Gallery** is a panel located on the right side of the screen when you use the **Chats** module in Carbonio. It provides a centralised view of the files shared in a conversation, allowing you to browse, download, forward, or delete shared content without searching through the conversation history.
 

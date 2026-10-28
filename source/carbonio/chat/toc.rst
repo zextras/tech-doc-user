@@ -268,3 +268,80 @@ Key Features
   To start a new search, use the backspace button to clear the current query without closing the panel.
 
 This feature significantly improves navigation within chats, letting you find information in seconds instead of manually searching through entire conversations.
+
+
+View and Manage Shared Chat Files
+=================================
+
+The **Media Gallery** is a panel located on the right side of the screen when you use the **Chats** module in Carbonio. It provides a centralised view of the files shared in a conversation, allowing you to browse, download, forward, or delete shared content without searching through the conversation history.
+
+Shared content is organised into three tabs: **Images**, **Videos**, and **Docs**. Each tab displays the files belonging to its category and the total number of available items. You can also filter files by sender and select multiple files to perform actions in bulk.
+
+
+View Shared Media
+=================
+
+1. Open **Chats** and select the conversation containing the shared files.
+2. Open the **Media Gallery**.
+3. Select the relevant tab to view the shared content:
+
+   * **Images**: Displays shared images in a grid for easy browsing.
+   * **Videos**: Displays videos shared in the conversation.
+   * **Docs**: Displays documents and other shared files.
+
+Each tab displays the total number of files available in that category, helping you see how many items have been shared.
+
+  .. image:: /img/chat-media-gallery.png
+                :align: center
+                :width: 80%
+
+Filter Files by Sender
+======================
+
+Use the sender dropdown to filter files by who shared them. Select **All** to view files shared by everyone, or **You** to view files you shared.
+
+
+Manage Multiple Files
+=====================
+
+The Media Gallery supports selecting multiple files to perform actions in bulk.
+
+1. Open the relevant tab.
+2. Select the files you want to manage.
+3. Choose the required action:
+
+   * **Download**: Download the selected files to your device.
+   * **Forward**: Forward the selected files.
+   * **Delete**: Delete the selected files.
+
+
+Forward
+-------
+
+1. In the Forward message dialog, enter a Chat name in the search field or select a Chat from the list.
+2. Select the checkbox next to the target Chat.
+3. Click **FORWARD** to send the selected files to the chosen Chat.
+
+
+Delete Files
+------------
+
+1. Select the files you want to delete and click **Delete**.
+2. In the Delete attachments confirmation dialog, review the number of attachments to be deleted.
+3. Click **YES**, **DELETE ATTACHMENTS** to permanently delete the selected files and confirm the action.
+4. Alternatively, click **NO**, **CANCEL** to cancel the deletion.
+
+
+.. warning::
+
+   This action cannot be undone. The files will be permanently removed, and any captions associated with the original messages will also be deleted from the conversation history.
+
+
+.. tip::
+
+   Use multi-selection to manage several files in a single operation instead of handling each file individually.
+
+
+.. note::
+
+   The available actions and their effects may depend on the file type and your permissions in the conversation.

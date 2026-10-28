@@ -300,7 +300,11 @@ The Chat supports the following inline and block formatting options:
      - ``~~text~~``
    * - **Inline code with background**
      - Displays text in a monospaced font
-     - ```code ```
+     - ``` code ``` 
+         .. image:: /img/inline-code.png
+                :align: center
+                :width: 80%
+
    * - **Link with custom label**
      - Converts supported link syntax into clickable links
      - ``[label](url)``
@@ -321,7 +325,12 @@ The Chat supports the following inline and block formatting options:
      - ``1.  item``
    * - **Monospaced code blocks**
      - Displays code in a separate monospaced block with a Copy button
-     - Triple backticks  " ``` " with code inside
+     -  ' ' '
+        code 
+        ' ' '
+             .. image:: /img/monospaced-code.png
+                :align: center
+                :width: 80%
 
 
 Unsupported Formatting

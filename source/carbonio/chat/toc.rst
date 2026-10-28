@@ -270,8 +270,76 @@ Key Features
 This feature significantly improves navigation within chats, letting you find information in seconds instead of manually searching through entire conversations.
 
 
+
+Carbonio Chats supports a selection of Markdown syntax elements that you can use to format messages and make them easier to read. You can emphasise text, share links, organise information into lists, quote text, and include code snippets directly in your conversations.
+
+The following sections describe the supported formatting options and their syntax, as well as the elements that are not supported and are therefore displayed as plain text.
+
+
+Supported Formatting Options
+----------------------------
+
+The Chat supports the following inline and block formatting options:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Format
+     - Description
+     - Syntax
+   * - **Bold**
+     - Displays text in bold
+     - ``**text**`` — ``__text__``
+   * - **Italic**
+     - Displays text in italics
+     - ``*text*`` — ``_text_``
+   * - **Strikethrough**
+     - Displays text with a line through it
+     - ``~~text~~``
+   * - **Inline code with background**
+     - Displays text in a monospaced font
+     - ``` code ``` 
+
+       .. image:: /img/inline-code.png
+          :align: left
+          :width: 50%
+
+   * - **Link with custom label**
+     - Converts supported link syntax into clickable links
+     - ``[label](url)``
+   * - **Autolinks**
+     - Automatically converts recognised URLs into clickable links
+     - ``<https://example.com>``
+   * - **mailto autolink**
+     - Automatically converts email addresses into clickable mailto links
+     - ``name@example.com``
+   * - **Blockquotes**
+     - Displays quoted text as a block
+     - ``> quote``
+   * - **Bulleted lists**
+     - Organises items into an unordered list
+     - ``*   item`` — ``* item``
+   * - **Numbered lists**
+     - Organises items into an ordered list
+     - ``1.  item``
+   * - **Monospaced code blocks**
+     - Displays code in a separate monospaced block with a Copy button
+     -  .. code-block:: text
+
+          ```
+          my text code
+          ```
+
+        .. image:: /img/monospaced-code.png
+           :align: left
+           :width: 70%
+
+
+Unsupported Formatting
+----------------------
+
+Headings (#, ##, …), tables, images, task lists (- [ ]), and horizontal rules are not converted into formatted elements. They appear as plain text, preserving the characters the user typed in the conversation.
 View and Manage Shared Chat Files
-=================================
 
 The **Media Gallery** is a panel located on the right side of the screen when you use the **Chats** module in Carbonio. It provides a centralised view of the files shared in a conversation, allowing you to browse, download, forward, or delete shared content without searching through the conversation history.
 
@@ -279,7 +347,6 @@ Shared content is organised into three tabs: **Images**, **Videos**, and **Docs*
 
 
 View Shared Media
-=================
 
 1. Open **Chats** and select the conversation containing the shared files.
 2. Open the **Media Gallery**.
@@ -296,13 +363,11 @@ Each tab displays the total number of files available in that category, helping 
                 :width: 80%
 
 Filter Files by Sender
-======================
 
 Use the sender dropdown to filter files by who shared them. Select **All** to view files shared by everyone, or **You** to view files you shared.
 
 
 Manage Multiple Files
-=====================
 
 The Media Gallery supports selecting multiple files to perform actions in bulk.
 

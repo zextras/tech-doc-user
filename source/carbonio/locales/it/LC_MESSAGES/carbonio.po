@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-30 16:02+0100\n"
 "PO-Revision-Date: 2026-10-30 15:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
@@ -7687,7 +7687,7 @@ msgstr ""
 
 #: ../../chat/toc.rst:273
 msgid "Supported Markdown Formatting"
-msgstr ""
+msgstr "Supported Markdown Formatting"
 
 #: ../../chat/toc.rst:275
 msgid ""
@@ -7696,6 +7696,11 @@ msgid ""
 "emphasise text, share links, organise information into lists, quote text,"
 " and include code snippets directly in your conversations."
 msgstr ""
+"Carbonio Chats supporta una selezione di elementi di sintassi Markdown che è "
+"possibile utilizzare per formattare i messaggi e renderli più leggibili. È "
+"possibile enfatizzare il testo, condividere link, organizzare le "
+"informazioni in elenchi, citare testo e includere snippet di codice "
+"direttamente nelle conversazioni."
 
 #: ../../chat/toc.rst:277
 msgid ""
@@ -7703,22 +7708,25 @@ msgid ""
 "their syntax, as well as the elements that are not supported and are "
 "therefore displayed as plain text."
 msgstr ""
+"Le sezioni seguenti descrivono le opzioni di formattazione supportate e la "
+"relativa sintassi, nonché gli elementi non supportati, visualizzati come "
+"testo semplice."
 
 #: ../../chat/toc.rst:281
 msgid "Supported Formatting Options"
-msgstr ""
+msgstr "Opzioni di formattazione supportate"
 
 #: ../../chat/toc.rst:283
 msgid "The Chat supports the following inline and block formatting options:"
-msgstr ""
+msgstr "La chat supporta le seguenti opzioni di formattazione inline e block:"
 
 #: ../../chat/toc.rst:289
 msgid "Description"
-msgstr ""
+msgstr "Descrizione"
 
 #: ../../chat/toc.rst:290
 msgid "Syntax"
-msgstr ""
+msgstr "Sintassi"
 
 #: ../../chat/toc.rst:291
 msgid "**Bold**"
@@ -7726,11 +7734,11 @@ msgstr "Entrambe"
 
 #: ../../chat/toc.rst:292
 msgid "Displays text in bold"
-msgstr ""
+msgstr "Visualizza il testo in grassetto"
 
 #: ../../chat/toc.rst:293
 msgid "``**text**`` — ``__text__``"
-msgstr ""
+msgstr "``**text**`` — ``__text__``"
 
 #: ../../chat/toc.rst:294
 msgid "**Italic**"
@@ -7738,47 +7746,47 @@ msgstr "*🇮🇹 Italiano*"
 
 #: ../../chat/toc.rst:295
 msgid "Displays text in italics"
-msgstr ""
+msgstr "Visualizza il testo in corsivo"
 
 #: ../../chat/toc.rst:296
 msgid "``*text*`` — ``_text_``"
-msgstr ""
+msgstr "``*text*`` — ``_text_``"
 
 #: ../../chat/toc.rst:297
 msgid "**Strikethrough**"
-msgstr ""
+msgstr "**Barrato**"
 
 #: ../../chat/toc.rst:298
 msgid "Displays text with a line through it"
-msgstr ""
+msgstr "Visualizza il testo con una linea attraversata"
 
 #: ../../chat/toc.rst:299
 msgid "``~~text~~``"
-msgstr ""
+msgstr "``~~text~~``"
 
 #: ../../chat/toc.rst:300
 msgid "**Inline code with background**"
-msgstr ""
+msgstr "**Codice inline con sfondo**"
 
 #: ../../chat/toc.rst:301
 msgid "Displays text in a monospaced font"
-msgstr ""
+msgstr "Visualizza il testo con font monospazio"
 
 #: ../../chat/toc.rst:302
 msgid "``` code ```"
-msgstr ""
+msgstr "``` code ```"
 
 #: ../../chat/toc.rst:308
 msgid "**Link with custom label**"
-msgstr ""
+msgstr "**Link con etichetta personalizzata**"
 
 #: ../../chat/toc.rst:309
 msgid "Converts supported link syntax into clickable links"
-msgstr ""
+msgstr "Converte la sintassi dei link supportata in collegamenti cliccabili"
 
 #: ../../chat/toc.rst:310
 msgid "``[label](url)``"
-msgstr ""
+msgstr "``[label](url)``"
 
 #: ../../chat/toc.rst:311
 msgid "**Autolinks**"
@@ -7787,6 +7795,7 @@ msgstr "**Opzioni:**"
 #: ../../chat/toc.rst:312
 msgid "Automatically converts recognised URLs into clickable links"
 msgstr ""
+"Converte automaticamente gli URL riconosciuti in collegamenti cliccabili"
 
 #: ../../chat/toc.rst:313
 msgid "``<https://example.com>``"
@@ -7794,11 +7803,13 @@ msgstr "`johnn@example.com`"
 
 #: ../../chat/toc.rst:314
 msgid "**mailto autolink**"
-msgstr ""
+msgstr "**mailto autolink**"
 
 #: ../../chat/toc.rst:315
 msgid "Automatically converts email addresses into clickable mailto links"
 msgstr ""
+"Converte automaticamente gli indirizzi email in collegamenti mailto "
+"cliccabili"
 
 #: ../../chat/toc.rst:316
 msgid "``name@example.com``"
@@ -7810,23 +7821,23 @@ msgstr "Entrambe"
 
 #: ../../chat/toc.rst:318
 msgid "Displays quoted text as a block"
-msgstr ""
+msgstr "Visualizza il testo citato come blocco"
 
 #: ../../chat/toc.rst:319
 msgid "``> quote``"
-msgstr ""
+msgstr "``> quote``"
 
 #: ../../chat/toc.rst:320
 msgid "**Bulleted lists**"
-msgstr ""
+msgstr "**Elenchi puntati**"
 
 #: ../../chat/toc.rst:321
 msgid "Organises items into an unordered list"
-msgstr ""
+msgstr "Organizza gli elementi in un elenco non ordinato"
 
 #: ../../chat/toc.rst:322
 msgid "``*   item`` — ``* item``"
-msgstr ""
+msgstr "``*   item`` — ``* item``"
 
 #: ../../chat/toc.rst:323
 msgid "**Numbered lists**"
@@ -7834,23 +7845,24 @@ msgstr "Può modificare"
 
 #: ../../chat/toc.rst:324
 msgid "Organises items into an ordered list"
-msgstr ""
+msgstr "Organizza gli elementi in un elenco ordinato"
 
 #: ../../chat/toc.rst:325
 msgid "``1.  item``"
-msgstr ""
+msgstr "``1.  item``"
 
 #: ../../chat/toc.rst:326
 msgid "**Monospaced code blocks**"
-msgstr ""
+msgstr "**Blocchi di codice monospazio**"
 
 #: ../../chat/toc.rst:327
 msgid "Displays code in a separate monospaced block with a Copy button"
 msgstr ""
+"Visualizza il codice in un blocco monospazio separato con un pulsante Copia"
 
 #: ../../chat/toc.rst:340
 msgid "Unsupported Formatting"
-msgstr ""
+msgstr "Formattazione non supportata"
 
 #: ../../chat/toc.rst:342
 msgid ""
@@ -7858,6 +7870,10 @@ msgid ""
 "rules are not converted into formatted elements. They appear as plain "
 "text, preserving the characters the user typed in the conversation."
 msgstr ""
+"Intestazioni (#, ##, …), tabelle, immagini, elenchi di attività (- [ ]) e "
+"righe orizzontali non vengono convertiti in elementi formattati. Vengono "
+"visualizzati come testo semplice, conservando i caratteri digitati "
+"dall'utente nella conversazione."
 
 #: ../../chat/toc.rst:346
 msgid "View and Manage Shared Chat Files"
@@ -7871,6 +7887,11 @@ msgid ""
 "download, forward, or delete shared content without searching through the"
 " conversation history."
 msgstr ""
+"La **Media Gallery** è un pannello situato sul lato destro dello schermo "
+"quando si utilizza il modulo **Chats** in Carbonio. Offre una "
+"visualizzazione centralizzata dei file condivisi in una conversazione, "
+"consentendo di sfogliare, scaricare, inoltrare o eliminare i contenuti "
+"condivisi senza dover cercare nella cronologia della conversazione."
 
 #: ../../chat/toc.rst:350
 msgid ""
@@ -7879,14 +7900,19 @@ msgid ""
 "total number of available items. You can also filter files by sender and "
 "select multiple files to perform actions in bulk."
 msgstr ""
+"I contenuti condivisi sono organizzati in tre schede: **Images**, **Videos** "
+"e **Docs**. Ogni scheda mostra i file appartenenti alla rispettiva categoria "
+"e il numero totale di elementi disponibili. È inoltre possibile filtrare i "
+"file per mittente e selezionare più file per eseguire azioni in blocco."
 
 #: ../../chat/toc.rst:354
 msgid "View Shared Media"
-msgstr ""
+msgstr "Visualizza media condivisi"
 
 #: ../../chat/toc.rst:356
 msgid "Open **Chats** and select the conversation containing the shared files."
 msgstr ""
+"Apri **Chats** e seleziona la conversazione contenente i file condivisi."
 
 #: ../../chat/toc.rst:357
 msgid "Open the **Media Gallery**."
@@ -7894,29 +7920,33 @@ msgstr "Apri la cartella **Archivio**."
 
 #: ../../chat/toc.rst:358
 msgid "Select the relevant tab to view the shared content:"
-msgstr ""
+msgstr "Seleziona la scheda pertinente per visualizzare i contenuti condivisi:"
 
 #: ../../chat/toc.rst:360
 msgid "**Images**: Displays shared images in a grid for easy browsing."
 msgstr ""
+"**Images**: Visualizza le immagini condivise in una griglia per una facile "
+"navigazione."
 
 #: ../../chat/toc.rst:361
 msgid "**Videos**: Displays videos shared in the conversation."
-msgstr ""
+msgstr "**Video**: Visualizza i video condivisi nella conversazione."
 
 #: ../../chat/toc.rst:362
 msgid "**Docs**: Displays documents and other shared files."
-msgstr ""
+msgstr "**Docs**: Visualizza documenti e altri file condivisi."
 
 #: ../../chat/toc.rst:364
 msgid ""
 "Each tab displays the total number of files available in that category, "
 "helping you see how many items have been shared."
 msgstr ""
+"Ogni scheda mostra il numero totale di file disponibili in quella categoria, "
+"consentendoti di vedere quanti elementi sono stati condivisi."
 
 #: ../../chat/toc.rst:371
 msgid "Filter Files by Sender"
-msgstr ""
+msgstr "Filtra file per mittente"
 
 #: ../../chat/toc.rst:373
 msgid ""
@@ -7924,16 +7954,21 @@ msgid ""
 "**All** to view files shared by everyone, or **You** to view files you "
 "shared."
 msgstr ""
+"Utilizza il menu a discesa del mittente per filtrare i file in base a chi li "
+"ha condivisi. Seleziona **All** per visualizzare i file condivisi da tutti, "
+"oppure **You** per visualizzare i file condivisi da te."
 
 #: ../../chat/toc.rst:377
 msgid "Manage Multiple Files"
-msgstr ""
+msgstr "Gestisci più file"
 
 #: ../../chat/toc.rst:379
 msgid ""
 "The Media Gallery supports selecting multiple files to perform actions in"
 " bulk."
 msgstr ""
+"La Media Gallery consente di selezionare più file per eseguire azioni in "
+"blocco."
 
 #: ../../chat/toc.rst:381
 msgid "Open the relevant tab."
@@ -7949,11 +7984,11 @@ msgstr "Scegli la configurazione di condivisione."
 
 #: ../../chat/toc.rst:385
 msgid "**Download**: Download the selected files to your device."
-msgstr ""
+msgstr "**Download**: Scarica i file selezionati sul tuo dispositivo."
 
 #: ../../chat/toc.rst:386
 msgid "**Forward**: Forward the selected files."
-msgstr ""
+msgstr "**Forward**: Inoltra i file selezionati."
 
 #: ../../chat/toc.rst:387
 msgid "**Delete**: Delete the selected files."
@@ -7968,10 +8003,12 @@ msgid ""
 "In the Forward message dialog, enter a Chat name in the search field or "
 "select a Chat from the list."
 msgstr ""
+"Nella finestra di dialogo Inoltra messaggio, inserisci il nome di una Chat "
+"nel campo di ricerca o seleziona una Chat dall'elenco."
 
 #: ../../chat/toc.rst:394
 msgid "Select the checkbox next to the target Chat."
-msgstr ""
+msgstr "Seleziona la casella accanto alla Chat di destinazione."
 
 #: ../../chat/toc.rst:395
 msgid "Click **FORWARD** to send the selected files to the chosen Chat."
@@ -7992,16 +8029,21 @@ msgid ""
 "In the Delete attachments confirmation dialog, review the number of "
 "attachments to be deleted."
 msgstr ""
+"Nella finestra di conferma Elimina allegati, verifica il numero di allegati "
+"da eliminare."
 
 #: ../../chat/toc.rst:403
 msgid ""
 "Click **YES**, **DELETE ATTACHMENTS** to permanently delete the selected "
 "files and confirm the action."
 msgstr ""
+"Fai clic su **YES**, **DELETE ATTACHMENTS** per eliminare definitivamente i "
+"file selezionati e confermare l'operazione."
 
 #: ../../chat/toc.rst:404
 msgid "Alternatively, click **NO**, **CANCEL** to cancel the deletion."
 msgstr ""
+"In alternativa, fai clic su **NO**, **CANCEL** per annullare l'eliminazione."
 
 #: ../../chat/toc.rst:409
 msgid ""
@@ -8009,12 +8051,17 @@ msgid ""
 "any captions associated with the original messages will also be deleted "
 "from the conversation history."
 msgstr ""
+"Questa azione non può essere annullata. I file verranno rimossi "
+"definitivamente e tutte le didascalie associate ai messaggi originali "
+"saranno eliminate dalla cronologia della conversazione."
 
 #: ../../chat/toc.rst:414
 msgid ""
 "Use multi-selection to manage several files in a single operation instead"
 " of handling each file individually."
 msgstr ""
+"Usa la selezione multipla per gestire più file in un'unica operazione "
+"anziché trattare ogni file singolarmente."
 
 #: ../../chat/toc.rst:419
 msgid ""
@@ -12552,10 +12599,12 @@ msgid ""
 "You can generate authentication credentials in Carbonio webmail to sign "
 "in to Carbonio mobile applications, such as Mail, Chats."
 msgstr ""
+"Puoi generare credenziali di autenticazione in Carbonio webmail per accedere "
+"alle applicazioni mobili Carbonio, come Mail e Chats."
 
 #: ../../mobile_apps/app_authentication.rst:9
 msgid "Generate Authentication Credentials"
-msgstr ""
+msgstr "Genera credenziali di autenticazione"
 
 #: ../../mobile_apps/app_authentication.rst:11
 msgid "Sign in to **Carbonio webmail**."
@@ -12563,7 +12612,7 @@ msgstr "Componi un nuovo messaggio di posta in Carbonio webmail."
 
 #: ../../mobile_apps/app_authentication.rst:12
 msgid "Go to **Settings > AUTH > Mobile Apps**."
-msgstr ""
+msgstr "Vai su **Settings > AUTH > Mobile Apps**."
 
 #: ../../mobile_apps/app_authentication.rst:19
 msgid "Click **NEW AUTHENTICATION +**."
@@ -12586,6 +12635,10 @@ msgid ""
 " copy the text version of the QR code. Paste this text into the mobile "
 "application manually."
 msgstr ""
+"Apri l'applicazione mobile Carbonio sul tuo dispositivo e inquadra il QR "
+"code per autenticare l'app. In alternativa, fai clic su **COPY QR CODE** per "
+"copiare la versione testuale del QR code. Incolla questo testo nell'app "
+"mobile manualmente."
 
 #: ../../mobile_apps/app_authentication.rst:29
 msgid "Click **DONE** to complete the process."
@@ -12598,6 +12651,9 @@ msgid ""
 "automatically, generate a separate authentication credential specifically"
 " for that application."
 msgstr ""
+"Accedere a un'applicazione mobile Carbonio garantisce l'accesso all'altra. "
+"Se l'accesso all'altra non è automatico, genera una credenziale di "
+"autenticazione separata per quell'applicazione."
 
 #: ../../mobile_apps/chat_legacy.rst:7
 msgid "Carbonio Chats Legacy"

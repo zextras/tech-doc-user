@@ -8,17 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-23 11:18+0200\n"
+"POT-Creation-Date: 2026-10-30 16:02+0100\n"
 "PO-Revision-Date: 2026-10-23 09:32+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
-"Language-Team: gettext (generated) <https://translate.zextras.tools/projects/"
-"documentation/carbonio-user-guide/gettext/>\n"
 "Language: gettext\n"
+"Language-Team: gettext (generated) "
+"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
+"guide/gettext/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -399,8 +398,8 @@ msgid ""
 "The **Allowed senders list** and **Blocked senders list** let you control"
 " how incoming e‑mail is handled for your mailbox."
 msgstr ""
-"The **Allowed senders list** and **Blocked senders list** let you control "
-"how incoming e‑mail is handled for your mailbox."
+"The **Allowed senders list** and **Blocked senders list** let you control"
+" how incoming e‑mail is handled for your mailbox."
 
 #: ../../advanced_email_management/toc.rst:126
 msgid ""
@@ -415,8 +414,8 @@ msgid ""
 "Add unwanted senders to the **Blocked senders list** to automatically "
 "move their messages to the spam folder."
 msgstr ""
-"Add unwanted senders to the **Blocked senders list** to automatically move "
-"their messages to the spam folder."
+"Add unwanted senders to the **Blocked senders list** to automatically "
+"move their messages to the spam folder."
 
 #: ../../advanced_email_management/toc.rst:130
 msgid "Access the allowed and blocked senders lists"
@@ -439,7 +438,8 @@ msgid ""
 "Scroll to the **Allowed senders list** and **Blocked senders list** "
 "sections."
 msgstr ""
-"Scroll to the **Allowed senders list** and **Blocked senders list** sections."
+"Scroll to the **Allowed senders list** and **Blocked senders list** "
+"sections."
 
 #: ../../advanced_email_management/toc.rst:138
 msgid ""
@@ -458,8 +458,8 @@ msgid ""
 "Add an e‑mail address to the **Allowed senders list** to **always** allow"
 " messages from that sender."
 msgstr ""
-"Add an e‑mail address to the **Allowed senders list** to **always** allow "
-"messages from that sender."
+"Add an e‑mail address to the **Allowed senders list** to **always** allow"
+" messages from that sender."
 
 #: ../../advanced_email_management/toc.rst:149
 #: ../../advanced_email_management/toc.rst:165
@@ -497,8 +497,8 @@ msgid ""
 "Add john.smith@example.com to the Allowed senders list. Future messages "
 "from john.smith@example.com are delivered directly to your inbox."
 msgstr ""
-"Add john.smith@example.com to the Allowed senders list. Future messages from "
-"john.smith@example.com are delivered directly to your inbox."
+"Add john.smith@example.com to the Allowed senders list. Future messages "
+"from john.smith@example.com are delivered directly to your inbox."
 
 #: ../../advanced_email_management/toc.rst:161
 msgid "Add a blocked sender"
@@ -509,8 +509,8 @@ msgid ""
 "Add an e‑mail address to the **Blocked senders list** to automatically "
 "move messages from that sender to the Spam folder."
 msgstr ""
-"Add an e‑mail address to the **Blocked senders list** to automatically move "
-"messages from that sender to the Spam folder."
+"Add an e‑mail address to the **Blocked senders list** to automatically "
+"move messages from that sender to the Spam folder."
 
 #: ../../advanced_email_management/toc.rst:166
 msgid ""
@@ -523,8 +523,8 @@ msgid ""
 "The address is added immediately, and future messages from that sender "
 "are automatically moved to the Spam folder."
 msgstr ""
-"The address is added immediately, and future messages from that sender are "
-"automatically moved to the Spam folder."
+"The address is added immediately, and future messages from that sender "
+"are automatically moved to the Spam folder."
 
 #: ../../advanced_email_management/toc.rst:174
 msgid ""
@@ -1542,11 +1542,11 @@ msgid ""
 "This reduces manual steps and prevents errors such as sending from the "
 "wrong account or omitting the signature."
 msgstr ""
-"When composing emails from shared mailbox folders, Carbonio automatically "
-"selects the correct sender account and applies the corresponding signature "
-"(provided a persona linked to that account has been created). This reduces "
-"manual steps and prevents errors such as sending from the wrong account or "
-"omitting the signature."
+"When composing emails from shared mailbox folders, Carbonio automatically"
+" selects the correct sender account and applies the corresponding "
+"signature (provided a persona linked to that account has been created). "
+"This reduces manual steps and prevents errors such as sending from the "
+"wrong account or omitting the signature."
 
 #: ../../advanced_email_management/toc.rst:508
 msgid ""
@@ -1554,9 +1554,9 @@ msgid ""
 "(persona) can have its own signature. If you don't create a persona for a"
 " shared account, the signature won't be inserted automatically."
 msgstr ""
-"You must create a persona for each signature. Each sender identity (persona) "
-"can have its own signature. If you don't create a persona for a shared "
-"account, the signature won't be inserted automatically."
+"You must create a persona for each signature. Each sender identity "
+"(persona) can have its own signature. If you don't create a persona for a"
+" shared account, the signature won't be inserted automatically."
 
 #: ../../advanced_email_management/toc.rst:512
 msgid "1. Automatic Sender Identity Selection"
@@ -1569,7 +1569,8 @@ msgid ""
 "on:"
 msgstr ""
 "When you compose a **new email** or **appointment** from a folder in a "
-"**shared mailbox**, the system detects the correct sender identity based on:"
+"**shared mailbox**, the system detects the correct sender identity based "
+"on:"
 
 #: ../../advanced_email_management/toc.rst:516
 msgid "The **folder** you are composing from."
@@ -1604,13 +1605,12 @@ msgid ""
 "The system automatically applies the correct signature based on the "
 "selected persona."
 msgstr ""
-"The system automatically applies the correct signature based on the selected "
-"persona."
+"The system automatically applies the correct signature based on the "
+"selected persona."
 
 #: ../../advanced_email_management/toc.rst:528
 msgid "If no signature is associated with the persona, no signature is applied."
-msgstr ""
-"If no signature is associated with the persona, no signature is applied."
+msgstr "If no signature is associated with the persona, no signature is applied."
 
 #: ../../advanced_email_management/toc.rst:532 ../../chat/toc.rst:250
 msgid "How It Works"
@@ -1637,8 +1637,8 @@ msgid ""
 "Pre-fills the **From** field with the persona corresponding to the shared"
 " mailbox address."
 msgstr ""
-"Pre-fills the **From** field with the persona corresponding to the shared "
-"mailbox address."
+"Pre-fills the **From** field with the persona corresponding to the shared"
+" mailbox address."
 
 #: ../../advanced_email_management/toc.rst:542
 msgid "Applies the **signature** associated with that persona (if available)."
@@ -1894,9 +1894,9 @@ msgstr ""
 "When you have delegated read/write access to a shared mailbox, you can "
 "create a dedicated signature for messages sent from that mailbox. To "
 "configure a signature for a shared mailbox, you must first create a "
-"**persona** associated with the shared mailbox. The persona identifies the "
-"shared mailbox as the sender identity and provides the context in which the "
-"mailbox-specific signature can be configured and used."
+"**persona** associated with the shared mailbox. The persona identifies "
+"the shared mailbox as the sender identity and provides the context in "
+"which the mailbox-specific signature can be configured and used."
 
 #: ../../advanced_email_management/toc.rst:631
 #: ../../mobile_apps/mail_app.rst:179
@@ -1909,9 +1909,9 @@ msgid ""
 "the shared mailbox hr@example.com. When she sends messages from that "
 "mailbox, they should use the HR department signature."
 msgstr ""
-"Suppose Mary (mary@example.com) has delegated full read/write access to the "
-"shared mailbox hr@example.com. When she sends messages from that mailbox, "
-"they should use the HR department signature."
+"Suppose Mary (mary@example.com) has delegated full read/write access to "
+"the shared mailbox hr@example.com. When she sends messages from that "
+"mailbox, they should use the HR department signature."
 
 #: ../../advanced_email_management/toc.rst:636
 msgid "Account, Persona, and Signature Relationship"
@@ -1924,8 +1924,8 @@ msgid ""
 "the **HR signature** is applied to messages sent through the persona."
 msgstr ""
 "In this setup, Mary is the delegated user, hr@example.com is the shared "
-"mailbox, the **HR Mailbox** persona represents that sender identity, and the "
-"**HR signature** is applied to messages sent through the persona."
+"mailbox, the **HR Mailbox** persona represents that sender identity, and "
+"the **HR signature** is applied to messages sent through the persona."
 
 #: ../../advanced_email_management/toc.rst:642
 msgid "Configure a Shared Mailbox Persona and Signature"
@@ -1938,10 +1938,10 @@ msgid ""
 "with a specific email account, making it easier to switch between roles "
 "when composing and sending messages."
 msgstr ""
-"The Persona feature allows you to create different professional identities "
-"or roles for sending emails. Each persona can be associated with a specific "
-"email account, making it easier to switch between roles when composing and "
-"sending messages."
+"The Persona feature allows you to create different professional "
+"identities or roles for sending emails. Each persona can be associated "
+"with a specific email account, making it easier to switch between roles "
+"when composing and sending messages."
 
 #: ../../advanced_email_management/toc.rst:648
 msgid "1. Create a Persona for the Shared Mailbox"
@@ -1980,24 +1980,24 @@ msgid ""
 "**From Address**: Select the shared mailbox (example, hr@example.com) "
 "from the dropdown."
 msgstr ""
-"**From Address**: Select the shared mailbox (example, hr@example.com) from "
-"the dropdown."
+"**From Address**: Select the shared mailbox (example, hr@example.com) "
+"from the dropdown."
 
 #: ../../advanced_email_management/toc.rst:658
 msgid ""
 "**Reply-To Address**: (Optional) Set to the shared mailbox if replies "
 "should go there."
 msgstr ""
-"**Reply-To Address**: (Optional) Set to the shared mailbox if replies should "
-"go there."
+"**Reply-To Address**: (Optional) Set to the shared mailbox if replies "
+"should go there."
 
 #: ../../advanced_email_management/toc.rst:659
 msgid ""
 "**Choose Account**: Similar to address account details will be available "
 "in dropdown."
 msgstr ""
-"**Choose Account**: Similar to address account details will be available in "
-"dropdown."
+"**Choose Account**: Similar to address account details will be available "
+"in dropdown."
 
 #: ../../advanced_email_management/toc.rst:661
 #: ../../advanced_email_management/toc.rst:679 ../../contacts/toc.rst:293
@@ -2029,8 +2029,8 @@ msgid ""
 "**Signature Content**: Enter the text or HTML for the signature (example,"
 " contact details for the HR team)."
 msgstr ""
-"**Signature Content**: Enter the text or HTML for the signature (example, "
-"contact details for the HR team)."
+"**Signature Content**: Enter the text or HTML for the signature (example,"
+" contact details for the HR team)."
 
 #: ../../advanced_email_management/toc.rst:688
 msgid "3. Assign Signatures to Accounts and Personas"
@@ -2120,9 +2120,9 @@ msgid ""
 "sent without a signature."
 msgstr ""
 "When the **HR Persona** is linked to the **HR Mailbox**, its signature "
-"settings are automatically applied. New emails sent using the **HR Persona** "
-"include the **HR Signature**, while replies and forwards are sent without a "
-"signature."
+"settings are automatically applied. New emails sent using the **HR "
+"Persona** include the **HR Signature**, while replies and forwards are "
+"sent without a signature."
 
 #: ../../advanced_email_management/toc.rst:729
 msgid "4. Send Email from the Shared Mailbox Persona"
@@ -2137,8 +2137,8 @@ msgid ""
 "In the **From** field, click the dropdown and select the persona "
 "(example, HR Mailbox)."
 msgstr ""
-"In the **From** field, click the dropdown and select the persona (example, "
-"HR Mailbox)."
+"In the **From** field, click the dropdown and select the persona "
+"(example, HR Mailbox)."
 
 #: ../../advanced_email_management/toc.rst:734
 msgid ""
@@ -2151,8 +2151,8 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:735
 msgid "The signature associated with the persona will be inserted into the email."
 msgstr ""
-"Tutti i messaggi con il tag selezionato verranno visualizzati nel Pannello "
-"principale."
+"Tutti i messaggi con il tag selezionato verranno visualizzati nel "
+"Pannello principale."
 
 #: ../../advanced_email_management/toc.rst:742
 msgid ""
@@ -2161,10 +2161,10 @@ msgid ""
 "configured **HR Signature** is inserted automatically for new messages "
 "according to the signature usage settings."
 msgstr ""
-"After selecting the **HR Mailbox** persona, compose and send the message as "
-"usual. The email is sent from the shared mailbox address, and the configured "
-"**HR Signature** is inserted automatically for new messages according to the "
-"signature usage settings."
+"After selecting the **HR Mailbox** persona, compose and send the message "
+"as usual. The email is sent from the shared mailbox address, and the "
+"configured **HR Signature** is inserted automatically for new messages "
+"according to the signature usage settings."
 
 #: ../../advanced_email_management/toc.rst:745
 msgid "Removing Personas"
@@ -4308,10 +4308,10 @@ msgid ""
 "folders back into your mailbox. This functionality is accessible directly"
 " from the folder tree context menu."
 msgstr ""
-"The **Mail Folder Import and Export** feature allows you to archive email "
-"folders in supported formats (TGZ, ZIP) and import previously exported "
-"folders back into your mailbox. This functionality is accessible directly "
-"from the folder tree context menu."
+"The **Mail Folder Import and Export** feature allows you to archive email"
+" folders in supported formats (TGZ, ZIP) and import previously exported "
+"folders back into your mailbox. This functionality is accessible directly"
+" from the folder tree context menu."
 
 #: ../../basic_email_management/toc.rst:393
 msgid "How to Import a Mail Folder"
@@ -4389,9 +4389,9 @@ msgid ""
 "menu, it may be due to **Administrator restrictions** (feature disabled "
 "for your account)."
 msgstr ""
-"If the **Import** or **Export** option is not available in the context menu, "
-"it may be due to **Administrator restrictions** (feature disabled for your "
-"account)."
+"If the **Import** or **Export** option is not available in the context "
+"menu, it may be due to **Administrator restrictions** (feature disabled "
+"for your account)."
 
 #: ../../basic_email_management/toc.rst:442
 msgid "Best Practices"
@@ -5252,7 +5252,7 @@ msgstr "Formato di data"
 msgid "Language"
 msgstr "Language"
 
-#: ../../browsing_emails/toc.rst:1
+#: ../../browsing_emails/toc.rst:1 ../../chat/toc.rst:288
 msgid "Format"
 msgstr "Format"
 
@@ -7410,6 +7410,361 @@ msgstr ""
 "This feature significantly improves navigation within chats, letting you "
 "find information in seconds instead of manually searching through entire "
 "conversations."
+
+#: ../../chat/toc.rst:273
+msgid "Supported Markdown Formatting"
+msgstr ""
+
+#: ../../chat/toc.rst:275
+msgid ""
+"Carbonio Chats supports a selection of Markdown syntax elements that you "
+"can use to format messages and make them easier to read. You can "
+"emphasise text, share links, organise information into lists, quote text,"
+" and include code snippets directly in your conversations."
+msgstr ""
+
+#: ../../chat/toc.rst:277
+msgid ""
+"The following sections describe the supported formatting options and "
+"their syntax, as well as the elements that are not supported and are "
+"therefore displayed as plain text."
+msgstr ""
+
+#: ../../chat/toc.rst:281
+msgid "Supported Formatting Options"
+msgstr ""
+
+#: ../../chat/toc.rst:283
+msgid "The Chat supports the following inline and block formatting options:"
+msgstr ""
+
+#: ../../chat/toc.rst:289
+msgid "Description"
+msgstr ""
+
+#: ../../chat/toc.rst:290
+msgid "Syntax"
+msgstr ""
+
+#: ../../chat/toc.rst:291
+#, fuzzy
+msgid "**Bold**"
+msgstr "Both"
+
+#: ../../chat/toc.rst:292
+msgid "Displays text in bold"
+msgstr ""
+
+#: ../../chat/toc.rst:293
+msgid "``**text**`` — ``__text__``"
+msgstr ""
+
+#: ../../chat/toc.rst:294
+#, fuzzy
+msgid "**Italic**"
+msgstr "*🇮🇹 Italiano*"
+
+#: ../../chat/toc.rst:295
+msgid "Displays text in italics"
+msgstr ""
+
+#: ../../chat/toc.rst:296
+msgid "``*text*`` — ``_text_``"
+msgstr ""
+
+#: ../../chat/toc.rst:297
+msgid "**Strikethrough**"
+msgstr ""
+
+#: ../../chat/toc.rst:298
+msgid "Displays text with a line through it"
+msgstr ""
+
+#: ../../chat/toc.rst:299
+msgid "``~~text~~``"
+msgstr ""
+
+#: ../../chat/toc.rst:300
+msgid "**Inline code with background**"
+msgstr ""
+
+#: ../../chat/toc.rst:301
+msgid "Displays text in a monospaced font"
+msgstr ""
+
+#: ../../chat/toc.rst:302
+msgid "``` code ```"
+msgstr ""
+
+#: ../../chat/toc.rst:308
+msgid "**Link with custom label**"
+msgstr ""
+
+#: ../../chat/toc.rst:309
+msgid "Converts supported link syntax into clickable links"
+msgstr ""
+
+#: ../../chat/toc.rst:310
+msgid "``[label](url)``"
+msgstr ""
+
+#: ../../chat/toc.rst:311
+#, fuzzy
+msgid "**Autolinks**"
+msgstr "**Options:**"
+
+#: ../../chat/toc.rst:312
+msgid "Automatically converts recognised URLs into clickable links"
+msgstr ""
+
+#: ../../chat/toc.rst:313
+#, fuzzy
+msgid "``<https://example.com>``"
+msgstr "`johnn@example.com`"
+
+#: ../../chat/toc.rst:314
+msgid "**mailto autolink**"
+msgstr ""
+
+#: ../../chat/toc.rst:315
+msgid "Automatically converts email addresses into clickable mailto links"
+msgstr ""
+
+#: ../../chat/toc.rst:316
+#, fuzzy
+msgid "``name@example.com``"
+msgstr "`johnn@example.com`"
+
+#: ../../chat/toc.rst:317
+#, fuzzy
+msgid "**Blockquotes**"
+msgstr "Both"
+
+#: ../../chat/toc.rst:318
+msgid "Displays quoted text as a block"
+msgstr ""
+
+#: ../../chat/toc.rst:319
+msgid "``> quote``"
+msgstr ""
+
+#: ../../chat/toc.rst:320
+msgid "**Bulleted lists**"
+msgstr ""
+
+#: ../../chat/toc.rst:321
+msgid "Organises items into an unordered list"
+msgstr ""
+
+#: ../../chat/toc.rst:322
+msgid "``*   item`` — ``* item``"
+msgstr ""
+
+#: ../../chat/toc.rst:323
+#, fuzzy
+msgid "**Numbered lists**"
+msgstr "Can Edit"
+
+#: ../../chat/toc.rst:324
+msgid "Organises items into an ordered list"
+msgstr ""
+
+#: ../../chat/toc.rst:325
+msgid "``1.  item``"
+msgstr ""
+
+#: ../../chat/toc.rst:326
+msgid "**Monospaced code blocks**"
+msgstr ""
+
+#: ../../chat/toc.rst:327
+msgid "Displays code in a separate monospaced block with a Copy button"
+msgstr ""
+
+#: ../../chat/toc.rst:340
+msgid "Unsupported Formatting"
+msgstr ""
+
+#: ../../chat/toc.rst:342
+msgid ""
+"Headings (#, ##, …), tables, images, task lists (- [ ]), and horizontal "
+"rules are not converted into formatted elements. They appear as plain "
+"text, preserving the characters the user typed in the conversation."
+msgstr ""
+
+#: ../../chat/toc.rst:346
+#, fuzzy
+msgid "View and Manage Shared Chat Files"
+msgstr "Ripristino di un calendario eliminato"
+
+#: ../../chat/toc.rst:348
+msgid ""
+"The **Media Gallery** is a panel located on the right side of the screen "
+"when you use the **Chats** module in Carbonio. It provides a centralised "
+"view of the files shared in a conversation, allowing you to browse, "
+"download, forward, or delete shared content without searching through the"
+" conversation history."
+msgstr ""
+
+#: ../../chat/toc.rst:350
+msgid ""
+"Shared content is organised into three tabs: **Images**, **Videos**, and "
+"**Docs**. Each tab displays the files belonging to its category and the "
+"total number of available items. You can also filter files by sender and "
+"select multiple files to perform actions in bulk."
+msgstr ""
+
+#: ../../chat/toc.rst:354
+msgid "View Shared Media"
+msgstr ""
+
+#: ../../chat/toc.rst:356
+msgid "Open **Chats** and select the conversation containing the shared files."
+msgstr ""
+
+#: ../../chat/toc.rst:357
+#, fuzzy
+msgid "Open the **Media Gallery**."
+msgstr "Open the **Archive** folder."
+
+#: ../../chat/toc.rst:358
+msgid "Select the relevant tab to view the shared content:"
+msgstr ""
+
+#: ../../chat/toc.rst:360
+msgid "**Images**: Displays shared images in a grid for easy browsing."
+msgstr ""
+
+#: ../../chat/toc.rst:361
+msgid "**Videos**: Displays videos shared in the conversation."
+msgstr ""
+
+#: ../../chat/toc.rst:362
+msgid "**Docs**: Displays documents and other shared files."
+msgstr ""
+
+#: ../../chat/toc.rst:364
+msgid ""
+"Each tab displays the total number of files available in that category, "
+"helping you see how many items have been shared."
+msgstr ""
+
+#: ../../chat/toc.rst:371
+msgid "Filter Files by Sender"
+msgstr ""
+
+#: ../../chat/toc.rst:373
+msgid ""
+"Use the sender dropdown to filter files by who shared them. Select "
+"**All** to view files shared by everyone, or **You** to view files you "
+"shared."
+msgstr ""
+
+#: ../../chat/toc.rst:377
+msgid "Manage Multiple Files"
+msgstr ""
+
+#: ../../chat/toc.rst:379
+msgid ""
+"The Media Gallery supports selecting multiple files to perform actions in"
+" bulk."
+msgstr ""
+
+#: ../../chat/toc.rst:381
+#, fuzzy
+msgid "Open the relevant tab."
+msgstr "Lavorare con i contatti"
+
+#: ../../chat/toc.rst:382
+#, fuzzy
+msgid "Select the files you want to manage."
+msgstr "Select the filter you want to apply from the list."
+
+#: ../../chat/toc.rst:383
+#, fuzzy
+msgid "Choose the required action:"
+msgstr "Choose the share configuration."
+
+#: ../../chat/toc.rst:385
+msgid "**Download**: Download the selected files to your device."
+msgstr ""
+
+#: ../../chat/toc.rst:386
+msgid "**Forward**: Forward the selected files."
+msgstr ""
+
+#: ../../chat/toc.rst:387
+#, fuzzy
+msgid "**Delete**: Delete the selected files."
+msgstr "**Is contained in**: Limit the search to selected folders."
+
+#: ../../chat/toc.rst:391
+#, fuzzy
+msgid "Forward"
+msgstr "Format"
+
+#: ../../chat/toc.rst:393
+msgid ""
+"In the Forward message dialog, enter a Chat name in the search field or "
+"select a Chat from the list."
+msgstr ""
+
+#: ../../chat/toc.rst:394
+msgid "Select the checkbox next to the target Chat."
+msgstr ""
+
+#: ../../chat/toc.rst:395
+#, fuzzy
+msgid "Click **FORWARD** to send the selected files to the chosen Chat."
+msgstr "Click **FORWARD** to send the appointment to the specified email address."
+
+#: ../../chat/toc.rst:399
+#, fuzzy
+msgid "Delete Files"
+msgstr "Select the file."
+
+#: ../../chat/toc.rst:401
+#, fuzzy
+msgid "Select the files you want to delete and click **Delete**."
+msgstr "Select the filter you want to delete from the list."
+
+#: ../../chat/toc.rst:402
+msgid ""
+"In the Delete attachments confirmation dialog, review the number of "
+"attachments to be deleted."
+msgstr ""
+
+#: ../../chat/toc.rst:403
+msgid ""
+"Click **YES**, **DELETE ATTACHMENTS** to permanently delete the selected "
+"files and confirm the action."
+msgstr ""
+
+#: ../../chat/toc.rst:404
+msgid "Alternatively, click **NO**, **CANCEL** to cancel the deletion."
+msgstr ""
+
+#: ../../chat/toc.rst:409
+msgid ""
+"This action cannot be undone. The files will be permanently removed, and "
+"any captions associated with the original messages will also be deleted "
+"from the conversation history."
+msgstr ""
+
+#: ../../chat/toc.rst:414
+msgid ""
+"Use multi-selection to manage several files in a single operation instead"
+" of handling each file individually."
+msgstr ""
+
+#: ../../chat/toc.rst:419
+#, fuzzy
+msgid ""
+"The available actions and their effects may depend on the file type and "
+"your permissions in the conversation."
+msgstr ""
+"The reactions available and the participants shown may vary depending on "
+"the conversation and your permissions."
 
 #: ../../composing_emails/toc.rst:7
 msgid "Composing Emails"
@@ -9796,7 +10151,8 @@ msgid ""
 "composer."
 msgstr ""
 "When you share files from **Files & Docs**, Carbonio checks whether the "
-"selected file can be sent as an email attachment before opening the composer."
+"selected file can be sent as an email attachment before opening the "
+"composer."
 
 #: ../../files/toc.rst:362
 msgid "Attachment size check"
@@ -9817,18 +10173,18 @@ msgid ""
 "original size. Carbonio then compares the estimated attachment size with "
 "the **maximum attachment size configured on the Carbonio server**."
 msgstr ""
-"The estimate accounts for the **encoding overhead** required to include the "
-"file in an email message, rather than comparing only the file's original "
-"size. Carbonio then compares the estimated attachment size with the "
-"**maximum attachment size configured on the Carbonio server**."
+"The estimate accounts for the **encoding overhead** required to include "
+"the file in an email message, rather than comparing only the file's "
+"original size. Carbonio then compares the estimated attachment size with "
+"the **maximum attachment size configured on the Carbonio server**."
 
 #: ../../files/toc.rst:372
 msgid ""
 "A file that appears to be within the configured limit may still exceed it"
 " after encoding overhead is taken into account."
 msgstr ""
-"A file that appears to be within the configured limit may still exceed it "
-"after encoding overhead is taken into account."
+"A file that appears to be within the configured limit may still exceed it"
+" after encoding overhead is taken into account."
 
 #: ../../files/toc.rst:375
 msgid ""
@@ -9838,9 +10194,9 @@ msgid ""
 "problem and available alternative."
 msgstr ""
 "If the estimated size is within the applicable limit, the normal email "
-"composition flow can continue. If it exceeds the limit, Carbonio prevents "
-"the attachment from being sent and displays a warning explaining the problem "
-"and available alternative."
+"composition flow can continue. If it exceeds the limit, Carbonio prevents"
+" the attachment from being sent and displays a warning explaining the "
+"problem and available alternative."
 
 #: ../../files/toc.rst:381
 msgid "Large-file warning"
@@ -9853,8 +10209,8 @@ msgid ""
 " replaced with this message:"
 msgstr ""
 "When the selected file is too large to send as a conventional email "
-"attachment, the previous generic **Something went wrong** notification is "
-"replaced with this message:"
+"attachment, the previous generic **Something went wrong** notification is"
+" replaced with this message:"
 
 #: ../../files/toc.rst:387
 msgid ""
@@ -9879,10 +10235,10 @@ msgid ""
 "**OK**. It remains visible so users have time to read the reason for the "
 "failure and the instructions for sharing the file another way."
 msgstr ""
-"The warning snackbar stays visible and does not disappear automatically. It "
-"includes an **OK** action and can be dismissed only by selecting **OK**. It "
-"remains visible so users have time to read the reason for the failure and "
-"the instructions for sharing the file another way."
+"The warning snackbar stays visible and does not disappear automatically. "
+"It includes an **OK** action and can be dismissed only by selecting "
+"**OK**. It remains visible so users have time to read the reason for the "
+"failure and the instructions for sharing the file another way."
 
 #: ../../files/toc.rst:405
 msgid "How to share an oversized file"
@@ -9921,8 +10277,8 @@ msgid ""
 "Using a Smart Link lets users share a large file without exceeding the "
 "email attachment-size limit."
 msgstr ""
-"Using a Smart Link lets users share a large file without exceeding the email "
-"attachment-size limit."
+"Using a Smart Link lets users share a large file without exceeding the "
+"email attachment-size limit."
 
 #: ../../files/toc.rst:432
 msgid "Sending an Email with a Link to a File"
@@ -10467,9 +10823,10 @@ msgid ""
 "permissions."
 msgstr ""
 "The **Transfer ownership** feature allows a file or folder owner to "
-"permanently transfer ownership of one or more items to another user. After "
-"the transfer, the selected user becomes the new owner of the items, while "
-"the previous owner remains a collaborator with editing permissions."
+"permanently transfer ownership of one or more items to another user. "
+"After the transfer, the selected user becomes the new owner of the items,"
+" while the previous owner remains a collaborator with editing "
+"permissions."
 
 #: ../../files/toc.rst:666
 msgid "Before you begin"
@@ -10492,8 +10849,8 @@ msgid ""
 "After the transfer, the previous owner remains a collaborator with "
 "editing and writing permissions."
 msgstr ""
-"After the transfer, the previous owner remains a collaborator with editing "
-"and writing permissions."
+"After the transfer, the previous owner remains a collaborator with "
+"editing and writing permissions."
 
 #: ../../files/toc.rst:672
 msgid "The recipient cannot refuse the transfer."
@@ -10508,7 +10865,8 @@ msgid ""
 "You can initiate a transfer from several locations in the **Files** "
 "module:"
 msgstr ""
-"You can initiate a transfer from several locations in the **Files** module:"
+"You can initiate a transfer from several locations in the **Files** "
+"module:"
 
 #: ../../files/toc.rst:679
 msgid "Right‑click a file or folder."
@@ -10544,8 +10902,7 @@ msgstr "Click **NEW GROUP**."
 
 #: ../../files/toc.rst:689
 msgid "In the **Transfer ownership** dialog, search for and select the new owner."
-msgstr ""
-"In the **Transfer ownership** dialog, search for and select the new owner."
+msgstr "In the **Transfer ownership** dialog, search for and select the new owner."
 
 #: ../../files/toc.rst:690
 msgid "Wait for the quota check to complete."
@@ -10560,7 +10917,8 @@ msgid ""
 "A confirmation message is displayed once the transfer finishes "
 "successfully."
 msgstr ""
-"A confirmation message is displayed once the transfer finishes successfully."
+"A confirmation message is displayed once the transfer finishes "
+"successfully."
 
 #: ../../files/toc.rst:696
 msgid "Transfer‑ownership dialog"
@@ -10587,7 +10945,8 @@ msgid ""
 "The **Transfer** button remains disabled until a valid recipient is "
 "chosen."
 msgstr ""
-"The **Transfer** button remains disabled until a valid recipient is chosen."
+"The **Transfer** button remains disabled until a valid recipient is "
+"chosen."
 
 #: ../../files/toc.rst:709
 msgid "You can close the dialog by:"
@@ -10614,8 +10973,8 @@ msgid ""
 "Before the transfer completes, Carbonio checks that the recipient has "
 "enough available quota to receive the selected items. The dialog shows:"
 msgstr ""
-"Before the transfer completes, Carbonio checks that the recipient has enough "
-"available quota to receive the selected items. The dialog shows:"
+"Before the transfer completes, Carbonio checks that the recipient has "
+"enough available quota to receive the selected items. The dialog shows:"
 
 #: ../../files/toc.rst:721
 msgid "A quota warning if the receiver does not have sufficient space."
@@ -10663,8 +11022,9 @@ msgid ""
 " ownership of items to you. You’ll find them in folder "
 "johnn@example.com.``"
 msgstr ""
-"The recipient receives a message such as: ``johnn@example.com transferred "
-"ownership of items to you. You’ll find them in folder johnn@example.com.``"
+"The recipient receives a message such as: ``johnn@example.com transferred"
+" ownership of items to you. You’ll find them in folder "
+"johnn@example.com.``"
 
 #: ../../files/toc.rst:738
 msgid ""
@@ -10685,10 +11045,10 @@ msgid ""
 "appear under **Shared with me** as a system folder labeled with the "
 "previous owner’s e‑mail address."
 msgstr ""
-"Initially, the transferred items may appear in the recipient’s *Files* view "
-"with the original owner’s name. After a page refresh, the items appear under "
-"**Shared with me** as a system folder labeled with the previous owner’s e‑"
-"mail address."
+"Initially, the transferred items may appear in the recipient’s *Files* "
+"view with the original owner’s name. After a page refresh, the items "
+"appear under **Shared with me** as a system folder labeled with the "
+"previous owner’s e‑mail address."
 
 #: ../../files/toc.rst:750
 msgid ""
@@ -10699,8 +11059,8 @@ msgid ""
 msgstr ""
 "The folder behaves like any standard folder: all normal file and folder "
 "actions are still available. If the same user receives several ownership "
-"transfers from the same owner at different times, Carbonio creates separate "
-"folders with unique names, example:"
+"transfers from the same owner at different times, Carbonio creates "
+"separate folders with unique names, example:"
 
 #: ../../files/toc.rst:754
 msgid "`johnn@example.com`"
@@ -11822,6 +12182,66 @@ msgstr "Silenzia le notifiche di una chat"
 msgid "Mobile Apps"
 msgstr "Mobile Apps"
 
+#: ../../mobile_apps/app_authentication.rst:3
+#, fuzzy
+msgid "Carbonio App Authentication"
+msgstr "Carbonio Mobile Applications"
+
+#: ../../mobile_apps/app_authentication.rst:5
+msgid ""
+"You can generate authentication credentials in Carbonio webmail to sign "
+"in to Carbonio mobile applications, such as Mail, Chats."
+msgstr ""
+
+#: ../../mobile_apps/app_authentication.rst:9
+msgid "Generate Authentication Credentials"
+msgstr ""
+
+#: ../../mobile_apps/app_authentication.rst:11
+#, fuzzy
+msgid "Sign in to **Carbonio webmail**."
+msgstr "Compose a new email in Carbonio webmail."
+
+#: ../../mobile_apps/app_authentication.rst:12
+msgid "Go to **Settings > AUTH > Mobile Apps**."
+msgstr ""
+
+#: ../../mobile_apps/app_authentication.rst:19
+#, fuzzy
+msgid "Click **NEW AUTHENTICATION +**."
+msgstr "Access without authentication"
+
+#: ../../mobile_apps/app_authentication.rst:20
+#, fuzzy
+msgid "Enter a description for the authentication credential to identify it."
+msgstr "Insert a description for the link and an expiration date."
+
+#: ../../mobile_apps/app_authentication.rst:21
+#, fuzzy
+msgid "Click **CREATE PASSWORD**. A QR code is generated."
+msgstr "Click on **Enabled**."
+
+#: ../../mobile_apps/app_authentication.rst:22
+msgid ""
+"Open the Carbonio mobile application on your device and scan the QR code "
+"to authenticate the application. Alternatively, click **COPY QR CODE** to"
+" copy the text version of the QR code. Paste this text into the mobile "
+"application manually."
+msgstr ""
+
+#: ../../mobile_apps/app_authentication.rst:29
+#, fuzzy
+msgid "Click **DONE** to complete the process."
+msgstr "Click **EDIT** to confirm the change."
+
+#: ../../mobile_apps/app_authentication.rst:34
+msgid ""
+"Signing in to one Carbonio mobile application also grants access to the "
+"other application. If access to the other application is not granted "
+"automatically, generate a separate authentication credential specifically"
+" for that application."
+msgstr ""
+
 #: ../../mobile_apps/chat_legacy.rst:7
 msgid "Carbonio Chats Legacy"
 msgstr "Carbonio Chats App"
@@ -12213,10 +12633,10 @@ msgid ""
 "exchange instant messages, share files, search conversations, organize "
 "group chats, and participate in video meetings."
 msgstr ""
-"The **Carbonio Chats** app provides a fast and convenient way to communicate "
-"and collaborate from your mobile device. You can use it to exchange instant "
-"messages, share files, search conversations, organize group chats, and "
-"participate in video meetings."
+"The **Carbonio Chats** app provides a fast and convenient way to "
+"communicate and collaborate from your mobile device. You can use it to "
+"exchange instant messages, share files, search conversations, organize "
+"group chats, and participate in video meetings."
 
 #: ../../mobile_apps/chats_app.rst:6
 msgid ""
@@ -12241,8 +12661,8 @@ msgid ""
 "Select **New Group** to create a group or **Single conversation** for one"
 " person."
 msgstr ""
-"Select **New Group** to create a group or **Single conversation** for one "
-"person."
+"Select **New Group** to create a group or **Single conversation** for one"
+" person."
 
 #: ../../mobile_apps/chats_app.rst:15
 msgid "Search for users by name and select them."
@@ -12265,8 +12685,8 @@ msgid ""
 "Carbonio Chats lets you share files from your mobile device or from "
 "Carbonio Files."
 msgstr ""
-"Carbonio Chats lets you share files from your mobile device or from Carbonio "
-"Files."
+"Carbonio Chats lets you share files from your mobile device or from "
+"Carbonio Files."
 
 #: ../../mobile_apps/chats_app.rst:32
 msgid "Send a File from Your Device"
@@ -12358,7 +12778,8 @@ msgid ""
 "You can edit a message after sending it, when message editing is "
 "supported."
 msgstr ""
-"You can edit a message after sending it, when message editing is supported."
+"You can edit a message after sending it, when message editing is "
+"supported."
 
 #: ../../mobile_apps/chats_app.rst:83
 msgid "Update the message."
@@ -12374,9 +12795,9 @@ msgid ""
 "message is sent. The available time limit may vary depending on the "
 "application or server configuration."
 msgstr ""
-"Message editing may be available only for a limited period after the message "
-"is sent. The available time limit may vary depending on the application or "
-"server configuration."
+"Message editing may be available only for a limited period after the "
+"message is sent. The available time limit may vary depending on the "
+"application or server configuration."
 
 #: ../../mobile_apps/chats_app.rst:92
 msgid ""
@@ -12395,8 +12816,8 @@ msgid ""
 "The reply is linked to the original message so that participants can "
 "easily understand which message you are responding to."
 msgstr ""
-"The reply is linked to the original message so that participants can easily "
-"understand which message you are responding to."
+"The reply is linked to the original message so that participants can "
+"easily understand which message you are responding to."
 
 #: ../../mobile_apps/chats_app.rst:104
 msgid ""
@@ -12439,10 +12860,10 @@ msgid ""
 "important decisions, instructions, links, or other information that "
 "participants may need to refer to later."
 msgstr ""
-"Message pinning allows you to keep important information easily accessible "
-"within a conversation. You can use pinned messages for important decisions, "
-"instructions, links, or other information that participants may need to "
-"refer to later."
+"Message pinning allows you to keep important information easily "
+"accessible within a conversation. You can use pinned messages for "
+"important decisions, instructions, links, or other information that "
+"participants may need to refer to later."
 
 #: ../../mobile_apps/chats_app.rst:128
 msgid "To pin a message:"
@@ -12471,8 +12892,8 @@ msgid ""
 "pinned message."
 msgstr ""
 "The exact options available may vary by conversation type and your "
-"permissions. You can unpin a message by tapping the pin icon on the pinned "
-"message."
+"permissions. You can unpin a message by tapping the pin icon on the "
+"pinned message."
 
 #: ../../mobile_apps/chats_app.rst:147
 msgid "View Reactions"
@@ -12495,24 +12916,24 @@ msgid ""
 "Review the available emoji reactions and the participants who selected "
 "each one."
 msgstr ""
-"Review the available emoji reactions and the participants who selected each "
-"one."
+"Review the available emoji reactions and the participants who selected "
+"each one."
 
 #: ../../mobile_apps/chats_app.rst:155
 msgid ""
 "To close the reaction details, tap outside the list or use the back "
 "option on your device."
 msgstr ""
-"To close the reaction details, tap outside the list or use the back option "
-"on your device."
+"To close the reaction details, tap outside the list or use the back "
+"option on your device."
 
 #: ../../mobile_apps/chats_app.rst:158
 msgid ""
 "The reactions available and the participants shown may vary depending on "
 "the conversation and your permissions."
 msgstr ""
-"The reactions available and the participants shown may vary depending on the "
-"conversation and your permissions."
+"The reactions available and the participants shown may vary depending on "
+"the conversation and your permissions."
 
 #: ../../mobile_apps/chats_app.rst:161
 msgid "Search Conversations"
@@ -12523,8 +12944,8 @@ msgid ""
 "Instant user search helps you quickly find a specific person and view "
 "their conversations without scrolling through conversation history."
 msgstr ""
-"Instant user search helps you quickly find a specific person and view their "
-"conversations without scrolling through conversation history."
+"Instant user search helps you quickly find a specific person and view "
+"their conversations without scrolling through conversation history."
 
 #: ../../mobile_apps/chats_app.rst:165
 msgid "To search for a user:"
@@ -12551,16 +12972,16 @@ msgid ""
 "Use the user's full name or other specific details when possible to find "
 "the right person more quickly."
 msgstr ""
-"Use the user's full name or other specific details when possible to find the "
-"right person more quickly."
+"Use the user's full name or other specific details when possible to find "
+"the right person more quickly."
 
 #: ../../mobile_apps/chats_app.rst:177
 msgid ""
 "You can mute notifications for an individual chat or group when you do "
 "not want to receive notifications for every new message."
 msgstr ""
-"You can mute notifications for an individual chat or group when you do not "
-"want to receive notifications for every new message."
+"You can mute notifications for an individual chat or group when you do "
+"not want to receive notifications for every new message."
 
 #: ../../mobile_apps/chats_app.rst:179 ../../mobile_apps/chats_app.rst:195
 msgid "Open the chat or group."
@@ -12589,7 +13010,8 @@ msgid ""
 "You can clear the local conversation history when this option is "
 "available."
 msgstr ""
-"You can clear the local conversation history when this option is available."
+"You can clear the local conversation history when this option is "
+"available."
 
 #: ../../mobile_apps/chats_app.rst:196
 msgid "Open **Chat info** or **Group info**."
@@ -12600,8 +13022,8 @@ msgid ""
 "Clearing chat history may affect only the history displayed on your "
 "device and may not delete messages for other participants."
 msgstr ""
-"Clearing chat history may affect only the history displayed on your device "
-"and may not delete messages for other participants."
+"Clearing chat history may affect only the history displayed on your "
+"device and may not delete messages for other participants."
 
 #: ../../mobile_apps/chats_app.rst:206
 msgid ""
@@ -12641,8 +13063,8 @@ msgid ""
 "A group requires at least three participants, including you. The maximum "
 "is 300."
 msgstr ""
-"A group requires at least three participants, including you. The maximum is "
-"300."
+"A group requires at least three participants, including you. The maximum "
+"is 300."
 
 #: ../../mobile_apps/chats_app.rst:221
 msgid ""
@@ -12665,15 +13087,16 @@ msgid ""
 "If supported, you can enable **Show previous conversation history** so "
 "that newly added participants can access earlier messages."
 msgstr ""
-"If available, you can enable **Show previous conversation history** so new "
-"members can see earlier messages."
+"If available, you can enable **Show previous conversation history** so "
+"new members can see earlier messages."
 
 #: ../../mobile_apps/chats_app.rst:234
 msgid ""
 "If you have moderator permissions, you can remove a participant from a "
 "group."
 msgstr ""
-"If you have moderator permissions, you can remove a participant from a group."
+"If you have moderator permissions, you can remove a participant from a "
+"group."
 
 #: ../../mobile_apps/chats_app.rst:238
 msgid "Tap the participant's name."
@@ -12713,9 +13136,9 @@ msgid ""
 "Rooms can be used as persistent spaces where participants can communicate"
 " and join meetings using a shared link."
 msgstr ""
-"Carbonio Chats also provides shared rooms for chat and video meetings. Rooms "
-"can be used as persistent spaces where participants can communicate and join "
-"meetings using a shared link."
+"Carbonio Chats also provides shared rooms for chat and video meetings. "
+"Rooms can be used as persistent spaces where participants can communicate"
+" and join meetings using a shared link."
 
 #: ../../mobile_apps/chats_app.rst:269
 msgid "In the **Meetings** tab, tap the plus icon."
@@ -12861,7 +13284,8 @@ msgid ""
 "Once connected, you can use the available meeting controls during the "
 "call."
 msgstr ""
-"Once connected, you can use the available meeting controls during the call."
+"Once connected, you can use the available meeting controls during the "
+"call."
 
 #: ../../mobile_apps/chats_app.rst:342
 msgid "Enhanced Meeting Moderation"
@@ -12877,16 +13301,17 @@ msgid ""
 msgstr ""
 "Meeting moderators have access to additional controls to help manage "
 "participants and maintain an organized meeting. Depending on the meeting "
-"configuration and your permissions, moderation controls may include managing "
-"participants and controlling how participants interact during the meeting."
+"configuration and your permissions, moderation controls may include "
+"managing participants and controlling how participants interact during "
+"the meeting."
 
 #: ../../mobile_apps/chats_app.rst:348
 msgid ""
 "Available moderation controls can vary depending on your role, meeting "
 "type, and server configuration."
 msgstr ""
-"Available moderation controls can vary depending on your role, meeting type, "
-"and server configuration."
+"Available moderation controls can vary depending on your role, meeting "
+"type, and server configuration."
 
 #: ../../mobile_apps/chats_app.rst:351
 msgid "Picture-in-Picture on Android"
@@ -12949,8 +13374,8 @@ msgstr ""
 "when network conditions fluctuate. When the network connection becomes "
 "temporarily unstable, the application can better handle changes in "
 "connectivity, helping reduce interruptions during meetings. This is "
-"particularly useful when moving between Wi‑Fi and mobile networks or when "
-"working in areas with inconsistent connectivity."
+"particularly useful when moving between Wi‑Fi and mobile networks or when"
+" working in areas with inconsistent connectivity."
 
 #: ../../mobile_apps/chats_app.rst:372
 msgid ""
@@ -12958,9 +13383,9 @@ msgid ""
 "connection. Severe or prolonged connectivity problems may affect audio, "
 "video, or the ability to remain connected."
 msgstr ""
-"The quality of a meeting still depends on the available network connection. "
-"Severe or prolonged connectivity problems may affect audio, video, or the "
-"ability to remain connected."
+"The quality of a meeting still depends on the available network "
+"connection. Severe or prolonged connectivity problems may affect audio, "
+"video, or the ability to remain connected."
 
 #: ../../mobile_apps/chats_app.rst:377
 msgid "If you have the required permissions, you can delete a meeting room."
@@ -12979,8 +13404,8 @@ msgid ""
 "Deleting a room may affect other participants who use the room. Make sure"
 " the room is no longer required before deleting it."
 msgstr ""
-"Deleting a room may affect other participants who use the room. Make sure "
-"the room is no longer required before deleting it."
+"Deleting a room may affect other participants who use the room. Make sure"
+" the room is no longer required before deleting it."
 
 #: ../../mobile_apps/chats_app.rst:388
 msgid "A More Connected Mobile Experience"
@@ -12998,10 +13423,10 @@ msgid ""
 msgstr ""
 "With these capabilities, Carbonio Chats provides more than basic mobile "
 "messaging. You can quickly find important information, keep key messages "
-"accessible, share content from other applications, collaborate in groups, "
-"and participate in meetings with improved flexibility and reliability. The "
-"new React Native‑based architecture provides the foundation for these "
-"capabilities and enables Carbonio Chats to evolve more quickly as new "
+"accessible, share content from other applications, collaborate in groups,"
+" and participate in meetings with improved flexibility and reliability. "
+"The new React Native‑based architecture provides the foundation for these"
+" capabilities and enables Carbonio Chats to evolve more quickly as new "
 "communication and collaboration requirements emerge."
 
 #: ../../mobile_apps/files_app.rst:7
@@ -13595,10 +14020,10 @@ msgid ""
 "applicable limit, the message could return to the **Drafts** folder "
 "without an error, warning, upload status, or retry option."
 msgstr ""
-"The same size limitation can affect e‑mails created in the **Carbonio Mail "
-"Android application**. Previously, when an attachment exceeded the "
-"applicable limit, the message could return to the **Drafts** folder without "
-"an error, warning, upload status, or retry option."
+"The same size limitation can affect e‑mails created in the **Carbonio "
+"Mail Android application**. Previously, when an attachment exceeded the "
+"applicable limit, the message could return to the **Drafts** folder "
+"without an error, warning, upload status, or retry option."
 
 #: ../../mobile_apps/mail_app.rst:174
 msgid ""
@@ -13607,8 +14032,8 @@ msgid ""
 " on the Carbonio server can continue through the normal sending process."
 msgstr ""
 "Size‑limit failures should be communicated clearly rather than silently "
-"returning the message to Drafts. Attachments within the limits configured on "
-"the Carbonio server can continue through the normal sending process."
+"returning the message to Drafts. Attachments within the limits configured"
+" on the Carbonio server can continue through the normal sending process."
 
 #: ../../mobile_apps/mail_app.rst:181
 msgid ""
@@ -13617,10 +14042,10 @@ msgid ""
 "application also accounts for the overhead introduced when the attachment"
 " is encoded for e-mail transmission."
 msgstr ""
-"Suppose a file is approximately **35.98 MB**. Its raw size is not the only "
-"value considered when determining whether it can be attached. The "
-"application also accounts for the overhead introduced when the attachment is "
-"encoded for e‑mail transmission."
+"Suppose a file is approximately **35.98 MB**. Its raw size is not the "
+"only value considered when determining whether it can be attached. The "
+"application also accounts for the overhead introduced when the attachment"
+" is encoded for e‑mail transmission."
 
 #: ../../mobile_apps/mail_app.rst:186
 msgid ""
@@ -13635,16 +14060,16 @@ msgid ""
 "This file is too large to attach. Open a new e-mail and use Add from "
 "Files to share it as a Smart Link instead."
 msgstr ""
-"This file is too large to attach. Open a new e‑mail and use Add from Files "
-"to share it as a Smart Link instead."
+"This file is too large to attach. Open a new e‑mail and use Add from "
+"Files to share it as a Smart Link instead."
 
 #: ../../mobile_apps/mail_app.rst:191
 msgid ""
 "You can acknowledge the warning and share the file using **Add from Files"
 " → Smart Link** rather than attempting to send it as an attachment."
 msgstr ""
-"You can acknowledge the warning and share the file using **Add from Files → "
-"Smart Link** rather than attempting to send it as an attachment."
+"You can acknowledge the warning and share the file using **Add from Files"
+" → Smart Link** rather than attempting to send it as an attachment."
 
 #: ../../mobile_apps/mail_app.rst:198
 msgid ""
@@ -14100,8 +14525,7 @@ msgstr ""
 
 #: ../../search/toc.rst:92
 msgid "The Advanced Search feature currently supports searches in English only."
-msgstr ""
-"The Advanced Search feature currently supports searches in English only."
+msgstr "The Advanced Search feature currently supports searches in English only."
 
 #: ../../search/toc.rst:94
 msgid "**Options:**"
@@ -14236,21 +14660,8 @@ msgid ""
 "**Tag**: Finds messages tagged with a specified tag. Example: tag: "
 "important."
 msgstr ""
-"**Tag**: Finds messages tagged with a specified tag. Example: tag:important."
-
-#: ../../search/toc.rst:115
-msgid ""
-"**Wildcards**: The asterisk (*) after a prefix serves as a wildcard to "
-"find content with words having similar spellings. For instance, \"dog\" "
-"retrieves items with words like \"doggy\", \"doghouse\", etc. Note: "
-"Double-byte asterisk signs in search queries are ignored during the "
-"search."
-msgstr ""
-"**Wildcards**: The asterisk (*) after a prefix serves as a wildcard to "
-"find content with words having similar spellings. For instance, \"dog\" "
-"retrieves items with words like \"doggy\", \"doghouse\", etc. Note: "
-"Double-byte asterisk signs in search queries are ignored during the "
-"search."
+"**Tag**: Finds messages tagged with a specified tag. Example: "
+"tag:important."
 
 #: ../../tasks/toc.rst:7
 msgid "Working with Tasks"
@@ -14720,10 +15131,10 @@ msgid ""
 "the arrow icon in the camera button, and then choose the option Apply "
 "Background Image. You can choose one from the available options."
 msgstr ""
-"You also have the chance to choose a specific background image. Click on the "
-"arrow icon in the camera button, and then choose the option Apply Background "
-"Image. You can upload your own image or choose one from the available "
-"options."
+"You also have the chance to choose a specific background image. Click on "
+"the arrow icon in the camera button, and then choose the option Apply "
+"Background Image. You can upload your own image or choose one from the "
+"available options."
 
 #: ../../videomeeting/toc.rst:139
 msgid "Recording a Video Meeting"
@@ -17172,3 +17583,23 @@ msgstr "Click the crown icon next to the participant’s name."
 
 #~ msgid "**Sent on**: Search for emails sent exactly on the specified date."
 #~ msgstr "**Sent on**: Search for emails sent exactly on the specified date."
+
+#~ msgid ""
+#~ "**Wildcards**: The asterisk (*) after a"
+#~ " prefix serves as a wildcard to "
+#~ "find content with words having similar"
+#~ " spellings. For instance, \"dog\" retrieves"
+#~ " items with words like \"doggy\", "
+#~ "\"doghouse\", etc. Note: Double-byte "
+#~ "asterisk signs in search queries are "
+#~ "ignored during the search."
+#~ msgstr ""
+#~ "**Wildcards**: The asterisk (*) after a"
+#~ " prefix serves as a wildcard to "
+#~ "find content with words having similar"
+#~ " spellings. For instance, \"dog\" retrieves"
+#~ " items with words like \"doggy\", "
+#~ "\"doghouse\", etc. Note: Double-byte "
+#~ "asterisk signs in search queries are "
+#~ "ignored during the search."
+

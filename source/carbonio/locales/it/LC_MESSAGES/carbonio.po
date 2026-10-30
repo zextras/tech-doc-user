@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-30 16:02+0100\n"
-"PO-Revision-Date: 2026-10-24 13:52+0000\n"
-"Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
+"PO-Revision-Date: 2026-10-30 15:17+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <https://translate.zextras.tools/projects/"
+"documentation/carbonio-user-guide/it/>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://translate.zextras.tools/projects/documentation/carbonio-user-"
-"guide/it/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -7721,7 +7721,6 @@ msgid "Syntax"
 msgstr ""
 
 #: ../../chat/toc.rst:291
-#, fuzzy
 msgid "**Bold**"
 msgstr "Entrambe"
 
@@ -7734,7 +7733,6 @@ msgid "``**text**`` — ``__text__``"
 msgstr ""
 
 #: ../../chat/toc.rst:294
-#, fuzzy
 msgid "**Italic**"
 msgstr "*🇮🇹 Italiano*"
 
@@ -7783,7 +7781,6 @@ msgid "``[label](url)``"
 msgstr ""
 
 #: ../../chat/toc.rst:311
-#, fuzzy
 msgid "**Autolinks**"
 msgstr "**Opzioni:**"
 
@@ -7792,7 +7789,6 @@ msgid "Automatically converts recognised URLs into clickable links"
 msgstr ""
 
 #: ../../chat/toc.rst:313
-#, fuzzy
 msgid "``<https://example.com>``"
 msgstr "`johnn@example.com`"
 
@@ -7805,12 +7801,10 @@ msgid "Automatically converts email addresses into clickable mailto links"
 msgstr ""
 
 #: ../../chat/toc.rst:316
-#, fuzzy
 msgid "``name@example.com``"
 msgstr "`johnn@example.com`"
 
 #: ../../chat/toc.rst:317
-#, fuzzy
 msgid "**Blockquotes**"
 msgstr "Entrambe"
 
@@ -7835,7 +7829,6 @@ msgid "``*   item`` — ``* item``"
 msgstr ""
 
 #: ../../chat/toc.rst:323
-#, fuzzy
 msgid "**Numbered lists**"
 msgstr "Può modificare"
 
@@ -7867,7 +7860,6 @@ msgid ""
 msgstr ""
 
 #: ../../chat/toc.rst:346
-#, fuzzy
 msgid "View and Manage Shared Chat Files"
 msgstr "Per trovare e aggiungere i calendari condivisi dei tuoi colleghi:"
 
@@ -7897,7 +7889,6 @@ msgid "Open **Chats** and select the conversation containing the shared files."
 msgstr ""
 
 #: ../../chat/toc.rst:357
-#, fuzzy
 msgid "Open the **Media Gallery**."
 msgstr "Apri la cartella **Archivio**."
 
@@ -7945,17 +7936,14 @@ msgid ""
 msgstr ""
 
 #: ../../chat/toc.rst:381
-#, fuzzy
 msgid "Open the relevant tab."
 msgstr "Apri la chat."
 
 #: ../../chat/toc.rst:382
-#, fuzzy
 msgid "Select the files you want to manage."
 msgstr "Seleziona il filtro che desideri applicare dall'elenco."
 
 #: ../../chat/toc.rst:383
-#, fuzzy
 msgid "Choose the required action:"
 msgstr "Scegli la configurazione di condivisione."
 
@@ -7968,12 +7956,10 @@ msgid "**Forward**: Forward the selected files."
 msgstr ""
 
 #: ../../chat/toc.rst:387
-#, fuzzy
 msgid "**Delete**: Delete the selected files."
 msgstr "**È contenuto in**: Limita la ricerca alle cartelle selezionate."
 
 #: ../../chat/toc.rst:391
-#, fuzzy
 msgid "Forward"
 msgstr "Formato"
 
@@ -7988,19 +7974,16 @@ msgid "Select the checkbox next to the target Chat."
 msgstr ""
 
 #: ../../chat/toc.rst:395
-#, fuzzy
 msgid "Click **FORWARD** to send the selected files to the chosen Chat."
 msgstr ""
 "Fai clic su **INOLTRA** per inviare l'appuntamento all'indirizzo email "
 "specificato."
 
 #: ../../chat/toc.rst:399
-#, fuzzy
 msgid "Delete Files"
 msgstr "Seleziona il file."
 
 #: ../../chat/toc.rst:401
-#, fuzzy
 msgid "Select the files you want to delete and click **Delete**."
 msgstr "Seleziona il filtro che desideri eliminare dall'elenco."
 
@@ -8034,13 +8017,12 @@ msgid ""
 msgstr ""
 
 #: ../../chat/toc.rst:419
-#, fuzzy
 msgid ""
 "The available actions and their effects may depend on the file type and "
 "your permissions in the conversation."
 msgstr ""
-"Le reazioni disponibili e i partecipanti mostrati possono variare in base"
-" alla conversazione e ai tuoi permessi."
+"Le reazioni disponibili e i partecipanti mostrati possono variare in base "
+"alla conversazione e ai tuoi permessi."
 
 #: ../../composing_emails/toc.rst:7
 msgid "Composing Emails"
@@ -12562,7 +12544,6 @@ msgid "Mobile Apps"
 msgstr "App Mobile"
 
 #: ../../mobile_apps/app_authentication.rst:3
-#, fuzzy
 msgid "Carbonio App Authentication"
 msgstr "Applicazioni Mobile Carbonio"
 
@@ -12577,7 +12558,6 @@ msgid "Generate Authentication Credentials"
 msgstr ""
 
 #: ../../mobile_apps/app_authentication.rst:11
-#, fuzzy
 msgid "Sign in to **Carbonio webmail**."
 msgstr "Componi un nuovo messaggio di posta in Carbonio webmail."
 
@@ -12586,19 +12566,16 @@ msgid "Go to **Settings > AUTH > Mobile Apps**."
 msgstr ""
 
 #: ../../mobile_apps/app_authentication.rst:19
-#, fuzzy
 msgid "Click **NEW AUTHENTICATION +**."
 msgstr "Accesso senza autenticazione"
 
 #: ../../mobile_apps/app_authentication.rst:20
-#, fuzzy
 msgid "Enter a description for the authentication credential to identify it."
 msgstr ""
-"Se lo desideri, inserisci una descrizione per il collegamento e una data "
-"di scadenza."
+"Se lo desideri, inserisci una descrizione per il collegamento e una data di "
+"scadenza."
 
 #: ../../mobile_apps/app_authentication.rst:21
-#, fuzzy
 msgid "Click **CREATE PASSWORD**. A QR code is generated."
 msgstr "Fai clic su **Crea**."
 
@@ -12611,7 +12588,6 @@ msgid ""
 msgstr ""
 
 #: ../../mobile_apps/app_authentication.rst:29
-#, fuzzy
 msgid "Click **DONE** to complete the process."
 msgstr "Fai clic su **MODIFICA** per confermare la modifica."
 
@@ -18633,4 +18609,3 @@ msgstr "Fare clic sull'icona della corona accanto al nome del partecipante."
 #~ "\"canile\" e così via. Nota: il "
 #~ "doppi asterischi vengono ignorati durante "
 #~ "la ricerca."
-

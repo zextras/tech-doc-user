@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Zextras Carbonio 24.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-30 16:02+0100\n"
-"PO-Revision-Date: 2026-10-30 16:35+0000\n"
+"PO-Revision-Date: 2026-10-30 16:43+0000\n"
 "Last-Translator: Fabio Francescone <fabio.francescone@zextras.com>\n"
 "Language-Team: Italian <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/it/>\n"
@@ -1983,18 +1983,21 @@ msgid "Account, Persona, and Signature Relationship"
 msgstr "Personalizzazione dell'Account"
 
 #: ../../advanced_email_management/toc.rst:638
+#, fuzzy
 msgid ""
 "In this setup, Mary is the delegated user, hr@example.com is the shared "
 "mailbox, the **HR Mailbox** persona represents that sender identity, and "
 "the **HR signature** is applied to messages sent through the persona."
 msgstr ""
-"In this setup, Mary is the delegated user, hr@example.com is the shared "
-"mailbox, the **HR Mailbox** persona represents that sender identity, and "
-"the **HR signature** is applied to messages sent through the persona."
+"Con questa impostazione, Mary è l’utente delegato, hr@example.com è la "
+"shared mailbox, la persona **HR Mailbox** corrisponde all’identità del "
+"mittente e la **HR signature** si applica ai messaggi inviati tramite la "
+"persona."
 
 #: ../../advanced_email_management/toc.rst:642
+#, fuzzy
 msgid "Configure a Shared Mailbox Persona and Signature"
-msgstr "Configure a Shared Mailbox Persona and Signature"
+msgstr "Configura Persona e Firma della Mailbox Condivisa"
 
 #: ../../advanced_email_management/toc.rst:644
 msgid ""
@@ -2003,10 +2006,10 @@ msgid ""
 "with a specific email account, making it easier to switch between roles "
 "when composing and sending messages."
 msgstr ""
-"The Persona feature allows you to create different professional "
-"identities or roles for sending emails. Each persona can be associated "
-"with a specific email account, making it easier to switch between roles "
-"when composing and sending messages."
+"La funzione Persona consente di creare diverse identità professionali o "
+"ruoli per l’invio di email. Ogni persona può essere associata a un account "
+"email specifico, facilitando lo scambio di ruolo durante la composizione e "
+"l’invio dei messaggi."
 
 #: ../../advanced_email_management/toc.rst:648
 msgid "1. Create a Persona for the Shared Mailbox"
@@ -2033,8 +2036,9 @@ msgid "In the **Accounts list**, click **Add Persona**."
 msgstr "Nella sezione Lista degli account, fare clic su **AGGIUNGI PERSONALITÀ**."
 
 #: ../../advanced_email_management/toc.rst:654
+#, fuzzy
 msgid "Configure the persona with the following details:"
-msgstr "Configure the persona with the following details:"
+msgstr "Configura la persona con i seguenti dettagli:"
 
 #: ../../advanced_email_management/toc.rst:656
 msgid "**Persona Name**: A descriptive name (example, HR Mailbox)."

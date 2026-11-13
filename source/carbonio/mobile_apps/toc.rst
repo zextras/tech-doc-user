@@ -12,7 +12,7 @@ You can download them from the official stores using the links below.
 
 - .. raw:: html
 
-     <a href="https://play.google.com/store/apps/details?id=com.zextras.chats" target="_blank">Carbonio Mail</a>
+     <a href="https://play.google.com/store/apps/details?id=com.zextras.iris" target="_blank">Carbonio Mail</a>
 
 - .. raw:: html
 
@@ -20,7 +20,7 @@ You can download them from the official stores using the links below.
 
 - .. raw:: html
 
-     <a href="https://play.google.com/store/apps/details?id=com.zextras.iris" target="_blank">Carbonio Files</a>
+     <a href="https://play.google.com/store/apps/details?id=com.zextras.files" target="_blank">Carbonio Files</a>
 
 - .. raw:: html
 

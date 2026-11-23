@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-10-30 16:02+0100\n"
-"PO-Revision-Date: 2026-10-30 15:17+0000\n"
+"PO-Revision-Date: 2026-11-24 12:17+0000\n"
 "Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
 "Language-Team: French <https://translate.zextras.tools/projects/"
 "documentation/carbonio-user-guide/fr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 2026.11.1\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: ../../advanced_email_management/toc.rst:7
@@ -511,7 +511,7 @@ msgstr ""
 #: ../../advanced_email_management/toc.rst:172
 #: ../../advanced_email_management/toc.rst:336
 msgid "Example:"
-msgstr ""
+msgstr "Exemple :"
 
 #: ../../advanced_email_management/toc.rst:158
 msgid ""
@@ -1128,16 +1128,20 @@ msgid ""
 "Let's implement a filter to automatically move incoming emails containing"
 " the keywords 'Drug' and 'Violence' into the Trash folder."
 msgstr ""
+"Implémentons un filtre pour déplacer automatiquement les courriels entrants "
+"contenant les mots-clés 'Drug' et 'Violence' vers le dossier Corbeille."
 
 #: ../../advanced_email_management/toc.rst:342
 msgid "Under Filters, choose **Incoming Message Filters**."
-msgstr ""
+msgstr "Dans Filtres, choisissez **Incoming Message Filters**."
 
 #: ../../advanced_email_management/toc.rst:344
 msgid ""
 "Insert a name for your filter in the **Filter Name** field (e.g., drug "
 "junk mail)"
 msgstr ""
+"Saisissez un nom pour votre filtre dans le champ **Nom du filtre** (p. ex., "
+"spam de drogues)"
 
 #: ../../advanced_email_management/toc.rst:346
 msgid ""
@@ -1145,6 +1149,10 @@ msgid ""
 "condition, meaning if either 'Drug' or 'Violence' is found in the email, "
 "it will be moved to the junk folder."
 msgstr ""
+"Dans la section **Conditions**, sélectionnez **Toute**. Nous l’avons "
+"configurée pour correspondre à n’importe quelle condition, ce qui signifie "
+"que si 'Drug' ou 'Violence' est trouvé dans l’e‑mail, il sera déplacé vers "
+"le dossier indésirable."
 
 #: ../../advanced_email_management/toc.rst:347
 msgid ""
@@ -1153,10 +1161,14 @@ msgid ""
 "that any email containing the word 'Violence' in its body should trigger "
 "the filter."
 msgstr ""
+"Dans le premier champ, choisissez **Body**, dans le deuxième champ, "
+"choisissez **Contains**, et enfin dans le troisième champ, saisissez "
+"*Violence* pour indiquer que tout courriel contenant le mot 'Violence' dans "
+"son corps doit déclencher le filtre."
 
 #: ../../advanced_email_management/toc.rst:348
 msgid "Click on the **+** button to add another condition."
-msgstr ""
+msgstr "Cliquez sur le bouton **+** pour ajouter une autre condition."
 
 #: ../../advanced_email_management/toc.rst:349
 msgid ""
@@ -1165,26 +1177,30 @@ msgid ""
 " any email containing the word 'Drug' in its body should trigger the "
 "filter."
 msgstr ""
+"Dans le premier champ, choisissez **Body**, dans le deuxième champ, "
+"choisissez **Contains**, et enfin dans le troisième champ, saisissez *Drug* "
+"pour indiquer que tout courriel contenant le mot 'Drug' dans son corps doit "
+"déclencher le filtre."
 
 #: ../../advanced_email_management/toc.rst:350
 msgid "Under the **Actions** section, choose **Move Into Folder**."
-msgstr ""
+msgstr "Dans la section **Actions**, choisissez **Move Into Folder**."
 
 #: ../../advanced_email_management/toc.rst:351
 msgid "Click **BROWSE**, and a new window appears."
-msgstr ""
+msgstr "Cliquez sur **BROWSE**, et une nouvelle fenêtre apparaît."
 
 #: ../../advanced_email_management/toc.rst:352
 msgid "Select your Trash folder and click **CHOOSE**."
-msgstr ""
+msgstr "Sélectionnez votre dossier Corbeille et cliquez sur **CHOOSE**."
 
 #: ../../advanced_email_management/toc.rst:354
 msgid "Click CREATE."
-msgstr ""
+msgstr "Cliquez sur CREATE."
 
 #: ../../advanced_email_management/toc.rst:361
 msgid "Activating/Deactivating a Filter"
-msgstr ""
+msgstr "Activation/Désactivation d'un filtre"
 
 #: ../../advanced_email_management/toc.rst:363
 msgid ""
@@ -1192,6 +1208,9 @@ msgid ""
 " checkbox. If selected, your filter will be placed in the Active Filters "
 "section; otherwise, it will be listed under **Available Filters**."
 msgstr ""
+"Lors de la création d’un filtre, vous pouvez cocher la case **Active "
+"filter**. Si elle est sélectionnée, votre filtre sera placé dans la section "
+"Active Filters ; sinon, il apparaîtra sous **Available Filters**."
 
 #: ../../advanced_email_management/toc.rst:365
 msgid ""
@@ -1200,6 +1219,11 @@ msgid ""
 "are inactive but can be retained for future use. You have the flexibility"
 " to move them into the Active Filters section whenever needed."
 msgstr ""
+"Les filtres actifs sont opérationnels et seront appliqués aux courriels "
+"automatiquement. En revanche, les filtres conservés dans la section "
+"Available Filters sont inactifs mais peuvent être conservés pour une "
+"utilisation future. Vous pouvez les déplacer dans la section Active Filters "
+"à tout moment."
 
 #: ../../advanced_email_management/toc.rst:367
 msgid ""
@@ -1208,6 +1232,10 @@ msgid ""
 "button. This action will transfer the filter to the Available Filters "
 "section, where it will remain inactive until reactivated."
 msgstr ""
+"Pour déplacer un filtre des Active Filters vers les Available Filters, "
+"sélectionnez simplement le filtre à désactiver et cliquez sur le bouton "
+"**REMOVE**. Cette action transférera le filtre dans la section Available "
+"Filters, où il restera inactif jusqu’à sa réactivation."
 
 #: ../../advanced_email_management/toc.rst:368
 msgid ""
@@ -1216,10 +1244,14 @@ msgid ""
 "This action will transfer the filter to the Available Filters section, "
 "where it will remain active until deactivated."
 msgstr ""
+"Pour déplacer un filtre des Available Filters vers les Active Filters, "
+"sélectionnez simplement le filtre à activer et cliquez sur le bouton "
+"**ADD**. Cette action transférera le filtre dans la section Available "
+"Filters, où il restera actif jusqu’à sa désactivation."
 
 #: ../../advanced_email_management/toc.rst:371
 msgid "Applying a Filter to Existing Emails"
-msgstr ""
+msgstr "Appliquer un filtre aux courriels existants"
 
 #: ../../advanced_email_management/toc.rst:373
 msgid ""
@@ -1228,12 +1260,19 @@ msgid ""
 "instance, you can create a filter to move all emails containing the word "
 "'Violence' into the junk folder to tidy up your inbox."
 msgstr ""
+"Les filtres actifs sont appliqués automatiquement aux nouveaux courriels, "
+"tandis que la gestion des courriels existants peut nécessiter une "
+"application manuelle d’un filtre. Par exemple, vous pouvez créer un filtre "
+"pour déplacer tous les courriels contenant le mot 'Violence' vers le dossier "
+"indésirables afin de nettoyer votre boîte de réception."
 
 #: ../../advanced_email_management/toc.rst:375
 msgid ""
 "This manual application allows you to organize existing emails according "
 "to your preferences."
 msgstr ""
+"Cette application manuelle vous permet d’organiser les courriels existants "
+"selon vos préférences."
 
 #: ../../advanced_email_management/toc.rst:377
 msgid "To apply a filter to existing emails, follow these steps:"
@@ -14695,7 +14734,7 @@ msgstr ""
 
 #: ../../search/toc.rst:26 ../../search/toc.rst:42
 msgid "To do so:"
-msgstr ""
+msgstr "Pour ce faire :"
 
 #: ../../search/toc.rst:28
 msgid ""
@@ -14704,54 +14743,71 @@ msgid ""
 "box changes based on which feature is active. For example, in Mails, the "
 "term is Search in Mails."
 msgstr ""
+"Sélectionnez Mails, Calendars, Contacts ou Files dans la barre latérale "
+"gauche, selon l’élément que vous souhaitez rechercher. Le texte de la zone "
+"de recherche change en fonction de la fonctionnalité active. Par exemple, "
+"dans Mails, le terme est « Search in Mails »."
 
 #: ../../search/toc.rst:29
 msgid ""
 "Enter a keyword in the search box, such as a term used in an email "
 "subject or body that you are searching for."
 msgstr ""
+"Saisissez un mot‑clé dans la zone de recherche, comme un terme présent dans "
+"l’objet ou le corps d’un e‑mail que vous recherchez."
 
 #: ../../search/toc.rst:30
 msgid "Click the button next to the search box with the magnifying glass icon."
 msgstr ""
+"Cliquez sur le bouton à côté de la zone de recherche, affichant l’icône de "
+"loupe."
 
 #: ../../search/toc.rst:31
 msgid ""
 "Your search results will appear on the left side of a list, beside the "
 "total number of items loaded."
 msgstr ""
+"Vos résultats de recherche apparaîtront sur le côté gauche d’une liste, à "
+"côté du nombre total d’éléments chargés."
 
 #: ../../search/toc.rst:34
 msgid "Using Advanced Search to Filter Your Search"
-msgstr ""
+msgstr "Utilisation de la recherche avancée pour filtrer votre recherche"
 
 #: ../../search/toc.rst:36
 msgid ""
 "This is performed using the search feature you can select from the left "
 "sidebar."
 msgstr ""
+"Cela se fait à l’aide de la fonction de recherche que vous pouvez "
+"sélectionner dans la barre latérale gauche."
 
 #: ../../search/toc.rst:44
 msgid "Select the **Search feature** from your left sidebar."
 msgstr ""
+"Sélectionnez la **Fonction Recherche** dans votre barre latérale gauche."
 
 #: ../../search/toc.rst:45
 msgid ""
 "Select the search category (i.e., Mails, Calendars, Contacts, Files) from"
 " the drop-down menu next to the **NEW** button."
 msgstr ""
+"Sélectionnez la catégorie de recherche (c’est‑à‑dire Mails, Calendars, "
+"Contacts, Files) dans le menu déroulant à côté du bouton **NOUVEAU**."
 
 #: ../../search/toc.rst:46
 msgid "Click on **ADVANCED FILTERS** on the left side. A new window appears."
 msgstr ""
+"Cliquez sur **FILTRES AVANCÉS** à gauche. Une nouvelle fenêtre apparaît."
 
 #: ../../search/toc.rst:47
 msgid "Select different filters to refine your search results."
 msgstr ""
+"Sélectionnez différents filtres pour affiner vos résultats de recherche."
 
 #: ../../search/toc.rst:48
 msgid "Click the **SEARCH** button."
-msgstr ""
+msgstr "Cliquez sur le bouton **RECHERCHE**."
 
 #: ../../search/toc.rst:50
 msgid ""
@@ -14759,34 +14815,41 @@ msgid ""
 "select in step 2. For instance, in the Mails category, the filters "
 "include:"
 msgstr ""
+"Les filtres pour affiner les résultats de recherche varient selon la "
+"catégorie que vous sélectionnez à l’étape 2. Par exemple, dans la catégorie "
+"Mails, les filtres comprennent :"
 
 #: ../../search/toc.rst:52
 msgid "**Attachment**: Search in emails that have an attachment."
-msgstr ""
+msgstr "**Pièce jointe** : Recherchez les e‑mails contenant une pièce jointe."
 
 #: ../../search/toc.rst:53
 msgid "**Flagged**: Search in flagged emails."
-msgstr ""
+msgstr "**Signalés** : Recherchez les e‑mails signalés."
 
 #: ../../search/toc.rst:54
 msgid "**Unread**: Search in unread email items."
-msgstr ""
+msgstr "**Non lus** : Recherchez les e‑mails non lus."
 
 #: ../../search/toc.rst:55
 msgid "**Include shared folders**: Include shared items in the search."
 msgstr ""
+"**Inclure les dossiers partagés** : Incluez les éléments partagés dans la "
+"recherche."
 
 #: ../../search/toc.rst:56
 msgid "**Keyword**: Search for specific terms used in the email body."
 msgstr ""
+"**Mot‑clé** : Recherchez des termes spécifiques utilisés dans le corps de l’e"
+"‑mail."
 
 #: ../../search/toc.rst:57
 msgid "**Subject**: Search in email subjects."
-msgstr ""
+msgstr "**Objet** : Recherchez dans les objets des e‑mails."
 
 #: ../../search/toc.rst:58
 msgid "**From**: Search for emails received from a specific email address."
-msgstr ""
+msgstr "**De** : Recherchez les e‑mails reçus d’une adresse e‑mail spécifique."
 
 #: ../../search/toc.rst:59
 msgid "**To**: Search for emails sent to a specific email address."
